@@ -1459,6 +1459,27 @@ p.lede {
   border-radius: 999px;
   font-family: 'Inter', sans-serif;
   font-size: 12px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  min-height: 32px;
+}
+
+.composition-chip:hover {
+  border-color: var(--ink);
+  color: var(--ink);
+}
+
+.composition-chip.active {
+  background: var(--ink);
+  border-color: var(--ink);
+}
+
+.composition-chip.active .composition-chip-label {
+  color: var(--paper);
+}
+
+.composition-chip.active .composition-chip-value {
+  color: var(--accent-soft);
 }
 
 .composition-chip-label {
@@ -1470,6 +1491,10 @@ p.lede {
   font-family: 'JetBrains Mono', monospace;
   font-weight: 700;
   color: var(--accent);
+}
+
+@media (max-width: 600px) {
+  .composition-chip { min-height: 40px; }
 }
 
 .pick-price-cell {
@@ -1968,6 +1993,8 @@ const state = {
   expandedSectors: new Set(),
   expandedPicks: new Set(),
   starred: new Set(),
+  picksFilterHorizon: null,
+  picksFilterSector: null,
 };
 
 try {
@@ -2534,12 +2561,30 @@ function renderPicks() {
 
   const horizonChips = Object.entries(horizonCounts)
     .filter(([_, n]) => n > 0)
-    .map(([label, n]) => `<span class="composition-chip"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></span>`)
+    .map(([label, n]) => {
+      const active = state.picksFilterHorizon === label;
+      return `<button class="composition-chip ${active ? 'active' : ''}" data-pick-filter-horizon="${escapeHtml(label)}"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></button>`;
+    })
     .join('');
   const sectorChips = Object.entries(sectorCounts)
     .sort((a, b) => b[1] - a[1])
-    .map(([label, n]) => `<span class="composition-chip"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></span>`)
+    .map(([label, n]) => {
+      const active = state.picksFilterSector === label;
+      return `<button class="composition-chip ${active ? 'active' : ''}" data-pick-filter-sector="${escapeHtml(label)}"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></button>`;
+    })
     .join('');
+
+  const applyPicksFilters = (list) => list.filter(p => {
+    if (state.picksFilterHorizon && (p.horizon_label || 'Unknown') !== state.picksFilterHorizon) return false;
+    if (state.picksFilterSector && (p.sector || 'Unclassified') !== state.picksFilterSector) return false;
+    return true;
+  });
+  const filteredOpen = applyPicksFilters(open);
+  const filteredClosed = applyPicksFilters(closed);
+  const hasFilter = !!(state.picksFilterHorizon || state.picksFilterSector);
+  const filterStatus = hasFilter
+    ? `<div style="font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin: 12px 0; font-weight: 600;">Filtered${state.picksFilterHorizon ? ' · ' + escapeHtml(state.picksFilterHorizon) : ''}${state.picksFilterSector ? ' · ' + escapeHtml(state.picksFilterSector) : ''} · <button class="filter-pill" data-pick-filter-clear="1" style="display: inline; padding: 0; border: none; color: var(--accent); text-decoration: underline; cursor: pointer; font: inherit; letter-spacing: inherit;">clear</button></div>`
+    : '';
 
   const composition = `
     <div class="composition-bar">
@@ -2554,8 +2599,9 @@ function renderPicks() {
     <div class="data-timestamp">Generated ${fmtTimestamp(data.generated_at)}</div>
     ${composition}
     <p style="font-family: 'Fraunces', serif; font-style: italic; color: var(--ink-muted); font-size: 14px; margin-bottom: 24px;">Each pick comes with thesis, falsification criteria, target, stop, and a horizon. Open picks auto-close when conditions are met.</p>
-    ${open.length ? `<div class="movers-block-title">Active picks</div>${open.map(renderPickCard).join('')}` : ''}
-    ${closed.length ? `<div class="movers-block-title" style="margin-top: 36px;">Closed picks</div>${closed.map(renderPickCard).join('')}` : ''}
+    ${filterStatus}
+    ${filteredOpen.length ? `<div class="movers-block-title">Active picks</div>${filteredOpen.map(renderPickCard).join('')}` : (hasFilter && open.length ? `<p style="color: var(--ink-muted); font-style: italic;">No active picks match this filter.</p>` : '')}
+    ${filteredClosed.length ? `<div class="movers-block-title" style="margin-top: 36px;">Closed picks</div>${filteredClosed.map(renderPickCard).join('')}` : ''}
     ${!open.length && !closed.length ? `<p style="color: var(--ink-muted); font-style: italic;">No picks logged. Add entries to <code>picks.json</code> and rerun the pipeline.</p>` : ''}
   `;
 }
@@ -2869,6 +2915,33 @@ document.addEventListener('click', e => {
     const id = pickExpandBtn.dataset.expandPick;
     if (state.expandedPicks.has(id)) state.expandedPicks.delete(id);
     else state.expandedPicks.add(id);
+    render();
+    return;
+  }
+  const horizonChip = e.target.closest('[data-pick-filter-horizon]');
+  if (horizonChip) {
+    e.preventDefault();
+    e.stopPropagation();
+    const val = horizonChip.dataset.pickFilterHorizon;
+    state.picksFilterHorizon = state.picksFilterHorizon === val ? null : val;
+    render();
+    return;
+  }
+  const sectorChip = e.target.closest('[data-pick-filter-sector]');
+  if (sectorChip) {
+    e.preventDefault();
+    e.stopPropagation();
+    const val = sectorChip.dataset.pickFilterSector;
+    state.picksFilterSector = state.picksFilterSector === val ? null : val;
+    render();
+    return;
+  }
+  const clearPickFilter = e.target.closest('[data-pick-filter-clear]');
+  if (clearPickFilter) {
+    e.preventDefault();
+    e.stopPropagation();
+    state.picksFilterHorizon = null;
+    state.picksFilterSector = null;
     render();
     return;
   }
