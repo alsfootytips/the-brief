@@ -1153,6 +1153,123 @@ def should_generate_picks(picks_data: dict) -> bool:
     return True
 
 
+THEME_SCAN_SYSTEM_PROMPT = """You are doing a theme scan for "The Brief"'s AI Experiment picks track. Read the week's market data and identify 3-5 underappreciated investing themes.
+
+For each theme:
+- name: 2-5 words describing it (e.g., "Small-cap rotation accelerating", "AI infrastructure cracking")
+- summary: 1-2 sentences. What's driving this theme right now? Reference specific data points.
+- developers: ticker symbols of "obvious" beneficiaries that may already have it priced in
+- candidates: 2-3 ticker symbols of less-obvious second-derivative beneficiaries that might still be mispriced. MUST be from the data dump provided. If a name isn't in the data, you can't pick it.
+
+Be selective. If only 2 genuine themes stand out, return 2. Never pad.
+
+OUTPUT strict JSON only, no markdown fence, no commentary:
+{
+  "themes": [
+    {
+      "name": "...",
+      "summary": "...",
+      "developers": ["TICKER"],
+      "candidates": ["TICKER", "TICKER"]
+    }
+  ]
+}
+"""
+
+
+CRITIQUE_SYSTEM_PROMPT = """You are stress-testing pick candidates for "The Brief". You will receive a list of candidate tickers from the previous theme-scan step, plus the underlying data.
+
+For EACH candidate, write the strongest possible bear case in 2-3 sentences. Use the fundamentals data — high P/E, weak margins, slowing growth, insider selling are all valid bear points. Reference specific numbers.
+
+Then assess two things:
+- falsifiable: TRUE if the bull thesis can be tested by specific, measurable, public criteria within 12 weeks. FALSE if the thesis requires multi-year structural shifts that can't be cleanly tested.
+- conviction: integer 1-5. 1 = bear case overwhelms bull case. 5 = bull case is concrete and well-supported, bear case is real but secondary.
+
+Be honest — most candidates should score 2-3. Reserve 4-5 for setups where the data genuinely supports the thesis.
+
+OUTPUT strict JSON, no markdown fence:
+{
+  "critiques": [
+    {
+      "ticker": "TICKER",
+      "bear_case": "...",
+      "falsifiable": true,
+      "conviction": 3
+    }
+  ]
+}
+"""
+
+
+FINAL_SELECTION_SYSTEM_PROMPT = """Final pick selection for "The Brief"'s AI Experiment track. You will receive: themes from step 1, critiques from step 2 (with bear cases + conviction scores), and the full data dump.
+
+Select the 3-5 highest-conviction picks. Apply these filters first:
+- Drop any candidate with conviction <= 2.
+- Drop any candidate where falsifiable = false.
+- Drop any candidate already in the active picks list.
+- Prefer diversity: vary sector, horizon type, and thesis style across picks.
+- Be conservative on count. If only 2 candidates clear the bar, return 2. Never pad.
+
+For each surviving pick, produce all fields (this is the actual pick record that gets logged):
+
+- ticker: from candidates, uppercase
+- sector: One of Technology, Healthcare, Energy, Financials, Industrials, Consumer, Materials, Utilities, Real Estate, Communication, Macro / ETF
+- thesis: 1-2 sentence plain-text summary
+- rationale: 2-4 paragraph HTML expansion with <p> tags, <strong> for emphasis, <span class="confidence confidence-fact">Fact</span> / Interp / Spec tags on every claim, <span class="ticker" data-ticker="SYM">SYM</span> wraps for every ticker. Include the strongest data point you saw. Reference the bear case from step 2 and explain why the bull thesis wins.
+- horizon_weeks: integer 1-12. Match thesis type: event-driven 1-3, cyclical 4-7, structural 8-12.
+- horizon_reason: 1-2 sentence HTML explanation of WHY this horizon
+- target_pct: 8-20% typical. NEVER > 30%.
+- stop_pct: negative, typically -8 to -15%.
+- falsification: 1-2 sentences. Specific. Measurable. Plain text.
+
+NEVER use: "buy", "must own", "rocket", "soaring", "explode", "skyrocket", "guaranteed".
+
+OUTPUT strict JSON, no markdown fence:
+{
+  "picks": [
+    {
+      "ticker": "...",
+      "sector": "...",
+      "thesis": "...",
+      "rationale": "...",
+      "horizon_weeks": 4,
+      "horizon_reason": "...",
+      "target_pct": 15,
+      "stop_pct": -10,
+      "falsification": "..."
+    }
+  ]
+}
+"""
+
+
+def _claude_json_call(system: str, user: str, max_tokens: int = 2500, label: str = '') -> dict | None:
+    key = os.getenv('ANTHROPIC_API_KEY')
+    if not key or not Anthropic:
+        return None
+    try:
+        client = Anthropic(api_key=key)
+        resp = client.messages.create(
+            model="claude-sonnet-4-5",
+            max_tokens=max_tokens,
+            system=system,
+            messages=[{"role": "user", "content": user}],
+        )
+    except Exception as e:
+        print(f"  Claude {label} call failed: {e}")
+        return None
+    text = ''.join(b.text for b in resp.content if hasattr(b, 'text')).strip()
+    if text.startswith('```'):
+        text = re.sub(r'^```(?:json)?\s*', '', text)
+        text = re.sub(r'\s*```$', '', text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"  Claude {label} JSON parse failed: {e}")
+        print(f"  Raw: {text[:300]}")
+        return None
+
+
 def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[dict],
                           earnings: list[dict], watchlist: dict, picks_data: dict,
                           fundamentals: dict | None = None) -> list[dict]:
@@ -1161,35 +1278,50 @@ def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[di
         print("  ANTHROPIC_API_KEY not set (or anthropic SDK missing), skipping picks generation")
         return []
 
-    user_prompt = build_picks_user_prompt(movers, news, filings, earnings, watchlist, picks_data, fundamentals)
+    data_prompt = build_picks_user_prompt(movers, news, filings, earnings, watchlist, picks_data, fundamentals)
 
-    try:
-        client = Anthropic(api_key=key)
-        resp = client.messages.create(
-            model="claude-sonnet-4-5",
-            max_tokens=2500,
-            system=PICKS_SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": user_prompt}],
-        )
-    except Exception as e:
-        print(f"  Claude picks call failed: {e}")
+    print("  Step 1/3: theme scan...")
+    step1 = _claude_json_call(THEME_SCAN_SYSTEM_PROMPT, data_prompt, max_tokens=1500, label='theme-scan')
+    if not step1 or not step1.get('themes'):
+        print("  Theme scan returned nothing; aborting picks generation")
+        return []
+    themes = step1['themes']
+    candidate_tickers = sorted({t.upper() for theme in themes for t in (theme.get('candidates') or []) if t})
+    print(f"    {len(themes)} themes identified, {len(candidate_tickers)} candidates: {candidate_tickers}")
+    if not candidate_tickers:
         return []
 
-    text = ''.join(b.text for b in resp.content if hasattr(b, 'text')).strip()
-    if text.startswith('```'):
-        text = re.sub(r'^```(?:json)?\s*', '', text)
-        text = re.sub(r'\s*```$', '', text)
-
-    try:
-        data = json.loads(text)
-    except json.JSONDecodeError as e:
-        print(f"  Picks JSON parse failed: {e}")
-        print(f"  Raw: {text[:200]}")
+    print("  Step 2/3: bear-case critique...")
+    critique_user = (
+        data_prompt
+        + "\n\n## Step 1 output — themes and candidates:\n"
+        + json.dumps({'themes': themes}, indent=2)
+        + "\n\nCritique EACH candidate listed above."
+    )
+    step2 = _claude_json_call(CRITIQUE_SYSTEM_PROMPT, critique_user, max_tokens=2000, label='critique')
+    if not step2 or not step2.get('critiques'):
+        print("  Critique step returned nothing; aborting")
+        return []
+    critiques = step2['critiques']
+    surviving = [c for c in critiques if c.get('falsifiable') and (c.get('conviction') or 0) >= 3]
+    print(f"    {len(critiques)} candidates critiqued, {len(surviving)} survive the bar (conviction>=3, falsifiable)")
+    if not surviving:
         return []
 
-    new_picks = data.get('picks', []) if isinstance(data, dict) else []
-    if not isinstance(new_picks, list):
+    print("  Step 3/3: final selection + thesis writing...")
+    final_user = (
+        data_prompt
+        + "\n\n## Themes from step 1:\n"
+        + json.dumps({'themes': themes}, indent=2)
+        + "\n\n## Critiques from step 2:\n"
+        + json.dumps({'critiques': critiques}, indent=2)
+        + "\n\nProduce the 3-5 highest-conviction picks from the surviving candidates."
+    )
+    step3 = _claude_json_call(FINAL_SELECTION_SYSTEM_PROMPT, final_user, max_tokens=3000, label='final-selection')
+    if not step3 or not isinstance(step3.get('picks'), list):
+        print("  Final selection returned nothing; aborting")
         return []
+    new_picks = step3['picks']
 
     movers_by_ticker = {m['ticker']: m for m in movers}
     today_iso = dt.date.today().isoformat()
