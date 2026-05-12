@@ -853,14 +853,20 @@ PICKS_SYSTEM_PROMPT = """You are picking 3-5 stocks for "The Brief"'s AI Experim
 
 For each pick, you MUST provide every field:
 - ticker: uppercase symbol (must appear in the data provided)
-- thesis: 2-4 sentences. Specific. Reference the data you saw, not vague claims. Confidence tags optional in thesis.
+- thesis: 1-2 sentence summary. Used in notifications. Plain text, no HTML.
+- rationale: 2-4 paragraph expansion (HTML string). Multi-paragraph with <p> tags. Wrap tickers in <span class="ticker" data-ticker="SYMBOL">SYMBOL</span>. Tag claims:
+  * <span class="confidence confidence-fact">Fact</span> for verifiable numbers/events
+  * <span class="confidence confidence-interp">Interp</span> for interpretation
+  * <span class="confidence confidence-speculation">Spec</span> for forward speculation
+  Use <strong> for emphasis. Density: every claim tagged, every ticker wrapped.
 - horizon_weeks: integer 1-12. Match to thesis type:
   * Event-driven (earnings, FOMC, regulatory date): 1-3 weeks
   * Cyclical/macro: 4-8 weeks
   * Structural/valuation: 6-12 weeks
+- horizon_reason: 1-2 sentence HTML explanation of WHY this horizon. Can use confidence tags.
 - target_pct: integer or float. Realistic. 8-20% is typical. NEVER > 30%.
 - stop_pct: negative number. Typically -8 to -15%. Higher-vol names get wider stops.
-- falsification: 1-2 sentences. SPECIFIC and MEASURABLE. Examples:
+- falsification: 1-2 sentences. SPECIFIC and MEASURABLE. Plain text. Examples:
   - GOOD: "Q2 medical loss ratio prints above 75%, OR membership growth turns negative YoY."
   - BAD: "Thesis fails if the company underperforms."
 
@@ -883,11 +889,13 @@ OUTPUT (strict JSON only, no markdown fence, no commentary):
   "picks": [
     {
       "ticker": "TICKER",
-      "thesis": "...",
+      "thesis": "1-2 sentence plain-text summary",
+      "rationale": "<p>Paragraph 1 with <span class=\\"confidence confidence-fact\\">Fact</span> and <span class=\\"ticker\\" data-ticker=\\"TICKER\\">TICKER</span> tags.</p><p>Paragraph 2.</p>",
       "horizon_weeks": 4,
+      "horizon_reason": "Brief HTML explanation of horizon choice.",
       "target_pct": 15,
       "stop_pct": -10,
-      "falsification": "..."
+      "falsification": "Specific measurable criteria."
     }
   ]
 }
@@ -1027,6 +1035,8 @@ def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[di
             'target_pct': float(target),
             'stop_pct': float(stop),
             'thesis': (p.get('thesis') or '').strip(),
+            'rationale': (p.get('rationale') or '').strip(),
+            'horizon_reason': (p.get('horizon_reason') or '').strip(),
             'falsification': (p.get('falsification') or '').strip(),
             'tags': ['ai-experiment', 'auto-generated'],
             'generated_by': f"claude-sonnet-4-5 · {today_iso}",

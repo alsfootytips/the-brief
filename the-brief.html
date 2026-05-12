@@ -1439,6 +1439,45 @@ p.lede {
   margin: 10px 0;
 }
 
+.pick-rationale {
+  font-family: 'Fraunces', serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin: 14px 0;
+  padding: 14px 18px;
+  background: var(--paper);
+  border-radius: 2px;
+  border-left: 2px solid var(--rule);
+}
+
+.pick-rationale p { margin-bottom: 12px; }
+.pick-rationale p:last-child { margin-bottom: 0; }
+.pick-rationale ul { margin: 8px 0 8px 18px; }
+.pick-rationale li { margin-bottom: 6px; line-height: 1.5; }
+
+.pick-horizon-reason {
+  font-family: 'Fraunces', serif;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink-muted);
+  margin: 12px 0;
+  padding: 10px 14px;
+  background: rgba(212, 203, 184, 0.15);
+  border-radius: 2px;
+}
+
+.pick-horizon-reason strong {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
 .pick-falsification {
   font-family: 'Fraunces', serif;
   font-size: 13.5px;
@@ -2389,6 +2428,8 @@ function renderPickCard(p) {
       </div>
       ${progress}
       <div class="pick-thesis"><strong>Thesis:</strong> ${escapeHtml(p.thesis || '')}</div>
+      ${p.rationale ? `<div class="pick-rationale">${p.rationale}</div>` : ''}
+      ${p.horizon_reason ? `<div class="pick-horizon-reason"><strong>Why ${escapeHtml(p.horizon_label || 'this horizon')}</strong>${p.horizon_reason}</div>` : ''}
       ${p.falsification ? `<div class="pick-falsification"><strong>Falsification</strong>${escapeHtml(p.falsification)}</div>` : ''}
       ${closedLine}
     </div>`;
