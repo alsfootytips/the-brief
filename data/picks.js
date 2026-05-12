@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-12T20:08:53.572859+00:00",
+  "generated_at": "2026-05-12T20:18:59.691320+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -22,9 +22,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 23.72,
-      "current_pct": 5.75,
-      "change_pct_today": 7.82,
+      "current_price": 23.73,
+      "current_pct": 5.8,
+      "change_pct_today": 7.86,
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 0,
