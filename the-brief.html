@@ -2327,6 +2327,14 @@ function renderPickCard(p) {
   const targetPrice = p.entry_price && p.target_pct != null ? p.entry_price * (1 + p.target_pct / 100) : null;
   const stopPrice = p.entry_price && p.stop_pct != null ? p.entry_price * (1 + p.stop_pct / 100) : null;
 
+  const actionLabel = {
+    open: 'BUY',
+    hit: 'SELL · target reached',
+    miss: 'SELL · stopped out',
+    expired: 'CLOSED · horizon expired',
+  }[status] || status.toUpperCase();
+  const horizonLabel = p.horizon_label || '';
+
   let progress = '';
   if (status === 'open' && p.entry_price && p.current_price && targetPrice && stopPrice) {
     const span = targetPrice - stopPrice;
@@ -2359,7 +2367,8 @@ function renderPickCard(p) {
           <div class="mover-name">${escapeHtml(p.name || p.ticker || '')}</div>
         </div>
         <div class="pick-meta-row">
-          <div class="pick-status-badge ${status}">${status}</div>
+          <div class="pick-status-badge ${status}">${actionLabel}</div>
+          ${horizonLabel ? `<div style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-muted); font-weight: 600; margin-bottom: 4px;">${escapeHtml(horizonLabel)}</div>` : ''}
           <div class="mover-pct ${c}">${fmtPct(p.current_pct)}</div>
           ${daysLine}
         </div>

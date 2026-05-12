@@ -407,9 +407,59 @@ def notify_pushover(title: str, message: str, url_anchor: str | None = None) -> 
         return False
 
 
+FALSIFICATION_STOPWORDS = {
+    'above', 'below', 'over', 'under', 'when', 'where', 'with', 'this', 'that',
+    'these', 'those', 'from', 'into', 'than', 'then', 'they', 'them', 'their',
+    'have', 'have', 'will', 'would', 'could', 'should', 'must', 'might', 'been',
+    'being', 'before', 'after', 'while', 'about', 'into', 'such', 'each', 'some',
+    'most', 'just', 'only', 'also', 'very', 'much', 'more', 'less', 'still',
+    'thesis', 'fails', 'works', 'wrong', 'right', 'good', 'bad', 'years', 'year',
+    'quarters', 'quarter', 'months', 'month', 'weeks', 'week', 'days', 'day',
+    'company', 'companies', 'stock', 'stocks', 'price', 'prices', 'market', 'markets',
+}
+
+
+def extract_falsification_keywords(text: str) -> set[str]:
+    keywords = set()
+    for word in re.findall(r"[A-Za-z]{5,}", text):
+        w = word.lower()
+        if w in FALSIFICATION_STOPWORDS:
+            continue
+        keywords.add(w)
+    return keywords
+
+
+def find_falsification_matches(picks_data: dict, news: list[dict]) -> list[dict]:
+    matches = []
+    for pick in picks_data.get('picks', []):
+        if pick.get('status') != 'open':
+            continue
+        ticker = pick.get('ticker')
+        falsif = pick.get('falsification') or ''
+        if not falsif or not ticker:
+            continue
+        keywords = extract_falsification_keywords(falsif)
+        if len(keywords) < 3:
+            continue
+        for n in news:
+            if (n.get('ticker') or '').upper() != ticker.upper():
+                continue
+            headline = (n.get('headline') or '').lower()
+            hits = {k for k in keywords if k in headline}
+            if len(hits) >= 2:
+                matches.append({
+                    'pick': pick,
+                    'news': n,
+                    'matched': sorted(hits)[:4],
+                })
+                break
+    return matches
+
+
 def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[dict],
                            earnings: list[dict], picks_data: dict,
-                           new_picks: list[dict], closed_picks: list[dict]) -> None:
+                           new_picks: list[dict], closed_picks: list[dict],
+                           news: list[dict] | None = None) -> None:
     if not os.getenv('PUSHOVER_USER_KEY') or not os.getenv('PUSHOVER_APP_TOKEN'):
         print("  Pushover keys not set, skipping notifications")
         return
@@ -429,11 +479,12 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
         key = f"new_pick:{p['id']}"
         if key in sent:
             continue
-        title = f"New pick: {p['ticker']}"
+        horizon_lbl = horizon_category(p.get('horizon_weeks'))
+        title = f"BUY signal: {p['ticker']} ({horizon_lbl})"
         msg = (
-            f"Target {p['target_pct']:+g}%, stop {p['stop_pct']:+g}%, "
-            f"horizon {p['horizon_weeks']}w.\n\n"
-            f"Thesis: {p.get('thesis', '')[:280]}"
+            f"Entry ${p.get('entry_price')} · target {p['target_pct']:+g}% · "
+            f"stop {p['stop_pct']:+g}% · {p['horizon_weeks']}w horizon.\n\n"
+            f"{p.get('thesis', '')[:260]}"
         )
         if notify_pushover(title, msg, '#picks'):
             sent.add(key)
@@ -444,15 +495,37 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
         if key in sent:
             continue
         status = p.get('status', '').upper()
-        title = f"Pick closed: {p['ticker']} — {status}"
+        outcome_label = {
+            'HIT': 'target reached',
+            'MISS': 'stop hit',
+            'EXPIRED': 'horizon expired',
+        }.get(status, status.lower())
+        title = f"SELL signal: {p['ticker']} — {outcome_label}"
         msg = (
-            f"{p['ticker']} closed at {p.get('closed_pct', 0):+.2f}% "
+            f"Closed at {p.get('closed_pct', 0):+.2f}% "
             f"({p.get('closed_reason', '')}).\n"
-            f"Entry {p.get('entry_price')}, exit {p.get('closed_price')}."
+            f"Entry ${p.get('entry_price')}, exit ${p.get('closed_price')}."
         )
         if notify_pushover(title, msg, '#picks'):
             sent.add(key)
             delivered += 1
+
+    if news:
+        for match in find_falsification_matches(picks_data, news):
+            p = match['pick']
+            n = match['news']
+            key = f"falsif_news:{p.get('id')}:{n.get('url', '')[:80]}"
+            if key in sent:
+                continue
+            title = f"WATCH: {p['ticker']} — news may trigger falsification"
+            msg = (
+                f"\"{(n.get('headline') or '')[:140]}\"\n"
+                f"Source: {n.get('source')}. Matched: {', '.join(match['matched'])}.\n"
+                f"Falsification: {(p.get('falsification') or '')[:200]}"
+            )
+            if notify_pushover(title, msg, '#picks'):
+                sent.add(key)
+                delivered += 1
 
     for m in movers:
         if m.get('ticker') not in followed:
@@ -522,6 +595,20 @@ def save_picks(data: dict) -> None:
     p.write_text(json.dumps(data, indent=2))
 
 
+def horizon_category(weeks: int | float | None) -> str:
+    if weeks is None:
+        return 'Unknown'
+    try:
+        w = float(weeks)
+    except (TypeError, ValueError):
+        return 'Unknown'
+    if w <= 3:
+        return 'Short-term'
+    if w <= 7:
+        return 'Medium-term'
+    return 'Long-term'
+
+
 def update_picks(picks_data: dict, movers: list[dict], news: list[dict]) -> dict:
     movers_by_ticker = {m['ticker']: m for m in movers}
     news_counts: dict[str, int] = {}
@@ -537,6 +624,9 @@ def update_picks(picks_data: dict, movers: list[dict], news: list[dict]) -> dict
         ticker = pick.get('ticker')
         m = movers_by_ticker.get(ticker)
         entry = pick.get('entry_price')
+
+        pick['horizon_label'] = horizon_category(pick.get('horizon_weeks'))
+        pick['direction'] = pick.get('direction', 'long')
 
         if m and entry:
             current_price = m.get('price')
@@ -1278,7 +1368,7 @@ def main() -> int:
 
     print("\nDispatching notifications...")
     notif_state = load_notifications_state()
-    dispatch_notifications(notif_state, movers, filings, earnings, picks_data, new_picks, closed_picks)
+    dispatch_notifications(notif_state, movers, filings, earnings, picks_data, new_picks, closed_picks, all_news)
     save_notifications_state(notif_state)
 
     print(f"\nWrote {DATA_DIR.relative_to(ROOT) / 'movers.js'}")
