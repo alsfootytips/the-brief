@@ -1,0 +1,67 @@
+name: Update brief
+
+on:
+  schedule:
+    # Weekdays at 12:00 UTC (07:00 ET / 12:00 GMT) — pre-market summary
+    - cron: '0 12 * * 1-5'
+    # Weekdays at 22:00 UTC (17:00 ET / 22:00 GMT) — post-close summary
+    - cron: '0 22 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-brief
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check kill switch
+        id: pause
+        run: |
+          if [ -f PAUSED ]; then
+            echo "Pipeline paused via PAUSED file. Skipping run."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.pause.outputs.skip != 'true'
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        if: steps.pause.outputs.skip != 'true'
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        if: steps.pause.outputs.skip != 'true'
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          PUSHOVER_USER_KEY: ${{ secrets.PUSHOVER_USER_KEY }}
+          PUSHOVER_APP_TOKEN: ${{ secrets.PUSHOVER_APP_TOKEN }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python update.py
+
+      - name: Commit data updates
+        if: steps.pause.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/ picks.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "auto: pipeline update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
