@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-12T20:27:34.261794+00:00",
+  "generated_at": "2026-05-12T20:38:29.812603+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -178,7 +178,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 102.98,
       "change_pct": -1.58,
-      "volume_ratio": 1.25,
+      "volume_ratio": 1.13,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -186,8 +186,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLK",
       "name": "Technology Select Sector",
-      "price": 175.21,
-      "change_pct": -1.5,
+      "price": 175.2,
+      "change_pct": -1.51,
       "volume_ratio": 1.33,
       "is_watchlist": false,
       "is_index": false,
@@ -196,8 +196,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 282.59,
-      "change_pct": -0.96,
+      "price": 282.57,
+      "change_pct": -0.97,
       "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": true,
@@ -256,7 +256,7 @@ window.theBriefMovers = {
     {
       "ticker": "SPY",
       "name": "SPDR S&P 500 ETF",
-      "price": 738.17,
+      "price": 738.18,
       "change_pct": -0.15,
       "volume_ratio": 1.01,
       "is_watchlist": false,
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 102.98,
       "change_pct": -1.58,
-      "volume_ratio": 1.25,
+      "volume_ratio": 1.13,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -328,8 +328,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 282.59,
-      "change_pct": -0.96,
+      "price": 282.57,
+      "change_pct": -0.97,
       "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": true,
@@ -430,8 +430,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 282.59,
-      "change_pct": -0.96,
+      "price": 282.57,
+      "change_pct": -0.97,
       "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": true,
@@ -450,7 +450,7 @@ window.theBriefMovers = {
     {
       "ticker": "SPY",
       "name": "SPDR S&P 500 ETF",
-      "price": 738.17,
+      "price": 738.18,
       "change_pct": -0.15,
       "volume_ratio": 1.01,
       "is_watchlist": false,
@@ -562,8 +562,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLK",
       "name": "Technology Select Sector",
-      "price": 175.21,
-      "change_pct": -1.5,
+      "price": 175.2,
+      "change_pct": -1.51,
       "volume_ratio": 1.33,
       "is_watchlist": false,
       "is_index": false,
@@ -696,8 +696,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLK",
       "name": "Technology Select Sector",
-      "change_pct": -1.5,
-      "price": 175.21,
+      "change_pct": -1.51,
+      "price": 175.2,
       "watchlist_members": [
         "CRWV",
         "NBIS",
