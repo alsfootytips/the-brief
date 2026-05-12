@@ -615,6 +615,192 @@ def summarize_daily(movers: list[dict], news: list[dict], filings: list[dict],
     }
 
 
+PICKS_SYSTEM_PROMPT = """You are picking 3-5 stocks for "The Brief"'s AI Experiment track. These are NOT investment recommendations. They are labeled experiments to test whether AI-driven setup identification has measurable skill over time. The user has explicitly opted into this experiment with the understanding that misses are expected.
+
+For each pick, you MUST provide every field:
+- ticker: uppercase symbol (must appear in the data provided)
+- thesis: 2-4 sentences. Specific. Reference the data you saw, not vague claims. Confidence tags optional in thesis.
+- horizon_weeks: integer 1-12. Match to thesis type:
+  * Event-driven (earnings, FOMC, regulatory date): 1-3 weeks
+  * Cyclical/macro: 4-8 weeks
+  * Structural/valuation: 6-12 weeks
+- target_pct: integer or float. Realistic. 8-20% is typical. NEVER > 30%.
+- stop_pct: negative number. Typically -8 to -15%. Higher-vol names get wider stops.
+- falsification: 1-2 sentences. SPECIFIC and MEASURABLE. Examples:
+  - GOOD: "Q2 medical loss ratio prints above 75%, OR membership growth turns negative YoY."
+  - BAD: "Thesis fails if the company underperforms."
+
+DIVERSITY RULES:
+- Vary thesis types across the picks. Don't make all 3 earnings plays or all 3 valuation plays.
+- Vary horizons. Don't make every pick the same horizon.
+- Spread sectors where possible.
+
+HARD RULES:
+- Only pick tickers that appear in today's data dump (movers, watchlist, news, filings, or earnings).
+- DO NOT pick any ticker that's in the "active picks" list provided.
+- Be conservative on count. If only 2 genuine setups stand out, return 2. Never pad to hit 5.
+- NEVER use words: "buy", "must own", "rocket", "soaring", "explode", "skyrocket", "guaranteed".
+- NEVER imply certainty. The system's whole value is that misses get tracked.
+
+If today's data shows nothing genuinely interesting (slow news, no movers, no upcoming catalysts), return an empty picks list. Honest zero is better than padded picks.
+
+OUTPUT (strict JSON only, no markdown fence, no commentary):
+{
+  "picks": [
+    {
+      "ticker": "TICKER",
+      "thesis": "...",
+      "horizon_weeks": 4,
+      "target_pct": 15,
+      "stop_pct": -10,
+      "falsification": "..."
+    }
+  ]
+}
+"""
+
+
+def build_picks_user_prompt(movers: list[dict], news: list[dict], filings: list[dict],
+                            earnings: list[dict], watchlist: dict, picks_data: dict) -> str:
+    today = dt.date.today().isoformat()
+    followed = set(watchlist['followed'])
+    active_tickers = {p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'}
+
+    watchlist_movers = sorted(
+        [m for m in movers if m['ticker'] in followed],
+        key=lambda x: abs(x.get('change_pct', 0) or 0), reverse=True
+    )
+    big_movers = sorted(
+        [m for m in movers if abs(m.get('change_pct', 0) or 0) >= 3 and m['ticker'] not in followed],
+        key=lambda x: abs(x.get('change_pct', 0) or 0), reverse=True
+    )[:10]
+    sectors = sorted([m for m in movers if m.get('is_sector')],
+                     key=lambda x: abs(x.get('change_pct', 0) or 0), reverse=True)[:5]
+
+    watchlist_news = [n for n in news if n.get('is_watchlist')][:25]
+    watchlist_earnings = [e for e in earnings if e.get('is_watchlist')]
+
+    parts = [f"# Picks generation prompt — {today}"]
+    parts.append(f"\n## Active picks (DO NOT pick these tickers again): {sorted(active_tickers) if active_tickers else '(none)'}")
+
+    parts.append("\n## Watchlist price action this week")
+    for m in watchlist_movers:
+        parts.append(f"- {m['ticker']} ({m.get('name', '')}): {m['change_pct']:+.2f}% @ ${m['price']}")
+
+    parts.append("\n## Sector ETFs (today's move)")
+    for m in sectors:
+        parts.append(f"- {m['ticker']} ({m.get('name', '')}): {m['change_pct']:+.2f}%")
+
+    if big_movers:
+        parts.append("\n## Other notable movers (≥3% absolute, may be candidates)")
+        for m in big_movers:
+            parts.append(f"- {m['ticker']}: {m['change_pct']:+.2f}% @ ${m['price']}")
+
+    parts.append("\n## Watchlist news (last 3 days)")
+    for n in watchlist_news:
+        parts.append(f"- [{n.get('ticker')}] {n.get('headline')} ({n.get('source')})")
+
+    if watchlist_earnings:
+        parts.append("\n## Upcoming watchlist earnings (next 14 days)")
+        for e in watchlist_earnings:
+            parts.append(f"- {e['ticker']} on {e['date']} ({e.get('hour', '')})")
+
+    if filings:
+        parts.append("\n## Recent SEC 8-K/6-K filings (watchlist, last 7 days)")
+        for f in filings[:10]:
+            parts.append(f"- {f['ticker']}: {f['form']} on {f['date']}")
+
+    parts.append("\n---\nPick 3-5 setups (or fewer if data is thin). Strict JSON output only.")
+    return "\n".join(parts)
+
+
+def should_generate_picks(picks_data: dict) -> bool:
+    today = dt.date.today()
+    week_start = today - dt.timedelta(days=today.weekday())
+    for p in picks_data.get('picks', []):
+        try:
+            entered = dt.date.fromisoformat(p.get('entered_at', ''))
+            if entered >= week_start:
+                return False
+        except (TypeError, ValueError):
+            continue
+    return True
+
+
+def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[dict],
+                          earnings: list[dict], watchlist: dict, picks_data: dict) -> list[dict]:
+    key = os.getenv('ANTHROPIC_API_KEY')
+    if not key or not Anthropic:
+        print("  ANTHROPIC_API_KEY not set (or anthropic SDK missing), skipping picks generation")
+        return []
+
+    user_prompt = build_picks_user_prompt(movers, news, filings, earnings, watchlist, picks_data)
+
+    try:
+        client = Anthropic(api_key=key)
+        resp = client.messages.create(
+            model="claude-sonnet-4-5",
+            max_tokens=2500,
+            system=PICKS_SYSTEM_PROMPT,
+            messages=[{"role": "user", "content": user_prompt}],
+        )
+    except Exception as e:
+        print(f"  Claude picks call failed: {e}")
+        return []
+
+    text = ''.join(b.text for b in resp.content if hasattr(b, 'text')).strip()
+    if text.startswith('```'):
+        text = re.sub(r'^```(?:json)?\s*', '', text)
+        text = re.sub(r'\s*```$', '', text)
+
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"  Picks JSON parse failed: {e}")
+        print(f"  Raw: {text[:200]}")
+        return []
+
+    new_picks = data.get('picks', []) if isinstance(data, dict) else []
+    if not isinstance(new_picks, list):
+        return []
+
+    movers_by_ticker = {m['ticker']: m for m in movers}
+    today_iso = dt.date.today().isoformat()
+    active_tickers = {p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'}
+
+    validated = []
+    for p in new_picks:
+        ticker = (p.get('ticker') or '').upper().strip()
+        if not ticker or ticker in active_tickers:
+            continue
+        m = movers_by_ticker.get(ticker)
+        if not m:
+            print(f"  Skipping pick {ticker}: no current price data")
+            continue
+        target = p.get('target_pct')
+        stop = p.get('stop_pct')
+        horizon = p.get('horizon_weeks')
+        if target is None or stop is None or horizon is None:
+            continue
+        if abs(target) > 30:
+            target = 30 if target > 0 else -30
+        validated.append({
+            'id': f"{today_iso}-{ticker}-auto",
+            'ticker': ticker,
+            'entered_at': today_iso,
+            'entry_price': m.get('price'),
+            'horizon_weeks': int(horizon),
+            'target_pct': float(target),
+            'stop_pct': float(stop),
+            'thesis': (p.get('thesis') or '').strip(),
+            'falsification': (p.get('falsification') or '').strip(),
+            'tags': ['ai-experiment', 'auto-generated'],
+            'generated_by': f"claude-sonnet-4-5 · {today_iso}",
+            'status': 'open',
+        })
+    return validated
+
+
 def find_current_issue_number() -> int | None:
     issues_dir = ROOT / 'issues'
     if not issues_dir.exists():
@@ -912,7 +1098,20 @@ def main() -> int:
     print("\nUpdating tracked picks...")
     picks_data = load_picks()
     picks_data = update_picks(picks_data, movers, all_news)
-    print(f"  {len(picks_data.get('picks', []))} picks tracked")
+    print(f"  {len(picks_data.get('picks', []))} existing picks tracked")
+
+    if should_generate_picks(picks_data):
+        print("\nGenerating weekly picks via Claude...")
+        new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data)
+        if new_picks:
+            picks_data['picks'].extend(new_picks)
+            picks_data = update_picks(picks_data, movers, all_news)
+            save_picks(picks_data)
+            print(f"  Added {len(new_picks)} new picks: {[p['ticker'] for p in new_picks]}")
+        else:
+            print("  No new picks generated this week")
+    else:
+        print("\nWeekly picks already generated this week, skipping")
 
     print("\nGenerating editorial daily entry via Claude...")
     current_issue = find_current_issue_number()
