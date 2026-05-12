@@ -1,0 +1,1645 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Brief · Issue No. 2 · Week of May 12, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,400;1,9..144,500&family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #1a1612;
+  --ink-soft: #3a342e;
+  --ink-muted: #6b6356;
+  --paper: #faf7f2;
+  --paper-warm: #f3ede3;
+  --rule: #d4cbb8;
+  --rule-soft: #e8e0d0;
+  --accent: #8b2e1f;
+  --accent-soft: #c4513a;
+  --green: #2d5a3d;
+  --red: #8b2e1f;
+  --highlight: #f5e8c8;
+  --confidence-high: #2d5a3d;
+  --confidence-medium: #b8862b;
+  --confidence-low: #8b2e1f;
+  --shadow: 0 1px 2px rgba(26, 22, 18, 0.04), 0 2px 8px rgba(26, 22, 18, 0.06);
+  --shadow-lg: 0 4px 12px rgba(26, 22, 18, 0.08), 0 12px 32px rgba(26, 22, 18, 0.12);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Fraunces', Georgia, serif;
+  font-optical-sizing: auto;
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.65;
+  font-size: 17px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  padding: 0;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 32px 80px;
+}
+
+/* ===== MASTHEAD ===== */
+.masthead {
+  border-bottom: 3px double var(--ink);
+  padding: 48px 0 24px;
+  margin-bottom: 32px;
+  text-align: center;
+  position: relative;
+}
+
+.masthead-eyebrow {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+
+.masthead-title {
+  font-family: 'Fraunces', serif;
+  font-size: 64px;
+  font-weight: 900;
+  font-style: italic;
+  line-height: 1;
+  letter-spacing: -0.025em;
+  margin-bottom: 12px;
+  color: var(--ink);
+}
+
+.masthead-date {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* ===== NAV ===== */
+.nav-toc {
+  background: var(--paper-warm);
+  padding: 20px 24px;
+  margin: 32px 0;
+  border-radius: 2px;
+  border: 1px solid var(--rule);
+}
+
+.nav-toc-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.nav-toc ol {
+  list-style: none;
+  padding: 0;
+  counter-reset: toc;
+}
+
+.nav-toc li {
+  counter-increment: toc;
+  padding: 6px 0;
+  border-bottom: 1px dotted var(--rule);
+  font-family: 'Fraunces', serif;
+  font-size: 15px;
+}
+
+.nav-toc li:last-child { border: none; }
+
+.nav-toc li::before {
+  content: '§ ' counter(toc, decimal-leading-zero);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--accent);
+  font-weight: 700;
+  margin-right: 12px;
+}
+
+.nav-toc a {
+  color: var(--ink);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.nav-toc a:hover { color: var(--accent); }
+
+/* ===== THESIS ===== */
+.thesis {
+  border-left: 3px solid var(--accent);
+  padding: 4px 0 4px 24px;
+  margin: 40px 0;
+}
+
+.thesis-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.thesis-text {
+  font-family: 'Fraunces', serif;
+  font-size: 26px;
+  line-height: 1.3;
+  font-weight: 500;
+  color: var(--ink);
+  font-style: italic;
+}
+
+/* ===== SECTIONS ===== */
+.section {
+  margin: 80px 0 64px;
+  scroll-margin-top: 20px;
+}
+
+.section-number {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.section-title {
+  font-family: 'Fraunces', serif;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  margin-bottom: 6px;
+  color: var(--ink);
+}
+
+.section-subtitle {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: var(--ink-muted);
+  margin-bottom: 28px;
+  font-weight: 400;
+}
+
+.section-divider {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 0 0 28px 0;
+}
+
+/* ===== BODY ===== */
+p {
+  margin-bottom: 18px;
+  color: var(--ink-soft);
+}
+
+p.lede {
+  font-size: 19px;
+  line-height: 1.55;
+}
+
+.subsection-title {
+  font-family: 'Fraunces', serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 36px 0 4px;
+  color: var(--ink);
+}
+
+.subsection-tagline {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  color: var(--ink-muted);
+  margin-bottom: 18px;
+  font-size: 15px;
+}
+
+/* ===== CONFIDENCE TAGS ===== */
+.confidence {
+  display: inline-block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 2px 8px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.confidence-fact {
+  background: rgba(45, 90, 61, 0.12);
+  color: var(--confidence-high);
+  border: 1px solid rgba(45, 90, 61, 0.25);
+}
+
+.confidence-interp {
+  background: rgba(184, 134, 43, 0.15);
+  color: var(--confidence-medium);
+  border: 1px solid rgba(184, 134, 43, 0.3);
+}
+
+.confidence-speculation {
+  background: rgba(139, 46, 31, 0.1);
+  color: var(--confidence-low);
+  border: 1px solid rgba(139, 46, 31, 0.25);
+}
+
+/* ===== INTERACTIVE ELEMENTS ===== */
+.term {
+  border-bottom: 1px dotted var(--accent);
+  cursor: pointer;
+  position: relative;
+  color: var(--ink);
+  transition: background 0.15s ease;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(139, 46, 31, 0.15);
+}
+
+.term:hover { background: var(--highlight); }
+
+.ticker {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.92em;
+  font-weight: 700;
+  color: var(--accent);
+  cursor: pointer;
+  border-bottom: 1px solid var(--accent-soft);
+  transition: all 0.15s ease;
+  padding: 0 2px;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(139, 46, 31, 0.25);
+}
+
+.ticker:hover {
+  background: var(--accent);
+  color: var(--paper);
+  border-bottom-color: var(--accent);
+}
+
+.concept-link {
+  border-bottom: 1px dashed var(--ink-muted);
+  cursor: help;
+  font-style: italic;
+}
+
+/* ===== TOOLTIP ===== */
+.tooltip {
+  position: absolute;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 14px 18px;
+  border-radius: 4px;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  line-height: 1.55;
+  max-width: 340px;
+  min-width: 200px;
+  z-index: 1000;
+  box-shadow: var(--shadow-lg);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+  font-weight: 400;
+}
+
+.tooltip.visible { opacity: 1; }
+
+.tooltip-label {
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent-soft);
+  margin-bottom: 6px;
+  font-weight: 700;
+}
+
+/* ===== PANEL ===== */
+.panel-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(26, 22, 18, 0.4);
+  backdrop-filter: blur(2px);
+  z-index: 2000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.panel-overlay.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(580px, 100%);
+  background: var(--paper);
+  z-index: 2001;
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow-y: auto;
+  padding: 36px 40px;
+  box-shadow: -8px 0 32px rgba(26, 22, 18, 0.15);
+}
+
+.panel.visible { transform: translateX(0); }
+
+.panel-close {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  background: none;
+  border: 1px solid var(--rule);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: var(--ink-muted);
+  transition: all 0.15s ease;
+}
+
+.panel-close:hover {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+
+.panel-ticker {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.1em;
+  margin-bottom: 4px;
+}
+
+.panel-name {
+  font-family: 'Fraunces', serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 8px;
+}
+
+.panel-tagline {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--ink-muted);
+  margin-bottom: 24px;
+}
+
+.panel-meta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  padding: 18px 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 24px;
+}
+
+.panel-meta-item { font-family: 'Inter', sans-serif; }
+
+.panel-meta-label {
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.panel-meta-value {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.panel h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 700;
+  margin: 24px 0 10px 0;
+}
+
+.panel p {
+  font-family: 'Fraunces', serif;
+  font-size: 15.5px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin-bottom: 14px;
+}
+
+.panel ul {
+  margin: 10px 0 14px 18px;
+  font-family: 'Fraunces', serif;
+  font-size: 15px;
+  color: var(--ink-soft);
+}
+
+.panel li { margin-bottom: 6px; line-height: 1.5; }
+
+.panel-watchpoints {
+  background: var(--paper-warm);
+  padding: 16px 20px;
+  border-radius: 2px;
+  margin-top: 16px;
+}
+
+.panel-watchpoints h4 {
+  margin-top: 0;
+  color: var(--green);
+}
+
+/* ===== STORY ITEMS ===== */
+.news-item {
+  padding: 24px 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.news-item:last-child { border-bottom: none; }
+
+.news-headline {
+  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 10px;
+  color: var(--ink);
+}
+
+.news-why {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+  margin: 14px 0 6px;
+}
+
+.news-body { font-size: 16px; margin-bottom: 12px; }
+
+.timeframes {
+  margin-top: 18px;
+  border-left: 2px solid var(--rule);
+  padding-left: 20px;
+}
+
+.timeframe { padding: 6px 0; }
+
+.timeframe-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  display: inline-block;
+  min-width: 80px;
+  letter-spacing: 0.05em;
+}
+
+.timeframe-text {
+  font-family: 'Fraunces', serif;
+  font-size: 15px;
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+
+.positioning {
+  background: var(--paper-warm);
+  padding: 16px 20px;
+  margin-top: 16px;
+  border-radius: 2px;
+  font-family: 'Fraunces', serif;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+
+.positioning-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--green);
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.skipped {
+  margin-top: 32px;
+  padding: 24px 28px;
+  background: rgba(212, 203, 184, 0.15);
+  border-left: 3px solid var(--ink-muted);
+  border-radius: 2px;
+}
+
+.skipped-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+  margin-bottom: 14px;
+}
+
+.skipped ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skipped li {
+  font-size: 14.5px;
+  font-family: 'Fraunces', serif;
+  color: var(--ink-muted);
+  padding: 8px 0;
+  border-bottom: 1px dotted var(--rule);
+  line-height: 1.5;
+}
+
+.skipped li:last-child { border-bottom: none; }
+
+/* ===== CONCEPT ===== */
+.concept-callout {
+  font-family: 'Fraunces', serif;
+  font-size: 30px;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.3;
+  color: var(--ink);
+  margin: 28px 0;
+  padding: 28px 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  text-align: center;
+}
+
+.example-box {
+  background: var(--paper-warm);
+  padding: 22px 26px;
+  margin: 22px 0;
+  border-radius: 2px;
+}
+
+.example-box .label {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.example-box p:last-child { margin-bottom: 0; }
+
+/* ===== DISSECTION ===== */
+.dissection-card {
+  background: var(--paper-warm);
+  border: 1px solid var(--rule);
+  padding: 28px 32px;
+  margin: 24px 0;
+  border-radius: 2px;
+}
+
+.dissection-meta {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 18px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-muted);
+  letter-spacing: 0.08em;
+  flex-wrap: wrap;
+}
+
+.dissection-meta strong {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.dissection-step {
+  margin: 16px 0;
+  padding-left: 0;
+}
+
+.dissection-step-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+/* ===== STORY TRACKER ===== */
+.story {
+  margin: 28px 0;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.story:last-child { border-bottom: none; }
+
+.story-title {
+  font-family: 'Fraunces', serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.story-meta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-muted);
+  margin-bottom: 14px;
+  letter-spacing: 0.05em;
+}
+
+.story-status {
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 2px;
+  margin-right: 8px;
+}
+
+.status-confirmed { background: rgba(45, 90, 61, 0.15); color: var(--green); }
+.status-developing { background: var(--highlight); color: var(--ink); }
+.status-watching { background: var(--paper-warm); color: var(--ink-soft); }
+.status-cracking { background: rgba(139, 46, 31, 0.15); color: var(--accent); }
+.status-test { background: rgba(184, 134, 43, 0.18); color: var(--confidence-medium); }
+
+.story-progress {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-size: 14px;
+  color: var(--ink-muted);
+  margin-top: 8px;
+}
+
+/* ===== TOOLKIT ===== */
+.tool {
+  background: var(--paper-warm);
+  border: 1px solid var(--rule);
+  padding: 28px 32px;
+  margin: 24px 0;
+  border-radius: 2px;
+}
+
+.tool-number {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--accent);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin-bottom: 4px;
+}
+
+.tool-name {
+  font-family: 'Fraunces', serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 14px;
+}
+
+.tool ol, .tool ul {
+  padding-left: 24px;
+  margin: 12px 0;
+}
+
+.tool li {
+  font-family: 'Fraunces', serif;
+  font-size: 15.5px;
+  margin-bottom: 8px;
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+
+.tool-meta {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  color: var(--ink-muted);
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px dashed var(--rule);
+  font-style: italic;
+}
+
+.toolkit-history {
+  background: rgba(212, 203, 184, 0.15);
+  padding: 22px 26px;
+  margin-top: 32px;
+  border-radius: 2px;
+}
+
+.toolkit-history h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.toolkit-history p {
+  font-size: 14px;
+  margin-bottom: 6px;
+  color: var(--ink-muted);
+  font-style: italic;
+}
+
+/* ===== QUIET SECTORS ===== */
+.quiet {
+  background: rgba(212, 203, 184, 0.1);
+  padding: 24px 28px;
+  margin: 24px 0;
+  border-left: 3px solid var(--rule);
+  border-radius: 2px;
+}
+
+.quiet-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.quiet-item {
+  margin-bottom: 14px;
+}
+
+.quiet-item:last-child { margin-bottom: 0; }
+
+.quiet-item strong {
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+/* ===== LEGEND ===== */
+.legend {
+  background: var(--paper-warm);
+  padding: 20px 24px;
+  margin: 28px 0;
+  border-radius: 2px;
+  border: 1px solid var(--rule);
+}
+
+.legend-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: flex-start;
+  margin: 8px 0;
+  font-family: 'Fraunces', serif;
+  font-size: 14px;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+.legend-item .confidence { margin-top: 2px; }
+
+/* ===== FOOTER ===== */
+.footer {
+  margin-top: 80px;
+  padding-top: 32px;
+  border-top: 3px double var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  color: var(--ink-muted);
+  line-height: 1.6;
+  font-style: italic;
+}
+
+/* ===== UTILITY ===== */
+.kicker {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.drop-cap::first-letter {
+  font-family: 'Fraunces', serif;
+  font-weight: 900;
+  font-size: 5em;
+  float: left;
+  line-height: 0.85;
+  margin: 6px 8px 0 0;
+  color: var(--accent);
+}
+
+.data-callout {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 2px 8px;
+  border-radius: 2px;
+  font-weight: 500;
+}
+
+.move-indicator {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  font-size: 13px;
+  padding: 2px 6px;
+  border-radius: 2px;
+}
+
+.move-up { background: rgba(45, 90, 61, 0.15); color: var(--green); }
+.move-down { background: rgba(139, 46, 31, 0.15); color: var(--accent); }
+
+@media (max-width: 600px) {
+  .container { padding: 0 20px 60px; }
+  .masthead-title { font-size: 44px; }
+  .section-title { font-size: 28px; }
+  .thesis-text { font-size: 20px; }
+  .panel { padding: 28px; }
+  .concept-callout { font-size: 22px; padding: 22px 0; }
+
+  /* Bigger tap targets on mobile */
+  .ticker {
+    padding: 4px 6px;
+    font-size: 1em;
+    display: inline-block;
+    margin: 2px 0;
+  }
+  .term {
+    padding: 2px 0;
+    /* Make slightly more obviously tappable */
+    border-bottom-width: 2px;
+  }
+  .panel-close {
+    width: 44px;
+    height: 44px;
+    font-size: 22px;
+    top: 16px;
+    right: 16px;
+  }
+  .nav-toc li {
+    padding: 12px 0;
+    font-size: 16px;
+  }
+  /* Larger tooltip on mobile so it doesn't feel cramped */
+  .tooltip {
+    max-width: calc(100vw - 40px);
+    font-size: 14px;
+    padding: 16px 18px;
+  }
+}
+
+@media print {
+  .panel, .panel-overlay, .tooltip { display: none !important; }
+  body { background: white; }
+}
+</style>
+</head>
+<body>
+
+<div class="tooltip" id="tooltip"></div>
+<div class="panel-overlay" id="panel-overlay"></div>
+<div class="panel" id="panel">
+  <button class="panel-close" id="panel-close" aria-label="Close">×</button>
+  <div id="panel-content"></div>
+</div>
+
+<div class="container">
+
+  <!-- ===== MASTHEAD ===== -->
+  <header class="masthead">
+    <div class="masthead-eyebrow">Weekly Market Brief · Issue No. 2</div>
+    <h1 class="masthead-title">The Brief</h1>
+    <div class="masthead-date">Week of May 12, 2026</div>
+  </header>
+
+  <!-- ===== THESIS ===== -->
+  <div class="thesis">
+    <div class="thesis-label">The one thing to understand this week</div>
+    <div class="thesis-text">Three different stories are converging into one: the AI infrastructure boom is being stress-tested, the Iran war just got harder to end, and quietly — without the headlines — capital has been rotating away from mega-cap tech into the rest of the market.</div>
+  </div>
+
+  <p class="lede drop-cap">Markets don't reward people who watch headlines. They reward people who notice when several unrelated stories suddenly share a thread. This week, three did. <span class="ticker" data-ticker="CRWV">CRWV</span>'s guidance miss put a question mark on AI capex. Trump rejected Iran's ceasefire response, sending Brent to $104. And the Russell 2000 has quietly outperformed the S&amp;P by ~6 percentage points year-to-date — a regime change that almost no retail investor is talking about. Each of those stories is interesting alone. The thread connecting them — that the market's narrow leadership is broadening, whether by stress or by rotation — is the actual story.</p>
+
+  <p class="lede">Click anything <span class="term" data-term="underlined">underlined</span> for a definition. Click any <span class="ticker" data-ticker="DEMO">TICKER</span> for company detail with bull case, bear case, and what to watch. Every claim is tagged by confidence level (see legend below) so you know what's well-established versus what's interpretation.</p>
+
+  <!-- ===== LEGEND ===== -->
+  <div class="legend">
+    <div class="legend-title">How to read the confidence tags</div>
+    <div class="legend-item">
+      <span class="confidence confidence-fact">Fact</span>
+      <span style="margin-left: 6px;">Verifiable: reported numbers, official statements, observable price moves.</span>
+    </div>
+    <div class="legend-item">
+      <span class="confidence confidence-interp">Interp</span>
+      <span style="margin-left: 6px;">Reasonable interpretation by professionals, but not the only valid reading.</span>
+    </div>
+    <div class="legend-item">
+      <span class="confidence confidence-speculation">Spec</span>
+      <span style="margin-left: 6px;">Speculation about what comes next, or about reasons that aren't directly observable. Treat as one possible reading among several.</span>
+    </div>
+  </div>
+
+  <!-- ===== TOC ===== -->
+  <div class="nav-toc">
+    <div class="nav-toc-label">In this issue</div>
+    <ol>
+      <li><a href="#section-1">What actually mattered this week</a></li>
+      <li><a href="#section-2">Concept of the week: How to read an earnings reaction</a></li>
+      <li><a href="#section-3">A move dissected: Why The Trade Desk fell 14%</a></li>
+      <li><a href="#section-4">Sectors that mattered</a></li>
+      <li><a href="#section-5">Pattern recognition: The "first crack" pattern</a></li>
+      <li><a href="#section-6">The story tracker</a></li>
+      <li><a href="#section-7">Your toolkit</a></li>
+      <li><a href="#section-8">The week ahead</a></li>
+    </ol>
+  </div>
+
+  <!-- ===== SECTION 1: WHAT ACTUALLY MATTERED ===== -->
+  <section class="section" id="section-1">
+    <div class="section-number">§ 01</div>
+    <h2 class="section-title">What actually mattered</h2>
+    <div class="section-subtitle">Three stories filtered from a week of headlines. Each one moved capital in real ways. The rest was noise.</div>
+    <hr class="section-divider">
+
+    <!-- STORY 1 -->
+    <div class="news-item">
+      <div class="kicker">Story No. 1 · AI Infrastructure</div>
+      <h3 class="news-headline">CoreWeave guided below expectations. Now Nebius reports tomorrow, and the entire AI-cloud thesis is on the line.</h3>
+
+      <p class="news-body"><span class="confidence confidence-fact">Fact</span> Last week, <span class="ticker" data-ticker="CRWV">CRWV</span> (CoreWeave) guided Q2 revenue to $2.45-2.6B — below the $2.69B Wall Street consensus — while raising 2026 <span class="term" data-term="capex">capital spending</span> to $31-35B. Q1 revenue more than doubled year-over-year to $2.1B, but the guidance miss caused a ~10% drop. The story isn't growth — it's that growth isn't keeping pace with spending.</p>
+
+      <p class="news-body"><span class="confidence confidence-fact">Fact</span> Tomorrow (May 13), <span class="ticker" data-ticker="NBIS">NBIS</span> (Nebius) reports Q1. The consensus expects $316.9M revenue and an 81-cent loss. Nebius is the most direct competitor to CoreWeave. The stock is up <span class="data-callout">+431% over the past year</span> on a contracted backlog approaching $50B (including a $27B Meta deal and up to $19.4B from Microsoft). It trades at ~68x trailing sales.</p>
+
+      <div class="news-why">Why this actually matters</div>
+      <p class="news-body"><span class="confidence confidence-interp">Interp</span> For two years, the AI-cloud thesis has been "spending creates revenue, revenue justifies spending." If Nebius reports tomorrow with strong revenue but weak <span class="term" data-term="operating-leverage">operating leverage</span> — exactly what CoreWeave just showed — that's two data points in a row. Two data points in a row is the start of a trend. The names exposed: every AI-infrastructure pure-play, plus the second-derivative names (power, cooling, memory) that depend on this spending continuing.</p>
+
+      <div class="timeframes">
+        <div class="timeframe">
+          <span class="timeframe-label">1 WEEK</span>
+          <span class="timeframe-text">Nebius reports May 13 pre-market. Strong revenue beat with margin improvement = thesis intact, sentiment recovers. Revenue beat but margin compression = thesis cracking, sector under pressure. Revenue miss = entire AI-infra complex re-rates.</span>
+        </div>
+        <div class="timeframe">
+          <span class="timeframe-label">3 MONTHS</span>
+          <span class="timeframe-text"><span class="confidence confidence-interp">Interp</span> If Microsoft, Google, Meta, Amazon trim their AI spending plans for H2 2026 in their next earnings, the unwind moves from specialty cloud (CRWV, NBIS) to the hyperscalers themselves. That's the moment AI becomes a tactical question instead of a strategic one.</span>
+        </div>
+        <div class="timeframe">
+          <span class="timeframe-label">1 YEAR</span>
+          <span class="timeframe-text"><span class="confidence confidence-speculation">Spec</span> Either: (a) AI inference revenue scales fast enough to validate spending, and the picks-and-shovels names continue working; or (b) it doesn't, and we get a meaningful drawdown across the entire AI-adjacent complex. The honest answer is no one knows which yet — but the data points are starting to arrive.</span>
+        </div>
+      </div>
+
+      <div class="positioning">
+        <div class="positioning-label">How a sharp investor thinks about this</div>
+        <span class="confidence confidence-interp">Interp</span> The smart positioning isn't a directional bet — it's relative-value. A pairs trade structure: long companies with profitable AI exposure (chip-makers with high margins, hyperscalers with proven monetization) vs. short companies still in spend-mode (specialty AI cloud, unprofitable infrastructure). Sharp money doesn't liquidate on one print; it shifts the mix. For a beginner: the lesson is that AI-related stocks are no longer one homogeneous trade. They've split into "profitable AI" and "spending AI", and those are now different bets.
+      </div>
+    </div>
+
+    <!-- STORY 2 -->
+    <div class="news-item">
+      <div class="kicker">Story No. 2 · Geopolitics &amp; Oil</div>
+      <h3 class="news-headline">Trump rejected Iran's ceasefire proposal as "totally unacceptable." Brent crude jumped to $104.</h3>
+
+      <p class="news-body"><span class="confidence confidence-fact">Fact</span> On Sunday May 10, Iran responded to a U.S. ceasefire proposal demanding the lifting of sanctions, an end to the naval blockade, and recognition of Iranian sovereignty over the Strait of Hormuz. Trump rejected it publicly Monday, calling it "TOTALLY UNACCEPTABLE" and saying the ceasefire was "on life support." Brent crude jumped 2.7% to ~$104/barrel; WTI rose nearly 5% intraday to $100.30. The Strait remains largely closed to commercial traffic except for occasional confidence-building passages.</p>
+
+      <p class="news-body"><span class="confidence confidence-fact">Fact</span> The war has now persisted for 72 days. <span class="confidence confidence-interp">Interp</span> Historical context: most "geopolitical premium" trades in oil reverse within 30-60 days as supply chains adapt. This one is now lasting long enough that elevated prices may be entering structural rather than premium territory. The market is starting to behave as if $100 oil is the new baseline, not a spike.</p>
+
+      <div class="news-why">Why this actually matters</div>
+      <p class="news-body"><span class="confidence confidence-interp">Interp</span> Oil at $100+ isn't an energy story — it's a macro story. It directly affects: (1) <span class="term" data-term="inflation">inflation</span> readings (gasoline, transport, food), (2) Fed policy (can they cut rates with oil this high?), (3) consumer spending (especially lower-income households), and (4) the bond market (longer-term Treasury yields). When you hear "oil at $104," translate it to: "the Fed probably can't cut rates this year, growth stocks face headwinds, energy stocks keep working, and the consumer K-shape deepens."</p>
+
+      <div class="timeframes">
+        <div class="timeframe">
+          <span class="timeframe-label">1 WEEK</span>
+          <span class="timeframe-text"><span class="confidence confidence-fact">Fact</span> CPI report drops this week. If hot, the rate-cut hopes evaporate. If cool, rates rally on hope. Either way, this is the most important data point of the month — and oil prices feed directly into it.</span>
+        </div>
+        <div class="timeframe">
+          <span class="timeframe-label">3 MONTHS</span>
+          <span class="timeframe-text"><span class="confidence confidence-interp">Interp</span> If Iran-US negotiations remain stalled into summer, we are looking at "stagflation-lite": slow growth, sticky inflation, no rate cuts. That environment is brutal for growth stocks, neutral-to-positive for energy/value, and ugly for long-duration assets (TLT, long bonds).</span>
+        </div>
+        <div class="timeframe">
+          <span class="timeframe-label">1 YEAR</span>
+          <span class="timeframe-text"><span class="confidence confidence-speculation">Spec</span> Resolution scenarios remain wildly open. A sudden peace deal would drop oil 15-25% in days. A widening conflict (Iran-Israel direct, or strikes on Saudi infrastructure) could push oil to $130+. Both outcomes have non-trivial probability. The honest position is "I don't know which, and neither does anyone else."</span>
+        </div>
+      </div>
+
+      <div class="positioning">
+        <div class="positioning-label">How a sharp investor thinks about this</div>
+        <span class="confidence confidence-interp">Interp</span> The interesting setup is asymmetric protection, not directional bets. Energy stocks have priced in continued conflict — but a peace deal could erase 15-20% of those stocks' value in days. Sophisticated investors who are long energy are buying cheap downside protection (out-of-the-money puts on <span class="ticker" data-ticker="XLE">XLE</span>, calls on long-duration Treasuries). For a beginner: the lesson is that owning energy stocks right now means you're implicitly betting on continued conflict, whether you realize it or not. That's a geopolitics bet, not an energy bet.
+      </div>
+    </div>
+
+    <!-- STORY 3 -->
+    <div class="news-item">
+      <div class="kicker">Story No. 3 · Market Structure</div>
+      <h3 class="news-headline">The "Great Rotation" is real, ongoing, and almost nobody is talking about it.</h3>
+
+      <p class="news-body"><span class="confidence confidence-fact">Fact</span> The Russell 2000 (small-cap index) is up ~8-9% year-to-date in 2026. The S&amp;P 500 is up modestly. For the first time in over a decade, small-caps are meaningfully outperforming mega-caps. The valuation gap that opened in 2024-2025 (S&amp;P 500 forward P/E ~26, Russell 2000 forward P/E ~18) is starting to close — not by mega-caps falling, but by small-caps rising.</p>
+
+      <p class="news-body"><span class="confidence confidence-interp">Interp</span> Multiple forces driving this: (1) the OBBBA tax legislation restored 100% bonus depreciation and immediate R&amp;D expensing — a much bigger boost for capital-intensive small-caps than mega-caps; (2) Fed easing cycle benefits more-leveraged small-caps disproportionately; (3) AI buildout has shifted from "narrow hardware" to broader "real economy" beneficiaries (electrical, HVAC, construction). The Russell 2000 outperformed the Nasdaq for 10 consecutive sessions in January — the longest such streak in 30+ years.</p>
+
+      <div class="news-why">Why this actually matters</div>
+      <p class="news-body"><span class="confidence confidence-interp">Interp</span> When market leadership broadens from a narrow group of mega-caps to small/mid-caps, two things historically happen: (1) the bull market lasts longer (broader participation is healthier than narrow leadership); (2) the kinds of stocks that work change completely. The Magnificent Seven era was about owning a few names. The rotation era is about stock-picking among thousands.</p>
+
+      <p class="news-body"><span class="confidence confidence-interp">Interp</span> For a beginner with an S&amp;P 500 index fund: you're underweighting the part of the market that's currently outperforming. Adding a small Russell 2000 allocation (e.g., <span class="ticker" data-ticker="IWM">IWM</span>) is one way to broaden exposure without picking individual names. <span class="confidence confidence-speculation">Spec</span> The historical analog is 2000-2006, when small-caps significantly outperformed for years after the dot-com bubble burst. Whether 2026 follows the same path is unknown, but the structural similarities are real.</p>
+
+      <div class="timeframes">
+        <div class="timeframe">
+          <span class="timeframe-label">1 WEEK</span>
+          <span class="timeframe-text">Watch whether the rotation continues if AI infrastructure names get hit (Nebius earnings). If small-caps hold while mega-caps wobble, the rotation thesis strengthens. If both fall, it's a different (and worse) story.</span>
+        </div>
+        <div class="timeframe">
+          <span class="timeframe-label">3 MONTHS</span>
+          <span class="timeframe-text"><span class="confidence confidence-interp">Interp</span> If Fed cuts materialize, small-caps' interest-rate sensitivity becomes a tailwind. If Fed pauses on inflation concerns, small-caps face refinancing pressure. The Fed's June meeting is the key event.</span>
+        </div>
+        <div class="timeframe">
+          <span class="timeframe-label">1 YEAR</span>
+          <span class="timeframe-text"><span class="confidence confidence-speculation">Spec</span> If the rotation is the start of a multi-year regime change (like 2000-2006), it has years to run. If it's a fakeout (like 2016, 2019, 2023, and other failed "rotation" calls), it reverses by Q3. Distinguishing between these in real time is one of the hardest things in markets.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- SKIPPED -->
+    <div class="skipped">
+      <div class="skipped-title">Headlines we ignored — and what they were trying to make you do</div>
+      <ul>
+        <li><strong>"Analyst raises Apple price target to $X"</strong> — Sell-side price targets follow stock prices, they don't lead them. The analyst is updating to match where the stock already is. Pure noise.</li>
+        <li><strong>"S&amp;P 500 hits new all-time high"</strong> — Records happen routinely in bull markets. It's a milestone, not information. The day the market <em>stops</em> hitting new highs is the news, not when it does.</li>
+        <li><strong>"Famous investor X just bought/sold Y"</strong> — Most quarterly 13F filings are 45+ days old by the time you see them. The position you're reading about may have already been exited.</li>
+        <li><strong>"Hantavirus outbreak on cruise ship, Moderna jumps 7.5%"</strong> — Pandemic-trade reflex. Single-event vaccine spikes have historically faded within weeks. Unless you have specialty knowledge in infectious disease, this is gambling on a news cycle, not investing.</li>
+        <li><strong>"Bitcoin down 7% YTD"</strong> — Crypto noise unless you're already in it. Bitcoin's correlation to equities is high enough that if you own stocks, you already have crypto-like risk in your portfolio without realizing it.</li>
+        <li><strong>"Lumentum added to Nasdaq index"</strong> — Index inclusion adds passive buying mechanically, but the pop is usually priced in before announcement. Not a thesis, just plumbing.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 2: CONCEPT ===== -->
+  <section class="section" id="section-2">
+    <div class="section-number">§ 02</div>
+    <h2 class="section-title">Concept of the week</h2>
+    <div class="section-subtitle">Understanding why stocks move on earnings — and why "earnings beat" doesn't always mean "stock goes up."</div>
+    <hr class="section-divider">
+
+    <div class="kicker">This week's concept</div>
+    <div class="concept-callout">Stocks don't trade on results. They trade on results relative to expectations.</div>
+
+    <p>This week, two companies reported earnings that "beat estimates" — and both their stocks fell. <span class="ticker" data-ticker="TTD">TTD</span> (The Trade Desk) beat on revenue and fell 14%. <span class="ticker" data-ticker="CRWV">CRWV</span> (CoreWeave) grew revenue 200% year-over-year and fell 10%. Meanwhile, <span class="ticker" data-ticker="OSCR">OSCR</span> (Oscar Health) beat earnings by 85% and the stock barely moved.</p>
+
+    <p>If "good news = stock up" were the rule, none of this would make sense. The actual rule is far more interesting, and once you understand it, you'll never read an earnings report the same way again.</p>
+
+    <p><strong>The thing professionals watch is not the number — it's the change in expectations.</strong> A stock's price reflects all known information and all expected future results. When a company reports, three things matter:</p>
+
+    <ol style="margin: 16px 0 16px 28px; font-family: 'Fraunces', serif; font-size: 16px; line-height: 1.6;">
+      <li><strong>The print</strong> — what they actually earned this quarter. Usually the least important.</li>
+      <li><strong>The guidance</strong> — what they expect for next quarter and the year. Usually the most important.</li>
+      <li><strong>The reaction relative to the setup</strong> — what was already priced in? If the stock was up 50% going in, an "in-line" print is a disappointment. If it was beaten down 40%, a small beat is a triumph.</li>
+    </ol>
+
+    <div class="example-box">
+      <div class="label">Three real examples from this week</div>
+      <p style="font-family: 'Fraunces', serif; font-size: 16px; line-height: 1.6; margin-bottom: 14px;"><strong><span class="ticker" data-ticker="TTD">TTD</span> beat revenue, fell 14%.</strong> Why? Because Q2 guidance was $750M vs. $772M consensus. The print was fine; the <em>forward expectations</em> were cut. Multiple analysts downgraded the next day. The stock fell on guidance, not on earnings.</p>
+
+      <p style="font-family: 'Fraunces', serif; font-size: 16px; line-height: 1.6; margin-bottom: 14px;"><strong><span class="ticker" data-ticker="CRWV">CRWV</span> grew revenue 200% YoY, fell 10%.</strong> Why? Because growth of 200% wasn't enough when investors were modeling 220%+ implied by the capex they're spending. When you spend $30B+ to build capacity, the market expects revenue to follow. It didn't, fast enough.</p>
+
+      <p style="font-family: 'Fraunces', serif; font-size: 16px; line-height: 1.6; margin-bottom: 0;"><strong><span class="ticker" data-ticker="OSCR">OSCR</span> beat EPS by 85%, stock barely moved.</strong> Why? Because the stock had already run +47% in 30 days going into the print. The good news was already priced in. Even a massive beat couldn't push it materially higher.</p>
+    </div>
+
+    <p style="margin-top: 24px;"><strong>What to do with this:</strong> Before any company you own reports earnings, check three things — (1) what's consensus expecting? (2) what's the stock done in the 30 days leading up? (3) what's management's history of guiding conservative vs. aggressive? A "beat" against low expectations on a beaten-down stock is bullish. A "beat" against high expectations on a stock that's already ripped is dangerous.</p>
+
+    <p>This is also why the financial press gets earnings reactions wrong constantly. Headlines say "stock falls despite beating earnings — investors confused." Investors aren't confused. The headline writer is.</p>
+  </section>
+
+  <!-- ===== SECTION 3: DISSECTION ===== -->
+  <section class="section" id="section-3">
+    <div class="section-number">§ 03</div>
+    <h2 class="section-title">A move dissected</h2>
+    <div class="section-subtitle">One stock move, traced from headline to underlying reason. Builds the most important investing skill: recognizing what's actually driving prices.</div>
+    <hr class="section-divider">
+
+    <div class="dissection-card">
+      <div class="dissection-meta">
+        <span><strong>Ticker:</strong> <span class="ticker" data-ticker="TTD">TTD</span></span>
+        <span><strong>Company:</strong> The Trade Desk</span>
+        <span><strong>Move:</strong> <span class="move-indicator move-down">–14%</span></span>
+        <span><strong>Date:</strong> May 8, 2026</span>
+      </div>
+
+      <div class="dissection-step">
+        <div class="dissection-step-label">Step 1 · The headline reason</div>
+        <p style="margin-bottom: 0;">"Trade Desk misses earnings expectations and provides weak Q2 guidance." This is what 90% of financial media reported. <span class="confidence confidence-fact">Fact</span> Adjusted EPS of $0.28 vs $0.32 expected. Q2 revenue guidance of $750M vs $772M consensus.</p>
+      </div>
+
+      <div class="dissection-step">
+        <div class="dissection-step-label">Step 2 · What's underneath that headline</div>
+        <p style="margin-bottom: 0;"><span class="confidence confidence-fact">Fact</span> Revenue growth has decelerated from 25% YoY in Q1 2025, to 14% in Q4 2025, to 12% in Q1 2026 — and Q2 guidance implies just ~8%. <span class="confidence confidence-interp">Interp</span> That's not a "soft quarter." That's a clear, sustained deceleration of growth that has been happening for over a year. The market is finally pricing it in.</p>
+      </div>
+
+      <div class="dissection-step">
+        <div class="dissection-step-label">Step 3 · The actual structural story</div>
+        <p style="margin-bottom: 0;"><span class="confidence confidence-interp">Interp</span> The Trade Desk built the leading independent demand-side platform for digital advertising. Their pitch: agencies and brands can buy ads programmatically across the entire open web through them, instead of going directly to Google or Meta. That model is being challenged from two directions: (1) <strong>walled gardens</strong> — Google, Meta, and Amazon are capturing more ad dollars directly, bypassing intermediaries; (2) <strong>retail media networks</strong> — Walmart, Amazon, Target, and others are building their own ad networks that don't need TTD. Plus, Publicis (a major ad agency) reportedly advised clients against TTD in March. This is not a "missed quarter." It's a thesis-changing structural shift.</p>
+      </div>
+
+      <div class="dissection-step">
+        <div class="dissection-step-label">Step 4 · What it means for sharp investors vs. retail investors</div>
+        <p style="margin-bottom: 0;"><span class="confidence confidence-interp">Interp</span> A sharp investor read this print and asked: "Is this a quality company that hit a rough patch (in which case down 14% is opportunity), or is this a structural decline (in which case down 14% is just the start)?" The downgrades from KeyBanc, Oppenheimer, and William Blair all explicitly cited <em>structural</em> factors — not cyclical ones. That's the tell. <span class="confidence confidence-speculation">Spec</span> When sell-side analysts who were bullish suddenly use the word "structural" to describe a thesis change, the stock typically has further to fall before it bottoms.</p>
+      </div>
+
+      <div class="dissection-step">
+        <div class="dissection-step-label">Step 5 · The lesson</div>
+        <p style="margin-bottom: 0;">The financial press will tell you why a stock moved <em>today</em>. That answer is rarely the real one. The real reason is usually a slower-moving structural force — competition, business model change, technological shift — that was visible for months before today's print. Your job as an investor is to read past the headline and ask: "What does this print tell me about what's been quietly happening for a while?"</p>
+      </div>
+    </div>
+
+    <p style="font-style: italic; color: var(--ink-muted); font-size: 15px; margin-top: 24px;">In future briefs, this section will dissect a different move each week — sometimes a winner, sometimes a loser. Over time, you'll start to see the recurring patterns: deceleration prints, structural-shift prints, sentiment-flush prints, narrative-change prints. The patterns are finite, and recognizing them is most of the skill.</p>
+  </section>
+
+  <!-- ===== SECTION 4: SECTORS ===== -->
+  <section class="section" id="section-4">
+    <div class="section-number">§ 04</div>
+    <h2 class="section-title">Sectors that mattered</h2>
+    <div class="section-subtitle">Only the sectors where something genuinely happened. Equal coverage of every sector dilutes the signal.</div>
+    <hr class="section-divider">
+
+    <!-- HEALTHCARE -->
+    <h3 class="subsection-title">Healthcare</h3>
+    <p class="subsection-tagline">The contrarian setup we flagged last week is starting to pay off — for one specific subsector.</p>
+
+    <p><span class="confidence confidence-fact">Fact</span> Healthcare is the only S&amp;P 500 sector still showing year-over-year earnings declines in Q1 2026. <span class="confidence confidence-fact">Fact</span> But within that picture, individual names are diverging sharply. <span class="ticker" data-ticker="OSCR">OSCR</span> (Oscar Health) reported Q1 EPS of $2.07 vs $1.12 expected — an 85% beat. Net income hit a record $679M. Stock has run +47% in 30 days, +65% in 90 days. Membership grew to 3.17M.</p>
+
+    <p><span class="confidence confidence-interp">Interp</span> What's happening in Oscar isn't really about Oscar. It's about the <em>individual health insurance market</em> — people buying insurance through ACA exchanges rather than through employers. That market is growing because: (1) the workforce is shifting (more gig workers, contractors, small business owners); (2) Oscar uses technology to lower operating costs vs. legacy insurers; (3) the medical loss ratio improved from 75.4% to 70.5% — meaning more of each premium dollar is profit. The thesis: tech-enabled insurance is taking share from legacy insurers, and it's just getting started.</p>
+
+    <div class="example-box">
+      <div class="label">A genuinely interesting opportunity setup</div>
+      <p style="margin-bottom: 0; font-family: 'Fraunces', serif; font-size: 16px; line-height: 1.6;">Oscar trades at a P/S (price-to-sales) of ~0.5x versus 0.7-1.1x for peers. The stock has run hard, but it's still cheaper than legacy insurers on most fundamental measures. <span class="confidence confidence-speculation">Spec</span> If management's $250-450M operating earnings guidance holds, and revenue hits the $18.7-19B range, this is a stock with significant operating leverage that the market is just starting to recognize. Worth doing real homework on. Click the ticker for more.</p>
+    </div>
+
+    <hr style="border: none; border-top: 1px solid var(--rule); margin: 48px 0 32px;">
+
+    <!-- ENERGY -->
+    <h3 class="subsection-title">Energy</h3>
+    <p class="subsection-tagline">No longer "rallying on news" — the market is starting to price elevated oil as a structural condition.</p>
+
+    <p><span class="confidence confidence-fact">Fact</span> WTI sits at ~$98-100, Brent at ~$104. The XLE energy sector ETF rose 37% in Q1 2026. Major beneficiaries: <span class="ticker" data-ticker="APA">APA</span> (+73% Q1), <span class="ticker" data-ticker="TPL">TPL</span> (+65%), <span class="ticker" data-ticker="OXY">OXY</span> (+58%).</p>
+
+    <p><span class="confidence confidence-interp">Interp</span> Here's the more interesting observation: in the past week, despite oil rallying further on the failed ceasefire, energy stocks didn't move proportionally. That divergence usually means one of two things: (1) the easy gains are gone and the market is starting to price in geopolitical resolution risk, or (2) sector rotation is happening — money is moving out of energy and into something else even as oil rises. <span class="confidence confidence-speculation">Spec</span> Either interpretation argues for being less excited about energy from here, despite the oil price.</p>
+
+    <p>The opportunity in energy this week is not "buy more." It's "if I own energy, am I prepared for the down case?" A peace deal headline tomorrow could cut these stocks 15-20% in days.</p>
+
+    <hr style="border: none; border-top: 1px solid var(--rule); margin: 48px 0 32px;">
+
+    <!-- TECH -->
+    <h3 class="subsection-title">Technology</h3>
+    <p class="subsection-tagline">Splitting into "profitable AI" and "spending AI" — and the gap is widening.</p>
+
+    <p><span class="confidence confidence-fact">Fact</span> The big tell this week was differentiation within tech. <span class="ticker" data-ticker="AMD">AMD</span> beat Q1 and rose 2.4% — measured response to a measured beat. <span class="ticker" data-ticker="NVDA">NVDA</span> trades near highs on continued data center demand. <span class="ticker" data-ticker="CRWV">CRWV</span> fell 10% on guidance. <span class="ticker" data-ticker="TTD">TTD</span> fell 14% on structural concerns. <span class="ticker" data-ticker="NBIS">NBIS</span> hits highs ahead of its Wednesday report.</p>
+
+    <p><span class="confidence confidence-interp">Interp</span> The era of "buy any AI-related stock" is ending. What's replacing it: discrimination between companies that have profitable AI exposure (chip makers, established hyperscalers, software companies with clear monetization) and companies that are still spending heavily without proven returns (specialty AI clouds, unprofitable infrastructure plays). The market is starting to price these differently — finally.</p>
+
+    <p><strong>The key tell:</strong> Watch how the market reacts to Nebius tomorrow. If they beat revenue but face the same operating leverage concerns as CoreWeave, "spending AI" gets re-rated lower. If they show genuine margin improvement, the thesis lives another quarter.</p>
+
+    <!-- QUIET -->
+    <div class="quiet">
+      <div class="quiet-title">Other sectors, briefly</div>
+      <div class="quiet-item"><strong>Financials:</strong> No major moves. Banks remain quiet beneficiaries of the steepening yield curve. <span class="confidence confidence-interp">Interp</span> The risk we flagged last week (banks' exposure to AI-infrastructure lending) hasn't shown up in data yet, but if AI capex slowdown continues, it's a 2-3 quarter delayed concern.</div>
+      <div class="quiet-item"><strong>Consumer:</strong> <span class="ticker" data-ticker="DG">DG</span> (Dollar General) fell 5.8% on soft guidance and a CEO transition. <span class="confidence confidence-interp">Interp</span> Even at the deep-discount end of the K-shape (where you'd expect to win from consumer trade-down), execution challenges are showing up. The K-shape isn't a uniform tailwind for discounters — quality matters.</div>
+      <div class="quiet-item"><strong>Industrials:</strong> AI-infrastructure beneficiaries (<span class="ticker" data-ticker="PWR">PWR</span>, <span class="ticker" data-ticker="GEV">GEV</span>) continue at extreme valuations. No major moves this week, but they remain at risk if the AI infra thesis cracks.</div>
+      <div class="quiet-item"><strong>Communication Services:</strong> Largest contributor to overall S&amp;P earnings beat this quarter. Alphabet, Netflix, Meta all crushed Q1 estimates. Quiet because the leadership is so established, but the earnings are the strongest in the index.</div>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 5: PATTERN RECOGNITION ===== -->
+  <section class="section" id="section-5">
+    <div class="section-number">§ 05</div>
+    <h2 class="section-title">Pattern recognition</h2>
+    <div class="section-subtitle">Markets repeat patterns more than they admit. This week's pattern is one of the most important ones to recognize.</div>
+    <hr class="section-divider">
+
+    <div class="kicker">This week's pattern</div>
+    <div class="concept-callout">"The first crack" — when one company in a hot theme misses, watch what the market does to the next one.</div>
+
+    <p>One of the most reliable patterns in markets: when a hot theme is fully consensus, the first company to disappoint creates an immediate test. The question is whether the next company in line confirms the issue, or whether the first miss was idiosyncratic.</p>
+
+    <p><strong>The pattern:</strong> Hot theme runs for months. First company misses or guides weakly. Stock falls 10-15%. The other companies in the theme initially dip in sympathy but quickly recover. Then the second-most-similar company reports. <em>This is the actual moment of truth.</em></p>
+
+    <ul style="margin: 16px 0 16px 24px; font-family: 'Fraunces', serif; font-size: 16px; line-height: 1.65;">
+      <li>If the second company prints clean and the first miss looks isolated, the theme survives. The sector recovers.</li>
+      <li>If the second company shows similar weakness, the theme is in trouble. The whole complex re-rates lower.</li>
+    </ul>
+
+    <p><span class="confidence confidence-interp">Interp</span> Historical examples of this pattern playing out:</p>
+
+    <ul style="margin: 12px 0 16px 24px; font-family: 'Fraunces', serif; font-size: 16px; line-height: 1.65;">
+      <li><strong>Snowflake's first guidance cut (2022)</strong> → followed by similar weakness in MongoDB, Datadog, others. The "data cloud" theme re-rated lower across the board.</li>
+      <li><strong>Peloton's first sales miss (2021)</strong> → confirmed by other COVID-beneficiary names. The "pandemic stocks" trade unwound over the next year.</li>
+      <li><strong>Cisco's first guide-down (early 2000)</strong> → confirmed by every other dot-com infrastructure name. The bubble's first definitive cracks appeared in earnings, not in stock prices.</li>
+    </ul>
+
+    <p>This week, we're watching exactly this pattern develop in AI infrastructure. <span class="ticker" data-ticker="CRWV">CRWV</span> was the first crack. <span class="ticker" data-ticker="NBIS">NBIS</span> tomorrow is the confirmation test.</p>
+
+    <div class="positioning">
+      <div class="positioning-label">How to use this pattern as an investor</div>
+      <span class="confidence confidence-interp">Interp</span> Don't immediately sell on the first crack — markets often shrug them off. Don't immediately buy the dip on the first crack either — sometimes it's the leading edge. The right action is to <em>wait for the confirmation test</em>. If the second company confirms the weakness, you have time to reduce exposure or open downside hedges. If it doesn't, the dip in the first name often becomes a real buying opportunity. The pattern rewards patience, not reflexes.
+    </div>
+  </section>
+
+  <!-- ===== SECTION 6: STORY TRACKER ===== -->
+  <section class="section" id="section-6">
+    <div class="section-number">§ 06</div>
+    <h2 class="section-title">The story tracker</h2>
+    <div class="section-subtitle">Themes don't develop in a single week. Here's what we're tracking and how each one moved since last issue.</div>
+    <hr class="section-divider">
+
+    <div class="story">
+      <h3 class="story-title">Is the AI spending boom slowing down?</h3>
+      <div class="story-meta">Tracking since Issue #1 · Status: <span class="story-status status-test">Test Tomorrow</span></div>
+      <p style="font-size: 16px;">Last week we flagged CoreWeave as the "first crack." This week, the confirmation test arrives: Nebius reports tomorrow (May 13). This story now moves from "watching" to "active."</p>
+      <p class="story-progress">Movement since last issue: Significant. The thesis went from "maybe a concern" to "the next earnings print resolves it."</p>
+    </div>
+
+    <div class="story">
+      <h3 class="story-title">Will the Iran conflict resolve, and when?</h3>
+      <div class="story-meta">Tracking since Issue #1 · Status: <span class="story-status status-cracking">Worsened</span></div>
+      <p style="font-size: 16px;">Last week: tankers cautiously crossing Hormuz; markets pricing some resolution probability. This week: Trump publicly rejected Iran's response, calling it "totally unacceptable." Brent at $104. The ceasefire is now described by the President as "on life support." Conflict is now 72 days old — longer than most geopolitical premium trades historically last.</p>
+      <p class="story-progress">Movement since last issue: Negative. Resolution probability decreased, baseline of $100+ oil hardening into expectations.</p>
+    </div>
+
+    <div class="story">
+      <h3 class="story-title">The Great Rotation: small-caps over mega-caps</h3>
+      <div class="story-meta">New this issue · Status: <span class="story-status status-developing">Active</span></div>
+      <p style="font-size: 16px;">Added this week because it's been quietly happening since January and deserves attention. Russell 2000 up ~8-9% YTD vs S&amp;P 500 up modestly. OBBBA tax provisions, Fed easing, and AI buildout broadening are the drivers. Whether this is structural (multi-year) or another fakeout (reverses by Q3) is the key question.</p>
+      <p class="story-progress">Movement since last issue: New tracking. Will watch month-over-month relative performance of IWM vs SPY.</p>
+    </div>
+
+    <div class="story">
+      <h3 class="story-title">Is the K-shape consumer becoming permanent?</h3>
+      <div class="story-meta">Tracking since Issue #1 · Status: <span class="story-status status-watching">Watching</span></div>
+      <p style="font-size: 16px;">No major new data this week. Retail sales report this week is the key data point. <span class="ticker" data-ticker="DG">DG</span> (Dollar General) softness suggests even the deep-discount end of consumer is facing pressure, which complicates a simple "K-shape = own Walmart and Costco" thesis.</p>
+      <p class="story-progress">Movement since last issue: Slightly negative (DG softness). Awaiting retail sales data.</p>
+    </div>
+
+    <div class="story">
+      <h3 class="story-title">Will the Fed cut rates in 2026?</h3>
+      <div class="story-meta">Tracking since Issue #1 · Status: <span class="story-status status-cracking">Cracking</span></div>
+      <p style="font-size: 16px;">Oil at $104 makes the Fed's job significantly harder. Markets had been pricing one cut in 2026; that probability is now lower. <span class="confidence confidence-speculation">Spec</span> If May CPI comes in hot, the next move is "Fed pauses, possibly hawkish surprise" rather than "Fed cuts." That repricing has not fully happened yet.</p>
+      <p class="story-progress">Movement since last issue: Lower probability of cuts. CPI report this week is the next major data point.</p>
+    </div>
+
+    <div class="story">
+      <h3 class="story-title">Healthcare: rotation candidate or value trap?</h3>
+      <div class="story-meta">Tracking since Issue #1 · Status: <span class="story-status status-confirmed">Partially Confirmed</span></div>
+      <p style="font-size: 16px;">Oscar Health's massive Q1 beat and 47% one-month run suggests that within healthcare, there are real opportunities being missed. <span class="confidence confidence-interp">Interp</span> The "unloved sector becoming the next leadership" thesis is starting to show signs in <em>specific names</em> rather than across the whole sector. The contrarian setup is real, but selective.</p>
+      <p class="story-progress">Movement since last issue: Positive. The thesis is starting to show evidence, but in a more granular way than expected.</p>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 7: TOOLKIT ===== -->
+  <section class="section" id="section-7">
+    <div class="section-number">§ 07</div>
+    <h2 class="section-title">Your toolkit</h2>
+    <div class="section-subtitle">Tool №02 this week. Over 52 weeks, this builds into a real framework for thinking about markets.</div>
+    <hr class="section-divider">
+
+    <div class="tool">
+      <div class="tool-number">TOOL № 02 · NEW THIS WEEK</div>
+      <h3 class="tool-name">The Earnings Reaction Decoder</h3>
+      <p style="margin-bottom: 12px;">Before any company you own (or are considering) reports earnings, ask these five questions. They'll prevent you from being confused by reactions that look irrational on the surface.</p>
+      <ol>
+        <li><strong>What does consensus expect?</strong> Both for this quarter and forward guidance. Without knowing the bar, you can't tell if it was cleared.</li>
+        <li><strong>What has the stock done in the last 30 days?</strong> A stock up 20% into earnings has a much higher implicit bar than one down 20%.</li>
+        <li><strong>What's management's history with guidance?</strong> Some companies (Trade Desk historically, NVDA) consistently sandbag and beat. Others (Salesforce, traditionally) guide aggressively and sometimes miss. Same number, different meaning.</li>
+        <li><strong>What's the most-watched single metric?</strong> For SaaS companies it's often net revenue retention. For chipmakers it's data center revenue. For banks it's net interest income. Whatever it is, that's what moves the stock.</li>
+        <li><strong>What would the bear case need to see to be confirmed or denied?</strong> If you're long, you need to know in advance what would change your mind. Earnings is when you find out.</li>
+      </ol>
+      <div class="tool-meta">Keep this checklist somewhere you'll see it before any earnings you care about. Even doing this exercise without acting on it makes you a sharper reader of markets within a few quarters.</div>
+    </div>
+
+    <div class="toolkit-history">
+      <h4>Toolkit so far · The list grows each week</h4>
+      <p>Tool № 01 — The Four Questions Before Buying Any Stock (Issue #1)</p>
+      <p>Tool № 02 — The Earnings Reaction Decoder (Issue #2)</p>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 8: WEEK AHEAD ===== -->
+  <section class="section" id="section-8">
+    <div class="section-number">§ 08</div>
+    <h2 class="section-title">The week ahead</h2>
+    <div class="section-subtitle">Four specific things to watch this week, why each matters, and what to learn from each one.</div>
+    <hr class="section-divider">
+
+    <div class="news-item">
+      <h3 class="news-headline">Wednesday, May 13 (pre-market): Nebius Q1 earnings</h3>
+      <p class="news-body">The single most important market event of the week. Consensus: $316.9M revenue, $(0.81) EPS. The bigger questions: revenue trajectory toward 2026 ARR target of $7-9B, EBITDA margin progression, and any commentary on Eigen AI integration.</p>
+      <p class="news-body"><strong>What to learn:</strong> Watch the market's <em>first 30 minutes</em> of reaction. That's professionals making real decisions on real information. The narrative in the financial media will lag the price action by hours. The price action is the truth.</p>
+    </div>
+
+    <div class="news-item">
+      <h3 class="news-headline">This week: CPI report (April data)</h3>
+      <p class="news-body">The main inflation reading. Core CPI is the most-watched number. Above expectations = Fed cuts off the table, equities sell off. Below expectations = rate-cut hopes revive, equities rally. The Iran conflict at $104 oil makes this print harder to predict than usual.</p>
+      <p class="news-body"><strong>What to learn:</strong> Notice which sectors react most. Banks usually love higher rates (NIM expands). Long-duration tech hates them. Consumer staples and energy are relatively insulated. The pattern of reactions teaches you the plumbing.</p>
+    </div>
+
+    <div class="news-item">
+      <h3 class="news-headline">This week: Retail sales report</h3>
+      <p class="news-body">The cleanest data on actual consumer behavior. Breakdown by category matters more than the headline. Strong electronics + weak clothing = trade-down. Strong restaurants + weak grocery = wealthy still spending. Each combination tells a different story about the K-shape.</p>
+      <p class="news-body"><strong>What to learn:</strong> Don't just read "retail sales up 0.3%." Read the components. The professionals read the components.</p>
+    </div>
+
+    <div class="news-item">
+      <h3 class="news-headline">Any Iran headline</h3>
+      <p class="news-body">The ceasefire is described by Trump as "on life support." Any movement in either direction (concession or escalation) will move oil $3-7 in minutes and ripple through every sector. Watch how energy stocks react relative to oil itself — if they decouple, that's a signal the market is starting to discount the geopolitical premium.</p>
+      <p class="news-body"><strong>What to learn:</strong> When unrelated assets start moving together, it tells you what the market actually cares about. Oil up + Treasuries down + dollar up + gold up = stagflation fear. Oil up + Treasuries up + dollar down = recession fear. Same oil move, completely different message.</p>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <div class="footer">
+    <p>This brief is educational. It is not investment advice, financial advice, or a recommendation to buy or sell any security. The information reflects data and reporting as of approximately May 11-12, 2026 and may contain errors or omissions. Markets are unpredictable; past performance does not guarantee future results. Always conduct your own research and consult a qualified financial professional before making investment decisions.</p>
+    <p style="margin-top: 16px;">Click any underlined term for a definition. Click any ticker symbol for company detail with bull case, bear case, key numbers, and what to watch.</p>
+  </div>
+
+</div>
+
+<script>
+const glossary = {
+  "underlined": { label: "How to use this brief", body: "Words underlined with a dotted line have hover definitions. Click any ticker symbol (the orange uppercase ones) to open a detailed panel with bull case, bear case, key numbers, and watch points." },
+  "capex": { label: "Capital Expenditure (Capex)", body: "Money a company spends on long-term assets like factories, equipment, or data centers. High capex means investing in future growth; it reduces current profits but should generate more earnings later. If capex grows faster than revenue, the company is betting on the future faster than the future is paying off." },
+  "inflation": { label: "Inflation", body: "How fast prices rise over time. The Fed targets ~2% per year. When oil prices rise sharply, inflation tends to follow (because everything that uses transport or energy gets more expensive). Higher inflation usually means higher interest rates, which usually hurts stocks — particularly growth stocks with cash flows far in the future." },
+  "operating-leverage": { label: "Operating Leverage", body: "When revenue grows faster than expenses, profit grows faster than revenue. That's positive operating leverage and it's how companies become incredibly profitable at scale. When expenses (especially capex) grow faster than revenue, you get negative operating leverage — exactly what CoreWeave is showing right now. This is what makes AI infrastructure companies hard to value: every dollar of revenue requires growing dollars of investment." },
+  "pe-ratio": { label: "P/E Ratio (Price-to-Earnings)", body: "A stock's price divided by its annual earnings per share. Higher P/E = more expensive (or higher expected growth). Lower P/E = cheaper (or expected problems). Not a 'good' or 'bad' number — it's a story about the future being baked into the price. See Concept of the Week, Issue #1 for the deep dive." }
+};
+
+const tickers = {
+  "DEMO": { name: "Demo", tagline: "Click any orange ticker to see a panel like this.", sector: "Demo", marketCap: "—", pe: "—", growth: "—", thisWeek: "—", bull: "This is where the strongest argument for buying the stock would appear.", bear: "This is where the strongest argument against would appear.", numbers: ["Key financial metrics appear here", "And other notable data points"], watchpoints: ["What to watch next quarter", "What would confirm or deny the thesis"] },
+
+  "CRWV": {
+    name: "CoreWeave", tagline: "The specialty AI cloud at the center of this week's thesis test", sector: "Technology · Specialty AI Cloud", marketCap: "~$60B", pe: "Not yet profitable", growth: "Revenue +200% YoY (Q1)", thisWeek: "Fell ~10% on Q2 guidance miss. Q2 revenue guided to $2.45-2.6B vs $2.69B consensus. Raised 2026 capex to $31-35B.",
+    bull: "Has 'reached hyperscale' with 3.5+ GW of contracted power. Q1 revenue more than doubled YoY to $2.1B. If AI inference demand continues growing, they are positioned to capture massive share. Their gross margins on contracted GPU capacity remain healthy at scale.",
+    bear: "Capex is now $31-35B/year against next-quarter revenue of ~$2.5B. The numbers only work if revenue keeps growing exponentially. The Q2 miss is the first concrete data point that this might not happen. Operating leverage is currently negative and could stay that way for years.",
+    numbers: ["Q1 2026 revenue: $2.1B (vs $982M Q1 2025)", "Q2 2026 guide: $2.45-2.6B (consensus was $2.69B)", "Contracted power: 3.5+ gigawatts", "2026 capex range: $31-35B"],
+    watchpoints: ["Q2 actual revenue: did they hit or beat their own guide?", "Margin trajectory: is operating leverage turning positive?", "New customer mix: are they diversifying away from concentration?", "Capex/revenue ratio: this is the single most important number to track"]
+  },
+
+  "NBIS": {
+    name: "Nebius Group", tagline: "Reports tomorrow (May 13). The most important test for AI infrastructure this quarter.", sector: "Technology · AI Cloud Infrastructure", marketCap: "Has surged ~431% in past year", pe: "Not profitable; ~68x trailing sales", growth: "Q1 consensus: revenue +600% YoY", thisWeek: "Reports Wednesday May 13 pre-market. Consensus: $316.9M revenue, ($0.81) EPS. Recently announced $643M Eigen AI acquisition.",
+    bull: "Contracted backlog approaching $50B, including $27B Meta deal and up to $19.4B from Microsoft. Eigen acquisition moves them up the stack to higher-margin software services. NVIDIA invested $2B in March 2026. Was sold out through Q1 2026. Raised 2026 contracted power target to 3+ GW.",
+    bear: "Trades at 68x trailing sales — extraordinary even for high-growth AI infra. Plans to spend $16-20B on capacity in 2026 while management expects EBIT to remain negative all year. If CoreWeave's miss is the start of a trend, Nebius faces the same operating leverage problem. The market's tolerance for unprofitable AI growth is being tested.",
+    numbers: ["YTD stock performance: ~+100%, +431% over past year", "Contracted backlog: ~$50B", "2026 capex plan: $16-20B", "2026 ARR target: $7-9B", "Eigen AI acquisition: $643M (cash + stock)"],
+    watchpoints: ["Revenue beat vs $316.9M consensus", "Forward ARR commentary — tracking to $7-9B target?", "EBITDA margin direction — improving or worsening?", "Operating leverage trend (same question as CoreWeave)", "First commentary on Eigen integration timeline"]
+  },
+
+  "TTD": {
+    name: "The Trade Desk", tagline: "This week's dissected move — structural shift, not a soft quarter", sector: "Technology · Programmatic Advertising", marketCap: "~$10B (down from ~$50B peak)", pe: "~28x forward", growth: "Q1 revenue +12% (decelerated from 25% one year ago)", thisWeek: "Fell ~14% after Q1 beat revenue but missed EPS. Q2 guidance of $750M came in below $772M consensus. KeyBanc, Oppenheimer, William Blair all downgraded.",
+    bull: "Still genuinely profitable (~30% adjusted EBITDA margin). Free cash flow remains substantial. $350M buyback announced. Down 70%+ from peak — the entire structural concern may already be in the price. If they can stabilize at single-digit growth and protect margins, current valuation could be very attractive.",
+    bear: "Growth rate has fallen from 25% to 12% to projected 8% in just five quarters. That's not a soft patch — that's a structural deceleration. Walled gardens (Google, Meta, Amazon) and retail media networks (Walmart, Amazon Ads, Target) are capturing ad dollars that historically flowed through TTD's open-web platform. Publicis reportedly advising clients against TTD. Multiple sell-side downgrades after the print are typically a leading indicator of further estimate cuts.",
+    numbers: ["Q1 2026 revenue: $689M (+12% YoY)", "Q2 2026 guide: $750M (implied +8% growth)", "Adjusted EBITDA margin: 30% (down from 34%)", "Stock down ~42% YTD, ~63% over past year", "Multiple analyst downgrades May 8"],
+    watchpoints: ["Q2 revenue print vs $750M guide", "Walled garden share commentary from Google/Meta/Amazon", "Retail media network growth — is open-web ad share declining?", "Margin defense — can they maintain profitability as growth slows?", "Any structural product wins (CTV, retail media) to offset open-web pressure"]
+  },
+
+  "OSCR": {
+    name: "Oscar Health", tagline: "This week's juiciest opportunity setup — and the most interesting healthcare story", sector: "Healthcare · Tech-Enabled Health Insurance", marketCap: "~$5B", pe: "Forward earnings just turning positive", growth: "Q1 revenue +55% YoY ($3.0B → $4.6B)", thisWeek: "Reported May 6. Q1 EPS $2.07 vs $1.12 expected (85% beat). Net income hit record $679M. Stock up +47% in 30 days, +65% in 90 days.",
+    bull: "Building the leading tech-enabled health insurance platform for the individual market (people buying insurance directly, not through employers). Membership grew to 3.17M. Medical loss ratio improved from 75.4% to 70.5% — meaningful operating leverage. P/S of ~0.5x vs peers at 0.7-1.1x. Reaffirmed 2026 guidance of $18.7-19B revenue and $250-450M operating earnings. New CEO (Mark Bertolini, former Aetna CEO) bringing operational discipline.",
+    bear: "Stock has run +47% in a month. A lot of the good news is now priced in. Healthcare regulation risk in 2026 midterm year — drug pricing and ACA changes could affect economics. Profitability is still very new — sustained margin expansion isn't guaranteed. If the individual market growth slows (sunset of enhanced premium tax credits), 2027 numbers could disappoint.",
+    numbers: ["Q1 2026 revenue: $4.65B (vs $3.0B Q1 2025)", "Q1 2026 net income: $679M (vs $275M)", "Membership: 3.17M (concentrated individual + small group)", "Medical loss ratio: 70.5% (improved from 75.4%)", "Operating cash flow Q1: $2.62B", "Cash + restricted cash: $4.83B"],
+    watchpoints: ["MLR trajectory through 2026 (will deteriorate seasonally — watch how much)", "Membership growth, especially post-ACA tax credit sunset", "Operating margin trend — sustained or one-quarter pop?", "Regulatory headlines (drug pricing, ACA)", "Lucie Health Marketplace traction (their new platform)"]
+  },
+
+  "APA": { name: "APA Corp", tagline: "High-leverage oil play; Q1 leader", sector: "Energy · E&P", marketCap: "Mid-cap", pe: "Volatile with oil price", growth: "—", thisWeek: "Continued strength on geopolitical premium", bull: "High operational leverage to crude prices. Q1 leader at +73%. Exploration upside in addition to production.", bear: "Same leverage cuts both ways. When oil drops, APA drops harder than majors. Highly cyclical.", numbers: ["Q1 2026 return: +73.51%"], watchpoints: ["Crude price direction", "Iran headlines", "Production guidance"] },
+
+  "TPL": { name: "Texas Pacific Land Corp", tagline: "Royalty model — collects checks without drilling", sector: "Energy · Land & Royalty", marketCap: "Mid-cap", pe: "Elevated", growth: "—", thisWeek: "Drifting on oil price", bull: "No drilling, just royalties. Zero capex, all cash flow. Premium business model.", bear: "Trades at significant premium to E&Ps. Royalty model is excellent but priced.", numbers: ["Q1 2026 return: +65.23%"], watchpoints: ["Oil price", "Permian production trends"] },
+
+  "OXY": { name: "Occidental Petroleum", tagline: "Buffett-backed Permian leader with debt overhang", sector: "Energy · Integrated", marketCap: "Large-cap", pe: "Volatile", growth: "—", thisWeek: "Strong on oil, sensitive to peace deal speculation", bull: "Permian-heavy. Berkshire Hathaway holding. Financial leverage amplifies oil price moves into earnings.", bear: "Leverage works against shareholders if oil drops. Debt overhang from Anadarko acquisition.", numbers: ["Q1 2026 return: +58.07%"], watchpoints: ["Debt reduction progress", "Oil price", "Permian production"] },
+
+  "XLE": { name: "Energy Select Sector SPDR ETF", tagline: "The cleanest way to express 'oil stays bid'", sector: "ETF · Energy Sector", marketCap: "Tracks 25 large US energy cos", pe: "Reflects holdings", growth: "—", thisWeek: "Tracking oil between $88-107", bull: "Diversified energy exposure. Up 37% in Q1 2026 alone. Beats picking individual names if you want sector exposure.", bear: "Almost entirely a geopolitical premium trade. Peace deal would crush it 15-20% in days.", numbers: ["Q1 2026 return: +37%"], watchpoints: ["Iran headlines", "WTI vs Brent spread", "Refiner margins"] },
+
+  "IWM": { name: "iShares Russell 2000 ETF", tagline: "The way to play 'the Great Rotation' without picking names", sector: "ETF · Small-Cap US Equity", marketCap: "Tracks 2000 small-cap US cos", pe: "Forward ~19x", growth: "Small-cap earnings projected +18-35% in 2026", thisWeek: "Up ~8-9% YTD vs S&P 500 modestly up", bull: "Historic valuation gap closing. OBBBA tax provisions disproportionately benefit small-caps. Fed easing tailwind. AI buildout broadening to 'real economy' beneficiaries. The 2000-2006 analog suggests multi-year outperformance possible.", bear: "Small-caps have failed at this rotation many times before (2016, 2019, 2023). If Fed pauses on inflation, refinancing costs hurt levered small-caps. Recession risk hits small-caps harder.", numbers: ["YTD performance: ~+8-9%", "Forward P/E: ~19x (vs S&P 500 ~21x)", "Constituent count: ~2000 small-cap US companies"], watchpoints: ["Fed meetings and rate path", "OBBBA tax provision impact on Q1 earnings", "IWM/SPY ratio (best chart for this thesis)", "Sector composition shifts within IWM"] },
+
+  "AMD": { name: "Advanced Micro Devices", tagline: "The other AI chip play, increasingly competitive with NVDA", sector: "Technology · Semiconductors", marketCap: "Large-cap", pe: "Forward ~30x", growth: "Q1 results beat", thisWeek: "Rose 2.4% after Q1 beat", bull: "Genuinely catching NVIDIA in AI accelerators with MI series. Data center revenue accelerating. Far cheaper than NVDA on most multiples.", bear: "Still distant second to NVDA. Customer concentration risk. Inventory swings can be brutal.", numbers: ["Q1 2026: beat estimates", "MI300/MI350 series ramping"], watchpoints: ["Data center revenue growth rate", "MI series customer announcements", "Gross margin direction"] },
+
+  "NVDA": { name: "NVIDIA", tagline: "The center of the AI universe", sector: "Technology · Semiconductors", marketCap: "Mega-cap", pe: "Forward ~35x", growth: "Continued strength", thisWeek: "Near highs on continued data center demand", bull: "Dominant position in AI accelerators. Massive moat (CUDA software ecosystem). Customers keep paying premium prices. Their results define the AI narrative for the entire market.", bear: "Customer concentration (hyperscalers). Custom silicon from those same customers is a long-term threat. Hard to imagine NVDA's market cap doubling from here — most of the easy gains are gone.", numbers: ["Among most valuable companies globally", "Revenue growth driven by hyperscaler capex"], watchpoints: ["Hyperscaler capex guidance (this matters more than NVDA's own guide)", "Blackwell ramp timeline", "Customer custom silicon updates"] },
+
+  "DG": { name: "Dollar General", tagline: "Should be K-shape winner but executing poorly", sector: "Consumer Staples · Discount Retail", marketCap: "Mid-large cap", pe: "Forward ~15x (depressed)", growth: "Soft", thisWeek: "Fell 5.8% on soft 2026 guidance and CEO transition", bull: "Deep value if turnaround works. Same-store sales eventually recover. Smallest-town footprint hard to replicate.", bear: "Execution problems have been persistent. Theft/shrink continues to pressure margins. Lower-income consumer is genuinely strained.", numbers: ["Fell 5.8% this week", "Soft 2026 guidance"], watchpoints: ["Same-store sales trajectory", "New CEO strategy announcement", "Shrink trends"] },
+
+  "PWR": { name: "Quanta Services", tagline: "AI data center power infrastructure leader", sector: "Industrials · Electrical Infrastructure", marketCap: "~$100B", pe: "~102x", growth: "Strong Q1 beat, raised guidance", thisWeek: "Continued strength", bull: "AI data centers need staggering electrical infrastructure. Record backlog. Best-positioned pure-play.", bear: "P/E of 102 means years of 30%+ earnings growth must materialize. Analyst price target consensus is BELOW current stock price.", numbers: ["Annual revenue: $28.5B", "Net profit: $1.03B", "Consensus PT: ~$767"], watchpoints: ["Backlog growth rate", "Margin direction", "Customer concentration in hyperscalers"] },
+
+  "GEV": { name: "GE Vernova", tagline: "Power generation for AI infrastructure", sector: "Industrials · Power Equipment", marketCap: "~$150B", pe: "Elevated (M&A distorts)", growth: "Q1 distorted by $4.5B M&A gain", thisWeek: "Steady", bull: "Gas turbines, wind turbines, grid equipment — exactly what AI data centers need. Multi-year tailwind. Margin expansion story.", bear: "Q1 numbers heavily flattered by M&A. Underlying growth less spectacular. Already fully discovered.", numbers: ["Q1 EPS $17.44 vs $1.95 estimate (M&A boosted)"], watchpoints: ["Underlying organic growth ex-M&A", "Gas turbine backlog", "Margin trajectory"] }
+};
+
+// ===== Mobile detection =====
+const isTouchDevice = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0);
+
+// ===== Tooltip (definitions) =====
+const tooltip = document.getElementById('tooltip');
+let tooltipTimeout;
+let activeTooltipEl = null;
+
+function positionTooltip(el) {
+  const rect = el.getBoundingClientRect();
+  const tooltipRect = tooltip.getBoundingClientRect();
+  let left = rect.left + window.scrollX;
+  let top = rect.top + window.scrollY - tooltipRect.height - 12;
+  if (left + tooltipRect.width > window.innerWidth - 20) left = window.innerWidth - tooltipRect.width - 20;
+  if (left < 20) left = 20;
+  if (top < window.scrollY + 20) top = rect.bottom + window.scrollY + 12;
+  tooltip.style.left = left + 'px';
+  tooltip.style.top = top + 'px';
+}
+
+function showTooltip(el, term) {
+  clearTimeout(tooltipTimeout);
+  const data = glossary[term];
+  if (!data) return;
+  tooltip.innerHTML = `<div class="tooltip-label">${data.label}</div>${data.body}`;
+  tooltip.classList.add('visible');
+  activeTooltipEl = el;
+  // Position after the tooltip becomes visible so getBoundingClientRect works
+  requestAnimationFrame(() => positionTooltip(el));
+}
+
+function hideTooltip() {
+  tooltip.classList.remove('visible');
+  activeTooltipEl = null;
+}
+
+document.querySelectorAll('.term').forEach(el => {
+  // Use 'click' which fires on both desktop and mobile reliably
+  el.addEventListener('click', e => {
+    e.preventDefault();
+    e.stopPropagation();
+    // If tapping the same term again, hide; otherwise show
+    if (activeTooltipEl === el && tooltip.classList.contains('visible')) {
+      hideTooltip();
+    } else {
+      showTooltip(el, el.dataset.term);
+    }
+  });
+
+  // Desktop hover behavior (only if not a touch device)
+  if (!isTouchDevice) {
+    el.addEventListener('mouseenter', () => showTooltip(el, el.dataset.term));
+    el.addEventListener('mouseleave', () => {
+      tooltipTimeout = setTimeout(hideTooltip, 150);
+    });
+  }
+});
+
+// Tap anywhere else to dismiss tooltip
+document.addEventListener('click', e => {
+  if (!e.target.classList.contains('term') && !tooltip.contains(e.target)) {
+    hideTooltip();
+  }
+});
+
+// ===== Panel (ticker detail) =====
+const panel = document.getElementById('panel');
+const panelOverlay = document.getElementById('panel-overlay');
+const panelContent = document.getElementById('panel-content');
+const panelClose = document.getElementById('panel-close');
+
+function showPanel(ticker) {
+  const data = tickers[ticker];
+  if (!data) {
+    panelContent.innerHTML = `<div class="panel-ticker">${ticker}</div><div class="panel-name">Detail not available</div><p>This ticker is mentioned in the brief but doesn't have a detailed entry. Future issues will expand coverage.</p>`;
+  } else {
+    let numbersHtml = data.numbers && data.numbers.length ? `<h4>Key Numbers</h4><ul>${data.numbers.map(n => `<li>${n}</li>`).join('')}</ul>` : '';
+    let watchHtml = data.watchpoints && data.watchpoints.length ? `<div class="panel-watchpoints"><h4>What to Watch</h4><ul>${data.watchpoints.map(w => `<li>${w}</li>`).join('')}</ul></div>` : '';
+    panelContent.innerHTML = `
+      <div class="panel-ticker">${ticker}</div>
+      <div class="panel-name">${data.name}</div>
+      <div class="panel-tagline">${data.tagline}</div>
+      <div class="panel-meta">
+        <div class="panel-meta-item"><div class="panel-meta-label">Sector</div><div class="panel-meta-value">${data.sector}</div></div>
+        <div class="panel-meta-item"><div class="panel-meta-label">Market Cap</div><div class="panel-meta-value">${data.marketCap}</div></div>
+        <div class="panel-meta-item"><div class="panel-meta-label">Valuation</div><div class="panel-meta-value">${data.pe}</div></div>
+        <div class="panel-meta-item"><div class="panel-meta-label">Growth</div><div class="panel-meta-value">${data.growth}</div></div>
+      </div>
+      <h4>This Week</h4>
+      <p>${data.thisWeek}</p>
+      <h4>The Bull Case</h4>
+      <p>${data.bull}</p>
+      <h4>The Bear Case</h4>
+      <p>${data.bear}</p>
+      ${numbersHtml}
+      ${watchHtml}
+    `;
+  }
+  panel.classList.add('visible');
+  panelOverlay.classList.add('visible');
+  // Use position fixed body trick to prevent iOS scroll bleed-through
+  document.body.style.position = 'fixed';
+  document.body.style.top = `-${window.scrollY}px`;
+  document.body.style.width = '100%';
+}
+
+function hidePanel() {
+  panel.classList.remove('visible');
+  panelOverlay.classList.remove('visible');
+  // Restore scroll position
+  const scrollY = document.body.style.top;
+  document.body.style.position = '';
+  document.body.style.top = '';
+  document.body.style.width = '';
+  if (scrollY) window.scrollTo(0, parseInt(scrollY || '0') * -1);
+}
+
+document.querySelectorAll('.ticker').forEach(el => {
+  el.addEventListener('click', e => {
+    e.preventDefault();
+    e.stopPropagation();
+    showPanel(el.dataset.ticker);
+  });
+});
+
+panelClose.addEventListener('click', e => {
+  e.preventDefault();
+  e.stopPropagation();
+  hidePanel();
+});
+
+panelOverlay.addEventListener('click', e => {
+  e.preventDefault();
+  e.stopPropagation();
+  hidePanel();
+});
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') hidePanel(); });
+
+// ===== TOC anchor links (iOS fix) =====
+// iOS Safari sometimes ignores anchor links when scroll-behavior:smooth conflicts
+// with body position changes from the panel. Force them to work manually.
+document.querySelectorAll('.nav-toc a').forEach(link => {
+  link.addEventListener('click', e => {
+    const href = link.getAttribute('href');
+    if (href && href.startsWith('#')) {
+      e.preventDefault();
+      const target = document.querySelector(href);
+      if (target) {
+        const rect = target.getBoundingClientRect();
+        window.scrollTo({
+          top: window.scrollY + rect.top - 20,
+          behavior: 'smooth'
+        });
+      }
+    }
+  });
+});
+</script>
+
+</body>
+</html>

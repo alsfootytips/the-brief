@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs / env (for any future automation)
+*.log
+.env
+.env.local
+
+# Python (if automation gets built)
+__pycache__/
+*.pyc
+.venv/
+venv/
