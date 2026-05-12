@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-12T19:55:35.866861+00:00",
+  "generated_at": "2026-05-12T20:08:53.571846+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -25,28 +25,37 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": 7.22,
-      "price": 23.59,
+      "change_pct": 7.82,
+      "price": 23.72,
       "is_watchlist": true,
-      "timestamp": "2026-05-12T19:55:35.866460+00:00"
+      "timestamp": "2026-05-12T20:08:53.571425+00:00"
     },
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -4.15,
-      "price": 178.37,
+      "change_pct": -3.76,
+      "price": 179.11,
       "is_watchlist": true,
-      "timestamp": "2026-05-12T19:55:35.866452+00:00"
+      "timestamp": "2026-05-12T20:08:53.571420+00:00"
     },
     {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -6.15,
-      "price": 107.64,
+      "change_pct": -6.06,
+      "price": 107.75,
       "is_watchlist": true,
-      "timestamp": "2026-05-12T19:55:35.866430+00:00"
+      "timestamp": "2026-05-12T20:08:53.571405+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I have $310,000 in cash from a maturing CD. Where should I put it next?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-310-000-in-cash-from-a-maturing-cd-where-should-i-put-it-next-2e6fdeee?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T20:05:00+00:00"
     },
     {
       "type": "news",
@@ -55,7 +64,61 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/12/trump-fda-commissioner-marty-makary-out.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T19:54:54+00:00"
+      "timestamp": "2026-05-12T20:04:29+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lineage Cell Therapeutics GAAP EPS of -$0.03 misses by $0.01, revenue of $1.72M misses by $1.36M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591575-lineage-cell-therapeutics-gaap-eps-of-0_03-misses-by-0_01-revenue-of-1_72m-misses-by-1_36m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T20:03:48+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Waymo recalls 3,800 robotaxis after glitch allowed some vehicles to 'drive into standing water'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T20:02:52+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Star Equity outlines $8M-$10M real estate monetization as it reports $50.1M revenue and $1.6M adjusted EBITDA loss",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591572-star-equity-outlines-8m-10m-real-estate-monetization-as-it-reports-50_1m-revenue-and-1_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T20:01:49+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Curis GAAP EPS of -$1.25 misses by $0.90",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591571-curis-gaap-eps-of-1_25-misses-by-0_90?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T20:01:45+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Caesars Entertainment drops as investors wait for M&A update",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591560-caesars-entertainment-drops-as-investors-wait-for-m-and-a-update?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:54:51+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PACS signals 2026 adjusted EBITDA $605M-$625M while reaffirming revenue $5.65B-$5.75B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591570-pacs-signals-2026-adjusted-ebitda-605m-625m-while-reaffirming-revenue-5_65b-5_75b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:54:25+00:00"
     },
     {
       "type": "news",
@@ -77,48 +140,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Arvinas anticipates U.S. ARV-102 PSP trial by end of 2026 while maintaining cash runway into second half of 2028",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591567-arvinas-anticipates-u-s-arvminus-102-psp-trial-by-end-of-2026-while-maintaining-cash-runway?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:52:33+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nayax reaffirms 2026 revenue $510M-$520M and adjusted EBITDA $85M-$90M while expanding embedded banking and EV strategy",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591566-nayax-reaffirms-2026-revenue-510m-520m-and-adjusted-ebitda-85m-90m-while-expanding-embedded?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:52:10+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Tel-Aviv Stock Exchange reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591565-the-tel-aviv-stock-exchange-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:50:59+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MARA Holdings says, \"AI demand isn\u2019t waiting 7\u201310 yrs,\" yet market cuts stock 6%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591551-mara-holdings-says-ai-demand-isnt-waiting-710-yrs-yet-market-cuts-stock-6?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:50:46+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Aevex 'flying under the radar no more,' initiated Outperform at RBC",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591554-aevex-flying-under-the-radar-no-more-initiated-outperform-at-rbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:48:41+00:00"
+      "ticker": "NVDA",
+      "headline": "3 Brilliant Growth Stocks to Buy Now and Hold for the Long Term",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f462003861ce03005546713eb84aa768b615b82556390c1a71a0782a04f185b0",
+      "is_watchlist": true,
+      "timestamp": "2026-05-12T19:50:00+00:00"
     },
     {
       "type": "news",
@@ -137,6 +164,15 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/05/12/new-futures-market-for-semiconductors-comes-as-ai-drives-costs-skyward.html",
       "is_watchlist": false,
       "timestamp": "2026-05-12T19:47:13+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Is Dell (DELL) Stock Soaring Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7aa156ce24f78ebce56a76024c31fd0ed0305b0ffe9db08d4100e5021d2fb5bc",
+      "is_watchlist": true,
+      "timestamp": "2026-05-12T19:40:55+00:00"
     },
     {
       "type": "news",
@@ -164,6 +200,15 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-12T19:28:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US consumer inflation expected to have increased further in April amid Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazJLUlB0MFZIdGRtOTJtcXZEVTJfOEFqcDVUWWJBSjdudTZCLXNZSGNRWFFRU1pFZlYxUTc2SXpJOXEzMHpYX2syMUZJYTZ2S1hIUDBIdkluaDhna0RfQldJWWFRYVg5UVN6MjNfUXRkXzhOQ25UQ2JBeFpkTF9TUDAtMklZT1lnWFhtLW9CMmxCSjR1UXFPOENKU3R2VkJHM2dReGtnQ1ZjLTkxX2RncV9HcmhxMnI2Q0E?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:27:30+00:00"
     },
     {
       "type": "news",
@@ -248,6 +293,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "S&P 500, Nasdaq under pressure as chip stocks see red",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb07ac7bba93ef7117d75132e15108929af98523163b5d6e031ea3c3f28cf9e9",
+      "is_watchlist": true,
+      "timestamp": "2026-05-12T19:14:34+00:00"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Americans from cruise-ship outbreak could be quarantined until mid-June",
       "source": "MarketWatch",
@@ -258,7 +312,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+      "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -276,11 +330,20 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Waymo recalls 3,800 robotaxis after glitch allowed some vehicles to 'drive into standing water'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+      "headline": "Exclusive: Saudi Arabia launched covert attacks on Iran as regional war widened, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDVqZjdxVDZDeDdnNjd1RndvV0NwNTF4U1Y2cFpVRFMyMzI2WG9mQVFUTnM4YlI3NmVRcGozODRLUUhGbU5wVURWU2dBa0hvNFBxQUc5T0hOUmJENHNBWDg0ZTR2ZWZham5IYVJOY3djZmJia0J6cFg5OWV3ZzluenhIRkVXeW1HRWhYREh0Q181NG1Ncl9aV3FPZU8yQVVTT1VTblpjVjE4bW94bWhVWXpWblpMTDdGeEJVZkxzaW1ZRFU?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T18:40:42+00:00"
+      "timestamp": "2026-05-12T18:40:20+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street slips as inflation, Iran tensions weigh - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRSdFhfX2dwTkYzSGtmMkZZSzY3enF2bjVVdEhkdm9DbnBIZVJ3V3ZhM1g1VzQwc1E1NGRxa2ZFMkphR01EYTJjLWhPcFFSZWhkT21Qa1VIckpYOUtoN1NudTdvMXVENUs5SzhlUkV0dkZRcElYcEdjLUR5ODJ6b3p1Rzc4Uk5RZU5RSElxLTlUWS1BazZHUEowUzd5TUFwVFJj?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T18:38:01+00:00"
     },
     {
       "type": "news",
@@ -294,20 +357,29 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Exclusive: Saudi Arabia launched covert attacks on Iran as regional war widened, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDVqZjdxVDZDeDdnNjd1RndvV0NwNTF4U1Y2cFpVRFMyMzI2WG9mQVFUTnM4YlI3NmVRcGozODRLUUhGbU5wVURWU2dBa0hvNFBxQUc5T0hOUmJENHNBWDg0ZTR2ZWZham5IYVJOY3djZmJia0J6cFg5OWV3ZzluenhIRkVXeW1HRWhYREh0Q181NG1Ncl9aV3FPZU8yQVVTT1VTblpjVjE4bW94bWhVWXpWblpMTDdGeEJVZkxzaW1ZRFU?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T18:28:10+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AI is \u2018absolutely useless\u2019 at forecasting inflation. This proven model is 12 times more accurate.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/ai-is-absolutely-useless-at-forecasting-inflation-this-proven-model-is-12-times-more-accurate-d176f411?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-12T18:20:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "DG",
+      "headline": "Why The Trade Desk (TTD) Shares Are Sliding Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56d0f07b4adda839e91527f0adca7717b92eb137d243934c435b6e0121c93274",
+      "is_watchlist": true,
+      "timestamp": "2026-05-12T18:12:55+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Equities Fall Intraday Amid Tech Sell-Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0239d4889d341b1f6634f0f99ff83ed24b1232476cdbef7fbe87e9e45f29102",
+      "is_watchlist": true,
+      "timestamp": "2026-05-12T18:11:14+00:00"
     },
     {
       "type": "news",
@@ -347,15 +419,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=788882beaf4211666566e4fd75b108bfd7c32f660dcfa7adf67f129917127f4d",
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T18:05:02+00:00"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "As airfares soar 21%, these are the cheapest cities to fly into",
       "source": "MarketWatch",
@@ -365,12 +428,21 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "These stocks are the most active in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9db077b273e5aefb94f2a6fc236b41004c49b0a254106ace478ed2f4681fa444",
+      "ticker": "AMD",
+      "headline": "Intel Crashes 10%, AMD Slides 5% as Chip Trade Cools After Parabolic Run",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7afaf2777e3717117dd9a1a14c96ee514a363c13213d96a004fb1b58ff50f843",
       "is_watchlist": true,
-      "timestamp": "2026-05-12T18:00:00+00:00"
+      "timestamp": "2026-05-12T17:58:33+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Market Update: FSLR, NYT, UPS, FBIN, CEG",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_47004_MarketUpdate_1778608708000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T17:58:28+00:00"
     },
     {
       "type": "news",
@@ -389,24 +461,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/why-the-oil-crisis-could-become-a-full-blown-catastrophe-within-a-month-84129cd0?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-12T17:52:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD CEO Lisa Su Says CPUs Will Match GPUs 1-to-1 in AI\u2019s Next Phase",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6780f92ba1ca502a1c747c5830d72562def5deb57f1d5092e1b63060524b6912",
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T17:50:56+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "AMD CEO Lisa Su Says CPUs Will Match GPUs 1-to-1 in AI\u2019s Next Phase",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6780f92ba1ca502a1c747c5830d72562def5deb57f1d5092e1b63060524b6912",
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T17:50:56+00:00"
     },
     {
       "type": "news",
@@ -434,15 +488,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=d817cac1193b501ab75fa15e1d7444038d8c84b9e9831b5f9dfcbe8eb5fe4f9f",
       "is_watchlist": true,
       "timestamp": "2026-05-12T17:46:34+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX and Google may become even more tightly linked through this far-out venture",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-and-google-may-become-even-more-tightly-linked-through-this-far-out-venture-53ff1e4b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T17:44:00+00:00"
     },
     {
       "type": "news",
@@ -497,33 +542,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/05/12/united-airlines-flight-attendants-contract.html",
       "is_watchlist": false,
       "timestamp": "2026-05-12T16:58:05+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Oracle Set to Post Strong Results Amid Tech Infrastructure Spending, Oppenheimer Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9aa8b837f900a6219276b96ab351d58c60fb772facd1b308df58f3551614f79",
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T16:56:43+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall St falls as hot inflation, Iran tensions weigh - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRSdFhfX2dwTkYzSGtmMkZZSzY3enF2bjVVdEhkdm9DbnBIZVJ3V3ZhM1g1VzQwc1E1NGRxa2ZFMkphR01EYTJjLWhPcFFSZWhkT21Qa1VIckpYOUtoN1NudTdvMXVENUs5SzhlUkV0dkZRcElYcEdjLUR5ODJ6b3p1Rzc4Uk5RZU5RSElxLTlUWS1BazZHUEowUzd5TUFwVFJj?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T16:43:38+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Freight costs threaten Zimbabwe farmers' livelihoods as Iran war disrupts exports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMk5JQUtOZS1jY1FzOVN6SXIzeGJubVVyTEhDd3VtV0dJVjJNcUxVMkFCMTBGenhtY2RfMFNZaEZDcDhCd0pVdmJLcXRoejNhUVpQZFpBblNIREN6MDRWcHVTaWZvczg1NG5yVi1nUHhtRUNEUENURXNwa3FOeXZmNnQycVVGbndjYl84TG1OY2pBbV9zN1U4TVkzblBoOW96QjVmVXY3R2hlSWhZb3p0djFOVFF5YXl1MW13ZTRtWHBvVjY5?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T16:39:12+00:00"
     },
     {
       "type": "news",
@@ -806,21 +824,21 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "DG",
-      "headline": "Dollar General Vs Dollar Tree: The Top Dollar Store",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1419c1e7d50c5ea98d11258064cec4bec2d4495f030744d7dc8ce10eb1cbbe2f",
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T06:32:27+00:00"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "TTD Q1 Deep Dive: AI Strategy, Macro Headwinds Shape Mixed Quarter for The Trade Desk",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8eba269f8590276dad83dd82db9ce6cac3264414f22cf758e36eb116d047818d",
       "is_watchlist": true,
       "timestamp": "2026-05-12T04:12:55+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA drops blunt warning about Fed rate cuts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-blunt-warning-fed-023300848.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T02:33:00+00:00"
     },
     {
       "type": "news",
@@ -897,74 +915,56 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gold and silver prices today, Monday, May 11: Gold and silver down this morning after Trump rejects Iran's peace plan",
+      "headline": "Are Wall Street Analysts Bullish on Vertiv Stock?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-monday-may-11-gold-and-silver-down-this-morning-after-trump-rejects-irans-peace-plan-110050358.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-vertiv-113706218.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-11T11:00:50+00:00"
+      "timestamp": "2026-05-11T11:37:06+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "How to Buy RKLB for a 20% Discount, or Achieve a 60% Annual Return",
+      "headline": "Is Wall Street Bullish or Bearish on Live Nation Stock?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/buy-rklb-20-discount-achieve-110002690.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-live-113248746.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-11T11:00:02+00:00"
+      "timestamp": "2026-05-11T11:32:48+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ask an Advisor: Can I Retire at 62? I'm 60 With a Pension, $700K Annuity and $100K in Cash",
+      "headline": "Bitcoin and ethereum prices today, Monday, May 11, 2026: Bitcoin's strongest opening in months",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/ask-advisor-retire-62-im-110000897.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-11-2026-bitcoins-strongest-opening-in-months-113216131.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-11T11:00:00+00:00"
+      "timestamp": "2026-05-11T11:32:16+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Moody\u2019s cuts Wabash rating third time in a year, execs eye \u201827 rebound",
+      "headline": "Alphabet, Amazon tap overseas debt markets to fund AI infrastructure push",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/moody-cuts-wabash-rating-third-110000986.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/alphabet-considers-first-yen-bond-112732446.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-11T11:00:00+00:00"
+      "timestamp": "2026-05-11T11:27:32+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "National Energy Services Reunited (NESR) Shares Jump After First-Quarter Earnings Beat",
+      "headline": "GM settles California OnStar driver data privacy probe for $12.75M",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/national-energy-services-reunited-nesr-104404836.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/gm-settles-california-onstar-driver-112102652.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-11T10:44:04+00:00"
+      "timestamp": "2026-05-11T11:21:02+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dole (DOLE) Shares Drop After Earnings Miss Despite Strong Revenue Growth",
+      "headline": "This AI Stock Is Now Worth More Than Tesla, Meta And Walmart",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dole-dole-shares-drop-earnings-104314602.html",
+      "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-ai-stock-is-now-worth-more-than-tesla-meta-and-walmart/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-05-11T10:43:14+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks Set for Muted Open as Oil Rises After Trump Rejects Iran\u2019s Response to Peace Proposal, U.S. Inflation Data Awaited",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-muted-open-oil-104047351.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-11T10:40:47+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why one woman bolted from \u2018tax haven\u2019 Florida, and others are leaving too",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/why-one-woman-bolted-tax-103500463.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-11T10:35:00+00:00"
+      "timestamp": "2026-05-11T11:16:43+00:00"
     },
     {
       "type": "news",
