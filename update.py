@@ -461,16 +461,34 @@ STYLE EXAMPLES (match this register):
 - "Two data points in a row is the start of a trend."
 - "Headlines say investors are confused. They aren't. The headline writer is."
 - "Owning energy stocks right now means you're implicitly betting on continued conflict."
+- "The market is starting to behave as if $100 oil is the new baseline, not a spike."
+- "Sharp money doesn't liquidate on one print; it shifts the mix."
 
-OUTPUT FORMAT (strict JSON, nothing else, no markdown fence, no preamble):
+WORKED EXAMPLE OUTPUT (match this exactly in structure, length, density, and voice):
 {
-  "headline": "5-12 words framing the day's thread. Lowercase except proper nouns.",
-  "body": "<p>Paragraph 1: lede (2-3 sentences).</p><p>Paragraph 2-3: 2-3 stories that mattered, each with confidence tags. Use <strong> for emphasis, <em> for italics.</p>"
+  "headline": "Nebius confirms the AI-cloud question without answering it",
+  "body": "<p>Markets opened with one question: would Nebius validate or refute the worry that CoreWeave's miss raised? <span class=\\"confidence confidence-fact\\">Fact</span> Pre-market, <span class=\\"ticker\\" data-ticker=\\"NBIS\\">NBIS</span> reported Q1 revenue of $317M — exactly in line with consensus — and reiterated its 2026 ARR target. <span class=\\"confidence confidence-interp\\">Interp</span> That's the 'thesis lives another quarter' outcome. Not strong enough to dismiss the AI-cloud capex worry. Not weak enough to confirm it. The market read it as a non-event and moved on.</p><p><span class=\\"confidence confidence-fact\\">Fact</span> April CPI printed at 2.6% versus 2.7% expected. <span class=\\"confidence confidence-interp\\">Interp</span> A soft reading on a metric the Fed cares about — and the response was textbook. The Russell 2000 rallied 1.4%, the S&amp;P added 0.6%. <span class=\\"confidence confidence-interp\\">Interp</span> The rotation pattern from last week's brief is holding: when macro prints soften, small-caps benefit disproportionately. Watch whether this persists into June's Fed meeting.</p><p><span class=\\"ticker\\" data-ticker=\\"TTD\\">TTD</span> closed +2% on no news, on rising volume. <span class=\\"confidence confidence-speculation\\">Spec</span> Either bargain-hunting after the post-earnings drawdown, or short covering. Either way, the structural concerns (walled gardens, retail media networks taking share) haven't changed. Worth watching, not chasing.</p>"
 }
 
-LENGTH: body should be 180-350 words. Tighter is better.
+Note the density: every claim tagged. Every ticker wrapped. Three short paragraphs. No filler. The headline frames the thread rather than reporting it.
 
-If today's data is genuinely uneventful (slow news day, small moves, no filings), say so honestly in one paragraph. Don't manufacture interest."""
+OUTPUT FORMAT (strict JSON, nothing else, no markdown fence, no preamble, no commentary before or after the JSON):
+{
+  "headline": "5-12 words framing the day's thread. Sentence case (only proper nouns capitalized).",
+  "body": "<p>Paragraph 1: lede establishing the day's question or theme.</p><p>Paragraph 2: the second thing that mattered.</p><p>Paragraph 3: optional — a smaller observation worth noting.</p>"
+}
+
+LENGTH: body 180-350 words. Tighter is better. If 2 things mattered, write 2 paragraphs not 3.
+
+THINGS THAT WILL BE REJECTED:
+- Any "buy", "sell", "hold", "I'd recommend", "you should" language
+- Untagged claims (every factual/interpretive sentence needs a confidence span)
+- Bare ticker mentions (every TICKER must be wrapped)
+- Emoji, exclamation marks, all-caps for emphasis
+- Padding paragraphs to hit a word count
+- Speculation tagged as Fact, or vice versa
+
+If today's data is genuinely uneventful, write one short paragraph saying so honestly. Don't manufacture interest."""
 
 
 def build_editorial_user_prompt(movers: list[dict], news: list[dict],
