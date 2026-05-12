@@ -1478,6 +1478,33 @@ p.lede {
   margin-bottom: 4px;
 }
 
+.pick-expand {
+  background: none;
+  border: 1px solid var(--rule);
+  color: var(--ink-muted);
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  margin: 14px 0;
+  font-weight: 600;
+  min-height: 36px;
+  transition: all 0.15s ease;
+}
+
+.pick-expand:hover {
+  border-color: var(--ink);
+  color: var(--ink);
+  background: var(--paper);
+}
+
+@media (max-width: 600px) {
+  .pick-expand { min-height: 44px; width: 100%; }
+}
+
 .pick-falsification {
   font-family: 'Fraunces', serif;
   font-size: 13.5px;
@@ -1778,7 +1805,7 @@ p.lede {
     <button class="view-pill" data-view="live">Live Feed</button>
     <button class="view-pill" data-view="movers">Movers Board</button>
     <button class="view-pill" data-view="radar">On the Radar</button>
-    <button class="view-pill" data-view="picks">Tracked Picks</button>
+    <button class="view-pill" data-view="picks">What to Buy</button>
     <button class="view-pill" data-view="portfolio">Your Portfolio</button>
   </nav>
 
@@ -1875,6 +1902,7 @@ const state = {
   issueNumber: null,
   moversFilter: 'all',
   expandedSectors: new Set(),
+  expandedPicks: new Set(),
   starred: new Set(),
 };
 
@@ -2428,8 +2456,15 @@ function renderPickCard(p) {
       </div>
       ${progress}
       <div class="pick-thesis"><strong>Thesis:</strong> ${escapeHtml(p.thesis || '')}</div>
-      ${p.rationale ? `<div class="pick-rationale">${p.rationale}</div>` : ''}
-      ${p.horizon_reason ? `<div class="pick-horizon-reason"><strong>Why ${escapeHtml(p.horizon_label || 'this horizon')}</strong>${p.horizon_reason}</div>` : ''}
+      ${(p.rationale || p.horizon_reason) ? (() => {
+        const expanded = state.expandedPicks.has(p.id);
+        const expandedContent = expanded ? `
+          ${p.rationale ? `<div class="pick-rationale">${p.rationale}</div>` : ''}
+          ${p.horizon_reason ? `<div class="pick-horizon-reason"><strong>Why ${escapeHtml(p.horizon_label || 'this horizon')}</strong>${p.horizon_reason}</div>` : ''}
+        ` : '';
+        const label = expanded ? '− Hide reasoning' : '+ Read full reasoning';
+        return `${expandedContent}<button class="pick-expand" data-expand-pick="${escapeHtml(p.id || '')}">${label}</button>`;
+      })() : ''}
       ${p.falsification ? `<div class="pick-falsification"><strong>Falsification</strong>${escapeHtml(p.falsification)}</div>` : ''}
       ${closedLine}
     </div>`;
@@ -2614,7 +2649,7 @@ function render() {
   } else if (state.view === 'picks') {
     issuePicker.classList.add('hidden');
     issuePicker.innerHTML = '';
-    eyebrow.textContent = 'Tracked Picks · Verifiable Track Record';
+    eyebrow.textContent = 'What to Buy · AI Experiment Track Record';
     dateEl.textContent = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
     content.innerHTML = renderPicks();
   } else if (state.view === 'portfolio') {
@@ -2771,6 +2806,16 @@ document.addEventListener('click', e => {
     const t = sectorBtn.dataset.sector;
     if (state.expandedSectors.has(t)) state.expandedSectors.delete(t);
     else state.expandedSectors.add(t);
+    render();
+    return;
+  }
+  const pickExpandBtn = e.target.closest('.pick-expand');
+  if (pickExpandBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const id = pickExpandBtn.dataset.expandPick;
+    if (state.expandedPicks.has(id)) state.expandedPicks.delete(id);
+    else state.expandedPicks.add(id);
     render();
     return;
   }
