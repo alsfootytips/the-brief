@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-12T19:49:21.190453+00:00",
+  "generated_at": "2026-05-12T19:55:35.866861+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -25,37 +25,100 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": 6.59,
-      "price": 23.45,
+      "change_pct": 7.22,
+      "price": 23.59,
       "is_watchlist": true,
-      "timestamp": "2026-05-12T19:49:21.190068+00:00"
+      "timestamp": "2026-05-12T19:55:35.866460+00:00"
     },
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.1,
-      "price": 180.33,
+      "change_pct": -4.15,
+      "price": 178.37,
       "is_watchlist": true,
-      "timestamp": "2026-05-12T19:49:21.190064+00:00"
+      "timestamp": "2026-05-12T19:55:35.866452+00:00"
     },
     {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -6.26,
-      "price": 107.51,
+      "change_pct": -6.15,
+      "price": 107.64,
       "is_watchlist": true,
-      "timestamp": "2026-05-12T19:49:21.190056+00:00"
+      "timestamp": "2026-05-12T19:55:35.866430+00:00"
     },
     {
-      "type": "mover",
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "change_pct": -3.01,
-      "price": 444.99,
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T19:49:21.190047+00:00"
+      "type": "news",
+      "ticker": null,
+      "headline": "Marty Makary resigns as FDA commissioner following industry and White House backlash",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/12/trump-fda-commissioner-marty-makary-out.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:54:54+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EToro outlines plan to scale marketing to 25% of net contribution by year-end 2026 while targeting U.S. commodities access in 6-9 months",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591569-etoro-outlines-plan-to-scale-marketing-to-25-percent-of-net-contribution-by-year-end-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:53:47+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aramark outlines fiscal 2026 organic growth at the high end of 7% to 9% while launching Nexus for hyperscale AI data centers",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591568-aramark-outlines-fiscal-2026-organic-growth-at-the-high-end-of-7-percent-to-9-percent-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:53:37+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arvinas anticipates U.S. ARV-102 PSP trial by end of 2026 while maintaining cash runway into second half of 2028",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591567-arvinas-anticipates-u-s-arvminus-102-psp-trial-by-end-of-2026-while-maintaining-cash-runway?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:52:33+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nayax reaffirms 2026 revenue $510M-$520M and adjusted EBITDA $85M-$90M while expanding embedded banking and EV strategy",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591566-nayax-reaffirms-2026-revenue-510m-520m-and-adjusted-ebitda-85m-90m-while-expanding-embedded?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:52:10+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Tel-Aviv Stock Exchange reports Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591565-the-tel-aviv-stock-exchange-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:50:59+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MARA Holdings says, \"AI demand isn\u2019t waiting 7\u201310 yrs,\" yet market cuts stock 6%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591551-mara-holdings-says-ai-demand-isnt-waiting-710-yrs-yet-market-cuts-stock-6?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:50:46+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aevex 'flying under the radar no more,' initiated Outperform at RBC",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591554-aevex-flying-under-the-radar-no-more-initiated-outperform-at-rbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T19:48:41+00:00"
     },
     {
       "type": "news",
@@ -74,69 +137,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/05/12/new-futures-market-for-semiconductors-comes-as-ai-drives-costs-skyward.html",
       "is_watchlist": false,
       "timestamp": "2026-05-12T19:47:13+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Imunon targets OVATION 3 last patient enrollment in Q1 2029 while outlining preferred-share financing options",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591559-imunon-targets-ovation-3-last-patient-enrollment-in-q1-2029-while-outlining-preferred-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:42:09+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tencent music outlines copyright enforcement and WeChat Channels integration amid competitive pressure",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591557-tencent-music-outlines-copyright-enforcement-and-wechat-channels-integration-amid-competitive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:41:43+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Janus reaffirms 2026 revenue $940M-$980M while planning Noke Infinity availability in Q3",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591558-janus-reaffirms-2026-revenue-940m-980m-while-planning-noke-infinity-availability-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:41:43+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "David Einhorn of Greenlight Capital touts 5 'transition stories' at Sohn Conference",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591548-david-einhorn-of-greenlight-capital-touts-5-transition-stories-at-sohn-conference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:41:34+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Uniper SE GAAP EPS of \u20ac0.80, revenue of \u20ac17.34B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591556-uniper-se-gaap-eps-of-080-revenue-of-1734b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:39:47+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Olympus reports FY results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591555-olympus-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:35:02+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Daikin Industries,Ltd. reports FY results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591553-daikin-industries-ltd-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T19:32:22+00:00"
     },
     {
       "type": "news",
@@ -263,15 +263,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-12T18:51:56+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump says Makary is out as FDA commissioner, following industry and White House backlash",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/12/trump-fda-commissioner-marty-makary-out.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T18:44:02+00:00"
     },
     {
       "type": "news",
@@ -906,6 +897,15 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Gold and silver prices today, Monday, May 11: Gold and silver down this morning after Trump rejects Iran's peace plan",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-monday-may-11-gold-and-silver-down-this-morning-after-trump-rejects-irans-peace-plan-110050358.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-11T11:00:50+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "How to Buy RKLB for a 20% Discount, or Achieve a 60% Annual Return",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/options/articles/buy-rklb-20-discount-achieve-110002690.html",
@@ -920,6 +920,33 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/articles/ask-advisor-retire-62-im-110000897.html",
       "is_watchlist": false,
       "timestamp": "2026-05-11T11:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Moody\u2019s cuts Wabash rating third time in a year, execs eye \u201827 rebound",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/moody-cuts-wabash-rating-third-110000986.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-11T11:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "National Energy Services Reunited (NESR) Shares Jump After First-Quarter Earnings Beat",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/national-energy-services-reunited-nesr-104404836.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-11T10:44:04+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dole (DOLE) Shares Drop After Earnings Miss Despite Strong Revenue Growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dole-dole-shares-drop-earnings-104314602.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-11T10:43:14+00:00"
     },
     {
       "type": "news",
@@ -942,33 +969,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Five Key Market Themes Investors Are Watching This Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/five-key-market-themes-investors-103451643.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-11T10:34:51+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The S&P 500 Is Following Earnings Higher\u2014Perhaps a Lot Higher",
-      "source": "Yahoo Finance",
-      "url": "https://www.barrons.com/articles/stock-market-sp500-target-wall-street-high-3688d366?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-11T10:33:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Circle revenue boosted as stablecoin demand rises amid volatility; shares up",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circles-quarterly-earnings-benefit-stablecoin-103038261.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-11T10:30:38+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "It's not shameful, it's savvy: The shoppers redefining how to save money on groceries",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/05/11/nx-s1-5716202/discount-groceries-aldi-food-affordability",
@@ -983,15 +983,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/05/10/top-wall-street-analysts-recommend-these-stocks-for-stable-income.html",
       "is_watchlist": false,
       "timestamp": "2026-05-10T11:27:26+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump goes to China, inflation comes to America: What to watch this week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/trump-goes-to-china-inflation-comes-to-america-what-to-watch-this-week-104329157.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-10T10:43:29+00:00"
     },
     {
       "type": "news",
