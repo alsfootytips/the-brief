@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-12T15:05:02.859279+00:00",
+  "generated_at": "2026-05-12T17:20:44.732234+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -18,9 +18,9 @@ window.theBriefPicks = {
       ],
       "issue_number": 2,
       "status": "open",
-      "current_price": 22.55,
-      "current_pct": 0.53,
-      "change_pct_today": 2.48,
+      "current_price": 23.12,
+      "current_pct": 3.08,
+      "change_pct_today": 5.09,
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 0,
@@ -44,9 +44,9 @@ window.theBriefPicks = {
       ],
       "issue_number": 2,
       "status": "open",
-      "current_price": 177.1,
-      "current_pct": -0.76,
-      "change_pct_today": -4.83,
+      "current_price": 176.79,
+      "current_pct": -0.94,
+      "change_pct_today": -5.0,
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 0,
