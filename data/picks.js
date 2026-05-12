@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-12T20:18:59.691320+00:00",
+  "generated_at": "2026-05-12T20:27:34.263873+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -18,6 +18,7 @@ window.theBriefPicks = {
         "issue-2-setup",
         "tech-enabled-insurance"
       ],
+      "sector": "Healthcare",
       "issue_number": 2,
       "status": "open",
       "horizon_label": "Long-term",
@@ -48,6 +49,7 @@ window.theBriefPicks = {
         "event-driven",
         "earnings"
       ],
+      "sector": "Technology",
       "issue_number": 2,
       "status": "open",
       "horizon_label": "Short-term",
@@ -78,6 +80,7 @@ window.theBriefPicks = {
         "issue-2-thesis",
         "etf"
       ],
+      "sector": "Macro / ETF",
       "issue_number": 2,
       "status": "open",
       "horizon_label": "Long-term",
@@ -107,6 +110,7 @@ window.theBriefPicks = {
         "semiconductors",
         "value-vs-peer"
       ],
+      "sector": "Technology",
       "issue_number": 2,
       "status": "open",
       "horizon_label": "Medium-term",
@@ -136,6 +140,7 @@ window.theBriefPicks = {
         "geopolitics",
         "macro"
       ],
+      "sector": "Energy",
       "issue_number": 2,
       "status": "open",
       "horizon_label": "Medium-term",
