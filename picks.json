@@ -27,6 +27,48 @@
       "tags": ["ai-infrastructure", "issue-2-setup", "event-driven", "earnings"],
       "issue_number": 2,
       "status": "open"
+    },
+    {
+      "id": "2026-05-12-IWM-rotation",
+      "ticker": "IWM",
+      "entered_at": "2026-05-12",
+      "entry_price": 282.36,
+      "horizon_weeks": 8,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "thesis": "The 'Great Rotation' thesis from Issue No. 2. Russell 2000 up ~8-9% YTD vs S&P modestly up. Forward P/E gap closing (19x vs 21x). OBBBA tax provisions (100% bonus depreciation + R&D expensing) disproportionately benefit capital-intensive small-caps. AI buildout has shifted to real-economy beneficiaries (electrical, HVAC, construction) that are heavily small-cap. May CPI this week is the next catalyst — soft print accelerates the rotation.",
+      "falsification": "May CPI prints >=2.8% (hot, signals Fed pause), OR IWM/SPY ratio declines for 4 consecutive weeks, OR Fed signals June pause/hike at any FOMC communication.",
+      "tags": ["rotation", "macro", "issue-2-thesis", "etf"],
+      "issue_number": 2,
+      "status": "open"
+    },
+    {
+      "id": "2026-05-12-AMD-value",
+      "ticker": "AMD",
+      "entered_at": "2026-05-12",
+      "entry_price": 441.98,
+      "horizon_weeks": 6,
+      "target_pct": 12,
+      "stop_pct": -10,
+      "thesis": "AI compute exposure at a discount to NVDA. Q1 already beat; data center revenue accelerating on MI300/MI350 ramp. Forward P/E ~30 vs NVDA ~35 — getting closer to NVDA performance without paying NVDA's premium. The 'profitable AI vs spending AI' framing from Issue No. 2 puts AMD on the profitable side.",
+      "falsification": "Q2 data center revenue growth <25% YoY (would signal MI series isn't gaining real share), OR a hyperscaler announces NVDA-exclusive multi-year deal, OR gross margin compresses below 50% on the next print.",
+      "tags": ["ai", "semiconductors", "value-vs-peer"],
+      "issue_number": 2,
+      "status": "open"
+    },
+    {
+      "id": "2026-05-12-XLE-oil",
+      "ticker": "XLE",
+      "entered_at": "2026-05-12",
+      "entry_price": 57.72,
+      "horizon_weeks": 4,
+      "target_pct": 8,
+      "stop_pct": -12,
+      "thesis": "Brent at $104 on Iran ceasefire rejection. War at 72 days — longer than typical 30-60 day geopolitical premium trades. Market starting to price $100 oil as structural, not spike. Issue No. 2 flagged that energy stocks decoupled this week — could be tactical money rotating out (bearish) OR consolidation before next leg (bullish). Asymmetric: a peace deal headline drops this 15-20% in days, so this is explicitly a 'continued conflict' bet.",
+      "falsification": "Iran-US ceasefire or framework agreement announcement, OR Brent crude below $92 for 5 trading days, OR Saudi/UAE announce major supply increase.",
+      "tags": ["energy", "geopolitics", "macro"],
+      "issue_number": 2,
+      "status": "open"
     }
   ]
 }
