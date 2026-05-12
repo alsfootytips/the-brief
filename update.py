@@ -362,6 +362,150 @@ def to_js_var(name: str, payload: dict) -> str:
     return f"window.{name} = {json.dumps(payload, indent=2, default=str)};\n"
 
 
+PUSHOVER_URL = 'https://api.pushover.net/1/messages.json'
+BRIEF_URL = 'https://alsfootytips.github.io/the-brief/the-brief.html'
+
+
+def load_notifications_state() -> dict:
+    p = DATA_DIR / 'notifications.json'
+    if not p.exists():
+        return {'sent': []}
+    try:
+        return json.loads(p.read_text())
+    except Exception:
+        return {'sent': []}
+
+
+def save_notifications_state(state: dict) -> None:
+    p = DATA_DIR / 'notifications.json'
+    p.parent.mkdir(parents=True, exist_ok=True)
+    state['sent'] = list(state.get('sent', []))[-500:]
+    p.write_text(json.dumps(state, indent=2))
+
+
+def notify_pushover(title: str, message: str, url_anchor: str | None = None) -> bool:
+    user = os.getenv('PUSHOVER_USER_KEY')
+    token = os.getenv('PUSHOVER_APP_TOKEN')
+    if not user or not token:
+        return False
+    payload = {
+        'token': token,
+        'user': user,
+        'title': title[:250],
+        'message': message[:1024],
+        'url': f"{BRIEF_URL}{url_anchor}" if url_anchor else BRIEF_URL,
+        'url_title': 'Open in The Brief',
+    }
+    try:
+        r = requests.post(PUSHOVER_URL, data=payload, timeout=10)
+        if r.status_code != 200:
+            print(f"  Pushover non-200: {r.status_code} {r.text[:200]}")
+            return False
+        return True
+    except Exception as e:
+        print(f"  Pushover send failed: {e}")
+        return False
+
+
+def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[dict],
+                           earnings: list[dict], picks_data: dict,
+                           new_picks: list[dict], closed_picks: list[dict]) -> None:
+    if not os.getenv('PUSHOVER_USER_KEY') or not os.getenv('PUSHOVER_APP_TOKEN'):
+        print("  Pushover keys not set, skipping notifications")
+        return
+
+    sent: set[str] = set(notif_state.get('sent', []))
+    today = dt.date.today().isoformat()
+    followed = set()
+    try:
+        followed = set(load_watchlist()['followed'])
+    except Exception:
+        pass
+
+    movers_by_ticker = {m['ticker']: m for m in movers}
+    delivered = 0
+
+    for p in new_picks:
+        key = f"new_pick:{p['id']}"
+        if key in sent:
+            continue
+        title = f"New pick: {p['ticker']}"
+        msg = (
+            f"Target {p['target_pct']:+g}%, stop {p['stop_pct']:+g}%, "
+            f"horizon {p['horizon_weeks']}w.\n\n"
+            f"Thesis: {p.get('thesis', '')[:280]}"
+        )
+        if notify_pushover(title, msg, '#picks'):
+            sent.add(key)
+            delivered += 1
+
+    for p in closed_picks:
+        key = f"pick_closed:{p['id']}:{p.get('closed_at')}"
+        if key in sent:
+            continue
+        status = p.get('status', '').upper()
+        title = f"Pick closed: {p['ticker']} — {status}"
+        msg = (
+            f"{p['ticker']} closed at {p.get('closed_pct', 0):+.2f}% "
+            f"({p.get('closed_reason', '')}).\n"
+            f"Entry {p.get('entry_price')}, exit {p.get('closed_price')}."
+        )
+        if notify_pushover(title, msg, '#picks'):
+            sent.add(key)
+            delivered += 1
+
+    for m in movers:
+        if m.get('ticker') not in followed:
+            continue
+        if abs(m.get('change_pct', 0) or 0) < 5:
+            continue
+        key = f"big_move:{m['ticker']}:{today}"
+        if key in sent:
+            continue
+        direction = 'up' if m['change_pct'] > 0 else 'down'
+        title = f"{m['ticker']} {direction} {abs(m['change_pct']):.1f}%"
+        msg = f"{m.get('name', m['ticker'])} at ${m.get('price')} today. Read the live feed for context."
+        if notify_pushover(title, msg, '#live'):
+            sent.add(key)
+            delivered += 1
+
+    for f in filings:
+        if f.get('ticker') not in followed:
+            continue
+        key = f"filing:{f['ticker']}:{f.get('form')}:{f.get('date')}"
+        if key in sent:
+            continue
+        title = f"{f['ticker']} filed {f.get('form')}"
+        msg = f"Material event filing on {f.get('date')}. View the document via the live feed."
+        if notify_pushover(title, msg, '#live'):
+            sent.add(key)
+            delivered += 1
+
+    today_date = dt.date.today()
+    for e in earnings:
+        if not e.get('is_watchlist'):
+            continue
+        try:
+            edate = dt.date.fromisoformat(e.get('date', ''))
+        except (TypeError, ValueError):
+            continue
+        if not 0 <= (edate - today_date).days <= 1:
+            continue
+        key = f"earnings_imminent:{e['ticker']}:{e['date']}"
+        if key in sent:
+            continue
+        hour = e.get('hour') or ''
+        when_label = {'bmo': 'before market open', 'amc': 'after market close'}.get(hour, hour)
+        title = f"{e['ticker']} reports {edate}"
+        msg = f"{e['ticker']} earnings {edate} {when_label}. Open positions and watchlist affected."
+        if notify_pushover(title, msg, '#weekly'):
+            sent.add(key)
+            delivered += 1
+
+    notif_state['sent'] = list(sent)
+    print(f"  Sent {delivered} new notifications")
+
+
 def load_picks() -> dict:
     p = ROOT / 'picks.json'
     if not p.exists():
@@ -1097,9 +1241,15 @@ def main() -> int:
 
     print("\nUpdating tracked picks...")
     picks_data = load_picks()
+    pre_status = {p.get('id'): p.get('status') for p in picks_data.get('picks', [])}
     picks_data = update_picks(picks_data, movers, all_news)
-    print(f"  {len(picks_data.get('picks', []))} existing picks tracked")
+    closed_picks = [
+        p for p in picks_data.get('picks', [])
+        if pre_status.get(p.get('id')) == 'open' and p.get('status') != 'open'
+    ]
+    print(f"  {len(picks_data.get('picks', []))} existing picks tracked ({len(closed_picks)} just closed)")
 
+    new_picks: list[dict] = []
     if should_generate_picks(picks_data):
         print("\nGenerating weekly picks via Claude...")
         new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data)
@@ -1125,6 +1275,11 @@ def main() -> int:
     write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js')
     write_picks(picks_data, DATA_DIR / 'picks.js')
     write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')
+
+    print("\nDispatching notifications...")
+    notif_state = load_notifications_state()
+    dispatch_notifications(notif_state, movers, filings, earnings, picks_data, new_picks, closed_picks)
+    save_notifications_state(notif_state)
 
     print(f"\nWrote {DATA_DIR.relative_to(ROOT) / 'movers.js'}")
     print(f"Wrote {DATA_DIR.relative_to(ROOT) / 'live.js'}")
