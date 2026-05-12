@@ -853,6 +853,7 @@ PICKS_SYSTEM_PROMPT = """You are picking 3-5 stocks for "The Brief"'s AI Experim
 
 For each pick, you MUST provide every field:
 - ticker: uppercase symbol (must appear in the data provided)
+- sector: One short category. Choose from: Technology, Healthcare, Energy, Financials, Industrials, Consumer, Materials, Utilities, Real Estate, Communication, Macro / ETF.
 - thesis: 1-2 sentence summary. Used in notifications. Plain text, no HTML.
 - rationale: 2-4 paragraph expansion (HTML string). Multi-paragraph with <p> tags. Wrap tickers in <span class="ticker" data-ticker="SYMBOL">SYMBOL</span>. Tag claims:
   * <span class="confidence confidence-fact">Fact</span> for verifiable numbers/events
@@ -889,6 +890,7 @@ OUTPUT (strict JSON only, no markdown fence, no commentary):
   "picks": [
     {
       "ticker": "TICKER",
+      "sector": "Technology",
       "thesis": "1-2 sentence plain-text summary",
       "rationale": "<p>Paragraph 1 with <span class=\\"confidence confidence-fact\\">Fact</span> and <span class=\\"ticker\\" data-ticker=\\"TICKER\\">TICKER</span> tags.</p><p>Paragraph 2.</p>",
       "horizon_weeks": 4,
@@ -1034,6 +1036,7 @@ def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[di
             'horizon_weeks': int(horizon),
             'target_pct': float(target),
             'stop_pct': float(stop),
+            'sector': (p.get('sector') or 'Unclassified').strip(),
             'thesis': (p.get('thesis') or '').strip(),
             'rationale': (p.get('rationale') or '').strip(),
             'horizon_reason': (p.get('horizon_reason') or '').strip(),

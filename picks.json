@@ -13,6 +13,7 @@
       "horizon_reason": "The thesis is a structural shift — tech-enabled insurance taking share from legacy insurers over years. <span class=\"confidence confidence-interp\">Interp</span> That doesn't show up in a week. The next earnings report (Q2) is ~2 months out and is the key catalyst: if MLR stays improved, the thesis is confirmed and the multiple expands. If MLR jumps back to 75%+, Q1 was a one-quarter pop, not a trend. 8 weeks gives you one full earnings cycle to find out.",
       "falsification": "MLR rises above 75% in Q2, OR membership growth turns negative YoY, OR ACA enhanced premium tax credits cut without offset.",
       "tags": ["healthcare", "issue-2-setup", "tech-enabled-insurance"],
+      "sector": "Healthcare",
       "issue_number": 2,
       "status": "open"
     },
@@ -29,6 +30,7 @@
       "horizon_reason": "This is the textbook short-horizon trade. The entire reason to own <span class=\"ticker\" data-ticker=\"NBIS\">NBIS</span> right now is the <em>specific date</em> of the earnings call. Once Wednesday's call happens, the thesis is either confirmed or destroyed — there's no 'wait and see for 8 weeks.' <span class=\"confidence confidence-interp\">Interp</span> 2 weeks gives you the earnings reaction plus a few days for the dust to settle.",
       "falsification": "Revenue misses $316.9M consensus, OR margin compression (EBIT% worsens vs Q4), OR forward ARR guidance reduced.",
       "tags": ["ai-infrastructure", "issue-2-setup", "event-driven", "earnings"],
+      "sector": "Technology",
       "issue_number": 2,
       "status": "open"
     },
@@ -45,6 +47,7 @@
       "horizon_reason": "Rotations are slow. They don't happen in a week. <span class=\"confidence confidence-interp\">Interp</span> The valuation gap between Russell 2000 (forward P/E ~19x) and S&amp;P (~21x) closes over months, not days. The catalysts that accelerate it — May CPI this week, then the June FOMC meeting — set the trajectory but the actual rotation plays out over 2–4 months. 8 weeks captures the next FOMC cycle.",
       "falsification": "May CPI prints >=2.8% (hot, signals Fed pause), OR IWM/SPY ratio declines for 4 consecutive weeks, OR Fed signals June pause/hike at any FOMC communication.",
       "tags": ["rotation", "macro", "issue-2-thesis", "etf"],
+      "sector": "Macro / ETF",
       "issue_number": 2,
       "status": "open"
     },
@@ -61,6 +64,7 @@
       "horizon_reason": "Not event-driven (no specific date to wait for) but not fully structural either. <span class=\"confidence confidence-interp\">Interp</span> The catalyst is the next earnings cycle — Q2 print roughly 6 weeks out. If <span class=\"ticker\" data-ticker=\"AMD\">AMD</span> data center revenue continues >30% YoY growth, the multiple expands toward <span class=\"ticker\" data-ticker=\"NVDA\">NVDA</span>. If it stalls, AMD gets re-rated lower. 6 weeks covers exactly that print and the immediate market reaction.",
       "falsification": "Q2 data center revenue growth <25% YoY (would signal MI series isn't gaining share), OR a hyperscaler announces NVDA-exclusive multi-year deal, OR gross margin compresses below 50% on the next print.",
       "tags": ["ai", "semiconductors", "value-vs-peer"],
+      "sector": "Technology",
       "issue_number": 2,
       "status": "open"
     },
@@ -77,6 +81,7 @@
       "horizon_reason": "This is the trickiest horizon to justify. Not event-driven (no single date determines it), not structural (you're not betting on long-term energy fundamentals). It's <em>macro-cyclical</em> — betting that the geopolitical premium persists for another month. <span class=\"confidence confidence-interp\">Interp</span> 4 weeks is short enough to exit before the late-June OPEC+ meeting (which could shift supply dynamics), but long enough to capture the next CPI print and any escalation/de-escalation headlines.",
       "falsification": "Iran-US ceasefire or framework agreement announcement, OR Brent crude below $92 for 5 trading days, OR Saudi/UAE announce major supply increase.",
       "tags": ["energy", "geopolitics", "macro"],
+      "sector": "Energy",
       "issue_number": 2,
       "status": "open"
     }
