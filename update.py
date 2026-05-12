@@ -148,6 +148,152 @@ def fetch_movers(watchlist: dict) -> list[dict]:
     return out
 
 
+MACRO_TICKERS = {
+    '^TNX': '10Y Treasury yield',
+    '^FVX': '5Y Treasury yield',
+    '^IRX': '13W T-Bill yield',
+    '^TYX': '30Y Treasury yield',
+    '^VIX': 'VIX (volatility)',
+    'GC=F': 'Gold futures',
+    'CL=F': 'WTI Crude futures',
+    'DX-Y.NYB': 'US Dollar Index',
+    'BTC-USD': 'Bitcoin',
+}
+
+FRED_LIQUIDITY_SERIES = {
+    'WALCL': 'Fed balance sheet ($M)',
+    'M2SL': 'M2 money supply ($B)',
+    'RRPONTSYD': 'Overnight reverse repo ($B)',
+}
+
+
+def fetch_macro_snapshot() -> dict:
+    cache = CACHE_DIR / 'macro.json'
+    if cache.exists() and (time.time() - cache.stat().st_mtime) < 3600:
+        try:
+            return json.loads(cache.read_text())
+        except Exception:
+            pass
+
+    out: dict = {}
+    try:
+        data = yf.download(
+            list(MACRO_TICKERS.keys()),
+            period='10d',
+            auto_adjust=True,
+            progress=False,
+            threads=True,
+            group_by='ticker',
+        )
+    except Exception as e:
+        print(f"  Macro fetch failed: {e}")
+        return {}
+
+    for t, name in MACRO_TICKERS.items():
+        try:
+            df = data[t] if data.columns.nlevels > 1 and t in data.columns.get_level_values(0) else data
+            close = df['Close'].dropna()
+            if len(close) < 2:
+                continue
+            current = float(close.iloc[-1])
+            prev = float(close.iloc[-2])
+            week_ago = float(close.iloc[-5]) if len(close) >= 5 else None
+            out[t] = {
+                'name': name,
+                'value': round(current, 2),
+                'change_pct_1d': round((current - prev) / prev * 100, 2) if prev else 0,
+                'change_pct_1w': round((current - week_ago) / week_ago * 100, 2) if week_ago else None,
+            }
+        except Exception:
+            continue
+
+    if out:
+        ten_y = out.get('^TNX', {}).get('value')
+        bill_13w = out.get('^IRX', {}).get('value')
+        if ten_y is not None and bill_13w is not None:
+            spread = round(ten_y - bill_13w, 2)
+            out['_yield_curve'] = {
+                'spread_10y_13w_bps': int(spread * 100),
+                'inverted': spread < 0,
+            }
+
+        if os.getenv('FRED_API_KEY'):
+            try:
+                fred_data = fetch_fred_liquidity()
+                if fred_data:
+                    out.update(fred_data)
+            except Exception as e:
+                print(f"  FRED liquidity fetch failed: {e}")
+
+        CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        cache.write_text(json.dumps(out, indent=2))
+
+    return out
+
+
+def fetch_fred_liquidity() -> dict:
+    key = os.getenv('FRED_API_KEY')
+    if not key:
+        return {}
+    out = {}
+    for series, name in FRED_LIQUIDITY_SERIES.items():
+        try:
+            url = f"https://api.stlouisfed.org/fred/series/observations?series_id={series}&api_key={key}&file_type=json&sort_order=desc&limit=2"
+            r = requests.get(url, timeout=10)
+            r.raise_for_status()
+            obs = r.json().get('observations', [])
+            if not obs:
+                continue
+            current = float(obs[0]['value']) if obs[0].get('value') not in (None, '.', '') else None
+            previous = float(obs[1]['value']) if len(obs) > 1 and obs[1].get('value') not in (None, '.', '') else None
+            if current is None:
+                continue
+            out[f'FRED_{series}'] = {
+                'name': name,
+                'value': round(current, 2),
+                'date': obs[0].get('date'),
+                'change_pct': round((current - previous) / previous * 100, 2) if previous else None,
+            }
+            time.sleep(0.1)
+        except Exception as e:
+            print(f"  FRED {series} failed: {e}")
+            continue
+    return out
+
+
+def format_macro_for_prompt(macro: dict) -> str:
+    if not macro:
+        return "(macro data not available)"
+    lines = ["## Macro snapshot"]
+    label_order = ['^TNX', '^IRX', '^TYX', '^VIX', 'GC=F', 'CL=F', 'DX-Y.NYB', 'BTC-USD']
+    for t in label_order:
+        m = macro.get(t)
+        if not m:
+            continue
+        chg_1d = m.get('change_pct_1d')
+        chg_1w = m.get('change_pct_1w')
+        chg_str = f"({chg_1d:+.2f}% today" + (f", {chg_1w:+.2f}% 1w" if chg_1w is not None else "") + ")"
+        lines.append(f"- {m.get('name')}: {m.get('value')} {chg_str}")
+    yc = macro.get('_yield_curve')
+    if yc:
+        spread = yc['spread_10y_13w_bps']
+        status = 'INVERTED' if yc['inverted'] else 'normal'
+        lines.append(f"- Yield curve (10Y minus 13W): {spread:+d} bps · {status}")
+    for k in ('FRED_WALCL', 'FRED_M2SL', 'FRED_RRPONTSYD'):
+        m = macro.get(k)
+        if m:
+            lines.append(f"- {m.get('name')}: {m.get('value'):,} (as of {m.get('date')})")
+    return "\n".join(lines)
+
+
+def write_macro(macro: dict, out_path: Path) -> None:
+    payload = {
+        'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(),
+        'snapshot': macro,
+    }
+    out_path.write_text(to_js_var('theBriefMacro', payload))
+
+
 def load_fundamentals_cache() -> dict:
     cache = CACHE_DIR / 'fundamentals.json'
     if not cache.exists():
@@ -898,7 +1044,8 @@ If today's data is genuinely uneventful, write one short paragraph saying so hon
 
 def build_editorial_user_prompt(movers: list[dict], news: list[dict],
                                 filings: list[dict], earnings: list[dict],
-                                watchlist: dict, picks_data: dict) -> str:
+                                watchlist: dict, picks_data: dict,
+                                macro: dict | None = None) -> str:
     today = dt.date.today().isoformat()
     followed = set(watchlist['followed'])
 
@@ -919,6 +1066,10 @@ def build_editorial_user_prompt(movers: list[dict], news: list[dict],
     open_picks = [p for p in picks_data.get('picks', []) if p.get('status') == 'open']
 
     parts = [f"# Today's data — {today}\n"]
+
+    if macro:
+        parts.append(format_macro_for_prompt(macro))
+        parts.append("")
 
     parts.append("## Watchlist price moves (today vs prior close)")
     if watchlist_movers:
@@ -974,13 +1125,14 @@ def build_editorial_user_prompt(movers: list[dict], news: list[dict],
 
 
 def summarize_daily(movers: list[dict], news: list[dict], filings: list[dict],
-                    earnings: list[dict], watchlist: dict, picks_data: dict) -> dict | None:
+                    earnings: list[dict], watchlist: dict, picks_data: dict,
+                    macro: dict | None = None) -> dict | None:
     key = os.getenv('ANTHROPIC_API_KEY')
     if not key or not Anthropic:
         print("  ANTHROPIC_API_KEY not set (or anthropic SDK missing), skipping daily summary")
         return None
 
-    user_prompt = build_editorial_user_prompt(movers, news, filings, earnings, watchlist, picks_data)
+    user_prompt = build_editorial_user_prompt(movers, news, filings, earnings, watchlist, picks_data, macro)
 
     try:
         client = Anthropic(api_key=key)
@@ -1084,7 +1236,8 @@ OUTPUT (strict JSON only, no markdown fence, no commentary):
 
 def build_picks_user_prompt(movers: list[dict], news: list[dict], filings: list[dict],
                             earnings: list[dict], watchlist: dict, picks_data: dict,
-                            fundamentals: dict | None = None) -> str:
+                            fundamentals: dict | None = None,
+                            macro: dict | None = None) -> str:
     today = dt.date.today().isoformat()
     followed = set(watchlist['followed'])
     active_tickers = {p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'}
@@ -1105,6 +1258,10 @@ def build_picks_user_prompt(movers: list[dict], news: list[dict], filings: list[
 
     parts = [f"# Picks generation prompt — {today}"]
     parts.append(f"\n## Active picks (DO NOT pick these tickers again): {sorted(active_tickers) if active_tickers else '(none)'}")
+
+    if macro:
+        parts.append("")
+        parts.append(format_macro_for_prompt(macro))
 
     parts.append("\n## Watchlist fundamentals + extended returns")
     parts.append(format_fundamentals_for_prompt(fundamentals or {}, watchlist['followed']))
@@ -1272,13 +1429,14 @@ def _claude_json_call(system: str, user: str, max_tokens: int = 2500, label: str
 
 def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[dict],
                           earnings: list[dict], watchlist: dict, picks_data: dict,
-                          fundamentals: dict | None = None) -> list[dict]:
+                          fundamentals: dict | None = None,
+                          macro: dict | None = None) -> list[dict]:
     key = os.getenv('ANTHROPIC_API_KEY')
     if not key or not Anthropic:
         print("  ANTHROPIC_API_KEY not set (or anthropic SDK missing), skipping picks generation")
         return []
 
-    data_prompt = build_picks_user_prompt(movers, news, filings, earnings, watchlist, picks_data, fundamentals)
+    data_prompt = build_picks_user_prompt(movers, news, filings, earnings, watchlist, picks_data, fundamentals, macro)
 
     print("  Step 1/3: theme scan...")
     step1 = _claude_json_call(THEME_SCAN_SYSTEM_PROMPT, data_prompt, max_tokens=1500, label='theme-scan')
@@ -1706,6 +1864,13 @@ def main() -> int:
 
     all_news = company_news + general_news + rss_news
 
+    print("\nFetching macro snapshot (cached 1h)...")
+    macro = fetch_macro_snapshot()
+    yc = macro.get('_yield_curve')
+    if yc:
+        print(f"  Yield curve: {yc['spread_10y_13w_bps']:+d} bps · {'INVERTED' if yc['inverted'] else 'normal'}")
+    print(f"  Got {len([k for k in macro if not k.startswith('_')])} macro indicators")
+
     print("\nFetching fundamentals for watchlist (cached 24h)...")
     fundamentals = fetch_fundamentals(watchlist)
     print(f"  Got fundamentals for {len(fundamentals)} tickers")
@@ -1723,7 +1888,7 @@ def main() -> int:
     new_picks: list[dict] = []
     if should_generate_picks(picks_data):
         print("\nGenerating weekly picks via Claude...")
-        new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data, fundamentals)
+        new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data, fundamentals, macro)
         if new_picks:
             picks_data['picks'].extend(new_picks)
             picks_data = update_picks(picks_data, movers, all_news)
@@ -1737,7 +1902,7 @@ def main() -> int:
     print("\nGenerating editorial daily entry via Claude...")
     current_issue = find_current_issue_number()
     print(f"  Current issue: №{current_issue}")
-    daily_entry = summarize_daily(movers, all_news, filings, earnings, watchlist, picks_data)
+    daily_entry = summarize_daily(movers, all_news, filings, earnings, watchlist, picks_data, macro)
     if daily_entry:
         print(f"  Daily headline: {daily_entry['headline']}")
 
@@ -1747,6 +1912,7 @@ def main() -> int:
     write_picks(picks_data, DATA_DIR / 'picks.js')
     write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')
     write_fundamentals(fundamentals, DATA_DIR / 'fundamentals.js')
+    write_macro(macro, DATA_DIR / 'macro.js')
 
     print("\nDispatching notifications...")
     notif_state = load_notifications_state()
