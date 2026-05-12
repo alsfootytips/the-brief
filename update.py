@@ -148,6 +148,177 @@ def fetch_movers(watchlist: dict) -> list[dict]:
     return out
 
 
+def load_fundamentals_cache() -> dict:
+    cache = CACHE_DIR / 'fundamentals.json'
+    if not cache.exists():
+        return {}
+    if (time.time() - cache.stat().st_mtime) > 86400:
+        return {}
+    try:
+        return json.loads(cache.read_text())
+    except Exception:
+        return {}
+
+
+def save_fundamentals_cache(data: dict) -> None:
+    cache = CACHE_DIR / 'fundamentals.json'
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache.write_text(json.dumps(data, indent=2))
+
+
+def fetch_fundamentals(watchlist: dict) -> dict:
+    cached = load_fundamentals_cache()
+    if cached:
+        print(f"  Using cached fundamentals ({len(cached)} tickers)")
+        return cached
+
+    followed = watchlist['followed']
+    finnhub_key = os.getenv('FINNHUB_API_KEY')
+    out: dict[str, dict] = {}
+
+    try:
+        hist = yf.download(
+            followed,
+            period='1y',
+            auto_adjust=True,
+            progress=False,
+            group_by='ticker',
+            threads=True,
+        )
+    except Exception as e:
+        print(f"  yfinance 1y history fetch failed: {e}")
+        hist = None
+
+    today = dt.date.today()
+    year_start = dt.date(today.year, 1, 1)
+
+    for ticker in followed:
+        f: dict = {}
+
+        if hist is not None:
+            try:
+                df = hist[ticker] if ticker in hist.columns.get_level_values(0) else hist
+                close = df['Close'].dropna()
+                if len(close) >= 2:
+                    current = float(close.iloc[-1])
+                    def ret_from(days_back: int) -> float | None:
+                        if len(close) <= days_back:
+                            return None
+                        prior = float(close.iloc[-1 - days_back])
+                        return round((current - prior) / prior * 100, 2) if prior else None
+                    f['return_1m'] = ret_from(21)
+                    f['return_3m'] = ret_from(63)
+                    f['return_6m'] = ret_from(126)
+                    f['return_1y'] = ret_from(252)
+                    try:
+                        ytd_start_idx = close.index.get_indexer([year_start.isoformat()], method='nearest')[0]
+                        ytd_start = float(close.iloc[ytd_start_idx])
+                        f['return_ytd'] = round((current - ytd_start) / ytd_start * 100, 2) if ytd_start else None
+                    except Exception:
+                        f['return_ytd'] = None
+                    try:
+                        f['return_52w_high'] = round(current / float(close.max()) * 100 - 100, 2)
+                        f['return_52w_low'] = round(current / float(close.min()) * 100 - 100, 2)
+                    except Exception:
+                        pass
+            except Exception as e:
+                print(f"  Returns calc failed for {ticker}: {e}")
+
+        try:
+            info = yf.Ticker(ticker).info
+            f.update({
+                'trailing_pe': info.get('trailingPE'),
+                'forward_pe': info.get('forwardPE'),
+                'price_to_sales': info.get('priceToSalesTrailing12Months'),
+                'price_to_book': info.get('priceToBook'),
+                'enterprise_to_ebitda': info.get('enterpriseToEbitda'),
+                'profit_margin': info.get('profitMargins'),
+                'gross_margin': info.get('grossMargins'),
+                'operating_margin': info.get('operatingMargins'),
+                'revenue_growth_yoy': info.get('revenueGrowth'),
+                'earnings_growth_qoq': info.get('earningsQuarterlyGrowth'),
+                'market_cap': info.get('marketCap'),
+                'beta': info.get('beta'),
+                'dividend_yield': info.get('dividendYield'),
+                'short_ratio': info.get('shortRatio'),
+                'short_percent_of_float': info.get('shortPercentOfFloat'),
+            })
+        except Exception as e:
+            print(f"  yfinance info failed for {ticker}: {e}")
+
+        if finnhub_key:
+            try:
+                time.sleep(0.1)
+                r = requests.get(
+                    f"https://finnhub.io/api/v1/stock/recommendation?symbol={ticker}&token={finnhub_key}",
+                    timeout=10,
+                )
+                r.raise_for_status()
+                recs = r.json() or []
+                if recs:
+                    latest = recs[0]
+                    f['analyst_recs'] = {
+                        'strongBuy': latest.get('strongBuy'),
+                        'buy': latest.get('buy'),
+                        'hold': latest.get('hold'),
+                        'sell': latest.get('sell'),
+                        'strongSell': latest.get('strongSell'),
+                        'period': latest.get('period'),
+                    }
+                    if len(recs) >= 2:
+                        prev = recs[1]
+                        f['analyst_recs_change'] = {
+                            'buy_delta': (latest.get('buy', 0) or 0) - (prev.get('buy', 0) or 0),
+                            'sell_delta': (latest.get('sell', 0) or 0) - (prev.get('sell', 0) or 0),
+                        }
+            except Exception as e:
+                print(f"  Finnhub recommendations failed for {ticker}: {e}")
+
+            try:
+                time.sleep(0.1)
+                r = requests.get(
+                    f"https://finnhub.io/api/v1/stock/price-target?symbol={ticker}&token={finnhub_key}",
+                    timeout=10,
+                )
+                r.raise_for_status()
+                pt = r.json() or {}
+                if pt.get('targetMean'):
+                    f['price_target'] = {
+                        'mean': pt.get('targetMean'),
+                        'high': pt.get('targetHigh'),
+                        'low': pt.get('targetLow'),
+                        'last_updated': pt.get('lastUpdated'),
+                    }
+            except requests.exceptions.HTTPError as e:
+                if e.response is not None and e.response.status_code == 403:
+                    pass
+                else:
+                    print(f"  Finnhub price target failed for {ticker}: {e}")
+            except Exception as e:
+                print(f"  Finnhub price target failed for {ticker}: {e}")
+
+            try:
+                time.sleep(0.1)
+                r = requests.get(
+                    f"https://finnhub.io/api/v1/stock/insider-transactions?symbol={ticker}&token={finnhub_key}",
+                    timeout=10,
+                )
+                r.raise_for_status()
+                ins = r.json() or {}
+                txns = ins.get('data', [])[:10]
+                if txns:
+                    buys = sum(1 for t in txns if (t.get('change') or 0) > 0)
+                    sells = sum(1 for t in txns if (t.get('change') or 0) < 0)
+                    f['insider_recent_90d'] = {'buys': buys, 'sells': sells, 'total': len(txns)}
+            except Exception as e:
+                print(f"  Finnhub insider failed for {ticker}: {e}")
+
+        out[ticker] = f
+
+    save_fundamentals_cache(out)
+    return out
+
+
 def fetch_earnings(watchlist: dict) -> list[dict]:
     key = os.getenv('FINNHUB_API_KEY')
     if not key:
@@ -883,6 +1054,13 @@ HARD RULES:
 - NEVER use words: "buy", "must own", "rocket", "soaring", "explode", "skyrocket", "guaranteed".
 - NEVER imply certainty. The system's whole value is that misses get tracked.
 
+USE FUNDAMENTALS:
+The data dump includes valuation (P/E, P/S), growth (revenue/EPS YoY), margins, extended
+returns (1m/3m/6m/YTD), analyst price targets, and recommendation breakdowns. Your thesis
+MUST reference relevant fundamentals — not just news flow. A good thesis explains WHY a
+stock is mispriced (cheap relative to peers, growth not yet recognized, analyst PT well
+above current, insider buying, etc.) — not just "news happened."
+
 If today's data shows nothing genuinely interesting (slow news, no movers, no upcoming catalysts), return an empty picks list. Honest zero is better than padded picks.
 
 OUTPUT (strict JSON only, no markdown fence, no commentary):
@@ -905,7 +1083,8 @@ OUTPUT (strict JSON only, no markdown fence, no commentary):
 
 
 def build_picks_user_prompt(movers: list[dict], news: list[dict], filings: list[dict],
-                            earnings: list[dict], watchlist: dict, picks_data: dict) -> str:
+                            earnings: list[dict], watchlist: dict, picks_data: dict,
+                            fundamentals: dict | None = None) -> str:
     today = dt.date.today().isoformat()
     followed = set(watchlist['followed'])
     active_tickers = {p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'}
@@ -926,6 +1105,9 @@ def build_picks_user_prompt(movers: list[dict], news: list[dict], filings: list[
 
     parts = [f"# Picks generation prompt — {today}"]
     parts.append(f"\n## Active picks (DO NOT pick these tickers again): {sorted(active_tickers) if active_tickers else '(none)'}")
+
+    parts.append("\n## Watchlist fundamentals + extended returns")
+    parts.append(format_fundamentals_for_prompt(fundamentals or {}, watchlist['followed']))
 
     parts.append("\n## Watchlist price action this week")
     for m in watchlist_movers:
@@ -972,13 +1154,14 @@ def should_generate_picks(picks_data: dict) -> bool:
 
 
 def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[dict],
-                          earnings: list[dict], watchlist: dict, picks_data: dict) -> list[dict]:
+                          earnings: list[dict], watchlist: dict, picks_data: dict,
+                          fundamentals: dict | None = None) -> list[dict]:
     key = os.getenv('ANTHROPIC_API_KEY')
     if not key or not Anthropic:
         print("  ANTHROPIC_API_KEY not set (or anthropic SDK missing), skipping picks generation")
         return []
 
-    user_prompt = build_picks_user_prompt(movers, news, filings, earnings, watchlist, picks_data)
+    user_prompt = build_picks_user_prompt(movers, news, filings, earnings, watchlist, picks_data, fundamentals)
 
     try:
         client = Anthropic(api_key=key)
@@ -1088,6 +1271,55 @@ def write_daily(entry: dict | None, issue_number: int | None, out_path: Path) ->
         'by_issue': existing,
     }
     out_path.write_text(to_js_var('theBriefDaily', payload))
+
+
+def write_fundamentals(fundamentals: dict, out_path: Path) -> None:
+    payload = {
+        'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(),
+        'by_ticker': fundamentals,
+    }
+    out_path.write_text(to_js_var('theBriefFundamentals', payload))
+
+
+def format_fundamentals_for_prompt(fundamentals: dict, tickers: list[str]) -> str:
+    if not fundamentals:
+        return "(fundamentals not available)"
+    lines = []
+    for t in tickers:
+        f = fundamentals.get(t)
+        if not f:
+            continue
+        parts = []
+        if f.get('forward_pe') is not None:
+            parts.append(f"fwd P/E {f['forward_pe']:.1f}")
+        if f.get('price_to_sales') is not None:
+            parts.append(f"P/S {f['price_to_sales']:.1f}")
+        if f.get('operating_margin') is not None:
+            parts.append(f"op margin {f['operating_margin']*100:.1f}%")
+        if f.get('revenue_growth_yoy') is not None:
+            parts.append(f"rev YoY {f['revenue_growth_yoy']*100:+.1f}%")
+        if f.get('earnings_growth_qoq') is not None:
+            parts.append(f"EPS QoQ {f['earnings_growth_qoq']*100:+.1f}%")
+        if f.get('return_3m') is not None:
+            parts.append(f"3m return {f['return_3m']:+.1f}%")
+        if f.get('return_ytd') is not None:
+            parts.append(f"YTD {f['return_ytd']:+.1f}%")
+        if f.get('return_52w_high') is not None:
+            parts.append(f"{f['return_52w_high']:+.1f}% from 52w high")
+        pt = f.get('price_target')
+        if pt and pt.get('mean'):
+            parts.append(f"analyst PT mean ${pt['mean']:.2f}")
+        recs = f.get('analyst_recs')
+        if recs:
+            buys = (recs.get('strongBuy', 0) or 0) + (recs.get('buy', 0) or 0)
+            sells = (recs.get('sell', 0) or 0) + (recs.get('strongSell', 0) or 0)
+            parts.append(f"{buys}B / {recs.get('hold', 0)}H / {sells}S analyst")
+        ins = f.get('insider_recent_90d')
+        if ins and (ins.get('buys') or ins.get('sells')):
+            parts.append(f"insider 90d: {ins.get('buys')}B/{ins.get('sells')}S")
+        if parts:
+            lines.append(f"- {t}: " + ", ".join(parts))
+    return "\n".join(lines) if lines else "(no fundamentals data)"
 
 
 def write_picks(picks_data: dict, out_path: Path) -> None:
@@ -1342,6 +1574,10 @@ def main() -> int:
 
     all_news = company_news + general_news + rss_news
 
+    print("\nFetching fundamentals for watchlist (cached 24h)...")
+    fundamentals = fetch_fundamentals(watchlist)
+    print(f"  Got fundamentals for {len(fundamentals)} tickers")
+
     print("\nUpdating tracked picks...")
     picks_data = load_picks()
     pre_status = {p.get('id'): p.get('status') for p in picks_data.get('picks', [])}
@@ -1355,7 +1591,7 @@ def main() -> int:
     new_picks: list[dict] = []
     if should_generate_picks(picks_data):
         print("\nGenerating weekly picks via Claude...")
-        new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data)
+        new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data, fundamentals)
         if new_picks:
             picks_data['picks'].extend(new_picks)
             picks_data = update_picks(picks_data, movers, all_news)
@@ -1378,6 +1614,7 @@ def main() -> int:
     write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js')
     write_picks(picks_data, DATA_DIR / 'picks.js')
     write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')
+    write_fundamentals(fundamentals, DATA_DIR / 'fundamentals.js')
 
     print("\nDispatching notifications...")
     notif_state = load_notifications_state()
