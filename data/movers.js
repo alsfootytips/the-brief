@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-12T20:38:29.812603+00:00",
+  "generated_at": "2026-05-12T21:04:37.651126+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -26,7 +26,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 145.85,
       "change_pct": 1.96,
-      "volume_ratio": 1.14,
+      "volume_ratio": 1.18,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -86,7 +86,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 115.86,
       "change_pct": 0.24,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 179.11,
       "change_pct": -3.76,
-      "volume_ratio": 0.74,
+      "volume_ratio": 0.75,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -158,7 +158,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 765.81,
       "change_pct": -1.99,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -178,7 +178,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 102.98,
       "change_pct": -1.58,
-      "volume_ratio": 1.13,
+      "volume_ratio": 1.27,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -228,7 +228,7 @@ window.theBriefMovers = {
       "name": "Industrial Select Sector",
       "price": 174.35,
       "change_pct": -0.39,
-      "volume_ratio": 0.85,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 738.18,
       "change_pct": -0.15,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.06,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -268,7 +268,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1071.98,
       "change_pct": -0.1,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 102.98,
       "change_pct": -1.58,
-      "volume_ratio": 1.13,
+      "volume_ratio": 1.27,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1071.98,
       "change_pct": -0.1,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -340,7 +340,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 179.11,
       "change_pct": -3.76,
-      "volume_ratio": 0.74,
+      "volume_ratio": 0.75,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -380,7 +380,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 765.81,
       "change_pct": -1.99,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false
@@ -452,7 +452,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 738.18,
       "change_pct": -0.15,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.06,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -464,7 +464,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 145.85,
       "change_pct": 1.96,
-      "volume_ratio": 1.14,
+      "volume_ratio": 1.18,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -504,7 +504,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 115.86,
       "change_pct": 0.24,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -544,7 +544,7 @@ window.theBriefMovers = {
       "name": "Industrial Select Sector",
       "price": 174.35,
       "change_pct": -0.39,
-      "volume_ratio": 0.85,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
