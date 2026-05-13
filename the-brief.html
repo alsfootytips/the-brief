@@ -2877,7 +2877,12 @@ function renderPortfolio() {
 }
 
 // ===== Top-level render =====
+let _lastRenderedKey = null;
 function render() {
+  const renderKey = state.view + '|' + (state.issueNumber || '');
+  const sameKey = renderKey === _lastRenderedKey;
+  const previousScroll = sameKey ? window.scrollY : 0;
+
   const content = document.getElementById('content');
   const issuePicker = document.getElementById('issue-picker');
   const eyebrow = document.getElementById('masthead-eyebrow');
@@ -2953,7 +2958,12 @@ function render() {
   }
 
   setHash(state.view, state.issueNumber);
-  window.scrollTo(0, 0);
+  _lastRenderedKey = renderKey;
+  if (sameKey) {
+    window.scrollTo(0, previousScroll);
+  } else {
+    window.scrollTo(0, 0);
+  }
 }
 
 // ===== Tooltip (delegated) =====
