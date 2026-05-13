@@ -367,6 +367,14 @@ def fetch_fundamentals(watchlist: dict) -> dict:
                         f['return_52w_low'] = round(current / float(close.min()) * 100 - 100, 2)
                     except Exception:
                         pass
+                    try:
+                        daily_returns = close.pct_change().dropna()
+                        if len(daily_returns) >= 30:
+                            recent_30 = daily_returns.iloc[-30:]
+                            vol_pct = float(recent_30.std()) * 100
+                            f['realized_vol_30d_pct'] = round(vol_pct, 2)
+                    except Exception:
+                        pass
             except Exception as e:
                 print(f"  Returns calc failed for {ticker}: {e}")
 
@@ -1637,9 +1645,41 @@ def write_picks(picks_data: dict, out_path: Path) -> None:
     out_path.write_text(to_js_var('theBriefPicks', payload))
 
 
+def build_radar_narrative(ticker: str, signals: list[str], tags: list[str], change: float) -> str:
+    tag_set = set(tags)
+    direction = "decline" if change < 0 else "rally"
+
+    if 'earnings-soon' in tag_set and 'big-move' in tag_set:
+        lead = f"<strong>{ticker}</strong> is moving sharply ({change:+.2f}%) just ahead of an earnings catalyst within 7 days."
+    elif 'earnings-soon' in tag_set:
+        lead = f"<strong>{ticker}</strong> reports earnings within the next 7 days — the print resolves the thesis."
+    elif 'big-move' in tag_set and 'filing' in tag_set:
+        lead = f"<strong>{ticker}</strong> made a statistically significant {direction} ({change:+.2f}%) on the same week as a new SEC filing — likely material event."
+    elif 'big-move' in tag_set and 'heavy-news' in tag_set:
+        lead = f"<strong>{ticker}</strong> moved sharply ({change:+.2f}%) on heavy news flow — the market is reacting to a developing story."
+    elif 'big-move' in tag_set:
+        lead = f"<strong>{ticker}</strong> made a statistically significant {direction} ({change:+.2f}%) but with no obvious news catalyst — sector pressure or technical move."
+    elif 'insider-buying' in tag_set and 'drawdown' in tag_set:
+        lead = f"<strong>{ticker}</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown."
+    elif 'insider-buying' in tag_set:
+        lead = f"<strong>{ticker}</strong> has notable insider conviction in the last 90 days."
+    elif 'analyst-upgrade' in tag_set and 'cheap' in tag_set:
+        lead = f"<strong>{ticker}</strong> trades cheap on forward earnings while sell-side estimates are revising higher."
+    elif 'drawdown' in tag_set and 'cheap' in tag_set:
+        lead = f"<strong>{ticker}</strong> has been beaten down hard and now trades at a low valuation — value setup."
+    elif 'filing' in tag_set:
+        lead = f"<strong>{ticker}</strong> just filed material disclosures with the SEC."
+    else:
+        lead = f"<strong>{ticker}</strong> is accumulating signals worth tracking."
+
+    return lead
+
+
 def compute_radar(movers: list[dict], news: list[dict], filings: list[dict],
-                  earnings: list[dict], watchlist: dict) -> dict:
+                  earnings: list[dict], watchlist: dict,
+                  fundamentals: dict | None = None) -> dict:
     movers_by_ticker = {m['ticker']: m for m in movers}
+    fundamentals = fundamentals or {}
 
     news_counts: dict[str, int] = {}
     for n in news:
@@ -1668,45 +1708,112 @@ def compute_radar(movers: list[dict], news: list[dict], filings: list[dict],
         m = movers_by_ticker.get(ticker)
         if not m:
             continue
+        fund = fundamentals.get(ticker, {})
         news_n = news_counts.get(ticker, 0)
         filing_n = filing_counts.get(ticker, 0)
         soon = ticker in earnings_soon
         change = m.get('change_pct', 0) or 0
         abs_change = abs(change)
+        vol_30d_pct = fund.get('realized_vol_30d_pct')
 
         score = 0.0
-        reasons: list[str] = []
+        signals: list[str] = []
+        tags: list[str] = []
 
-        if abs_change >= 5:
-            score += 4
-            reasons.append(f"Moved {change:+.2f}% today")
-        elif abs_change >= 2:
-            score += 2
-            reasons.append(f"Moved {change:+.2f}% today")
+        if vol_30d_pct and vol_30d_pct > 0:
+            z = abs_change / vol_30d_pct
+            if z >= 2.5:
+                score += 4
+                signals.append(f"Moved {change:+.2f}% — a {z:.1f}σ move vs typical {vol_30d_pct:.1f}% daily vol")
+                tags.append('big-move')
+            elif z >= 1.5:
+                score += 2.5
+                signals.append(f"Moved {change:+.2f}% — a {z:.1f}σ move vs typical {vol_30d_pct:.1f}% daily vol")
+                tags.append('moderate-move')
+            elif z >= 1.0 and abs_change >= 1:
+                score += 1
+                signals.append(f"Moved {change:+.2f}% — a {z:.1f}σ move")
+        else:
+            if abs_change >= 5:
+                score += 4
+                signals.append(f"Moved {change:+.2f}% today")
+                tags.append('big-move')
+            elif abs_change >= 2:
+                score += 2
+                signals.append(f"Moved {change:+.2f}% today")
+                tags.append('moderate-move')
 
         if news_n >= 5:
             score += 3
-            reasons.append(f"{news_n} news items in the last 3 days")
+            signals.append(f"{news_n} news items in the last 3 days")
+            tags.append('heavy-news')
         elif news_n >= 2:
             score += 1.5
-            reasons.append(f"{news_n} news items in the last 3 days")
+            signals.append(f"{news_n} news items in the last 3 days")
+            tags.append('news-flow')
 
         if filing_n >= 1:
             score += 2.5
-            reasons.append(f"{filing_n} SEC filing{'s' if filing_n > 1 else ''} in the last 7 days")
+            signals.append(f"{filing_n} SEC filing{'s' if filing_n > 1 else ''} in the last 7 days")
+            tags.append('filing')
 
         if soon:
             score += 3
-            reasons.append("Earnings within 7 days")
+            signals.append("Earnings within 7 days")
+            tags.append('earnings-soon')
 
-        if score >= 2:
+        insider = fund.get('insider_recent_90d') or {}
+        i_buys = insider.get('buys', 0) or 0
+        i_sells = insider.get('sells', 0) or 0
+        if i_buys >= 3 and i_buys > i_sells * 2:
+            score += 2
+            signals.append(f"{i_buys} insider buys vs {i_sells} sells (last 90 days)")
+            tags.append('insider-buying')
+        elif i_sells >= 5 and i_sells > i_buys * 2:
+            score += 1
+            signals.append(f"{i_sells} insider sells vs {i_buys} buys (last 90 days)")
+            tags.append('insider-selling')
+
+        recs_change = fund.get('analyst_recs_change') or {}
+        buy_delta = recs_change.get('buy_delta', 0) or 0
+        sell_delta = recs_change.get('sell_delta', 0) or 0
+        if buy_delta >= 2:
+            score += 1.5
+            signals.append(f"+{buy_delta} analyst buy recs added recently")
+            tags.append('analyst-upgrade')
+        elif sell_delta >= 2:
+            score += 1
+            signals.append(f"+{sell_delta} analyst sell recs added recently")
+            tags.append('analyst-downgrade')
+
+        fwd_pe = fund.get('forward_pe')
+        if fwd_pe is not None and 0 < fwd_pe < 15:
+            score += 1
+            signals.append(f"Forward P/E {fwd_pe:.1f} (cheap on absolute basis)")
+            tags.append('cheap')
+
+        ret_3m = fund.get('return_3m')
+        ret_52w_high = fund.get('return_52w_high')
+        if ret_3m is not None and ret_3m <= -25:
+            score += 1
+            signals.append(f"Down {ret_3m:+.1f}% over 3 months — deep drawdown")
+            tags.append('drawdown')
+        if ret_52w_high is not None and ret_52w_high <= -40:
+            score += 1
+            signals.append(f"{ret_52w_high:+.1f}% from 52-week high")
+            tags.append('off-highs')
+
+        if score >= 3:
             radar.append({
                 'ticker': ticker,
                 'name': m.get('name', ticker),
                 'price': m.get('price'),
                 'change_pct': m.get('change_pct'),
                 'score': round(score, 1),
-                'reasons': reasons,
+                'signals': signals,
+                'reasons': signals,
+                'tags': tags,
+                'narrative': build_radar_narrative(ticker, signals, tags, change),
                 'sector_etf': WATCHLIST_SECTOR_MAP.get(ticker),
             })
 
@@ -1727,23 +1834,103 @@ def compute_radar(movers: list[dict], news: list[dict], filings: list[dict],
     return {'watchlist_radar': radar, 'sectors_radar': sectors_radar}
 
 
+SECTOR_BY_TICKER_GUESS = {
+    'CRWV': 'XLK', 'NBIS': 'XLK', 'TTD': 'XLK', 'AMD': 'XLK', 'NVDA': 'XLK',
+    'OSCR': 'XLV',
+    'APA': 'XLE', 'TPL': 'XLE', 'OXY': 'XLE',
+    'DG': 'XLP',
+    'PWR': 'XLI', 'GEV': 'XLI',
+}
+
+
+def compute_move_reasoning(mover: dict, news: list[dict], filings: list[dict],
+                           earnings: list[dict], sectors: list[dict], today: dt.date) -> str:
+    ticker = mover['ticker']
+    change = mover.get('change_pct') or 0
+    abs_change = abs(change)
+
+    today_iso = today.isoformat()
+    yesterday = (today - dt.timedelta(days=1)).isoformat()
+    two_days_ago = (today - dt.timedelta(days=2)).isoformat()
+    recent_window = {today_iso, yesterday, two_days_ago}
+
+    ticker_filings = [
+        f for f in filings
+        if f.get('ticker') == ticker and f.get('date') in recent_window
+    ]
+    if ticker_filings:
+        return f"SEC filing ({ticker_filings[0].get('form', 'filing')}) just dropped — material disclosure likely behind move."
+
+    today_earnings = [e for e in earnings if e.get('ticker') == ticker and e.get('date') == today_iso]
+    if today_earnings:
+        return "Earnings reaction — reported today."
+    next_day_earnings = [e for e in earnings if e.get('ticker') == ticker and e.get('date') == (today + dt.timedelta(days=1)).isoformat()]
+    if next_day_earnings:
+        return "Pre-earnings positioning — reports tomorrow."
+
+    ticker_news = []
+    for n in news:
+        if (n.get('ticker') or '').upper() != ticker.upper():
+            continue
+        ts = n.get('datetime')
+        n_date = None
+        try:
+            if ts:
+                n_date = dt.datetime.fromtimestamp(int(ts), tz=dt.timezone.utc).date().isoformat()
+        except (TypeError, ValueError, OSError):
+            n_date = None
+        if n_date in recent_window:
+            ticker_news.append(n)
+    if ticker_news:
+        headline = (ticker_news[0].get('headline') or '')[:90]
+        suffix = '...' if len(ticker_news[0].get('headline') or '') > 90 else ''
+        return f"News: \"{headline}{suffix}\""
+
+    sector_etf = SECTOR_BY_TICKER_GUESS.get(ticker)
+    if sector_etf:
+        sector_move = next((s for s in sectors if s['ticker'] == sector_etf), None)
+        if sector_move:
+            sm_change = sector_move.get('change_pct') or 0
+            if abs(sm_change) >= 0.5 and (sm_change > 0) == (change > 0) and abs(change / sm_change) <= 2.5 if sm_change else False:
+                return f"Tracking {sector_etf} sector ({sm_change:+.2f}% today)"
+
+    if abs_change >= 3:
+        return "No clear catalyst — possibly flow or technical move."
+    return ""
+
+
 def write_movers(movers: list[dict], news: list[dict], filings: list[dict],
-                 earnings: list[dict], watchlist: dict, out_path: Path) -> None:
+                 earnings: list[dict], watchlist: dict, out_path: Path,
+                 fundamentals: dict | None = None) -> None:
     gainers = sorted([m for m in movers if m['change_pct'] >= 0], key=lambda x: -x['change_pct'])
     losers = sorted([m for m in movers if m['change_pct'] < 0], key=lambda x: x['change_pct'])
     indices = [m for m in movers if m.get('is_index')]
     sectors = [m for m in movers if m.get('is_sector')]
     watchlist_movers = [m for m in movers if m.get('is_watchlist')]
 
-    radar = compute_radar(movers, news, filings, earnings, watchlist)
+    today = dt.date.today()
+    sectors_sorted = sorted(sectors, key=lambda x: -x['change_pct'])
+
+    def _attach_reasoning(rows: list[dict]) -> list[dict]:
+        out = []
+        for r in rows:
+            r2 = dict(r)
+            try:
+                r2['move_reason'] = compute_move_reasoning(r, news, filings, earnings, sectors_sorted, today)
+            except Exception:
+                r2['move_reason'] = ''
+            out.append(r2)
+        return out
+
+    radar = compute_radar(movers, news, filings, earnings, watchlist, fundamentals)
 
     payload = {
         'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(),
-        'gainers': gainers[:15],
-        'losers': losers[:15],
-        'watchlist': watchlist_movers,
+        'gainers': _attach_reasoning(gainers[:15]),
+        'losers': _attach_reasoning(losers[:15]),
+        'watchlist': _attach_reasoning(watchlist_movers),
         'indices': indices,
-        'sectors': sorted(sectors, key=lambda x: -x['change_pct']),
+        'sectors': sectors_sorted,
         'watchlist_radar': radar['watchlist_radar'],
         'sectors_radar': radar['sectors_radar'],
     }
@@ -1907,7 +2094,7 @@ def main() -> int:
         print(f"  Daily headline: {daily_entry['headline']}")
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    write_movers(movers, all_news, filings, earnings, watchlist, DATA_DIR / 'movers.js')
+    write_movers(movers, all_news, filings, earnings, watchlist, DATA_DIR / 'movers.js', fundamentals)
     write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js')
     write_picks(picks_data, DATA_DIR / 'picks.js')
     write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')

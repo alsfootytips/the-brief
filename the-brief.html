@@ -1104,6 +1104,21 @@ p.lede {
   font-size: 12px;
 }
 
+.mover-reason-row {
+  padding: 0 0 10px 0;
+  margin-top: -4px;
+  border-bottom: 1px dotted var(--rule-soft);
+}
+
+.mover-reason {
+  font-family: 'Fraunces', serif;
+  font-size: 13px;
+  font-style: italic;
+  color: var(--ink-muted);
+  line-height: 1.4;
+  padding-left: 2px;
+}
+
 .inline-pct {
   font-family: 'JetBrains Mono', monospace;
   font-weight: 700;
@@ -1158,6 +1173,20 @@ p.lede {
   margin-bottom: 4px;
   font-weight: 700;
 }
+
+.radar-narrative {
+  font-family: 'Fraunces', serif;
+  font-size: 15.5px;
+  line-height: 1.55;
+  color: var(--ink);
+  margin: 10px 0 4px;
+  padding: 12px 16px;
+  background: var(--paper);
+  border-radius: 2px;
+  border-left: 2px solid var(--accent);
+}
+
+.radar-narrative strong { font-weight: 700; }
 
 .radar-reasons {
   list-style: none;
@@ -2385,7 +2414,9 @@ function renderRadar() {
   const watchlistCards = radar.length
     ? radar.map(r => {
         const c = pctClass(r.change_pct);
-        const reasons = (r.reasons || []).map(x => `<li>${escapeHtml(x)}</li>`).join('');
+        const signals = (r.signals || r.reasons || []);
+        const signalList = signals.map(x => `<li>${escapeHtml(x)}</li>`).join('');
+        const narrative = r.narrative ? `<div class="radar-narrative">${r.narrative}</div>` : '';
         return `
           <div class="radar-card">
             <div class="radar-card-head">
@@ -2399,7 +2430,8 @@ function renderRadar() {
                 <div class="mover-price">${fmtPrice(r.price)}</div>
               </div>
             </div>
-            <ul class="radar-reasons">${reasons}</ul>
+            ${narrative}
+            <ul class="radar-reasons">${signalList}</ul>
           </div>`;
       }).join('')
     : `<p style="color: var(--ink-muted); font-style: italic;">No watchlist names crossed the activity threshold this run.</p>`;
@@ -2451,6 +2483,9 @@ function renderMoversBlock(title, rows, opts) {
     const nameLine = r.name && r.name !== r.ticker
       ? `<div class="mover-name">${escapeHtml(r.name)}</div>`
       : '';
+    const reasonLine = r.move_reason
+      ? `<div class="mover-reason">${escapeHtml(r.move_reason)}</div>`
+      : '';
     return `
       <div class="mover-row">
         <div class="mover-id">
@@ -2460,7 +2495,8 @@ function renderMoversBlock(title, rows, opts) {
         <div class="mover-pct ${c}">${fmtPct(r.change_pct)}</div>
         <div class="mover-price">${fmtPrice(r.price)}</div>
         <div class="mover-vol">${vol}</div>
-      </div>`;
+      </div>
+      ${reasonLine ? `<div class="mover-reason-row">${reasonLine}</div>` : ''}`;
   }).join('');
   return `
     <div class="movers-block">
