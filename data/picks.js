@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-12T22:53:55.976803+00:00",
+  "generated_at": "2026-05-13T11:17:58.462684+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -28,8 +28,8 @@ window.theBriefPicks = {
       "change_pct_today": 7.86,
       "name": "Oscar Health",
       "news_count": 0,
-      "days_elapsed": 0,
-      "days_remaining": 56
+      "days_elapsed": 1,
+      "days_remaining": 55
     },
     {
       "id": "2026-05-12-NBIS",
@@ -59,8 +59,8 @@ window.theBriefPicks = {
       "change_pct_today": -3.76,
       "name": "Nebius Group",
       "news_count": 3,
-      "days_elapsed": 0,
-      "days_remaining": 14
+      "days_elapsed": 1,
+      "days_remaining": 13
     },
     {
       "id": "2026-05-12-IWM-rotation",
@@ -90,8 +90,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.97,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 0,
-      "days_remaining": 56
+      "days_elapsed": 1,
+      "days_remaining": 55
     },
     {
       "id": "2026-05-12-AMD-value",
@@ -120,8 +120,8 @@ window.theBriefPicks = {
       "change_pct_today": -2.29,
       "name": "Advanced Micro Devices",
       "news_count": 3,
-      "days_elapsed": 0,
-      "days_remaining": 42
+      "days_elapsed": 1,
+      "days_remaining": 41
     },
     {
       "id": "2026-05-12-XLE-oil",
@@ -150,8 +150,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.7,
       "name": "Energy Select Sector",
       "news_count": 3,
-      "days_elapsed": 0,
-      "days_remaining": 28
+      "days_elapsed": 1,
+      "days_remaining": 27
     }
   ],
   "summary": {
