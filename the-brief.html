@@ -2200,6 +2200,7 @@ try {
 } catch (e) {}
 
 state.portfolioFormOpen = false;
+state.portfolioImportOpen = false;
 
 function savePortfolio() {
   try { localStorage.setItem('theBrief.portfolio', JSON.stringify(state.portfolio)); } catch (e) {}
@@ -2915,9 +2916,30 @@ function renderPortfolio() {
       </form>
       ${!hasHoldings ? `<p style="font-family: 'Fraunces', serif; font-size: 13px; color: var(--ink-muted); margin-top: 12px; font-style: italic;">Stored in your browser only. For prices to track, the ticker should be in the pipeline's data universe.</p>` : ''}
     </div>` : `
-    <div style="text-align: right; margin: 16px 0 22px;">
+    <div style="text-align: right; margin: 16px 0 10px; display: flex; gap: 8px; justify-content: flex-end; flex-wrap: wrap;">
+      <button class="filter-pill" data-portfolio-import-open="1" style="border: 1px solid var(--rule); padding: 8px 16px; min-height: 36px;">⇪ Import from JSON</button>
       <button class="filter-pill" data-portfolio-form-open="1" style="border: 1px solid var(--rule); padding: 8px 16px; min-height: 36px;">+ Add another holding</button>
     </div>`;
+
+  const importBlock = state.portfolioImportOpen ? `
+    <div class="portfolio-form" style="margin-top: 12px;">
+      <div class="portfolio-form-head">
+        <div class="portfolio-form-title">Import portfolio JSON</div>
+        <button type="button" class="portfolio-form-close" data-portfolio-import-close="1" aria-label="Close import">×</button>
+      </div>
+      <p style="font-family: 'Fraunces', serif; font-size: 13px; color: var(--ink-muted); margin: 0 0 10px; font-style: italic;">
+        Paste JSON produced by <code style="font-family: monospace;">import_portfolio.py screenshot.png</code>.
+        Expected shape: <code style="font-family: monospace;">{"holdings": [{"ticker", "shares", "entry_price", "entry_date", "currency"}]}</code>.
+      </p>
+      <textarea id="portfolio-import-text" rows="10" placeholder='{"holdings": [ ... ]}' style="width: 100%; box-sizing: border-box; font-family: 'JetBrains Mono', monospace; font-size: 12px; padding: 10px; border: 1px solid var(--rule); border-radius: 4px; background: var(--paper); color: var(--ink); resize: vertical;"></textarea>
+      <div style="display: flex; gap: 10px; align-items: center; margin-top: 10px; flex-wrap: wrap;">
+        <label style="font-family: 'Fraunces', serif; font-size: 13px; display: flex; align-items: center; gap: 6px;">
+          <input type="checkbox" id="portfolio-import-replace"> Replace existing holdings (uncheck to merge)
+        </label>
+        <button type="button" id="portfolio-import-btn" style="margin-left: auto;">Import holdings</button>
+      </div>
+      <div id="portfolio-import-msg" style="margin-top: 10px; font-family: 'Fraunces', serif; font-size: 13px; min-height: 18px;"></div>
+    </div>` : '';
 
   const holdingsList = enriched.map(h => {
     const c = pctClass(h.gain_pct);
@@ -2956,6 +2978,7 @@ function renderPortfolio() {
   return `
     ${summary}
     ${form}
+    ${importBlock}
     ${holdingsList || (hasHoldings ? '' : `<p style="color: var(--ink-muted); font-style: italic; margin: 24px 0;">No holdings yet. Add one above to track your real positions alongside the brief's analysis.</p>`)}
   `;
 }
@@ -3037,6 +3060,72 @@ function render() {
         savePortfolio();
         state.portfolioFormOpen = false;
         render();
+      });
+    }
+    const importBtn = document.getElementById('portfolio-import-btn');
+    if (importBtn) {
+      importBtn.addEventListener('click', () => {
+        const textEl = document.getElementById('portfolio-import-text');
+        const msgEl = document.getElementById('portfolio-import-msg');
+        const replaceEl = document.getElementById('portfolio-import-replace');
+        const raw = (textEl && textEl.value || '').trim();
+        if (!raw) {
+          msgEl.textContent = 'Paste some JSON first.';
+          msgEl.style.color = 'var(--accent)';
+          return;
+        }
+        let parsed;
+        try {
+          parsed = JSON.parse(raw);
+        } catch (err) {
+          msgEl.textContent = 'Invalid JSON: ' + err.message;
+          msgEl.style.color = 'var(--accent)';
+          return;
+        }
+        const holdings = Array.isArray(parsed) ? parsed : parsed.holdings;
+        if (!Array.isArray(holdings)) {
+          msgEl.textContent = 'Expected an array of holdings or {"holdings": [...]}.';
+          msgEl.style.color = 'var(--accent)';
+          return;
+        }
+        const cleaned = [];
+        const skipped = [];
+        holdings.forEach((h, idx) => {
+          const ticker = (h.ticker || '').toString().trim().toUpperCase();
+          const shares = parseFloat(h.shares);
+          const entry_price = parseFloat(h.entry_price);
+          const entry_date = (h.entry_date || '').toString().trim() || new Date().toISOString().slice(0, 10);
+          if (!ticker || !Number.isFinite(shares) || !Number.isFinite(entry_price)) {
+            skipped.push(ticker || `row ${idx + 1}`);
+            return;
+          }
+          const row = { ticker, shares, entry_price, entry_date };
+          const currency = (h.currency || '').toString().trim().toUpperCase();
+          const notes = (h.notes || '').toString().trim();
+          if (currency) row.currency = currency;
+          if (notes) row.notes = notes;
+          cleaned.push(row);
+        });
+        if (!cleaned.length) {
+          msgEl.textContent = 'No valid holdings found in JSON.';
+          msgEl.style.color = 'var(--accent)';
+          return;
+        }
+        if (replaceEl && replaceEl.checked) {
+          state.portfolio = cleaned;
+        } else {
+          // Merge by ticker+entry_date — overwrite duplicates, append new
+          const keyOf = h => `${h.ticker}|${h.entry_date || ''}`;
+          const existing = new Map(state.portfolio.map(h => [keyOf(h), h]));
+          cleaned.forEach(h => existing.set(keyOf(h), h));
+          state.portfolio = [...existing.values()];
+        }
+        savePortfolio();
+        const note = skipped.length ? ` (skipped ${skipped.length}: ${skipped.join(', ')})` : '';
+        msgEl.textContent = `Imported ${cleaned.length} ${cleaned.length === 1 ? 'holding' : 'holdings'}${note}.`;
+        msgEl.style.color = 'var(--green)';
+        state.portfolioImportOpen = false;
+        setTimeout(() => render(), 600);
       });
     }
   }
@@ -3183,6 +3272,22 @@ document.addEventListener('click', e => {
     e.preventDefault();
     e.stopPropagation();
     state.portfolioFormOpen = false;
+    render();
+    return;
+  }
+  const openImportBtn = e.target.closest('[data-portfolio-import-open]');
+  if (openImportBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    state.portfolioImportOpen = true;
+    render();
+    return;
+  }
+  const closeImportBtn = e.target.closest('[data-portfolio-import-close]');
+  if (closeImportBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    state.portfolioImportOpen = false;
     render();
     return;
   }

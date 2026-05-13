@@ -2347,15 +2347,18 @@ def main() -> int:
           f"{len(watchlist['indices'])} indices, {len(watchlist['sectors'])} sectors")
 
     existing_picks = load_picks()
+    universe = set(watchlist['followed'] + watchlist['indices'] + watchlist['sectors'])
     pick_extras = sorted({
         p['ticker'] for p in existing_picks.get('picks', [])
-        if p.get('status') == 'open' and p.get('ticker') not in (watchlist['followed'] + watchlist['indices'] + watchlist['sectors'])
+        if p.get('status') == 'open' and p.get('ticker') not in universe
     })
-    if pick_extras:
-        print(f"Including {len(pick_extras)} extra tickers from open picks: {pick_extras}")
+    portfolio_extras = sorted(set(watchlist.get('portfolio_extras', [])) - universe)
+    all_extras = sorted(set(pick_extras + portfolio_extras))
+    if all_extras:
+        print(f"Including {len(all_extras)} extra tickers: {all_extras}")
 
     print("\n[1/6] Fetching prices and movers...")
-    movers = fetch_movers(watchlist, extra_tickers=pick_extras)
+    movers = fetch_movers(watchlist, extra_tickers=all_extras)
     print(f"  Got {len(movers)} ticker snapshots")
 
     print("\n[2/6] Fetching upcoming earnings (next 14 days)...")
