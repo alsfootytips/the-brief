@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-13T11:34:30.980513+00:00",
+  "generated_at": "2026-05-13T11:47:20.088057+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,7 +18,7 @@ window.theBriefLive = {
       "change_pct": 7.86,
       "price": 23.73,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T11:34:30.979361+00:00"
+      "timestamp": "2026-05-13T11:47:20.087011+00:00"
     },
     {
       "type": "mover",
@@ -27,7 +27,7 @@ window.theBriefLive = {
       "change_pct": -3.76,
       "price": 179.11,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T11:34:30.979356+00:00"
+      "timestamp": "2026-05-13T11:47:20.087007+00:00"
     },
     {
       "type": "mover",
@@ -36,7 +36,91 @@ window.theBriefLive = {
       "change_pct": -6.06,
       "price": 107.75,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T11:34:30.979342+00:00"
+      "timestamp": "2026-05-13T11:47:20.086994+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Black Rock Coffee Bar pours out strong sales in Q1, eyes new markets for expansion",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591960-black-rock-coffee-bar-pours-out-strong-sales-in-q1-eyes-new-markets-for-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:44:02+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Bond markets on edge' as King Charles sets out fragile UK government's agenda",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/gilts-sterling-starmer-king-charles-uk.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:41:30+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OIO Group plans buyout of German automotive engineering platform",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591959-oio-group-plans-buyout-of-german-automotive-engineering-platform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:41:20+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RWE AG reports Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591962-rwe-ag-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:41:17+00:00"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Dimon"
+      ],
+      "ticker": null,
+      "headline": "Jamie Dimon warns JPMorgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:40:51+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rent the Runway co-founder Jennifer Hyman to step down as CEO",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591956-rent-the-runway-co-founder-jennifer-hyman-to-step-down-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:39:57+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PolyPid GAAP EPS of -$0.35 beats by $0.08",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591961-polypid-gaap-eps-of--035-beats-by-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:38:53+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BrainsWay GAAP EPS of $0.06 beats by $0.01, revenue of $15.53M beats by $0.91M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591958-brainsway-gaap-eps-of-0_06-beats-by-0_01-revenue-of-15_53m-beats-by-0_91m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:36:27+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Palatin Technologies GAAP EPS of -$0.37, revenue of $3.9M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591952-palatin-technologies-gaap-eps-of--037-revenue-of-39m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:34:59+00:00"
     },
     {
       "type": "news",
@@ -50,24 +134,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Paysafe stock jumps as Q1 earnings and revenue beat, guidance reaffirmed, leverage reduced",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591920-paysafe-stock-jumps-as-q1-earnings-and-revenue-beat-guidance-reaffirmed-leverage-reduced?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:31:55+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mowi ASA reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591949-mowi-asa-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:30:22+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018I\u2019m not an extravagant spender\u2019: I\u2019m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
@@ -77,29 +143,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "At a glance: stocks gapping down premarket",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591940-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Jim Cramer Just Called Caterpillar a Buy on Oil, Infrastructure, and AI Data-Center Power Demand",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/jim-cramer-just-called-caterpillar-112818755.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T11:29:47+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BeyondSpring GAAP EPS of -$0.06",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591948-beyondspring-gaap-eps-of-0_06?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:29:40+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JBS slips after headwinds in North America whack profits",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591563-jbs-slips-after-headwinds-in-north-america-whack-profits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:28:44+00:00"
+      "timestamp": "2026-05-13T11:28:18+00:00"
     },
     {
       "type": "news",
@@ -109,24 +157,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/ce8p31ngv90o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-13T11:28:03+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nebius surges as Q1 revenue surges nearly sevenfold",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591932-nebius-surges-as-q1-revenue-surges-nearly-sevenfold?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:27:28+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alstom ADR reports FY results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591946-alstom-adr-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:27:16+00:00"
     },
     {
       "type": "news",
@@ -183,6 +213,24 @@ window.theBriefLive = {
       "timestamp": "2026-05-13T11:25:50+00:00"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:25:35+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Truly Unique AI Powerhouse Etches Buy Zone. Now Comes This Test.",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/asml-stock-taiwan-semi-intel-samsung-euv-lithography/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:25:34+00:00"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Putin"
@@ -224,11 +272,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Forrestania acquires Hyden Gold Project in Australia",
+      "headline": "Nebius Revenue Booms On AI Computer Infrastructure Spending",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/forrestania-acquires-hyden-gold-project-112354369.html",
+      "url": "https://www.investors.com/news/technology/nebius-stock-nbis-nebius-earnings-q12026/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T11:23:54+00:00"
+      "timestamp": "2026-05-13T11:23:55+00:00"
     },
     {
       "type": "news",
@@ -238,6 +286,24 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T11:22:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why inTEST (INTT) Is a Semiconductor Equipment Recovery Play",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/why-intest-intt-semiconductor-equipment-112137296.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:21:37+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A retiree says he'd have millions if he invested his Social Security in the S&P 500 \u2014 here's what he's missing",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/retiree-says-hed-millions-invested-112000047.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:20:00+00:00"
     },
     {
       "type": "news",
@@ -256,42 +322,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T11:15:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dynatrace Earnings, Revenue Top Estimates. Fiscal 2027 Guidance Underwhelms.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/dynatrace-stock-dynatrace-earnings-news-q12026/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:10:42+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nebius reports higher quarterly capex on AI cloud expansion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/nebius-reports-higher-quarterly-capex-110405106.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:04:05+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil little changed as Trump heads to China",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:02:28+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:02:16+00:00"
     },
     {
       "type": "news",
@@ -464,18 +494,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=ff06bb53439858424976075d2e700dd9292dc8502e79306c1e6b761543c13edb",
       "is_watchlist": true,
       "timestamp": "2026-05-13T08:41:24+00:00"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Dimon"
-      ],
-      "ticker": null,
-      "headline": "Jamie Dimon warns JP Morgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T07:39:21+00:00"
     },
     {
       "type": "news",
@@ -673,15 +691,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock market today: S&P 500, Nasdaq futures rise, Dow slips with fresh PPI inflation data on deck",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-dow-slips-with-fresh-ppi-inflation-data-on-deck-223045190.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T22:30:45+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "OpenAI's Sam Altman takes the stand to fend off Elon Musk's accusations he 'stole a charity'",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial",
@@ -696,15 +705,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/05/12/nx-s1-5812725/farmers-want-firm-trade-deal-from-trumps-china-visit",
       "is_watchlist": false,
       "timestamp": "2026-05-12T21:32:05+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New York City Mayor Zohran Mamdani's pied-\u00e0-terre property tax is moving ahead. But will it work?",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/12/mayor-mamdani-new-york-pied-terre-property-tax-real-estate.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T20:20:27+00:00"
     },
     {
       "type": "news",
