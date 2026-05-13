@@ -2914,7 +2914,7 @@ function renderPicks() {
   // ----- Source classifier (editorial = hand-written, auto = LLM-promoted) -----
   function pickSource(p) {
     const tags = (p.tags || []).map(x => (x || '').toLowerCase());
-    if (tags.includes('auto-generated') || tags.includes('ai-tactical')) return 'Auto-generated';
+    if (tags.includes('auto-generated') || tags.includes('ai-tactical')) return 'AI-surfaced';
     return 'Editorial';
   }
 
@@ -2922,7 +2922,7 @@ function renderPicks() {
   const sectorCounts = {};
   const tierCounts = { 'long-term': 0, 'strategic': 0, 'tactical': 0 };
   const perfCounts = { 'In profit': 0, 'In loss': 0, 'Flat': 0, 'Pending': 0 };
-  const sourceCounts = { 'Editorial': 0, 'Auto-generated': 0 };
+  const sourceCounts = { 'Editorial': 0, 'AI-surfaced': 0 };
   open.forEach(p => {
     const h = p.horizon_label || 'Unknown';
     if (horizonCounts[h] != null) horizonCounts[h]++;
@@ -2949,7 +2949,7 @@ function renderPicks() {
     .filter(k => perfCounts[k] > 0)
     .map(k => makeChip(k, perfCounts[k], 'picksFilterPerf', 'data-pick-filter-perf'))
     .join('');
-  const sourceChips = ['Editorial', 'Auto-generated']
+  const sourceChips = ['Editorial', 'AI-surfaced']
     .filter(k => sourceCounts[k] > 0)
     .map(k => makeChip(k, sourceCounts[k], 'picksFilterSource', 'data-pick-filter-source'))
     .join('');
