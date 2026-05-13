@@ -618,6 +618,55 @@ def fetch_news(watchlist: dict) -> list[dict]:
     return out
 
 
+MARKET_MOVERS = {
+    'Trump': ['Trump'],
+    'Musk': ['Musk', 'Elon'],
+    'Powell': ['Powell', 'Jerome Powell'],
+    'Yellen': ['Yellen', 'Janet Yellen'],
+    'Bessent': ['Bessent'],
+    'Lutnick': ['Lutnick'],
+    'Xi': ['Xi Jinping'],
+    'Putin': ['Putin'],
+    'Bezos': ['Bezos'],
+    'Buffett': ['Buffett'],
+    'Dimon': ['Jamie Dimon'],
+    'Lagarde': ['Lagarde'],
+    'Iran': ['Iran', 'Tehran'],
+    'OPEC': ['OPEC'],
+    'Fed': ['Federal Reserve', 'FOMC'],
+}
+
+STATEMENT_KEYWORDS = {
+    'says', 'said', 'announced', 'announces', 'signs', 'signed', 'vetoes', 'vetoed',
+    'warns', 'warned', 'threatens', 'threatened', 'declared', 'declares',
+    'orders', 'ordered', 'tweets', 'posts', 'posted', 'comments', 'commented',
+    'rejects', 'rejected', 'accepts', 'accepted', 'launches', 'launched',
+    'imposes', 'imposed', 'lifts', 'lifted', 'cuts', 'cut', 'hikes', 'hiked',
+    'pauses', 'paused', 'urges', 'urged', 'demands', 'demanded',
+}
+
+
+def detect_mover_statement(headline: str) -> dict | None:
+    if not headline:
+        return None
+    h_lower = headline.lower()
+    matched_movers = []
+    for mover, aliases in MARKET_MOVERS.items():
+        for alias in aliases:
+            if alias.lower() in h_lower:
+                matched_movers.append(mover)
+                break
+    if not matched_movers:
+        return None
+    words = set(re.findall(r'[a-zA-Z]+', h_lower))
+    has_statement_verb = any(k in words for k in STATEMENT_KEYWORDS)
+    if not has_statement_verb:
+        return None
+    return {
+        'movers': matched_movers,
+    }
+
+
 def fetch_rss_news() -> list[dict]:
     ua = os.getenv('SEC_USER_AGENT', 'The Brief contact@example.com')
     out = []
@@ -1996,6 +2045,19 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
                 ts = dt.datetime.fromtimestamp(int(n['datetime']), tz=dt.timezone.utc).isoformat()
         except (TypeError, ValueError, OSError):
             ts = ''
+        statement = detect_mover_statement(n.get('headline', ''))
+        if statement:
+            events.append({
+                'type': 'mover_statement',
+                'movers': statement['movers'],
+                'ticker': n.get('ticker'),
+                'headline': n['headline'],
+                'source': n.get('source'),
+                'url': n.get('url'),
+                'is_watchlist': True,
+                'timestamp': ts,
+            })
+            continue
         events.append({
             'type': 'news',
             'ticker': n.get('ticker'),

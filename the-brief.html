@@ -1058,6 +1058,15 @@ p.lede {
 
 .live-event.watchlist { border-left-color: var(--accent); }
 
+.live-event.mover-statement {
+  background: var(--highlight);
+  border-left: 3px solid var(--confidence-medium);
+}
+
+.live-event.mover-statement .live-event-type {
+  color: var(--confidence-medium);
+}
+
 .live-event-header {
   display: flex;
   align-items: center;
@@ -2051,8 +2060,8 @@ function toggleStar(ticker) {
 function starHtml(ticker) {
   if (!ticker) return '';
   const on = state.starred.has(ticker);
-  const label = on ? 'Unstar' : 'Star';
-  return `<button class="star ${on ? 'on' : 'off'}" data-star-ticker="${escapeHtml(ticker)}" aria-label="${label} ${escapeHtml(ticker)}" title="${label} ${escapeHtml(ticker)}"><svg viewBox="0 0 20 20"><polygon points="10,1.5 12.5,7.4 19,7.9 14,12.2 15.6,18.5 10,15.1 4.4,18.5 6,12.2 1,7.9 7.5,7.4" stroke-linejoin="round"/></svg></button>`;
+  const label = on ? 'Remove from watchlist' : 'Add to watchlist';
+  return `<button class="star ${on ? 'on' : 'off'}" data-star-ticker="${escapeHtml(ticker)}" aria-label="${label} ${escapeHtml(ticker)}" title="${label}"><svg viewBox="0 0 20 20"><polygon points="10,1.5 12.5,7.4 19,7.9 14,12.2 15.6,18.5 10,15.1 4.4,18.5 6,12.2 1,7.9 7.5,7.4" stroke-linejoin="round"/></svg></button>`;
 }
 
 // ===== Routing =====
@@ -2276,6 +2285,23 @@ function renderEvent(e) {
       </div>`;
   }
 
+  if (e.type === 'mover_statement') {
+    const source = e.source ? ` · ${escapeHtml(e.source)}` : '';
+    const movers = (e.movers || []).join(' · ');
+    const headline = escapeHtml(e.headline || '');
+    const linked = e.url
+      ? `<a href="${escapeHtml(e.url)}" target="_blank" rel="noopener">${headline}</a>`
+      : headline;
+    return `
+      <div class="${cls} mover-statement">
+        <div class="live-event-header">
+          <div class="live-event-type">${dot}Market mover · ${escapeHtml(movers)}${source}</div>
+          <div class="live-event-date">${escapeHtml(fmtEventTime(e.timestamp))}</div>
+        </div>
+        <div class="live-event-body">${linked}</div>
+      </div>`;
+  }
+
   if (e.type === 'news') {
     const source = e.source ? ` · ${escapeHtml(e.source)}` : '';
     const prefix = e.ticker
@@ -2301,7 +2327,6 @@ function renderEvent(e) {
 // ===== Render: movers board =====
 function applyMoversFilter(rows) {
   if (!rows) return [];
-  if (state.moversFilter === 'watchlist') return rows.filter(r => r.is_watchlist);
   if (state.moversFilter === 'starred') return rows.filter(r => state.starred.has(r.ticker));
   if (state.moversFilter === 'big') return rows.filter(r => Math.abs(r.change_pct || 0) >= 2);
   return rows;
@@ -2310,8 +2335,7 @@ function applyMoversFilter(rows) {
 function renderFilterPills() {
   const opts = [
     { value: 'all', label: 'All' },
-    { value: 'watchlist', label: 'Watchlist' },
-    { value: 'starred', label: `Starred${state.starred.size ? ` (${state.starred.size})` : ''}` },
+    { value: 'starred', label: `Watchlist${state.starred.size ? ` (${state.starred.size})` : ''}` },
     { value: 'big', label: 'Big movers ≥2%' },
   ];
   return `
@@ -2334,7 +2358,6 @@ function renderMovers() {
     ${renderFilterPills()}
     ${renderMoversBlock('Indices', applyMoversFilter(data.indices), { showVolume: false })}
     ${renderSectorsBlock('Sector ETFs · click to expand', applyMoversFilter(data.sectors), data)}
-    ${renderMoversBlock('Your watchlist', applyMoversFilter(data.watchlist), { showVolume: true })}
     ${renderMoversBlock('Top gainers', applyMoversFilter(data.gainers), { showVolume: true })}
     ${renderMoversBlock('Top losers', applyMoversFilter(data.losers), { showVolume: true })}
   `;
