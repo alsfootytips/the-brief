@@ -2932,12 +2932,52 @@ function renderPicks() {
       ${sectorChips ? `<div class="composition-block"><div class="composition-block-label">By sector</div><div class="composition-chips">${sectorChips}</div></div>` : ''}
     </div>`;
 
+  // Group active picks by tier (long-term → strategic → tactical)
+  function pickTier(p) {
+    const t = (p.pick_type || '').toLowerCase();
+    if (t === 'long-term') return 'long-term';
+    if (t === 'tactical') return 'tactical';
+    // Fallback for un-tagged picks: infer from tags
+    const tags = (p.tags || []).map(x => (x || '').toLowerCase());
+    if (tags.includes('event-driven') || tags.includes('ai-tactical')) return 'tactical';
+    if (tags.includes('long-term') || tags.includes('thematic') || tags.includes('structural')) return 'long-term';
+    return 'strategic';
+  }
+  const tiers = [
+    {
+      key: 'long-term',
+      title: 'Long-term Holds',
+      sub: 'Structural themes confirmed across ≥4 weeks of news. Held for months. No fixed target or stop — close on thesis invalidation.',
+    },
+    {
+      key: 'strategic',
+      title: 'Strategic Picks',
+      sub: 'Themes that survived a full week of cross-checking. Held for 4–8 weeks. Defined target and stop.',
+    },
+    {
+      key: 'tactical',
+      title: 'Tactical Picks',
+      sub: 'Event-driven setups from specific news catalysts. Hold ≤3 weeks. Auto-expire if no movement.',
+    },
+  ];
+
+  const tierBlocks = tiers.map(t => {
+    const items = filteredOpen.filter(p => pickTier(p) === t.key);
+    if (!items.length) return '';
+    return `
+      <div class="pick-tier-block" style="margin-top: 28px;">
+        <div class="movers-block-title">${escapeHtml(t.title)} <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-muted); font-weight: 400; margin-left: 8px;">(${items.length})</span></div>
+        <p style="font-family: 'Fraunces', serif; font-style: italic; color: var(--ink-muted); font-size: 12px; margin: 4px 0 14px;">${escapeHtml(t.sub)}</p>
+        ${items.map(renderPickCard).join('')}
+      </div>`;
+  }).join('');
+
   return `
     <div class="data-timestamp">Generated ${fmtTimestamp(data.generated_at)}</div>
     ${composition}
-    <p style="font-family: 'Fraunces', serif; font-style: italic; color: var(--ink-muted); font-size: 14px; margin-bottom: 24px;">Each pick comes with thesis, falsification criteria, target, stop, and a horizon. Open picks auto-close when conditions are met.</p>
+    <p style="font-family: 'Fraunces', serif; font-style: italic; color: var(--ink-muted); font-size: 14px; margin-bottom: 24px;">Picks are grouped by horizon. Each comes with thesis, falsification criteria, and (for tactical/strategic) target + stop. Long-term holds have no target — they only close on thesis invalidation.</p>
     ${filterStatus}
-    ${filteredOpen.length ? `<div class="movers-block-title">Active picks</div>${filteredOpen.map(renderPickCard).join('')}` : (hasFilter && open.length ? `<p style="color: var(--ink-muted); font-style: italic;">No active picks match this filter.</p>` : '')}
+    ${filteredOpen.length ? tierBlocks : (hasFilter && open.length ? `<p style="color: var(--ink-muted); font-style: italic;">No active picks match this filter.</p>` : '')}
     ${filteredClosed.length ? `<div class="movers-block-title" style="margin-top: 36px;">Closed picks</div>${filteredClosed.map(renderPickCard).join('')}` : ''}
     ${!open.length && !closed.length ? `<p style="color: var(--ink-muted); font-style: italic;">No picks logged. Add entries to <code>picks.json</code> and rerun the pipeline.</p>` : ''}
   `;

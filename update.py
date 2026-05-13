@@ -1740,6 +1740,267 @@ def enrich_events_with_advised_picks(events: list[dict]) -> list[dict]:
     return events
 
 
+NEWS_HISTORY_FILE = DATA_DIR / 'news_history.jsonl'
+
+
+def append_news_history(events: list[dict]) -> int:
+    """Append today's news/mover events to the rolling news archive (deduped)."""
+    if not events:
+        return 0
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    existing_keys = set()
+    if NEWS_HISTORY_FILE.exists():
+        with NEWS_HISTORY_FILE.open('r') as f:
+            for line in f:
+                try:
+                    rec = json.loads(line)
+                    existing_keys.add((rec.get('headline', ''), rec.get('source', '')))
+                except (ValueError, json.JSONDecodeError):
+                    continue
+
+    today_iso = dt.date.today().isoformat()
+    kept_types = {'news', 'mover_statement'}
+    added = 0
+    with NEWS_HISTORY_FILE.open('a') as f:
+        for e in events:
+            if e.get('type') not in kept_types:
+                continue
+            headline = (e.get('headline') or '').strip()
+            if not headline:
+                continue
+            key = (headline, e.get('source') or '')
+            if key in existing_keys:
+                continue
+            existing_keys.add(key)
+            # Prefer the event's own publish date; fall back to today
+            pub = e.get('published_at') or e.get('detected_at') or ''
+            try:
+                rec_date = dt.datetime.fromisoformat(pub.replace('Z', '+00:00')).date().isoformat()
+            except (ValueError, AttributeError, TypeError):
+                rec_date = today_iso
+            record = {
+                'date': rec_date,
+                'headline': headline[:300],
+                'source': e.get('source') or '',
+                'movers': e.get('movers') or [],
+                'url': e.get('url') or '',
+            }
+            f.write(json.dumps(record) + '\n')
+            added += 1
+    return added
+
+
+def load_news_history(days_back: int = 30) -> list[dict]:
+    """Return news history records from the last `days_back` days, oldest first."""
+    if not NEWS_HISTORY_FILE.exists():
+        return []
+    cutoff = dt.date.today() - dt.timedelta(days=days_back)
+    out = []
+    with NEWS_HISTORY_FILE.open('r') as f:
+        for line in f:
+            try:
+                rec = json.loads(line)
+                d = dt.date.fromisoformat(rec.get('date', '1970-01-01'))
+                if d >= cutoff:
+                    out.append(rec)
+            except (ValueError, json.JSONDecodeError, KeyError):
+                continue
+    out.sort(key=lambda r: r.get('date', ''))
+    return out
+
+
+LONG_TERM_SYSTEM_PROMPT = """You are identifying long-term, structural investing themes for a personal investing brief.
+
+Your job is to spot themes that have built up across MULTIPLE WEEKS of news — not single-headline trades, not earnings reactions, not geopolitical-spike plays. Long-term picks are HOLDS, not trades.
+
+Quality bar:
+1. Theme must be evidenced by news across ≥2 separate weeks of headlines.
+2. Theme must reflect a STRUCTURAL/SECULAR shift (multi-quarter or multi-year), not a tactical catalyst.
+3. Conviction must be 5/5. Fewer high-quality themes beat more mediocre ones — if nothing meets the bar, return zero.
+4. Suggested stocks must be liquid (>$2B market cap), US-listed where possible, and NOT already in the user's active picks.
+
+For each qualifying theme, suggest 1-2 stocks that best express it. The brief already covers tactical (event-driven, <3 weeks) and strategic (4-8 weeks) picks separately — long-term means 3-12+ months of holding.
+
+Output strict JSON only, no markdown fence:
+{
+  "themes": [
+    {
+      "theme": "short name for the structural theme (e.g. 'AI power infrastructure', 'defense AI re-rating')",
+      "evidence_summary": "specific cross-week pattern: which weeks, which news, why it's structural not tactical",
+      "stocks": [
+        {
+          "ticker": "TICKER",
+          "thesis": "one-paragraph rationale (~3-4 sentences) — why this stock specifically expresses the theme",
+          "hold_for_months": 6,
+          "what_kills_it": "specific falsification: what would invalidate the structural case (not just a price level)",
+          "conviction": 5
+        }
+      ]
+    }
+  ]
+}
+
+If no theme has true cross-week consistency, return {"themes": []}. Do NOT invent themes to fill space."""
+
+
+def synthesize_long_term_picks(picks_data: dict, movers: list[dict], min_history: int = 20) -> list[dict]:
+    """Read recent news history, identify structural themes, promote up to 4 long-term picks."""
+    key = os.getenv('ANTHROPIC_API_KEY')
+    if not key or not Anthropic:
+        print("  Skipping long-term synthesis: no ANTHROPIC_API_KEY")
+        return []
+
+    history = load_news_history(days_back=30)
+    if len(history) < min_history:
+        print(f"  Skipping long-term synthesis: {len(history)} headlines in history (need {min_history}+)")
+        return []
+
+    # Group by ISO week so the LLM can see cross-week persistence
+    from collections import defaultdict
+    by_week: dict[str, list[dict]] = defaultdict(list)
+    for h in history:
+        try:
+            d = dt.date.fromisoformat(h['date'])
+            iso_year, iso_week, _ = d.isocalendar()
+            by_week[f"{iso_year}-W{iso_week:02d}"].append(h)
+        except (ValueError, KeyError):
+            continue
+
+    if len(by_week) < 2:
+        print(f"  Skipping long-term synthesis: news spans only {len(by_week)} week(s); need ≥2 weeks of history")
+        return []
+
+    weeks_block = []
+    for week_key in sorted(by_week.keys()):
+        items = by_week[week_key]
+        weeks_block.append(f"## {week_key} — {len(items)} headlines")
+        # cap per week to keep the prompt manageable
+        for h in items[:40]:
+            movers_str = ', '.join(h.get('movers') or []) if h.get('movers') else ''
+            movers_suffix = f' (movers: {movers_str})' if movers_str else ''
+            weeks_block.append(f"- [{h.get('source', '?')}] {(h.get('headline') or '')[:180]}{movers_suffix}")
+        weeks_block.append('')
+
+    active_tickers = sorted({p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'})
+    user_prompt = (
+        f"Active picks (do NOT re-suggest these): {', '.join(active_tickers) or 'none'}\n\n"
+        f"News history grouped by ISO week (last 30 days):\n\n"
+        + '\n'.join(weeks_block)
+        + "\n\nIdentify themes with cross-week consistency. For each, propose 1-2 long-term stock picks "
+          "(5/5 conviction only). If nothing meets the bar, return an empty themes array."
+    )
+
+    print(f"  Synthesizing across {len(by_week)} weeks, {len(history)} headlines...")
+    result = _claude_json_call(
+        LONG_TERM_SYSTEM_PROMPT,
+        user_prompt,
+        max_tokens=3000,
+        label='long-term-synthesis',
+    )
+    if not result or not isinstance(result.get('themes'), list):
+        print("  Long-term synthesis returned no themes")
+        return []
+
+    movers_by_ticker = {m['ticker']: m for m in movers}
+    today_iso = dt.date.today().isoformat()
+    existing_open = {p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'}
+
+    new_picks: list[dict] = []
+    for theme in result['themes']:
+        if len(new_picks) >= 4:
+            break
+        theme_name = (theme.get('theme') or '').strip()
+        evidence = (theme.get('evidence_summary') or '').strip()
+        for s in theme.get('stocks', []) or []:
+            if len(new_picks) >= 4:
+                break
+            ticker = (s.get('ticker') or '').strip().upper()
+            if not ticker or ticker in existing_open:
+                continue
+            try:
+                conviction = int(s.get('conviction', 0))
+            except (ValueError, TypeError):
+                conviction = 0
+            if conviction < 5:
+                continue
+            entry_price = _lookup_price_for_ticker(ticker, movers_by_ticker)
+            if entry_price is None:
+                print(f"  Skipping long-term {ticker}: no price available")
+                continue
+            thesis = (s.get('thesis') or '').strip()
+            kills = (s.get('what_kills_it') or '').strip()
+            hold_months = s.get('hold_for_months') or 6
+            try:
+                hold_months = int(hold_months)
+            except (ValueError, TypeError):
+                hold_months = 6
+
+            new_pick = {
+                'id': f"{today_iso}-{ticker}-longterm",
+                'ticker': ticker,
+                'entered_at': today_iso,
+                'entry_price': entry_price,
+                'horizon_weeks': None,
+                'target_pct': None,
+                'stop_pct': None,
+                'sector': 'Unclassified',
+                'thesis': thesis,
+                'rationale': (
+                    f"<p><strong>Theme:</strong> {theme_name}</p>"
+                    f"<p><span class=\"confidence confidence-interp\">Interp</span> {evidence}</p>"
+                    f"<p><span class=\"confidence confidence-interp\">Interp</span> {thesis}</p>"
+                    f"<p><strong>Conviction (Claude):</strong> {conviction}/5. "
+                    f"Long-term structural HOLD (~{hold_months}+ months). "
+                    f"No fixed target or stop; re-check thesis quarterly.</p>"
+                ),
+                'horizon_reason': (
+                    f"Structural theme confirmed by ≥2 weeks of consistent news. "
+                    f"Suggested hold ≥{hold_months} months. Long-term HOLDs have no fixed target or stop — "
+                    f"they only close on thesis invalidation."
+                ),
+                'falsification': kills or 'Theme invalidated by reversal in underlying news pattern.',
+                'tags': ['long-term', 'thematic', 'structural', 'auto-generated'],
+                'generated_by': f"claude-sonnet-4-5 long-term · {today_iso}",
+                'theme': theme_name,
+                'status': 'open',
+                'pick_type': 'long-term',
+                'horizon_label': 'Long-term hold',
+                'direction': 'long',
+            }
+            new_picks.append(new_pick)
+            picks_data.setdefault('picks', []).append(new_pick)
+            existing_open.add(ticker)
+
+    if new_picks:
+        save_picks(picks_data)
+    return new_picks
+
+
+def should_run_long_term_synthesis(picks_data: dict, force: bool = False) -> bool:
+    """Trigger long-term synthesis monthly, or when ≥25 days since last long-term pick."""
+    if force:
+        return True
+    today = dt.date.today()
+    last_lt = None
+    for p in picks_data.get('picks', []):
+        if p.get('pick_type') != 'long-term':
+            continue
+        try:
+            d = dt.date.fromisoformat(p.get('entered_at', ''))
+        except (ValueError, TypeError):
+            continue
+        if last_lt is None or d > last_lt:
+            last_lt = d
+    # First-of-month window OR no long-term picks for 25+ days
+    if today.day <= 3 and (last_lt is None or (today - last_lt).days >= 25):
+        return True
+    if last_lt is None:
+        # First ever run — synthesize once we have history
+        return True
+    return (today - last_lt).days >= 28
+
+
 def _lookup_price_for_ticker(ticker: str, movers_by_ticker: dict) -> float | None:
     if ticker in movers_by_ticker:
         return movers_by_ticker[ticker].get('price')
@@ -2467,6 +2728,34 @@ def main() -> int:
         print(f"  Promoted {len(tactical_picks)} tactical picks: {[p['ticker'] for p in tactical_picks]}")
     else:
         print("  No high-conviction event-driven setups to promote")
+
+    # ===== News history archive =====
+    appended = append_news_history(live_events or [])
+    if appended:
+        print(f"  Appended {appended} new headlines to data/news_history.jsonl")
+
+    # ===== Long-term thematic synthesis (monthly cadence) =====
+    force_long_term = '--force-long-term' in sys.argv
+    if should_run_long_term_synthesis(picks_data, force=force_long_term):
+        print("\nSynthesizing long-term structural picks from news history...")
+        lt_picks = synthesize_long_term_picks(picks_data, movers)
+        if lt_picks:
+            new_picks = new_picks + lt_picks
+            print(f"  Promoted {len(lt_picks)} long-term picks: {[p['ticker'] for p in lt_picks]}")
+        else:
+            print("  No long-term themes met the 5/5 conviction bar")
+    else:
+        days = None
+        for p in picks_data.get('picks', []):
+            if p.get('pick_type') != 'long-term':
+                continue
+            try:
+                d = dt.date.fromisoformat(p.get('entered_at', ''))
+                delta = (dt.date.today() - d).days
+                days = delta if days is None else min(days, delta)
+            except (ValueError, TypeError):
+                continue
+        print(f"\nLong-term synthesis: skipped (last long-term pick was {days} days ago; cadence is monthly)")
 
     write_picks(picks_data, DATA_DIR / 'picks.js')
     write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')

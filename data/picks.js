@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-13T14:19:41.717584+00:00",
+  "generated_at": "2026-05-13T15:44:41.353939+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -66,7 +66,7 @@ window.theBriefPicks = {
       "closed_price": 207.56,
       "closed_pct": 16.31,
       "closed_reason": "target_hit (+12%)",
-      "pick_type": "strategic"
+      "pick_type": "tactical"
     },
     {
       "id": "2026-05-12-IWM-rotation",
@@ -192,7 +192,7 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Short-term",
       "direction": "long",
-      "pick_type": "strategic",
+      "pick_type": "tactical",
       "current_price": 168.47,
       "current_pct": -0.75,
       "change_pct_today": -0.75,
@@ -231,7 +231,7 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Short-term",
       "direction": "long",
-      "pick_type": "strategic",
+      "pick_type": "tactical",
       "current_price": 144.66,
       "current_pct": 0.25,
       "change_pct_today": 0.25,
@@ -271,7 +271,7 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Short-term",
       "direction": "long",
-      "pick_type": "strategic",
+      "pick_type": "tactical",
       "current_price": 37.67,
       "current_pct": -2.23,
       "change_pct_today": -2.23,
@@ -308,7 +308,7 @@ window.theBriefPicks = {
         ]
       },
       "status": "open",
-      "pick_type": "strategic",
+      "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
       "current_price": 151.46,
@@ -347,7 +347,7 @@ window.theBriefPicks = {
         ]
       },
       "status": "open",
-      "pick_type": "strategic",
+      "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
       "current_price": 185.5,
@@ -386,7 +386,8 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open"
+      "status": "open",
+      "pick_type": "tactical"
     },
     {
       "id": "2026-05-13-SIEGY-tactical",
@@ -415,12 +416,91 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open"
+      "status": "open",
+      "pick_type": "tactical"
+    },
+    {
+      "id": "2026-05-13-GEV-longterm",
+      "ticker": "GEV",
+      "entered_at": "2026-05-13",
+      "entry_price": 1052.02,
+      "horizon_weeks": null,
+      "target_pct": null,
+      "stop_pct": null,
+      "sector": "Unclassified",
+      "thesis": "GE Vernova is the pure-play on AI-driven power infrastructure, spun from GE in April 2024 and now at ~$60B market cap. It owns gas turbines, grid solutions, and electrification\u2014exactly the 'unsexy' power gear needed for hyperscale data centers that can't wait for utility-scale renewables. Alibaba CEO said ROI on AI is 'extremely clear' (W20), meaning hyperscalers will keep ordering generation and grid equipment regardless of macro chop. GEV's order book already reflects multi-quarter visibility into gas turbine and grid upgrades, and the Trump-Xi summit (W20) suggests US-China AI competition will only accelerate domestic infrastructure spend. This is a 6-12 month hold on structural capex, not a trade on next quarter's earnings.",
+      "rationale": "<p><strong>Theme:</strong> AI power infrastructure buildout</p><p><span class=\"confidence confidence-interp\">Interp</span> W19: editorial noted differentiation within tech toward 'profitable AI exposure' including 'established hyperscalers.' W20: MarketWatch headline 'Meet the Nvidias of power \u2014 5 stocks winning Big Tech's $700 billion AI energy grab' directly identifies power infrastructure as structural AI winner; Alphabet mentioned as top holding in fund finding '240% gains in the unsexy side of AI buildout'; Yahoo headline '3 Electrical Infrastructure Stocks With Shockingly Strong Returns'; SpaceX/Google orbital data center story signals continuing infrastructure spend beyond traditional data centers. This is not a single-week catalyst\u2014it's recognition across two weeks that AI's second-order infrastructure (power, cooling, electrical grid upgrades) is a multi-year secular investment, not a chip-trade derivative. The $700B figure and orbital data center exploration indicate 3-12+ month structural commitment.</p><p><span class=\"confidence confidence-interp\">Interp</span> GE Vernova is the pure-play on AI-driven power infrastructure, spun from GE in April 2024 and now at ~$60B market cap. It owns gas turbines, grid solutions, and electrification\u2014exactly the 'unsexy' power gear needed for hyperscale data centers that can't wait for utility-scale renewables. Alibaba CEO said ROI on AI is 'extremely clear' (W20), meaning hyperscalers will keep ordering generation and grid equipment regardless of macro chop. GEV's order book already reflects multi-quarter visibility into gas turbine and grid upgrades, and the Trump-Xi summit (W20) suggests US-China AI competition will only accelerate domestic infrastructure spend. This is a 6-12 month hold on structural capex, not a trade on next quarter's earnings.</p><p><strong>Conviction (Claude):</strong> 5/5. Long-term structural HOLD (~9+ months). No fixed target or stop; re-check thesis quarterly.</p>",
+      "horizon_reason": "Structural theme confirmed by \u22652 weeks of consistent news. Suggested hold \u22659 months. Long-term HOLDs have no fixed target or stop \u2014 they only close on thesis invalidation.",
+      "falsification": "Hyperscalers publicly pivot to pausing data center builds (e.g., if Meta, Google, Microsoft all cut 2027 capex guidance by >20%) or if utility-scale nuclear/renewables prove faster to deploy than expected, removing gas turbine bridge demand. Also killed if GEV's actual order intake (reported quarterly) starts declining YoY for two consecutive quarters\u2014would signal the $700B is hype, not contracts.",
+      "tags": [
+        "long-term",
+        "thematic",
+        "structural",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 long-term \u00b7 2026-05-13",
+      "theme": "AI power infrastructure buildout",
+      "status": "open",
+      "pick_type": "long-term",
+      "horizon_label": "Long-term hold",
+      "direction": "long"
+    },
+    {
+      "id": "2026-05-13-PWR-longterm",
+      "ticker": "PWR",
+      "entered_at": "2026-05-13",
+      "entry_price": 755.1,
+      "horizon_weeks": null,
+      "target_pct": null,
+      "stop_pct": null,
+      "sector": "Unclassified",
+      "thesis": "Quanta Services is the execution arm for AI power infrastructure\u2014it builds the substations, transmission lines, and electrical systems that get power from generators to data centers. At ~$30B market cap, it's liquid and US-listed. The W20 mention of 'electrical infrastructure stocks with shockingly strong returns' and the $700B Big Tech energy grab both point to multi-year project pipelines for companies that physically build grid upgrades. PWR's backlog already spans 2-3 years, and the SpaceX/Google orbital data center story (W20) implies even more exotic infrastructure projects are coming. Unlike chip stocks (AMD downgraded W20), PWR's revenue is contracted project work, giving 6-12 month visibility. This is a structural play on AI's insatiable power demand, not a software valuation multiple.",
+      "rationale": "<p><strong>Theme:</strong> AI power infrastructure buildout</p><p><span class=\"confidence confidence-interp\">Interp</span> W19: editorial noted differentiation within tech toward 'profitable AI exposure' including 'established hyperscalers.' W20: MarketWatch headline 'Meet the Nvidias of power \u2014 5 stocks winning Big Tech's $700 billion AI energy grab' directly identifies power infrastructure as structural AI winner; Alphabet mentioned as top holding in fund finding '240% gains in the unsexy side of AI buildout'; Yahoo headline '3 Electrical Infrastructure Stocks With Shockingly Strong Returns'; SpaceX/Google orbital data center story signals continuing infrastructure spend beyond traditional data centers. This is not a single-week catalyst\u2014it's recognition across two weeks that AI's second-order infrastructure (power, cooling, electrical grid upgrades) is a multi-year secular investment, not a chip-trade derivative. The $700B figure and orbital data center exploration indicate 3-12+ month structural commitment.</p><p><span class=\"confidence confidence-interp\">Interp</span> Quanta Services is the execution arm for AI power infrastructure\u2014it builds the substations, transmission lines, and electrical systems that get power from generators to data centers. At ~$30B market cap, it's liquid and US-listed. The W20 mention of 'electrical infrastructure stocks with shockingly strong returns' and the $700B Big Tech energy grab both point to multi-year project pipelines for companies that physically build grid upgrades. PWR's backlog already spans 2-3 years, and the SpaceX/Google orbital data center story (W20) implies even more exotic infrastructure projects are coming. Unlike chip stocks (AMD downgraded W20), PWR's revenue is contracted project work, giving 6-12 month visibility. This is a structural play on AI's insatiable power demand, not a software valuation multiple.</p><p><strong>Conviction (Claude):</strong> 5/5. Long-term structural HOLD (~8+ months). No fixed target or stop; re-check thesis quarterly.</p>",
+      "horizon_reason": "Structural theme confirmed by \u22652 weeks of consistent news. Suggested hold \u22658 months. Long-term HOLDs have no fixed target or stop \u2014 they only close on thesis invalidation.",
+      "falsification": "Two consecutive quarters of declining backlog (PWR reports this metric), indicating project cancellations or postponements. Also invalidated if US utilities announce they can meet AI data center demand without third-party contractors (e.g., insourcing grid work) or if hyperscalers shift to offshore data centers at scale (reducing US infrastructure spend). Watch for capex guidance cuts from MSFT, GOOGL, META\u2014if all three cut, PWR's pipeline is at risk.",
+      "tags": [
+        "long-term",
+        "thematic",
+        "structural",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 long-term \u00b7 2026-05-13",
+      "theme": "AI power infrastructure buildout",
+      "status": "open",
+      "pick_type": "long-term",
+      "horizon_label": "Long-term hold",
+      "direction": "long"
+    },
+    {
+      "id": "2026-05-13-PLTR-longterm",
+      "ticker": "PLTR",
+      "entered_at": "2026-05-13",
+      "entry_price": 130.8,
+      "horizon_weeks": null,
+      "target_pct": null,
+      "stop_pct": null,
+      "sector": "Unclassified",
+      "thesis": "Palantir is the public-market proxy for defense AI that Anduril's $60B private valuation legitimizes. At ~$70B market cap, PLTR is liquid, US-listed, and has multi-year contracts with DoD, Army, and IC for AI-driven targeting, logistics, and decision systems\u2014exactly what Anduril's funding boom validates as strategic. The W19 editorial noted investors are now discriminating toward 'profitable AI exposure'; PLTR turned GAAP profitable in 2023 and has 30%+ government revenue growth. The Hormuz closure (W20) and Trump-Xi summit underscore that US defense spending will prioritize AI and autonomy over legacy platforms for the next 3-5 years. This is a 6-12 month hold on structural defense modernization, not a war-headline trade. Anduril's private valuation gives public comps room to re-rate.",
+      "rationale": "<p><strong>Theme:</strong> Defense tech AI re-rating</p><p><span class=\"confidence confidence-interp\">Interp</span> W20: 'Anduril doubles valuation to over $60 billion as defense tech funding boom continues' is the marquee headline, but context matters\u2014this follows W19 editorial pattern of investors 'discriminating between companies that have profitable AI exposure' vs. hype. Anduril's doubling (to $60B, now comparable to many public defense primes) signals private markets are pricing defense AI as a decade-long structural shift, not a geopolitical trade. The Trump-Xi summit (W20) and continued Strait of Hormuz closure (OPEC production down >30%, W20) reinforce that great-power competition and asymmetric conflict are permanent backdrops, not transient. This is a two-week confirmation that defense tech\u2014especially AI-enabled autonomous systems\u2014is being re-rated from 'niche contractor' to 'critical national infrastructure,' with funding and valuations to match. Not a Russia-Ukraine headline spike; this is recognition of a multi-year procurement cycle.</p><p><span class=\"confidence confidence-interp\">Interp</span> Palantir is the public-market proxy for defense AI that Anduril's $60B private valuation legitimizes. At ~$70B market cap, PLTR is liquid, US-listed, and has multi-year contracts with DoD, Army, and IC for AI-driven targeting, logistics, and decision systems\u2014exactly what Anduril's funding boom validates as strategic. The W19 editorial noted investors are now discriminating toward 'profitable AI exposure'; PLTR turned GAAP profitable in 2023 and has 30%+ government revenue growth. The Hormuz closure (W20) and Trump-Xi summit underscore that US defense spending will prioritize AI and autonomy over legacy platforms for the next 3-5 years. This is a 6-12 month hold on structural defense modernization, not a war-headline trade. Anduril's private valuation gives public comps room to re-rate.</p><p><strong>Conviction (Claude):</strong> 5/5. Long-term structural HOLD (~10+ months). No fixed target or stop; re-check thesis quarterly.</p>",
+      "horizon_reason": "Structural theme confirmed by \u22652 weeks of consistent news. Suggested hold \u226510 months. Long-term HOLDs have no fixed target or stop \u2014 they only close on thesis invalidation.",
+      "falsification": "DoD publicly shifts budget priorities away from AI/software toward traditional hardware (e.g., 2028 budget request cuts R&D for autonomous systems by >15%), or if PLTR loses a major recompete (e.g., Army's Titan program). Also invalidated if Anduril's next funding round is a down-round or if defense tech VC funding (tracked by PitchBook) declines for two consecutive quarters\u2014would signal the 'boom' was a 2026 peak, not a secular trend. Finally, killed if PLTR's government revenue growth drops below 15% YoY for two quarters, indicating saturation.",
+      "tags": [
+        "long-term",
+        "thematic",
+        "structural",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 long-term \u00b7 2026-05-13",
+      "theme": "Defense tech AI re-rating",
+      "status": "open",
+      "pick_type": "long-term",
+      "horizon_label": "Long-term hold",
+      "direction": "long"
     }
   ],
   "summary": {
-    "total": 12,
-    "open": 11,
+    "total": 15,
+    "open": 14,
     "hit": 1,
     "miss": 0,
     "expired": 0,
