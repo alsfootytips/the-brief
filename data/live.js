@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-13T23:00:16.082991+00:00",
+  "generated_at": "2026-05-13T23:32:59.224679+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -13,75 +13,93 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "change_pct": -3.07,
-      "price": 20.49,
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T23:00:09.361491+00:00"
-    },
-    {
-      "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "change_pct": -3.83,
-      "price": 386.0,
+      "change_pct": -3.71,
+      "price": 386.51,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T23:00:09.361488+00:00"
+      "timestamp": "2026-05-13T23:32:59.223379+00:00"
     },
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 16.69,
-      "price": 209.0,
+      "change_pct": 16.94,
+      "price": 209.45,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T23:00:09.361483+00:00"
+      "timestamp": "2026-05-13T23:32:59.223374+00:00"
     },
     {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 4.3,
-      "price": 112.38,
+      "change_pct": 4.38,
+      "price": 112.47,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T23:00:09.361466+00:00"
+      "timestamp": "2026-05-13T23:32:59.223359+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Encore Capital prices \u20ac325 million floating rate notes due 2033",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/encore-capital-prices-325-million-floating-rate-notes-due-2033-93CH-4686895",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:53:21+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+      "headline": "Analysis: Trump finally gets his man at the Fed. Will Kevin Warsh disappoint him?",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
+      "url": "https://www.cnbc.com/2026/05/13/warsh-trump-congress-senate-analysis.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T22:51:55+00:00"
+      "timestamp": "2026-05-13T23:22:51+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Identiv anticipates Q2 sales of $5.4M-$6.0M as IFCO mass production is planned for Q4",
+      "headline": "USA Rare Earth outlines 600 metric tons per annum magnet run rate by year-end while finalizing $1.6B Department of Commerce documentation",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592599-identiv-anticipates-q2-sales-of-5_4m-6_0m-as-ifco-mass-production-is-planned-for-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4592606-usa-rare-earth-outlines-600-metric-tons-per-annum-magnet-run-rate-by-year-end-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T22:51:35+00:00"
+      "timestamp": "2026-05-13T23:22:18+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Seastar Medical targets about $2M 2026 QUELIMMUNE revenue while aiming to finish NEUTRALIZE-AKI enrollment by end of 2026",
+      "headline": "Usio reiterates 10% to 12% 2026 revenue growth as PostCredit targets launch in the upcoming months",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592598-seastar-medical-targets-about-2m-2026-quelimmune-revenue-while-aiming-to-finish-neutralize?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4592604-usio-reiterates-10-percent-to-12-percent-2026-revenue-growth-as-postcredit-targets-launch-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T22:51:32+00:00"
+      "timestamp": "2026-05-13T23:21:38+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Talphera targets Niyad PMA filing in 2026 and potential approval in 2027 as NEPHRO enrollment surpasses 50%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592605-talphera-targets-niyad-pma-filing-in-2026-and-potential-approval-in-2027-as-nephro-enrollment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:21:38+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marchex anticipates Q2 adjusted EBITDA of $1.6M-$1.8M as Archenia deal targets July close",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592603-marchex-anticipates-q2-adjusted-ebitda-of-1_6m-1_8m-as-archenia-deal-targets-july-close?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:21:37+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:21:35+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:21:00+00:00"
     },
     {
       "type": "news",
@@ -90,7 +108,133 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T22:49:53+00:00"
+      "timestamp": "2026-05-13T23:18:10+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "S&P 500, Nasdaq boosted by chips to record closing highs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-futures-rise-ahead-of-key-data-trumps-china-visit-4683703",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:13:45+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ryan Cohen says eBay directors should not dismiss his proposal without engaging on its substance",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ryan-cohen-says-ebay-directors-should-not-dismiss-his-proposal-without-engaging-on-its-substance-4686921",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:13:26+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lincoln Educational Services CFO Brian Meyers sells $2 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/lincoln-educational-services-cfo-brian-meyers-sells-2-million-in-stock-93CH-4686920",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:13:14+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Micron Technology director Steven J Gomo sells $1.57 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/micron-technology-director-steven-j-gomo-sells-157-million-in-stock-93CH-4686919",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:13:07+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta challenges New Mexico\u2019s $3.7 billion plan for teen mental health in social media trial",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/meta-challenges-new-mexicos-37-billion-plan-for-teen-mental-health-in-social-media-trial-4686918",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:13:02+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Blackstone data center REIT raises $1.75 billion in US IPO",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/blackstone-data-center-reit-raises-175-billion-in-us-ipo-4686917",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:12:34+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chiron real estate director Marston Ronald acquires $51,110 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/chiron-real-estate-director-marston-ronald-acquires-51110-in-shares-93CH-4686916",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:10:39+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chiron Real Estate director Lori Wittman buys $99,515 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/chiron-real-estate-director-lori-wittman-buys-99515-in-stock-93CH-4686915",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:10:13+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why big tech is betting on cute mascots",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:08:37+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Higher Europe air fares 'inevitable', says industry head",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:03:15+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:03:12+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ascend outlines 2% to 3% Q2 top line growth while targeting at least 60 stores by year-end",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592602-ascend-outlines-2-percent-to-3-percent-q2-top-line-growth-while-targeting-at-least-60-stores?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:01:44+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Seer reaffirms $16M-$18M 2026 revenue guidance amid new patent suit and commercial leadership hire",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592601-seer-reaffirms-16m-18m-2026-revenue-guidance-amid-new-patent-suit-and-commercial-leadership?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:01:43+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bionano outlines $30M-$33M 2026 revenue guidance as it expects flow cell supply to improve",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592600-bionano-outlines-30m-33m-2026-revenue-guidance-as-it-expects-flow-cell-supply-to-improve?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T23:01:31+00:00"
     },
     {
       "type": "news",
@@ -104,128 +248,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 INSMED INCORPORATED For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-insmed-incorporated-for-13-may-93CH-4686894",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:48:12+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13G Highlander Silver Corp. For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13g-highlander-silver-corp-for-13-may-93CH-4686891",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:45:58+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 National Energy Services Reunited Corp. For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-national-energy-services-reunited-corp-for-13-may-93CH-4686890",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:45:40+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13G Vernal Capital Acquisition Corp. For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13g-vernal-capital-acquisition-corp-for-13-may-93CH-4686889",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:45:32+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 Figure Technology Solutions For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-figure-technology-solutions-for-13-may-93CH-4686888",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:45:21+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Allegiant completes acquisition of Sun Country Airlines, triggers Nasdaq delisting",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/allegiant-completes-acquisition-of-sun-country-airlines-triggers-nasdaq-delisting-93CH-4686887",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:45:17+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13D/A Pulse Biosciences For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13da-pulse-biosciences-for-13-may-93CH-4686886",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:45:17+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wrap Technologies targets 100% 2026 revenue growth as Q1 product sales rise 186%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592596-wrap-technologies-targets-100-percent-2026-revenue-growth-as-q1-product-sales-rise-186?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:41:28+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Leslie\u2019s reiterates FY2026 sales $1.1B-$1.25B and adjusted EBITDA $55M-$75M as Price Drop drives traffic",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592595-leslie-s-reiterates-fy2026-sales-1_1b-1_25b-and-adjusted-ebitda-55m-75m-as-price-drop-drives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:31:30+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Power Solutions International CEO Xykis resigns; Li tapped as interim CEO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592594-power-solutions-international-ceo-xykis-resigns-li-tapped-as-interim-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:29:39+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oklo SEC filing post-Q1: $1B ATM equity raise tied to Meta, NVIDIA AI demand",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592590-oklo-sec-filing-post-q1-1b-atm-equity-raise-tied-to-meta-nvidia-ai-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:28:06+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analysis: Trump finally gets his man at the Fed. Will Kevin Warsh disappoint him?",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/warsh-trump-congress-senate-analysis.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:25:16+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Retailers keep tinkering with their AI shopping assistants, in search of better service",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T22:03:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kodiak Gas Services launches $750M public offering of common stock",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592589-kodiak-gas-services-launches-750m-public-offering-of-common-stock?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T22:02:33+00:00"
     },
     {
       "type": "news",
@@ -352,24 +379,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/the-world-lost-nearly-1-billion-barrels-in-oil-supply-over-the-past-75-days-why-investors-arent-worrying-enough-5a777ae0?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T20:59:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "April\u2019s inflation spike leaves Warsh and the Fed zero excuses not to raise rates",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/warsh-faces-rate-pressure-as-aprils-inflation-spike-leaves-the-fed-with-zero-excuses-9610ddb6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T20:58:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T20:38:20+00:00"
     },
     {
       "type": "news",
@@ -540,9 +549,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analyst Report: CVS Health Corp",
+      "headline": "Analyst Report: Coca-Cola Co/The",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2877_AnalystReport_1778695464000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3127_AnalystReport_1778695464000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "is_watchlist": false,
       "timestamp": "2026-05-13T18:04:24+00:00"
     },
@@ -873,15 +882,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T07:10:29+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
@@ -1018,56 +1018,56 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI Memory Demand Drives Netlist First-Quarter Profitability Turnaround (NLST)",
+      "headline": "This Stock\u2019s Next Move Could Be a \u2018Silver\u2019 Lining For Commodity Bulls",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-demand-drives-netlist-150428063.html",
+      "url": "https://finance.yahoo.com/news/stock-next-move-could-silver-153003053.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T15:04:28+00:00"
+      "timestamp": "2026-05-12T15:30:03+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia At Highs But CEO Huang Left Out Of Trump China Trip; Is Nvidia A Buy Or Sell Now?",
+      "headline": "Michael Saylor Sees CLARITY Act as a Turning Point for Bitcoin Adoption",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-may-2026-2/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-sees-clarity-act-152700894.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T15:02:23+00:00"
+      "timestamp": "2026-05-12T15:27:00+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "As GOOG Stock Approaches $400, Look Out for Pressure Below",
+      "headline": "Here's What I Think Is Really Going On With SoFi Stock",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/goog-stock-approaches-400-look-150002854.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-think-really-going-sofi-152700366.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T15:00:02+00:00"
+      "timestamp": "2026-05-12T15:27:00+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Consumer debt still seems manageable\u2026 for now",
+      "headline": "AST SpaceMobile Earnings, Revenue Miss Amid Satellite Launch Delays",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/consumer-debt-still-seems-manageable-120100852.html",
+      "url": "https://www.investors.com/news/technology/asts-stock-ast-spacemobile-earnings-q12026/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T15:00:00+00:00"
+      "timestamp": "2026-05-12T15:26:26+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Global Supply Shock Reignites Oil Exploration Boom",
+      "headline": "Anthropic's Mythos sends US banks rushing to plug cyber holes",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/global-supply-shock-reignites-oil-150000908.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropics-mythos-sends-us-banks-152030764.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T15:00:00+00:00"
+      "timestamp": "2026-05-12T15:20:30+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitdeer Reports 783 Bitcoin Mined in April as AI Cloud Momentum Builds",
+      "headline": "What Are Wall Street Analysts' Target Price for Accenture Stock?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-reports-783-bitcoin-mined-145400484.html",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-target-price-151900289.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-12T14:54:00+00:00"
+      "timestamp": "2026-05-12T15:19:00+00:00"
     },
     {
       "type": "news",
@@ -1086,15 +1086,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3faa22e048df4fe7c2151d37bd8a80121e1441935bb4bea21a139ed50bae66bf",
       "is_watchlist": true,
       "timestamp": "2026-05-12T11:51:09+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Not so dusty: How tech is changing woodworking",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-11T23:23:48+00:00"
     },
     {
       "type": "news",
