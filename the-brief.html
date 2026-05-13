@@ -2101,12 +2101,47 @@ p.lede {
 
 </div>
 
-<script src="issues/issue-002.js"></script>
-<script src="issues/issue-003.js"></script>
-<script src="data/movers.js" onerror="window.theBriefMovers=null"></script>
-<script src="data/live.js" onerror="window.theBriefLive=null"></script>
-<script src="data/picks.js" onerror="window.theBriefPicks=null"></script>
-<script src="data/daily.js" onerror="window.theBriefDaily=null"></script>
+<script>
+// ===== Cache-busted data loader =====
+// Fetches data/version.json (no-cache), then loads every data + issue script
+// with ?v=<version> so stale CDN copies can't show old picks/movers.
+// Falls back to no-buster loading if version.json is missing.
+window.theBriefDataReady = false;
+(function bootData() {
+  const FILES = [
+    ['issues/issue-002.js',   null],
+    ['issues/issue-003.js',   null],
+    ['data/movers.js',        'theBriefMovers'],
+    ['data/live.js',          'theBriefLive'],
+    ['data/picks.js',         'theBriefPicks'],
+    ['data/daily.js',         'theBriefDaily'],
+  ];
+
+  function loadOne(src, globalName, version) {
+    return new Promise(resolve => {
+      const s = document.createElement('script');
+      s.src = version ? `${src}?v=${encodeURIComponent(version)}` : src;
+      s.onload = () => resolve();
+      s.onerror = () => { if (globalName) window[globalName] = null; resolve(); };
+      document.head.appendChild(s);
+    });
+  }
+
+  async function loadAll(version) {
+    // Load issue files first (they may reference earlier shared state), then data files.
+    for (const [src, global] of FILES) {
+      await loadOne(src, global, version);
+    }
+    window.theBriefDataReady = true;
+    window.dispatchEvent(new Event('theBriefDataReady'));
+  }
+
+  fetch('data/version.json', { cache: 'no-store' })
+    .then(r => r.ok ? r.json() : null)
+    .catch(() => null)
+    .then(v => loadAll(v && v.version ? v.version : Date.now()));
+})();
+</script>
 
 <script>
 window.theBrief = window.theBrief || { issues: [] };
@@ -3450,10 +3485,17 @@ window.addEventListener('hashchange', () => {
 });
 
 // ===== Bootstrap =====
-const initial = parseHash();
-state.view = initial.view;
-state.issueNumber = initial.issueNumber;
-render();
+function bootBrief() {
+  const initial = parseHash();
+  state.view = initial.view;
+  state.issueNumber = initial.issueNumber;
+  render();
+}
+if (window.theBriefDataReady) {
+  bootBrief();
+} else {
+  window.addEventListener('theBriefDataReady', bootBrief, { once: true });
+}
 </script>
 
 </body>

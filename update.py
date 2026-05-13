@@ -2480,6 +2480,16 @@ def main() -> int:
 
     print(f"\nWrote {DATA_DIR.relative_to(ROOT) / 'movers.js'}")
     print(f"Wrote {DATA_DIR.relative_to(ROOT) / 'live.js'}")
+
+    # Bust browser cache: the HTML loader fetches this and appends ?v=<version>
+    # to every data script tag, so users never see stale picks/movers/news.
+    version_payload = {
+        'version': dt.datetime.now(dt.timezone.utc).strftime('%Y%m%dT%H%M%SZ'),
+        'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),
+    }
+    (DATA_DIR / 'version.json').write_text(json.dumps(version_payload, indent=2))
+    print(f"Wrote {DATA_DIR.relative_to(ROOT) / 'version.json'} (version={version_payload['version']})")
+
     print("Done. Open the-brief.html to view.")
     return 0
 
