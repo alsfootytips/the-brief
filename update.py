@@ -2337,8 +2337,38 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
     return events
 
 
+def check_no_conflict_markers() -> None:
+    """Refuse to run if any tracked data file has unresolved git conflict markers.
+
+    A syntax error in any data/*.js file (which is loaded as a <script src>) blanks
+    the entire site. Catching this on the next pipeline run is the safety net for
+    when local rebase/stash-pop leaves markers behind.
+    """
+    targets = list((ROOT / 'data').glob('*.js')) + [ROOT / 'picks.json', ROOT / 'watchlist.json']
+    markers = ('<<<<<<< ', '=======\n', '>>>>>>> ')
+    bad = []
+    for path in targets:
+        if not path.exists():
+            continue
+        try:
+            text = path.read_text()
+        except Exception:
+            continue
+        if any(m in text for m in markers):
+            # '=======' is a common token, so re-check with line anchor
+            lines = text.splitlines()
+            if any(l.startswith(('<<<<<<< ', '>>>>>>> ')) or l == '=======' for l in lines):
+                bad.append(str(path.relative_to(ROOT)))
+    if bad:
+        raise SystemExit(
+            f"ABORT: unresolved merge conflict markers found in: {', '.join(bad)}. "
+            "Resolve them locally before letting the pipeline run."
+        )
+
+
 def main() -> int:
     load_dotenv(ROOT / '.env', override=True)
+    check_no_conflict_markers()
     watchlist = load_watchlist()
 
     print("== The Brief — ingestion pipeline ==")
