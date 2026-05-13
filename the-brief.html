@@ -1531,6 +1531,10 @@ p.lede {
   color: var(--accent);
 }
 
+.composition-chip-value.up { color: var(--green); }
+.composition-chip-value.down { color: var(--accent); }
+.composition-chip-value.flat { color: var(--ink-muted); }
+
 @media (max-width: 600px) {
   .composition-chip { min-height: 40px; }
 }
@@ -1752,18 +1756,110 @@ p.lede {
 
 .holding-remove {
   position: absolute;
-  top: 12px;
-  right: 14px;
+  top: 10px;
+  right: 12px;
   background: none;
   border: none;
   color: var(--ink-muted);
   cursor: pointer;
   font-family: 'JetBrains Mono', monospace;
-  font-size: 14px;
-  padding: 6px;
+  font-size: 18px;
+  padding: 6px 10px;
+  line-height: 1;
+  opacity: 0.55;
+  transition: opacity 0.15s ease, color 0.15s ease;
 }
 
-.holding-remove:hover { color: var(--accent); }
+.holding-remove:hover {
+  color: var(--accent);
+  opacity: 1;
+}
+
+.holding-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 14px;
+  margin-bottom: 8px;
+  padding-right: 32px;
+}
+
+.holding-meta {
+  text-align: right;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+}
+
+.holding-today {
+  display: inline-block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+}
+
+.holding-today.up { color: var(--green); border-color: rgba(45, 90, 61, 0.3); }
+.holding-today.down { color: var(--accent); border-color: rgba(139, 46, 31, 0.3); }
+.holding-today.flat { color: var(--ink-muted); }
+
+.holding-pl {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dotted var(--rule);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.holding-pl-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+}
+
+.holding-pl-value {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.holding-pl.up .holding-pl-value { color: var(--green); }
+.holding-pl.down .holding-pl-value { color: var(--accent); }
+.holding-pl.flat .holding-pl-value { color: var(--ink-muted); }
+
+.portfolio-form-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.portfolio-form-close {
+  background: none;
+  border: 1px solid var(--rule);
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--ink-muted);
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.portfolio-form-close:hover {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
 
 @media (max-width: 600px) {
   .portfolio-form-grid {
@@ -2044,6 +2140,8 @@ state.portfolio = [];
 try {
   state.portfolio = JSON.parse(localStorage.getItem('theBrief.portfolio') || '[]');
 } catch (e) {}
+
+state.portfolioFormOpen = false;
 
 function savePortfolio() {
   try { localStorage.setItem('theBrief.portfolio', JSON.stringify(state.portfolio)); } catch (e) {}
@@ -2670,7 +2768,7 @@ function renderPortfolio() {
   const moversData = window.theBriefMovers;
   const moversByTicker = {};
   if (moversData) {
-    [...(moversData.watchlist || []), ...(moversData.gainers || []), ...(moversData.losers || []), ...(moversData.indices || []), ...(moversData.sectors || [])].forEach(m => {
+    [...(moversData.gainers || []), ...(moversData.losers || []), ...(moversData.indices || []), ...(moversData.sectors || [])].forEach(m => {
       moversByTicker[m.ticker] = m;
     });
   }
@@ -2693,68 +2791,82 @@ function renderPortfolio() {
   const totalGain = totalValue - totalCost;
   const totalGainPct = totalCost ? (totalGain / totalCost) * 100 : null;
   const totalClass = pctClass(totalGainPct);
+  const hasHoldings = holdings.length > 0;
+  const formOpen = !hasHoldings || state.portfolioFormOpen;
 
-  const form = `
+  const summary = hasHoldings ? `
+    <div class="composition-bar">
+      <div class="composition-block">
+        <div class="composition-block-label">${holdings.length} ${holdings.length === 1 ? 'holding' : 'holdings'}</div>
+      </div>
+      <div class="composition-block">
+        <div class="composition-chips">
+          <span class="composition-chip"><span class="composition-chip-label">Cost basis</span><span class="composition-chip-value">${fmtPrice(totalCost)}</span></span>
+          ${totalValue ? `<span class="composition-chip"><span class="composition-chip-label">Current value</span><span class="composition-chip-value">${fmtPrice(totalValue)}</span></span>` : ''}
+          ${totalGainPct != null ? `<span class="composition-chip"><span class="composition-chip-label">P/L</span><span class="composition-chip-value ${totalClass}">${totalGain >= 0 ? '+' : ''}${fmtPrice(totalGain)} (${fmtPct(totalGainPct)})</span></span>` : ''}
+        </div>
+      </div>
+    </div>` : '';
+
+  const form = formOpen ? `
     <div class="portfolio-form">
-      <div class="portfolio-form-title">Add a holding</div>
+      <div class="portfolio-form-head">
+        <div class="portfolio-form-title">${hasHoldings ? 'Add another holding' : 'Add your first holding'}</div>
+        ${hasHoldings ? `<button type="button" class="portfolio-form-close" data-portfolio-form-close="1" aria-label="Close form">×</button>` : ''}
+      </div>
       <form id="portfolio-add-form">
         <div class="portfolio-form-grid">
-          <input name="ticker" placeholder="TICKER" required maxlength="10" style="text-transform: uppercase;">
+          <input name="ticker" placeholder="TICKER" required maxlength="10" autocomplete="off" style="text-transform: uppercase;">
           <input name="shares" type="number" step="0.0001" placeholder="Shares" required>
           <input name="entry_price" type="number" step="0.01" placeholder="Entry price ($)" required>
           <input name="entry_date" type="date" required>
         </div>
         <button type="submit">Add holding</button>
       </form>
-      <p style="font-family: 'Fraunces', serif; font-size: 13px; color: var(--ink-muted); margin-top: 12px; font-style: italic;">Stored in your browser only (localStorage). For price tracking the ticker should already be in the pipeline's universe (watchlist, indices, or sectors).</p>
+      ${!hasHoldings ? `<p style="font-family: 'Fraunces', serif; font-size: 13px; color: var(--ink-muted); margin-top: 12px; font-style: italic;">Stored in your browser only. For prices to track, the ticker should be in the pipeline's data universe.</p>` : ''}
+    </div>` : `
+    <div style="text-align: right; margin: 16px 0 22px;">
+      <button class="filter-pill" data-portfolio-form-open="1" style="border: 1px solid var(--rule); padding: 8px 16px; min-height: 36px;">+ Add another holding</button>
     </div>`;
-
-  const summary = holdings.length ? `
-    <div class="summary-bar">
-      <div class="summary-stat"><div class="summary-stat-label">Holdings</div><div class="summary-stat-value">${holdings.length}</div></div>
-      <div class="summary-stat"><div class="summary-stat-label">Cost Basis</div><div class="summary-stat-value">${fmtPrice(totalCost)}</div></div>
-      <div class="summary-stat"><div class="summary-stat-label">Current Value</div><div class="summary-stat-value">${totalValue ? fmtPrice(totalValue) : '—'}</div></div>
-      <div class="summary-stat"><div class="summary-stat-label">P/L</div><div class="summary-stat-value ${totalClass}">${totalGain ? (totalGain > 0 ? '+' : '') + fmtPrice(totalGain).replace('$', '$') : '—'}</div></div>
-      <div class="summary-stat"><div class="summary-stat-label">P/L %</div><div class="summary-stat-value ${totalClass}">${totalGainPct != null ? fmtPct(totalGainPct) : '—'}</div></div>
-    </div>
-  ` : '';
 
   const holdingsList = enriched.map(h => {
     const c = pctClass(h.gain_pct);
     const today = pctClass(h.change_pct_today);
+    const todayChip = h.change_pct_today != null
+      ? `<span class="holding-today ${today}">Today ${fmtPct(h.change_pct_today)}</span>`
+      : '';
     return `
       <div class="holding-card">
         <button class="holding-remove" data-remove-holding="${escapeHtml(h.ticker)}|${escapeHtml(h.entry_date || '')}" aria-label="Remove">×</button>
-        <div class="pick-head">
+        <div class="holding-head">
           <div class="mover-id">
             <div>${starHtml(h.ticker)}<span class="ticker" data-ticker="${escapeHtml(h.ticker)}">${escapeHtml(h.ticker)}</span></div>
             <div class="mover-name">${escapeHtml(h.name || '')}</div>
           </div>
-          <div class="pick-meta-row">
-            <div class="mover-pct ${today}" title="Today's move">${h.change_pct_today != null ? fmtPct(h.change_pct_today) : '—'} today</div>
-          </div>
+          <div class="holding-meta">${todayChip}</div>
         </div>
-        <div class="pick-prices">
+        <div class="pick-prices pick-prices-simple">
           <div class="pick-price-cell">
-            <div class="pick-price-label">${h.shares} shares · ${escapeHtml(h.entry_date || '')}</div>
-            <div class="pick-price-value">Entry ${fmtPrice(h.entry_price)}</div>
+            <div class="pick-price-label">${h.shares} share${h.shares === 1 ? '' : 's'} · bought ${escapeHtml(h.entry_date || '')}</div>
+            <div class="pick-price-value">${fmtPrice(h.entry_price)}</div>
           </div>
           <div class="pick-price-cell">
-            <div class="pick-price-label">Current</div>
+            <div class="pick-price-label">Current price</div>
             <div class="pick-price-value">${h.current != null ? fmtPrice(h.current) : '—'}</div>
           </div>
-          <div class="pick-price-cell">
-            <div class="pick-price-label">Position P/L</div>
-            <div class="pick-price-value ${c}">${h.gain_pct != null ? fmtPct(h.gain_pct) : '—'}${h.gain_dollar != null ? ` · ${h.gain_dollar >= 0 ? '+' : ''}${fmtPrice(h.gain_dollar)}` : ''}</div>
-          </div>
         </div>
+        ${h.gain_pct != null ? `
+        <div class="holding-pl ${c}">
+          <span class="holding-pl-label">Position P/L</span>
+          <span class="holding-pl-value">${fmtPct(h.gain_pct)} · ${h.gain_dollar >= 0 ? '+' : ''}${fmtPrice(h.gain_dollar)}</span>
+        </div>` : ''}
       </div>`;
   }).join('');
 
   return `
-    ${form}
     ${summary}
-    ${holdingsList || `<p style="color: var(--ink-muted); font-style: italic; margin: 24px 0;">No holdings yet. Add one using the form above.</p>`}
+    ${form}
+    ${holdingsList || (hasHoldings ? '' : `<p style="color: var(--ink-muted); font-style: italic; margin: 24px 0;">No holdings yet. Add one above to track your real positions alongside the brief's analysis.</p>`)}
   `;
 }
 
@@ -2828,6 +2940,7 @@ function render() {
         if (!ticker || !shares || !entry_price) return;
         state.portfolio.push({ ticker, shares, entry_price, entry_date });
         savePortfolio();
+        state.portfolioFormOpen = false;
         render();
       });
     }
@@ -2954,6 +3067,22 @@ document.addEventListener('click', e => {
     const [ticker, entry_date] = removeBtn.dataset.removeHolding.split('|');
     state.portfolio = state.portfolio.filter(h => !(h.ticker === ticker && (h.entry_date || '') === entry_date));
     savePortfolio();
+    render();
+    return;
+  }
+  const openFormBtn = e.target.closest('[data-portfolio-form-open]');
+  if (openFormBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    state.portfolioFormOpen = true;
+    render();
+    return;
+  }
+  const closeFormBtn = e.target.closest('[data-portfolio-form-close]');
+  if (closeFormBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    state.portfolioFormOpen = false;
     render();
     return;
   }
