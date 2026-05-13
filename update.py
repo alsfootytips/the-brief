@@ -100,6 +100,43 @@ def load_watchlist() -> dict:
         return json.load(f)
 
 
+def fetch_live_prices(tickers: list[str]) -> dict[str, dict]:
+    out = {}
+    for t in tickers:
+        try:
+            url = f"https://query2.finance.yahoo.com/v8/finance/chart/{t}?interval=1m&range=1d&includePrePost=true"
+            r = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
+            r.raise_for_status()
+            data = r.json()
+            result = data.get('chart', {}).get('result', [])
+            if not result:
+                continue
+            res = result[0]
+            meta = res.get('meta', {})
+            ts = res.get('timestamp') or []
+            quote = (res.get('indicators', {}).get('quote') or [{}])[0]
+            closes = quote.get('close') or []
+            last_close = None
+            for v in reversed(closes):
+                if v is not None:
+                    last_close = float(v)
+                    break
+            prev_close = meta.get('chartPreviousClose') or meta.get('previousClose')
+            if last_close is None or prev_close is None:
+                continue
+            chg_pct = (last_close - float(prev_close)) / float(prev_close) * 100
+            out[t] = {
+                'price': round(last_close, 2),
+                'change_pct': round(chg_pct, 2),
+                'market_state': meta.get('marketState'),
+            }
+            time.sleep(0.1)
+        except Exception as e:
+            print(f"  Live price fetch failed for {t}: {e}")
+            continue
+    return out
+
+
 def fetch_movers(watchlist: dict) -> list[dict]:
     tickers = sorted(set(watchlist['followed'] + watchlist['indices'] + watchlist['sectors']))
     try:
@@ -145,6 +182,20 @@ def fetch_movers(watchlist: dict) -> list[dict]:
         except Exception as e:
             print(f"  Mover parse failed for {t}: {e}")
             continue
+
+    print("  Fetching live (incl. pre/post-market) prices for watchlist...")
+    watchlist_tickers = list(set(watchlist['followed']))
+    live = fetch_live_prices(watchlist_tickers)
+    patched = 0
+    for m in out:
+        if m['ticker'] in live:
+            lp = live[m['ticker']]
+            m['price'] = lp['price']
+            m['change_pct'] = lp['change_pct']
+            m['market_state'] = lp.get('market_state')
+            patched += 1
+    print(f"  Patched {patched} tickers with live prices")
+
     return out
 
 

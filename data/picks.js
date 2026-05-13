@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-13T13:13:02.509880+00:00",
+  "generated_at": "2026-05-13T13:21:57.454871+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -23,9 +23,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 23.73,
-      "current_pct": 5.8,
-      "change_pct_today": 7.86,
+      "current_price": 22.88,
+      "current_pct": 2.01,
+      "change_pct_today": 4.0,
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 1,
@@ -51,16 +51,20 @@ window.theBriefPicks = {
       ],
       "sector": "Technology",
       "issue_number": 2,
-      "status": "open",
+      "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 179.11,
-      "current_pct": 0.36,
-      "change_pct_today": -3.76,
+      "current_price": 207.56,
+      "current_pct": 16.31,
+      "change_pct_today": 11.53,
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,
-      "days_remaining": 13
+      "days_remaining": 13,
+      "closed_at": "2026-05-13",
+      "closed_price": 207.56,
+      "closed_pct": 16.31,
+      "closed_reason": "target_hit (+12%)"
     },
     {
       "id": "2026-05-12-IWM-rotation",
@@ -85,9 +89,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 282.57,
-      "current_pct": 0.07,
-      "change_pct_today": -0.97,
+      "current_price": 282.4,
+      "current_pct": 0.01,
+      "change_pct_today": -1.03,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 1,
@@ -115,9 +119,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 448.29,
-      "current_pct": 1.43,
-      "change_pct_today": -2.29,
+      "current_price": 454.7,
+      "current_pct": 2.88,
+      "change_pct_today": -0.89,
       "name": "Advanced Micro Devices",
       "news_count": 3,
       "days_elapsed": 1,
@@ -145,9 +149,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 57.57,
-      "current_pct": -0.26,
-      "change_pct_today": 0.7,
+      "current_price": 57.45,
+      "current_pct": -0.47,
+      "change_pct_today": 0.48,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 1,
@@ -243,16 +247,76 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
+      "status": "open",
+      "horizon_label": "Short-term",
+      "direction": "long"
+    },
+    {
+      "id": "2026-05-13-XOM-tactical",
+      "ticker": "XOM",
+      "entered_at": "2026-05-13",
+      "entry_price": 150.63,
+      "horizon_weeks": 3,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "sector": "Unclassified",
+      "thesis": "Crude supply deficit scenario drives higher realized prices for integrated oil majors with production leverage. Triggered by: Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+      "rationale": "<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters\" (source: Reuters).</p><p><span class=\"confidence confidence-interp\">Interp</span> Crude supply deficit scenario drives higher realized prices for integrated oil majors with production leverage.</p><p><strong>Conviction (Claude):</strong> 5/5. Event-driven setup with short horizon \u2014 re-evaluate within 2-3 weeks of the catalyst.</p>",
+      "horizon_reason": "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+      "falsification": "Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+      "tags": [
+        "event-driven",
+        "ai-tactical",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 event-driven \u00b7 2026-05-13",
+      "event_trigger": {
+        "headline": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5",
+        "movers": [
+          "Iran"
+        ]
+      },
+      "status": "open"
+    },
+    {
+      "id": "2026-05-13-CVX-tactical",
+      "ticker": "CVX",
+      "entered_at": "2026-05-13",
+      "entry_price": 185.95,
+      "horizon_weeks": 3,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "sector": "Unclassified",
+      "thesis": "Tight oil market from Iran disruption boosts margins for large-cap producers with global reach. Triggered by: Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+      "rationale": "<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters\" (source: Reuters).</p><p><span class=\"confidence confidence-interp\">Interp</span> Tight oil market from Iran disruption boosts margins for large-cap producers with global reach.</p><p><strong>Conviction (Claude):</strong> 5/5. Event-driven setup with short horizon \u2014 re-evaluate within 2-3 weeks of the catalyst.</p>",
+      "horizon_reason": "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+      "falsification": "Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+      "tags": [
+        "event-driven",
+        "ai-tactical",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 event-driven \u00b7 2026-05-13",
+      "event_trigger": {
+        "headline": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5",
+        "movers": [
+          "Iran"
+        ]
+      },
       "status": "open"
     }
   ],
   "summary": {
-    "total": 8,
-    "open": 8,
-    "hit": 0,
+    "total": 10,
+    "open": 9,
+    "hit": 1,
     "miss": 0,
     "expired": 0,
-    "hit_rate": null,
-    "avg_closed_pct": null
+    "hit_rate": 100.0,
+    "avg_closed_pct": 16.31
   }
 };

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-13T13:13:02.113254+00:00",
+  "generated_at": "2026-05-13T13:21:56.652702+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -15,37 +15,127 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": 7.86,
-      "price": 23.73,
+      "change_pct": 4.0,
+      "price": 22.88,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T13:12:46.768454+00:00"
+      "timestamp": "2026-05-13T13:21:42.110623+00:00"
     },
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.76,
-      "price": 179.11,
+      "change_pct": 11.53,
+      "price": 207.56,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T13:12:46.768451+00:00"
-    },
-    {
-      "type": "mover",
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "change_pct": -6.06,
-      "price": 107.75,
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T13:12:46.768439+00:00"
+      "timestamp": "2026-05-13T13:21:42.110604+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Velo3D, Inc. reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592087-velo3d-inc-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Wholesale prices jump to 4-year high and point to even more inflation this summer",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T13:08:24+00:00"
+      "timestamp": "2026-05-13T13:19:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:17:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:16:56+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Looking for under-the-radar value in the AI supply chain",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591283-looking-for-under-the-radar-value-in-the-ai-supply-chain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:16:40+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Excellon unit Saxony Silver raises C$2.1M in private placement",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592090-excellon-unit-saxony-silver-raises-c-2_1m-in-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:16:25+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bonterra President/CEO Pelletier resigns effective May 31",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592084-bonterra-president-ceo-pelletier-resigns-effective-may-31?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:14:52+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:13:23+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BlackRock transfers BTC, ETH worth $172M to Coinbase amid ETF redemptions",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592041-blackrock-transfers-btc-eth-worth-172m-to-coinbase-amid-etf-redemptions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:12:52+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Speculative tech, international plays keep leading YTD market rally",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592057-speculative-tech-international-plays-keep-leading-ytd-market-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:12:48+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zebra Technologies gets upgrade at KeyBanc after 'strong' Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592065-zebra-technologies-gets-upgrade-at-keybanc-after-strong-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:11:40+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Club's top 10 things to watch in the stock market Wednesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/13/the-clubs-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:10:39+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top communication services stocks with A+ momentum grade",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592070-top-communication-services-stocks-with-a-momentum-grade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:09:48+00:00"
     },
     {
       "type": "news",
@@ -77,15 +167,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Phoenix New Media reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592085-phoenix-new-media-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:06:26+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why is Dow stock gaining today?",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/why-is-dow-stock-gaining-today-93CH-4684735",
@@ -100,15 +181,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/analyst-ratings/keybanc-cuts-steris-stock-price-target-on-lower-peer-multiples-93CH-4684734",
       "is_watchlist": false,
       "timestamp": "2026-05-13T13:05:18+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Microsoft's new revenue-sharing plan with OpenAI pulls cash forward: Wedbush",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592029-microsofts-new-revenue-sharing-plan-with-openai-pulls-cash-forward-wedbush?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:05:17+00:00"
     },
     {
       "type": "news",
@@ -145,60 +217,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-intrepid-potash-q1-2026-beats-expectations-stock-fluctuates-93CH-4684730",
       "is_watchlist": false,
       "timestamp": "2026-05-13T13:04:40+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Misery Index climbs to 3-year high as inflation and unemployment rise",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592078-us-misery-index-climbs-to-3-year-high-as-inflation-and-unemployment-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:04:14+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Aramark To Rally Around 20%? Here Are 10 Top Analyst Forecasts For Wednesday",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/aramark-rally-around-20-10-130354591.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:03:54+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Knight-Swift Transportation Holdings Inc. declares $0.20 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592083-knight-swift-transportation-holdings-inc-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:03:43+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "E-L Financial Corporation Limited PFD 1ST SER 3 declares CAD 0.3438 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592082-e-l-financial-corporation-limited-pfd-1st-ser-3-declares-cad-0_3438-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:03:20+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "E-L Financial Corporation Limited PFD 4.75% SR 2 declares CAD 0.2668 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592081-e-l-financial-corporation-limited-pfd-4_75-percent-sr-2-declares-cad-0_2668-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:03:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:02:25+00:00"
     },
     {
       "type": "news",
@@ -266,6 +284,15 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Is AppLovin Stock a Buy as Revenue Continues to Surge?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/applovin-stock-buy-revenue-continues-125000586.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:50:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Affirm Investor Day Touts 'Bigger Is Better,' Strategy, New $100 Billion Financial Target",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/news/technology/affirm-stock-afrm-investor-day-gmv-target/?src=A00220&yptr=yahoo",
@@ -288,25 +315,16 @@ window.theBriefLive = {
         {
           "ticker": "XLE",
           "direction": "positive",
-          "why": "Hormuz disruption risk could tighten oil supply and lift energy sector broadly.",
-          "conviction": 3
+          "why": "Hormuz Strait tensions typically drive oil prices higher, benefiting energy sector broadly.",
+          "conviction": 4
         },
         {
-          "ticker": "FRO",
+          "ticker": "STNG",
           "direction": "positive",
-          "why": "Tanker rates typically spike when shippers reroute or face Middle East passage risks.",
-          "conviction": 4
+          "why": "Tanker operators often see rate spikes when Middle East shipping routes face disruption risk.",
+          "conviction": 3
         }
       ]
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wholesale prices jump to 4-year high and point to even more inflation in the next few months",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:43:00+00:00"
     },
     {
       "type": "news",
@@ -395,7 +413,7 @@ window.theBriefLive = {
         {
           "ticker": "JPM",
           "direction": "negative",
-          "why": "CEO signaling potential London pullback could raise concerns about UK exposure and regulatory costs.",
+          "why": "UK political instability could raise execution risk on major real estate commitments, though unlikely near-term material impact.",
           "conviction": 2
         }
       ]
@@ -477,14 +495,14 @@ window.theBriefLive = {
       "affected_stocks": [
         {
           "ticker": "RSX",
-          "direction": "mixed",
-          "why": "Peace talk progress could reduce geopolitical risk premium on Russia-exposed assets but timeline unclear.",
+          "direction": "positive",
+          "why": "Peace negotiation progress could eventually reduce sanctions risk on Russian equities, though timing highly uncertain.",
           "conviction": 2
         },
         {
-          "ticker": "XLE",
-          "direction": "negative",
-          "why": "Diplomatic thaw could ease oil supply concerns if sanctions relief becomes plausible.",
+          "ticker": "XLI",
+          "direction": "positive",
+          "why": "Ukraine reconstruction would benefit industrial and defense contractors, but depends on actual ceasefire materializing.",
           "conviction": 2
         }
       ]
@@ -508,15 +526,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-13T11:17:00+00:00"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:15:00+00:00"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -531,13 +540,13 @@ window.theBriefLive = {
         {
           "ticker": "LMT",
           "direction": "positive",
-          "why": "Escalating conflict sustains demand for precision munitions and air defense systems.",
+          "why": "Escalating Middle East conflict typically sustains elevated defense spending and munitions demand.",
           "conviction": 2
         },
         {
-          "ticker": "ITA",
+          "ticker": "RTX",
           "direction": "positive",
-          "why": "Defense aerospace benefits from prolonged regional military operations.",
+          "why": "Continued regional instability supports ongoing missile defense and precision weapons orders.",
           "conviction": 2
         }
       ]
@@ -553,12 +562,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T10:00:01+00:00"
+      "ticker": "IWM",
+      "headline": "April CPI Inflation: Brace For Margin Pressure",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=640f991f76a65110f2e7c4707e21fdd74f42fdff9e93e02418281a6feff36141",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T09:15:00+00:00"
     },
     {
       "type": "mover_statement",
@@ -575,20 +584,20 @@ window.theBriefLive = {
         {
           "ticker": "XLE",
           "direction": "positive",
-          "why": "IEA forecasting supply deficit directly supports higher oil prices and energy sector margins.",
-          "conviction": 4
+          "why": "IEA projecting supply shortfall due to Iran war is direct bullish catalyst for oil prices and energy equities.",
+          "conviction": 5
         },
         {
-          "ticker": "XOP",
+          "ticker": "XOM",
           "direction": "positive",
-          "why": "U.S. oil producers are immediate beneficiaries of higher realized prices from supply shortfall.",
-          "conviction": 4
+          "why": "Crude supply deficit scenario drives higher realized prices for integrated oil majors with production leverage.",
+          "conviction": 5
         },
         {
-          "ticker": "USO",
+          "ticker": "CVX",
           "direction": "positive",
-          "why": "Oil ETF tracks crude prices which should rise if IEA supply deficit materializes.",
-          "conviction": 4
+          "why": "Tight oil market from Iran disruption boosts margins for large-cap producers with global reach.",
+          "conviction": 5
         }
       ]
     },
@@ -645,15 +654,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=ff06bb53439858424976075d2e700dd9292dc8502e79306c1e6b761543c13edb",
       "is_watchlist": true,
       "timestamp": "2026-05-13T08:41:24+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "May 2026 Trading Outlook: Fiscal Flows, Oil, Bank Credit, And Fed Interest Rates",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b5914be710e9759a6ce4690d95dcfbe1ef9a78517a7056b5b890635063f0da30",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T08:22:29+00:00"
     },
     {
       "type": "news",
@@ -724,7 +724,7 @@ window.theBriefLive = {
         {
           "ticker": "SIEGY",
           "direction": "positive",
-          "why": "Order strength despite geopolitical headwinds suggests resilient industrial demand for Siemens.",
+          "why": "Better-than-expected orders suggest industrial demand resilient despite geopolitical headwinds.",
           "conviction": 3
         }
       ]
@@ -764,15 +764,6 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGxYUWdtRXUyS0wzemV0R0o2QXF0WUVWUzFRTTdWRTNIeFU4NVA5dS1iYm5SWkpNSG9EVW9PZks2UUEzck83UDlRYjJhYTdtWnVKbnQ4aGM4WFZ1b00tX2cxRE5RNTdVZTZUWTJEem5faWtaZDZmUnNNZGtRZllWUERZbnRadw?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-05-13T04:39:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "European stocks rise, oil prices steady, government bond yields still high - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WQ2g4TE51V0FmWDBZOFVjQVhDbVphVXVWQzVmV1RLY01taHBramJiaVNPTUdHZVZTQWtwWExtM2NUSW9fVkVLN2p4UzRMWUNla01KWnNYQVdLR3hlMUhxWlZqZEhQQnIxaThhVXQxNk44Sks1VXZHSkhEVQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T01:27:00+00:00"
     },
     {
       "type": "news",
@@ -848,15 +839,7 @@ window.theBriefLive = {
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": true,
-      "timestamp": "2026-05-12T18:51:56+00:00",
-      "affected_stocks": [
-        {
-          "ticker": "MSFT",
-          "direction": "mixed",
-          "why": "Musk-Altman legal drama creates governance uncertainty around Microsoft's $13B OpenAI investment.",
-          "conviction": 2
-        }
-      ]
+      "timestamp": "2026-05-12T18:51:56+00:00"
     },
     {
       "type": "news",
