@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-13T11:47:20.088057+00:00",
+  "generated_at": "2026-05-13T12:02:31.141468+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,7 +18,7 @@ window.theBriefLive = {
       "change_pct": 7.86,
       "price": 23.73,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T11:47:20.087011+00:00"
+      "timestamp": "2026-05-13T12:02:31.140388+00:00"
     },
     {
       "type": "mover",
@@ -27,7 +27,7 @@ window.theBriefLive = {
       "change_pct": -3.76,
       "price": 179.11,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T11:47:20.087007+00:00"
+      "timestamp": "2026-05-13T12:02:31.140383+00:00"
     },
     {
       "type": "mover",
@@ -36,7 +36,178 @@ window.theBriefLive = {
       "change_pct": -6.06,
       "price": 107.75,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T11:47:20.086994+00:00"
+      "timestamp": "2026-05-13T12:02:31.140370+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zurich Insurance reports Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591998-zurich-insurance-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:56:05+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paysign projects 2026 revenue of $106.5M-$110.5M while targeting 147-150 active patient affordability programs by Q2",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591999-paysign-projects-2026-revenue-of-106_5m-110_5m-while-targeting-147minus-150-active-patient?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:55:05+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump\u2019s designs on Greenland prod investment, tourism likely to pay off faster than mines",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trumps-designs-on-greenland-prod-investment-tourism-likely-to-pay-off-faster-than-mines-4684273",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:55:02+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argus cuts Constellation Energy stock price target on valuation",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-cuts-constellation-energy-stock-price-target-on-valuation-93CH-4684298",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:57+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argus raises New York Times stock price target to $88 on digital growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-raises-new-york-times-stock-price-target-to-88-on-digital-growth-93CH-4684297",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:50+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba stock falls as revenue misses, AI spending weighs on earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/alibaba-stock-falls-as-revenue-misses-ai-spending-weighs-on-earnings-115446633.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:46+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argus raises First Solar stock price target to $275 on trade position",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-raises-first-solar-stock-price-target-to-275-on-trade-position-93CH-4684296",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:46+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart cuts 1,000 roles to simplify operations, source says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/walmart-lays-off-or-relocates-about-1000-corporate-workers-wsj-reports-4682898",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:45+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 13D/A Rent the Runway For: 13 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-13da-rent-the-runway-for-13-may-93CH-4684295",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:32+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: U.S. Energy Corp Q1 2026 misses EPS, stock dips",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-us-energy-corp-q1-2026-misses-eps-stock-dips-93CH-4684289",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:53:27+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Takeda\u2019s Q4 2025 performance highlights resilience",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-takedas-q4-2025-performance-highlights-resilience-93CH-4684288",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:52:36+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Teledyne Technologies\u2019 FLIR Defense Rogue 1 selected for U.S. Army LASSO program",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591945-teledyne-technologies-flir-defense-rogue-1-selected-for-us-army-lasso-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:51:58+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nissan Motor reports FY results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591977-nissan-motor-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:50:07+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "This $13 Nvidia-Backed Artificial Intelligence (AI) Stock Just Partnered with Anduril. Here's What Investors Need to Know.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0aa814990852696512221e2b8a426813c7c859045bd5e5f75f52a4f6e87ab2a7",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:50:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This $13 Nvidia-Backed Artificial Intelligence (AI) Stock Just Partnered with Anduril. Here's What Investors Need to Know.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/13-nvidia-backed-artificial-intelligence-115000172.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:50:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pfizer granted label expansion for hemophilia therapy Hympavzi in Europe",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4591976-pfizer-wins-hympavzi-label-expansion-europe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:48:59+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Spectrum Brands (SPB): The Best Small Cap US Stock to Buy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/spectrum-brands-spb-best-small-114707558.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:47:07+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Deutsche Bank Raises its Price Target on Adient (ADNT) to $31 from $30",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/deutsche-bank-raises-price-target-114700027.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:47:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi Initiates Coverage of Innovex International (INVX) with a Buy Rating",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/citi-initiates-coverage-innovex-international-114653953.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:46:53+00:00"
     },
     {
       "type": "news",
@@ -46,6 +217,42 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4591960-black-rock-coffee-bar-pours-out-strong-sales-in-q1-eyes-new-markets-for-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-13T11:44:02+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Nvidia vs. AMD: The Better AI Chip Stock for 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76460272764b423ea41a70c120570dfe12d7aeffe6b81555f9e7aa50fa889bd8",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:43:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia vs. AMD: The Better AI Chip Stock for 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76460272764b423ea41a70c120570dfe12d7aeffe6b81555f9e7aa50fa889bd8",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:43:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "AI chip stocks surge again as Nvidia\u2019s Huang joins Trump on visit to China",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cf1711eb0d7e34d333ef9c09000d7035e3a3ca4f311db5b96591435bc9fb377",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:42:49+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "AI chip stocks surge again as Nvidia\u2019s Huang joins Trump on visit to China",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cf1711eb0d7e34d333ef9c09000d7035e3a3ca4f311db5b96591435bc9fb377",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:42:49+00:00"
     },
     {
       "type": "news",
@@ -66,15 +273,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-13T11:41:20+00:00"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "RWE AG reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591962-rwe-ag-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:41:17+00:00"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Dimon"
@@ -88,39 +286,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Rent the Runway co-founder Jennifer Hyman to step down as CEO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591956-rent-the-runway-co-founder-jennifer-hyman-to-step-down-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:39:57+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PolyPid GAAP EPS of -$0.35 beats by $0.08",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591961-polypid-gaap-eps-of--035-beats-by-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:38:53+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BrainsWay GAAP EPS of $0.06 beats by $0.01, revenue of $15.53M beats by $0.91M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591958-brainsway-gaap-eps-of-0_06-beats-by-0_01-revenue-of-15_53m-beats-by-0_91m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:36:27+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palatin Technologies GAAP EPS of -$0.37, revenue of $3.9M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591952-palatin-technologies-gaap-eps-of--037-revenue-of-39m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:34:59+00:00"
+      "ticker": "AMD",
+      "headline": "Latest News In AI Chips - Vapi Advances Voice AI With $50 Million Series B",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58a8cc6d87d688eb7befc47568dd25ab6e10aaedbacbe00a083a51cb08bd7804",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:37:47+00:00"
     },
     {
       "type": "news",
@@ -143,15 +314,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Just Called Caterpillar a Buy on Oil, Infrastructure, and AI Data-Center Power Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/jim-cramer-just-called-caterpillar-112818755.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:28:18+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Tui sees summer sales fall 10% due to cautious UK customers",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/ce8p31ngv90o?at_medium=RSS&at_campaign=rss",
@@ -160,75 +322,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Milestone Pharmaceuticals stock tumbles 16% on revenue miss",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/milestone-pharmaceuticals-stock-tumbles-16-on-revenue-miss-93CH-4684118",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:26:29+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tower Semiconductor earnings beat by $0.10, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/tower-semiconductor-earnings-beat-by-010-revenue-topped-estimates-4684117",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:26:20+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Pharming Group Q1 2026 revenue declines amid RUCONEST challenges",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-pharming-group-q1-2026-revenue-declines-amid-ruconest-challenges-93CH-4684116",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:26:17+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SimilarWeb earnings missed by $0.01, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/similarweb-earnings-missed-by-001-revenue-topped-estimates-4684115",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:26:15+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Humacyte earnings beat by $0.03, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/humacyte-earnings-beat-by-003-revenue-fell-short-of-estimates-4684113",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:26:02+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Xtant Medical earnings missed by $0.01, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/xtant-medical-earnings-missed-by-001-revenue-fell-short-of-estimates-4684102",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:25:50+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:25:35+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Truly Unique AI Powerhouse Etches Buy Zone. Now Comes This Test.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/asml-stock-taiwan-semi-intel-samsung-euv-lithography/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:25:34+00:00"
+      "ticker": "IWM",
+      "headline": "Market Breadth Remains Positive, But Participation Cools",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=176229da40cea0bb3cefb18de026c68050c45384ee281b36ab6ec0c315c48816",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T11:25:54+00:00"
     },
     {
       "type": "mover_statement",
@@ -245,65 +344,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Melius says exploration underspend due for reversal amid geopolitics",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/melius-says-exploration-underspend-due-for-reversal-amid-geopolitics-93CH-4684101",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:24:49+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin and ethereum prices today, Wednesday, May 13, 2026: Prices holding as China summit kicks off",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-13-2026-prices-holding-as-china-summit-kicks-off-112415535.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:24:15+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gilat Satellite Networks stock falls over 6% on revenue miss despite earnings beat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/gilat-satellite-networks-stock-falls-over-6-on-revenue-miss-despite-earnings-beat-93CH-4684099",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:23:59+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nebius Revenue Booms On AI Computer Infrastructure Spending",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/nebius-stock-nbis-nebius-earnings-q12026/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:23:55+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s the silver lining for stocks and 5% Treasury yields",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T11:22:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why inTEST (INTT) Is a Semiconductor Equipment Recovery Play",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/why-intest-intt-semiconductor-equipment-112137296.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:21:37+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A retiree says he'd have millions if he invested his Social Security in the S&P 500 \u2014 here's what he's missing",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/retiree-says-hed-millions-invested-112000047.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:20:00+00:00"
     },
     {
       "type": "news",
@@ -322,6 +367,15 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T11:15:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analyst Report: Equinix Inc",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_2944_AnalystReport_1778670556000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:09:16+00:00"
     },
     {
       "type": "news",
@@ -386,66 +440,21 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "GEV",
+      "headline": "Best Nuclear Energy Stock to Buy Right Now: GE Vernova vs. BWX Technologies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd979be52537a61d1a8b609fdafdf02894645bdc4822baa73f363dc965da6ae2",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T10:05:00+00:00"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
       "is_watchlist": false,
       "timestamp": "2026-05-13T10:00:01+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Stock Market Today: Dow Jones Futures Fall, S&P 500 Gains As Trump Takes Big Tech Leaders To China\u2014Nvidia, Nextpower, Red Cat In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51071c4eb65bf7dcd6911a28239e16273bf62a30ff1994b4adb870ddd0698d12",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T09:42:09+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Meet the AI Stock Crushing Palantir, Nvidia, and Alphabet Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95fe0f29da9977fe9dbea9fa8e0e06ed8b954f98ac81169588f1f511d983d421",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T09:42:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Meet the AI Stock Crushing Palantir, Nvidia, and Alphabet Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95fe0f29da9977fe9dbea9fa8e0e06ed8b954f98ac81169588f1f511d983d421",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T09:42:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Dell Shares Tank After UBS Warns AI Boom May Already Be Priced In",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63c0cec1715e38001efe6f44f12352936b9791a9983554abedcd647be7756d3c",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T09:41:27+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Dell Shares Tank After UBS Warns AI Boom May Already Be Priced In",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63c0cec1715e38001efe6f44f12352936b9791a9983554abedcd647be7756d3c",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T09:41:27+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Qualcomm, Micron Lead Brutal Chip Selloff -- Nvidia Holds Strong",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0aad5c58ad234c639c22e5efe429b71ad6ca5165153a84b9d29523cf7958610a",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T09:40:36+00:00"
     },
     {
       "type": "news",
@@ -494,6 +503,15 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=ff06bb53439858424976075d2e700dd9292dc8502e79306c1e6b761543c13edb",
       "is_watchlist": true,
       "timestamp": "2026-05-13T08:41:24+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Shiller P/E Hits Dot-Com Bubble Levels: Warning Or Noise?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25c6480fb3f60f6b6ac22b0dc235d309872ed3d839f0c7b882df82f115931437",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T07:44:09+00:00"
     },
     {
       "type": "news",
@@ -548,15 +566,6 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXFrZ2t6dDRlOGFiVC16WGtjN0Voal8tZlg5NWVFTlJpV3M5OXUxMjV1Z3lCc0ZxUVRUZVZKSElObVpadGYyejFvNmVxUXZqUW93TU51VXJEV0tnUm56dXg5V0pwRnVfbjFDVnhwZ3lWTGE2OWVEcUF6YVE1bjJ4OW4tX0lTaVBhVlc2MjBuX1AyUGJkTFZ2aktGd3F5Y2MtVGlIMG10V25BQQ?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-05-13T06:52:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "April CPI Report: Fed Easing Is Becoming Increasingly Unlikely In 2026",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=655052bfb1f4f933db8975de6d1fc6c4c143cb5e667db741c82323f4daed7014",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T06:00:00+00:00"
     },
     {
       "type": "news",
@@ -641,15 +650,6 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WQ2g4TE51V0FmWDBZOFVjQVhDbVphVXVWQzVmV1RLY01taHBramJiaVNPTUdHZVZTQWtwWExtM2NUSW9fVkVLN2p4UzRMWUNla01KWnNYQVdLR3hlMUhxWlZqZEhQQnIxaThhVXQxNk44Sks1VXZHSkhEVQ?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-05-13T01:27:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "CPI Inflation Blows Past Fed Rates As Core Services, Gasoline, Electricity, And Food Spike; Fed's 'Real' Rates Are Now Negative",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d855f5140cfb7acc959bfc9b864978db620fdda8035d654271b3a1eea4420fe8",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T01:15:00+00:00"
     },
     {
       "type": "news",
@@ -1018,6 +1018,15 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Earnings live updates: Birkenstock shares sink on earnings miss, Alibaba stock falls",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-birkenstock-shares-sink-on-earnings-miss-alibaba-stock-falls-103000470.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-11T10:30:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Top Wall Street analysts recommend these 3 dividend stocks for stable income",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/05/10/top-wall-street-analysts-recommend-these-stocks-for-stable-income.html",
@@ -1117,15 +1126,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "PWR",
-      "headline": "Shares of aerospace and defense companies are trading lower amid overall market weakness, as investors react to reports that air defenses were activated in Tehran and to President Trump's social media post. The industry may be weighed down by Lockheed Martin's Q1 earnings miss.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3f143d59f114ee5d91fa4db23975e72e7b04529d85fee0e124049b5febfbd049",
-      "is_watchlist": true,
-      "timestamp": "2026-04-23T15:55:18+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
       "headline": "Shares of aerospace and defense companies are trading lower amid overall market weakness, as investors react to reports that air defenses were activated in Tehran and to President Trump's social media post. The industry may be weighed down by Lockheed Martin's Q1 earnings miss.",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=3f143d59f114ee5d91fa4db23975e72e7b04529d85fee0e124049b5febfbd049",

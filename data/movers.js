@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-13T11:47:20.081720+00:00",
+  "generated_at": "2026-05-13T12:02:31.134307+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -87,7 +87,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"Stock Market Today: Dow Jones Futures Fall, S&P 500 Gains As Trump Takes Big Tech Leaders ...\""
+      "move_reason": "News: \"This $13 Nvidia-Backed Artificial Intelligence (AI) Stock Just Partnered with Anduril. Her...\""
     },
     {
       "ticker": "XLC",
@@ -166,7 +166,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"Meet the AI Stock Crushing Palantir, Nvidia, and Alphabet Right Now\""
+      "move_reason": "News: \"Nvidia vs. AMD: The Better AI Chip Stock for 2026\""
     },
     {
       "ticker": "PWR",
@@ -221,7 +221,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
-      "move_reason": "News: \"South Korea Vs. U.S.: Who Wins The AI Trade?\""
+      "move_reason": "News: \"Market Breadth Remains Positive, But Participation Cools\""
     },
     {
       "ticker": "XLY",
@@ -298,7 +298,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"GE Vernova, ENKA launch 852MW K\u0131rklareli plant in T\u00fcrkiye\""
+      "move_reason": "News: \"Best Nuclear Energy Stock to Buy Right Now: GE Vernova vs. BWX Technologies\""
     }
   ],
   "watchlist": [
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"Meet the AI Stock Crushing Palantir, Nvidia, and Alphabet Right Now\""
+      "move_reason": "News: \"Nvidia vs. AMD: The Better AI Chip Stock for 2026\""
     },
     {
       "ticker": "APA",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"GE Vernova, ENKA launch 852MW K\u0131rklareli plant in T\u00fcrkiye\""
+      "move_reason": "News: \"Best Nuclear Energy Stock to Buy Right Now: GE Vernova vs. BWX Technologies\""
     },
     {
       "ticker": "IWM",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
-      "move_reason": "News: \"South Korea Vs. U.S.: Who Wins The AI Trade?\""
+      "move_reason": "News: \"Market Breadth Remains Positive, But Participation Cools\""
     },
     {
       "ticker": "NBIS",
@@ -388,7 +388,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"Stock Market Today: Dow Jones Futures Fall, S&P 500 Gains As Trump Takes Big Tech Leaders ...\""
+      "move_reason": "News: \"This $13 Nvidia-Backed Artificial Intelligence (AI) Stock Just Partnered with Anduril. Her...\""
     },
     {
       "ticker": "OSCR",
