@@ -809,11 +809,28 @@ def save_notifications_state(state: dict) -> None:
     p.write_text(json.dumps(state, indent=2))
 
 
-def notify_pushover(title: str, message: str, url_anchor: str | None = None) -> bool:
+def notify_pushover(title: str, message: str, url_anchor: str | None = None,
+                    priority: int = 0) -> bool:
+    """Send a Pushover notification.
+
+    priority:
+      +1 = high — louder alert, bypasses iPhone Do Not Disturb. Use for tactical
+           BUY signals and all SELL signals — anything where minutes matter.
+       0 = normal — standard push. Use for strategic/long-term BUYs, falsification
+           WATCH alerts, and imminent earnings.
+      -1 = quiet — no sound or vibration, appears in notification tray only.
+           Use for big-move FYIs and material filings (awareness, not action).
+      -2 = silent in app only (rarely used).
+    """
     user = os.getenv('PUSHOVER_USER_KEY')
     token = os.getenv('PUSHOVER_APP_TOKEN')
     if not user or not token:
         return False
+    # Clamp to Pushover's allowed range; we don't use +2 (which requires retry+expire).
+    if priority > 1:
+        priority = 1
+    if priority < -2:
+        priority = -2
     payload = {
         'token': token,
         'user': user,
@@ -821,6 +838,7 @@ def notify_pushover(title: str, message: str, url_anchor: str | None = None) -> 
         'message': message[:1024],
         'url': f"{BRIEF_URL}{url_anchor}" if url_anchor else BRIEF_URL,
         'url_title': 'Open in The Brief',
+        'priority': priority,
     }
     try:
         r = requests.post(PUSHOVER_URL, data=payload, timeout=10)
@@ -906,13 +924,27 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
         if key in sent:
             continue
         horizon_lbl = horizon_category(p.get('horizon_weeks'))
-        title = f"BUY signal: {p['ticker']} ({horizon_lbl})"
-        msg = (
-            f"Entry ${p.get('entry_price')} · target {p['target_pct']:+g}% · "
-            f"stop {p['stop_pct']:+g}% · {p['horizon_weeks']}w horizon.\n\n"
-            f"{p.get('thesis', '')[:260]}"
-        )
-        if notify_pushover(title, msg, '#picks'):
+        pick_type = (p.get('pick_type') or '').lower()
+        # Tactical buys are time-critical; long-term holds aren't. Strategic in between.
+        priority = 1 if pick_type == 'tactical' else 0
+        prefix = 'HOLD' if pick_type == 'long-term' else 'BUY'
+        title = f"{prefix} signal: {p['ticker']} ({horizon_lbl})"
+        target = p.get('target_pct')
+        stop = p.get('stop_pct')
+        horizon_weeks = p.get('horizon_weeks')
+        if target is None or stop is None or horizon_weeks is None:
+            # Long-term HOLDs have no fixed target/stop/horizon
+            msg = (
+                f"Entry ${p.get('entry_price')} · long-term hold (no target, no stop).\n\n"
+                f"{p.get('thesis', '')[:280]}"
+            )
+        else:
+            msg = (
+                f"Entry ${p.get('entry_price')} · target {target:+g}% · "
+                f"stop {stop:+g}% · {horizon_weeks}w horizon.\n\n"
+                f"{p.get('thesis', '')[:260]}"
+            )
+        if notify_pushover(title, msg, '#picks', priority=priority):
             sent.add(key)
             delivered += 1
 
@@ -932,7 +964,8 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
             f"({p.get('closed_reason', '')}).\n"
             f"Entry ${p.get('entry_price')}, exit ${p.get('closed_price')}."
         )
-        if notify_pushover(title, msg, '#picks'):
+        # Exits are always time-critical — slippage costs you most on the way out.
+        if notify_pushover(title, msg, '#picks', priority=1):
             sent.add(key)
             delivered += 1
 
@@ -949,7 +982,8 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
                 f"Source: {n.get('source')}. Matched: {', '.join(match['matched'])}.\n"
                 f"Falsification: {(p.get('falsification') or '')[:200]}"
             )
-            if notify_pushover(title, msg, '#picks'):
+            # Normal priority — important read, but not auto-action.
+            if notify_pushover(title, msg, '#picks', priority=0):
                 sent.add(key)
                 delivered += 1
 
@@ -964,7 +998,8 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
         direction = 'up' if m['change_pct'] > 0 else 'down'
         title = f"{m['ticker']} {direction} {abs(m['change_pct']):.1f}%"
         msg = f"{m.get('name', m['ticker'])} at ${m.get('price')} today. Read the live feed for context."
-        if notify_pushover(title, msg, '#live'):
+        # FYI only — silent push so it doesn't interrupt.
+        if notify_pushover(title, msg, '#live', priority=-1):
             sent.add(key)
             delivered += 1
 
@@ -976,7 +1011,8 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
             continue
         title = f"{f['ticker']} filed {f.get('form')}"
         msg = f"Material event filing on {f.get('date')}. View the document via the live feed."
-        if notify_pushover(title, msg, '#live'):
+        # Awareness only — silent.
+        if notify_pushover(title, msg, '#live', priority=-1):
             sent.add(key)
             delivered += 1
 
@@ -997,7 +1033,8 @@ def dispatch_notifications(notif_state: dict, movers: list[dict], filings: list[
         when_label = {'bmo': 'before market open', 'amc': 'after market close'}.get(hour, hour)
         title = f"{e['ticker']} reports {edate}"
         msg = f"{e['ticker']} earnings {edate} {when_label}. Open positions and watchlist affected."
-        if notify_pushover(title, msg, '#weekly'):
+        # Normal priority — you may want to position before the print.
+        if notify_pushover(title, msg, '#weekly', priority=0):
             sent.add(key)
             delivered += 1
 
