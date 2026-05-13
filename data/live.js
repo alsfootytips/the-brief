@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-13T12:16:59.482961+00:00",
+  "generated_at": "2026-05-13T12:28:05.522569+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,7 +18,7 @@ window.theBriefLive = {
       "change_pct": 7.86,
       "price": 23.73,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T12:16:59.481830+00:00"
+      "timestamp": "2026-05-13T12:28:05.521374+00:00"
     },
     {
       "type": "mover",
@@ -27,7 +27,7 @@ window.theBriefLive = {
       "change_pct": -3.76,
       "price": 179.11,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T12:16:59.481825+00:00"
+      "timestamp": "2026-05-13T12:28:05.521369+00:00"
     },
     {
       "type": "mover",
@@ -36,25 +36,97 @@ window.theBriefLive = {
       "change_pct": -6.06,
       "price": 107.75,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T12:16:59.481810+00:00"
+      "timestamp": "2026-05-13T12:28:05.521355+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Birkenstock shares pinned down by profit miss, soft FY26 guidance",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591957-bikrkenstock-shares-pinned-down-by-profit-miss-soft-fy26-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Analysis: Iran war hangs over Trump's China trip \u2014 and his presidency",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/12/trump-china-iran-war-xi-jinping-analysis.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T12:12:04+00:00"
+      "timestamp": "2026-05-13T12:26:25+00:00"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Two Harbors' board rejects UWM Holdings' sweetened proposal",
+      "headline": "Anteris Technologies Global Corp. reports Q1 results",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4591955-two-harbors-board-rejects-uwm-holdings-sweetened-proposal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4592017-anteris-technologies-global-corp-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T12:11:45+00:00"
+      "timestamp": "2026-05-13T12:21:54+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Century Therapeutics GAAP EPS of -$0.11 beats by $0.06",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592016-century-therapeutics-gaap-eps-of-0_11-beats-by-0_06?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:21:37+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Disney highlights its dominant position in football at Upfront",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592011-disney-highlights-its-dominant-position-in-football-at-upfront?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:20:59+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PagSeguro reports Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592014-pagseguro-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:20:38+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Palvella Therapeutics approved for transfer to Nasdaq Global Market",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592008-palvella-therapeutics-approved-for-transfer-to-nasdaq-global-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:20:21+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paladin Energy Ltd reports Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592013-paladin-energy-ltd-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:18:20+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Galaxy Digital stands out among financial stocks with A+ momentum and valuation grades",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592005-galaxy-digital-stands-out-among-financial-stocks-with-a-momentum-and-valuation-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:18:14+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visa Flexible Credential debuts on Zilch cards in UK rollout",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/visa-flexible-credential-debuts-zilch-121515028.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:15:15+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil price spike turmoil far from over, IEA says as inventories are depleted at \u201crecord pace\"",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/oil-price-spike-turmoil-iea-iran-war.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:12:32+00:00"
     },
     {
       "type": "news",
@@ -68,137 +140,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "FRNT launches strategic review to explore sale, uplisting, and other options",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592004-frnt-launches-strategic-review-to-explore-sale-uplisting-and-other-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:09:24+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WonderFi Technologies Inc. reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592007-wonderfi-technologies-inc-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:09:17+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brazil contests EU planned suspension on \u201canimal\u201d product imports",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/brazil-contests-eu-planned-suspension-120901447.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:09:01+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold Springs Resource Corp. reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592006-gold-springs-resource-corp-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:08:25+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tower Semi forecasts upbeat quarterly revenue, signs $1.3 billion in AI chip deals",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/tower-semi-forecasts-upbeat-quarterly-revenue-signs-13-billion-in-ai-chip-deals-4684382",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:06:40+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
       "timestamp": "2026-05-13T12:05:44+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wayfair plans $400 million senior secured notes offering",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/wayfair-plans-400-million-senior-secured-notes-offering-93CH-4684377",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:21+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TTEC Digital signs collaboration agreement with AWS",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ttec-digital-signs-collaboration-agreement-with-aws-93CH-4684376",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:20+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ARS Pharmaceuticals appoints Donn Casale as president",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ars-pharmaceuticals-appoints-donn-casale-as-president-93CH-4684375",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:17+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Silexion begins clinical manufacturing of SIL204 for phase 2/3 trial",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/silexion-begins-clinical-manufacturing-of-sil204-for-phase-23-trial-93CH-4684374",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:15+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Swarmer, Inc GAAP EPS of -$0.28 misses by $0.17",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592002-swarmer-inc-gaap-eps-of-0_28-misses-by-0_17?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:15+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Diginex names Archana Kotecha as chief impact officer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/diginex-names-archana-kotecha-as-chief-impact-officer-93CH-4684373",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:13+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Enphase opens pre-orders for 548 VA commercial microinverter",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/enphase-opens-preorders-for-548-va-commercial-microinverter-93CH-4684372",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:11+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zydus to acquire Assertio Holdings for $23.50 per share",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/zydus-to-acquire-assertio-holdings-for-2350-per-share-93CH-4684371",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:05:11+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BYD Company gets even more aggressive with Europe plans",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592000-byd-company-gets-even-more-aggressive-with-europe-plans?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T12:01:25+00:00"
     },
     {
       "type": "news",
@@ -226,6 +172,78 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/news/aoc-claims-extreme-wealth-america-120000902.html",
       "is_watchlist": false,
       "timestamp": "2026-05-13T12:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump\u2019s designs on Greenland prod investment, tourism likely to pay off faster than mines",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trumps-designs-on-greenland-prod-investment-tourism-likely-to-pay-off-faster-than-mines-4684273",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:55:02+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argus cuts Constellation Energy stock price target on valuation",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-cuts-constellation-energy-stock-price-target-on-valuation-93CH-4684298",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:57+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argus raises New York Times stock price target to $88 on digital growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-raises-new-york-times-stock-price-target-to-88-on-digital-growth-93CH-4684297",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:50+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argus raises First Solar stock price target to $275 on trade position",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/argus-raises-first-solar-stock-price-target-to-275-on-trade-position-93CH-4684296",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:46+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart cuts 1,000 roles to simplify operations, source says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/walmart-lays-off-or-relocates-about-1000-corporate-workers-wsj-reports-4682898",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:45+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 13D/A Rent the Runway For: 13 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-13da-rent-the-runway-for-13-may-93CH-4684295",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:54:32+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: U.S. Energy Corp Q1 2026 misses EPS, stock dips",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-us-energy-corp-q1-2026-misses-eps-stock-dips-93CH-4684289",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:53:27+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Takeda\u2019s Q4 2025 performance highlights resilience",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-takedas-q4-2025-performance-highlights-resilience-93CH-4684288",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T11:52:36+00:00"
     },
     {
       "type": "news",
@@ -271,15 +289,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6cf1711eb0d7e34d333ef9c09000d7035e3a3ca4f311db5b96591435bc9fb377",
       "is_watchlist": true,
       "timestamp": "2026-05-13T11:42:49+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Bond markets on edge' as King Charles sets out fragile UK government's agenda",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/gilts-sterling-starmer-king-charles-uk.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T11:41:30+00:00"
     },
     {
       "type": "mover_statement",
@@ -380,9 +389,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analyst Report: Equinix Inc",
+      "headline": "Analyst Report: Dow Inc",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2944_AnalystReport_1778670556000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_4899_AnalystReport_1778670556000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "is_watchlist": false,
       "timestamp": "2026-05-13T11:09:16+00:00"
     },
@@ -507,6 +516,15 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NBIS",
+      "headline": "Nebius Group continues to expect 800MW-1GW of connected power by year-end",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c8a2a1c837ed0a5a5f9d3177e3a9441ab3896fd89d358ee333c3c62358633268",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T08:17:36+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
       "headline": "Nebius reports higher quarterly capex on AI cloud expansion",
       "source": "Finnhub",
       "url": "https://finnhub.io/api/news?id=10c3fe300093431b4440e72fca71ebe1e888996eb39200122fd1d6c11e87581a",
@@ -530,15 +548,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=f1cdcc04b564b9ebec3418ebe054e0c4f4e87cfc668f081182b85152912cb4ad",
       "is_watchlist": true,
       "timestamp": "2026-05-13T07:19:08+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius : Earnings release (Financial results Q1 2026)",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=0277afb5d18b90ad384625091d89b308f2253dee12b88ea5c242ae2ce198e323",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T07:12:21+00:00"
     },
     {
       "type": "news",
@@ -714,15 +723,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/05/12/nx-s1-5812725/farmers-want-firm-trade-deal-from-trumps-china-visit",
       "is_watchlist": false,
       "timestamp": "2026-05-12T21:32:05+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marty Makary resigns as FDA commissioner following industry and White House backlash",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/12/trump-fda-commissioner-marty-makary-out.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T20:04:29+00:00"
     },
     {
       "type": "news",
