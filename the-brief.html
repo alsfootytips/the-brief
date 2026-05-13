@@ -1067,6 +1067,55 @@ p.lede {
   color: var(--confidence-medium);
 }
 
+.advised-stocks {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px dotted rgba(184, 134, 43, 0.4);
+}
+
+.advised-stocks-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--confidence-medium);
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.advised-stock {
+  padding: 8px 0;
+  border-bottom: 1px dotted rgba(184, 134, 43, 0.25);
+}
+
+.advised-stock:last-child { border-bottom: none; }
+
+.advised-stock-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.advised-direction {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.advised-direction.up { color: var(--green); }
+.advised-direction.down { color: var(--accent); }
+.advised-direction.flat { color: var(--ink-muted); }
+
+.advised-why {
+  font-family: 'Fraunces', serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
 .live-event-header {
   display: flex;
   align-items: center;
@@ -2396,6 +2445,25 @@ function renderEvent(e) {
     const linked = e.url
       ? `<a href="${escapeHtml(e.url)}" target="_blank" rel="noopener">${headline}</a>`
       : headline;
+
+    const stocks = e.affected_stocks || [];
+    const stocksSection = stocks.length ? `
+      <div class="advised-stocks">
+        <div class="advised-stocks-label">Stocks to look at</div>
+        ${stocks.map(s => {
+          const dirClass = s.direction === 'positive' ? 'up' : (s.direction === 'negative' ? 'down' : 'flat');
+          const dirArrow = s.direction === 'positive' ? '↑' : (s.direction === 'negative' ? '↓' : '↔');
+          return `
+            <div class="advised-stock">
+              <div class="advised-stock-head">
+                ${starHtml(s.ticker)}<span class="ticker" data-ticker="${escapeHtml(s.ticker)}">${escapeHtml(s.ticker)}</span>
+                <span class="advised-direction ${dirClass}" title="${escapeHtml(s.direction)}">${dirArrow}</span>
+              </div>
+              <div class="advised-why">${escapeHtml(s.why)}</div>
+            </div>`;
+        }).join('')}
+      </div>` : '';
+
     return `
       <div class="${cls} mover-statement">
         <div class="live-event-header">
@@ -2403,6 +2471,7 @@ function renderEvent(e) {
           <div class="live-event-date">${escapeHtml(fmtEventTime(e.timestamp))}</div>
         </div>
         <div class="live-event-body">${linked}</div>
+        ${stocksSection}
       </div>`;
   }
 

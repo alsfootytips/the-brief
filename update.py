@@ -1578,6 +1578,86 @@ def generate_weekly_picks(movers: list[dict], news: list[dict], filings: list[di
     return validated
 
 
+ADVISED_PICKS_SYSTEM_PROMPT = """You are identifying stocks that are most plausibly affected by significant market-moving events for "The Brief"'s news-driven advisory.
+
+For each event provided, identify 2-3 stocks worth looking at. For each stock, briefly explain WHY this event affects it. Keep explanations to one short sentence.
+
+CRITICAL RULES:
+- Never say "buy" or "sell". Use "worth looking at", "could benefit", "could be pressured", "may be re-rated".
+- Frame as research starting points, not recommendations.
+- Don't pad. If only 1 stock is clearly affected, return 1. If the event has no clear stock connections, return an empty affected_stocks array.
+- Prefer well-known liquid tickers when possible (S&P 500 names, major ETFs).
+- For sector-wide events, suggesting a sector ETF (XLE, XLF, XLK, XLV, etc.) is fine.
+
+OUTPUT JSON only, no markdown fence, no commentary:
+{
+  "events": [
+    {
+      "event_index": 0,
+      "affected_stocks": [
+        {
+          "ticker": "NVDA",
+          "direction": "positive",
+          "why": "Single-sentence explanation."
+        }
+      ]
+    }
+  ]
+}
+
+direction must be exactly one of: "positive", "negative", "mixed".
+"""
+
+
+def enrich_events_with_advised_picks(events: list[dict]) -> list[dict]:
+    key = os.getenv('ANTHROPIC_API_KEY')
+    if not key or not Anthropic:
+        return events
+
+    indexed_statements = [(i, e) for i, e in enumerate(events) if e.get('type') == 'mover_statement']
+    if not indexed_statements:
+        return events
+
+    indexed_statements = indexed_statements[:10]
+
+    prompt_lines = ["Identify the stocks most plausibly affected by each event below. Use the event_index in your response.\n"]
+    for idx, (_, e) in enumerate(indexed_statements):
+        movers = ', '.join(e.get('movers') or []) or '(unspecified)'
+        prompt_lines.append(
+            f"Event {idx} (movers: {movers}): \"{(e.get('headline') or '')[:240]}\""
+            f" — source: {e.get('source') or 'unknown'}"
+        )
+    user_prompt = "\n".join(prompt_lines)
+
+    result = _claude_json_call(
+        ADVISED_PICKS_SYSTEM_PROMPT,
+        user_prompt,
+        max_tokens=2500,
+        label='advised-picks',
+    )
+    if not result or not isinstance(result.get('events'), list):
+        return events
+
+    for response_event in result['events']:
+        idx = response_event.get('event_index')
+        if not isinstance(idx, int) or idx >= len(indexed_statements):
+            continue
+        original_index, _ = indexed_statements[idx]
+        stocks = response_event.get('affected_stocks') or []
+        cleaned = []
+        for s in stocks:
+            ticker = (s.get('ticker') or '').strip().upper()
+            direction = (s.get('direction') or '').strip().lower()
+            why = (s.get('why') or '').strip()
+            if not ticker or direction not in ('positive', 'negative', 'mixed') or not why:
+                continue
+            cleaned.append({'ticker': ticker, 'direction': direction, 'why': why})
+        if cleaned:
+            events[original_index]['affected_stocks'] = cleaned[:3]
+
+    return events
+
+
 def find_current_issue_number() -> int | None:
     issues_dir = ROOT / 'issues'
     if not issues_dir.exists():
@@ -2069,6 +2149,8 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
         })
 
     events.sort(key=lambda x: (x.get('timestamp') or '', bool(x.get('is_watchlist'))), reverse=True)
+
+    events = enrich_events_with_advised_picks(events)
 
     payload = {
         'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(),
