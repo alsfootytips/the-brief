@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-13T12:50:31.109036+00:00",
+  "generated_at": "2026-05-13T13:12:46.759640+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -144,7 +144,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"Tracking Cathie Wood's ARK Invest 13F Portfolio - Q1 2026 Update\""
+      "move_reason": "News: \"IREN: Microsoft And Nvidia Aren't Enough To Outrun The Dilution Math\""
     },
     {
       "ticker": "NBIS",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": "News: \"Tracking Cathie Wood's ARK Invest 13F Portfolio - Q1 2026 Update\""
+      "move_reason": "News: \"IREN: Microsoft And Nvidia Aren't Enough To Outrun The Dilution Math\""
     },
     {
       "ticker": "DG",
@@ -613,30 +613,60 @@ window.theBriefMovers = {
   ],
   "watchlist_radar": [
     {
+      "ticker": "CRWV",
+      "name": "CoreWeave",
+      "price": 107.75,
+      "change_pct": -6.06,
+      "score": 10.0,
+      "signals": [
+        "Moved -6.06% today",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "10 insider sells vs 0 buys (last 90 days)",
+        "-41.3% from 52-week high"
+      ],
+      "reasons": [
+        "Moved -6.06% today",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "10 insider sells vs 0 buys (last 90 days)",
+        "-41.3% from 52-week high"
+      ],
+      "tags": [
+        "big-move",
+        "news-flow",
+        "filing",
+        "insider-selling",
+        "off-highs"
+      ],
+      "narrative": "<strong>CRWV</strong> made a statistically significant decline (-6.06%) on the same week as a new SEC filing \u2014 likely material event.",
+      "sector_etf": "XLK"
+    },
+    {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 23.73,
       "change_pct": 7.86,
-      "score": 8.5,
+      "score": 10.0,
       "signals": [
-        "Moved +7.86% \u2014 a 2.1\u03c3 move vs typical 3.7% daily vol",
+        "Moved +7.86% today",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "+3 analyst buy recs added recently"
       ],
       "reasons": [
-        "Moved +7.86% \u2014 a 2.1\u03c3 move vs typical 3.7% daily vol",
+        "Moved +7.86% today",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "+3 analyst buy recs added recently"
       ],
       "tags": [
-        "moderate-move",
+        "big-move",
         "filing",
         "insider-buying",
         "analyst-upgrade"
       ],
-      "narrative": "<strong>OSCR</strong> has notable insider conviction in the last 90 days.",
+      "narrative": "<strong>OSCR</strong> made a statistically significant rally (+7.86%) on the same week as a new SEC filing \u2014 likely material event.",
       "sector_etf": "XLV"
     },
     {
@@ -697,32 +727,30 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 107.75,
-      "change_pct": -6.06,
-      "score": 7.0,
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 179.11,
+      "change_pct": -3.76,
+      "score": 7.5,
       "signals": [
-        "Moved -6.06% \u2014 a 1.1\u03c3 move",
+        "Moved -3.76% today",
         "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "8 insider sells vs 2 buys (last 90 days)",
-        "-41.3% from 52-week high"
+        "Earnings within 7 days",
+        "10 insider sells vs 0 buys (last 90 days)"
       ],
       "reasons": [
-        "Moved -6.06% \u2014 a 1.1\u03c3 move",
+        "Moved -3.76% today",
         "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "8 insider sells vs 2 buys (last 90 days)",
-        "-41.3% from 52-week high"
+        "Earnings within 7 days",
+        "10 insider sells vs 0 buys (last 90 days)"
       ],
       "tags": [
+        "moderate-move",
         "news-flow",
-        "filing",
-        "insider-selling",
-        "off-highs"
+        "earnings-soon",
+        "insider-selling"
       ],
-      "narrative": "<strong>CRWV</strong> just filed material disclosures with the SEC.",
+      "narrative": "<strong>NBIS</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
       "sector_etf": "XLK"
     },
     {
@@ -753,30 +781,6 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "price": 179.11,
-      "change_pct": -3.76,
-      "score": 5.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "Earnings within 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "Earnings within 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "earnings-soon",
-        "insider-selling"
-      ],
-      "narrative": "<strong>NBIS</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "price": 401.39,
@@ -799,6 +803,54 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 56.27,
+      "change_pct": 2.05,
+      "score": 5.5,
+      "signals": [
+        "Moved +2.05% today",
+        "3 news items in the last 3 days",
+        "7 insider buys vs 3 sells (last 90 days)"
+      ],
+      "reasons": [
+        "Moved +2.05% today",
+        "3 news items in the last 3 days",
+        "7 insider buys vs 3 sells (last 90 days)"
+      ],
+      "tags": [
+        "moderate-move",
+        "news-flow",
+        "insider-buying"
+      ],
+      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 448.29,
+      "change_pct": -2.29,
+      "score": 4.5,
+      "signals": [
+        "Moved -2.29% today",
+        "3 news items in the last 3 days",
+        "7 insider sells vs 3 buys (last 90 days)"
+      ],
+      "reasons": [
+        "Moved -2.29% today",
+        "3 news items in the last 3 days",
+        "7 insider sells vs 3 buys (last 90 days)"
+      ],
+      "tags": [
+        "moderate-move",
+        "news-flow",
+        "insider-selling"
+      ],
+      "narrative": "<strong>AMD</strong> is accumulating signals worth tracking.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "DG",
@@ -826,27 +878,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>DG</strong> has been beaten down hard and now trades at a low valuation \u2014 value setup.",
       "sector_etf": "XLP"
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 56.27,
-      "change_pct": 2.05,
-      "score": 3.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [

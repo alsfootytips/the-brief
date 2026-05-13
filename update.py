@@ -1582,6 +1582,15 @@ ADVISED_PICKS_SYSTEM_PROMPT = """You are identifying stocks that are most plausi
 
 For each event provided, identify 2-3 stocks worth looking at. For each stock, briefly explain WHY this event affects it. Keep explanations to one short sentence.
 
+For each suggested stock you MUST also rate conviction 1-5:
+- 5 = High conviction. Event has clear, direct, near-term causal impact on this specific stock. Magnitude is meaningful (>5% potential move). Effect plays out within weeks.
+- 4 = Strong setup. Direct beneficiary or victim, but with some uncertainty about magnitude or timing.
+- 3 = Plausible. Logical connection but indirect, or one of many similarly-affected names.
+- 2 = Weak. Tangential connection; would only matter if broader regime shifts.
+- 1 = Speculative. Very loose causal chain.
+
+Be honest — most stocks should score 2-3. Reserve 4-5 for setups where the event is genuinely the dominant near-term factor.
+
 CRITICAL RULES:
 - Never say "buy" or "sell". Use "worth looking at", "could benefit", "could be pressured", "may be re-rated".
 - Frame as research starting points, not recommendations.
@@ -1598,6 +1607,7 @@ OUTPUT JSON only, no markdown fence, no commentary:
         {
           "ticker": "NVDA",
           "direction": "positive",
+          "conviction": 4,
           "why": "Single-sentence explanation."
         }
       ]
@@ -1606,6 +1616,7 @@ OUTPUT JSON only, no markdown fence, no commentary:
 }
 
 direction must be exactly one of: "positive", "negative", "mixed".
+conviction must be an integer 1-5.
 """
 
 
@@ -1649,13 +1660,117 @@ def enrich_events_with_advised_picks(events: list[dict]) -> list[dict]:
             ticker = (s.get('ticker') or '').strip().upper()
             direction = (s.get('direction') or '').strip().lower()
             why = (s.get('why') or '').strip()
+            try:
+                conviction = int(s.get('conviction', 0))
+            except (TypeError, ValueError):
+                conviction = 0
             if not ticker or direction not in ('positive', 'negative', 'mixed') or not why:
                 continue
-            cleaned.append({'ticker': ticker, 'direction': direction, 'why': why})
+            cleaned.append({
+                'ticker': ticker,
+                'direction': direction,
+                'why': why,
+                'conviction': conviction,
+            })
         if cleaned:
             events[original_index]['affected_stocks'] = cleaned[:3]
 
     return events
+
+
+def _lookup_price_for_ticker(ticker: str, movers_by_ticker: dict) -> float | None:
+    if ticker in movers_by_ticker:
+        return movers_by_ticker[ticker].get('price')
+    try:
+        info = yf.Ticker(ticker).fast_info
+        price = info.last_price
+        return round(float(price), 2) if price else None
+    except Exception as e:
+        print(f"  fast_info lookup failed for {ticker}: {e}")
+        return None
+
+
+def promote_advised_to_picks(events: list[dict], picks_data: dict, movers: list[dict],
+                             max_new: int = 2) -> list[dict]:
+    movers_by_ticker = {m['ticker']: m for m in movers}
+    today_iso = dt.date.today().isoformat()
+    today_date = dt.date.today()
+
+    active_tickers = {p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'}
+    recent_tickers = set()
+    cooldown_days = 7
+    for p in picks_data.get('picks', []):
+        try:
+            entered = dt.date.fromisoformat(p.get('entered_at', ''))
+            if (today_date - entered).days <= cooldown_days:
+                recent_tickers.add(p['ticker'])
+        except (TypeError, ValueError):
+            continue
+
+    candidates = []
+    for event in events:
+        if event.get('type') != 'mover_statement':
+            continue
+        for s in event.get('affected_stocks', []) or []:
+            if s.get('direction') != 'positive':
+                continue
+            if (s.get('conviction') or 0) < 4:
+                continue
+            ticker = s['ticker']
+            if ticker in active_tickers or ticker in recent_tickers:
+                continue
+            candidates.append({'stock': s, 'event': event})
+
+    candidates.sort(key=lambda c: -(c['stock'].get('conviction', 0)))
+    new_picks = []
+    seen = set()
+    for c in candidates:
+        if len(new_picks) >= max_new:
+            break
+        ticker = c['stock']['ticker']
+        if ticker in seen:
+            continue
+        seen.add(ticker)
+
+        entry_price = _lookup_price_for_ticker(ticker, movers_by_ticker)
+        if entry_price is None:
+            print(f"  Skipping {ticker}: no price available")
+            continue
+
+        event = c['event']
+        stock = c['stock']
+        headline = (event.get('headline') or '')[:200]
+
+        new_pick = {
+            'id': f"{today_iso}-{ticker}-tactical",
+            'ticker': ticker,
+            'entered_at': today_iso,
+            'entry_price': entry_price,
+            'horizon_weeks': 3,
+            'target_pct': 10,
+            'stop_pct': -8,
+            'sector': 'Unclassified',
+            'thesis': f"{stock['why']} Triggered by: {headline}",
+            'rationale': f"<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"{headline}\" (source: {event.get('source','unknown')}).</p><p><span class=\"confidence confidence-interp\">Interp</span> {stock['why']}</p><p><strong>Conviction (Claude):</strong> {stock['conviction']}/5. Event-driven setup with short horizon — re-evaluate within 2-3 weeks of the catalyst.</p>",
+            'horizon_reason': "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+            'falsification': f"Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+            'tags': ['event-driven', 'ai-tactical', 'auto-generated'],
+            'generated_by': f"claude-sonnet-4-5 event-driven · {today_iso}",
+            'event_trigger': {
+                'headline': headline,
+                'source': event.get('source'),
+                'url': event.get('url'),
+                'movers': event.get('movers'),
+            },
+            'status': 'open',
+        }
+        new_picks.append(new_pick)
+        picks_data.setdefault('picks', []).append(new_pick)
+
+    if new_picks:
+        save_picks(picks_data)
+
+    return new_picks
 
 
 def find_current_issue_number() -> int | None:
@@ -2157,6 +2272,7 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
         'events': events,
     }
     out_path.write_text(to_js_var('theBriefLive', payload))
+    return events
 
 
 def main() -> int:
@@ -2239,7 +2355,16 @@ def main() -> int:
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     write_movers(movers, all_news, filings, earnings, watchlist, DATA_DIR / 'movers.js', fundamentals)
-    write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js')
+    live_events = write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js')
+
+    print("\nChecking for event-driven tactical picks...")
+    tactical_picks = promote_advised_to_picks(live_events or [], picks_data, movers, max_new=2)
+    if tactical_picks:
+        new_picks = new_picks + tactical_picks
+        print(f"  Promoted {len(tactical_picks)} tactical picks: {[p['ticker'] for p in tactical_picks]}")
+    else:
+        print("  No high-conviction event-driven setups to promote")
+
     write_picks(picks_data, DATA_DIR / 'picks.js')
     write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')
     write_fundamentals(fundamentals, DATA_DIR / 'fundamentals.js')

@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-13T12:50:46.271323+00:00",
+  "generated_at": "2026-05-13T13:13:02.509880+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -152,11 +152,103 @@ window.theBriefPicks = {
       "news_count": 3,
       "days_elapsed": 1,
       "days_remaining": 27
+    },
+    {
+      "id": "2026-05-13-XOP-tactical",
+      "ticker": "XOP",
+      "entered_at": "2026-05-13",
+      "entry_price": 169.74,
+      "horizon_weeks": 3,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "sector": "Unclassified",
+      "thesis": "Oil producers benefit immediately from tighter supply-demand balance and higher realized prices. Triggered by: Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+      "rationale": "<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters\" (source: Reuters).</p><p><span class=\"confidence confidence-interp\">Interp</span> Oil producers benefit immediately from tighter supply-demand balance and higher realized prices.</p><p><strong>Conviction (Claude):</strong> 4/5. Event-driven setup with short horizon \u2014 re-evaluate within 2-3 weeks of the catalyst.</p>",
+      "horizon_reason": "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+      "falsification": "Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+      "tags": [
+        "event-driven",
+        "ai-tactical",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 event-driven \u00b7 2026-05-13",
+      "event_trigger": {
+        "headline": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5",
+        "movers": [
+          "Iran"
+        ]
+      },
+      "status": "open",
+      "horizon_label": "Short-term",
+      "direction": "long"
+    },
+    {
+      "id": "2026-05-13-USO-tactical",
+      "ticker": "USO",
+      "entered_at": "2026-05-13",
+      "entry_price": 144.3,
+      "horizon_weeks": 3,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "sector": "Unclassified",
+      "thesis": "Oil ETF tracks crude prices which face structural support from forecasted supply shortfall. Triggered by: Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+      "rationale": "<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters\" (source: Reuters).</p><p><span class=\"confidence confidence-interp\">Interp</span> Oil ETF tracks crude prices which face structural support from forecasted supply shortfall.</p><p><strong>Conviction (Claude):</strong> 4/5. Event-driven setup with short horizon \u2014 re-evaluate within 2-3 weeks of the catalyst.</p>",
+      "horizon_reason": "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+      "falsification": "Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+      "tags": [
+        "event-driven",
+        "ai-tactical",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 event-driven \u00b7 2026-05-13",
+      "event_trigger": {
+        "headline": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5",
+        "movers": [
+          "Iran"
+        ]
+      },
+      "status": "open",
+      "horizon_label": "Short-term",
+      "direction": "long"
+    },
+    {
+      "id": "2026-05-13-FRO-tactical",
+      "ticker": "FRO",
+      "entered_at": "2026-05-13",
+      "entry_price": 38.53,
+      "horizon_weeks": 3,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "sector": "Unclassified",
+      "thesis": "Tanker rates typically spike when shippers reroute or face Middle East passage risks. Triggered by: Trump says no need for China's help on Iran as shippers seek passage through Hormuz - Reuters",
+      "rationale": "<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"Trump says no need for China's help on Iran as shippers seek passage through Hormuz - Reuters\" (source: Reuters).</p><p><span class=\"confidence confidence-interp\">Interp</span> Tanker rates typically spike when shippers reroute or face Middle East passage risks.</p><p><strong>Conviction (Claude):</strong> 4/5. Event-driven setup with short horizon \u2014 re-evaluate within 2-3 weeks of the catalyst.</p>",
+      "horizon_reason": "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+      "falsification": "Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+      "tags": [
+        "event-driven",
+        "ai-tactical",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 event-driven \u00b7 2026-05-13",
+      "event_trigger": {
+        "headline": "Trump says no need for China's help on Iran as shippers seek passage through Hormuz - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHhHazZ0YktlNTZJSWRFUjNtSXR1ZHp6SE9RYWJndFlyT3VoV1p5RDZQU3ppMWtDX1h4MzRvZGtfOUttSG5xWnNvT1dXUDBlZExFUWYyaDYyRWxoWUh0Tmx4SFVoMThxTEtweUplX0t6d1hjVi1Kb0YzQklwbTU4cUIzSGppeHk1akpINFNxVkJIR3BuT01GbXNjX2s?oc=5",
+        "movers": [
+          "Trump",
+          "Iran"
+        ]
+      },
+      "status": "open"
     }
   ],
   "summary": {
-    "total": 5,
-    "open": 5,
+    "total": 8,
+    "open": 8,
     "hit": 0,
     "miss": 0,
     "expired": 0,
