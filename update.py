@@ -137,8 +137,9 @@ def fetch_live_prices(tickers: list[str]) -> dict[str, dict]:
     return out
 
 
-def fetch_movers(watchlist: dict) -> list[dict]:
-    tickers = sorted(set(watchlist['followed'] + watchlist['indices'] + watchlist['sectors']))
+def fetch_movers(watchlist: dict, extra_tickers: list[str] | None = None) -> list[dict]:
+    extras = list(extra_tickers or [])
+    tickers = sorted(set(watchlist['followed'] + watchlist['indices'] + watchlist['sectors'] + extras))
     try:
         data = yf.download(
             tickers,
@@ -183,9 +184,9 @@ def fetch_movers(watchlist: dict) -> list[dict]:
             print(f"  Mover parse failed for {t}: {e}")
             continue
 
-    print("  Fetching live (incl. pre/post-market) prices for watchlist...")
-    watchlist_tickers = list(set(watchlist['followed']))
-    live = fetch_live_prices(watchlist_tickers)
+    print("  Fetching live (incl. pre/post-market) prices for watchlist + picks...")
+    live_targets = list(set(watchlist['followed'] + extras))
+    live = fetch_live_prices(live_targets)
     patched = 0
     for m in out:
         if m['ticker'] in live:
@@ -2345,8 +2346,16 @@ def main() -> int:
     print(f"Watchlist: {len(watchlist['followed'])} followed, "
           f"{len(watchlist['indices'])} indices, {len(watchlist['sectors'])} sectors")
 
+    existing_picks = load_picks()
+    pick_extras = sorted({
+        p['ticker'] for p in existing_picks.get('picks', [])
+        if p.get('status') == 'open' and p.get('ticker') not in (watchlist['followed'] + watchlist['indices'] + watchlist['sectors'])
+    })
+    if pick_extras:
+        print(f"Including {len(pick_extras)} extra tickers from open picks: {pick_extras}")
+
     print("\n[1/6] Fetching prices and movers...")
-    movers = fetch_movers(watchlist)
+    movers = fetch_movers(watchlist, extra_tickers=pick_extras)
     print(f"  Got {len(movers)} ticker snapshots")
 
     print("\n[2/6] Fetching upcoming earnings (next 14 days)...")

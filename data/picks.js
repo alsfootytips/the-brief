@@ -1,5 +1,9 @@
 window.theBriefPicks = {
+<<<<<<< Updated upstream
   "generated_at": "2026-05-13T14:09:56.590484+00:00",
+=======
+  "generated_at": "2026-05-13T14:19:41.717584+00:00",
+>>>>>>> Stashed changes
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -23,9 +27,15 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
+<<<<<<< Updated upstream
       "current_price": 23.58,
       "current_pct": 5.13,
       "change_pct_today": -0.65,
+=======
+      "current_price": 23.88,
+      "current_pct": 6.46,
+      "change_pct_today": 0.63,
+>>>>>>> Stashed changes
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 1,
@@ -55,9 +65,15 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
+<<<<<<< Updated upstream
       "current_price": 198.68,
       "current_pct": 11.33,
       "change_pct_today": 10.93,
+=======
+      "current_price": 200.81,
+      "current_pct": 12.52,
+      "change_pct_today": 12.12,
+>>>>>>> Stashed changes
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,
@@ -91,9 +107,15 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
+<<<<<<< Updated upstream
       "current_price": 280.72,
       "current_pct": -0.58,
       "change_pct_today": -0.65,
+=======
+      "current_price": 280.54,
+      "current_pct": -0.64,
+      "change_pct_today": -0.72,
+>>>>>>> Stashed changes
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 1,
@@ -122,9 +144,15 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
+<<<<<<< Updated upstream
       "current_price": 432.65,
       "current_pct": -2.11,
       "change_pct_today": -3.49,
+=======
+      "current_price": 436.3,
+      "current_pct": -1.29,
+      "change_pct_today": -2.67,
+>>>>>>> Stashed changes
       "name": "Advanced Micro Devices",
       "news_count": 3,
       "days_elapsed": 1,
@@ -192,7 +220,14 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Short-term",
       "direction": "long",
-      "pick_type": "strategic"
+      "pick_type": "strategic",
+      "current_price": 168.47,
+      "current_pct": -0.75,
+      "change_pct_today": -0.75,
+      "name": "XOP",
+      "news_count": 0,
+      "days_elapsed": 0,
+      "days_remaining": 21
     },
     {
       "id": "2026-05-13-USO-tactical",
@@ -224,7 +259,14 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Short-term",
       "direction": "long",
-      "pick_type": "strategic"
+      "pick_type": "strategic",
+      "current_price": 144.66,
+      "current_pct": 0.25,
+      "change_pct_today": 0.25,
+      "name": "USO",
+      "news_count": 0,
+      "days_elapsed": 0,
+      "days_remaining": 21
     },
     {
       "id": "2026-05-13-FRO-tactical",
@@ -257,7 +299,14 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Short-term",
       "direction": "long",
-      "pick_type": "strategic"
+      "pick_type": "strategic",
+      "current_price": 37.67,
+      "current_pct": -2.23,
+      "change_pct_today": -2.23,
+      "name": "FRO",
+      "news_count": 0,
+      "days_elapsed": 0,
+      "days_remaining": 21
     },
     {
       "id": "2026-05-13-XOM-tactical",
@@ -289,7 +338,14 @@ window.theBriefPicks = {
       "status": "open",
       "pick_type": "strategic",
       "horizon_label": "Short-term",
-      "direction": "long"
+      "direction": "long",
+      "current_price": 151.46,
+      "current_pct": 0.55,
+      "change_pct_today": 0.55,
+      "name": "XOM",
+      "news_count": 0,
+      "days_elapsed": 0,
+      "days_remaining": 21
     },
     {
       "id": "2026-05-13-CVX-tactical",
@@ -321,12 +377,78 @@ window.theBriefPicks = {
       "status": "open",
       "pick_type": "strategic",
       "horizon_label": "Short-term",
-      "direction": "long"
+      "direction": "long",
+      "current_price": 185.5,
+      "current_pct": -0.24,
+      "change_pct_today": -0.24,
+      "name": "CVX",
+      "news_count": 0,
+      "days_elapsed": 0,
+      "days_remaining": 21
+    },
+    {
+      "id": "2026-05-13-STNG-tactical",
+      "ticker": "STNG",
+      "entered_at": "2026-05-13",
+      "entry_price": 81.01,
+      "horizon_weeks": 3,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "sector": "Unclassified",
+      "thesis": "Tanker operators benefit directly from elevated shipping rates through constrained Hormuz strait. Triggered by: Trump says no need for China's help on Iran as shippers seek passage through Hormuz - Reuters",
+      "rationale": "<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"Trump says no need for China's help on Iran as shippers seek passage through Hormuz - Reuters\" (source: Reuters).</p><p><span class=\"confidence confidence-interp\">Interp</span> Tanker operators benefit directly from elevated shipping rates through constrained Hormuz strait.</p><p><strong>Conviction (Claude):</strong> 4/5. Event-driven setup with short horizon \u2014 re-evaluate within 2-3 weeks of the catalyst.</p>",
+      "horizon_reason": "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+      "falsification": "Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+      "tags": [
+        "event-driven",
+        "ai-tactical",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 event-driven \u00b7 2026-05-13",
+      "event_trigger": {
+        "headline": "Trump says no need for China's help on Iran as shippers seek passage through Hormuz - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHhHazZ0YktlNTZJSWRFUjNtSXR1ZHp6SE9RYWJndFlyT3VoV1p5RDZQU3ppMWtDX1h4MzRvZGtfOUttSG5xWnNvT1dXUDBlZExFUWYyaDYyRWxoWUh0Tmx4SFVoMThxTEtweUplX0t6d1hjVi1Kb0YzQklwbTU4cUIzSGppeHk1akpINFNxVkJIR3BuT01GbXNjX2s?oc=5",
+        "movers": [
+          "Trump",
+          "Iran"
+        ]
+      },
+      "status": "open"
+    },
+    {
+      "id": "2026-05-13-SIEGY-tactical",
+      "ticker": "SIEGY",
+      "entered_at": "2026-05-13",
+      "entry_price": 155.0,
+      "horizon_weeks": 3,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "sector": "Unclassified",
+      "thesis": "Better-than-expected order growth demonstrates resilience despite geopolitical headwinds. Triggered by: Siemens orders rise more than expected despite Iranian war tension - Reuters",
+      "rationale": "<p><span class=\"confidence confidence-fact\">Fact</span> News event: \"Siemens orders rise more than expected despite Iranian war tension - Reuters\" (source: Reuters).</p><p><span class=\"confidence confidence-interp\">Interp</span> Better-than-expected order growth demonstrates resilience despite geopolitical headwinds.</p><p><strong>Conviction (Claude):</strong> 4/5. Event-driven setup with short horizon \u2014 re-evaluate within 2-3 weeks of the catalyst.</p>",
+      "horizon_reason": "Short-term event-driven setup. The catalyst is a specific news event whose market impact typically plays out within 2-4 weeks.",
+      "falsification": "Event impact reversed (e.g., contradicting news), OR stock fails to react within 5 trading days, OR moves opposite to the expected direction by stop_pct.",
+      "tags": [
+        "event-driven",
+        "ai-tactical",
+        "auto-generated"
+      ],
+      "generated_by": "claude-sonnet-4-5 event-driven \u00b7 2026-05-13",
+      "event_trigger": {
+        "headline": "Siemens orders rise more than expected despite Iranian war tension - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEl4OEFBWU9UMlVDcnRZd3A4N1E1cGllbHN4cmhrcVAydWx3SWRtaFBOTFZsYi1OUXA1WUlCUDFOWktiN1VUV3lHckNMNnZnMlRXZDU1eXJieXdpYkhheHlKc016UjVkMldkejd6UllSYzRLLWpudXBiTXdyTDVYa0wwWGtiQ1JGZEFVWk5WQ0poWVVqVXMw?oc=5",
+        "movers": [
+          "Iran"
+        ]
+      },
+      "status": "open"
     }
   ],
   "summary": {
-    "total": 10,
-    "open": 9,
+    "total": 12,
+    "open": 11,
     "hit": 1,
     "miss": 0,
     "expired": 0,
