@@ -1,14 +1,14 @@
 {
   "sent": [
-    "filing:TPL:8-K:2026-05-06",
-    "filing:APA:8-K:2026-05-06",
-    "big_move:OSCR:2026-05-13",
-    "filing:OSCR:8-K:2026-05-06",
     "filing:TTD:8-K:2026-05-07",
     "big_move:CRWV:2026-05-13",
-    "filing:TTD:8-K:2026-05-08",
     "earnings_imminent:NBIS:2026-05-13",
+    "filing:TPL:8-K:2026-05-06",
+    "filing:TTD:8-K:2026-05-08",
+    "filing:CRWV:8-K:2026-05-07",
+    "filing:OSCR:8-K:2026-05-06",
     "filing:NVDA:8-K:2026-05-08",
-    "filing:CRWV:8-K:2026-05-07"
+    "big_move:OSCR:2026-05-13",
+    "filing:APA:8-K:2026-05-06"
   ]
 }
