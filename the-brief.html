@@ -2276,6 +2276,9 @@ const state = {
   starred: new Set(),
   picksFilterHorizon: null,
   picksFilterSector: null,
+  picksFilterTier: null,
+  picksFilterPerf: null,
+  picksFilterSource: null,
 };
 
 try {
@@ -2887,40 +2890,97 @@ function renderPicks() {
   const open = picks.filter(p => p.status === 'open');
   const closed = picks.filter(p => p.status !== 'open');
 
+  // ----- Tier classifier (also used to group sections below) -----
+  function pickTier(p) {
+    const t = (p.pick_type || '').toLowerCase();
+    if (t === 'long-term') return 'long-term';
+    if (t === 'tactical') return 'tactical';
+    const tags = (p.tags || []).map(x => (x || '').toLowerCase());
+    if (tags.includes('event-driven') || tags.includes('ai-tactical')) return 'tactical';
+    if (tags.includes('long-term') || tags.includes('thematic') || tags.includes('structural')) return 'long-term';
+    return 'strategic';
+  }
+  const TIER_LABELS = { 'long-term': 'Long-term Holds', 'strategic': 'Strategic', 'tactical': 'Tactical' };
+
+  // ----- Performance classifier -----
+  function pickPerf(p) {
+    const pct = p.current_pct;
+    if (pct == null || isNaN(pct)) return 'Pending';
+    if (pct > 1) return 'In profit';
+    if (pct < -1) return 'In loss';
+    return 'Flat';
+  }
+
+  // ----- Source classifier (editorial = hand-written, auto = LLM-promoted) -----
+  function pickSource(p) {
+    const tags = (p.tags || []).map(x => (x || '').toLowerCase());
+    if (tags.includes('auto-generated') || tags.includes('ai-tactical')) return 'Auto-generated';
+    return 'Editorial';
+  }
+
   const horizonCounts = { 'Short-term': 0, 'Medium-term': 0, 'Long-term': 0, 'Long-term hold': 0 };
   const sectorCounts = {};
+  const tierCounts = { 'long-term': 0, 'strategic': 0, 'tactical': 0 };
+  const perfCounts = { 'In profit': 0, 'In loss': 0, 'Flat': 0, 'Pending': 0 };
+  const sourceCounts = { 'Editorial': 0, 'Auto-generated': 0 };
   open.forEach(p => {
     const h = p.horizon_label || 'Unknown';
     if (horizonCounts[h] != null) horizonCounts[h]++;
     const s = p.sector || 'Unclassified';
     sectorCounts[s] = (sectorCounts[s] || 0) + 1;
+    tierCounts[pickTier(p)] = (tierCounts[pickTier(p)] || 0) + 1;
+    perfCounts[pickPerf(p)]++;
+    sourceCounts[pickSource(p)]++;
   });
 
+  const makeChip = (label, n, stateKey, dataAttr) => {
+    const active = state[stateKey] === label;
+    return `<button class="composition-chip ${active ? 'active' : ''}" ${dataAttr}="${escapeHtml(label)}"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></button>`;
+  };
+
+  const tierChips = ['long-term', 'strategic', 'tactical']
+    .filter(k => tierCounts[k] > 0)
+    .map(k => {
+      const active = state.picksFilterTier === k;
+      return `<button class="composition-chip ${active ? 'active' : ''}" data-pick-filter-tier="${escapeHtml(k)}"><span class="composition-chip-label">${escapeHtml(TIER_LABELS[k])}</span><span class="composition-chip-value">${tierCounts[k]}</span></button>`;
+    })
+    .join('');
+  const perfChips = ['In profit', 'Flat', 'In loss', 'Pending']
+    .filter(k => perfCounts[k] > 0)
+    .map(k => makeChip(k, perfCounts[k], 'picksFilterPerf', 'data-pick-filter-perf'))
+    .join('');
+  const sourceChips = ['Editorial', 'Auto-generated']
+    .filter(k => sourceCounts[k] > 0)
+    .map(k => makeChip(k, sourceCounts[k], 'picksFilterSource', 'data-pick-filter-source'))
+    .join('');
   const horizonChips = Object.entries(horizonCounts)
     .filter(([_, n]) => n > 0)
-    .map(([label, n]) => {
-      const active = state.picksFilterHorizon === label;
-      return `<button class="composition-chip ${active ? 'active' : ''}" data-pick-filter-horizon="${escapeHtml(label)}"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></button>`;
-    })
+    .map(([label, n]) => makeChip(label, n, 'picksFilterHorizon', 'data-pick-filter-horizon'))
     .join('');
   const sectorChips = Object.entries(sectorCounts)
     .sort((a, b) => b[1] - a[1])
-    .map(([label, n]) => {
-      const active = state.picksFilterSector === label;
-      return `<button class="composition-chip ${active ? 'active' : ''}" data-pick-filter-sector="${escapeHtml(label)}"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></button>`;
-    })
+    .map(([label, n]) => makeChip(label, n, 'picksFilterSector', 'data-pick-filter-sector'))
     .join('');
 
   const applyPicksFilters = (list) => list.filter(p => {
+    if (state.picksFilterTier && pickTier(p) !== state.picksFilterTier) return false;
+    if (state.picksFilterPerf && pickPerf(p) !== state.picksFilterPerf) return false;
+    if (state.picksFilterSource && pickSource(p) !== state.picksFilterSource) return false;
     if (state.picksFilterHorizon && (p.horizon_label || 'Unknown') !== state.picksFilterHorizon) return false;
     if (state.picksFilterSector && (p.sector || 'Unclassified') !== state.picksFilterSector) return false;
     return true;
   });
   const filteredOpen = applyPicksFilters(open);
   const filteredClosed = applyPicksFilters(closed);
-  const hasFilter = !!(state.picksFilterHorizon || state.picksFilterSector);
+  const activeFilters = [];
+  if (state.picksFilterTier) activeFilters.push(TIER_LABELS[state.picksFilterTier] || state.picksFilterTier);
+  if (state.picksFilterPerf) activeFilters.push(state.picksFilterPerf);
+  if (state.picksFilterSource) activeFilters.push(state.picksFilterSource);
+  if (state.picksFilterHorizon) activeFilters.push(state.picksFilterHorizon);
+  if (state.picksFilterSector) activeFilters.push(state.picksFilterSector);
+  const hasFilter = activeFilters.length > 0;
   const filterStatus = hasFilter
-    ? `<div style="font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin: 12px 0; font-weight: 600;">Filtered${state.picksFilterHorizon ? ' · ' + escapeHtml(state.picksFilterHorizon) : ''}${state.picksFilterSector ? ' · ' + escapeHtml(state.picksFilterSector) : ''} · <button class="filter-pill" data-pick-filter-clear="1" style="display: inline; padding: 0; border: none; color: var(--accent); text-decoration: underline; cursor: pointer; font: inherit; letter-spacing: inherit;">clear</button></div>`
+    ? `<div style="font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin: 12px 0; font-weight: 600;">Filtered · ${activeFilters.map(escapeHtml).join(' · ')} · <button class="filter-pill" data-pick-filter-clear="1" style="display: inline; padding: 0; border: none; color: var(--accent); text-decoration: underline; cursor: pointer; font: inherit; letter-spacing: inherit;">clear</button></div>`
     : '';
 
   const composition = `
@@ -2928,21 +2988,14 @@ function renderPicks() {
       <div class="composition-block">
         <div class="composition-block-label">${open.length} active ${open.length === 1 ? 'pick' : 'picks'}</div>
       </div>
+      ${tierChips ? `<div class="composition-block"><div class="composition-block-label">By tier</div><div class="composition-chips">${tierChips}</div></div>` : ''}
+      ${perfChips ? `<div class="composition-block"><div class="composition-block-label">By performance</div><div class="composition-chips">${perfChips}</div></div>` : ''}
+      ${sourceChips ? `<div class="composition-block"><div class="composition-block-label">By source</div><div class="composition-chips">${sourceChips}</div></div>` : ''}
       ${horizonChips ? `<div class="composition-block"><div class="composition-block-label">By horizon</div><div class="composition-chips">${horizonChips}</div></div>` : ''}
       ${sectorChips ? `<div class="composition-block"><div class="composition-block-label">By sector</div><div class="composition-chips">${sectorChips}</div></div>` : ''}
     </div>`;
 
-  // Group active picks by tier (long-term → strategic → tactical)
-  function pickTier(p) {
-    const t = (p.pick_type || '').toLowerCase();
-    if (t === 'long-term') return 'long-term';
-    if (t === 'tactical') return 'tactical';
-    // Fallback for un-tagged picks: infer from tags
-    const tags = (p.tags || []).map(x => (x || '').toLowerCase());
-    if (tags.includes('event-driven') || tags.includes('ai-tactical')) return 'tactical';
-    if (tags.includes('long-term') || tags.includes('thematic') || tags.includes('structural')) return 'long-term';
-    return 'strategic';
-  }
+  // Group active picks by tier (long-term → strategic → tactical) — pickTier is hoisted above.
   const tiers = [
     {
       key: 'long-term',
@@ -3458,12 +3511,42 @@ document.addEventListener('click', e => {
     render();
     return;
   }
+  const tierChip = e.target.closest('[data-pick-filter-tier]');
+  if (tierChip) {
+    e.preventDefault();
+    e.stopPropagation();
+    const val = tierChip.dataset.pickFilterTier;
+    state.picksFilterTier = state.picksFilterTier === val ? null : val;
+    render();
+    return;
+  }
+  const perfChip = e.target.closest('[data-pick-filter-perf]');
+  if (perfChip) {
+    e.preventDefault();
+    e.stopPropagation();
+    const val = perfChip.dataset.pickFilterPerf;
+    state.picksFilterPerf = state.picksFilterPerf === val ? null : val;
+    render();
+    return;
+  }
+  const sourceChip = e.target.closest('[data-pick-filter-source]');
+  if (sourceChip) {
+    e.preventDefault();
+    e.stopPropagation();
+    const val = sourceChip.dataset.pickFilterSource;
+    state.picksFilterSource = state.picksFilterSource === val ? null : val;
+    render();
+    return;
+  }
   const clearPickFilter = e.target.closest('[data-pick-filter-clear]');
   if (clearPickFilter) {
     e.preventDefault();
     e.stopPropagation();
     state.picksFilterHorizon = null;
     state.picksFilterSector = null;
+    state.picksFilterTier = null;
+    state.picksFilterPerf = null;
+    state.picksFilterSource = null;
     render();
     return;
   }
