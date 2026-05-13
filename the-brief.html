@@ -1447,7 +1447,8 @@ p.lede {
   margin: 14px 0;
 }
 
-.pick-card.status-open { border-left-color: var(--confidence-medium); }
+.pick-card.status-open { border-left-color: var(--accent); border-left-width: 4px; }
+.pick-card.status-open.tactical { border-left-width: 6px; background: linear-gradient(to right, rgba(139, 46, 31, 0.05) 0%, var(--paper-warm) 18%); }
 .pick-card.status-hit { border-left-color: var(--green); }
 .pick-card.status-miss { border-left-color: var(--accent); }
 .pick-card.status-expired { border-left-color: var(--ink-muted); }
@@ -1473,11 +1474,47 @@ p.lede {
   margin-bottom: 6px;
 }
 
-.pick-status-badge.open { background: rgba(184, 134, 43, 0.18); color: var(--confidence-medium); }
-.pick-status-badge.hit { background: rgba(45, 90, 61, 0.15); color: var(--green); }
-.pick-status-badge.miss { background: rgba(139, 46, 31, 0.15); color: var(--accent); }
+/* BUY = stand out. Tactical BUY = stand out hard. */
+.pick-status-badge.open {
+  background: rgba(139, 46, 31, 0.14);
+  color: var(--accent);
+  border: 1px solid rgba(139, 46, 31, 0.45);
+  font-size: 12px;
+  padding: 5px 11px;
+  letter-spacing: 0.22em;
+}
+.pick-status-badge.open.tactical {
+  background: var(--accent);
+  color: var(--paper);
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(139, 46, 31, 0.12);
+  font-size: 12px;
+}
+.pick-status-badge.hit { background: var(--green); color: var(--paper); font-size: 12px; padding: 5px 11px; }
+.pick-status-badge.miss { background: var(--accent); color: var(--paper); font-size: 12px; padding: 5px 11px; }
 .pick-status-badge.expired { background: var(--paper-warm); color: var(--ink-muted); border: 1px solid var(--rule); }
 .pick-status-badge.long-term-hold { background: rgba(45, 90, 61, 0.1); color: var(--green); border: 1px solid rgba(45, 90, 61, 0.3); }
+
+/* Fresh-pick indicator (entered within last 48h) */
+.pick-fresh-tag {
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 700;
+  background: var(--accent);
+  color: var(--paper);
+  padding: 2px 6px;
+  border-radius: 2px;
+  margin-left: 8px;
+  vertical-align: middle;
+  animation: fresh-pulse 2.2s ease-in-out infinite;
+}
+@keyframes fresh-pulse {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.55; }
+}
 
 .pick-card.status-long-term-hold { border-left-color: var(--green); }
 
@@ -2808,6 +2845,18 @@ function emptyState(title, body) {
 function renderPickCard(p) {
   const status = p.status || 'open';
   const isLongTerm = p.pick_type === 'long-term';
+  const tags = (p.tags || []).map(x => (x || '').toLowerCase());
+  const isTactical = p.pick_type === 'tactical' ||
+    tags.includes('event-driven') || tags.includes('ai-tactical');
+
+  // Fresh = entered within the last 48 hours (only for open picks)
+  let isFresh = false;
+  if (status === 'open' && p.entered_at) {
+    const entered = new Date(p.entered_at + 'T00:00:00Z').getTime();
+    if (!isNaN(entered)) {
+      isFresh = (Date.now() - entered) < 48 * 60 * 60 * 1000;
+    }
+  }
 
   const actionLabel = isLongTerm && status === 'open'
     ? 'HOLD'
@@ -2837,16 +2886,27 @@ function renderPickCard(p) {
     return '';
   })();
 
+  const cardClasses = [
+    'pick-card',
+    `status-${isLongTerm && status === 'open' ? 'long-term-hold' : status}`,
+    (isTactical && status === 'open') ? 'tactical' : '',
+  ].filter(Boolean).join(' ');
+  const badgeClasses = [
+    'pick-status-badge',
+    isLongTerm && status === 'open' ? 'long-term-hold' : status,
+    (isTactical && status === 'open') ? 'tactical' : '',
+  ].filter(Boolean).join(' ');
+
   return `
-    <div class="pick-card status-${isLongTerm && status === 'open' ? 'long-term-hold' : status}">
+    <div class="${cardClasses}">
       <div class="pick-head">
         <div class="mover-id">
-          <div>${starHtml(p.ticker)}<span class="ticker" data-ticker="${escapeHtml(p.ticker)}">${escapeHtml(p.ticker)}</span></div>
+          <div>${starHtml(p.ticker)}<span class="ticker" data-ticker="${escapeHtml(p.ticker)}">${escapeHtml(p.ticker)}</span>${isFresh ? `<span class="pick-fresh-tag" title="Added in the last 48h">New</span>` : ''}</div>
           <div class="mover-name">${escapeHtml(p.name || p.ticker || '')}</div>
           ${sectorLabel ? `<div style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-muted); font-weight: 600; margin-top: 4px;">${escapeHtml(sectorLabel)}</div>` : ''}
         </div>
         <div class="pick-meta-row">
-          <div class="pick-status-badge ${isLongTerm && status === 'open' ? 'long-term-hold' : status}">${actionLabel}</div>
+          <div class="${badgeClasses}">${actionLabel}</div>
           ${horizonLabel ? `<div style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-muted); font-weight: 600;">${escapeHtml(horizonLabel)}</div>` : ''}
           ${daysLine}
         </div>
