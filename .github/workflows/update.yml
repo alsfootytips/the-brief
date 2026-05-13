@@ -61,7 +61,22 @@ jobs:
           git add -A data/ picks.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "auto: pipeline update $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            exit 0
           fi
+          git commit -m "auto: pipeline update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; pulling remote and retrying..."
+            git fetch origin main
+            git rebase origin/main || {
+              echo "Rebase failed; aborting and resetting."
+              git rebase --abort || true
+              exit 1
+            }
+            sleep 2
+          done
+          echo "All push attempts exhausted."
+          exit 1
