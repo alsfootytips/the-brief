@@ -1712,7 +1712,11 @@ p.lede {
   margin-bottom: 14px;
 }
 
+.portfolio-form-grid > * { min-width: 0; }
+
 .portfolio-form-grid input {
+  width: 100%;
+  box-sizing: border-box;
   padding: 10px 12px;
   border: 1px solid var(--rule);
   border-radius: 2px;
@@ -1721,6 +1725,8 @@ p.lede {
   font-size: 13px;
   color: var(--ink);
   min-height: 40px;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .portfolio-form-grid input:focus {
