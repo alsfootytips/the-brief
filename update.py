@@ -2078,7 +2078,7 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
 
 
 def main() -> int:
-    load_dotenv(ROOT / '.env')
+    load_dotenv(ROOT / '.env', override=True)
     watchlist = load_watchlist()
 
     print("== The Brief — ingestion pipeline ==")
