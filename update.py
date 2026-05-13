@@ -1050,7 +1050,11 @@ def update_picks(picks_data: dict, movers: list[dict], news: list[dict]) -> dict
         m = movers_by_ticker.get(ticker)
         entry = pick.get('entry_price')
 
-        pick['horizon_label'] = horizon_category(pick.get('horizon_weeks'))
+        pick['pick_type'] = pick.get('pick_type', 'strategic')
+        if pick['pick_type'] == 'long-term':
+            pick['horizon_label'] = 'Long-term hold'
+        else:
+            pick['horizon_label'] = horizon_category(pick.get('horizon_weeks'))
         pick['direction'] = pick.get('direction', 'long')
 
         if m and entry:
@@ -1063,39 +1067,45 @@ def update_picks(picks_data: dict, movers: list[dict], news: list[dict]) -> dict
             pick['news_count'] = news_counts.get(ticker, 0)
 
             if pick.get('status') == 'open':
-                target = pick.get('target_pct', 15)
-                stop = pick.get('stop_pct', -10)
+                target = pick.get('target_pct')
+                stop = pick.get('stop_pct')
+                horizon = pick.get('horizon_weeks')
                 try:
                     entered = dt.date.fromisoformat(pick.get('entered_at', ''))
                 except (TypeError, ValueError):
                     entered = today
                 days_elapsed = (today - entered).days
                 weeks_elapsed = days_elapsed / 7
-                horizon = pick.get('horizon_weeks', 4)
                 pick['days_elapsed'] = days_elapsed
-                pick['days_remaining'] = max(0, int(horizon * 7 - days_elapsed))
+                if horizon:
+                    pick['days_remaining'] = max(0, int(horizon * 7 - days_elapsed))
+                else:
+                    pick['days_remaining'] = None
 
-                if current_pct >= target:
-                    pick['status'] = 'hit'
-                    pick['closed_at'] = today.isoformat()
-                    pick['closed_price'] = round(current_price, 2)
-                    pick['closed_pct'] = round(current_pct, 2)
-                    pick['closed_reason'] = f'target_hit (+{target}%)'
-                    changed = True
-                elif current_pct <= stop:
-                    pick['status'] = 'miss'
-                    pick['closed_at'] = today.isoformat()
-                    pick['closed_price'] = round(current_price, 2)
-                    pick['closed_pct'] = round(current_pct, 2)
-                    pick['closed_reason'] = f'stop_hit ({stop}%)'
-                    changed = True
-                elif weeks_elapsed >= horizon:
-                    pick['status'] = 'expired'
-                    pick['closed_at'] = today.isoformat()
-                    pick['closed_price'] = round(current_price, 2)
-                    pick['closed_pct'] = round(current_pct, 2)
-                    pick['closed_reason'] = f'horizon_reached ({horizon} weeks)'
-                    changed = True
+                if pick.get('pick_type') == 'long-term':
+                    pass
+                else:
+                    if target is not None and current_pct >= target:
+                        pick['status'] = 'hit'
+                        pick['closed_at'] = today.isoformat()
+                        pick['closed_price'] = round(current_price, 2)
+                        pick['closed_pct'] = round(current_pct, 2)
+                        pick['closed_reason'] = f'target_hit (+{target}%)'
+                        changed = True
+                    elif stop is not None and current_pct <= stop:
+                        pick['status'] = 'miss'
+                        pick['closed_at'] = today.isoformat()
+                        pick['closed_price'] = round(current_price, 2)
+                        pick['closed_pct'] = round(current_pct, 2)
+                        pick['closed_reason'] = f'stop_hit ({stop}%)'
+                        changed = True
+                    elif horizon and weeks_elapsed >= horizon:
+                        pick['status'] = 'expired'
+                        pick['closed_at'] = today.isoformat()
+                        pick['closed_price'] = round(current_price, 2)
+                        pick['closed_pct'] = round(current_pct, 2)
+                        pick['closed_reason'] = f'horizon_reached ({horizon} weeks)'
+                        changed = True
 
     if changed:
         save_picks(picks_data)

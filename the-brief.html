@@ -1477,6 +1477,9 @@ p.lede {
 .pick-status-badge.hit { background: rgba(45, 90, 61, 0.15); color: var(--green); }
 .pick-status-badge.miss { background: rgba(139, 46, 31, 0.15); color: var(--accent); }
 .pick-status-badge.expired { background: var(--paper-warm); color: var(--ink-muted); border: 1px solid var(--rule); }
+.pick-status-badge.long-term-hold { background: rgba(45, 90, 61, 0.1); color: var(--green); border: 1px solid rgba(45, 90, 61, 0.3); }
+
+.pick-card.status-long-term-hold { border-left-color: var(--green); }
 
 .pick-meta-row {
   text-align: right;
@@ -2713,13 +2716,16 @@ function emptyState(title, body) {
 // ===== Render: Tracked Picks =====
 function renderPickCard(p) {
   const status = p.status || 'open';
+  const isLongTerm = p.pick_type === 'long-term';
 
-  const actionLabel = {
-    open: 'BUY',
-    hit: 'SELL · target reached',
-    miss: 'SELL · stopped out',
-    expired: 'CLOSED · horizon expired',
-  }[status] || status.toUpperCase();
+  const actionLabel = isLongTerm && status === 'open'
+    ? 'HOLD'
+    : ({
+        open: 'BUY',
+        hit: 'SELL · target reached',
+        miss: 'SELL · stopped out',
+        expired: 'CLOSED · horizon expired',
+      }[status] || status.toUpperCase());
   const horizonLabel = p.horizon_label || '';
   const sectorLabel = p.sector || '';
 
@@ -2727,12 +2733,21 @@ function renderPickCard(p) {
     ? `<div style="font-family: 'Inter', sans-serif; font-size: 12px; color: var(--ink-muted); margin-top: 6px;">Closed ${escapeHtml(p.closed_at || '')} · ${escapeHtml(p.closed_reason || '')}</div>`
     : '';
 
-  const daysLine = status === 'open' && p.days_remaining != null
-    ? `<div style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-muted);">${p.days_remaining} days remaining</div>`
-    : '';
+  const daysLine = (() => {
+    if (status !== 'open') return '';
+    if (isLongTerm) {
+      const days = p.days_elapsed != null ? p.days_elapsed : 0;
+      const years = days >= 365 ? ` (${(days/365).toFixed(1)}y)` : '';
+      return `<div style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-muted);">${days} days held${years}</div>`;
+    }
+    if (p.days_remaining != null) {
+      return `<div style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-muted);">${p.days_remaining} days remaining</div>`;
+    }
+    return '';
+  })();
 
   return `
-    <div class="pick-card status-${status}">
+    <div class="pick-card status-${isLongTerm && status === 'open' ? 'long-term-hold' : status}">
       <div class="pick-head">
         <div class="mover-id">
           <div>${starHtml(p.ticker)}<span class="ticker" data-ticker="${escapeHtml(p.ticker)}">${escapeHtml(p.ticker)}</span></div>
@@ -2740,7 +2755,7 @@ function renderPickCard(p) {
           ${sectorLabel ? `<div style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-muted); font-weight: 600; margin-top: 4px;">${escapeHtml(sectorLabel)}</div>` : ''}
         </div>
         <div class="pick-meta-row">
-          <div class="pick-status-badge ${status}">${actionLabel}</div>
+          <div class="pick-status-badge ${isLongTerm && status === 'open' ? 'long-term-hold' : status}">${actionLabel}</div>
           ${horizonLabel ? `<div style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-muted); font-weight: 600;">${escapeHtml(horizonLabel)}</div>` : ''}
           ${daysLine}
         </div>
@@ -2782,7 +2797,7 @@ function renderPicks() {
   const open = picks.filter(p => p.status === 'open');
   const closed = picks.filter(p => p.status !== 'open');
 
-  const horizonCounts = { 'Short-term': 0, 'Medium-term': 0, 'Long-term': 0 };
+  const horizonCounts = { 'Short-term': 0, 'Medium-term': 0, 'Long-term': 0, 'Long-term hold': 0 };
   const sectorCounts = {};
   open.forEach(p => {
     const h = p.horizon_label || 'Unknown';

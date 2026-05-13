@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-13T13:21:57.454871+00:00",
+  "generated_at": "2026-05-13T13:54:38.646248+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -23,13 +23,14 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 22.88,
-      "current_pct": 2.01,
-      "change_pct_today": 4.0,
+      "current_price": 23.01,
+      "current_pct": 2.59,
+      "change_pct_today": -3.03,
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 1,
-      "days_remaining": 55
+      "days_remaining": 55,
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-12-NBIS",
@@ -54,9 +55,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 207.56,
-      "current_pct": 16.31,
-      "change_pct_today": 11.53,
+      "current_price": 204.12,
+      "current_pct": 14.38,
+      "change_pct_today": 13.97,
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,
@@ -64,7 +65,8 @@ window.theBriefPicks = {
       "closed_at": "2026-05-13",
       "closed_price": 207.56,
       "closed_pct": 16.31,
-      "closed_reason": "target_hit (+12%)"
+      "closed_reason": "target_hit (+12%)",
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-12-IWM-rotation",
@@ -89,13 +91,14 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 282.4,
-      "current_pct": 0.01,
-      "change_pct_today": -1.03,
+      "current_price": 280.47,
+      "current_pct": -0.67,
+      "change_pct_today": -0.74,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 1,
-      "days_remaining": 55
+      "days_remaining": 55,
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-12-AMD-value",
@@ -119,13 +122,14 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 454.7,
-      "current_pct": 2.88,
-      "change_pct_today": -0.89,
+      "current_price": 442.6,
+      "current_pct": 0.14,
+      "change_pct_today": -1.27,
       "name": "Advanced Micro Devices",
       "news_count": 3,
       "days_elapsed": 1,
-      "days_remaining": 41
+      "days_remaining": 41,
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-12-XLE-oil",
@@ -149,13 +153,14 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 57.45,
-      "current_pct": -0.47,
-      "change_pct_today": 0.48,
+      "current_price": 57.25,
+      "current_pct": -0.81,
+      "change_pct_today": -0.56,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 1,
-      "days_remaining": 27
+      "days_remaining": 27,
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-13-XOP-tactical",
@@ -186,7 +191,8 @@ window.theBriefPicks = {
       },
       "status": "open",
       "horizon_label": "Short-term",
-      "direction": "long"
+      "direction": "long",
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-13-USO-tactical",
@@ -217,7 +223,8 @@ window.theBriefPicks = {
       },
       "status": "open",
       "horizon_label": "Short-term",
-      "direction": "long"
+      "direction": "long",
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-13-FRO-tactical",
@@ -249,7 +256,8 @@ window.theBriefPicks = {
       },
       "status": "open",
       "horizon_label": "Short-term",
-      "direction": "long"
+      "direction": "long",
+      "pick_type": "strategic"
     },
     {
       "id": "2026-05-13-XOM-tactical",
@@ -278,7 +286,10 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open"
+      "status": "open",
+      "pick_type": "strategic",
+      "horizon_label": "Short-term",
+      "direction": "long"
     },
     {
       "id": "2026-05-13-CVX-tactical",
@@ -307,7 +318,10 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open"
+      "status": "open",
+      "pick_type": "strategic",
+      "horizon_label": "Short-term",
+      "direction": "long"
     }
   ],
   "summary": {
