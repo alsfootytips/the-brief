@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-13T13:54:38.638921+00:00",
+  "generated_at": "2026-05-13T14:09:56.589115+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -15,37 +15,172 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -5.96,
-      "price": 19.88,
+      "change_pct": -4.21,
+      "price": 20.25,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T13:54:27.051003+00:00"
+      "timestamp": "2026-05-13T14:09:43.845752+00:00"
     },
     {
       "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "change_pct": -5.01,
-      "price": 381.24,
+      "change_pct": -4.24,
+      "price": 384.36,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T13:54:27.051001+00:00"
-    },
-    {
-      "type": "mover",
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "change_pct": -3.03,
-      "price": 23.01,
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T13:54:27.050999+00:00"
+      "timestamp": "2026-05-13T14:09:43.845749+00:00"
     },
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 13.97,
-      "price": 204.12,
+      "change_pct": 10.93,
+      "price": 198.68,
       "is_watchlist": true,
-      "timestamp": "2026-05-13T13:54:27.050994+00:00"
+      "timestamp": "2026-05-13T14:09:43.845744+00:00"
+    },
+    {
+      "type": "mover",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "change_pct": -3.49,
+      "price": 432.65,
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T14:09:43.845729+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Azitra GAAP EPS of -$0.25",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592154-azitra-gaap-eps-of-0_25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:08:37+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Costamare Bulkers Holdings Limited Non-GAAP EPS of $0.51, revenue of $111.5M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592151-costamare-bulkers-holdings-limited-non-gaap-eps-of-0_51-revenue-of-111_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:07:24+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bilfinger SE Non-GAAP EPS of $1.04, revenue of $1.31B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592153-bilfinger-se-non-gaap-eps-of-1_04-revenue-of-1_31b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:07:20+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:06:33+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hemisphere Energy Corporation reports Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592148-hemisphere-energy-corporation-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:05:51+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BK Technologies Q1 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592150-bk-technologies-q1-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:05:47+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "W\u00e4rtsil\u00e4 and Origem collaborate on 371MW power projects in Brazil",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/w-rtsil-origem-collaborate-371mw-140543343.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:05:43+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Karyopharm Therapeutics Q1 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592149-karyopharm-therapeutics-q1-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:04:51+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GoPro updates on its exploration of strategic options",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592131-gopro-updates-on-its-exploration-of-strategic-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:04:22+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:02:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart layoffs bring attention to one reality about the retailer's stock price",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/walmart-layoffs-bring-attention-to-one-reality-about-the-retailers-stock-price-140151667.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:01:51+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Republicans are \u2018secretly\u2019 using \u2018Trump accounts\u2019 to privatize Social Security. It\u2019s a lousy idea.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/republicans-are-secretly-using-trump-accounts-to-privatize-social-security-its-a-lousy-idea-255131cd?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T14:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "All eyes on Klarna earnings as credit push meets revenue test",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/all-eyes-on-klarna-earnings-as-credit-push-meets-revenue-test-93CH-4685119",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:58:04+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Tower Semiconductor stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tower-semiconductor-stock-surging-today-93CH-4685118",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:57:51+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Redcloud stock rises on South Africa joint venture deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/redcloud-stock-rises-on-south-africa-joint-venture-deal-93CH-4685117",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:57:26+00:00"
     },
     {
       "type": "news",
@@ -54,7 +189,79 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/13/opec-oil-strait-hormuz-iran-war-saudi-arabia-uae.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T13:53:24+00:00"
+      "timestamp": "2026-05-13T13:57:13+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Accelerant Holdings earnings up next as specialty rates soften",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/accelerant-holdings-earnings-up-next-as-specialty-rates-soften-93CH-4685116",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:57:09+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Vishay Intertechnology Q1 2026 shows strong earnings beat",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vishay-intertechnology-q1-2026-shows-strong-earnings-beat-93CH-4685115",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:56:54+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Space Stocks Jump As SpaceX, Google Explore Orbital Data Center Deal",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/spacex-google-orbital-data-centers-partnership-rocket-launch-space-stocks-intuitive-machines-lunr/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:56:48+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Compass Pathways stock hits 52-week high at 10.22 USD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/compass-pathways-stock-hits-52week-high-at-1022-usd-93CH-4685114",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:56:39+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: AGT Food\u2019s solid Q1 2026 results amid challenges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-agt-foods-solid-q1-2026-results-amid-challenges-93CH-4685113",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:56:35+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Teekay Tankers earnings test: Can margins offset revenue slide?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/teekay-tankers-earnings-test-can-margins-offset-revenue-slide-93CH-4685112",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:56:15+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nebius Reinforces 'Second Wave' Of The AI ETF Trade As Investors Look Beyond Nvidia Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eefda56aa724bc983c26f3c230324d1d52b363571649e4bc1b7964d983fc5563",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T13:55:42+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best private student loans for May 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/best-private-student-loans-135459013.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T13:54:59+00:00"
     },
     {
       "type": "news",
@@ -67,30 +274,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:51:01+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hydro One GAAP EPS of $0.65, revenue of $2.64M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592125-hydro-one-gaap-eps-of-0_65-revenue-of-2_64m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:48:03+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ArrowMark Financial declares $0.15 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592124-arrowmark-financial-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:47:15+00:00"
+      "ticker": "NVDA",
+      "headline": "Stock Market Today: Dow Falls On Hot Inflation But Nvidia, Micron Rise; Trump-Xi Summit Looms (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd07fcc9ad745b02633c9f69ff587d10f3f058af7aedc209c9c9203ec8a3dabf",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T13:47:42+00:00"
     },
     {
       "type": "news",
@@ -104,123 +293,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "uCloudlink Group Non-GAAP EPS of -$0.09, revenue of $16.9M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592123-ucloudlink-group-non-gaap-eps-of-0_09-revenue-of-16_9m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:46:32+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arrow Electronics stock gains on $1 billion buyback, BofA upgrade",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/arrow-electronics-stock-gains-on-1-billion-buyback-bofa-upgrade-93CH-4685059",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:46:04+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fiserv stock hits 52-week low at 52.87 USD",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/fiserv-stock-hits-52week-low-at-5287-usd-93CH-4685058",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:46:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13F Objectivity Squared For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13f-objectivity-squared-for-13-may-93CH-4685057",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:45:54+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13F PRUDENTIAL LIFE INSURANCE COMPANY For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13f-prudential-life-insurance-company-for-13-may-93CH-4685056",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:45:54+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Birkenstock shares slump 10% after Q2 results miss estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/birkenstock-shares-tumbles-on-earnings-miss-despite-revenue-growth-4683535",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:45:54+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13G KENSINGTON CAPITAL ACQUISITION CORP. VI For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13g-kensington-capital-acquisition-corp-vi-for-13-may-93CH-4685055",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:45:53+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Agilon Health stock reaches 52-week high at 72.48 USD",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/agilon-health-stock-reaches-52week-high-at-7248-usd-93CH-4685054",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:45:51+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13F Southeast Asset Advisors For: 13 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13f-southeast-asset-advisors-for-13-may-93CH-4685053",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:45:51+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Petrobras declares $0.1426 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592122-petrobras-declares-0_1426-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:45:49+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top high flyer stocks among utilities sector",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592112-top-high-flyer-stocks-among-utilities-sector?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:44:59+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wendy's gains after Argus upgrades on M&A potential",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592086-wendys-gains-after-argus-upgrades-on-ma-potential?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:43:34+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alto Neuroscience GAAP EPS of -$0.80",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592121-alto-neuroscience-gaap-eps-of-0_80?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:42:17+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Semiconductor names have never before held this much sway over the stock market. History shows that could be a problem.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/semiconductor-names-have-never-before-held-this-much-sway-over-the-stock-market-history-shows-that-could-be-a-problem-bc492950?mod=mw_rss_topstories",
@@ -229,12 +301,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Oil little changed as Trump heads to China",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:36:22+00:00"
+      "ticker": "NVDA",
+      "headline": "IDV\u2019s 4.7% yield just proved it can survive tariffs and a stronger dollar",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c960d17feda8673ffd0e8bc9794da82b89f5d81fe7d84defa69a719a23f8423c",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T13:37:32+00:00"
     },
     {
       "type": "news",
@@ -256,30 +328,30 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "AMD",
       "headline": "AMD, Under Armour downgraded: Wall Street's top analyst calls",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b54ab9e2524d3ab07e65488e36a4d660947f471af488ed94cd704d5f76f32c24",
+      "is_watchlist": true,
       "timestamp": "2026-05-13T13:35:33+00:00"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Stock Market Today: Dow Falls On Hot Inflation But Nvidia, Micron, Intel Rise; Trump-Xi Summit Looms (Live Coverage)",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-trump-xi-summit-nvidia-sandisk-micron-intel-nebius/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:35:31+00:00"
+      "ticker": "AMD",
+      "headline": "Forget Intel: Here Is the Chip Stock Wall Street Is Sleeping On",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4de1b9d7eb4453185280d0d39e90ed550e07f5e06fef1e647a47c02861ba427",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T13:34:44+00:00"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Monolithic Power Systems (MPWR) Surged on Robust Quarterly Results",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/monolithic-power-systems-mpwr-surged-133346727.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:33:46+00:00"
+      "ticker": "AMD",
+      "headline": "Daiwa lowers AMD rating after substantial rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0914c92ed4cb644871eadc1b2ae3fbe19f5df0e692dcbee5159a96fa514a60f0",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T13:29:22+00:00"
     },
     {
       "type": "news",
@@ -310,6 +382,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "PWR",
+      "headline": "3 Electrical Infrastructure Stocks With Shockingly Strong Returns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80c7982802ffff61ec723db80347a0df5b5430a69db54d615982db6e2acd4be9",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T13:20:00+00:00"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "What\u2019s at stake as Trump and an army of CEOs are in China",
       "source": "MarketWatch",
@@ -325,15 +406,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T13:19:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:17:00+00:00"
     },
     {
       "type": "news",
@@ -387,13 +459,13 @@ window.theBriefLive = {
         {
           "ticker": "XLE",
           "direction": "positive",
-          "why": "Hormuz shipping concerns typically elevate oil prices, benefiting energy sector broadly.",
+          "why": "Hormuz tensions typically elevate oil prices, benefiting energy sector broadly.",
           "conviction": 3
         },
         {
-          "ticker": "ZIM",
+          "ticker": "STNG",
           "direction": "positive",
-          "why": "Shipping tensions through Hormuz could drive higher freight rates and route premiums.",
+          "why": "Tanker operators could see higher rates if Hormuz transit becomes constrained or riskier.",
           "conviction": 3
         }
       ]
@@ -409,57 +481,30 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "DG",
+      "headline": "Is It Time To Reassess Dollar General (DG) After Recent Share Price Weakness?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=486428fd39af576c457380e40c55c5a3d80bcfe6224dfe17c40f54149cecedf5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T12:17:18+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "AirJoule Technologies Schedules Release of First Quarter 2026 Results and Conference Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d73923371d7a510041115a63cbcfc6bad7bdf42cc14cdbc82c2f1f5c3a1ef726",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T12:00:00+00:00"
+    },
+    {
+      "type": "news",
       "ticker": null,
-      "headline": "5 tests Kevin Warsh will face on the first day as Fed chair",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
+      "headline": "Nissan predicts profit above $1 billion this fiscal year, modest Iran war hit - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGhpdENxOVcyMExfTWs0aTZyREJxX01vaEF0NkxyMVBqZ3hzdU12NGpPREhzYXhfcnRiLXpkekNzS1NLTXYySWZuRzlTNlBWeFJ4dVZRUVlMaVVIbnJjYkttTXA3SERmLVJ4bWJmUGp3VVJoSXZ1VVRFTlVOSEVjRHltZ2tTcWMxTWNRNkMtLV81QXM4eFpoajNFazF1RFBPLWc?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-13T12:28:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "This $13 Nvidia-Backed Artificial Intelligence (AI) Stock Just Partnered with Anduril. Here's What Investors Need to Know.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0aa814990852696512221e2b8a426813c7c859045bd5e5f75f52a4f6e87ab2a7",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T11:50:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Nvidia vs. AMD: The Better AI Chip Stock for 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76460272764b423ea41a70c120570dfe12d7aeffe6b81555f9e7aa50fa889bd8",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T11:43:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia vs. AMD: The Better AI Chip Stock for 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76460272764b423ea41a70c120570dfe12d7aeffe6b81555f9e7aa50fa889bd8",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T11:43:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AI chip stocks surge again as Nvidia\u2019s Huang joins Trump on visit to China",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cf1711eb0d7e34d333ef9c09000d7035e3a3ca4f311db5b96591435bc9fb377",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T11:42:49+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "AI chip stocks surge again as Nvidia\u2019s Huang joins Trump on visit to China",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cf1711eb0d7e34d333ef9c09000d7035e3a3ca4f311db5b96591435bc9fb377",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T11:42:49+00:00"
+      "timestamp": "2026-05-13T11:47:08+00:00"
     },
     {
       "type": "mover_statement",
@@ -476,19 +521,10 @@ window.theBriefLive = {
         {
           "ticker": "JPM",
           "direction": "negative",
-          "why": "CEO signaling UK political risk may raise concerns about London expansion plans.",
+          "why": "Political uncertainty around UK expansion plans could weigh on sentiment, though unlikely to materially impact near-term financials.",
           "conviction": 2
         }
       ]
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Latest News In AI Chips - Vapi Advances Voice AI With $50 Million Series B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58a8cc6d87d688eb7befc47568dd25ab6e10aaedbacbe00a083a51cb08bd7804",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T11:37:47+00:00"
     },
     {
       "type": "news",
@@ -539,15 +575,15 @@ window.theBriefLive = {
       "timestamp": "2026-05-13T10:16:09+00:00",
       "affected_stocks": [
         {
-          "ticker": "ITA",
-          "direction": "mixed",
-          "why": "Escalating Gaza conflict sustains elevated defense spending outlook but adds regional instability.",
+          "ticker": "LMT",
+          "direction": "positive",
+          "why": "Escalating conflict could sustain elevated defense spending, though Israel escalation alone is incremental to existing backdrop.",
           "conviction": 2
         },
         {
-          "ticker": "LMT",
+          "ticker": "RTX",
           "direction": "positive",
-          "why": "Continued hostilities support sustained defense procurement demand for Israeli missile systems.",
+          "why": "Defense contractors may see sustained demand for munitions and missile defense systems.",
           "conviction": 2
         }
       ]
@@ -564,6 +600,15 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NBIS",
+      "headline": "Nebius : Letter to shareholders (Nebius SHL Q1 2026)",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=524c75c43d15d82c5a210bf5e86fb25dd1228e66e734ffc2a7ee6c63a9981a09",
+      "is_watchlist": true,
+      "timestamp": "2026-05-13T10:04:15+00:00"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
       "headline": "Transcript : Nebius Group N.V., Q1 2026 Earnings Call, May 13, 2026",
       "source": "Finnhub",
       "url": "https://finnhub.io/api/news?id=a9d58c05ba626dff620f9ad3401bb29a1ce9afd4567e7a00515dfe85d18198fc",
@@ -572,16 +617,16 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Nebius: Q1 Exemplifies Solid Execution",
+      "ticker": "IWM",
+      "headline": "US Equities: The Only Real Safe Haven Right Now",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3540ab5700fe3163ac8372a4733c6da5019ad66e39027e7aef0d2b8732c250a6",
+      "url": "https://finnhub.io/api/news?id=2c2c6a669f1d283ab627cdfdfd5e7c09195e90d8e2e83d335e7799973f82566a",
       "is_watchlist": true,
-      "timestamp": "2026-05-13T09:30:50+00:00"
+      "timestamp": "2026-05-13T09:49:54+00:00"
     },
     {
       "type": "news",
-      "ticker": "NBIS",
+      "ticker": "CRWV",
       "headline": "Nebius: Q1 Exemplifies Solid Execution",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3540ab5700fe3163ac8372a4733c6da5019ad66e39027e7aef0d2b8732c250a6",
@@ -612,31 +657,22 @@ window.theBriefLive = {
         {
           "ticker": "XLE",
           "direction": "positive",
-          "why": "IEA forecasting supply deficit due to Iran conflict directly supports oil price upside.",
-          "conviction": 4
-        },
-        {
-          "ticker": "USO",
-          "direction": "positive",
-          "why": "Oil ETF should track higher crude prices from Iran-driven supply shortfall.",
+          "why": "IEA projecting supply deficit directly supports higher oil prices, benefiting energy producers.",
           "conviction": 4
         },
         {
           "ticker": "XOM",
           "direction": "positive",
-          "why": "Supply deficit scenario strongly benefits integrated majors through higher realized prices.",
+          "why": "Supply shortfall would drive crude pricing higher, directly benefiting integrated majors.",
+          "conviction": 4
+        },
+        {
+          "ticker": "CVX",
+          "direction": "positive",
+          "why": "Tightening oil market improves earnings outlook for large-cap exploration and production.",
           "conviction": 4
         }
       ]
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "An Alarming Negative Rate Of Change For The Economy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5759c5e5a16bb628ca325eae551a74248528c6bc658f22c5be1f2299dcae4e0e",
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T09:01:26+00:00"
     },
     {
       "type": "news",
@@ -734,7 +770,7 @@ window.theBriefLive = {
         {
           "ticker": "SIEGY",
           "direction": "positive",
-          "why": "Better-than-expected orders suggest demand resilience despite geopolitical headwinds.",
+          "why": "Better-than-expected orders suggest industrial demand resilience despite geopolitical backdrop.",
           "conviction": 3
         }
       ]
@@ -756,15 +792,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-13T05:01:07+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vietnam imports more fuel to offset oil shortfall amid Iran war, data shows - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXJwMDBKRmVzQ0Z6a1JhTzRBYWdzTnEzVFpBMW8zamcyWkV1Z2J6a2dZMVU4WVU3MlZUZWoyZ0otcXlMSUZZQVVfWjFWQmdfSF9tY3ZWcWhDZW56QzhOQUMtdFlNM2h1Si1PTUg4ZzZ6aWw2WVc3aTU4Wk9FU1RMYUh2djBPNnJCU3B6X09sUGQ0dHg1UDA3S2FvZzFPb2VfVUwxX1N2ZTUzS3AzVnpTSWF6VmhlR3p2eXZYWk9sZ3Y?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T04:47:00+00:00"
     },
     {
       "type": "news",
@@ -849,7 +876,15 @@ window.theBriefLive = {
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": true,
-      "timestamp": "2026-05-12T18:51:56+00:00"
+      "timestamp": "2026-05-12T18:51:56+00:00",
+      "affected_stocks": [
+        {
+          "ticker": "MSFT",
+          "direction": "mixed",
+          "why": "OpenAI control battle adds noise to MSFT's AI partnership, though operational impact likely minimal near-term.",
+          "conviction": 2
+        }
+      ]
     },
     {
       "type": "news",
@@ -952,15 +987,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "DG",
-      "headline": "Should Investors Buy Costco Stock Now After Strong April Retail Sales?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bafa5751db59f79b00d44e7c64077ae8221d65971e862a352ddcc3b0802c8404",
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T15:17:00+00:00"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "The Trade Desk: Is This The Explanation?",
       "source": "SeekingAlpha",
@@ -985,15 +1011,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=23423a125e015b547e871ecdb2b02809697b1f02c9364122f7d7e52886660059",
       "is_watchlist": true,
       "timestamp": "2026-05-12T14:00:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Vernova Modernizing T\u00fcrkiye\u2019s Power Generation With Country's First H-Class Gas Turbine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b120296faa661007ec641aa7d802b9bcfeaf183b01dd2c491ce3938c783591f",
-      "is_watchlist": true,
-      "timestamp": "2026-05-12T13:50:07+00:00"
     },
     {
       "type": "news",
@@ -1201,15 +1218,6 @@ window.theBriefLive = {
       "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000033/tpl-20260505.htm",
       "is_watchlist": true,
       "timestamp": "2026-05-06"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Shares of aerospace and defense companies are trading lower amid overall market weakness, as investors react to reports that air defenses were activated in Tehran and to President Trump's social media post. The industry may be weighed down by Lockheed Martin's Q1 earnings miss.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3f143d59f114ee5d91fa4db23975e72e7b04529d85fee0e124049b5febfbd049",
-      "is_watchlist": true,
-      "timestamp": "2026-04-23T15:55:18+00:00"
     }
   ]
 };
