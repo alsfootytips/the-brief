@@ -1,9 +1,5 @@
 window.theBriefPicks = {
-<<<<<<< Updated upstream
-  "generated_at": "2026-05-13T14:09:56.590484+00:00",
-=======
   "generated_at": "2026-05-13T14:19:41.717584+00:00",
->>>>>>> Stashed changes
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,15 +23,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-<<<<<<< Updated upstream
-      "current_price": 23.58,
-      "current_pct": 5.13,
-      "change_pct_today": -0.65,
-=======
       "current_price": 23.88,
       "current_pct": 6.46,
       "change_pct_today": 0.63,
->>>>>>> Stashed changes
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 1,
@@ -65,15 +55,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
-<<<<<<< Updated upstream
-      "current_price": 198.68,
-      "current_pct": 11.33,
-      "change_pct_today": 10.93,
-=======
       "current_price": 200.81,
       "current_pct": 12.52,
       "change_pct_today": 12.12,
->>>>>>> Stashed changes
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,
@@ -107,15 +91,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-<<<<<<< Updated upstream
-      "current_price": 280.72,
-      "current_pct": -0.58,
-      "change_pct_today": -0.65,
-=======
       "current_price": 280.54,
       "current_pct": -0.64,
       "change_pct_today": -0.72,
->>>>>>> Stashed changes
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 1,
@@ -144,15 +122,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-<<<<<<< Updated upstream
-      "current_price": 432.65,
-      "current_pct": -2.11,
-      "change_pct_today": -3.49,
-=======
       "current_price": 436.3,
       "current_pct": -1.29,
       "change_pct_today": -2.67,
->>>>>>> Stashed changes
       "name": "Advanced Micro Devices",
       "news_count": 3,
       "days_elapsed": 1,

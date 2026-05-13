@@ -1,9 +1,5 @@
 window.theBriefLive = {
-<<<<<<< Updated upstream
-  "generated_at": "2026-05-13T14:09:56.589115+00:00",
-=======
   "generated_at": "2026-05-13T14:19:41.066537+00:00",
->>>>>>> Stashed changes
   "events": [
     {
       "type": "earnings_upcoming",
@@ -19,103 +15,50 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-<<<<<<< Updated upstream
-      "change_pct": -4.21,
-      "price": 20.25,
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T14:09:43.845752+00:00"
-=======
       "change_pct": -3.78,
       "price": 20.34,
       "is_watchlist": true,
       "timestamp": "2026-05-13T14:19:27.740557+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-<<<<<<< Updated upstream
-      "change_pct": -4.24,
-      "price": 384.36,
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T14:09:43.845749+00:00"
-=======
       "change_pct": -5.12,
       "price": 380.82,
       "is_watchlist": true,
       "timestamp": "2026-05-13T14:19:27.740554+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-<<<<<<< Updated upstream
-      "change_pct": 10.93,
-      "price": 198.68,
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T14:09:43.845744+00:00"
-    },
-    {
-      "type": "mover",
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "change_pct": -3.49,
-      "price": 432.65,
-      "is_watchlist": true,
-      "timestamp": "2026-05-13T14:09:43.845729+00:00"
-=======
       "change_pct": 12.12,
       "price": 200.81,
       "is_watchlist": true,
       "timestamp": "2026-05-13T14:19:27.740542+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Azitra GAAP EPS of -$0.25",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592154-azitra-gaap-eps-of-0_25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:08:37+00:00"
-=======
       "headline": "Personalis rises as Medicare coverage for NeXT Personal test expands",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4592167-personalis-wins-wider-medicare-coverage-cancer-test?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:17:42+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Costamare Bulkers Holdings Limited Non-GAAP EPS of $0.51, revenue of $111.5M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592151-costamare-bulkers-holdings-limited-non-gaap-eps-of-0_51-revenue-of-111_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:07:24+00:00"
-=======
       "headline": "Canadian Solar Q1 2026 Earnings Preview",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4592171-canadian-solar-q1-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:17:14+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Bilfinger SE Non-GAAP EPS of $1.04, revenue of $1.31B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592153-bilfinger-se-non-gaap-eps-of-1_04-revenue-of-1_31b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:07:20+00:00"
-=======
       "headline": "Form 13G UNITED ACQUISITION CORP. I For: 13 May",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/filings/form-13g-united-acquisition-corp-i-for-13-may-93CH-4685246",
@@ -166,35 +109,19 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4592169-peyto-exploration-and-development-declares-cad-0_12-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:15:41+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:06:33+00:00"
-=======
       "headline": "Form 13F J.P. Morgan Investment Management Inc. For: 13 May",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/filings/form-13f-jp-morgan-investment-management-inc-for-13-may-93CH-4685241",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:15:38+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Hemisphere Energy Corporation reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592148-hemisphere-energy-corporation-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:05:51+00:00"
-=======
       "headline": "Form 13F AMERICAN FINANCIAL GROUP INC 401(K) RETIREMENT & SAVINGS PLAN For: 13 May",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/filings/form-13f-american-financial-group-inc-401k-retirement--savings-plan-for-13-may-93CH-4685240",
@@ -218,121 +145,33 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4591871-wix-falls-after-q1-results-miss-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:15:22+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "BK Technologies Q1 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592150-bk-technologies-q1-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:05:47+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "W\u00e4rtsil\u00e4 and Origem collaborate on 371MW power projects in Brazil",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/w-rtsil-origem-collaborate-371mw-140543343.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:05:43+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Karyopharm Therapeutics Q1 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592149-karyopharm-therapeutics-q1-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:04:51+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GoPro updates on its exploration of strategic options",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592131-gopro-updates-on-its-exploration-of-strategic-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:04:22+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:02:00+00:00"
-=======
       "headline": "\u2018He is retired\u2019: Should my husband take his Social Security at 62 and invest it?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/he-is-retired-should-my-husband-take-his-social-security-at-62-and-invest-it-c7b74368?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:15:00+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Walmart layoffs bring attention to one reality about the retailer's stock price",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/walmart-layoffs-bring-attention-to-one-reality-about-the-retailers-stock-price-140151667.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:01:51+00:00"
-=======
       "headline": "TTEC edges up after securing strategic collaboration agreement with Amazon",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4592138-ttec-edges-up-after-securing-strategic-collaboration-agreement-with-amazon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:14:51+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Republicans are \u2018secretly\u2019 using \u2018Trump accounts\u2019 to privatize Social Security. It\u2019s a lousy idea.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/republicans-are-secretly-using-trump-accounts-to-privatize-social-security-its-a-lousy-idea-255131cd?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T14:00:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "All eyes on Klarna earnings as credit push meets revenue test",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/all-eyes-on-klarna-earnings-as-credit-push-meets-revenue-test-93CH-4685119",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:58:04+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Tower Semiconductor stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-tower-semiconductor-stock-surging-today-93CH-4685118",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:57:51+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Redcloud stock rises on South Africa joint venture deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/redcloud-stock-rises-on-south-africa-joint-venture-deal-93CH-4685117",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:57:26+00:00"
-=======
       "headline": "Boston Pizza Royalties Income Fund GAAP EPS of $0.57, revenue of $12.68M",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4592166-boston-pizza-royalties-income-fund-gaap-eps-of-0_57-revenue-of-12_68m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:13:52+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
@@ -341,39 +180,20 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/13/opec-oil-strait-hormuz-iran-war-saudi-arabia-uae.html",
       "is_watchlist": false,
-<<<<<<< Updated upstream
-      "timestamp": "2026-05-13T13:57:13+00:00"
-=======
       "timestamp": "2026-05-13T14:13:20+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Accelerant Holdings earnings up next as specialty rates soften",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/accelerant-holdings-earnings-up-next-as-specialty-rates-soften-93CH-4685116",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:57:09+00:00"
-=======
       "headline": "Few Americans can afford long-term care \u2014 but this state program could be a game changer",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/few-americans-can-afford-long-term-care-but-this-state-program-could-be-a-game-changer-e136b6ff?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:13:00+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "Earnings call transcript: Vishay Intertechnology Q1 2026 shows strong earnings beat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vishay-intertechnology-q1-2026-shows-strong-earnings-beat-93CH-4685115",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:56:54+00:00"
-=======
       "headline": "Wall Street drifts lower after a hotter than forecasted PPI inflation print",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4592088-wall-street-drifts-lower-after-a-hotter-than-forecasted-ppi-inflation-print?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -424,7 +244,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/republicans-are-secretly-using-trump-accounts-to-privatize-social-security-its-a-lousy-idea-255131cd?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-13T14:00:00+00:00"
->>>>>>> Stashed changes
     },
     {
       "type": "news",
@@ -437,36 +256,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-<<<<<<< Updated upstream
-      "ticker": null,
-      "headline": "Compass Pathways stock hits 52-week high at 10.22 USD",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/compass-pathways-stock-hits-52week-high-at-1022-usd-93CH-4685114",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:56:39+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: AGT Food\u2019s solid Q1 2026 results amid challenges",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-agt-foods-solid-q1-2026-results-amid-challenges-93CH-4685113",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:56:35+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Teekay Tankers earnings test: Can margins offset revenue slide?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/teekay-tankers-earnings-test-can-margins-offset-revenue-slide-93CH-4685112",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:56:15+00:00"
-    },
-    {
-      "type": "news",
-=======
->>>>>>> Stashed changes
       "ticker": "NVDA",
       "headline": "Nebius Reinforces 'Second Wave' Of The AI ETF Trade As Investors Look Beyond Nvidia Chips",
       "source": "Yahoo",
@@ -612,27 +401,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-<<<<<<< Updated upstream
-      "headline": "What\u2019s at stake as Trump and an army of CEOs are in China",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/whats-at-stake-as-trump-and-an-army-of-ceos-go-to-china-24a64200?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:19:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wholesale prices jump to 4-year high and point to even more inflation this summer",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T13:19:00+00:00"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-=======
->>>>>>> Stashed changes
       "headline": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html",
@@ -691,23 +459,14 @@ window.theBriefLive = {
         {
           "ticker": "XLE",
           "direction": "positive",
-<<<<<<< Updated upstream
-          "why": "Hormuz tensions typically elevate oil prices, benefiting energy sector broadly.",
-=======
           "why": "Hormuz passage concerns elevate oil supply risk premium across energy sector.",
->>>>>>> Stashed changes
           "conviction": 3
         },
         {
           "ticker": "STNG",
           "direction": "positive",
-<<<<<<< Updated upstream
-          "why": "Tanker operators could see higher rates if Hormuz transit becomes constrained or riskier.",
-          "conviction": 3
-=======
           "why": "Tanker operators benefit directly from elevated shipping rates through constrained Hormuz strait.",
           "conviction": 4
->>>>>>> Stashed changes
         }
       ]
     },
@@ -762,9 +521,6 @@ window.theBriefLive = {
         {
           "ticker": "JPM",
           "direction": "negative",
-<<<<<<< Updated upstream
-          "why": "Political uncertainty around UK expansion plans could weigh on sentiment, though unlikely to materially impact near-term financials.",
-=======
           "why": "Signals potential UK investment pullback risk if political instability materializes.",
           "conviction": 2
         },
@@ -772,7 +528,6 @@ window.theBriefLive = {
           "ticker": "LAND",
           "direction": "negative",
           "why": "London commercial real estate faces headline risk if major tenant reconsiders UK presence.",
->>>>>>> Stashed changes
           "conviction": 2
         }
       ]
@@ -828,15 +583,6 @@ window.theBriefLive = {
         {
           "ticker": "LMT",
           "direction": "positive",
-<<<<<<< Updated upstream
-          "why": "Escalating conflict could sustain elevated defense spending, though Israel escalation alone is incremental to existing backdrop.",
-          "conviction": 2
-        },
-        {
-          "ticker": "RTX",
-          "direction": "positive",
-          "why": "Defense contractors may see sustained demand for munitions and missile defense systems.",
-=======
           "why": "Escalated conflict sustains defense spending momentum but already priced into sector.",
           "conviction": 2
         },
@@ -844,7 +590,6 @@ window.theBriefLive = {
           "ticker": "XLE",
           "direction": "mixed",
           "why": "Gaza escalation adds geopolitical premium but competes with broader Iran ceasefire narrative.",
->>>>>>> Stashed changes
           "conviction": 2
         }
       ]
@@ -918,35 +663,20 @@ window.theBriefLive = {
         {
           "ticker": "XLE",
           "direction": "positive",
-<<<<<<< Updated upstream
-          "why": "IEA projecting supply deficit directly supports higher oil prices, benefiting energy producers.",
-          "conviction": 4
-=======
           "why": "IEA supply deficit forecast directly drives oil price expectations and energy equity valuations.",
           "conviction": 5
->>>>>>> Stashed changes
         },
         {
           "ticker": "XOM",
           "direction": "positive",
-<<<<<<< Updated upstream
-          "why": "Supply shortfall would drive crude pricing higher, directly benefiting integrated majors.",
-          "conviction": 4
-=======
           "why": "Integrated supermajor is immediate beneficiary of sustained higher oil prices from supply squeeze.",
           "conviction": 5
->>>>>>> Stashed changes
         },
         {
           "ticker": "CVX",
           "direction": "positive",
-<<<<<<< Updated upstream
-          "why": "Tightening oil market improves earnings outlook for large-cap exploration and production.",
-          "conviction": 4
-=======
           "why": "Large-cap energy producer gains directly from structural oil supply deficit this year.",
           "conviction": 5
->>>>>>> Stashed changes
         }
       ]
     },
@@ -1046,13 +776,8 @@ window.theBriefLive = {
         {
           "ticker": "SIEGY",
           "direction": "positive",
-<<<<<<< Updated upstream
-          "why": "Better-than-expected orders suggest industrial demand resilience despite geopolitical backdrop.",
-          "conviction": 3
-=======
           "why": "Better-than-expected order growth demonstrates resilience despite geopolitical headwinds.",
           "conviction": 4
->>>>>>> Stashed changes
         }
       ]
     },
@@ -1162,11 +887,7 @@ window.theBriefLive = {
         {
           "ticker": "MSFT",
           "direction": "mixed",
-<<<<<<< Updated upstream
-          "why": "OpenAI control battle adds noise to MSFT's AI partnership, though operational impact likely minimal near-term.",
-=======
           "why": "OpenAI governance drama creates uncertainty for Microsoft's $13B partnership and AI strategy.",
->>>>>>> Stashed changes
           "conviction": 2
         }
       ]
