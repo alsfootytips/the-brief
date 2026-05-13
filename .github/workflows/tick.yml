@@ -1,0 +1,88 @@
+name: Tick (live)
+
+# Lightweight refresh during market hours. No Claude API calls — just yfinance
+# prices, Finnhub news, SEC filings, RSS. Keeps the Live Feed and Movers Board
+# fresh between the twice-daily full-pipeline runs.
+
+on:
+  schedule:
+    # Every 15 minutes from 12:00 to 22:00 UTC on weekdays.
+    # That covers US pre-market through after-hours close.
+    # Cron: minute hour day month weekday  (UTC)
+    - cron: '0,15,30,45 12-22 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  # Share the group with the full pipeline so they queue instead of colliding.
+  group: update-brief
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check kill switch
+        id: pause
+        run: |
+          if [ -f PAUSED ]; then
+            echo "Pipeline paused via PAUSED file. Skipping run."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.pause.outputs.skip != 'true'
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        if: steps.pause.outputs.skip != 'true'
+        run: pip install -r requirements.txt
+
+      - name: Run tick pipeline
+        if: steps.pause.outputs.skip != 'true'
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          # Intentionally NOT setting ANTHROPIC_API_KEY here — tick mode skips
+          # the LLM steps anyway, and unsetting saves a defence-in-depth $0 cost.
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          PUSHOVER_USER_KEY: ${{ secrets.PUSHOVER_USER_KEY }}
+          PUSHOVER_APP_TOKEN: ${{ secrets.PUSHOVER_APP_TOKEN }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python update.py --tick
+
+      - name: Commit data updates
+        if: steps.pause.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/ picks.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "tick: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; pulling remote and retrying..."
+            git fetch origin main
+            git rebase origin/main || {
+              echo "Rebase failed; aborting."
+              git rebase --abort || true
+              exit 1
+            }
+            sleep 2
+          done
+          echo "All push attempts exhausted."
+          exit 1

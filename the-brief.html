@@ -2176,7 +2176,57 @@ window.theBriefDataReady = false;
   fetch('data/version.json', { cache: 'no-store' })
     .then(r => r.ok ? r.json() : null)
     .catch(() => null)
-    .then(v => loadAll(v && v.version ? v.version : Date.now()));
+    .then(v => {
+      const version = v && v.version ? v.version : Date.now();
+      window.theBriefCurrentVersion = version;
+      return loadAll(version);
+    });
+
+  // ----- Auto-refresh: poll version.json while the tab is visible -----
+  // The tick cron updates data files every 15 minutes during market hours.
+  // We poll every 60s and quietly swap data scripts when the version bumps.
+  async function checkForUpdate() {
+    if (document.hidden) return;
+    try {
+      const r = await fetch('data/version.json?_cb=' + Date.now(), { cache: 'no-store' });
+      if (!r.ok) return;
+      const v = await r.json();
+      if (!v || !v.version) return;
+      if (v.version === window.theBriefCurrentVersion) return;
+      window.theBriefCurrentVersion = v.version;
+      for (const [src, global] of FILES) {
+        await loadOne(src, global, v.version);
+      }
+      // Trigger a re-render and show a small "Updated" indicator.
+      if (typeof render === 'function') {
+        try { render(); } catch (e) {}
+      }
+      showUpdatedToast();
+    } catch (e) {
+      // network errors are fine, try again next interval
+    }
+  }
+
+  function showUpdatedToast() {
+    let el = document.getElementById('updated-toast');
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'updated-toast';
+      el.style.cssText = 'position:fixed;bottom:18px;right:18px;background:var(--ink,#1a1a1a);color:var(--paper,#faf8f3);font-family:Inter,sans-serif;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;font-weight:700;padding:8px 14px;border-radius:2px;z-index:9999;opacity:0;transition:opacity 0.25s;pointer-events:none;box-shadow:0 4px 12px rgba(0,0,0,0.15);';
+      document.body.appendChild(el);
+    }
+    const time = new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+    el.textContent = 'Updated · ' + time;
+    el.style.opacity = '1';
+    clearTimeout(el._hideTimer);
+    el._hideTimer = setTimeout(() => { el.style.opacity = '0'; }, 3200);
+  }
+
+  // Poll once a minute; also check immediately when the tab regains focus.
+  setInterval(checkForUpdate, 60000);
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden) checkForUpdate();
+  });
 })();
 </script>
 

@@ -2542,7 +2542,7 @@ def write_movers(movers: list[dict], news: list[dict], filings: list[dict],
 
 
 def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict],
-                    news: list[dict], out_path: Path) -> None:
+                    news: list[dict], out_path: Path, skip_llm: bool = False) -> None:
     events = []
 
     for m in movers:
@@ -2625,7 +2625,26 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
 
     events.sort(key=lambda x: (x.get('timestamp') or '', bool(x.get('is_watchlist'))), reverse=True)
 
-    events = enrich_events_with_advised_picks(events)
+    if not skip_llm:
+        events = enrich_events_with_advised_picks(events)
+    else:
+        # In tick mode, preserve advised_stocks from the previous live.js so the
+        # "stocks to look at" blocks don't vanish between full-pipeline runs.
+        try:
+            prev_text = out_path.read_text()
+            prev_data = json.loads(prev_text.split('= ', 1)[1].rstrip().rstrip(';'))
+            prev_enriched = {}
+            for prev_e in prev_data.get('events', []) or []:
+                if prev_e.get('type') == 'mover_statement' and prev_e.get('affected_stocks'):
+                    key = (prev_e.get('headline') or '')[:200]
+                    prev_enriched[key] = prev_e['affected_stocks']
+            for e in events:
+                if e.get('type') == 'mover_statement':
+                    key = (e.get('headline') or '')[:200]
+                    if key in prev_enriched:
+                        e['affected_stocks'] = prev_enriched[key]
+        except Exception:
+            pass  # never let preservation failures break tick mode
 
     payload = {
         'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(),
@@ -2669,7 +2688,13 @@ def main() -> int:
     check_no_conflict_markers()
     watchlist = load_watchlist()
 
-    print("== The Brief — ingestion pipeline ==")
+    # --tick mode: lightweight refresh for the Live Feed during market hours.
+    # Skips every Claude call (no editorial, no weekly picks, no advised-picks LLM,
+    # no long-term synthesis). Keeps yfinance, Finnhub, SEC, RSS — all free.
+    # Picks still get re-graded (price/news-driven status updates), just no new ones.
+    is_tick = '--tick' in sys.argv
+
+    print(f"== The Brief — {'TICK (lightweight)' if is_tick else 'full pipeline'} ==")
     print(f"Started: {dt.datetime.now().isoformat(timespec='seconds')}")
     print(f"Watchlist: {len(watchlist['followed'])} followed, "
           f"{len(watchlist['indices'])} indices, {len(watchlist['sectors'])} sectors")
@@ -2734,68 +2759,79 @@ def main() -> int:
     print(f"  {len(picks_data.get('picks', []))} existing picks tracked ({len(closed_picks)} just closed)")
 
     new_picks: list[dict] = []
-    if should_generate_picks(picks_data):
-        print("\nGenerating weekly picks via Claude...")
-        new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data, fundamentals, macro)
-        if new_picks:
-            picks_data['picks'].extend(new_picks)
-            picks_data = update_picks(picks_data, movers, all_news)
-            save_picks(picks_data)
-            print(f"  Added {len(new_picks)} new picks: {[p['ticker'] for p in new_picks]}")
-        else:
-            print("  No new picks generated this week")
-    else:
-        print("\nWeekly picks already generated this week, skipping")
+    daily_entry = None
+    current_issue = None
 
-    print("\nGenerating editorial daily entry via Claude...")
-    current_issue = find_current_issue_number()
-    print(f"  Current issue: №{current_issue}")
-    daily_entry = summarize_daily(movers, all_news, filings, earnings, watchlist, picks_data, macro)
-    if daily_entry:
-        print(f"  Daily headline: {daily_entry['headline']}")
+    if not is_tick:
+        if should_generate_picks(picks_data):
+            print("\nGenerating weekly picks via Claude...")
+            new_picks = generate_weekly_picks(movers, all_news, filings, earnings, watchlist, picks_data, fundamentals, macro)
+            if new_picks:
+                picks_data['picks'].extend(new_picks)
+                picks_data = update_picks(picks_data, movers, all_news)
+                save_picks(picks_data)
+                print(f"  Added {len(new_picks)} new picks: {[p['ticker'] for p in new_picks]}")
+            else:
+                print("  No new picks generated this week")
+        else:
+            print("\nWeekly picks already generated this week, skipping")
+
+        print("\nGenerating editorial daily entry via Claude...")
+        current_issue = find_current_issue_number()
+        print(f"  Current issue: №{current_issue}")
+        daily_entry = summarize_daily(movers, all_news, filings, earnings, watchlist, picks_data, macro)
+        if daily_entry:
+            print(f"  Daily headline: {daily_entry['headline']}")
+    else:
+        print("\nSkipping LLM steps (tick mode): weekly picks, daily editorial, advised-picks, long-term synthesis.")
+        current_issue = find_current_issue_number()
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     write_movers(movers, all_news, filings, earnings, watchlist, DATA_DIR / 'movers.js', fundamentals)
-    live_events = write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js')
+    live_events = write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js', skip_llm=is_tick)
 
-    print("\nChecking for event-driven tactical picks...")
-    tactical_picks = promote_advised_to_picks(live_events or [], picks_data, movers, max_new=2)
-    if tactical_picks:
-        new_picks = new_picks + tactical_picks
-        print(f"  Promoted {len(tactical_picks)} tactical picks: {[p['ticker'] for p in tactical_picks]}")
-    else:
-        print("  No high-conviction event-driven setups to promote")
+    if not is_tick:
+        print("\nChecking for event-driven tactical picks...")
+        tactical_picks = promote_advised_to_picks(live_events or [], picks_data, movers, max_new=2)
+        if tactical_picks:
+            new_picks = new_picks + tactical_picks
+            print(f"  Promoted {len(tactical_picks)} tactical picks: {[p['ticker'] for p in tactical_picks]}")
+        else:
+            print("  No high-conviction event-driven setups to promote")
 
-    # ===== News history archive =====
+    # ===== News history archive (cheap, always runs) =====
     appended = append_news_history(live_events or [])
     if appended:
         print(f"  Appended {appended} new headlines to data/news_history.jsonl")
 
-    # ===== Long-term thematic synthesis (monthly cadence) =====
-    force_long_term = '--force-long-term' in sys.argv
-    if should_run_long_term_synthesis(picks_data, force=force_long_term):
-        print("\nSynthesizing long-term structural picks from news history...")
-        lt_picks = synthesize_long_term_picks(picks_data, movers)
-        if lt_picks:
-            new_picks = new_picks + lt_picks
-            print(f"  Promoted {len(lt_picks)} long-term picks: {[p['ticker'] for p in lt_picks]}")
+    # ===== Long-term thematic synthesis (monthly cadence, full pipeline only) =====
+    if not is_tick:
+        force_long_term = '--force-long-term' in sys.argv
+        if should_run_long_term_synthesis(picks_data, force=force_long_term):
+            print("\nSynthesizing long-term structural picks from news history...")
+            lt_picks = synthesize_long_term_picks(picks_data, movers)
+            if lt_picks:
+                new_picks = new_picks + lt_picks
+                print(f"  Promoted {len(lt_picks)} long-term picks: {[p['ticker'] for p in lt_picks]}")
+            else:
+                print("  No long-term themes met the 5/5 conviction bar")
         else:
-            print("  No long-term themes met the 5/5 conviction bar")
-    else:
-        days = None
-        for p in picks_data.get('picks', []):
-            if p.get('pick_type') != 'long-term':
-                continue
-            try:
-                d = dt.date.fromisoformat(p.get('entered_at', ''))
-                delta = (dt.date.today() - d).days
-                days = delta if days is None else min(days, delta)
-            except (ValueError, TypeError):
-                continue
-        print(f"\nLong-term synthesis: skipped (last long-term pick was {days} days ago; cadence is monthly)")
+            days = None
+            for p in picks_data.get('picks', []):
+                if p.get('pick_type') != 'long-term':
+                    continue
+                try:
+                    d = dt.date.fromisoformat(p.get('entered_at', ''))
+                    delta = (dt.date.today() - d).days
+                    days = delta if days is None else min(days, delta)
+                except (ValueError, TypeError):
+                    continue
+            print(f"\nLong-term synthesis: skipped (last long-term pick was {days} days ago; cadence is monthly)")
 
     write_picks(picks_data, DATA_DIR / 'picks.js')
-    write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')
+    # In tick mode, leave the daily editorial alone — only the full pipeline regenerates it.
+    if not is_tick:
+        write_daily(daily_entry, current_issue, DATA_DIR / 'daily.js')
     write_fundamentals(fundamentals, DATA_DIR / 'fundamentals.js')
     write_macro(macro, DATA_DIR / 'macro.js')
 
