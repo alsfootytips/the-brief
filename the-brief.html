@@ -2721,6 +2721,74 @@ function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
+// ===== TradingView chart embeds =====
+// Maps a brief ticker to the exchange-prefixed symbol TradingView needs.
+// Most US stocks resolve fine with the bare ticker; LSE-listed UCITS ETFs and
+// a few sector ETFs need explicit prefixes. The list below covers what's
+// currently in the watchlist/picks/portfolio universe.
+const TV_EXCHANGE_OVERRIDES = {
+  // LSE-listed UCITS ETFs in the portfolio
+  'VWRP.L': 'LSE:VWRP',
+  'VUAG.L': 'LSE:VUAG',
+  // SPDR sector ETFs are NYSE Arca (TradingView labels them AMEX)
+  'XLE': 'AMEX:XLE', 'XLF': 'AMEX:XLF', 'XLK': 'AMEX:XLK', 'XLV': 'AMEX:XLV',
+  'XLY': 'AMEX:XLY', 'XLP': 'AMEX:XLP', 'XLI': 'AMEX:XLI', 'XLU': 'AMEX:XLU',
+  'XLB': 'AMEX:XLB', 'XLRE': 'AMEX:XLRE', 'XLC': 'AMEX:XLC',
+  // Other ETFs
+  'SPY': 'AMEX:SPY', 'QQQ': 'NASDAQ:QQQ', 'DIA': 'AMEX:DIA', 'IWM': 'AMEX:IWM',
+  'XOP': 'AMEX:XOP', 'USO': 'AMEX:USO',
+  // Picks / portfolio US stocks — let TradingView auto-resolve, but pin the
+  // ones that have ambiguous matches.
+  'GEV': 'NYSE:GEV',
+  'PWR': 'NYSE:PWR',
+  'PLTR': 'NASDAQ:PLTR',
+  'NBIS': 'NASDAQ:NBIS',
+  'CRWV': 'NASDAQ:CRWV',
+  'NVDA': 'NASDAQ:NVDA',
+  'AMD': 'NASDAQ:AMD',
+  'MSFT': 'NASDAQ:MSFT',
+  'META': 'NASDAQ:META',
+  'OSCR': 'NYSE:OSCR',
+  'SOFI': 'NASDAQ:SOFI',
+  'TTD': 'NASDAQ:TTD',
+  'XOM': 'NYSE:XOM',
+  'CVX': 'NYSE:CVX',
+  'FRO': 'NYSE:FRO',
+  'STNG': 'NYSE:STNG',
+  'SIEGY': 'OTC:SIEGY',
+  'APA': 'NASDAQ:APA',
+  'TPL': 'NYSE:TPL',
+  'OXY': 'NYSE:OXY',
+  'DG': 'NYSE:DG',
+};
+
+function tvSymbol(ticker) {
+  if (!ticker) return '';
+  const t = String(ticker).toUpperCase();
+  return TV_EXCHANGE_OVERRIDES[t] || t;
+}
+
+// Embeds a TradingView mini chart for the given ticker. Iframe-based for
+// reliability across re-renders — each render produces a self-contained iframe
+// with all settings baked into the URL, so no JS state to manage.
+function renderTickerChart(ticker, opts) {
+  if (!ticker) return '';
+  opts = opts || {};
+  const height = opts.height || 220;
+  const interval = opts.interval || 'D';      // D = daily candles
+  const symbol = encodeURIComponent(tvSymbol(ticker));
+  const url = `https://s.tradingview.com/widgetembed/?symbol=${symbol}`
+            + `&interval=${interval}`
+            + `&hidesidetoolbar=1&hidetoptoolbar=0&symboledit=0&saveimage=0`
+            + `&toolbarbg=f1f3f6&studies=[]&theme=light&style=2`
+            + `&timezone=Etc/UTC&withdateranges=1`
+            + `&allow_symbol_change=0`;
+  return `
+    <div class="tv-chart-wrap" style="margin: 14px 0; border-radius: 4px; overflow: hidden; border: 1px solid var(--rule);">
+      <iframe src="${url}" width="100%" height="${height}" frameborder="0" loading="lazy" allowtransparency="true" scrolling="no" style="display: block;"></iframe>
+    </div>`;
+}
+
 // ===== Render: live feed =====
 function eventTier(e) {
   return e.relevance_tier || 'medium';
@@ -3176,6 +3244,7 @@ function renderPickCard(p) {
         </div>
       </div>
       <div class="pick-thesis"><strong>Thesis:</strong> ${escapeHtml(p.thesis || '')}</div>
+      ${renderTickerChart(p.ticker, { height: 220 })}
       ${(p.rationale || p.horizon_reason) ? (() => {
         const expanded = state.expandedPicks.has(p.id);
         const expandedContent = expanded ? `
@@ -3436,6 +3505,7 @@ function renderPortfolio() {
           <span class="holding-pl-label">Position P/L</span>
           <span class="holding-pl-value">${fmtPct(h.gain_pct)} · ${h.gain_dollar >= 0 ? '+' : ''}${fmtPrice(h.gain_dollar)}</span>
         </div>` : ''}
+        ${renderTickerChart(h.ticker, { height: 200 })}
       </div>`;
   }).join('');
 
@@ -3644,7 +3714,7 @@ const panelCloseBtn = document.getElementById('panel-close');
 function showPanel(ticker) {
   const data = tickers[ticker];
   if (!data) {
-    panelContent.innerHTML = `<div class="panel-ticker">${ticker}</div><div class="panel-name">Detail not available</div><p>This ticker is mentioned in the brief but doesn't have a detailed entry yet.</p>`;
+    panelContent.innerHTML = `<div class="panel-ticker">${ticker}</div><div class="panel-name">Detail not available</div>${renderTickerChart(ticker, { height: 260 })}<p>This ticker is mentioned in the brief but doesn't have a detailed entry yet.</p>`;
   } else {
     const numbersHtml = data.numbers && data.numbers.length ? `<h4>Key Numbers</h4><ul>${data.numbers.map(n => `<li>${n}</li>`).join('')}</ul>` : '';
     const watchHtml = data.watchpoints && data.watchpoints.length ? `<div class="panel-watchpoints"><h4>What to Watch</h4><ul>${data.watchpoints.map(w => `<li>${w}</li>`).join('')}</ul></div>` : '';
@@ -3658,6 +3728,7 @@ function showPanel(ticker) {
         <div class="panel-meta-item"><div class="panel-meta-label">Valuation</div><div class="panel-meta-value">${data.pe || '—'}</div></div>
         <div class="panel-meta-item"><div class="panel-meta-label">Growth</div><div class="panel-meta-value">${data.growth || '—'}</div></div>
       </div>
+      ${renderTickerChart(ticker, { height: 260 })}
       <h4>This Week</h4>
       <p>${data.thisWeek || '—'}</p>
       <h4>The Bull Case</h4>
