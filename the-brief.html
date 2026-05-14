@@ -1063,6 +1063,102 @@ p.lede {
   vertical-align: middle;
 }
 
+/* Earnings calendar — next 14 days, grouped by date */
+.earnings-calendar {
+  margin: 14px 0 24px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--paper-warm);
+  overflow: hidden;
+}
+.earnings-calendar-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--rule);
+  background: var(--paper);
+}
+.earnings-calendar-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 700;
+}
+.earnings-calendar-toggle {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 600;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 4px 10px;
+}
+.earnings-calendar-toggle:hover { color: var(--ink); }
+.earnings-calendar-toggle.active { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+
+.earnings-date-block { padding: 8px 14px 12px; border-bottom: 1px dotted var(--rule); }
+.earnings-date-block:last-child { border-bottom: none; }
+.earnings-date-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-muted);
+  letter-spacing: 0.06em;
+  margin-bottom: 6px;
+}
+.earnings-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+  border-top: 1px dotted rgba(0,0,0,0.06);
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+}
+.earnings-row:first-of-type { border-top: none; }
+.earnings-row.watchlist { font-weight: 600; }
+.earnings-row .ticker { font-size: 13px; }
+.earnings-row-name {
+  flex: 1;
+  color: var(--ink-muted);
+  font-style: italic;
+  font-family: 'Fraunces', serif;
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.earnings-row-time {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-muted);
+  letter-spacing: 0.05em;
+}
+.earnings-row-eps {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink);
+}
+.earnings-row-history {
+  display: inline-flex;
+  gap: 2px;
+}
+.earnings-row-history span {
+  display: inline-block;
+  width: 8px;
+  height: 12px;
+  border-radius: 2px;
+}
+.earnings-row-history span.beat { background: var(--green); }
+.earnings-row-history span.miss { background: var(--accent); }
+.earnings-row-history span.flat { background: var(--rule); }
+
 /* Live Feed */
 .live-event {
   padding: 18px 22px;
@@ -2371,11 +2467,13 @@ window.theBriefDataReady = false;
   ];
   // Data files are reloaded on every tick (their contents change).
   const FILES = [
-    ['data/movers.js',        'theBriefMovers'],
-    ['data/live.js',          'theBriefLive'],
-    ['data/picks.js',         'theBriefPicks'],
-    ['data/daily.js',         'theBriefDaily'],
-    ['data/logos.js',         'theBriefLogos'],
+    ['data/movers.js',           'theBriefMovers'],
+    ['data/live.js',             'theBriefLive'],
+    ['data/picks.js',            'theBriefPicks'],
+    ['data/daily.js',            'theBriefDaily'],
+    ['data/logos.js',            'theBriefLogos'],
+    ['data/ticker_details.js',   'theBriefTickerDetails'],
+    ['data/earnings.js',         'theBriefEarnings'],
   ];
 
   function loadOne(src, globalName, version) {
@@ -2605,6 +2703,7 @@ const state = {
   picksFilterPerf: null,
   liveFilterTier: 'important',  // 'all' | 'important' (high+medium) | 'high' — defaults to important so noise is hidden
   chartStyles: {},  // per-ticker chart-style preference: 'simple' (default) | 'detailed'
+  earningsWatchlistOnly: true,  // earnings calendar: hide non-watchlist tickers by default
 };
 
 try {
@@ -2938,6 +3037,86 @@ function renderTickerChart(ticker, opts) {
     </div>`;
 }
 
+// ===== Render: earnings calendar =====
+function renderEarningsCalendar() {
+  const data = window.theBriefEarnings;
+  if (!data || !data.by_date) return '';
+
+  const dates = Object.keys(data.by_date).sort();
+  if (!dates.length) return '';
+
+  const watchlistOnly = state.earningsWatchlistOnly !== false;
+  const blocks = [];
+  let totalShown = 0;
+  let totalAvailable = 0;
+
+  for (const d of dates) {
+    const rows = data.by_date[d] || [];
+    totalAvailable += rows.length;
+    const visible = watchlistOnly ? rows.filter(r => r.is_watchlist) : rows;
+    if (!visible.length) continue;
+    totalShown += visible.length;
+
+    // Friendly date label: 'Thu, May 15'
+    let dateLabel = d;
+    try {
+      const dt = new Date(d + 'T00:00:00Z');
+      if (!isNaN(dt.getTime())) {
+        dateLabel = dt.toLocaleDateString('en-GB', { weekday: 'short', month: 'short', day: 'numeric' });
+      }
+    } catch (e) {}
+
+    const rowHtml = visible.slice(0, 25).map(r => {
+      const t = r.ticker;
+      const logo = tickerLogo(t, { size: 18 });
+      const hour = r.hour === 'bmo' ? 'BMO' : r.hour === 'amc' ? 'AMC' : r.hour === 'dmh' ? 'DMH' : '';
+      const eps = r.eps_estimate != null ? `EPS est. ${r.eps_estimate}` : '';
+      const history = (r.history || []).slice(0, 4).reverse().map(h => {
+        if (h.beat === true) return `<span class="beat" title="Beat: ${h.actual} vs ${h.estimate} (${h.period})"></span>`;
+        if (h.beat === false) return `<span class="miss" title="Miss: ${h.actual} vs ${h.estimate} (${h.period})"></span>`;
+        return `<span class="flat" title="${h.period}"></span>`;
+      }).join('');
+      const historyBlock = history ? `<span class="earnings-row-history" title="Last 4 quarters">${history}</span>` : '';
+      return `
+        <div class="earnings-row${r.is_watchlist ? ' watchlist' : ''}">
+          ${logo}<span class="ticker" data-ticker="${escapeHtml(t)}">${escapeHtml(t)}</span>
+          <span class="earnings-row-name">${escapeHtml((window.theBriefTickerDetails?.entries?.[t]?.name) || (window.theBriefMovers && [...(window.theBriefMovers.gainers||[]),...(window.theBriefMovers.losers||[])].find(m => m.ticker === t)?.name) || '')}</span>
+          ${eps ? `<span class="earnings-row-eps">${escapeHtml(eps)}</span>` : ''}
+          ${hour ? `<span class="earnings-row-time">${hour}</span>` : ''}
+          ${historyBlock}
+        </div>`;
+    }).join('');
+
+    blocks.push(`
+      <div class="earnings-date-block">
+        <div class="earnings-date-label">${escapeHtml(dateLabel)} · ${visible.length}</div>
+        ${rowHtml}
+      </div>`);
+  }
+
+  if (!blocks.length) {
+    return `
+      <div class="earnings-calendar">
+        <div class="earnings-calendar-head">
+          <div class="earnings-calendar-title">Upcoming Earnings · Next 14 Days</div>
+          <button class="earnings-calendar-toggle ${watchlistOnly ? 'active' : ''}" data-earnings-toggle="1">Watchlist only</button>
+        </div>
+        <div style="padding: 14px; font-family: 'Fraunces', serif; font-style: italic; color: var(--ink-muted); font-size: 13px;">
+          No watchlist tickers reporting in the next 14 days. ${totalAvailable ? `Click 'Watchlist only' to see all ${totalAvailable} upcoming earnings.` : ''}
+        </div>
+      </div>`;
+  }
+
+  return `
+    <div class="earnings-calendar">
+      <div class="earnings-calendar-head">
+        <div class="earnings-calendar-title">Upcoming Earnings · ${totalShown} ${totalShown === 1 ? 'company' : 'companies'}</div>
+        <button class="earnings-calendar-toggle ${watchlistOnly ? 'active' : ''}" data-earnings-toggle="1">${watchlistOnly ? 'Watchlist only' : 'All tickers'}</button>
+      </div>
+      ${blocks.join('')}
+    </div>`;
+}
+
 // ===== Render: live feed =====
 function eventTier(e) {
   return e.relevance_tier || 'medium';
@@ -2979,8 +3158,10 @@ function renderLive() {
     </div>`;
 
   const items = data.events.map(e => renderEvent(e)).join('');
+  const earningsBlock = renderEarningsCalendar();
   return `
     <div class="data-timestamp">Generated ${fmtTimestamp(data.generated_at)}</div>
+    ${earningsBlock}
     ${filterRow}
     ${items}
   `;
@@ -3861,7 +4042,14 @@ const panelContent = document.getElementById('panel-content');
 const panelCloseBtn = document.getElementById('panel-close');
 
 function showPanel(ticker) {
-  const data = tickers[ticker];
+  // Hardcoded editorial entries win; fall back to auto-generated for any tracked
+  // ticker that doesn't have a hand-written entry yet.
+  let data = tickers[ticker];
+  let isAutoGenerated = false;
+  if (!data && window.theBriefTickerDetails && window.theBriefTickerDetails.entries) {
+    const auto = window.theBriefTickerDetails.entries[ticker];
+    if (auto) { data = auto; isAutoGenerated = true; }
+  }
   const logoUrl = (window.theBriefLogos && window.theBriefLogos.logos) ? window.theBriefLogos.logos[ticker] : null;
   const heroLogo = logoUrl ? `<img class="ticker-logo panel-hero" src="${escapeHtml(logoUrl)}" alt="" onerror="this.style.display='none'">` : '';
   if (!data) {
@@ -4040,6 +4228,14 @@ document.addEventListener('click', e => {
     e.stopPropagation();
     const val = liveFilter.dataset.liveFilter;
     state.liveFilterTier = (state.liveFilterTier === val) ? 'all' : val;
+    render();
+    return;
+  }
+  const earningsToggle = e.target.closest('[data-earnings-toggle]');
+  if (earningsToggle) {
+    e.preventDefault();
+    e.stopPropagation();
+    state.earningsWatchlistOnly = !state.earningsWatchlistOnly;
     render();
     return;
   }

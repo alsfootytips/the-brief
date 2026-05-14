@@ -451,6 +451,130 @@ def write_logos(logos: dict, out_path: Path) -> None:
     out_path.write_text(to_js_var('theBriefLogos', payload))
 
 
+# ===== Auto-generated ticker detail entries =====
+# Generates the same shape as the HTML's hardcoded `tickers = {...}` object for
+# every ticker in the universe (watchlist + indices + sectors + portfolio +
+# active picks). Cached 30 days per ticker. Hardcoded entries in the HTML still
+# take precedence — these only fill in the gaps so "Detail not available" stops
+# appearing when you click a tracked ticker that wasn't in the static list.
+
+TICKER_DETAIL_TTL_SECONDS = 30 * 24 * 3600
+
+
+def load_ticker_details_cache() -> dict:
+    cache = CACHE_DIR / 'ticker_details.json'
+    if not cache.exists():
+        return {}
+    try:
+        data = json.loads(cache.read_text())
+        now = time.time()
+        return {
+            t: e for t, e in data.items()
+            if isinstance(e, dict) and (now - e.get('generated_at', 0)) < TICKER_DETAIL_TTL_SECONDS
+        }
+    except Exception:
+        return {}
+
+
+def save_ticker_details_cache(data: dict) -> None:
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    (CACHE_DIR / 'ticker_details.json').write_text(json.dumps(data, indent=2))
+
+
+TICKER_DETAIL_SYSTEM_PROMPT = """You are generating concise stock detail entries for a personal investing brief.
+
+For each ticker, output an entry in this exact JSON shape:
+{
+  "ticker": "TICKER",
+  "name": "Company Name",
+  "tagline": "one-line positioning (max 100 chars)",
+  "sector": "Sector · Sub-industry",
+  "marketCap": "$XB, $XT, or 'Mega-cap' / 'Mid-cap' / 'Small-cap' / 'ETF'",
+  "pe": "Forward ~XXx, 'Not profitable', or '—' for ETFs",
+  "growth": "summary of revenue/earnings trajectory in one short phrase",
+  "thisWeek": "what's relevant right now in 1-2 sentences (use 2026 context)",
+  "bull": "strongest case FOR owning, 2-3 sentences, calibrated honest",
+  "bear": "strongest case AGAINST owning, 2-3 sentences — a real concern, not a strawman",
+  "numbers": ["3-5 specific data points with units"],
+  "watchpoints": ["3-5 things to watch over the next quarter"]
+}
+
+Rules:
+- Be honest, not promotional. The bear case must be a real concern.
+- Use 2026 context where relevant (Iran war, AI capex, post-NVDA-blowout normalization, etc.).
+- For ETFs, summarize the basket, not pretend it's a stock.
+- Numbers should be specific. "Forward P/E 28x" not "high P/E".
+- No emojis. No marketing language. No hype.
+
+Output strict JSON: {"entries": [<entry>, <entry>, ...]}. No markdown fence."""
+
+
+def generate_ticker_details(tickers_to_cover: list[str],
+                             existing: dict,
+                             fundamentals: dict | None = None,
+                             batch_size: int = 4) -> dict:
+    """Generate detail entries for any ticker that doesn't have one or whose entry is stale."""
+    key = os.getenv('ANTHROPIC_API_KEY')
+    if not key or not Anthropic:
+        print("  Skipping ticker-detail generation: no ANTHROPIC_API_KEY")
+        return existing
+
+    missing = [t for t in tickers_to_cover if t and t not in existing]
+    if not missing:
+        print("  Ticker details up to date.")
+        return existing
+
+    fundamentals = fundamentals or {}
+    print(f"  Generating ticker details for {len(missing)} ticker(s) (batched {batch_size})...")
+
+    now = time.time()
+    for i in range(0, len(missing), batch_size):
+        batch = missing[i:i + batch_size]
+        context_lines = []
+        for t in batch:
+            fund = fundamentals.get(t) or {}
+            ctx = [f"  {t}:"]
+            if fund.get('name'): ctx.append(f"    name: {fund['name']}")
+            if fund.get('sector'): ctx.append(f"    sector: {fund['sector']}")
+            if fund.get('forward_pe'): ctx.append(f"    forward_pe: {fund['forward_pe']}")
+            if fund.get('market_cap'): ctx.append(f"    market_cap: ${fund['market_cap']/1e9:.1f}B")
+            if fund.get('return_52w_high') is not None: ctx.append(f"    return_52w_high: {fund['return_52w_high']:+.1f}%")
+            if fund.get('return_3m') is not None: ctx.append(f"    return_3m: {fund['return_3m']:+.1f}%")
+            context_lines.append('\n'.join(ctx))
+
+        user_prompt = (
+            "Generate detail entries for these tickers. Use whatever public-knowledge context "
+            "you have plus the fundamentals provided.\n\n"
+            + '\n\n'.join(context_lines)
+        )
+        result = _claude_json_call(
+            TICKER_DETAIL_SYSTEM_PROMPT,
+            user_prompt,
+            max_tokens=4096,
+            label=f'ticker-details-batch-{i // batch_size + 1}',
+        )
+        if not result or not isinstance(result.get('entries'), list):
+            print(f"    batch {i // batch_size + 1} returned nothing")
+            continue
+        for entry in result['entries']:
+            t = (entry.get('ticker') or '').strip().upper()
+            if not t:
+                continue
+            entry['generated_at'] = now
+            existing[t] = entry
+
+    save_ticker_details_cache(existing)
+    return existing
+
+
+def write_ticker_details(details: dict, out_path: Path) -> None:
+    payload = {
+        'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),
+        'entries': details,
+    }
+    out_path.write_text(to_js_var('theBriefTickerDetails', payload))
+
+
 def fetch_fundamentals(watchlist: dict) -> dict:
     cached = load_fundamentals_cache()
     if cached:
@@ -612,6 +736,40 @@ def fetch_fundamentals(watchlist: dict) -> dict:
     return out
 
 
+def fetch_earnings_history(ticker: str, limit: int = 4) -> list[dict]:
+    """Last N quarters of EPS estimate vs actual for a ticker. Returns [] on failure."""
+    key = os.getenv('FINNHUB_API_KEY')
+    if not key:
+        return []
+    try:
+        r = requests.get(
+            'https://finnhub.io/api/v1/stock/earnings',
+            params={'symbol': ticker, 'limit': limit, 'token': key},
+            timeout=10,
+        )
+        if r.status_code != 200:
+            return []
+        rows = r.json() or []
+    except Exception:
+        return []
+    out = []
+    for row in rows[:limit]:
+        actual = row.get('actual')
+        estimate = row.get('estimate')
+        beat = None
+        surprise_pct = row.get('surprisePercent')
+        if actual is not None and estimate is not None and estimate != 0:
+            beat = actual > estimate
+        out.append({
+            'period': row.get('period'),
+            'actual': actual,
+            'estimate': estimate,
+            'beat': beat,
+            'surprise_pct': surprise_pct,
+        })
+    return out
+
+
 def fetch_earnings(watchlist: dict) -> list[dict]:
     key = os.getenv('FINNHUB_API_KEY')
     if not key:
@@ -641,8 +799,38 @@ def fetch_earnings(watchlist: dict) -> list[dict]:
             'revenue_estimate': e.get('revenueEstimate'),
             'is_watchlist': ticker in followed,
         })
+
+    # Enrich watchlist tickers with last 4 quarters of beat/miss history.
+    # Skipping non-watchlist saves Finnhub rate-limit budget.
+    watchlist_in_calendar = sorted({e['ticker'] for e in out if e['is_watchlist']})
+    if watchlist_in_calendar:
+        print(f"  Fetching earnings history for {len(watchlist_in_calendar)} watchlist tickers...")
+        history_by_ticker = {}
+        for t in watchlist_in_calendar:
+            hist = fetch_earnings_history(t)
+            if hist:
+                history_by_ticker[t] = hist
+        for e in out:
+            if e['ticker'] in history_by_ticker:
+                e['history'] = history_by_ticker[e['ticker']]
+
     out.sort(key=lambda x: (not x['is_watchlist'], x['date'] or ''))
     return out
+
+
+def write_earnings_calendar(earnings: list[dict], out_path: Path) -> None:
+    """Group upcoming earnings by date, watchlist-first, for the Earnings view."""
+    by_date: dict[str, list[dict]] = {}
+    for e in earnings:
+        d = e.get('date') or 'unknown'
+        by_date.setdefault(d, []).append(e)
+    for d in by_date:
+        by_date[d].sort(key=lambda x: (not x.get('is_watchlist'), x.get('ticker') or ''))
+    payload = {
+        'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),
+        'by_date': by_date,
+    }
+    out_path.write_text(to_js_var('theBriefEarnings', payload))
 
 
 def get_cik_map() -> dict[str, str]:
@@ -3014,8 +3202,19 @@ def main() -> int:
     logos = fetch_logos(all_tracked_tickers)
     print(f"  Have logos for {len(logos)}/{len(all_tracked_tickers)} tickers")
 
+    # Auto-generate detail entries for any tracked ticker that doesn't have one.
+    # Full pipeline only (LLM call) — tick mode reuses the cached file.
+    ticker_details_cache = load_ticker_details_cache()
+    if not is_tick:
+        print("\nFilling missing ticker detail entries (full-pipeline only)...")
+        ticker_details_cache = generate_ticker_details(
+            all_tracked_tickers, ticker_details_cache, fundamentals
+        )
+
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     write_logos(logos, DATA_DIR / 'logos.js')
+    write_ticker_details(ticker_details_cache, DATA_DIR / 'ticker_details.js')
+    write_earnings_calendar(earnings, DATA_DIR / 'earnings.js')
     write_movers(movers, all_news, filings, earnings, watchlist, DATA_DIR / 'movers.js', fundamentals)
     active_pick_tickers_for_scoring = {
         p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'
