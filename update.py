@@ -2541,8 +2541,103 @@ def write_movers(movers: list[dict], news: list[dict], filings: list[dict],
     out_path.write_text(to_js_var('theBriefMovers', payload))
 
 
+NOISE_HEADLINE_PATTERNS = (
+    'form 13', 'form 4 ', 'form 4:', 'form sc 13', 'form s-3', 'form 8-a',
+    'gaap eps of', 'gaap eps:', 'declares cad', 'declares monthly',
+    'declares quarterly dividend', 'declares regular',
+    'royalties income', 'announces dividend', 'announces share repurchase',
+    'reports preliminary', 'company announcement',
+    'announces pricing of', 'announces upsized', 'announces commencement',
+    'real-time', 'social security', 'student loan', 'best private',
+    'menopause', 'estrogen', 'long-term care',
+)
+
+HIGH_IMPACT_KEYWORDS = (
+    'guidance', 'guides', 'beats', 'misses', 'downgrade', 'upgrade',
+    'fed', 'cpi', 'ppi', 'inflation', 'ceasefire', 'war',
+    'opec', 'hormuz', 'iran', 'tariff', 'sanctions', 'export ban',
+    'lawsuit', 'doj', 'antitrust', 'sec investigates', 'sec charges',
+    'restated', 'recall', 'breach', 'hack',
+    'pre-announce', 'profit warning', 'cuts forecast', 'lowers forecast',
+    'raises forecast', 'raises guidance', 'cuts guidance',
+    'china', 'beijing', 'xi summit', 'trump', 'biden', 'putin',
+    'rate cut', 'rate hike', 'fomc', 'jackson hole',
+    'merger', 'acquires', 'acquisition', 'takeover', 'spin-off',
+)
+
+
+def score_event_relevance(event: dict, active_pick_tickers: set[str],
+                          watchlist_followed: set[str]) -> tuple[float, str]:
+    """Return (numeric_score, tier_label) for a live-feed event.
+
+    Tier: 'high' (score >= 6) | 'medium' (>= 3) | 'low' (< 3).
+    Tiers drive visual emphasis in the HTML and the 'Important only' filter.
+    """
+    score = 0.0
+    headline_lower = (event.get('headline') or '').lower()
+    etype = event.get('type') or ''
+
+    # 1) Structured signals — filings + imminent earnings are material by definition
+    if etype == 'filing':
+        score += 4
+    elif etype == 'earnings_upcoming':
+        score += 3
+    elif etype == 'mover_statement':
+        score += 2
+    elif etype == 'mover':
+        score += 2.5
+
+    # 2) Watchlist relevance
+    if event.get('is_watchlist'):
+        score += 2
+
+    # 3) LLM already judged this contains actionable stocks
+    if event.get('affected_stocks'):
+        score += 2
+
+    # 4) Active-pick ticker mentioned anywhere in headline = highest signal
+    if active_pick_tickers and headline_lower:
+        # Match tickers as whole tokens to avoid e.g. 'NEW' matching every 'new'.
+        for t in active_pick_tickers:
+            tl = t.lower()
+            if tl and (f' {tl} ' in f' {headline_lower} '
+                       or headline_lower.startswith(tl + ' ')
+                       or headline_lower.endswith(' ' + tl)
+                       or headline_lower == tl):
+                score += 5
+                break
+
+    # 5) Source reputation — Reuters/Bloomberg/WSJ/CNBC are signal-heavy
+    source_lower = (event.get('source') or '').lower()
+    if any(s in source_lower for s in ('reuters', 'bloomberg', 'wsj', 'wall street journal',
+                                       'financial times', 'cnbc top')):
+        score += 1
+
+    # 6) Macro / market-moving keywords
+    keyword_hits = sum(1 for k in HIGH_IMPACT_KEYWORDS if k in headline_lower)
+    if keyword_hits >= 2:
+        score += 3
+    elif keyword_hits == 1:
+        score += 1.5
+
+    # 7) Penalise routine boilerplate
+    if any(p in headline_lower for p in NOISE_HEADLINE_PATTERNS):
+        score -= 4
+
+    # Bucket into tiers
+    if score >= 6:
+        tier = 'high'
+    elif score >= 3:
+        tier = 'medium'
+    else:
+        tier = 'low'
+    return score, tier
+
+
 def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict],
-                    news: list[dict], out_path: Path, skip_llm: bool = False) -> None:
+                    news: list[dict], out_path: Path, skip_llm: bool = False,
+                    active_pick_tickers: set[str] | None = None,
+                    watchlist_followed: set[str] | None = None) -> None:
     events = []
 
     for m in movers:
@@ -2625,6 +2720,9 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
 
     events.sort(key=lambda x: (x.get('timestamp') or '', bool(x.get('is_watchlist'))), reverse=True)
 
+    active_pick_tickers = active_pick_tickers or set()
+    watchlist_followed = watchlist_followed or set()
+
     if not skip_llm:
         events = enrich_events_with_advised_picks(events)
     else:
@@ -2645,6 +2743,12 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
                         e['affected_stocks'] = prev_enriched[key]
         except Exception:
             pass  # never let preservation failures break tick mode
+
+    # Score every event for relevance — drives visual tiers + filtering on the page.
+    for e in events:
+        score, tier = score_event_relevance(e, active_pick_tickers, watchlist_followed)
+        e['relevance_score'] = round(score, 1)
+        e['relevance_tier'] = tier
 
     payload = {
         'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(),
@@ -2788,7 +2892,15 @@ def main() -> int:
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     write_movers(movers, all_news, filings, earnings, watchlist, DATA_DIR / 'movers.js', fundamentals)
-    live_events = write_live_feed(movers, earnings, filings, all_news, DATA_DIR / 'live.js', skip_llm=is_tick)
+    active_pick_tickers_for_scoring = {
+        p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'
+    }
+    live_events = write_live_feed(
+        movers, earnings, filings, all_news, DATA_DIR / 'live.js',
+        skip_llm=is_tick,
+        active_pick_tickers=active_pick_tickers_for_scoring,
+        watchlist_followed=set(watchlist.get('followed') or []),
+    )
 
     if not is_tick:
         print("\nChecking for event-driven tactical picks...")

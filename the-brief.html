@@ -1054,6 +1054,7 @@ p.lede {
   background: var(--paper-warm);
   border-left: 3px solid var(--rule);
   border-radius: 0 2px 2px 0;
+  transition: opacity 0.2s;
 }
 
 .live-event.watchlist { border-left-color: var(--accent); }
@@ -1062,6 +1063,51 @@ p.lede {
   background: var(--highlight);
   border-left: 3px solid var(--confidence-medium);
 }
+
+/* Relevance tiers — set the visual weight of each event */
+.live-event.relevance-high {
+  border-left-width: 5px;
+  border-left-color: var(--accent);
+  box-shadow: 0 0 0 1px rgba(139, 46, 31, 0.18);
+}
+.live-event.relevance-high .live-event-body {
+  font-size: 16.5px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.live-event.relevance-high .live-event-type::before {
+  content: 'Important · ';
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.live-event.relevance-medium {
+  /* current default look — no overrides */
+}
+
+.live-event.relevance-low {
+  opacity: 0.55;
+  padding: 12px 22px;
+  border-left-width: 2px;
+}
+.live-event.relevance-low .live-event-body {
+  font-size: 13.5px;
+  color: var(--ink-muted);
+}
+.live-event.relevance-low .live-event-type {
+  color: var(--ink-muted);
+}
+
+.live-event.relevance-hidden { display: none; }
+
+/* Filter toggle row above the feed */
+.live-feed-filter {
+  display: flex;
+  gap: 8px;
+  margin: 12px 0 20px;
+  flex-wrap: wrap;
+}
+.live-feed-filter .composition-chip { cursor: pointer; }
 
 .live-event.mover-statement .live-event-type {
   color: var(--confidence-medium);
@@ -2364,6 +2410,7 @@ const state = {
   picksFilterSector: null,
   picksFilterTier: null,
   picksFilterPerf: null,
+  liveFilterTier: 'all',  // 'all' | 'important' (high+medium) | 'high'
 };
 
 try {
@@ -2557,6 +2604,18 @@ function escapeHtml(s) {
 }
 
 // ===== Render: live feed =====
+function eventTier(e) {
+  return e.relevance_tier || 'medium';
+}
+function eventPassesFilter(e) {
+  const f = state.liveFilterTier || 'all';
+  const t = eventTier(e);
+  if (f === 'all') return true;
+  if (f === 'important') return t === 'high' || t === 'medium';
+  if (f === 'high') return t === 'high';
+  return true;
+}
+
 function renderLive() {
   const data = window.theBriefLive;
   if (!data || !data.events || !data.events.length) {
@@ -2565,15 +2624,38 @@ function renderLive() {
       'Run <code>python update.py</code> to generate the data files. The feed will populate with watchlist events: filings, upcoming earnings, and notable moves.'
     );
   }
+
+  const counts = { high: 0, medium: 0, low: 0 };
+  data.events.forEach(e => { counts[eventTier(e)] = (counts[eventTier(e)] || 0) + 1; });
+
+  const filterChip = (key, label) => {
+    const active = (state.liveFilterTier || 'all') === key;
+    const n = key === 'all' ? data.events.length
+            : key === 'important' ? (counts.high + counts.medium)
+            : counts[key] || 0;
+    return `<button class="composition-chip ${active ? 'active' : ''}" data-live-filter="${key}"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></button>`;
+  };
+
+  const filterRow = `
+    <div class="live-feed-filter">
+      ${filterChip('important', 'Important only')}
+      ${filterChip('high', 'Highest priority')}
+      ${filterChip('all', 'Show everything')}
+    </div>`;
+
   const items = data.events.map(e => renderEvent(e)).join('');
   return `
     <div class="data-timestamp">Generated ${fmtTimestamp(data.generated_at)}</div>
+    ${filterRow}
     ${items}
   `;
 }
 
 function renderEvent(e) {
-  const cls = e.is_watchlist ? 'live-event watchlist' : 'live-event';
+  const tier = eventTier(e);
+  const hidden = !eventPassesFilter(e);
+  const tierCls = `relevance-${hidden ? 'hidden' : tier}`;
+  const cls = (e.is_watchlist ? 'live-event watchlist' : 'live-event') + ' ' + tierCls;
   const dot = e.is_watchlist ? '<span class="watchlist-dot" title="Watchlist"></span>' : '';
   const ticker = e.ticker
     ? `${starHtml(e.ticker)}<span class="ticker" data-ticker="${escapeHtml(e.ticker)}">${escapeHtml(e.ticker)}</span>`
@@ -3609,6 +3691,15 @@ document.addEventListener('click', e => {
     state.picksFilterSector = null;
     state.picksFilterTier = null;
     state.picksFilterPerf = null;
+    render();
+    return;
+  }
+  const liveFilter = e.target.closest('[data-live-filter]');
+  if (liveFilter) {
+    e.preventDefault();
+    e.stopPropagation();
+    const val = liveFilter.dataset.liveFilter;
+    state.liveFilterTier = (state.liveFilterTier === val) ? 'all' : val;
     render();
     return;
   }
