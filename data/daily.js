@@ -1,7 +1,13 @@
 window.theBriefDaily = {
-  "generated_at": "2026-05-13T23:00:16.085940+00:00",
+  "generated_at": "2026-05-14T13:48:39.865309+00:00",
   "by_issue": {
     "2": [
+      {
+        "date": "2026-05-14",
+        "headline": "Nebius rallies 6% as AI-cloud thesis stabilizes, not settles",
+        "body": "<p><span class=\"confidence confidence-fact\">Fact</span> <span class=\"ticker\" data-ticker=\"NBIS\">NBIS</span> closed +6.6% on no fresh news, three days after reiterating its 2026 ARR target and posting in-line Q1 revenue. <span class=\"confidence confidence-interp\">Interp</span> The rally suggests the CoreWeave-triggered worry \u2014 that AI-cloud capex might be peaking \u2014 has paused, not resolved. <span class=\"confidence confidence-fact\">Fact</span> <span class=\"ticker\" data-ticker=\"CRWV\">CRWV</span> itself added 2.4%, and <span class=\"ticker\" data-ticker=\"NVDA\">NVDA</span> climbed 3.2% ahead of May 20 earnings. <span class=\"confidence confidence-interp\">Interp</span> The cluster move reads as relief, not conviction. If Nvidia's guidance underwhelms next week, this setup unwinds fast.</p><p><span class=\"confidence confidence-fact\">Fact</span> The 10Y Treasury yield fell 9 basis points to 4.44%, its sharpest single-day drop in over a week. <span class=\"confidence confidence-interp\">Interp</span> Rates dropping while <span class=\"ticker\" data-ticker=\"SPY\">SPY</span> gained 0.4% and tech outperformed \u2014 that's the macro easing into a friendlier posture. <span class=\"confidence confidence-fact\">Fact</span> But WTI crude sits at $100.76, still up 5.6% on the week, and the White House is reportedly scrambling for gas-price relief as the Iran conflict drags into day 72. <span class=\"confidence confidence-speculation\">Spec</span> If oil holds here through June, the Fed's rate-cut calculus shifts again. Two prints ago inflation was softening; now energy's putting a floor under core PCE.</p><p><span class=\"ticker\" data-ticker=\"IWM\">IWM</span> slipped 0.2% while mega-caps rallied. <span class=\"confidence confidence-interp\">Interp</span> The small-cap rotation from last week stalled. Worth watching whether that was a head-fake or just a breather.</p>",
+        "generated_by": "claude-sonnet-4-5 \u00b7 2026-05-14T13:48:39.855336+00:00"
+      },
       {
         "date": "2026-05-13",
         "headline": "Nebius rallies 17% on guidance, but the AI-cloud uncertainty persists",
