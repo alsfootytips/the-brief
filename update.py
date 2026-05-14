@@ -364,6 +364,93 @@ def save_fundamentals_cache(data: dict) -> None:
     cache.write_text(json.dumps(data, indent=2))
 
 
+# ===== Company logos =====
+# Finnhub /stock/profile2 returns a `logo` URL per ticker. We cache per-ticker
+# weekly to avoid hammering the API — logos rarely change. The HTML reads
+# data/logos.js and shows them next to ticker names in pick cards, portfolio,
+# and the detail panel.
+
+LOGO_CACHE_TTL_SECONDS = 7 * 24 * 3600  # one week
+
+# Tickers we know Finnhub won't have logos for — skip the API call entirely.
+NO_LOGO_TICKERS = {
+    'VWRP.L', 'VUAG.L',  # UCITS ETFs not on Finnhub
+}
+
+
+def load_logos_cache() -> dict:
+    cache = CACHE_DIR / 'logos.json'
+    if not cache.exists():
+        return {}
+    try:
+        data = json.loads(cache.read_text())
+        # Drop entries older than the TTL — we re-fetch those
+        now = time.time()
+        fresh = {
+            ticker: entry for ticker, entry in data.items()
+            if isinstance(entry, dict) and (now - entry.get('fetched_at', 0)) < LOGO_CACHE_TTL_SECONDS
+        }
+        return fresh
+    except Exception:
+        return {}
+
+
+def save_logos_cache(data: dict) -> None:
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    (CACHE_DIR / 'logos.json').write_text(json.dumps(data, indent=2))
+
+
+def fetch_logos(tickers: list[str]) -> dict[str, str]:
+    """Return {ticker: logo_url} for every ticker. Cached weekly per-ticker."""
+    key = os.getenv('FINNHUB_API_KEY')
+    if not key:
+        return {}
+    cached = load_logos_cache()
+    out: dict[str, str] = {}
+    missing: list[str] = []
+    for t in tickers:
+        if not t or t in NO_LOGO_TICKERS:
+            continue
+        entry = cached.get(t)
+        if entry and 'logo' in entry:
+            out[t] = entry['logo']
+        else:
+            missing.append(t)
+
+    if missing:
+        print(f"  Fetching logos for {len(missing)} new/stale tickers...")
+        for t in missing:
+            try:
+                # Finnhub's profile endpoint chokes on .L suffixes — strip them.
+                api_t = t.split('.')[0] if '.' in t else t
+                r = requests.get(
+                    'https://finnhub.io/api/v1/stock/profile2',
+                    params={'symbol': api_t, 'token': key},
+                    timeout=10,
+                )
+                if r.status_code == 200:
+                    j = r.json()
+                    logo = (j.get('logo') or '').strip()
+                    cached[t] = {'logo': logo, 'fetched_at': time.time()}
+                    if logo:
+                        out[t] = logo
+                else:
+                    cached[t] = {'logo': '', 'fetched_at': time.time()}
+            except Exception as e:
+                print(f"  Logo fetch failed for {t}: {e}")
+        save_logos_cache(cached)
+
+    return out
+
+
+def write_logos(logos: dict, out_path: Path) -> None:
+    payload = {
+        'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),
+        'logos': logos,
+    }
+    out_path.write_text(to_js_var('theBriefLogos', payload))
+
+
 def fetch_fundamentals(watchlist: dict) -> dict:
     cached = load_fundamentals_cache()
     if cached:
@@ -2916,7 +3003,19 @@ def main() -> int:
         print("\nSkipping LLM steps (tick mode): weekly picks, daily editorial, advised-picks, long-term synthesis.")
         current_issue = find_current_issue_number()
 
+    print("\nFetching company logos (cached 1 week)...")
+    all_tracked_tickers = sorted(set(
+        list(watchlist.get('followed') or [])
+        + list(watchlist.get('indices') or [])
+        + list(watchlist.get('sectors') or [])
+        + list(watchlist.get('portfolio_extras') or [])
+        + [p['ticker'] for p in picks_data.get('picks', []) if p.get('ticker')]
+    ))
+    logos = fetch_logos(all_tracked_tickers)
+    print(f"  Have logos for {len(logos)}/{len(all_tracked_tickers)} tickers")
+
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    write_logos(logos, DATA_DIR / 'logos.js')
     write_movers(movers, all_news, filings, earnings, watchlist, DATA_DIR / 'movers.js', fundamentals)
     active_pick_tickers_for_scoring = {
         p['ticker'] for p in picks_data.get('picks', []) if p.get('status') == 'open'

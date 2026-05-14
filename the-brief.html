@@ -1001,6 +1001,22 @@ p.lede {
   gap: 2px;
 }
 
+.ticker-logo {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 6px;
+  border-radius: 3px;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  object-fit: contain;
+}
+.ticker-logo.panel-hero {
+  width: 48px;
+  height: 48px;
+  margin-right: 12px;
+  border-radius: 6px;
+}
+
 .mover-name {
   font-family: 'Fraunces', serif;
   font-size: 12px;
@@ -2359,6 +2375,7 @@ window.theBriefDataReady = false;
     ['data/live.js',          'theBriefLive'],
     ['data/picks.js',         'theBriefPicks'],
     ['data/daily.js',         'theBriefDaily'],
+    ['data/logos.js',         'theBriefLogos'],
   ];
 
   function loadOne(src, globalName, version) {
@@ -2787,6 +2804,19 @@ function fmtEventTime(iso) {
 function escapeHtml(s) {
   if (s == null) return '';
   return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+// ===== Company logos =====
+// Returns an <img> HTML string for a ticker's logo, or empty string when the
+// logo isn't available. Used inline next to ticker names everywhere.
+function tickerLogo(ticker, opts) {
+  if (!ticker) return '';
+  opts = opts || {};
+  const size = opts.size || 22;
+  const data = window.theBriefLogos;
+  const url = data && data.logos ? data.logos[ticker] : null;
+  if (!url) return '';
+  return `<img class="ticker-logo" src="${escapeHtml(url)}" alt="" loading="lazy" style="width: ${size}px; height: ${size}px;" onerror="this.style.display='none'">`;
 }
 
 // ===== TradingView chart embeds =====
@@ -3342,7 +3372,7 @@ function renderPickCard(p) {
     <div class="${cardClasses}">
       <div class="pick-head">
         <div class="mover-id">
-          <div>${starHtml(p.ticker)}<span class="ticker" data-ticker="${escapeHtml(p.ticker)}">${escapeHtml(p.ticker)}</span>${isFresh ? `<span class="pick-fresh-tag" title="Added in the last 48h">New</span>` : ''}</div>
+          <div>${starHtml(p.ticker)}${tickerLogo(p.ticker)}<span class="ticker" data-ticker="${escapeHtml(p.ticker)}">${escapeHtml(p.ticker)}</span>${isFresh ? `<span class="pick-fresh-tag" title="Added in the last 48h">New</span>` : ''}</div>
           <div class="mover-name">${escapeHtml(p.name || p.ticker || '')}</div>
           ${sectorLabel ? `<div style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-muted); font-weight: 600; margin-top: 4px;">${escapeHtml(sectorLabel)}</div>` : ''}
         </div>
@@ -3604,7 +3634,7 @@ function renderPortfolio() {
         <button class="holding-remove" data-remove-holding="${escapeHtml(h.ticker)}|${escapeHtml(h.entry_date || '')}" aria-label="Remove">×</button>
         <div class="holding-head">
           <div class="mover-id">
-            <div>${starHtml(h.ticker)}<span class="ticker" data-ticker="${escapeHtml(h.ticker)}">${escapeHtml(h.ticker)}</span></div>
+            <div>${starHtml(h.ticker)}${tickerLogo(h.ticker)}<span class="ticker" data-ticker="${escapeHtml(h.ticker)}">${escapeHtml(h.ticker)}</span></div>
             <div class="mover-name">${escapeHtml(h.name || '')}</div>
           </div>
           <div class="holding-meta">${todayChip}</div>
@@ -3832,13 +3862,15 @@ const panelCloseBtn = document.getElementById('panel-close');
 
 function showPanel(ticker) {
   const data = tickers[ticker];
+  const logoUrl = (window.theBriefLogos && window.theBriefLogos.logos) ? window.theBriefLogos.logos[ticker] : null;
+  const heroLogo = logoUrl ? `<img class="ticker-logo panel-hero" src="${escapeHtml(logoUrl)}" alt="" onerror="this.style.display='none'">` : '';
   if (!data) {
-    panelContent.innerHTML = `<div class="panel-ticker">${ticker}</div><div class="panel-name">Detail not available</div>${renderTickerChart(ticker, { height: 260 })}<p>This ticker is mentioned in the brief but doesn't have a detailed entry yet.</p>`;
+    panelContent.innerHTML = `<div style="display:flex;align-items:center;">${heroLogo}<div class="panel-ticker">${ticker}</div></div><div class="panel-name">Detail not available</div>${renderTickerChart(ticker, { height: 260 })}<p>This ticker is mentioned in the brief but doesn't have a detailed entry yet.</p>`;
   } else {
     const numbersHtml = data.numbers && data.numbers.length ? `<h4>Key Numbers</h4><ul>${data.numbers.map(n => `<li>${n}</li>`).join('')}</ul>` : '';
     const watchHtml = data.watchpoints && data.watchpoints.length ? `<div class="panel-watchpoints"><h4>What to Watch</h4><ul>${data.watchpoints.map(w => `<li>${w}</li>`).join('')}</ul></div>` : '';
     panelContent.innerHTML = `
-      <div class="panel-ticker">${ticker}</div>
+      <div style="display:flex;align-items:center;gap:4px;">${heroLogo}<div class="panel-ticker">${ticker}</div></div>
       <div class="panel-name">${data.name}</div>
       <div class="panel-tagline">${data.tagline || ''}</div>
       <div class="panel-meta">
