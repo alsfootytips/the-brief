@@ -1188,6 +1188,64 @@ p.lede {
 /* Live Feed filter spacing — kept as separate class for vertical rhythm. */
 .live-feed-filter { margin: 14px 0 22px; }
 
+/* Chart wrapper + control bar (Simple/Detailed toggle + Full-chart link) */
+.tv-chart-wrap {
+  margin: 14px 0;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--paper);
+}
+.tv-chart-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 6px 10px;
+  background: var(--paper-warm);
+  border-bottom: 1px solid var(--rule);
+}
+.tv-chart-toggle {
+  display: inline-flex;
+  gap: 0;
+  background: transparent;
+  padding: 2px;
+  border-radius: 4px;
+  border: 1px solid var(--rule);
+}
+.tv-chart-toggle button {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 4px 10px;
+  background: transparent;
+  border: none;
+  color: var(--ink-muted);
+  cursor: pointer;
+  border-radius: 3px;
+  transition: background 0.15s, color 0.15s;
+}
+.tv-chart-toggle button:hover {
+  color: var(--ink);
+}
+.tv-chart-toggle button.active {
+  background: var(--accent);
+  color: var(--paper);
+}
+.tv-chart-fullout {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--ink-muted);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.tv-chart-fullout:hover { color: var(--accent); }
+
 /* Filter group: label + segmented control on one row. Used on What to Buy. */
 .filter-group {
   display: flex;
@@ -2529,6 +2587,7 @@ const state = {
   picksFilterTier: null,
   picksFilterPerf: null,
   liveFilterTier: 'important',  // 'all' | 'important' (high+medium) | 'high' — defaults to important so noise is hidden
+  chartStyles: {},  // per-ticker chart-style preference: 'simple' (default) | 'detailed'
 };
 
 try {
@@ -2544,8 +2603,17 @@ try {
 state.portfolioFormOpen = false;
 state.portfolioImportOpen = false;
 
+try {
+  state.chartStyles = JSON.parse(localStorage.getItem('theBrief.chartStyles') || '{}');
+} catch (e) { state.chartStyles = {}; }
+
 function savePortfolio() {
   try { localStorage.setItem('theBrief.portfolio', JSON.stringify(state.portfolio)); } catch (e) {}
+}
+
+function saveChartStyle(ticker, style) {
+  state.chartStyles[ticker] = style;
+  try { localStorage.setItem('theBrief.chartStyles', JSON.stringify(state.chartStyles)); } catch (e) {}
 }
 
 function toggleStar(ticker) {
@@ -2768,48 +2836,75 @@ function tvSymbol(ticker) {
   return TV_EXCHANGE_OVERRIDES[t] || t;
 }
 
-// Embeds a clean TradingView Symbol Overview chart for the given ticker.
-// Iframe-based for reliability across re-renders — each render produces a
-// self-contained iframe with all settings baked into the URL fragment, so no
-// JS state to manage. Much less busy than the full advanced chart: just a
-// line, a current price, a percent change, and a time-range selector.
+// Embeds a TradingView chart for the given ticker. Two modes:
+//   'simple'   (default): clean Symbol Overview widget — area chart, current
+//              price, percent change, time-range tabs. No volume, no toolbars.
+//   'detailed': Advanced Chart widget — candlesticks, daily OHLC, minimal
+//              toolbars. For when you want to see actual highs/lows.
+// Plus a "↗ Full chart" link that opens the FULL TradingView page in a new tab
+// where every chart style and indicator is available.
 function renderTickerChart(ticker, opts) {
   if (!ticker) return '';
   opts = opts || {};
-  const height = opts.height || 220;
+  const height = opts.height || 240;
   const symbol = tvSymbol(ticker);
-  const config = {
-    symbols: [[symbol]],
-    chartOnly: false,
-    width: '100%',
-    height: height,
-    locale: 'en',
-    colorTheme: 'light',
-    autosize: false,
-    showVolume: false,
-    showMA: false,
-    hideDateRanges: false,
-    hideMarketStatus: true,
-    hideSymbolLogo: true,
-    scalePosition: 'right',
-    scaleMode: 'Normal',
-    fontFamily: "-apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif",
-    fontSize: '11',
-    noTimeScale: false,
-    valuesTracking: '1',
-    changeMode: 'price-and-percent',
-    chartType: 'area',
-    isTransparent: true,
-    lineColor: 'rgba(139, 46, 31, 1)',
-    topColor: 'rgba(139, 46, 31, 0.18)',
-    bottomColor: 'rgba(139, 46, 31, 0)',
-    dateRanges: ['1m|30', '3m|60', '12m|1D', '60m|1W', 'all|1M']
-  };
-  const url = 'https://s.tradingview.com/embed-widget/symbol-overview/?locale=en#'
-            + encodeURIComponent(JSON.stringify(config));
+  const style = (state.chartStyles && state.chartStyles[ticker]) || 'simple';
+
+  let iframeUrl;
+  if (style === 'detailed') {
+    // Advanced Chart with candles, minimal chrome.
+    iframeUrl = 'https://s.tradingview.com/widgetembed/?symbol=' + encodeURIComponent(symbol)
+              + '&interval=D'
+              + '&hide_top_toolbar=1&hide_side_toolbar=1&hide_legend=1&hideideas=1'
+              + '&theme=light&style=1'  // style=1 = candlesticks
+              + '&timezone=Etc/UTC&withdateranges=1'
+              + '&allow_symbol_change=0&details=0';
+  } else {
+    // Symbol Overview, area chart — the clean default.
+    const config = {
+      symbols: [[symbol]],
+      chartOnly: false,
+      width: '100%',
+      height: height,
+      locale: 'en',
+      colorTheme: 'light',
+      autosize: false,
+      showVolume: false,
+      showMA: false,
+      hideDateRanges: false,
+      hideMarketStatus: true,
+      hideSymbolLogo: true,
+      scalePosition: 'right',
+      scaleMode: 'Normal',
+      fontFamily: "-apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif",
+      fontSize: '11',
+      noTimeScale: false,
+      valuesTracking: '1',
+      changeMode: 'price-and-percent',
+      chartType: 'area',
+      isTransparent: true,
+      lineColor: 'rgba(139, 46, 31, 1)',
+      topColor: 'rgba(139, 46, 31, 0.18)',
+      bottomColor: 'rgba(139, 46, 31, 0)',
+      dateRanges: ['1m|30', '3m|60', '12m|1D', '60m|1W', 'all|1M']
+    };
+    iframeUrl = 'https://s.tradingview.com/embed-widget/symbol-overview/?locale=en#'
+              + encodeURIComponent(JSON.stringify(config));
+  }
+
+  const fullChartUrl = `https://www.tradingview.com/chart/?symbol=${encodeURIComponent(symbol)}`;
+  const tickerEsc = escapeHtml(ticker);
+
   return `
-    <div class="tv-chart-wrap" style="margin: 14px 0; border-radius: 4px; overflow: hidden; border: 1px solid var(--rule); background: var(--paper);">
-      <iframe src="${url}" width="100%" height="${height}" frameborder="0" loading="lazy" allowtransparency="true" scrolling="no" style="display: block;"></iframe>
+    <div class="tv-chart-wrap">
+      <div class="tv-chart-controls">
+        <div class="tv-chart-toggle">
+          <button class="${style === 'simple' ? 'active' : ''}" data-chart-style="simple" data-chart-ticker="${tickerEsc}">Simple</button>
+          <button class="${style === 'detailed' ? 'active' : ''}" data-chart-style="detailed" data-chart-ticker="${tickerEsc}">Detailed</button>
+        </div>
+        <a href="${fullChartUrl}" target="_blank" rel="noopener" class="tv-chart-fullout">↗ Full chart</a>
+      </div>
+      <iframe src="${iframeUrl}" width="100%" height="${height}" frameborder="0" loading="lazy" allowtransparency="true" scrolling="no" style="display: block;"></iframe>
     </div>`;
 }
 
@@ -3914,6 +4009,18 @@ document.addEventListener('click', e => {
     const val = liveFilter.dataset.liveFilter;
     state.liveFilterTier = (state.liveFilterTier === val) ? 'all' : val;
     render();
+    return;
+  }
+  const chartStyleBtn = e.target.closest('[data-chart-style]');
+  if (chartStyleBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const ticker = chartStyleBtn.dataset.chartTicker;
+    const newStyle = chartStyleBtn.dataset.chartStyle;
+    if (ticker && newStyle) {
+      saveChartStyle(ticker, newStyle);
+      render();
+    }
     return;
   }
   const tocLink = e.target.closest('.nav-toc a');
