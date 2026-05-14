@@ -2768,23 +2768,47 @@ function tvSymbol(ticker) {
   return TV_EXCHANGE_OVERRIDES[t] || t;
 }
 
-// Embeds a TradingView mini chart for the given ticker. Iframe-based for
-// reliability across re-renders — each render produces a self-contained iframe
-// with all settings baked into the URL, so no JS state to manage.
+// Embeds a clean TradingView Symbol Overview chart for the given ticker.
+// Iframe-based for reliability across re-renders — each render produces a
+// self-contained iframe with all settings baked into the URL fragment, so no
+// JS state to manage. Much less busy than the full advanced chart: just a
+// line, a current price, a percent change, and a time-range selector.
 function renderTickerChart(ticker, opts) {
   if (!ticker) return '';
   opts = opts || {};
   const height = opts.height || 220;
-  const interval = opts.interval || 'D';      // D = daily candles
-  const symbol = encodeURIComponent(tvSymbol(ticker));
-  const url = `https://s.tradingview.com/widgetembed/?symbol=${symbol}`
-            + `&interval=${interval}`
-            + `&hidesidetoolbar=1&hidetoptoolbar=0&symboledit=0&saveimage=0`
-            + `&toolbarbg=f1f3f6&studies=[]&theme=light&style=2`
-            + `&timezone=Etc/UTC&withdateranges=1`
-            + `&allow_symbol_change=0`;
+  const symbol = tvSymbol(ticker);
+  const config = {
+    symbols: [[symbol]],
+    chartOnly: false,
+    width: '100%',
+    height: height,
+    locale: 'en',
+    colorTheme: 'light',
+    autosize: false,
+    showVolume: false,
+    showMA: false,
+    hideDateRanges: false,
+    hideMarketStatus: true,
+    hideSymbolLogo: true,
+    scalePosition: 'right',
+    scaleMode: 'Normal',
+    fontFamily: "-apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif",
+    fontSize: '11',
+    noTimeScale: false,
+    valuesTracking: '1',
+    changeMode: 'price-and-percent',
+    chartType: 'area',
+    isTransparent: true,
+    lineColor: 'rgba(139, 46, 31, 1)',
+    topColor: 'rgba(139, 46, 31, 0.18)',
+    bottomColor: 'rgba(139, 46, 31, 0)',
+    dateRanges: ['1m|30', '3m|60', '12m|1D', '60m|1W', 'all|1M']
+  };
+  const url = 'https://s.tradingview.com/embed-widget/symbol-overview/?locale=en#'
+            + encodeURIComponent(JSON.stringify(config));
   return `
-    <div class="tv-chart-wrap" style="margin: 14px 0; border-radius: 4px; overflow: hidden; border: 1px solid var(--rule);">
+    <div class="tv-chart-wrap" style="margin: 14px 0; border-radius: 4px; overflow: hidden; border: 1px solid var(--rule); background: var(--paper);">
       <iframe src="${url}" width="100%" height="${height}" frameborder="0" loading="lazy" allowtransparency="true" scrolling="no" style="display: block;"></iframe>
     </div>`;
 }
