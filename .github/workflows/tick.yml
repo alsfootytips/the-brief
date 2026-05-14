@@ -6,10 +6,12 @@ name: Tick (live)
 
 on:
   schedule:
-    # Every 15 minutes from 12:00 to 22:00 UTC on weekdays.
-    # That covers US pre-market through after-hours close.
-    # Cron: minute hour day month weekday  (UTC)
-    - cron: '0,15,30,45 12-22 * * 1-5'
+    # Every 15 minutes, 24 hours a day, every day of the week.
+    # 96 runs/day · 672 runs/week · all on the GitHub Actions free tier.
+    #
+    # No dead windows — covers UK morning, US session, Asian session,
+    # weekend news, and overnight wires.
+    - cron: '0,15,30,45 * * * *'
   workflow_dispatch: {}
 
 permissions:
