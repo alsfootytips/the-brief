@@ -1131,19 +1131,25 @@ p.lede {
 }
 
 /* Generic segmented-control filter — reused on Live Feed + What to Buy + anywhere
-   we want a row of mutually-exclusive toggle buttons. Wraps within the pill on
-   narrow screens so every option stays visible. */
+   we want a row of mutually-exclusive toggle buttons. Stays on a single row
+   wherever it fits; falls back to horizontal scroll inside the pill on screens
+   too narrow to fit every option. */
 .filter-segmented {
   display: inline-flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 2px;
   padding: 4px;
   background: var(--paper-warm);
   border: 1px solid var(--rule);
   border-radius: 6px;
   max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
   vertical-align: middle;
 }
+.filter-segmented::-webkit-scrollbar { height: 3px; }
+.filter-segmented::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 2px; }
 .filter-segmented button {
   font-family: 'Inter', sans-serif;
   font-size: 11px;
