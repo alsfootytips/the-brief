@@ -2567,25 +2567,32 @@ HIGH_IMPACT_KEYWORDS = (
 
 
 def score_event_relevance(event: dict, active_pick_tickers: set[str],
-                          watchlist_followed: set[str]) -> tuple[float, str]:
-    """Return (numeric_score, tier_label) for a live-feed event.
+                          watchlist_followed: set[str]) -> tuple[float, str, str | None]:
+    """Return (numeric_score, tier_label, display_label) for a live-feed event.
 
     Tier: 'high' (score >= 6) | 'medium' (>= 3) | 'low' (< 3).
-    Tiers drive visual emphasis in the HTML and the 'Important only' filter.
+    Display label: the most specific reason this event scored ('Pick: NVDA',
+    'SEC Filing', 'Earnings', etc.) — rendered as a badge on the card.
     """
     score = 0.0
     headline_lower = (event.get('headline') or '').lower()
     etype = event.get('type') or ''
+    matched_pick: str | None = None
 
     # 1) Structured signals — filings + imminent earnings are material by definition
+    structured_label: str | None = None
     if etype == 'filing':
         score += 4
+        structured_label = 'SEC Filing'
     elif etype == 'earnings_upcoming':
         score += 3
+        structured_label = 'Earnings'
     elif etype == 'mover_statement':
         score += 2
+        structured_label = 'Market Mover'
     elif etype == 'mover':
         score += 2.5
+        structured_label = 'Big Move'
 
     # 2) Watchlist relevance
     if event.get('is_watchlist'):
@@ -2597,7 +2604,6 @@ def score_event_relevance(event: dict, active_pick_tickers: set[str],
 
     # 4) Active-pick ticker mentioned anywhere in headline = highest signal
     if active_pick_tickers and headline_lower:
-        # Match tickers as whole tokens to avoid e.g. 'NEW' matching every 'new'.
         for t in active_pick_tickers:
             tl = t.lower()
             if tl and (f' {tl} ' in f' {headline_lower} '
@@ -2605,9 +2611,10 @@ def score_event_relevance(event: dict, active_pick_tickers: set[str],
                        or headline_lower.endswith(' ' + tl)
                        or headline_lower == tl):
                 score += 5
+                matched_pick = t
                 break
 
-    # 5) Source reputation — Reuters/Bloomberg/WSJ/CNBC are signal-heavy
+    # 5) Source reputation
     source_lower = (event.get('source') or '').lower()
     if any(s in source_lower for s in ('reuters', 'bloomberg', 'wsj', 'wall street journal',
                                        'financial times', 'cnbc top')):
@@ -2615,8 +2622,10 @@ def score_event_relevance(event: dict, active_pick_tickers: set[str],
 
     # 6) Macro / market-moving keywords
     keyword_hits = sum(1 for k in HIGH_IMPACT_KEYWORDS if k in headline_lower)
+    macro_label = None
     if keyword_hits >= 2:
         score += 3
+        macro_label = 'Macro'
     elif keyword_hits == 1:
         score += 1.5
 
@@ -2631,7 +2640,22 @@ def score_event_relevance(event: dict, active_pick_tickers: set[str],
         tier = 'medium'
     else:
         tier = 'low'
-    return score, tier
+
+    # Choose the most specific display label, in priority order
+    if matched_pick:
+        display_label = f'Pick: {matched_pick}'
+    elif structured_label:
+        display_label = structured_label
+    elif macro_label:
+        display_label = macro_label
+    elif event.get('affected_stocks'):
+        display_label = 'Stocks to Watch'
+    elif event.get('is_watchlist'):
+        display_label = 'Watchlist'
+    else:
+        display_label = None
+
+    return score, tier, display_label
 
 
 def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict],
@@ -2746,9 +2770,11 @@ def write_live_feed(movers: list[dict], earnings: list[dict], filings: list[dict
 
     # Score every event for relevance — drives visual tiers + filtering on the page.
     for e in events:
-        score, tier = score_event_relevance(e, active_pick_tickers, watchlist_followed)
+        score, tier, label = score_event_relevance(e, active_pick_tickers, watchlist_followed)
         e['relevance_score'] = round(score, 1)
         e['relevance_tier'] = tier
+        if label:
+            e['relevance_label'] = label
 
     payload = {
         'generated_at': dt.datetime.now(dt.timezone.utc).isoformat(),
