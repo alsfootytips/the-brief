@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-14T11:24:00.072061+00:00",
+  "generated_at": "2026-05-14T11:28:02.002624+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -4.78,
       "price": 382.2,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T11:24:00.068711+00:00",
+      "timestamp": "2026-05-14T11:28:01.999202+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": 3.86,
-      "price": 229.31,
+      "change_pct": 3.93,
+      "price": 229.45,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T11:24:00.068707+00:00",
+      "timestamp": "2026-05-14T11:28:01.999198+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -42,10 +42,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 15.29,
-      "price": 206.5,
+      "change_pct": 14.99,
+      "price": 205.95,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T11:24:00.068703+00:00",
+      "timestamp": "2026-05-14T11:28:01.999194+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,13 +54,68 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 3.23,
-      "price": 111.23,
+      "change_pct": 3.1,
+      "price": 111.09,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T11:24:00.068686+00:00",
+      "timestamp": "2026-05-14T11:28:01.999177+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "At a glance: stocks gapping down premarket",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592805-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T11:25:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Akamai announces deal to acquire LayerX for roughly $205M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592812-akamai-announces-deal-to-acquire-layerx-for-roughly-205m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T11:23:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Versant Media rallies on strong platforms and licensing growth, accelerated buyback plan",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592816-versant-media-rallies-on-strong-platforms-and-licensing-growth-accelerated-buyback-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T11:23:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Accenture Federal Services and OpenAI partner to accelerate federal AI adoption",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592817-accenture-federal-services-and-openai-partner-to-accelerate-federal-ai-adoption?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T11:21:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Quarterhill GAAP EPS of -$0.04, revenue of $38.6M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4592822-quarterhill-gaap-eps-of-0_04-revenue-of-38_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T11:21:12+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -142,17 +197,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cellectar Biosciences Non-GAAP EPS of -$1.33",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592819-cellectar-biosciences-non-gaap-eps-of-1_33?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T11:18:17+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "NIQ stock rises 4.6% on earnings beat and strong guidance",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/earnings/niq-stock-rises-46-on-earnings-beat-and-strong-guidance-93CH-4687986",
@@ -191,50 +235,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/company-news/fermi-america-reports-189m-q1-loss-secures-785m-financing-93CH-4687983",
       "is_watchlist": false,
       "timestamp": "2026-05-14T11:17:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Terrestrial Energy Inc. reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592814-terrestrial-energy-inc-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T11:17:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Urban One GAAP EPS of -$0.69, revenue of $77.7M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592815-urban-one-gaap-eps-of-0_69-revenue-of-77_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T11:16:35+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BK Technologies Non-GAAP EPS of $0.88, revenue of $21.3M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592813-bk-technologies-non-gaap-eps-of-0_88-revenue-of-21_3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T11:15:22+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CVS unit Omnicare to be sold to GenieRx after court approval",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4592806-cvs-unit-omnicare-sold-genierx?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T11:14:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1158,6 +1158,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Best ETFs to Buy After Hot Inflation Data",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/best-etfs-buy-hot-inflation-233421583.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T23:34:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ralliant Corp. (RAL) Hits All-Time High on Revenue Beat",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/ralliant-corp-ral-hits-time-233153288.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T23:31:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inflation Has Pushed this Dividend Aristocrat to 52-Week Lows. Why It\u2019s Still Not Quite Time to Buy.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/inflation-pushed-dividend-aristocrat-52-233002309.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-12T23:30:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Quantum Computing (QUBT) Revenues Soar 9,300%, Shares Climb 15.7%",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/quantum-computing-qubt-revenues-soar-232928295.html",
@@ -1185,39 +1218,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/news/sea-ltd-se-climbs-13-232405478.html",
       "is_watchlist": false,
       "timestamp": "2026-05-12T23:24:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insmed (INSM) Soars on Bargain-Hunting After 10-Month Low",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/insmed-insm-soars-bargain-hunting-232036359.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T23:20:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Legend Biotech (LEGN) Trims Losses, Shares Climb Double-Digits",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/legend-biotech-legn-trims-losses-231738785.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T23:17:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron flashes investors rare technical signal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/micron-flashes-investors-rare-technical-231700158.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-12T23:17:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
