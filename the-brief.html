@@ -2191,9 +2191,14 @@ p.lede {
 // Falls back to no-buster loading if version.json is missing.
 window.theBriefDataReady = false;
 (function bootData() {
-  const FILES = [
+  // Issue files are loaded ONCE on initial boot. They contain push() calls,
+  // so reloading them on every tick would duplicate every issue in the array.
+  const ISSUE_FILES = [
     ['issues/issue-002.js',   null],
     ['issues/issue-003.js',   null],
+  ];
+  // Data files are reloaded on every tick (their contents change).
+  const FILES = [
     ['data/movers.js',        'theBriefMovers'],
     ['data/live.js',          'theBriefLive'],
     ['data/picks.js',         'theBriefPicks'],
@@ -2210,11 +2215,26 @@ window.theBriefDataReady = false;
     });
   }
 
+  // Belt-and-braces dedupe: if an issue file ever gets re-pushed for any
+  // reason (a future bug, hot-reload, etc.) keep only the latest by number.
+  function dedupeIssues() {
+    if (!window.theBrief || !Array.isArray(window.theBrief.issues)) return;
+    const byNumber = new Map();
+    for (const i of window.theBrief.issues) {
+      if (i && i.number != null) byNumber.set(i.number, i);  // last write wins
+    }
+    window.theBrief.issues = [...byNumber.values()];
+  }
+
   async function loadAll(version) {
-    // Load issue files first (they may reference earlier shared state), then data files.
+    // Issue files first (only on initial boot), then data files.
+    for (const [src, global] of ISSUE_FILES) {
+      await loadOne(src, global, version);
+    }
     for (const [src, global] of FILES) {
       await loadOne(src, global, version);
     }
+    dedupeIssues();
     window.theBriefDataReady = true;
     window.dispatchEvent(new Event('theBriefDataReady'));
   }
