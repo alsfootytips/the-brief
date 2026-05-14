@@ -1130,20 +1130,21 @@ p.lede {
   flex-shrink: 0;
 }
 
-/* Segmented-control filter row above the feed */
-.live-feed-filter {
+/* Generic segmented-control filter — reused on Live Feed + What to Buy + anywhere
+   we want a row of mutually-exclusive toggle buttons. Wraps within the pill on
+   narrow screens so every option stays visible. */
+.filter-segmented {
   display: inline-flex;
-  gap: 0;
-  margin: 14px 0 22px;
+  flex-wrap: wrap;
+  gap: 2px;
   padding: 4px;
   background: var(--paper-warm);
   border: 1px solid var(--rule);
   border-radius: 6px;
   max-width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+  vertical-align: middle;
 }
-.live-feed-filter button {
+.filter-segmented button {
   font-family: 'Inter', sans-serif;
   font-size: 11px;
   letter-spacing: 0.15em;
@@ -1161,22 +1162,44 @@ p.lede {
   gap: 8px;
   white-space: nowrap;
 }
-.live-feed-filter button:hover {
+.filter-segmented button:hover {
   color: var(--ink);
   background: rgba(0, 0, 0, 0.04);
 }
-.live-feed-filter button.active {
+.filter-segmented button.active {
   background: var(--accent);
   color: var(--paper);
 }
-.live-feed-filter button .count {
+.filter-segmented button .count {
   font-family: 'JetBrains Mono', monospace;
   font-size: 10px;
   opacity: 0.7;
   font-weight: 600;
   letter-spacing: 0;
 }
-.live-feed-filter button.active .count { opacity: 1; }
+.filter-segmented button.active .count { opacity: 1; }
+
+/* Live Feed filter spacing — kept as separate class for vertical rhythm. */
+.live-feed-filter { margin: 14px 0 22px; }
+
+/* Filter group: label + segmented control on one row. Used on What to Buy. */
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+.filter-group-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  font-weight: 700;
+  flex-shrink: 0;
+  min-width: 90px;
+}
 
 .live-event.mover-statement .live-event-type {
   color: var(--confidence-medium);
@@ -2726,7 +2749,7 @@ function renderLive() {
   };
 
   const filterRow = `
-    <div class="live-feed-filter" role="tablist" aria-label="Live feed filter">
+    <div class="filter-segmented live-feed-filter" role="tablist" aria-label="Live feed filter">
       ${filterButton('high', 'Top priority')}
       ${filterButton('important', 'Important')}
       ${filterButton('all', 'All')}
@@ -3204,25 +3227,23 @@ function renderPicks() {
     perfCounts[pickPerf(p)]++;
   });
 
-  const makeChip = (label, n, stateKey, dataAttr) => {
+  // New segmented-button style — each filter becomes a labelled segmented control.
+  const segButton = (label, displayLabel, n, stateKey, dataAttr) => {
     const active = state[stateKey] === label;
-    return `<button class="composition-chip ${active ? 'active' : ''}" ${dataAttr}="${escapeHtml(label)}"><span class="composition-chip-label">${escapeHtml(label)}</span><span class="composition-chip-value">${n}</span></button>`;
+    return `<button class="${active ? 'active' : ''}" ${dataAttr}="${escapeHtml(label)}">${escapeHtml(displayLabel)}<span class="count">${n}</span></button>`;
   };
 
   const tierChips = ['long-term', 'strategic', 'tactical']
     .filter(k => tierCounts[k] > 0)
-    .map(k => {
-      const active = state.picksFilterTier === k;
-      return `<button class="composition-chip ${active ? 'active' : ''}" data-pick-filter-tier="${escapeHtml(k)}"><span class="composition-chip-label">${escapeHtml(TIER_LABELS[k])}</span><span class="composition-chip-value">${tierCounts[k]}</span></button>`;
-    })
+    .map(k => segButton(k, TIER_LABELS[k], tierCounts[k], 'picksFilterTier', 'data-pick-filter-tier'))
     .join('');
   const perfChips = ['In profit', 'Flat', 'In loss', 'Pending']
     .filter(k => perfCounts[k] > 0)
-    .map(k => makeChip(k, perfCounts[k], 'picksFilterPerf', 'data-pick-filter-perf'))
+    .map(k => segButton(k, k, perfCounts[k], 'picksFilterPerf', 'data-pick-filter-perf'))
     .join('');
   const sectorChips = Object.entries(sectorCounts)
     .sort((a, b) => b[1] - a[1])
-    .map(([label, n]) => makeChip(label, n, 'picksFilterSector', 'data-pick-filter-sector'))
+    .map(([label, n]) => segButton(label, label, n, 'picksFilterSector', 'data-pick-filter-sector'))
     .join('');
 
   const applyPicksFilters = (list) => list.filter(p => {
@@ -3243,14 +3264,12 @@ function renderPicks() {
     : '';
 
   const composition = `
-    <div class="composition-bar">
-      <div class="composition-block">
-        <div class="composition-block-label">${open.length} active ${open.length === 1 ? 'pick' : 'picks'}</div>
-      </div>
-      ${tierChips ? `<div class="composition-block"><div class="composition-block-label">By tier</div><div class="composition-chips">${tierChips}</div></div>` : ''}
-      ${perfChips ? `<div class="composition-block"><div class="composition-block-label">By performance</div><div class="composition-chips">${perfChips}</div></div>` : ''}
-      ${sectorChips ? `<div class="composition-block"><div class="composition-block-label">By sector</div><div class="composition-chips">${sectorChips}</div></div>` : ''}
-    </div>`;
+    <div class="picks-active-count" style="font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-muted); font-weight: 700; margin: 4px 0 14px;">
+      ${open.length} active ${open.length === 1 ? 'pick' : 'picks'}
+    </div>
+    ${tierChips ? `<div class="filter-group"><div class="filter-group-label">Tier</div><div class="filter-segmented">${tierChips}</div></div>` : ''}
+    ${perfChips ? `<div class="filter-group"><div class="filter-group-label">Performance</div><div class="filter-segmented">${perfChips}</div></div>` : ''}
+    ${sectorChips ? `<div class="filter-group"><div class="filter-group-label">Sector</div><div class="filter-segmented">${sectorChips}</div></div>` : ''}`;
 
   // Group active picks by tier (long-term → strategic → tactical) — pickTier is hoisted above.
   const tiers = [
