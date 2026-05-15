@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-15T22:12:09+00:00",
+  "generated_at": "2026-05-15T23:13:48+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -1215,7 +1215,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BRC",
         "date": "2026-05-18",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.3635,
         "revenue_estimate": 410134740,
         "is_watchlist": false
@@ -2723,7 +2723,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CPRT",
         "date": "2026-05-21",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.4143,
         "revenue_estimate": 1219244250,
         "is_watchlist": false
@@ -3045,7 +3045,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BJ",
         "date": "2026-05-22",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.0589,
         "revenue_estimate": 5535855922,
         "is_watchlist": false
