@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-15T07:42:10+00:00",
+  "generated_at": "2026-05-15T10:08:31+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -198,14 +198,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0102,
         "revenue_estimate": 22106460,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CPRT",
-        "date": "2026-05-20",
-        "hour": "",
-        "eps_estimate": 0.4143,
-        "revenue_estimate": 1219244250,
         "is_watchlist": false
       },
       {
@@ -1218,6 +1210,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BRC",
+        "date": "2026-05-18",
+        "hour": "",
+        "eps_estimate": 1.3635,
+        "revenue_estimate": 410134740,
         "is_watchlist": false
       },
       {
@@ -2705,14 +2705,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "BRC",
-        "date": "2026-05-21",
-        "hour": "",
-        "eps_estimate": 1.3635,
-        "revenue_estimate": 410134740,
-        "is_watchlist": false
-      },
-      {
         "ticker": "BULL",
         "date": "2026-05-21",
         "hour": "amc",
@@ -2726,6 +2718,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.1938,
         "revenue_estimate": 1122000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CPRT",
+        "date": "2026-05-21",
+        "hour": "",
+        "eps_estimate": 0.4143,
+        "revenue_estimate": 1219244250,
         "is_watchlist": false
       },
       {
@@ -2854,14 +2854,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.2419,
         "revenue_estimate": 826347328,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MANU",
-        "date": "2026-05-21",
-        "hour": "",
-        "eps_estimate": -0.0816,
-        "revenue_estimate": 170467500,
         "is_watchlist": false
       },
       {
@@ -3843,6 +3835,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "MANU",
+        "date": "2026-05-27",
+        "hour": "",
+        "eps_estimate": -0.0816,
+        "revenue_estimate": 170467500,
+        "is_watchlist": false
+      },
+      {
         "ticker": "MDBH",
         "date": "2026-05-27",
         "hour": "",
@@ -3923,14 +3923,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PLAB",
-        "date": "2026-05-27",
-        "hour": "",
-        "eps_estimate": 0.5508,
-        "revenue_estimate": 220994220,
-        "is_watchlist": false
-      },
-      {
         "ticker": "PLUS",
         "date": "2026-05-27",
         "hour": "amc",
@@ -3992,6 +3984,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "UHAL",
+        "date": "2026-05-27",
+        "hour": "",
+        "eps_estimate": -0.6664,
+        "revenue_estimate": 1288342620,
         "is_watchlist": false
       },
       {
@@ -4234,6 +4234,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.2549,
         "revenue_estimate": 123197918,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PLAB",
+        "date": "2026-05-28",
+        "hour": "",
+        "eps_estimate": 0.5508,
+        "revenue_estimate": 220994220,
         "is_watchlist": false
       },
       {
