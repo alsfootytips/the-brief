@@ -1,23 +1,23 @@
 {
   "sent": [
-    "filing:OSCR:8-K:2026-05-06",
-    "big_move:NBIS:2026-05-13",
-    "filing:NVDA:8-K:2026-05-08",
-    "big_move:NBIS:2026-05-15",
-    "falsif_news:2026-05-12-AMD-value:https://finnhub.io/api/news?id=7026e9db5666caddc0eb30abcc3901d3328703b2a77c4a9e9",
     "big_move:OSCR:2026-05-13",
-    "big_move:CRWV:2026-05-15",
-    "new_pick:2026-05-13-FRO-tactical",
-    "big_move:NVDA:2026-05-15",
-    "filing:NBIS:6-K:2026-05-13",
     "big_move:NBIS:2026-05-14",
-    "filing:TTD:8-K:2026-05-08",
-    "filing:APA:8-K:2026-05-06",
     "filing:CRWV:8-K:2026-05-07",
-    "filing:TPL:8-K:2026-05-06",
-    "big_move:CRWV:2026-05-13",
-    "big_move:OSCR:2026-05-15",
+    "filing:NVDA:8-K:2026-05-08",
+    "new_pick:2026-05-13-FRO-tactical",
+    "earnings_imminent:NBIS:2026-05-13",
+    "big_move:CRWV:2026-05-15",
+    "big_move:NBIS:2026-05-15",
+    "filing:OSCR:8-K:2026-05-06",
     "filing:TTD:8-K:2026-05-07",
-    "earnings_imminent:NBIS:2026-05-13"
+    "big_move:CRWV:2026-05-13",
+    "big_move:NBIS:2026-05-13",
+    "big_move:NVDA:2026-05-15",
+    "big_move:OSCR:2026-05-15",
+    "falsif_news:2026-05-12-AMD-value:https://finnhub.io/api/news?id=7026e9db5666caddc0eb30abcc3901d3328703b2a77c4a9e9",
+    "filing:TPL:8-K:2026-05-06",
+    "filing:APA:8-K:2026-05-06",
+    "filing:TTD:8-K:2026-05-08",
+    "filing:NBIS:6-K:2026-05-13"
   ]
 }
