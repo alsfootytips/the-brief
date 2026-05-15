@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-14T23:14:07.612798+00:00",
+  "generated_at": "2026-05-15T00:13:06.553952+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -3.05,
-      "price": 22.9,
+      "change_pct": -3.51,
+      "price": 22.79,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T23:14:07.609511+00:00",
+      "timestamp": "2026-05-15T00:13:06.550571+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": 4.86,
-      "price": 236.8,
+      "change_pct": 5.33,
+      "price": 237.87,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T23:14:07.609509+00:00",
+      "timestamp": "2026-05-15T00:13:06.550568+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -42,10 +42,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 6.78,
-      "price": 221.33,
+      "change_pct": 6.72,
+      "price": 221.2,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T23:14:07.609505+00:00",
+      "timestamp": "2026-05-15T00:13:06.550565+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,10 +54,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "DG",
       "name": "Dollar General",
-      "change_pct": 3.44,
-      "price": 105.25,
+      "change_pct": 3.03,
+      "price": 104.83,
       "is_watchlist": true,
-      "timestamp": "2026-05-14T23:14:07.609489+00:00",
+      "timestamp": "2026-05-15T00:13:06.550550+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -65,135 +65,215 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Peru\u2019s central bank holds benchmark interest rate at 4.25%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/perus-central-bank-holds-benchmark-interest-rate-at-425-4690897",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:12:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Co-Diagnostics anticipates filing FDA 510(k) in the third quarter as CoSara expands TAM to approximately $13B",
+      "headline": "Cibus outlines runway into late Q1 2027 while shifting U.S. rice launch to 2029",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4593457-co-diagnostics-anticipates-filing-fda-510-k-in-the-third-quarter-as-cosara-expands-tam-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4593469-cibus-outlines-runway-into-late-q1-2027-while-shifting-u-s-rice-launch-to-2029?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-14T23:12:14+00:00",
+      "timestamp": "2026-05-15T00:01:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Aqua Metals signals site selection push for first commercial lithium recycling facility while dropping Lion Energy acquisition structure",
+      "headline": "Legacy Education outlines campus expansions to add close to 1,200 to 1,500 additional students over 12 to 24 months",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4593456-aqua-metals-signals-site-selection-push-for-first-commercial-lithium-recycling-facility-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4593468-legacy-education-outlines-campus-expansions-to-add-close-to-1200-to-1500-additional-students?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-14T23:12:10+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-05-15T00:01:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "AuthID expects $3.5M annualized cost savings to support runway after $4.2M bridge financing",
+      "headline": "'Race against time': Hormuz shutdown could boost Brent to $150 by summer, Morgan Stanley says",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4593454-authid-expects-3_5m-annualized-cost-savings-to-support-runway-after-4_2m-bridge-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4593453-race-against-time-hormuz-shutdown-could-boost-brent-to-150-by-summer-morgan-stanley-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-14T23:11:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nortech outlines $15M asset-backed credit line as backlog reaches $90.8M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4593455-nortech-outlines-15m-asset-backed-credit-line-as-backlog-reaches-90_8m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:11:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arrowhead director Lu Hongbo sells $228,333 of common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/arrowhead-director-lu-hongbo-sells-228333-of-common-stock-93CH-4690896",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:09:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street ends higher on tech rally; investors eye Beijing talks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-futures-rise-to-new-highs-as-nvidia-jumps-4687631",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:07:13+00:00",
+      "timestamp": "2026-05-14T23:57:32+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sempra chief legal counsel Diana Day sells $304,029 in stock",
+      "headline": "US SEC settles civil lawsuit against Indian billionaire Adani subject to court approval",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sempra-chief-legal-counsel-diana-day-sells-304029-in-stock-93CH-4690895",
+      "url": "https://www.investing.com/news/economy-news/us-sec-settles-civil-lawsuit-against-indian-billionaire-adani-subject-to-court-approval-4690938",
       "is_watchlist": false,
-      "timestamp": "2026-05-14T23:07:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Louisiana, South Carolina Republicans advance new congressional maps",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/louisiana-republicans-advance-new-us-house-map-eliminating-majorityblack-district-4690626",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:06:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed\u2019s Barr says wrong to lower liquidity rules to shrink Fed holdings",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/feds-barr-says-wrong-to-lower-liquidity-rules-to-shrink-fed-holdings-4690894",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:06:42+00:00",
+      "timestamp": "2026-05-14T23:55:34+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 Q2 Holdings For: 14 May",
+      "headline": "US Justice Dept close to dropping charges against India\u2019s Gautam Adani, sources say",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-q2-holdings-for-14-may-93CH-4690893",
+      "url": "https://www.investing.com/news/stock-market-news/us-authorities-move-to-resolve-fraud-cases-against-indias-adani-bloomberg-news-reports-4689139",
       "is_watchlist": false,
-      "timestamp": "2026-05-14T23:06:38+00:00",
+      "timestamp": "2026-05-14T23:54:58+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan April wholesale prices rise 4.9 pct yr/yr",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/japan-april-wholesale-prices-rise-49-pct-yryr-4690944",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:54:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 Archrock Inc For: 14 May",
+      "headline": "JBT Marel declares dividend, authorizes $200M buyback",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-archrock-inc-for-14-may-93CH-4690892",
+      "url": "https://www.investing.com/news/company-news/jbt-marel-declares-dividend-authorizes-200m-buyback-93CH-4690943",
       "is_watchlist": false,
-      "timestamp": "2026-05-14T23:06:37+00:00",
+      "timestamp": "2026-05-14T23:52:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EGain outlines FY 2026 revenue of $90.5M-$91.0M while citing higher U.S. RFP activity",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4593467-egain-outlines-fy-2026-revenue-of-90_5m-91_0m-while-citing-higher-u-s-rfp-activity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:51:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SoundThinking outlines $109M-$111M 2026 revenue outlook with 16%-18% adjusted EBITDA margin",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4593466-soundthinking-outlines-109m-111m-2026-revenue-outlook-with-16-percentminus-18-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:51:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 Two Harbors Investment Corp. For: 14 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-two-harbors-investment-corp-for-14-may-93CH-4690942",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:51:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 APOLLO GLOBAL MANAGEMENT For: 14 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-apollo-global-management-for-14-may-93CH-4690941",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:51:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US judge considers Anthropic\u2019s $1.5 billion settlement of authors\u2019 lawsuit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-considers-anthropics-15-billion-settlement-of-authors-lawsuit-4690939",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:49:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Supreme Court lets abortion pill mail delivery continue",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/deadline-passes-for-us-supreme-court-to-extend-order-ensuring-abortion-pill-mail-delivery-4690659",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:48:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Figma anticipates $1.422B-$1.428B 2026 revenue while raising non-GAAP operating income to $125M-$135M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4593465-figma-anticipates-1_422b-1_428b-2026-revenue-while-raising-non-gaap-operating-income-to-125m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:42:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TMC targets Q1 2027 commercial recovery permit as Allseas deal advances commissioning in late 2027",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4593464-tmc-targets-q1-2027-commercial-recovery-permit-as-allseas-deal-advances-commissioning-in-late?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-14T23:42:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia Stock Soars as UBS Sees Massive AI Demand Surge Ahead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86f45879f0bf6bc7f31a263fa00f0bfb2aa0b7a8856f30edb802634da91ba687",
+      "is_watchlist": true,
+      "timestamp": "2026-05-14T23:38:58+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why AST SpaceMobile Stock Crushed it on Thursday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a26cc9d1ecf3f9be55ba07d1faa14a3cf5676fdc269086e6f74679d4c94934ac",
+      "is_watchlist": true,
+      "timestamp": "2026-05-14T23:35:20+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "AMD Samsung 2nm Talks Highlight Supply Chain Flexibility And AI Ambitions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27158ff528c671bbe5737906b5ad403a446337aab3b2b375bade450f9f041c40",
+      "is_watchlist": true,
+      "timestamp": "2026-05-14T23:17:42+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: AMD"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Accelerant Holdings Stock Skyrocketed by Almost 17% Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ec25640afacfa324ae5fd3941d6dfaade5d6442b1516191cd7aa009d32b41a5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-14T23:08:36+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -203,28 +283,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-14T23:03:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Genasys expects annualized gross margins over 50% as it targets full-year gaap net income profitability",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4593452-genasys-expects-annualized-gross-margins-over-50-percent-as-it-targets-full-year-gaap-net?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:02:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CapsoVision expects AI-assisted reading clearance around midyear, with CapsoCam Colon Gen 2 imaging and AI module targeted for Q3 2026",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4593451-capsovision-expects-ai-assisted-reading-clearance-around-midyear-with-capsocam-colon-gen-2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T23:01:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -241,6 +299,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "5 Revealing Analyst Questions From AMD\u2019s Q1 Earnings Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76058555732d739cedc13bfcc0b1bac6e3ee20134928b43515e6690873900330",
+      "is_watchlist": true,
+      "timestamp": "2026-05-14T23:00:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Supreme Court allows mail-order of abortion pill mifepristone pending appeal",
       "source": "CNBC Top",
@@ -251,15 +321,32 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US House narrowly rejects bid to rein in Trump Iran war powers - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU09HM0Z4REpPVkhWTGF4ZHVBWGlmU0p5MmxRNGdJTDBvTEpEOFlCazEzMXkzemhNazNobFJGd25ZbjZwNm5mdWtFVUxLd2Zocm1aSVlONjZnTkdHT215UGhuaUg1VzQ5djVSOGc1eFZRd0JJM1cxRG1tMHJqdDI1ZGJKTHloaFZNZFBrTzZvSUM2TDVUWUY0ZlVkc09rU21NZldJ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-14T22:42:25+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Exxon resumes drilling in Guyana's Canje block after four-year absence",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4593448-exxon-resumes-drilling-in-guyanas-canje-block-after-four-year-absence?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Exclusive: Iraq seeking financial assistance from IMF, World Bank as result of Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUI5Q1lmWm9OdHAtM2s1VGc1U1BxRkpkaEFaZW1UN2ZnMU1xSFlOcExVMEU3TG54dWpXczR6NzNnbnJiZ0tDNklfaU93RFVyUkxFcllQMjFGaHUtRUdMVkhjYkhwd2tzQjlLRndyS2lMTjJ3dEtXV0t6N2g3eGlPNlRmMGNtU0s3dmZqS0pxbkQ2Mmp0Y05pWUlhWEQwVGlBSENGd3EzeDlFU21FRVFSR3UyUXlmc0kyWlQ1YnQxQ3R3QVlnYzhR?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-14T22:54:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-05-14T22:30:34+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -364,6 +451,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Xanadu Quantum Revenue Increases Fourfold. Why the Stock Is Falling.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=951d36aea4b25a0e7405f5bf9e8213e220f9eeee389b1c8d657615c52fe7517a",
+      "is_watchlist": true,
+      "timestamp": "2026-05-14T22:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "\u2018I\u2019m not an extravagant spender\u2019: I\u2019m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
       "source": "MarketWatch",
@@ -408,30 +507,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "S&P Global Has Quietly Become One of the Widest-Moat Stocks in Finance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60cddac648ed8b5ba266518427ba6c387abef8a59f4f145d2943a14625670174",
-      "is_watchlist": true,
-      "timestamp": "2026-05-14T21:28:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Dow Jones Futures: Stocks Power Up As Nvidia Runs, Cerebras IPO Soars; Trump-Xi Summit Continues",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62e76c7446e60cfe99a305ac5331ccd29c0b9f640647eaaa544eb78af9a11f66",
-      "is_watchlist": true,
-      "timestamp": "2026-05-14T21:27:53+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why.",
       "source": "MarketWatch",
@@ -440,18 +515,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-14T21:27:00+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Milestone Scientific Inc. Q1 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f03ba875b88f5115d80cfce065ba30ca5e316d9e76bffa00ae59c14941f4610f",
-      "is_watchlist": true,
-      "timestamp": "2026-05-14T21:21:49+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -497,30 +560,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-14T20:25:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Cerebras Stock Jumps 68% After Blockbuster IPO. CEO Sees Bigger Things Ahead.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a18e072e9960e8c09e035fa0d6a49c3b6ef33bceccc847b14064a8ec8a811f27",
-      "is_watchlist": true,
-      "timestamp": "2026-05-14T20:19:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Why Intel Is More Like Boeing than Nvidia or TSMC",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e1a997bc79f9dcf9204afc7d29731a2047625a306acbb11ed522aa32bd4fb43",
-      "is_watchlist": true,
-      "timestamp": "2026-05-14T20:17:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -600,18 +639,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-14T19:45:43+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Xi Warns Of Taiwan Conflict. These Stocks Could Get Crushed.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3afb678b33e7cbfa85e151cf73fb0f4d66bd953fe6f90d31c47e2f6b6c0f0b48",
-      "is_watchlist": true,
-      "timestamp": "2026-05-14T19:41:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -712,17 +739,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Boeing lands a long-awaited jet order from China. Why the stock is falling anyway",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/14/boeing-lands-a-long-awaited-jet-order-from-china-why-the-stock-is-falling-anyway.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T18:06:10+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "China will order 200 Boeing jets, Trump tells Fox News",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/14/china-boeing-order-airplanes-737-max-trump-says.html",
@@ -746,17 +762,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Retail investors have a new 'toy' for speculation, Barclays says",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/14/prediction-markets-retail-investors-have-a-new-toy-for-speculation.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-14T17:30:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1201,72 +1206,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia Stock Gets A Lift As Chief Huang Joins 'Team America' In Beijing; Is Nvidia A Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/nvidia-nvda-stock-china-trump-huang-earnings/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T15:38:35+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BofA Hikes NVIDIA Price Target to $320 on Massive $1.7 Trillion AI Data Center Forecast",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/bofa-hikes-nvidia-price-target-153641107.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T15:36:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon Stock's Rally Nears Next Test As Tech Giant Rebrands AI Shopping Agent",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/amazon-stock-rally-ai-shopping-rufus-alexa/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T15:34:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Hertz Global Holdings, Inc. (HTZ) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/hertz-global-holdings-inc-htz-153121491.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T15:31:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is IDEX Corporation (IEX) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/idex-corporation-iex-good-stock-153107109.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T15:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Lyft, Inc. (LYFT) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/lyft-inc-lyft-good-stock-153053095.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-13T15:30:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/explained-perpetual-dex-wall-street-152000841.html",
@@ -1300,6 +1239,28 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Is Wall Street Bullish or Bearish on Broadcom Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/wall-street-bullish-bearish-broadcom-122048497.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:20:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EQT's pending $14.3B Intertek takeover adds to run of UK take-privates",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/eqts-pending-14-3b-intertek-121756579.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:17:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "DG",
       "headline": "Is It Time To Reassess Dollar General (DG) After Recent Share Price Weakness?",
       "source": "Yahoo",
@@ -1309,6 +1270,51 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coinbase Holds Above Key Level After Earnings Miss; Is The Stock A Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/coinbase-stock-buy-now-may-2026/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:15:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:15:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Are Wall Street Analysts' Target Price for Cigna Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-target-price-121057168.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:10:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "12 Consumer Discretionary Stocks Moving In Wednesday's Pre-Market Session",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/12-consumer-discretionary-stocks-moving-120621045.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-13T12:06:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1411,30 +1417,6 @@ window.theBriefLive = {
       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000028/nvda-20260507.htm",
       "is_watchlist": true,
       "timestamp": "2026-05-08",
-      "relevance_score": 6.0,
-      "relevance_tier": "high",
-      "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "filing",
-      "ticker": "CRWV",
-      "form": "8-K",
-      "date": "2026-05-07",
-      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000220/crwv-20260507.htm",
-      "is_watchlist": true,
-      "timestamp": "2026-05-07",
-      "relevance_score": 6.0,
-      "relevance_tier": "high",
-      "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "filing",
-      "ticker": "TTD",
-      "form": "8-K",
-      "date": "2026-05-07",
-      "url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000053/ttd-20260507.htm",
-      "is_watchlist": true,
-      "timestamp": "2026-05-07",
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
