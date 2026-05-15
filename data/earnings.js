@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-15T12:12:52+00:00",
+  "generated_at": "2026-05-15T14:37:42+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -637,7 +637,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BCDA",
         "date": "2026-05-15",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.1683,
         "revenue_estimate": 0,
         "is_watchlist": false
