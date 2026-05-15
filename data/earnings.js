@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-15T19:55:18+00:00",
+  "generated_at": "2026-05-15T21:02:43+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -701,7 +701,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FSI",
         "date": "2026-05-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0707,
         "revenue_estimate": 9946480,
         "is_watchlist": false
@@ -933,7 +933,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SMXT",
         "date": "2026-05-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
