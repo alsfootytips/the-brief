@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-15T04:20:45.015586+00:00",
+  "generated_at": "2026-05-15T07:42:10.909752+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"\"The Big Short's\" Michael Burry vs. Renowned Economist Ed Yardeni: One Thinks the Stock Ma...\""
+      "move_reason": "News: \"Teva Stock Is at Its Highest Level in Nearly a Decade. Here's Why It Could Soar Even More.\""
     },
     {
       "ticker": "SOFI",
@@ -98,18 +98,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 107.36,
-      "change_pct": 1.53,
-      "volume_ratio": 0.88,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLK",
       "name": "Technology Select Sector",
       "price": 179.5,
@@ -118,18 +106,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 139.5,
-      "change_pct": 1.19,
-      "volume_ratio": 1.0,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -179,6 +155,28 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Quanta Services (PWR) Valuation Check After Raised 2026 Profit Outlook And Strong AI Infra...\""
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 748.17,
+      "change_pct": 0.79,
+      "volume_ratio": 0.96,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "DIA",
+      "name": "SPDR Dow Jones Industrial",
+      "price": 500.8,
+      "change_pct": 0.74,
+      "volume_ratio": 1.05,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -193,17 +191,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Oscar Health (OSCR) Price Target Increased by 20.38% to 19.93\""
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "price": 51.67,
-      "change_pct": -0.75,
-      "volume_ratio": 1.14,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     },
     {
       "ticker": "XLRE",
@@ -239,6 +226,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Jim Cramer Reveals Why He\u2019s \u2018Dazzled\u201d By Trade Desk (TTD)\""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 139.32,
+      "change_pct": -0.13,
+      "volume_ratio": 0.24,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     },
     {
       "ticker": "XLV",
@@ -334,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Job Market Has Only Gotten Worse Since Trump's 'Liberation Day'\""
+      "move_reason": "News: \"What Does Higher Inflation Mean For The U.S. Economy And Fed?\""
     },
     {
       "ticker": "NBIS",
@@ -358,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"\"The Big Short's\" Michael Burry vs. Renowned Economist Ed Yardeni: One Thinks the Stock Ma...\""
+      "move_reason": "News: \"Teva Stock Is at Its Highest Level in Nearly a Decade. Here's Why It Could Soar Even More.\""
     },
     {
       "ticker": "OSCR",
@@ -406,7 +405,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land's (NYSE:TPL) Solid Earnings May Rest On Weak Foundations\""
+      "move_reason": "News: \"Texas Pacific Land Corporation 2026 Q1 - Results - Earnings Call Presentation\""
     },
     {
       "ticker": "TTD",
@@ -574,16 +573,6 @@ window.theBriefMovers = {
       "price": 43.91,
       "change_pct": -0.68,
       "volume_ratio": 1.06,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "price": 51.67,
-      "change_pct": -0.75,
-      "volume_ratio": 1.14,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -820,13 +809,6 @@ window.theBriefMovers = {
         "TPL",
         "OXY"
       ]
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "change_pct": -0.75,
-      "price": 51.67,
-      "watchlist_members": []
     },
     {
       "ticker": "XLRE",
