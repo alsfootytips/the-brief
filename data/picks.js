@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-16T00:09:44.761071+00:00",
+  "generated_at": "2026-05-16T04:03:14.111644+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -153,9 +153,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 59.48,
-      "current_pct": 3.05,
-      "change_pct_today": 2.43,
+      "current_price": 59.45,
+      "current_pct": 3.0,
+      "change_pct_today": 2.38,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 4,
@@ -462,8 +462,8 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 1048.0,
-      "current_pct": -0.38,
+      "current_price": 1047.96,
+      "current_pct": -0.39,
       "change_pct_today": -3.9,
       "name": "GE Vernova",
       "news_count": 3,

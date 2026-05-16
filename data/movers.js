@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T00:09:44.749742+00:00",
+  "generated_at": "2026-05-16T04:03:14.100296+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What's going on in today's session: S&P500 movers\""
+      "move_reason": "News: \"Chord Energy: Still Undervalued, Even At $100 Oil\""
     },
     {
       "ticker": "OXY",
@@ -23,14 +23,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Ekes Out Seventh Consecutive Weekly Gain as Energy Leads\""
+      "move_reason": "News: \"Tracking Berkshire Hathaway Portfolio - Q1 2026 Update\""
     },
     {
       "ticker": "XOM",
       "name": "XOM",
       "price": 157.87,
       "change_pct": 4.03,
-      "volume_ratio": 1.61,
+      "volume_ratio": 1.62,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -66,7 +66,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 21.09,
       "change_pct": 3.32,
-      "volume_ratio": 0.98,
+      "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -88,8 +88,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 59.48,
-      "change_pct": 2.43,
+      "price": 59.45,
+      "change_pct": 2.38,
       "volume_ratio": 1.13,
       "is_watchlist": true,
       "is_index": false,
@@ -102,7 +102,7 @@ window.theBriefMovers = {
       "name": "CVX",
       "price": 190.81,
       "change_pct": 2.23,
-      "volume_ratio": 1.21,
+      "volume_ratio": 1.22,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 420.19,
       "change_pct": -6.56,
-      "volume_ratio": 0.84,
+      "volume_ratio": 0.85,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -152,19 +152,19 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 224.41,
       "change_pct": -4.81,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Starbucks is Set to Lay Off 300 Corporate Employees as Part of Its Turnaround Strategy\""
+      "move_reason": "News: \"A Look At Nova (NVMI) Valuation After Record Q1 2026 Beat And Upgraded Outlook\""
     },
     {
       "ticker": "SIEGY",
       "name": "SIEGY",
       "price": 150.53,
       "change_pct": -4.79,
-      "volume_ratio": 0.11,
+      "volume_ratio": 0.85,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -174,14 +174,14 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1048.0,
+      "price": 1047.96,
       "change_pct": -3.9,
       "volume_ratio": 1.18,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova's Gas Nuclear Project Tests High Expectations And Rich Valuation\""
+      "move_reason": "News: \"This Nuclear Tech Stock Grew Revenue 27%, But a Fund Still Slashed Its Stake\""
     },
     {
       "ticker": "SOFI",
@@ -205,7 +205,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Short Selling And Put Buying Point To Continuing Rally\""
+      "move_reason": "News: \"This Week's Market Wrap: Narrow Leadership, Oil And China Trip, And Hot Inflation\""
     },
     {
       "ticker": "XLB",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 176.26,
       "change_pct": -1.81,
-      "volume_ratio": 1.16,
+      "volume_ratio": 1.17,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -304,7 +304,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 420.19,
       "change_pct": -6.56,
-      "volume_ratio": 0.84,
+      "volume_ratio": 0.85,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What's going on in today's session: S&P500 movers\""
+      "move_reason": "News: \"Chord Energy: Still Undervalued, Even At $100 Oil\""
     },
     {
       "ticker": "CRWV",
@@ -350,14 +350,14 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1048.0,
+      "price": 1047.96,
       "change_pct": -3.9,
       "volume_ratio": 1.18,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova's Gas Nuclear Project Tests High Expectations And Rich Valuation\""
+      "move_reason": "News: \"This Nuclear Tech Stock Grew Revenue 27%, But a Fund Still Slashed Its Stake\""
     },
     {
       "ticker": "IWM",
@@ -369,14 +369,14 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Short Selling And Put Buying Point To Continuing Rally\""
+      "move_reason": "News: \"This Week's Market Wrap: Narrow Leadership, Oil And China Trip, And Hot Inflation\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 217.76,
       "change_pct": -1.53,
-      "volume_ratio": 0.97,
+      "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -388,12 +388,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 224.41,
       "change_pct": -4.81,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Starbucks is Set to Lay Off 300 Corporate Employees as Part of Its Turnaround Strategy\""
+      "move_reason": "News: \"A Look At Nova (NVMI) Valuation After Record Q1 2026 Beat And Upgraded Outlook\""
     },
     {
       "ticker": "OSCR",
@@ -417,7 +417,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Ekes Out Seventh Consecutive Weekly Gain as Energy Leads\""
+      "move_reason": "News: \"Tracking Berkshire Hathaway Portfolio - Q1 2026 Update\""
     },
     {
       "ticker": "PWR",
@@ -448,7 +448,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 21.09,
       "change_pct": 3.32,
-      "volume_ratio": 0.98,
+      "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -458,8 +458,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 59.48,
-      "change_pct": 2.43,
+      "price": 59.45,
+      "change_pct": 2.38,
       "volume_ratio": 1.13,
       "is_watchlist": true,
       "is_index": false,
@@ -474,7 +474,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 495.37,
       "change_pct": -1.08,
-      "volume_ratio": 1.03,
+      "volume_ratio": 1.05,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -495,7 +495,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 708.93,
       "change_pct": -1.51,
-      "volume_ratio": 1.24,
+      "volume_ratio": 1.25,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -505,7 +505,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 739.17,
       "change_pct": -1.2,
-      "volume_ratio": 1.2,
+      "volume_ratio": 1.22,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -515,8 +515,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 59.48,
-      "change_pct": 2.43,
+      "price": 59.45,
+      "change_pct": 2.38,
       "volume_ratio": 1.13,
       "is_watchlist": true,
       "is_index": false,
@@ -598,7 +598,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 176.26,
       "change_pct": -1.81,
-      "volume_ratio": 1.16,
+      "volume_ratio": 1.17,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -904,7 +904,7 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1048.0,
+      "price": 1047.96,
       "change_pct": -3.9,
       "score": 3.5,
       "signals": [
@@ -936,8 +936,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 2.43,
-      "price": 59.48,
+      "change_pct": 2.38,
+      "price": 59.45,
       "watchlist_members": [
         "APA",
         "TPL",
