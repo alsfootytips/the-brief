@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-16T22:24:55.740839+00:00",
+  "generated_at": "2026-05-16T23:27:48.544784+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.32,
       "price": 21.09,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T22:24:55.737334+00:00",
+      "timestamp": "2026-05-16T23:27:48.542061+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 59.48,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T22:24:55.737331+00:00",
+      "timestamp": "2026-05-16T23:27:48.542058+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -4.81,
       "price": 224.41,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T22:24:55.737328+00:00",
+      "timestamp": "2026-05-16T23:27:48.542056+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -3.9,
       "price": 1047.96,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T22:24:55.737324+00:00",
+      "timestamp": "2026-05-16T23:27:48.542053+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -6.48,
       "price": 106.81,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T22:24:55.737314+00:00",
+      "timestamp": "2026-05-16T23:27:48.542045+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": 5.6,
       "price": 39.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T22:24:55.737306+00:00",
+      "timestamp": "2026-05-16T23:27:48.542042+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,10 +93,54 @@ window.theBriefLive = {
       "change_pct": -6.56,
       "price": 420.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T22:24:55.737297+00:00",
+      "timestamp": "2026-05-16T23:27:48.542036+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Judge blocks Kansas ban on gender-transition treatment for minors",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/judge-blocks-kansas-ban-on-gendertransition-treatment-for-minors-4694489",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T23:00:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Venezuela\u2019s draft oil law lets ministry set tax rates for each project",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/venezuelas-draft-oil-law-lets-ministry-set-tax-rates-for-each-project-4694488",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T23:00:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Venezuelan official Alex Saab, a Maduro ally, deported to US",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/maduro-ally-alex-saab-deported-to-us-4694487",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T22:54:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T22:47:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -263,17 +307,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T19:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -447,28 +480,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SK Hynix is set to become the 2nd Korean company to hit $1 trln market cap",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-is-set-to-become-the-2nd-korean-company-to-hit-1-trln-market-cap-4694482",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T17:49:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ImmunityBio secures exclusive U.S. rights to Tokyo BCG strain",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/immunitybio-secures-exclusive-us-rights-to-tokyo-bcg-strain-93CH-4694481",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T17:41:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "BlackRock is said to weigh investing billions in SpaceX IPO",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4594166-blackrock-weighs-investing-billions-spacex-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -508,17 +519,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/ai-investment-advice-is-50-more-likely-to-pump-you-up-and-trip-you-into-costly-blunders-1fcdd3d1?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-16T17:28:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BlackRock weighs multibillion-dollar investment in SpaceX IPO, the Information reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/blackrock-weighs-multibilliondollar-investment-in-spacex-ipo-the-information-reports-4694472",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T17:24:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
