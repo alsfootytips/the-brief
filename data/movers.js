@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T18:14:13.895383+00:00",
+  "generated_at": "2026-05-16T19:36:19.256645+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -145,7 +145,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Left Behind In AI Rally - Still A Strong Buy\""
+      "move_reason": "News: \"NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom\""
     },
     {
       "ticker": "NVDA",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Left Behind In AI Rally - Still A Strong Buy\""
+      "move_reason": "News: \"NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom\""
     },
     {
       "ticker": "DG",
@@ -381,7 +381,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cerebras: Don't Buy The IPO Hype, Wait For A Drop\""
+      "move_reason": "News: \"NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom\""
     },
     {
       "ticker": "NVDA",
