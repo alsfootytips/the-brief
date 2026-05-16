@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T14:00:58.715698+00:00",
+  "generated_at": "2026-05-16T15:07:55.310621+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -145,7 +145,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cerebras: Don't Buy The IPO Hype, Wait For A Drop\""
+      "move_reason": "News: \"CoreWeave: Left Behind In AI Rally - Still A Strong Buy\""
     },
     {
       "ticker": "NVDA",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova (GEV) Valuation Check After Strong 1 Year Share Price Performance\""
+      "move_reason": "News: \"Broadcom Leads Five IBD 50 Stocks Near Buy Points; Most Are AI Plays\""
     },
     {
       "ticker": "SOFI",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cerebras: Don't Buy The IPO Hype, Wait For A Drop\""
+      "move_reason": "News: \"CoreWeave: Left Behind In AI Rally - Still A Strong Buy\""
     },
     {
       "ticker": "DG",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova (GEV) Valuation Check After Strong 1 Year Share Price Performance\""
+      "move_reason": "News: \"Broadcom Leads Five IBD 50 Stocks Near Buy Points; Most Are AI Plays\""
     },
     {
       "ticker": "IWM",
