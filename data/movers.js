@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T15:07:55.310621+00:00",
+  "generated_at": "2026-05-16T16:10:26.306571+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Western Midstream Partners: I Prefer This MLP Over Enterprise Products Partners And Energy...\""
+      "move_reason": "News: \"2 Overlooked Oil Stocks to Buy Now Before They Soar\""
     },
     {
       "ticker": "XOM",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"6 Words From Now-Former Fed Chair Jerome Powell That Will Echo Through Wall Street for Yea...\""
+      "move_reason": "News: \"Seagate and Western Digital: AI Storage Demand Is Now Showing Up in Pricing Power\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"6 Words From Now-Former Fed Chair Jerome Powell That Will Echo Through Wall Street for Yea...\""
+      "move_reason": "News: \"Seagate and Western Digital: AI Storage Demand Is Now Showing Up in Pricing Power\""
     },
     {
       "ticker": "OSCR",
@@ -417,7 +417,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Western Midstream Partners: I Prefer This MLP Over Enterprise Products Partners And Energy...\""
+      "move_reason": "News: \"2 Overlooked Oil Stocks to Buy Now Before They Soar\""
     },
     {
       "ticker": "PWR",
@@ -441,7 +441,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ashland, BlackBerry, and 3 More Stocks See Action From Activist Investors\""
+      "move_reason": "News: \"Texas Pacific Land\u2019s Q1 Earnings Call: Our Top 5 Analyst Questions\""
     },
     {
       "ticker": "TTD",
