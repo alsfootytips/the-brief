@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T04:03:14.100296+00:00",
+  "generated_at": "2026-05-16T06:35:26.548948+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking Berkshire Hathaway Portfolio - Q1 2026 Update\""
+      "move_reason": "News: \"Western Midstream Partners: I Prefer This MLP Over Enterprise Products Partners And Energy...\""
     },
     {
       "ticker": "XOM",
@@ -114,7 +114,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 107.58,
       "change_pct": 0.2,
-      "volume_ratio": 1.25,
+      "volume_ratio": 1.24,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Look At Nova (NVMI) Valuation After Record Q1 2026 Beat And Upgraded Outlook\""
+      "move_reason": "News: \"Nvidia surpasses Germany: How the market caps of tech giants compare to top economies\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Look At Nova (NVMI) Valuation After Record Q1 2026 Beat And Upgraded Outlook\""
+      "move_reason": "News: \"Nvidia surpasses Germany: How the market caps of tech giants compare to top economies\""
     },
     {
       "ticker": "OSCR",
@@ -417,7 +417,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking Berkshire Hathaway Portfolio - Q1 2026 Update\""
+      "move_reason": "News: \"Western Midstream Partners: I Prefer This MLP Over Enterprise Products Partners And Energy...\""
     },
     {
       "ticker": "PWR",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 495.37,
-      "change_pct": -1.08,
+      "change_pct": -1.03,
       "volume_ratio": 1.05,
       "is_watchlist": false,
       "is_index": true,
@@ -794,12 +794,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
+        "8 insider sells vs 2 buys (last 90 days)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
+        "8 insider sells vs 2 buys (last 90 days)"
       ],
       "tags": [
         "news-flow",
@@ -818,13 +818,13 @@ window.theBriefMovers = {
       "signals": [
         "Moved -6.48% \u2014 a 1.2\u03c3 move",
         "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
+        "9 insider sells vs 1 buys (last 90 days)",
         "-41.5% from 52-week high"
       ],
       "reasons": [
         "Moved -6.48% \u2014 a 1.2\u03c3 move",
         "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
+        "9 insider sells vs 1 buys (last 90 days)",
         "-41.5% from 52-week high"
       ],
       "tags": [
