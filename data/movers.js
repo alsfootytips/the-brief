@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T08:29:10.798713+00:00",
+  "generated_at": "2026-05-16T10:00:40.951673+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. Alphabet: Which Will Be the World's Biggest Company By the End of 2026?\""
+      "move_reason": "News: \"Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Worth Your Money Right Now?\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. Alphabet: Which Will Be the World's Biggest Company By the End of 2026?\""
+      "move_reason": "News: \"Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Worth Your Money Right Now?\""
     },
     {
       "ticker": "OSCR",

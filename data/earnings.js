@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-16T08:29:10+00:00",
+  "generated_at": "2026-05-16T10:00:40+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -1579,6 +1579,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "SACH",
+        "date": "2026-05-18",
+        "hour": "bmo",
+        "eps_estimate": 0.0102,
+        "revenue_estimate": 11688180,
+        "is_watchlist": false
+      },
+      {
         "ticker": "SB",
         "date": "2026-05-18",
         "hour": "",
@@ -2372,14 +2380,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0673,
         "revenue_estimate": 81665280,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DSX",
-        "date": "2026-05-21",
-        "hour": "bmo",
-        "eps_estimate": 0.0303,
-        "revenue_estimate": 54345070,
         "is_watchlist": false
       },
       {
@@ -3481,6 +3481,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "NCNO",
+        "date": "2026-05-27",
+        "hour": "",
+        "eps_estimate": 0.2702,
+        "revenue_estimate": 157846601,
+        "is_watchlist": false
+      },
+      {
         "ticker": "NNOX",
         "date": "2026-05-27",
         "hour": "",
@@ -3683,14 +3691,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "CHPT",
-        "date": "2026-05-28",
-        "hour": "",
-        "eps_estimate": -1.0353,
-        "revenue_estimate": 98350062,
-        "is_watchlist": false
-      },
-      {
         "ticker": "COOT",
         "date": "2026-05-28",
         "hour": "",
@@ -3720,6 +3720,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 1.5879,
         "revenue_estimate": 5068023244,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DSX",
+        "date": "2026-05-28",
+        "hour": "bmo",
+        "eps_estimate": 0.0303,
+        "revenue_estimate": 54345070,
         "is_watchlist": false
       },
       {
@@ -3864,6 +3872,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RSVR",
+        "date": "2026-05-28",
+        "hour": "amc",
+        "eps_estimate": 0.0449,
+        "revenue_estimate": 45354300,
         "is_watchlist": false
       },
       {
