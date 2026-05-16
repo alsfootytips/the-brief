@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-16T20:29:35.688619+00:00",
+  "generated_at": "2026-05-16T21:28:14.473774+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.32,
       "price": 21.09,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T20:29:35.685177+00:00",
+      "timestamp": "2026-05-16T21:28:14.470277+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 59.48,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T20:29:35.685174+00:00",
+      "timestamp": "2026-05-16T21:28:14.470273+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -4.81,
       "price": 224.41,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T20:29:35.685170+00:00",
+      "timestamp": "2026-05-16T21:28:14.470271+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -3.9,
       "price": 1047.96,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T20:29:35.685166+00:00",
+      "timestamp": "2026-05-16T21:28:14.470266+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -6.48,
       "price": 106.81,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T20:29:35.685156+00:00",
+      "timestamp": "2026-05-16T21:28:14.470256+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": 5.6,
       "price": 39.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T20:29:35.685153+00:00",
+      "timestamp": "2026-05-16T21:28:14.470252+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,7 +93,7 @@ window.theBriefLive = {
       "change_pct": -6.56,
       "price": 420.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T20:29:35.685144+00:00",
+      "timestamp": "2026-05-16T21:28:14.470243+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -101,11 +101,56 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is the Vanguard Information Technology ETF the Right Fit for Your Portfolio Before Summer?",
+      "headline": "Here's what Ramsey Show host George Kamel says you need to do to retire with $3 million and be 'set for life'",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-information-technology-etf-fit-200602828.html",
+      "url": "https://finance.yahoo.com/markets/articles/heres-ramsey-show-host-george-211000005.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-16T20:06:02+00:00",
+      "timestamp": "2026-05-16T21:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My mobile app made $800K in 365 days",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/mobile-app-made-800k-365-210111800.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T21:01:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rising diesel costs from Iran war strain US school budgets - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXJwb0lxb0NMVzhRYzYzQ3F0QjY3M1MwcElKREtqdW9OVzluREJXWU9TaVBvdzU2ZThIc29fVEkxLVVKcGxTMEI4NWVLQUptR1lZT0Z1aml3WTVVbW41WnJWb1ZDdkhlTzZ6LVFMWEJJMVVNeGJ2LTdkcDBhR1dzR3VpcFZoOUFxZTR1THdNRWxMUGRZVTBNOTlsbXpta3hEMkNmeTZmTUY?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T20:34:49+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A couple had $265K in savings and $1.7M projected for retirement \u2014 Ramit Sethi says they blew 1 crucial move",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/couple-had-265k-savings-1-202500792.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T20:25:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tens of thousands march in London in separate immigration, pro\u2011Palestinian protests",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/tens-of-thousands-march-in-london-in-separate-immigration-propalestinian-protests-4694460",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T20:24:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -342,28 +387,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lockheed Martin Corporation (LMT) Hits New Milestone as Undervalued Aerospace and Defense Stock to Buy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corporation-lmt-hits-180711876.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T18:07:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Huntington Ingalls Industries, Inc. (HII) a Top Undervalued Aerospace and Defense Stock to Buy After Q1?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-inc-hii-180701661.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T18:07:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Planet Fitness director Frances Rathke purchases $231,050 in stock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/insider-trading-news/planet-fitness-director-frances-rathke-purchases-231050-in-stock-93CH-4694483",
@@ -480,17 +503,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Former minister Streeting says he will stand in any contest to replace UK\u2019s Starmer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/former-minister-streeting-says-he-will-stand-in-any-contest-to-replace-uks-starmer-4694467",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T17:18:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I have $310,000 in cash from a maturing CD. Where should I put it next?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-have-310-000-in-cash-from-a-maturing-cd-where-should-i-put-it-next-2e6fdeee?mod=mw_rss_topstories",
@@ -531,6 +543,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-16T17:00:41+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "For better or worse, investors are living through Trump\u2019s stock market. Here's why",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T17:00:41+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -654,18 +677,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The bond market is flashing a warning over Iran. A veteran of energy geopolitics explains the risk",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/16/the-bond-market-is-flashing-a-warning-energy-geopolitics-expert-warns.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T14:01:14+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
@@ -688,6 +699,21 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "This federal program trains older workers. The Trump administration wants to cut it",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/16/senior-community-service-employment-program.html",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T13:30:01+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
@@ -696,6 +722,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-16T13:25:00+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T13:25:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -798,28 +835,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Meet the pilots flying Spirit Airlines' yellow jets to the desert",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/16/spirit-airlines-airplanes.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "Trade Desk Inc (NASDAQ:TTD) Shows Strong Value and Growth Potential",
       "source": "ChartMill",
@@ -853,18 +868,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rising diesel costs from Iran war strain US school budgets - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXJwb0lxb0NMVzhRYzYzQ3F0QjY3M1MwcElKREtqdW9OVzluREJXWU9TaVBvdzU2ZThIc29fVEkxLVVKcGxTMEI4NWVLQUptR1lZT0Z1aml3WTVVbW41WnJWb1ZDdkhlTzZ6LVFMWEJJMVVNeGJ2LTdkcDBhR1dzR3VpcFZoOUFxZTR1THdNRWxMUGRZVTBNOTlsbXpta3hEMkNmeTZmTUY?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T10:07:52+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
