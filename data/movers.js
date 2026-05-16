@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T16:10:26.306571+00:00",
+  "generated_at": "2026-05-16T17:16:10.914184+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -205,7 +205,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bond Traders Are Pricing The Worse Case\""
+      "move_reason": "News: \"Markets Are Behaving Like Schr\u00f6dinger's Cat\""
     },
     {
       "ticker": "XLB",
@@ -369,7 +369,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bond Traders Are Pricing The Worse Case\""
+      "move_reason": "News: \"Markets Are Behaving Like Schr\u00f6dinger's Cat\""
     },
     {
       "ticker": "NBIS",
