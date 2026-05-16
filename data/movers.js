@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T17:16:10.914184+00:00",
+  "generated_at": "2026-05-16T18:14:13.895383+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Seagate and Western Digital: AI Storage Demand Is Now Showing Up in Pricing Power\""
+      "move_reason": "News: \"The SpaceX IPO Is Coming June 12. Here\u2019s Why You Shouldn\u2019t Rush In to Buy\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Seagate and Western Digital: AI Storage Demand Is Now Showing Up in Pricing Power\""
+      "move_reason": "News: \"The SpaceX IPO Is Coming June 12. Here\u2019s Why You Shouldn\u2019t Rush In to Buy\""
     },
     {
       "ticker": "OSCR",
