@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T06:35:26.548948+00:00",
+  "generated_at": "2026-05-16T08:29:10.798713+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia surpasses Germany: How the market caps of tech giants compare to top economies\""
+      "move_reason": "News: \"Nvidia vs. Alphabet: Which Will Be the World's Biggest Company By the End of 2026?\""
     },
     {
       "ticker": "SIEGY",
@@ -205,7 +205,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Week's Market Wrap: Narrow Leadership, Oil And China Trip, And Hot Inflation\""
+      "move_reason": "News: \"The Tribulations Of Kevin Warsh\""
     },
     {
       "ticker": "XLB",
@@ -369,7 +369,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Week's Market Wrap: Narrow Leadership, Oil And China Trip, And Hot Inflation\""
+      "move_reason": "News: \"The Tribulations Of Kevin Warsh\""
     },
     {
       "ticker": "NBIS",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia surpasses Germany: How the market caps of tech giants compare to top economies\""
+      "move_reason": "News: \"Nvidia vs. Alphabet: Which Will Be the World's Biggest Company By the End of 2026?\""
     },
     {
       "ticker": "OSCR",
@@ -704,32 +704,6 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 420.19,
-      "change_pct": -6.56,
-      "score": 6.0,
-      "signals": [
-        "Moved -6.56% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "7 insider sells vs 3 buys (last 90 days)"
-      ],
-      "reasons": [
-        "Moved -6.56% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "7 insider sells vs 3 buys (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-selling"
-      ],
-      "narrative": "<strong>AMD</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 21.09,
@@ -807,6 +781,29 @@ window.theBriefMovers = {
         "insider-selling"
       ],
       "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 420.19,
+      "change_pct": -6.56,
+      "score": 5.0,
+      "signals": [
+        "Moved -6.56% \u2014 a 1.2\u03c3 move",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days"
+      ],
+      "reasons": [
+        "Moved -6.56% \u2014 a 1.2\u03c3 move",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days"
+      ],
+      "tags": [
+        "news-flow",
+        "filing"
+      ],
+      "narrative": "<strong>AMD</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
     },
     {
