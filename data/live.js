@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-16T21:28:14.473774+00:00",
+  "generated_at": "2026-05-16T22:24:55.740839+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.32,
       "price": 21.09,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T21:28:14.470277+00:00",
+      "timestamp": "2026-05-16T22:24:55.737334+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 59.48,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T21:28:14.470273+00:00",
+      "timestamp": "2026-05-16T22:24:55.737331+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -4.81,
       "price": 224.41,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T21:28:14.470271+00:00",
+      "timestamp": "2026-05-16T22:24:55.737328+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -3.9,
       "price": 1047.96,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T21:28:14.470266+00:00",
+      "timestamp": "2026-05-16T22:24:55.737324+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -6.48,
       "price": 106.81,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T21:28:14.470256+00:00",
+      "timestamp": "2026-05-16T22:24:55.737314+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": 5.6,
       "price": 39.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T21:28:14.470252+00:00",
+      "timestamp": "2026-05-16T22:24:55.737306+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,10 +93,44 @@ window.theBriefLive = {
       "change_pct": -6.56,
       "price": 420.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T21:28:14.470243+00:00",
+      "timestamp": "2026-05-16T22:24:55.737297+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Maximizing Your 401(k), and Is Retirement Bad for Your Brain?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/maximizing-401-k-retirement-bad-212356444.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T21:23:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4694486",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Agentic AI Supercycle Is Here. This Stock Could Be Its Biggest Winner.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e21df0e8eba82de95b9e8e527b976e0c277198825b2c5e6581e2976d4e256eb6",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -106,17 +140,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/articles/heres-ramsey-show-host-george-211000005.html",
       "is_watchlist": false,
       "timestamp": "2026-05-16T21:10:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My mobile app made $800K in 365 days",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/video/mobile-app-made-800k-365-210111800.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T21:01:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -156,6 +179,42 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "The haves and have nots of the AI gold rush",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d5a7dbab5a8effbdedf1312671ef419000198e71d4bbfaf402668e5516e631e",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T20:17:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "1 Chip Stock Making Bold Plans",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eebdc314772eaa0c0a94f8b76b065bfd65791399d74ddd0d2aed079200e493d3",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:59:46+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Chip Stock Making Bold Plans",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eebdc314772eaa0c0a94f8b76b065bfd65791399d74ddd0d2aed079200e493d3",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:59:46+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "AMD",
       "headline": "5-star analyst resets Nvidia stock price target ahead of earnings",
       "source": "Yahoo",
@@ -168,31 +227,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "5-star analyst resets Nvidia stock price target ahead of earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b8c816e53f5d73fbf84edc6b4ccb86f357404c0b4346681ca24fef107038225",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T19:37:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
-      "headline": "Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0076dcadc2605922caffaa33df61930e4a3ac6ebc645b660b4b1a9f38e18ccc",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T19:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f0076dcadc2605922caffaa33df61930e4a3ac6ebc645b660b4b1a9f38e18ccc",
@@ -296,18 +331,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "SoFi Stock Is Getting Absolutely Crushed This Year. Is It Finally Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a2ad7bf369a7be9f9eb36fe36095889f9449235a6182371b29c91a743441483",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T19:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "The Top 5 Analyst Questions From APA Corporation\u2019s Q1 Earnings Call",
       "source": "Yahoo",
@@ -317,6 +340,21 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran's stock market to reopen on Tuesday, official says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFgtcktkYW4zS3EwcS1KNnkzeFEybGFOLUtLWi1IQ0NQaWM3TGRvd0ExYVVNaFowQmo5d1JYZk5JQ3hpbWpSQ2xSelhjWWtyeXJJc1plazZjczJpWmFjT1RoUDRjYy1QbU5DNWNXbGFNQXlUMndDLVF5d1hFc0NxWTI3SmJyUHAxQ1NjTzZUUFd4ODJPUUZ5OVh2SXJ4SU92MEkw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T18:48:08+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -485,22 +523,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran war is worth the economic pain. These rural voters agree",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-war-is-worth-the-economic-pain-these-rural-voters-agree-4694447",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T17:24:32+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "I have $310,000 in cash from a maturing CD. Where should I put it next?",
@@ -604,6 +626,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Cerebras Is the Biggest IPO of the Year. If You Buy CBRS Stock Now, Brace Yourself for Volatility Ahead.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8436c0cdf91bd7664637d564e8cd5d3965cdc76feae66db79ec42d3308e31a1",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T15:30:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "OXY",
       "headline": "Chevron's CEO Is Warning of a 1970s-Style Oil Crisis. These 3 Energy Stocks Could Surge Before Summer.",
       "source": "Yahoo",
@@ -613,18 +647,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Is AMD a Top Artificial Intelligence (AI) Stock to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9b316b11f2a1109f41742c2d543f336b34a8333388dbc289226fe54fbfed0c9",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T15:05:00+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Pick: AMD"
     },
     {
       "type": "news",
@@ -653,18 +675,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NBIS",
-      "headline": "NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=dd8e202e6b5df4f1d9acf7c4203cb497194e569c500d33dfb6e9f95e21acdd18",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T14:16:10+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=dd8e202e6b5df4f1d9acf7c4203cb497194e569c500d33dfb6e9f95e21acdd18",
@@ -965,18 +975,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump's geopolitical brinkmanship has hit a wall with Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZG82ZDhaS3UxcVRGSEpHTFVsb25nSVB0bVA0UEdYQlhrLWU4dmFlbUFiRDdScEtESkxtbHdqaWpnQ3BCcUZHanhNaGVEdERaTG5ia2RCWmpyZ0JZeC1KQUxCNVNHS1RhMWphNXBuT2ExUm5nOWtCaG1sNjh0YmVlY21iX1VrX2JGbE9Ka1g2WE9OaVh1YnA0dE5lMERxd1AxZURWV2JVcUdMV2lpMlE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T05:03:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",

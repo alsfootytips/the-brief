@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T21:28:14.467219+00:00",
+  "generated_at": "2026-05-16T22:24:55.734340+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5-star analyst resets Nvidia stock price target ahead of earnings\""
+      "move_reason": "News: \"The Agentic AI Supercycle Is Here. This Stock Could Be Its Biggest Winner.\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5-star analyst resets Nvidia stock price target ahead of earnings\""
+      "move_reason": "News: \"The Agentic AI Supercycle Is Here. This Stock Could Be Its Biggest Winner.\""
     },
     {
       "ticker": "OSCR",
