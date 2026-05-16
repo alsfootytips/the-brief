@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-16T19:36:19.262971+00:00",
+  "generated_at": "2026-05-16T20:29:35.688619+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.32,
       "price": 21.09,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T19:36:19.259609+00:00",
+      "timestamp": "2026-05-16T20:29:35.685177+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 59.48,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T19:36:19.259605+00:00",
+      "timestamp": "2026-05-16T20:29:35.685174+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -4.81,
       "price": 224.41,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T19:36:19.259602+00:00",
+      "timestamp": "2026-05-16T20:29:35.685170+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -3.9,
       "price": 1047.96,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T19:36:19.259598+00:00",
+      "timestamp": "2026-05-16T20:29:35.685166+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -6.48,
       "price": 106.81,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T19:36:19.259589+00:00",
+      "timestamp": "2026-05-16T20:29:35.685156+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": 5.6,
       "price": 39.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T19:36:19.259586+00:00",
+      "timestamp": "2026-05-16T20:29:35.685153+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,10 +93,96 @@ window.theBriefLive = {
       "change_pct": -6.56,
       "price": 420.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-16T19:36:19.259578+00:00",
+      "timestamp": "2026-05-16T20:29:35.685144+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is the Vanguard Information Technology ETF the Right Fit for Your Portfolio Before Summer?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-information-technology-etf-fit-200602828.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T20:06:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "5-star analyst resets Nvidia stock price target ahead of earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b8c816e53f5d73fbf84edc6b4ccb86f357404c0b4346681ca24fef107038225",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:37:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "5-star analyst resets Nvidia stock price target ahead of earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b8c816e53f5d73fbf84edc6b4ccb86f357404c0b4346681ca24fef107038225",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:37:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "OXY",
+      "headline": "Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0076dcadc2605922caffaa33df61930e4a3ac6ebc645b660b4b1a9f38e18ccc",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0076dcadc2605922caffaa33df61930e4a3ac6ebc645b660b4b1a9f38e18ccc",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "$800B in AI spending is juicing GDP and stocks \u2014 while real wages fall and Americans cut back on goods",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/800b-ai-spending-juicing-gdp-193500398.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T19:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-4694428",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:30:29+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -108,6 +194,22 @@ window.theBriefLive = {
       "timestamp": "2026-05-16T19:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:25:09+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -139,13 +241,37 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SoFi Stock Is Getting Absolutely Crushed This Year. Is It Finally Time to Buy?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-stock-getting-absolutely-crushed-190500736.html",
+      "headline": "US Treasury allows sanctions waiver on Russian seaborne oil to lapse",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-treasury-allows-sanctions-waiver-on-russian-seaborne-oil-to-lapse-4694484",
       "is_watchlist": false,
-      "timestamp": "2026-05-16T19:05:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-16T19:06:28+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SoFi Stock Is Getting Absolutely Crushed This Year. Is It Finally Time to Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a2ad7bf369a7be9f9eb36fe36095889f9449235a6182371b29c91a743441483",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "APA",
+      "headline": "The Top 5 Analyst Questions From APA Corporation\u2019s Q1 Earnings Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab4f9687748680fc1d43f4e194c0933a6b0b582f1f7125626a5780593089d2ed",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T19:00:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -232,17 +358,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-inc-hii-180701661.html",
       "is_watchlist": false,
       "timestamp": "2026-05-16T18:07:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Robust Revenue and Earnings Growth Assert StandardAero, Inc. (SARO) as a Top Undervalued Aerospace and Defense Stock to Buy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robust-revenue-earnings-growth-assert-180648775.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T18:06:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -364,58 +479,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "The SpaceX IPO Is Coming June 12. Here\u2019s Why You Shouldn\u2019t Rush In to Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4554b77128ceffd68d680f77e744dabe2bc13768d7cd38d96c7059bc05fd05fa",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T17:22:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Former minister Streeting says he will stand in any contest to replace UK\u2019s Starmer",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/former-minister-streeting-says-he-will-stand-in-any-contest-to-replace-uks-starmer-4694467",
       "is_watchlist": false,
       "timestamp": "2026-05-16T17:18:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FDA drug center head fired after commissioner\u2019s exit, replaced by Davis",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/fda-drug-center-head-fired-after-commissioners-exit-4694463",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T17:18:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "NANC Traders Beat the Crowd by 33 Points and the Difference Keeps Growing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20c4f971b842228949339acad7fad77dda5ff05f37b3ea8be36fba7f1a2062c3",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T17:15:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How much additional firepower does Japan have for yen-buying intervention?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/how-much-additional-firepower-does-japan-have-for-yenbuying-intervention-4694479",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T17:15:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -429,18 +498,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-16T17:14:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia Reports Earnings on May 20. Here's the One Number That Matters Most.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f52271a3f3bf6549faa02ca3dbdcadc698ebd188ad742e5b0d711efeccc7ddf3",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T17:12:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -486,6 +543,18 @@ window.theBriefLive = {
       "timestamp": "2026-05-16T17:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Market Leadership Is Narrow, Increasing Summer Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b87e095a550d8a59038be275de06790efa1a5846c50cbbdad478a488a00c005",
+      "is_watchlist": true,
+      "timestamp": "2026-05-16T16:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -545,22 +614,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T14:29:15+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -655,18 +708,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-16T13:18:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD Server Share Gains Test The Strength Of Its AI Growth Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71a9af2c99b5c5461ff721b48ed51d3fea244c7358107a1f38db7c621127cc2d",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T13:15:45+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Pick: AMD"
     },
     {
       "type": "mover_statement",
@@ -874,18 +915,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Macro Insights: $200 Oil Shock Looms Amidst Bubble Warning--How To Position Your Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=98ab0152f6a62af5787d0dd508c2fd863edd25f25753c60059a384caeaa066c4",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T09:30:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Benzinga Bulls And Bears: Nvidia, Cisco, Virgin Galactic \u2014 And Inflation Fears Rattle Investors",
       "source": "Benzinga",
@@ -945,18 +974,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "OXY",
-      "headline": "Western Midstream Partners: I Prefer This MLP Over Enterprise Products Partners And Energy Transfer",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a7c7ddd430a1fc8ca73569e8c1c852e80adf3085296d7f61e2a77f80f6fc2e6f",
-      "is_watchlist": true,
-      "timestamp": "2026-05-16T01:10:51+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1072,18 +1089,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-15T19:30:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=008e54ca226761b88817c6a2fbe9e235d5e1dd8f33aea89fa2576aadfd994ad0",
-      "is_watchlist": true,
-      "timestamp": "2026-05-15T19:05:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

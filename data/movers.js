@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T19:36:19.256645+00:00",
+  "generated_at": "2026-05-16T20:29:35.682195+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Chord Energy: Still Undervalued, Even At $100 Oil\""
+      "move_reason": "News: \"The Top 5 Analyst Questions From APA Corporation\u2019s Q1 Earnings Call\""
     },
     {
       "ticker": "OXY",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Overlooked Oil Stocks to Buy Now Before They Soar\""
+      "move_reason": "News: \"Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months\""
     },
     {
       "ticker": "XOM",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The SpaceX IPO Is Coming June 12. Here\u2019s Why You Shouldn\u2019t Rush In to Buy\""
+      "move_reason": "News: \"5-star analyst resets Nvidia stock price target ahead of earnings\""
     },
     {
       "ticker": "SIEGY",
@@ -205,7 +205,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Markets Are Behaving Like Schr\u00f6dinger's Cat\""
+      "move_reason": "News: \"Market Leadership Is Narrow, Increasing Summer Risk\""
     },
     {
       "ticker": "XLB",
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Chord Energy: Still Undervalued, Even At $100 Oil\""
+      "move_reason": "News: \"The Top 5 Analyst Questions From APA Corporation\u2019s Q1 Earnings Call\""
     },
     {
       "ticker": "CRWV",
@@ -369,7 +369,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Markets Are Behaving Like Schr\u00f6dinger's Cat\""
+      "move_reason": "News: \"Market Leadership Is Narrow, Increasing Summer Risk\""
     },
     {
       "ticker": "NBIS",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The SpaceX IPO Is Coming June 12. Here\u2019s Why You Shouldn\u2019t Rush In to Buy\""
+      "move_reason": "News: \"5-star analyst resets Nvidia stock price target ahead of earnings\""
     },
     {
       "ticker": "OSCR",
@@ -417,7 +417,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Overlooked Oil Stocks to Buy Now Before They Soar\""
+      "move_reason": "News: \"Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months\""
     },
     {
       "ticker": "PWR",
