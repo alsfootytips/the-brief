@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T12:07:43.859167+00:00",
+  "generated_at": "2026-05-16T14:00:58.715698+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -145,7 +145,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA Corporation Increases Stake In CoreWeave To 47,213,353 Shares, Maintains Holdings I...\""
+      "move_reason": "News: \"Cerebras: Don't Buy The IPO Hype, Wait For A Drop\""
     },
     {
       "ticker": "NVDA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026\""
+      "move_reason": "News: \"6 Words From Now-Former Fed Chair Jerome Powell That Will Echo Through Wall Street for Yea...\""
     },
     {
       "ticker": "SIEGY",
@@ -205,7 +205,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Tribulations Of Kevin Warsh\""
+      "move_reason": "News: \"Bond Traders Are Pricing The Worse Case\""
     },
     {
       "ticker": "XLB",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Liberty All-Star\u00ae Growth Fund, Inc. April 2026 Monthly Update\""
+      "move_reason": "News: \"Our Top 10 High Growth Dividend Stocks - May 2026\""
     },
     {
       "ticker": "XLRE",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA Corporation Increases Stake In CoreWeave To 47,213,353 Shares, Maintains Holdings I...\""
+      "move_reason": "News: \"Cerebras: Don't Buy The IPO Hype, Wait For A Drop\""
     },
     {
       "ticker": "DG",
@@ -369,7 +369,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Tribulations Of Kevin Warsh\""
+      "move_reason": "News: \"Bond Traders Are Pricing The Worse Case\""
     },
     {
       "ticker": "NBIS",
@@ -381,7 +381,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA Corporation Increases Stake In CoreWeave To 47,213,353 Shares, Maintains Holdings I...\""
+      "move_reason": "News: \"Cerebras: Don't Buy The IPO Hype, Wait For A Drop\""
     },
     {
       "ticker": "NVDA",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026\""
+      "move_reason": "News: \"6 Words From Now-Former Fed Chair Jerome Powell That Will Echo Through Wall Street for Yea...\""
     },
     {
       "ticker": "OSCR",
@@ -429,7 +429,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Liberty All-Star\u00ae Growth Fund, Inc. April 2026 Monthly Update\""
+      "move_reason": "News: \"Our Top 10 High Growth Dividend Stocks - May 2026\""
     },
     {
       "ticker": "TPL",
