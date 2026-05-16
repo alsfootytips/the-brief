@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T11:11:40.352324+00:00",
+  "generated_at": "2026-05-16T12:07:43.859167+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks making big moves yesterday: NESR, The Trade Desk, Vertiv, Hain Celestial, and IonQ\""
+      "move_reason": "News: \"Trade Desk Inc (NASDAQ:TTD) Shows Strong Value and Growth Potential\""
     },
     {
       "ticker": "MSFT",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Worth Your Money Right Now?\""
+      "move_reason": "News: \"SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026\""
     },
     {
       "ticker": "SIEGY",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Nuclear Tech Stock Grew Revenue 27%, But a Fund Still Slashed Its Stake\""
+      "move_reason": "News: \"GE Vernova (GEV) Valuation Check After Strong 1 Year Share Price Performance\""
     },
     {
       "ticker": "SOFI",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Nuclear Tech Stock Grew Revenue 27%, But a Fund Still Slashed Its Stake\""
+      "move_reason": "News: \"GE Vernova (GEV) Valuation Check After Strong 1 Year Share Price Performance\""
     },
     {
       "ticker": "IWM",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Worth Your Money Right Now?\""
+      "move_reason": "News: \"SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026\""
     },
     {
       "ticker": "OSCR",
@@ -453,7 +453,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks making big moves yesterday: NESR, The Trade Desk, Vertiv, Hain Celestial, and IonQ\""
+      "move_reason": "News: \"Trade Desk Inc (NASDAQ:TTD) Shows Strong Value and Growth Potential\""
     },
     {
       "ticker": "XLE",
