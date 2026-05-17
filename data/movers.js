@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T09:25:54.589813+00:00",
+  "generated_at": "2026-05-17T10:51:29.322484+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late to Buy Broadcom Stock?\""
+      "move_reason": "News: \"3 Dividend Stocks That Are Quietly Crushing the Market\""
     },
     {
       "ticker": "SIEGY",
@@ -381,7 +381,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom\""
+      "move_reason": "News: \"Nebius: Massive AI Moat Meets A $25B CapEx Test\""
     },
     {
       "ticker": "NVDA",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late to Buy Broadcom Stock?\""
+      "move_reason": "News: \"3 Dividend Stocks That Are Quietly Crushing the Market\""
     },
     {
       "ticker": "OSCR",
