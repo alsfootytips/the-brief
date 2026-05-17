@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T19:51:02.774924+00:00",
+  "generated_at": "2026-05-17T20:53:45.126780+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
+      "move_reason": "News: \"Howard Lindzon on Seed Investing: Why Most of Your Bets Will Fail: and Why That\u2019s Okay\""
     },
     {
       "ticker": "SIEGY",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Prices, Yields In Focus As Trump Says 'Clock Is Ticking' For Iran; ...\""
     },
     {
       "ticker": "SOFI",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Prices, Yields In Focus As Trump Says 'Clock Is Ticking' For Iran; ...\""
     },
     {
       "ticker": "IWM",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
+      "move_reason": "News: \"Howard Lindzon on Seed Investing: Why Most of Your Bets Will Fail: and Why That\u2019s Okay\""
     },
     {
       "ticker": "OSCR",
