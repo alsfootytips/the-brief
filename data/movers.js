@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-16T23:27:48.539734+00:00",
+  "generated_at": "2026-05-17T01:25:56.000517+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -95,7 +95,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq 100 Drops, Intel Crashes 7% On Rate-Hike Panic: Stock Market Today\""
+      "move_reason": "News: \"Are Wall Street Analysts Predicting Diamondback Energy Stock Will Climb or Sink?\""
     },
     {
       "ticker": "CVX",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Agentic AI Supercycle Is Here. This Stock Could Be Its Biggest Winner.\""
+      "move_reason": "News: \"2 AI Stocks to Avoid (Including BigBear.ai) and 1 to Buy Now\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Agentic AI Supercycle Is Here. This Stock Could Be Its Biggest Winner.\""
+      "move_reason": "News: \"2 AI Stocks to Avoid (Including BigBear.ai) and 1 to Buy Now\""
     },
     {
       "ticker": "OSCR",
@@ -405,7 +405,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health (OSCR) Price Target Increased by 20.38% to 19.93\""
+      "move_reason": "Tracking XLV sector (-1.04% today)"
     },
     {
       "ticker": "OXY",
@@ -465,7 +465,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq 100 Drops, Intel Crashes 7% On Rate-Hike Panic: Stock Market Today\""
+      "move_reason": "News: \"Are Wall Street Analysts Predicting Diamondback Energy Stock Will Climb or Sink?\""
     }
   ],
   "indices": [
