@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T13:58:12.459280+00:00",
+  "generated_at": "2026-05-17T15:04:03.549992+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trade Desk Inc (NASDAQ:TTD) Shows Strong Value and Growth Potential\""
+      "move_reason": "News: \"The Trade Desk (TTD) Stock Trades Down, Here Is Why\""
     },
     {
       "ticker": "MSFT",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Stock Valuations Just Hit a Dangerous Level. A Top CIO Warns: Companies Can\u2019t Grow 100%...\""
+      "move_reason": "News: \"Kiplinger\u2019s May 2026 Letter Says Yields From 3% to 13% Are Available Right Now Despite Ira...\""
     },
     {
       "ticker": "SIEGY",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Leads Five IBD 50 Stocks Near Buy Points; Most Are AI Plays\""
+      "move_reason": "News: \"Dow Jones Futures: Nvidia Due As Yields, Oil Prices Pressure Rally; What To Do Now\""
     },
     {
       "ticker": "SOFI",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Leads Five IBD 50 Stocks Near Buy Points; Most Are AI Plays\""
+      "move_reason": "News: \"Dow Jones Futures: Nvidia Due As Yields, Oil Prices Pressure Rally; What To Do Now\""
     },
     {
       "ticker": "IWM",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Stock Valuations Just Hit a Dangerous Level. A Top CIO Warns: Companies Can\u2019t Grow 100%...\""
+      "move_reason": "News: \"Kiplinger\u2019s May 2026 Letter Says Yields From 3% to 13% Are Available Right Now Despite Ira...\""
     },
     {
       "ticker": "OSCR",
@@ -453,7 +453,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trade Desk Inc (NASDAQ:TTD) Shows Strong Value and Growth Potential\""
+      "move_reason": "News: \"The Trade Desk (TTD) Stock Trades Down, Here Is Why\""
     },
     {
       "ticker": "XLE",
