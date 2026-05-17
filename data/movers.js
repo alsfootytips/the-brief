@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T17:16:22.554808+00:00",
+  "generated_at": "2026-05-17T18:36:00.699615+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Occidental Petroleum (OXY) Stock Be in 3 Years?\""
+      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
     },
     {
       "ticker": "SIEGY",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Nvidia Due As Yields, Oil Prices Pressure Rally; What To Do Now\""
+      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
     },
     {
       "ticker": "SOFI",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Nvidia Due As Yields, Oil Prices Pressure Rally; What To Do Now\""
+      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
     },
     {
       "ticker": "IWM",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Occidental Petroleum (OXY) Stock Be in 3 Years?\""
+      "move_reason": "News: \"Dow Jones Futures Due With Treasury Yields, Oil Prices In Focus; Nvidia Earnings Ahead\""
     },
     {
       "ticker": "OSCR",
