@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T07:45:31.844542+00:00",
+  "generated_at": "2026-05-17T09:25:54.589813+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -219,6 +219,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 102.39,
+      "change_pct": -2.53,
+      "volume_ratio": 0.71,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Dollar General (DG) Sees a More Significant Dip Than Broader Market: Some Facts to Know\""
+    },
+    {
       "ticker": "XLU",
       "name": "Utilities Select Sector",
       "price": 43.87,
@@ -284,18 +296,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "price": 217.76,
-      "change_pct": -1.53,
-      "volume_ratio": 0.98,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom\""
     }
   ],
   "watchlist": [
@@ -334,6 +334,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"NVIDIA Earnings Preview: Wall Street Pros Boost Stock Targets Amid AI Boom\""
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 102.39,
+      "change_pct": -2.53,
+      "volume_ratio": 0.71,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Dollar General (DG) Sees a More Significant Dip Than Broader Market: Some Facts to Know\""
     },
     {
       "ticker": "GEV",
@@ -717,6 +729,35 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TTD</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 102.39,
+      "change_pct": -2.53,
+      "score": 5.5,
+      "signals": [
+        "Moved -2.53% \u2014 a 1.0\u03c3 move",
+        "3 news items in the last 3 days",
+        "8 insider sells vs 2 buys (last 90 days)",
+        "Forward P/E 12.8 (cheap on absolute basis)",
+        "Down -33.1% over 3 months \u2014 deep drawdown"
+      ],
+      "reasons": [
+        "Moved -2.53% \u2014 a 1.0\u03c3 move",
+        "3 news items in the last 3 days",
+        "8 insider sells vs 2 buys (last 90 days)",
+        "Forward P/E 12.8 (cheap on absolute basis)",
+        "Down -33.1% over 3 months \u2014 deep drawdown"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-selling",
+        "cheap",
+        "drawdown"
+      ],
+      "narrative": "<strong>DG</strong> has been beaten down hard and now trades at a low valuation \u2014 value setup.",
+      "sector_etf": "XLP"
     },
     {
       "ticker": "NBIS",

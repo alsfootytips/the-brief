@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-17T07:45:31.850593+00:00",
+  "generated_at": "2026-05-17T09:25:54.596401+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.32,
       "price": 21.09,
       "is_watchlist": true,
-      "timestamp": "2026-05-17T07:45:31.847353+00:00",
+      "timestamp": "2026-05-17T09:25:54.592878+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 59.48,
       "is_watchlist": true,
-      "timestamp": "2026-05-17T07:45:31.847349+00:00",
+      "timestamp": "2026-05-17T09:25:54.592870+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -4.81,
       "price": 224.41,
       "is_watchlist": true,
-      "timestamp": "2026-05-17T07:45:31.847346+00:00",
+      "timestamp": "2026-05-17T09:25:54.592865+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -3.9,
       "price": 1047.96,
       "is_watchlist": true,
-      "timestamp": "2026-05-17T07:45:31.847337+00:00",
+      "timestamp": "2026-05-17T09:25:54.592857+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -6.48,
       "price": 106.81,
       "is_watchlist": true,
-      "timestamp": "2026-05-17T07:45:31.847333+00:00",
+      "timestamp": "2026-05-17T09:25:54.592842+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": 5.6,
       "price": 39.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-17T07:45:31.847330+00:00",
+      "timestamp": "2026-05-17T09:25:54.592835+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,10 +93,67 @@ window.theBriefLive = {
       "change_pct": -6.56,
       "price": 420.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-17T07:45:31.847322+00:00",
+      "timestamp": "2026-05-17T09:25:54.592819+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pt-hikes-for-samsung-and-sk-hynix-amd-downgraded-4694462",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T09:00:03+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: AMD"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How a CEO and Trump donor is weaponizing tariffs against his rivals",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5726366/ceo-trump-donor-quartz-kitchen-countertop-tariffs",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T09:00:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T08:42:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Swatch shuts stores after crowds queue for new watch",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c1d2qldr0yko?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T08:00:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Four dead as Moscow faces largest Ukrainian drone assault in over a year",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/four-dead-as-moscow-faces-largest-ukrainian-drone-assault-in-over-a-year-4694510",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T07:59:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -156,45 +213,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why China is positioned to capture the bulk of the economic robotic value",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/why-china-is-positioned-to-capture-the-bulk-of-the-economic-robotic-value-4694505",
-      "is_watchlist": false,
-      "timestamp": "2026-05-17T04:49:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "New York Magazine reviewing work of writer facing plagiarism allegations",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan",
       "is_watchlist": false,
       "timestamp": "2026-05-17T04:23:48+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan and South Korea set a critical summit amid market volatility",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japan-and-south-korea-set-a-critical-summit-amid-market-volatility-4694504",
-      "is_watchlist": false,
-      "timestamp": "2026-05-17T04:09:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Republican Senator Cassidy loses re-election\u00a0to Trump retribution campaign",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/republican-cassidy-faces-trump-retribution-effort-in-louisiana-senate-primary-4694445",
-      "is_watchlist": false,
-      "timestamp": "2026-05-17T03:48:30+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -354,6 +378,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israel kills Hamas armed wing leader Haddad in Gaza strike - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXRieDYzVldHX1ZQNDRVQ21ZWmdZelQ0QWdJc1FaOEJnUzNNMWZqbC16QUpBYUZ0OER2RFhCTm5YZXk5S3FhQ0psZ2FlR1FsdnpiczZiM3M4ODNfVGtuTWlYRWhIRFRBalFPdUxQc0k0TlpLNU1FNTBGbU9YUVRWZ0ttRVFGQk5rb1JoZVo0cS1CbzZCR1RVSmswZmJmeUZTNHJBWDZrcTdFOFBIa1phY2dVX1F3YUFTcmdEYzVGaUg2ejYyUHZ6RmtwSVdNUQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T19:58:30+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -568,17 +603,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Swatch shuts stores after crowds queue for new watch",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c1d2qldr0yko?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T16:30:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "Market Leadership Is Narrow, Increasing Summer Risk",
       "source": "SeekingAlpha",
@@ -789,17 +813,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Meet the pilots flying Spirit Airlines' yellow jets to the desert",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/16/spirit-airlines-airplanes.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T12:00:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Creator content made the main stage at TV's 'upfront' pitches \u2014 and not just for YouTube",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
@@ -893,6 +906,50 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "What Does Guggenheim Say About Live Nation Entertainment Inc (LYV) Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-guggenheim-live-nation-entertainment-091057029.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T09:10:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brookfield Corp (BN) Invests in OpenAI Unit. Keep Your Eyes on the Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corp-bn-invests-openai-091036252.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T09:10:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Raymond Adjusts Somnigroup International Inc (SGI) Stock Target",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-adjusts-somnigroup-international-inc-091018707.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T09:10:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Union Pacific Corp (UNP)-Norfolk: This Rival Seeks to Scuttle Merger",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-corp-unp-norfolk-090959230.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T09:09:59+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Benzinga Bulls And Bears: Nvidia, Cisco, Virgin Galactic \u2014 And Inflation Fears Rattle Investors",
       "source": "Benzinga",
@@ -928,6 +985,28 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Altius Minerals Q1 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/altius-minerals-q1-earnings-call-050804873.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T05:08:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AutoCanada Q1 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/autocanada-q1-earnings-call-highlights-050803786.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-16T05:08:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "XLE",
       "headline": "Are Wall Street Analysts Predicting Diamondback Energy Stock Will Climb or Sink?",
       "source": "Yahoo",
@@ -941,67 +1020,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SolarEdge (SEDG) Hits 2-Year High on Strong Q2 Hopes",
+      "headline": "Are Wall Street Analysts Predicting Diamondback Energy Stock Will Climb or Sink?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-sedg-hits-2-high-020601334.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/wall-street-analysts-predicting-diamondback-043016916.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-16T02:06:01+00:00",
+      "timestamp": "2026-05-16T04:30:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Figma (FIG) Climbs 13% Amid Revenue Beat",
+      "headline": "SpaceX shareholders approve 5-for-1 stock split, Bloomberg News reports",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/figma-fig-climbs-13-amid-020339589.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-shareholders-approve-5-1-032254885.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-16T02:03:39+00:00",
+      "timestamp": "2026-05-16T04:23:55+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Magnum (MICC) \u2018Eyed for Takeover\u2019, Climbs 11%",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/magnum-micc-eyed-takeover-climbs-020140920.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T02:01:40+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Enphase Energy (ENPH) Hits Record High on New Product Launch",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/enphase-energy-enph-hits-record-015953079.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T01:59:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Venture Global (VG) Soars 9% on US-Iran Peace Uncertainties",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/venture-global-vg-soars-9-015636316.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T01:56:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Atlassian (TEAM) Earns Buy Reco, PT Upgrade, Climbs 8%",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-team-earns-buy-reco-015053064.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-16T01:50:53+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1024,28 +1059,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-15T23:44:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Starbucks is Set to Lay Off 300 Corporate Employees as Part of Its Turnaround Strategy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-set-lay-off-300-232710485.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-15T23:27:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\"A ticking time bomb:\" Why Peter Schiff says this market rally is a trap",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ticking-time-bomb-why-peter-232634982.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-15T23:26:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1404,21 +1417,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-14T18:10:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "As Trump meets with Xi, security expert says China now faces the U.S. as a peer",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/05/14/nx-s1-5821644/as-trump-meets-with-xi-security-expert-says-china-now-faces-the-u-s-as-a-peer",
-      "is_watchlist": true,
-      "timestamp": "2026-05-14T17:58:20+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
