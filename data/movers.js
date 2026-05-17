@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T15:04:03.549992+00:00",
+  "generated_at": "2026-05-17T16:12:08.765047+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months\""
+      "move_reason": "News: \"Where Will Occidental Petroleum (OXY) Stock Be in 3 Years?\""
     },
     {
       "ticker": "XOM",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Kiplinger\u2019s May 2026 Letter Says Yields From 3% to 13% Are Available Right Now Despite Ira...\""
+      "move_reason": "News: \"Where Will Occidental Petroleum (OXY) Stock Be in 3 Years?\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Kiplinger\u2019s May 2026 Letter Says Yields From 3% to 13% Are Available Right Now Despite Ira...\""
+      "move_reason": "News: \"Where Will Occidental Petroleum (OXY) Stock Be in 3 Years?\""
     },
     {
       "ticker": "OSCR",
@@ -417,7 +417,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oil, Geopolitics, and Occidental Petroleum: Here's Where the Stock Could Be in 12 Months\""
+      "move_reason": "News: \"Where Will Occidental Petroleum (OXY) Stock Be in 3 Years?\""
     },
     {
       "ticker": "PWR",
