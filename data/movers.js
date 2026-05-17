@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T12:01:19.588593+00:00",
+  "generated_at": "2026-05-17T13:58:12.459280+00:00",
   "gainers": [
     {
       "ticker": "APA",
