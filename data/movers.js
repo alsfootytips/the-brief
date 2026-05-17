@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T21:56:39.889690+00:00",
+  "generated_at": "2026-05-17T22:55:57.261372+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Top 5 Analyst Questions From APA Corporation\u2019s Q1 Earnings Call\""
+      "move_reason": "News: \"Reflecting On Mixed or Offshore Upstream E&P Stocks\u2019 Q1 Earnings: APA Corporation (NASDAQ:...\""
     },
     {
       "ticker": "OXY",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Howard Lindzon on Seed Investing: Why Most of Your Bets Will Fail: and Why That\u2019s Okay\""
+      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
     },
     {
       "ticker": "SIEGY",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Oil Prices, Yields In Focus As Trump Says 'Clock Is Ticking' For Iran; ...\""
+      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
     },
     {
       "ticker": "SOFI",
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Top 5 Analyst Questions From APA Corporation\u2019s Q1 Earnings Call\""
+      "move_reason": "News: \"Reflecting On Mixed or Offshore Upstream E&P Stocks\u2019 Q1 Earnings: APA Corporation (NASDAQ:...\""
     },
     {
       "ticker": "CRWV",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Oil Prices, Yields In Focus As Trump Says 'Clock Is Ticking' For Iran; ...\""
+      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
     },
     {
       "ticker": "IWM",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Howard Lindzon on Seed Investing: Why Most of Your Bets Will Fail: and Why That\u2019s Okay\""
+      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
     },
     {
       "ticker": "OSCR",
