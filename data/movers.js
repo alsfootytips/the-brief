@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T01:25:56.000517+00:00",
+  "generated_at": "2026-05-17T05:11:01.655181+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 AI Stocks to Avoid (Including BigBear.ai) and 1 to Buy Now\""
+      "move_reason": "News: \"Is It Too Late to Buy Broadcom Stock?\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 AI Stocks to Avoid (Including BigBear.ai) and 1 to Buy Now\""
+      "move_reason": "News: \"Is It Too Late to Buy Broadcom Stock?\""
     },
     {
       "ticker": "OSCR",
