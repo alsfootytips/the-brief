@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T10:51:29.322484+00:00",
+  "generated_at": "2026-05-17T12:01:19.588593+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Dividend Stocks That Are Quietly Crushing the Market\""
+      "move_reason": "News: \"AI Stock Valuations Just Hit a Dangerous Level. A Top CIO Warns: Companies Can\u2019t Grow 100%...\""
     },
     {
       "ticker": "SIEGY",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Dividend Stocks That Are Quietly Crushing the Market\""
+      "move_reason": "News: \"AI Stock Valuations Just Hit a Dangerous Level. A Top CIO Warns: Companies Can\u2019t Grow 100%...\""
     },
     {
       "ticker": "OSCR",
