@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-18T08:31:49+00:00",
+  "generated_at": "2026-05-18T12:15:34+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -1421,7 +1421,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PXS",
         "date": "2026-05-18",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.1677,
         "revenue_estimate": 11160500,
         "is_watchlist": false
@@ -2207,14 +2207,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "DOMO",
-        "date": "2026-05-21",
-        "hour": "",
-        "eps_estimate": -0.0673,
-        "revenue_estimate": 81665280,
-        "is_watchlist": false
-      },
-      {
         "ticker": "EMAT",
         "date": "2026-05-21",
         "hour": "",
@@ -2244,14 +2236,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 1.4662,
         "revenue_estimate": 576514060,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GCO",
-        "date": "2026-05-21",
-        "hour": "",
-        "eps_estimate": -2.5856,
-        "revenue_estimate": 479745455,
         "is_watchlist": false
       },
       {
@@ -3361,14 +3345,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "QEPC",
-        "date": "2026-05-27",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "REX",
         "date": "2026-05-27",
         "hour": "bmo",
@@ -3733,6 +3709,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GCO",
+        "date": "2026-05-29",
+        "hour": "",
+        "eps_estimate": -2.5856,
+        "revenue_estimate": 479745455,
+        "is_watchlist": false
+      },
+      {
         "ticker": "HURC",
         "date": "2026-05-29",
         "hour": "",
@@ -3863,14 +3847,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "HMR",
-        "date": "2026-06-01",
-        "hour": "",
-        "eps_estimate": 0.0051,
-        "revenue_estimate": 27098300,
-        "is_watchlist": false
-      },
-      {
         "ticker": "HPE",
         "date": "2026-06-01",
         "hour": "amc",
@@ -3884,14 +3860,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MAMA",
-        "date": "2026-06-01",
-        "hour": "",
-        "eps_estimate": 0.0323,
-        "revenue_estimate": 52667873,
         "is_watchlist": false
       },
       {
@@ -3956,14 +3924,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UEC",
-        "date": "2026-06-01",
-        "hour": "",
-        "eps_estimate": -0.0505,
-        "revenue_estimate": 8585000,
         "is_watchlist": false
       },
       {
