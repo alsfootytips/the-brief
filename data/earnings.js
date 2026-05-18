@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-18T12:15:34+00:00",
+  "generated_at": "2026-05-18T15:58:56+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -693,7 +693,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BKYI",
         "date": "2026-05-18",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.612,
         "revenue_estimate": 2244000,
         "is_watchlist": false
