@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-17T23:59:12.350906+00:00",
+  "generated_at": "2026-05-18T04:24:47.706717+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -133,7 +133,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Trump Personally Brokered the Apple-Intel Deal That Sent Intel from $20 to $125\""
     },
     {
       "ticker": "CRWV",
@@ -157,7 +157,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
+      "move_reason": "News: \"Jim Cramer Can\u2019t Understand How NVIDIA (NVDA) Got Cheaper\""
     },
     {
       "ticker": "SIEGY",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
+      "move_reason": "News: \"Dow Jones Futures Fall, Oil Prices Rise As Trump Says 'Clock Is Ticking' For Iran; Nvidia ...\""
     },
     {
       "ticker": "SOFI",
@@ -228,7 +228,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Sees a More Significant Dip Than Broader Market: Some Facts to Know\""
+      "move_reason": "News: \"Tracking Seth Klarman's Baupost Group Holdings - Q1 2026 Update\""
     },
     {
       "ticker": "XLU",
@@ -309,7 +309,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Trump Personally Brokered the Apple-Intel Deal That Sent Intel from $20 to $125\""
     },
     {
       "ticker": "APA",
@@ -345,7 +345,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Sees a More Significant Dip Than Broader Market: Some Facts to Know\""
+      "move_reason": "News: \"Tracking Seth Klarman's Baupost Group Holdings - Q1 2026 Update\""
     },
     {
       "ticker": "GEV",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
+      "move_reason": "News: \"Dow Jones Futures Fall, Oil Prices Rise As Trump Says 'Clock Is Ticking' For Iran; Nvidia ...\""
     },
     {
       "ticker": "IWM",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures, Yields, Oil Set To Open As Trump Says 'Clock Is Ticking' For Iran; Nvid...\""
+      "move_reason": "News: \"Jim Cramer Can\u2019t Understand How NVIDIA (NVDA) Got Cheaper\""
     },
     {
       "ticker": "OSCR",
