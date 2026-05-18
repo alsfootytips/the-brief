@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-18T22:40:49.524145+00:00",
+  "generated_at": "2026-05-18T23:47:03.778450+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": 5.21,
-      "price": 22.25,
+      "change_pct": 5.44,
+      "price": 22.3,
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:40:49.520451+00:00",
+      "timestamp": "2026-05-18T23:47:03.774758+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -5.11,
-      "price": 730.68,
+      "change_pct": -5.35,
+      "price": 728.8,
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:40:49.520447+00:00",
+      "timestamp": "2026-05-18T23:47:03.774754+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -42,10 +42,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": 8.19,
-      "price": 25.23,
+      "change_pct": 8.15,
+      "price": 25.22,
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:40:49.520444+00:00",
+      "timestamp": "2026-05-18T23:47:03.774752+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,10 +54,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -8.5,
-      "price": 201.25,
+      "change_pct": -8.52,
+      "price": 201.21,
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:40:49.520441+00:00",
+      "timestamp": "2026-05-18T23:47:03.774748+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -66,10 +66,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": -3.7,
-      "price": 1010.44,
+      "change_pct": -3.73,
+      "price": 1010.14,
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:40:49.520437+00:00",
+      "timestamp": "2026-05-18T23:47:03.774743+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": 3.73,
       "price": 106.2,
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:40:49.520426+00:00",
+      "timestamp": "2026-05-18T23:47:03.774733+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -90,10 +90,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -3.07,
-      "price": 104.01,
+      "change_pct": -3.16,
+      "price": 103.91,
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:40:49.520417+00:00",
+      "timestamp": "2026-05-18T23:47:03.774724+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -101,68 +101,145 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "NRC completes environmental review for Dow, X-energy Texas nuclear project",
+      "headline": "Valero Energy\u2019s SWOT analysis: refining giant faces supply headwinds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/valero-energys-swot-analysis-refining-giant-faces-supply-headwinds-93CH-4697279",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:37:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar softens as Fed expectations and oil remain in focus: Currency Recap",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4594676-nrc-completes-environmental-review-for-dow-x-energy-texas-nuclear-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4594677-dollar-softens-as-fed-expectations-and-oil-remain-in-focus-currency-recap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-18T22:32:15+00:00",
+      "timestamp": "2026-05-18T23:35:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "O\u2019Reilly Automotive elects board members and approves executive compensation",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/oreilly-automotive-elects-board-members-and-approves-executive-compensation-93CH-4697278",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:35:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dropbox CEO Andrew Houston sells $973,549 in stock",
+      "headline": "Chord Energy EVP and COO Henke sells $186,257 in common stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dropbox-ceo-andrew-houston-sells-973549-in-stock-93CH-4697220",
+      "url": "https://www.investing.com/news/insider-trading-news/chord-energy-evp-and-coo-henke-sells-186257-in-common-stock-93CH-4697277",
       "is_watchlist": false,
-      "timestamp": "2026-05-18T22:28:46+00:00",
+      "timestamp": "2026-05-18T23:34:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 UPWORK INC. For: 18 May",
+      "headline": "Form 144 Oceaneering International For: 18 May",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-upwork-inc-for-18-may-93CH-4697219",
+      "url": "https://www.investing.com/news/filings/form-144-oceaneering-international-for-18-may-93CH-4697276",
       "is_watchlist": false,
-      "timestamp": "2026-05-18T22:27:33+00:00",
+      "timestamp": "2026-05-18T23:31:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Edwards Lifesciences CVP Lippis sells $50,306 of common stock",
+      "headline": "Actor Jon Voight met with Trump to advocate for Hollywood tax incentives",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-lippis-sells-50306-of-common-stock-93CH-4697218",
+      "url": "https://www.investing.com/news/general-news/actor-jon-voight-met-with-trump-to-advocate-for-hollywood-tax-incentives-4697252",
       "is_watchlist": false,
-      "timestamp": "2026-05-18T22:26:24+00:00",
-      "relevance_score": 3.0,
+      "timestamp": "2026-05-18T23:30:52+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RBA worried higher energy costs could quickly lift consumer prices",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/rba-worried-higher-energy-costs-could-quickly-lift-consumer-prices-4697275",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:30:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Old National Bancorp shareholders approve director slate and compensation matters",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/old-national-bancorp-shareholders-approve-director-slate-and-compensation-matters-93CH-4697274",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:29:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Five dead, including two suspects, after shooting at San Diego mosque",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/mayor-reports-active-shooter-situation-at-islamic-center-of-san-diego-4696740",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:24:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What NextEra and Dominion\u2019s giant utility merger means for your electric bill",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-nextera-and-dominions-giant-utility-merger-means-for-your-electric-bill-94e0784d?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:19:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Robo-top: The machines that could make your next t-shirt",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:04:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/18/three-major-shifts-from-the-trump-xi-meeting.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T23:00:01+00:00",
+      "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "EA entertainment president Laura Miele sells $501k in EA stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ea-entertainment-president-laura-miele-sells-501k-in-ea-stock-93CH-4697217",
+      "headline": "White House adds generic drugs to direct-to-consumer TrumpRx site",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/18/white-house-adds-generic-drugs-to-direct-to-consumer-trumprx-site.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-18T22:26:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Martine Rothblatt, United Therapeutics chairperson & CEO, sells $5.4m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/martine-rothblatt-united-therapeutics-chairperson--ceo-sells-54m-in-stock-93CH-4697216",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T22:25:45+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-18T22:53:40+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -172,8 +249,19 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-18T22:25:27+00:00",
+      "timestamp": "2026-05-18T22:43:41+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lululemon hits back at its founder after months of attacks, saying he\u2019s just jealous",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/lululemon-hits-back-at-its-founder-after-months-of-attacks-saying-hes-just-jealous-e22522ec?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-18T22:42:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -183,34 +271,38 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "US crude futures fall over 2% as Trump says he holds off scheduled attack on Iran",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-crude-futures-fall-over-2-as-trump-says-he-holds-off-scheduled-attack-on-iran-4697215",
+      "headline": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
       "is_watchlist": true,
-      "timestamp": "2026-05-18T22:24:25+00:00",
-      "relevance_score": 7.0,
+      "timestamp": "2026-05-18T22:40:59+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says he's 'concerned' about Ebola after American tests positive in Africa",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/18/trump-ebola-virus-concerned-africa.html",
+      "is_watchlist": true,
+      "timestamp": "2026-05-18T22:33:35+00:00",
+      "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 CME GROUP INC. For: 18 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-cme-group-inc-for-18-may-93CH-4697214",
+      "headline": "NRC completes environmental review for Dow, X-energy Texas nuclear project",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4594676-nrc-completes-environmental-review-for-dow-x-energy-texas-nuclear-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-18T22:24:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 ALARM.COM HOLDINGS For: 18 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-alarmcom-holdings-for-18-may-93CH-4697213",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T22:24:12+00:00",
+      "timestamp": "2026-05-18T22:32:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -374,15 +466,20 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Granite Construction prices $600M senior notes offering",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4594672-granite-construction-prices-600m-senior-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T21:46:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "Trump says he paused attack on Iran as negotiations continue - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-18T21:45:46+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -406,17 +503,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "White House adds generic drugs to direct-to-consumer TrumpRx site",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/18/white-house-adds-generic-drugs-to-direct-to-consumer-trumprx-site.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T21:31:17+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -491,17 +577,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What NextEra and Dominion\u2019s giant utility merger means for your electric bill",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-nextera-and-dominions-giant-utility-merger-means-for-your-electric-bill-94e0784d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T21:12:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "New High Street crime unit to target gangs fronting shops after BBC investigation",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss",
@@ -518,17 +593,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/05/18/nx-s1-5805080-e1/the-business-of-storage-units-is-booming-we-met-vermonts-operators",
       "is_watchlist": false,
       "timestamp": "2026-05-18T20:51:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The options market is flashing an ominous sign about Nvidia\u2019s looming earnings",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-options-market-is-flashing-an-ominous-sign-about-nvidias-looming-earnings-2b55b7f4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T20:51:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -556,22 +620,6 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/18/trump-iran-attack-saudi-uae-qatar-deal.html",
-      "is_watchlist": true,
-      "timestamp": "2026-05-18T20:42:47+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Trump administration ends civil, criminal cases against Adani after $10 billion investment promise - Reuters",
@@ -589,22 +637,6 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Trump says he paused attack on Iran as negotiations continue - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-05-18T20:33:04+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
       "headline": "Oil price slumps as Trump says he called off Iran attacks",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
@@ -613,17 +645,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Seagate leads memory sell-off as CEO says it would 'take too long' to build new factories",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T20:18:03+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -702,7 +723,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "PlayStation Plus to raise monthly subscription by \u00a31 in UK",
+      "headline": "PlayStation Plus to raise monthly subscription fee",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -874,17 +895,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg\u2019s company",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T16:33:26+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "Why APA (APA) Might be Well Poised for a Surge",
       "source": "Yahoo",
@@ -1005,7 +1015,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump drops IRS lawsuit, paving the way for a settlement",
+      "headline": "Judge dismisses Trump's IRS lawsuit, paving the way for a settlement",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/05/18/g-s1-119783/trump-irs-lawsuit-settlement",
       "is_watchlist": false,
@@ -1219,17 +1229,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why does Amazon have no Western rivals?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-18T07:25:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "170-year-old luxury fashion retailer quietly closes 21 stores",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/170-old-luxury-fashion-retailer-013700371.html",
@@ -1277,22 +1276,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Anthropic\u2019s Project Glasswing Could Be a Major Catalyst for Verizon Stock",
+      "headline": "A $1.5 Trillion Reason to Buy Taiwan Semi Stock Here",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-project-glasswing-could-major-141502288.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-5-trillion-reason-buy-160002745.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-17T14:15:02+00:00",
+      "timestamp": "2026-05-17T16:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gates' foundation sold all of its Microsoft shares. Bill Ackman is loading up on the stock. What is Wall Street missing?",
+      "headline": "Is the iShares EEMA ETF a Buy After Gateway Wealth Partners Raised Its Stake by $17.5 Million?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-eema-etf-buy-gateway-151101470.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-17T14:15:00+00:00",
+      "timestamp": "2026-05-17T15:11:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dear Dell Stock Fans, Mark Your Calendars for May 28",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-dell-stock-fans-mark-150002847.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T15:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nokia Shares Jumped After Cisco\u2019s Strong Quarterly Results. NOK Could Be the Next Networking Winner.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nokia-shares-jumped-cisco-strong-150002870.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T15:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This billionaire says the market may be in for a \u2018breathtaking\u2019 correction \u2014 but he\u2019s still buying AI stocks. Here\u2019s why",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-says-market-may-breathtaking-143500756.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-17T14:35:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1304,43 +1336,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/article/anthropics-shadow-ipo-market-is-already-flashing-trillion-dollar-prices-141451664.html",
       "is_watchlist": false,
       "timestamp": "2026-05-17T14:14:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Disney\u2019s Next Battle Won\u2019t Be Against Netflix",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/disney-next-battle-won-t-140002165.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-17T14:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Moody's Mark Zandi says job growth has declined since Trump's tariffs \u2014 and warns a recession may be next",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-says-job-140000989.html",
-      "is_watchlist": true,
-      "timestamp": "2026-05-17T14:00:00+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to Turn AI From Threat to Teammate \u2014 3 Proven Ways to Align Your Vision with What Employees Actually Need",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/turn-ai-threat-teammate-3-140000068.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-17T14:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

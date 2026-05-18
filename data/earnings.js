@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-18T22:40:49+00:00",
+  "generated_at": "2026-05-18T23:47:03+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -467,7 +467,7 @@ window.theBriefEarnings = {
       {
         "ticker": "URBN",
         "date": "2026-05-20",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.1679,
         "revenue_estimate": 1477673071,
         "is_watchlist": false
@@ -2491,7 +2491,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SY",
         "date": "2026-05-22",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.7457,
         "revenue_estimate": 427812560,
         "is_watchlist": false
@@ -2623,7 +2623,7 @@ window.theBriefEarnings = {
       {
         "ticker": "JOYY",
         "date": "2026-05-25",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.0404,
         "revenue_estimate": 554199323,
         "is_watchlist": false
