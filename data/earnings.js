@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-18T20:02:17+00:00",
+  "generated_at": "2026-05-18T21:38:43+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -973,7 +973,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FEED",
         "date": "2026-05-18",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1541,7 +1541,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TOFB",
         "date": "2026-05-18",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
