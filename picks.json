@@ -495,6 +495,83 @@
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long"
+    },
+    {
+      "id": "2026-05-18-NVDA",
+      "ticker": "NVDA",
+      "entered_at": "2026-05-18",
+      "entry_price": 225.32,
+      "horizon_weeks": 2,
+      "target_pct": 10,
+      "stop_pct": -8,
+      "thesis": "Event-driven: Q1 FY27 earnings May 20 after close. Consensus $78B revenue / $73B data center / $1.77 EPS. NBIS just confirmed AI-infra margins expanding sharply (24% to 45% in one quarter). Asymmetric into print after Friday's -4.4% selloff.",
+      "rationale": "<p><span class=\"ticker\" data-ticker=\"NVDA\">NVDA</span> reports Q1 FY27 earnings <em>Tuesday May 20 after close</em>. The setup is genuinely asymmetric. <span class=\"confidence confidence-fact\">Fact</span> Consensus expects revenue of ~$78B (\u00b12%), data center revenue near $73B, and non-GAAP EPS of $1.77 \u2014 implying roughly 77-78% YoY revenue growth.</p><p><span class=\"confidence confidence-interp\">Interp</span> The single most important read going in: <span class=\"ticker\" data-ticker=\"NBIS\">NBIS</span> just printed Q1 with EBITDA margin expanding from 24% to 45% in a single quarter. That's the strongest possible signal that AI-infrastructure economics are real, not theoretical. If NVDA confirms that read on the data center segment, the entire AI complex re-rates higher for the quarter.</p><p><span class=\"confidence confidence-fact\">Fact</span> Stock dropped 4.4% on Friday to $225.32 in the broader Trump-Xi-summit selloff. <span class=\"confidence confidence-interp\">Interp</span> That dip is mechanical \u2014 not company-specific \u2014 and improves the entry by reducing the implicit bar going into the print.</p><p><strong>Asymmetric setup:</strong> a clean beat plus reaffirmed Blackwell ramp = sector-wide re-rating. A cautious China guide is the main risk \u2014 sized accordingly.</p>",
+      "horizon_reason": "This is an event trade. The entire reason to own <span class=\"ticker\" data-ticker=\"NVDA\">NVDA</span> right now is the May 20 earnings call. <span class=\"confidence confidence-interp\">Interp</span> 2 weeks gives the print plus a few days for institutional flows and sell-side updates to settle.",
+      "falsification": "Revenue misses $78B consensus, OR data center revenue below $70B, OR explicit cautious guide on H2 capex, OR sustained China headwind commentary.",
+      "tags": [
+        "ai-infrastructure",
+        "event-driven",
+        "earnings",
+        "issue-3-setup"
+      ],
+      "sector": "Technology",
+      "issue_number": 3,
+      "status": "open",
+      "horizon_label": "Short-term",
+      "direction": "long",
+      "pick_type": "tactical"
+    },
+    {
+      "id": "2026-05-18-KRE",
+      "ticker": "KRE",
+      "entered_at": "2026-05-18",
+      "entry_price": 66.95,
+      "horizon_weeks": 8,
+      "target_pct": 12,
+      "stop_pct": -10,
+      "thesis": "Yield curve steepener trade. Hot April CPI (3.8%) killed rate-cut hopes; Warsh confirmation under political pressure raises long-end yield premium. Regional bank NIMs expand directly as the curve steepens.",
+      "rationale": "<p>The combination of (a) <span class=\"confidence confidence-fact\">Fact</span> April CPI at 3.8% (highest in three years), (b) the unusually contentious 8-4 April FOMC vote, and (c) the 54-45 Warsh confirmation \u2014 the narrowest in Fed history \u2014 sets up a specific bond-market dynamic: the short end stays anchored while the long end repaints higher to compensate for credibility risk.</p><p><span class=\"confidence confidence-interp\">Interp</span> A steeper yield curve is the cleanest tailwind for regional banks. They borrow short (deposits) and lend long (mortgages, commercial real estate, business loans). The bigger the gap between those two rates, the higher their net interest margin. <span class=\"ticker\" data-ticker=\"KRE\">KRE</span> is the broadest regional-bank exposure available and underrepresented in current picks.</p><p><strong>Bull case:</strong> May/June CPI confirms the April pattern, Warsh holds rates with hawkish language at the June 16-17 FOMC, long-end yields drift to 5%+, KRE re-rates 10-15%.</p>",
+      "horizon_reason": "Macro trades don't resolve in a single print. <span class=\"confidence confidence-interp\">Interp</span> The June FOMC is the key event window; the 8 weeks captures that plus two more CPI prints (May, June) which together set the regime. Faster than 8 weeks and you're trading noise; slower and the catalyst risk has played out.",
+      "falsification": "May CPI rolls over below 3.5% YoY, OR Warsh cuts in defiance of data, OR the yield curve flattens or inverts further from here, OR a regional-bank-specific credit event.",
+      "tags": [
+        "financials",
+        "macro",
+        "rates",
+        "yield-curve",
+        "issue-3-setup"
+      ],
+      "sector": "Financials",
+      "issue_number": 3,
+      "status": "open",
+      "horizon_label": "Medium-term",
+      "direction": "long",
+      "pick_type": "thematic"
+    },
+    {
+      "id": "2026-05-18-GLD",
+      "ticker": "GLD",
+      "entered_at": "2026-05-18",
+      "entry_price": 417.29,
+      "horizon_weeks": 12,
+      "target_pct": 10,
+      "stop_pct": -7,
+      "thesis": "Fed credibility hedge. Warsh confirmed 54-45 (narrowest Fed Chair vote in history). 8-4 FOMC dissent in April (first time since 1992). Hot CPI puts Fed in impossible position. Gold benefits from any erosion of central bank trust \u2014 a structural condition this cycle.",
+      "rationale": "<p>This is insurance, not a directional bet. <span class=\"confidence confidence-fact\">Fact</span> The combination of the 54-45 Warsh confirmation, the 8-4 April FOMC dissent (first 4-member dissent since October 1992), and 3.8% CPI (highest since May 2023) creates a specific market condition: the Fed's ability to credibly fight inflation is being questioned in real time.</p><p><span class=\"confidence confidence-interp\">Interp</span> Gold's job in a portfolio is to do well when the dollar's credibility weakens. That's exactly the regime developing now \u2014 not because Warsh will necessarily do anything wrong, but because the <em>question</em> of Fed independence is now a live market topic. Long-end Treasury yields rising while gold catches a bid is the textbook signature.</p><p><strong>Position-sizing note:</strong> this is a hedge pick, not a trade. Smaller allocation than the tactical names. Target is modest (10%) and stop is tight (-7%) because the value isn't in the upside \u2014 it's in what happens to the rest of the book if Fed credibility truly cracks.</p>",
+      "horizon_reason": "Credibility erosion is slow. <span class=\"confidence confidence-interp\">Interp</span> 12 weeks covers the June and July FOMCs (the first two under Warsh) plus three CPI prints. That's the window where the regime question gets meaningfully answered, in either direction.",
+      "falsification": "May/June CPI rolls over to 3% or below, OR Warsh holds rates with strong hawkish language and long-end yields fall (curve flattens), OR DXY pushes through 110 (dollar strength would suppress gold).",
+      "tags": [
+        "macro",
+        "fed-independence",
+        "hedge",
+        "commodities",
+        "issue-3-setup"
+      ],
+      "sector": "Commodities",
+      "issue_number": 3,
+      "status": "open",
+      "horizon_label": "Medium-term",
+      "direction": "long",
+      "pick_type": "hedge"
     }
   ]
 }
