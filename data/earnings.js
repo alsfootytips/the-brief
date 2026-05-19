@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-19T19:02:23+00:00",
+  "generated_at": "2026-05-19T20:52:09+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -1133,7 +1133,7 @@ window.theBriefEarnings = {
       {
         "ticker": "WGRX",
         "date": "2026-05-19",
-        "hour": "bmo",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
