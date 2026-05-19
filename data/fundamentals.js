@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-05-19T03:37:10.693090+00:00",
+  "generated_at": "2026-05-19T07:03:09.841846+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -11.19,
@@ -164,8 +164,8 @@ window.theBriefFundamentals = {
         "sell_delta": -1
       },
       "insider_recent_90d": {
-        "buys": 7,
-        "sells": 3,
+        "buys": 6,
+        "sells": 4,
         "total": 10
       }
     },
@@ -354,7 +354,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -8.24,
       "return_52w_low": 281.64,
       "realized_vol_30d_pct": 5.41,
-      "trailing_pe": 139.86378,
+      "trailing_pe": 140.79933,
       "forward_pe": 32.498867,
       "price_to_sales": 18.328257,
       "price_to_book": 10.645308,
@@ -550,8 +550,8 @@ window.theBriefFundamentals = {
         "sell_delta": 0
       },
       "insider_recent_90d": {
-        "buys": 3,
-        "sells": 7,
+        "buys": 4,
+        "sells": 6,
         "total": 10
       }
     }
