@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-19T22:17:51+00:00",
+  "generated_at": "2026-05-19T23:41:49+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -187,7 +187,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EDRY",
         "date": "2026-05-20",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.5161,
         "revenue_estimate": 15594780,
         "is_watchlist": false
@@ -861,7 +861,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EDUC",
         "date": "2026-05-19",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1775,7 +1775,7 @@ window.theBriefEarnings = {
       {
         "ticker": "API",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1791,7 +1791,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AZO",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 36.4301,
         "revenue_estimate": 4872638051,
         "is_watchlist": false
@@ -1799,7 +1799,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BOX",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.3662,
         "revenue_estimate": 307436930,
         "is_watchlist": false
@@ -1807,7 +1807,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CRGO",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0765,
         "revenue_estimate": 7592880,
         "is_watchlist": false
@@ -1879,7 +1879,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FSCO",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1903,7 +1903,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ITRN",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.8109,
         "revenue_estimate": 97237620,
         "is_watchlist": false
@@ -1911,7 +1911,7 @@ window.theBriefEarnings = {
       {
         "ticker": "JG",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1967,7 +1967,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OOMA",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.3245,
         "revenue_estimate": 81437381,
         "is_watchlist": false
@@ -1991,7 +1991,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PONY",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1221,
         "revenue_estimate": 22559676,
         "is_watchlist": false
@@ -1999,7 +1999,7 @@ window.theBriefEarnings = {
       {
         "ticker": "QFIN",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 6.5178,
         "revenue_estimate": 2955960000,
         "is_watchlist": false
@@ -2023,7 +2023,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SKY",
         "date": "2026-05-26",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.6186,
         "revenue_estimate": 613393200,
         "is_watchlist": false
@@ -2031,7 +2031,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SMTC",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.4616,
         "revenue_estimate": 289116531,
         "is_watchlist": false
@@ -2039,7 +2039,7 @@ window.theBriefEarnings = {
       {
         "ticker": "STG",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -2047,7 +2047,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VNET",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.2414,
         "revenue_estimate": null,
         "is_watchlist": false
