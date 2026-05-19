@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-19T07:03:09+00:00",
+  "generated_at": "2026-05-19T10:45:57+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -2391,14 +2391,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "REX",
-        "date": "2026-05-27",
-        "hour": "bmo",
-        "eps_estimate": 0.3434,
-        "revenue_estimate": 162882700,
-        "is_watchlist": false
-      },
-      {
         "ticker": "SNOW",
         "date": "2026-05-27",
         "hour": "amc",
@@ -2686,6 +2678,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0204,
         "revenue_estimate": 15935123,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "REX",
+        "date": "2026-05-28",
+        "hour": "bmo",
+        "eps_estimate": 0.3434,
+        "revenue_estimate": 162882700,
         "is_watchlist": false
       },
       {
