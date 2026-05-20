@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-20T18:32:57+00:00",
+  "generated_at": "2026-05-20T20:55:07+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -10,6 +10,13 @@ window.theBriefEarnings = {
         "revenue_estimate": 80432094512,
         "is_watchlist": true,
         "history": [
+          {
+            "period": "2026-06-30",
+            "actual": 1.87,
+            "estimate": 1.7927,
+            "beat": true,
+            "surprise_pct": 4.3119
+          },
           {
             "period": "2026-03-31",
             "actual": 1.62,
@@ -30,13 +37,6 @@ window.theBriefEarnings = {
             "estimate": 1.0281,
             "beat": true,
             "surprise_pct": 2.1301
-          },
-          {
-            "period": "2025-06-30",
-            "actual": 0.96,
-            "estimate": 0.9521,
-            "beat": true,
-            "surprise_pct": 0.8297
           }
         ]
       },
@@ -395,7 +395,7 @@ window.theBriefEarnings = {
       {
         "ticker": "JAGX",
         "date": "2026-05-20",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -2.0808,
         "revenue_estimate": 3741360,
         "is_watchlist": false
@@ -659,7 +659,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VIVK",
         "date": "2026-05-20",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
