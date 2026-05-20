@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-20T06:09:22+00:00",
+  "generated_at": "2026-05-20T09:55:19+00:00",
   "by_date": {
     "2026-05-20": [
       {
@@ -1289,14 +1289,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "TRNS",
-        "date": "2026-05-25",
-        "hour": "amc",
-        "eps_estimate": 0.5687,
-        "revenue_estimate": 91588350,
-        "is_watchlist": false
-      },
-      {
         "ticker": "UVV",
         "date": "2026-05-25",
         "hour": "",
@@ -1600,6 +1592,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TRNS",
+        "date": "2026-05-26",
+        "hour": "amc",
+        "eps_estimate": 0.5687,
+        "revenue_estimate": 91588350,
         "is_watchlist": false
       },
       {
