@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-20T01:50:22.100285+00:00",
+  "generated_at": "2026-05-20T06:09:22.131304+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -429,9 +429,9 @@ window.theBriefPicks = {
       "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 149.0,
-      "current_pct": -3.87,
-      "change_pct_today": -2.07,
+      "current_price": 148.44,
+      "current_pct": -4.23,
+      "change_pct_today": -2.35,
       "name": "SIEGY",
       "news_count": 0,
       "days_elapsed": 7,
