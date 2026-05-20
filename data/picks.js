@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-19T23:41:49.167437+00:00",
+  "generated_at": "2026-05-20T01:50:22.100285+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -23,13 +23,13 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 24.65,
-      "current_pct": 9.9,
-      "change_pct_today": -2.56,
+      "current_price": 24.36,
+      "current_pct": 8.6,
+      "change_pct_today": -3.72,
       "name": "Oscar Health",
       "news_count": 0,
-      "days_elapsed": 7,
-      "days_remaining": 49,
+      "days_elapsed": 8,
+      "days_remaining": 48,
       "pick_type": "strategic"
     },
     {
@@ -55,9 +55,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 197.82,
-      "current_pct": 10.85,
-      "change_pct_today": -1.02,
+      "current_price": 197.78,
+      "current_pct": 10.83,
+      "change_pct_today": -1.04,
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,
@@ -91,13 +91,13 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 273.41,
-      "current_pct": -3.17,
-      "change_pct_today": -0.93,
+      "current_price": 273.2,
+      "current_pct": -3.24,
+      "change_pct_today": -1.0,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 7,
-      "days_remaining": 49,
+      "days_elapsed": 8,
+      "days_remaining": 48,
       "pick_type": "strategic"
     },
     {
@@ -122,13 +122,13 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 416.98,
-      "current_pct": -5.66,
-      "change_pct_today": -0.95,
+      "current_price": 417.28,
+      "current_pct": -5.59,
+      "change_pct_today": -0.88,
       "name": "Advanced Micro Devices",
       "news_count": 3,
-      "days_elapsed": 7,
-      "days_remaining": 35,
+      "days_elapsed": 8,
+      "days_remaining": 34,
       "pick_type": "strategic"
     },
     {
@@ -153,13 +153,13 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 61.12,
-      "current_pct": 5.89,
-      "change_pct_today": 0.9,
+      "current_price": 61.15,
+      "current_pct": 5.94,
+      "change_pct_today": 0.94,
       "name": "Energy Select Sector",
       "news_count": 3,
-      "days_elapsed": 7,
-      "days_remaining": 21,
+      "days_elapsed": 8,
+      "days_remaining": 20,
       "pick_type": "strategic"
     },
     {
@@ -193,13 +193,13 @@ window.theBriefPicks = {
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
-      "current_price": 178.25,
-      "current_pct": 5.01,
-      "change_pct_today": 1.16,
+      "current_price": 178.34,
+      "current_pct": 5.07,
+      "change_pct_today": 1.21,
       "name": "XOP",
       "news_count": 0,
-      "days_elapsed": 6,
-      "days_remaining": 15
+      "days_elapsed": 7,
+      "days_remaining": 14
     },
     {
       "id": "2026-05-13-USO-tactical",
@@ -232,13 +232,13 @@ window.theBriefPicks = {
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
-      "current_price": 151.93,
-      "current_pct": 5.29,
-      "change_pct_today": 1.77,
+      "current_price": 152.07,
+      "current_pct": 5.38,
+      "change_pct_today": 1.86,
       "name": "USO",
       "news_count": 0,
-      "days_elapsed": 6,
-      "days_remaining": 15
+      "days_elapsed": 7,
+      "days_remaining": 14
     },
     {
       "id": "2026-05-13-FRO-tactical",
@@ -272,13 +272,13 @@ window.theBriefPicks = {
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
-      "current_price": 37.71,
-      "current_pct": -2.13,
-      "change_pct_today": -0.08,
+      "current_price": 37.5,
+      "current_pct": -2.67,
+      "change_pct_today": -0.64,
       "name": "FRO",
       "news_count": 0,
-      "days_elapsed": 6,
-      "days_remaining": 15
+      "days_elapsed": 7,
+      "days_remaining": 14
     },
     {
       "id": "2026-05-13-XOM-tactical",
@@ -311,13 +311,13 @@ window.theBriefPicks = {
       "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 162.33,
-      "current_pct": 7.77,
-      "change_pct_today": 1.15,
+      "current_price": 162.37,
+      "current_pct": 7.79,
+      "change_pct_today": 1.17,
       "name": "XOM",
       "news_count": 0,
-      "days_elapsed": 6,
-      "days_remaining": 15
+      "days_elapsed": 7,
+      "days_remaining": 14
     },
     {
       "id": "2026-05-13-CVX-tactical",
@@ -350,13 +350,13 @@ window.theBriefPicks = {
       "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 197.05,
-      "current_pct": 5.97,
-      "change_pct_today": 1.39,
+      "current_price": 197.16,
+      "current_pct": 6.03,
+      "change_pct_today": 1.45,
       "name": "CVX",
       "news_count": 0,
-      "days_elapsed": 6,
-      "days_remaining": 15
+      "days_elapsed": 7,
+      "days_remaining": 14
     },
     {
       "id": "2026-05-13-STNG-tactical",
@@ -395,8 +395,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.06,
       "name": "STNG",
       "news_count": 0,
-      "days_elapsed": 6,
-      "days_remaining": 15
+      "days_elapsed": 7,
+      "days_remaining": 14
     },
     {
       "id": "2026-05-13-SIEGY-tactical",
@@ -434,8 +434,8 @@ window.theBriefPicks = {
       "change_pct_today": -2.07,
       "name": "SIEGY",
       "news_count": 0,
-      "days_elapsed": 6,
-      "days_remaining": 15
+      "days_elapsed": 7,
+      "days_remaining": 14
     },
     {
       "id": "2026-05-13-GEV-longterm",
@@ -462,12 +462,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 1009.26,
-      "current_pct": -4.06,
-      "change_pct_today": -0.3,
+      "current_price": 1011.0,
+      "current_pct": -3.9,
+      "change_pct_today": -0.12,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 6,
+      "days_elapsed": 7,
       "days_remaining": null
     },
     {
@@ -495,12 +495,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 718.85,
+      "current_price": 718.84,
       "current_pct": -4.8,
       "change_pct_today": -0.58,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 6,
+      "days_elapsed": 7,
       "days_remaining": null
     },
     {
@@ -528,12 +528,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 134.89,
-      "current_pct": 3.13,
-      "change_pct_today": -0.18,
+      "current_price": 134.83,
+      "current_pct": 3.08,
+      "change_pct_today": -0.23,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 6,
+      "days_elapsed": 7,
       "days_remaining": null
     },
     {
@@ -560,13 +560,13 @@ window.theBriefPicks = {
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
-      "current_price": 221.74,
-      "current_pct": -1.59,
-      "change_pct_today": -0.26,
+      "current_price": 221.54,
+      "current_pct": -1.68,
+      "change_pct_today": -0.35,
       "name": "NVIDIA",
       "news_count": 3,
-      "days_elapsed": 1,
-      "days_remaining": 13
+      "days_elapsed": 2,
+      "days_remaining": 12
     },
     {
       "id": "2026-05-18-KRE",
@@ -593,13 +593,13 @@ window.theBriefPicks = {
       "horizon_label": "Long-term",
       "direction": "long",
       "pick_type": "thematic",
-      "current_price": 67.51,
-      "current_pct": 0.84,
-      "change_pct_today": -0.6,
+      "current_price": 67.5,
+      "current_pct": 0.82,
+      "change_pct_today": -0.62,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 1,
-      "days_remaining": 55
+      "days_elapsed": 2,
+      "days_remaining": 54
     },
     {
       "id": "2026-05-18-GLD",
@@ -626,13 +626,13 @@ window.theBriefPicks = {
       "horizon_label": "Long-term",
       "direction": "long",
       "pick_type": "hedge",
-      "current_price": 412.37,
-      "current_pct": -1.18,
-      "change_pct_today": -1.45,
+      "current_price": 412.0,
+      "current_pct": -1.27,
+      "change_pct_today": -1.54,
       "name": "GLD",
       "news_count": 0,
-      "days_elapsed": 1,
-      "days_remaining": 83
+      "days_elapsed": 2,
+      "days_remaining": 82
     }
   ],
   "summary": {
