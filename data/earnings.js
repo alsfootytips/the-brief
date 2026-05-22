@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-22T22:08:53+00:00",
+  "generated_at": "2026-05-22T23:20:08+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -635,7 +635,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HMR",
         "date": "2026-05-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0051,
         "revenue_estimate": 27098300,
         "is_watchlist": false
@@ -1061,7 +1061,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MOV",
         "date": "2026-05-27",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.055,
         "revenue_estimate": 136475745,
         "is_watchlist": false
@@ -1423,7 +1423,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PKE",
         "date": "2026-05-28",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1529,7 +1529,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GCO",
         "date": "2026-05-29",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -2.5856,
         "revenue_estimate": 479745455,
         "is_watchlist": false
@@ -1545,7 +1545,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KNOP",
         "date": "2026-05-29",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3101,
         "revenue_estimate": 92131836,
         "is_watchlist": false

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-22T22:08:53.346916+00:00",
+  "generated_at": "2026-05-22T23:20:08.766607+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": 4.7,
-      "price": 22.28,
+      "change_pct": 4.56,
+      "price": 22.25,
       "is_watchlist": true,
-      "timestamp": "2026-05-22T22:08:53.343327+00:00",
+      "timestamp": "2026-05-22T23:20:08.763102+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,13 +30,167 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 3.51,
-      "price": 465.37,
+      "change_pct": 3.09,
+      "price": 463.5,
       "is_watchlist": true,
-      "timestamp": "2026-05-22T22:08:53.343308+00:00",
+      "timestamp": "2026-05-22T23:20:08.763083+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "QuantumScape CFO Kevin Hettrich disposes of $78,977 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumscape-cfo-kevin-hettrich-disposes-of-78977-in-shares-93CH-4707834",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:16:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Investar Holding shareholders approve director slate and incentive plan at annual meeting",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/investar-holding-shareholders-approve-director-slate-and-incentive-plan-at-annual-meeting-93CH-4707832",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:15:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This 2008 \u2018train wreck\u2019 oil scenario could unfold if Hormuz isn\u2019t opened by end of August",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:15:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FormFactor director sells $484,146 in Form shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/formfactor-director-sells-484146-in-form-shares-93CH-4707831",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:13:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TriCo Bancshares declares $0.36 quarterly dividend",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/trico-bancshares-declares-036-quarterly-dividend-93CH-4707830",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:13:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Molson Coors director Molson sells $52,912 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/molson-coors-director-molson-sells-52912-in-stock-93CH-4707829",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:13:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "QuantumScape CTO Timothy Holme sells $974,861 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumscape-cto-timothy-holme-sells-974861-in-stock-93CH-4707828",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:13:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump joins Lawler to test fiscal pitch in competitive New York district",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-joins-lawler-to-test-economic-pitch-in-competitive-new-york-district-4707048",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:12:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kenvue shareholders elect board, approve executive pay and auditor at annual meeting",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/kenvue-shareholders-elect-board-approve-executive-pay-and-auditor-at-annual-meeting-93CH-4707826",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T23:10:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX launches Starship test flight on second try",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T22:36:47+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Plains set to restart portions of ruptured oil pipeline in Los Angeles",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596455-plains-set-to-restart-portions-of-ruptured-oil-pipeline-in-los-angeles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T22:34:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two top Walmart executives leave company under new CEO John Furner",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T22:19:27+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SEC delays tokenized stock trading plan: blood-red session for BTC, ETH, SUI, and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596452-sec-delays-tokenized-stock-trading-plan-blood-red-session-for-btc-eth-sui-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T22:11:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tenaris plans C$306M modernization of Sault Ste. Marie operations",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596454-tenaris-plans-c306m-modernization-of-sault-ste-marie-operations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T22:10:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -51,83 +205,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Gabbard resigns as Trump\u2019s top US intelligence official",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/gabbard-resigns-as-trumps-national-intelligence-director-fox-news-digital-reports-4707222",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:54:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New Zealand unveils defence boost for fleet and drones",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/new-zealand-unveils-defence-boost-for-fleet-and-drones-4707758",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:54:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Polar Power announces convertible note financings, board changes, and facility settlement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/polar-power-announces-convertible-note-financings-board-changes-and-facility-settlement-93CH-4707757",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:53:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JW Asset Management sells $1.47m in Establishment Labs shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/jw-asset-management-sells-147m-in-establishment-labs-shares-93CH-4707756",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:52:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lindblad Expeditions director Fahey Jr. sells $40,520 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-fahey-jr-sells-40520-in-stock-93CH-4707755",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:52:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cipher Digital director sells $311,879 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cipher-digital-director-sells-311879-in-company-stock-93CH-4707754",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:52:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lindblad Expeditions chief expedition officer sells $200,500 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/lindblad-expeditions-chief-expedition-officer-sells-200500-in-stock-93CH-4707753",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:51:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Is Relay Therapeutics a Buy After Promising Trial Results?",
       "source": "Yahoo",
@@ -137,17 +214,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks climb, yields dip as investors focus on some progress in US-Iran talks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/stocks-rise-dollar-at-sixweek-high-as-focus-remains-on-usiran-talks-4705701",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:49:48+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -266,28 +332,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Viasat and Intelsat General win a $437.7M US space vehicle contract",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596449-viasat-and-intelsat-general-win-a-4377m-us-space-vehicle-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:18:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JP Morgan, Bank of America, and Citi 'living wills' cleared by Fed, FDIC",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596448-jp-morgan-bank-of-america-and-citi-living-wills-cleared-by-fed-fdic?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:16:43+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "New lawsuits against Trump's DOJ 'lawfare' fund",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
@@ -296,17 +340,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Akanda receives Nasdaq non-compliance letter; shares down 14%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596447-akanda-receives-nasdaq-non-compliance-letter-shares-down-14?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T21:00:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -350,17 +383,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-22T20:37:38+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Two top Walmart executives leave company under new CEO John Furner",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T20:33:19+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -448,17 +470,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IBM could be a big winner as quantum computing moves out of the science-fiction realm",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ibm-could-be-a-big-winner-as-quantum-computing-moves-out-of-the-science-fiction-realm-1eb74952?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T19:58:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -606,18 +617,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-22T16:26:26+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T16:13:30+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1040,6 +1039,83 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "ASML (ASML): AI Stock With The Widest Moat?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-ai-stock-widest-161633693.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T16:16:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018The math wasn\u2019t there\u2019: One dad thought becoming a millionaire in his 30s was impossible \u2014 here's how he made it happen",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/math-wasn-t-one-dad-161500198.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T16:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cisco Systems (CSCO): The AI Winner in 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-ai-winner-161411510.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T16:14:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Broadcom (AVGO) The Best AI Chip Stock to Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/broadcom-avgo-best-ai-chip-161307258.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T16:13:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Williams-Sonoma Q1 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/williams-sonoma-q1-earnings-call-161103769.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T16:11:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arqit Quantum H1 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/arqit-quantum-h1-earnings-call-161057092.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T16:10:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Market Is Too Exciting. Protect Yourself with Boring Sysco Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-too-exciting-protect-yourself-160502532.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T16:05:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "A trillion dollar question: Will SpaceX's Starship launch go well?",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo",
@@ -1057,83 +1133,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-21T15:01:11+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Makes Rockwell Automation (ROK) a High-Quality Compounder?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-rockwell-automation-rok-high-145654778.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T14:56:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia revenue jumps 85% on AI infrastructure demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-revenue-jumps-85-ai-145459849.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T14:54:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pembroke Trims Position in Workiva, According to Latest SEC Filing",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pembroke-trims-position-workiva-according-145407610.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T14:54:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MACOM Technology Solutions (MTSI) Delivered Record Revenue and Profitability in Q1",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/macom-technology-solutions-mtsi-delivered-145232373.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T14:52:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Huron Consulting Group (HURN) Slid Amid Concerns Over AI Disruption",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/huron-consulting-group-hurn-slid-145031330.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T14:50:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FreightWaves announces 2026 Fraud Fighters Award winners",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/freightwaves-announces-2026-fraud-fighters-145006132.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T14:50:06+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Does Haemonetics (HAE) Have Enduring Growth Potential?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-haemonetics-hae-enduring-growth-144824443.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T14:48:24+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
