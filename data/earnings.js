@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-22T06:08:48+00:00",
+  "generated_at": "2026-05-22T09:50:59+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -633,6 +633,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "HMR",
+        "date": "2026-05-26",
+        "hour": "",
+        "eps_estimate": 0.0051,
+        "revenue_estimate": 27098300,
+        "is_watchlist": false
+      },
+      {
         "ticker": "ICLR",
         "date": "2026-05-26",
         "hour": "amc",
@@ -995,14 +1003,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "KNOP",
-        "date": "2026-05-27",
-        "hour": "",
-        "eps_estimate": 0.3101,
-        "revenue_estimate": 92131836,
-        "is_watchlist": false
-      },
-      {
         "ticker": "KSS",
         "date": "2026-05-27",
         "hour": "",
@@ -1056,6 +1056,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.0551,
         "revenue_estimate": 289141236,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MOV",
+        "date": "2026-05-27",
+        "hour": "",
+        "eps_estimate": 0.055,
+        "revenue_estimate": 136475745,
         "is_watchlist": false
       },
       {
@@ -1413,6 +1421,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "PKE",
+        "date": "2026-05-28",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "PLAB",
         "date": "2026-05-28",
         "hour": "bmo",
@@ -1524,6 +1540,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KNOP",
+        "date": "2026-05-29",
+        "hour": "",
+        "eps_estimate": 0.3101,
+        "revenue_estimate": 92131836,
         "is_watchlist": false
       },
       {
