@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-23T19:56:11.665983+00:00",
+  "generated_at": "2026-05-23T20:54:08.707839+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,100 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-23T19:56:11.663201+00:00",
+      "timestamp": "2026-05-23T20:54:08.704254+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Iran Deal Framework Close; Tesla, These Five AI Plays Are At Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T20:38:16+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Embodied AI bullish or bearish for markets? Barclays answers",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/embodied-ai-bullish-or-bearish-for-markets-barclays-answers-4708084",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T20:21:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arm Holdings\u2019 SWOT analysis: stock faces strategic shift into chip making",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/arm-holdings-swot-analysis-stock-faces-strategic-shift-into-chip-making-93CH-4708083",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T20:17:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Advanced Micro Devices (AMD) Remains One of the Most Traded Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-201200295.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T20:12:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tens of thousands march in Madrid to demand prime minister\u2019s resignation",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/tens-of-thousands-march-in-madrid-to-demand-spanish-prime-minister-resigns-4708047",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T19:54:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Generac Holdings\u2019 SWOT analysis: stock faces storm activity headwinds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/generac-holdings-swot-analysis-stock-faces-storm-activity-headwinds-93CH-4708081",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T19:53:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "AMD just beat rival chipmakers to the punch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a5939283d26d5a6e73a363fe55a9cb393a7e5208b2ff7dbdb87d6c5d9f1f9a7",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T19:37:00+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: AMD"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "2 Hypergrowth AI Stocks to Buy and Hold for the Next Decade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c6dd03b326992d353eab8b6bf6dddef0a3a0d5617f034806522764f0f306ef0",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T19:34:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -85,13 +175,25 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points",
+      "headline": "Norway Doubles Down on Oil and Gas as Europe Scrambles for Supply",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/norway-doubles-down-oil-gas-190000261.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-23T18:55:04+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-05-23T19:00:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "37.4% of Berkshire Hathaway's $330 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64585600a9837f8ae894bdfb4885eb3658b1e0ff9b4ebd130156c76404dd6e94",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T18:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -106,6 +208,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "If I Could Tell All Retirees 1 Thing About Social Security Right Now, It's This",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c60ef0289fae3d8db5ad5b6f0a7526f3dc204469f699f121597ce23de866890c",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T18:40:00+00:00",
+      "relevance_score": -2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "This bond strategy can protect your portfolio even if interest rates go up",
       "source": "MarketWatch",
@@ -114,29 +228,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-23T18:31:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta Platforms\u2019 SWOT analysis: stock faces margin pressure amid AI push",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/meta-platforms-swot-analysis-stock-faces-margin-pressure-amid-ai-push-93CH-4708076",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T18:26:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US and Iran report progress on talks ending war",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-and-iran-report-progress-on-talks-ending-war-looking-to-next-few-days-4708058",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T18:24:27+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -160,28 +251,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "General Motors\u2019 SWOT analysis: automaker stock faces EV headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/general-motors-swot-analysis-automaker-stock-faces-ev-headwinds-93CH-4708075",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T18:05:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Colombian right-wing presidential hopeful leads poll for runoff vote",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/colombian-rightwing-presidential-hopeful-leads-poll-for-runoff-vote-4708074",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T18:00:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -229,30 +298,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Half a Million Dollars. Two ETFs. $1,400 a Month, Without Touching the Principal.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74012bbd781df3f88999f53458be51bb1a3603e2abd142fa33deb58cd354ac2e",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T17:30:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "ULTY Paid 68.7% in Distributions While Its Stock Price Fell 47%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9acd0f3c7b9319fad70a17dcec257810854ec4b8a6f812153b35313e351fc732",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T17:30:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Bulls push the S&P 500 back near records \u2014 here\u2019s what drove the market last week",
       "source": "CNBC",
@@ -261,18 +306,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-23T17:21:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Space Companies Recently Went Public -- This Is How I'd Rank Them",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a133539424a0259adbbd42163b1bba2dedf812cf649fbbe299c870629fa14ccc",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T17:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -378,17 +411,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Why bonds may not save investors from the next market shock: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/why-bonds-may-not-save-investors-from-the-next-market-shock-chart-of-the-day-155420061.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T15:54:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points",
       "source": "Yahoo",
@@ -414,17 +436,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/amazon-ge-vernova-5-stocks-buy-points/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T15:43:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "U.S., Iran cite progress in talks as Trump weighs fresh attacks",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4596489-us-tehran-cite-progress-talks-end-war?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -433,18 +444,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Cathie Wood's ARK Sells Chip Giants, Buys The Dip In Crypto Exchange Bullish And Two Others",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b60a1ab8c6198f25e164439c510674eed033fbc717203f8f44f2139901be344",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T14:48:31+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -483,23 +482,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Millennials spend $252 on an average date, BMO finds \u2014 and social media is spiraling over 'date-flation'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/23/date-flation-average-millennial-date-costs-252.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T13:30:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Job-seekers are using AI to apply for open roles. The result: 'Everybody's applications are starting to look more and more alike'",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/article/job-seekers-are-using-ai-to-apply-for-open-roles-the-result-everybodys-applications-are-starting-to-look-more-and-more-alike-133000362.html",
       "is_watchlist": false,
       "timestamp": "2026-05-23T13:30:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lingering mysteries from Berkshire's portfolio update",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/23/lingering-mysteries-from-berkshires-portfolio-update.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T12:59:47+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -557,6 +556,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Three signs from APEC that the U.S. and China remain far apart on trade",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T11:19:52+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -718,12 +728,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SpaceX launches Starship test flight on second try",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+      "headline": "Another retail chain closing all stores after 33 years in business",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/another-retail-chain-closing-stores-033300636.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-23T01:28:52+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-05-23T03:33:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -747,17 +757,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-22T22:42:23+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley resets PANW stock price target on demand trends",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-panw-stock-223300963.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T22:33:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

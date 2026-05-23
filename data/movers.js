@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T19:56:11.661228+00:00",
+  "generated_at": "2026-05-23T20:54:08.701648+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What CEO Sanjay Mehrota Just Said Shows Why Micron Is About to Become a $1,000 Stock\""
+      "move_reason": "News: \"AMD just beat rival chipmakers to the punch\""
     },
     {
       "ticker": "APA",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Half a Million Dollars. Two ETFs. $1,400 a Month, Without Touching the Principal.\""
+      "move_reason": "News: \"2 Hypergrowth AI Stocks to Buy and Hold for the Next Decade\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What CEO Sanjay Mehrota Just Said Shows Why Micron Is About to Become a $1,000 Stock\""
+      "move_reason": "News: \"AMD just beat rival chipmakers to the punch\""
     },
     {
       "ticker": "APA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Half a Million Dollars. Two ETFs. $1,400 a Month, Without Touching the Principal.\""
+      "move_reason": "News: \"2 Hypergrowth AI Stocks to Buy and Hold for the Next Decade\""
     },
     {
       "ticker": "OSCR",
