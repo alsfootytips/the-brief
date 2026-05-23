@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T12:01:27.536536+00:00",
+  "generated_at": "2026-05-23T14:03:31.924470+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: Strong AI Sales, But the Win Is Already Priced In\""
+      "move_reason": "News: \"Nvidia Is Becoming The AI Economy\""
     },
     {
       "ticker": "APA",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week Of May 24\""
+      "move_reason": "News: \"3 Market-Beating Stocks with Exciting Potential\""
     },
     {
       "ticker": "XLE",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"HDV: This May Not Be The ETF You Want, But It Could Be The One You Need Right Now\""
+      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
     },
     {
       "ticker": "XOP",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: My Best AI Infrastructure Pick Gets A Strong Buy Upgrade\""
+      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
     },
     {
       "ticker": "CRWV",
@@ -213,7 +213,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Just Opened A $1.9 Billion Position In A Critical AI Supplier\""
+      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
     },
     {
       "ticker": "NVDA",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is NVIDIA Corporation (NVDA) One of the Top Must-Buy Semiconductor Stocks to Invest in Now...\""
+      "move_reason": "News: \"A New Social Security Garnishment Is Coming, Courtesy of the Trump Administration -- and T...\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: Strong AI Sales, But the Win Is Already Priced In\""
+      "move_reason": "News: \"Nvidia Is Becoming The AI Economy\""
     },
     {
       "ticker": "APA",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Just Opened A $1.9 Billion Position In A Critical AI Supplier\""
+      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
     },
     {
       "ticker": "DG",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: The Warsh Fed\""
+      "move_reason": "News: \"Trump Wants Cuts, The Long End Needs Relief, And I'm Still Buying The Pullback\""
     },
     {
       "ticker": "NBIS",
@@ -418,7 +418,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: My Best AI Infrastructure Pick Gets A Strong Buy Upgrade\""
+      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
     },
     {
       "ticker": "NVDA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is NVIDIA Corporation (NVDA) One of the Top Must-Buy Semiconductor Stocks to Invest in Now...\""
+      "move_reason": "News: \"A New Social Security Garnishment Is Coming, Courtesy of the Trump Administration -- and T...\""
     },
     {
       "ticker": "OSCR",
@@ -478,7 +478,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week Of May 24\""
+      "move_reason": "News: \"3 Market-Beating Stocks with Exciting Potential\""
     },
     {
       "ticker": "TTD",
@@ -502,7 +502,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"HDV: This May Not Be The ETF You Want, But It Could Be The One You Need Right Now\""
+      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
     }
   ],
   "indices": [
