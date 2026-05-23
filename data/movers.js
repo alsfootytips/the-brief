@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T09:28:32.478247+00:00",
+  "generated_at": "2026-05-23T10:56:19.717541+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How The Advanced Micro Devices (AMD) Story Is Shifting With AI Optimism And Valuation Conc...\""
+      "move_reason": "News: \"AMD: Strong AI Sales, But the Win Is Already Priced In\""
     },
     {
       "ticker": "APA",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MCN: Discount Now Makes This A More Appealing Choice (Upgrade)\""
+      "move_reason": "News: \"2 S&P 500 Stocks on Our Buy List and 1 That Underwhelm\""
     },
     {
       "ticker": "OSCR",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Stock Retirees Are Adding to Their Portfolios -- and Growth Investors Should, Too\""
+      "move_reason": "News: \"SPHD Pays Monthly Income Without Fail Since 2012; Here\u2019s What Could Break the Streak\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How The Advanced Micro Devices (AMD) Story Is Shifting With AI Optimism And Valuation Conc...\""
+      "move_reason": "News: \"AMD: Strong AI Sales, But the Win Is Already Priced In\""
     },
     {
       "ticker": "APA",
@@ -358,7 +358,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MCN: Discount Now Makes This A More Appealing Choice (Upgrade)\""
+      "move_reason": "News: \"2 S&P 500 Stocks on Our Buy List and 1 That Underwhelm\""
     },
     {
       "ticker": "CRWV",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Stock Retirees Are Adding to Their Portfolios -- and Growth Investors Should, Too\""
+      "move_reason": "News: \"SPHD Pays Monthly Income Without Fail Since 2012; Here\u2019s What Could Break the Streak\""
     },
     {
       "ticker": "OSCR",
