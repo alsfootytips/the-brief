@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-23T07:44:27+00:00",
+  "generated_at": "2026-05-23T09:28:32+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -1427,6 +1427,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "SOTK",
+        "date": "2026-05-28",
+        "hour": "amc",
+        "eps_estimate": 0.0255,
+        "revenue_estimate": 5722710,
+        "is_watchlist": false
+      },
+      {
         "ticker": "TIGR",
         "date": "2026-05-28",
         "hour": "",
@@ -1729,14 +1737,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "CMCO",
-        "date": "2026-06-03",
-        "hour": "",
-        "eps_estimate": 0.4667,
-        "revenue_estimate": 382460475,
-        "is_watchlist": false
-      },
-      {
         "ticker": "CRWD",
         "date": "2026-06-03",
         "hour": "",
@@ -1984,6 +1984,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 1.4853,
         "revenue_estimate": 1533349445,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CMCO",
+        "date": "2026-06-04",
+        "hour": "",
+        "eps_estimate": 0.4667,
+        "revenue_estimate": 382460475,
         "is_watchlist": false
       },
       {

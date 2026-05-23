@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T07:44:27.525146+00:00",
+  "generated_at": "2026-05-23T09:28:32.478247+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet, AMD Removed From Value Stock Status as Russell Reconstitutes Indexes\""
+      "move_reason": "News: \"How The Advanced Micro Devices (AMD) Story Is Shifting With AI Optimism And Valuation Conc...\""
     },
     {
       "ticker": "APA",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Could The Tanks Run DRY?\""
+      "move_reason": "News: \"Energy Stocks, Last Hedge Standing\""
     },
     {
       "ticker": "XOP",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Impinj, Lam Research, and FormFactor Shares Are Soaring, What You Need To Know\""
+      "move_reason": "News: \"The AI Stock Retirees Are Adding to Their Portfolios -- and Growth Investors Should, Too\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet, AMD Removed From Value Stock Status as Russell Reconstitutes Indexes\""
+      "move_reason": "News: \"How The Advanced Micro Devices (AMD) Story Is Shifting With AI Optimism And Valuation Conc...\""
     },
     {
       "ticker": "APA",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Markets Rally As IPO Momentum Builds\""
+      "move_reason": "News: \"Weekly Commentary: The Warsh Fed\""
     },
     {
       "ticker": "NBIS",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Impinj, Lam Research, and FormFactor Shares Are Soaring, What You Need To Know\""
+      "move_reason": "News: \"The AI Stock Retirees Are Adding to Their Portfolios -- and Growth Investors Should, Too\""
     },
     {
       "ticker": "OSCR",
@@ -502,7 +502,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Could The Tanks Run DRY?\""
+      "move_reason": "News: \"Energy Stocks, Last Hedge Standing\""
     }
   ],
   "indices": [
