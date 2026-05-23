@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T15:20:32.277787+00:00",
+  "generated_at": "2026-05-23T16:31:53.278122+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
+      "move_reason": "News: \"AMC Entertainment, Nvidia, Arm Holdings And More: 5 Stocks Investors Couldn't Stop Buzzing...\""
     },
     {
       "ticker": "CRWV",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A New Social Security Garnishment Is Coming, Courtesy of the Trump Administration -- and T...\""
+      "move_reason": "News: \"Bloom Energy Stock Is Up Big in 2026. Is There Still Time to Get In?\""
     },
     {
       "ticker": "PLTR",
@@ -382,7 +382,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Gap to Report Q1 Earnings: Here's What Investors Should Know\""
+      "move_reason": "News: \"1 S&P 500 Stock to Target This Week and 2 That Underwhelm\""
     },
     {
       "ticker": "GEV",
@@ -418,7 +418,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
+      "move_reason": "News: \"AMC Entertainment, Nvidia, Arm Holdings And More: 5 Stocks Investors Couldn't Stop Buzzing...\""
     },
     {
       "ticker": "NVDA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A New Social Security Garnishment Is Coming, Courtesy of the Trump Administration -- and T...\""
+      "move_reason": "News: \"Bloom Energy Stock Is Up Big in 2026. Is There Still Time to Get In?\""
     },
     {
       "ticker": "OSCR",
@@ -454,7 +454,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum Corporation (OXY) is Attracting Investor Attention: Here is What You ...\""
+      "move_reason": "News: \"Morgan Stanley Maintains Equal-Weight on Occidental Petroleum, Raises Price Target to $74\""
     },
     {
       "ticker": "PWR",
