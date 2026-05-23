@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T10:56:19.717541+00:00",
+  "generated_at": "2026-05-23T12:01:27.536536+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Energy Stocks, Last Hedge Standing\""
+      "move_reason": "News: \"HDV: This May Not Be The ETF You Want, But It Could Be The One You Need Right Now\""
     },
     {
       "ticker": "XOP",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: A Superior Growth Story In Four Dimensions\""
+      "move_reason": "News: \"Nebius: My Best AI Infrastructure Pick Gets A Strong Buy Upgrade\""
     },
     {
       "ticker": "CRWV",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SPHD Pays Monthly Income Without Fail Since 2012; Here\u2019s What Could Break the Streak\""
+      "move_reason": "News: \"Is NVIDIA Corporation (NVDA) One of the Top Must-Buy Semiconductor Stocks to Invest in Now...\""
     },
     {
       "ticker": "PLTR",
@@ -418,7 +418,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: A Superior Growth Story In Four Dimensions\""
+      "move_reason": "News: \"Nebius: My Best AI Infrastructure Pick Gets A Strong Buy Upgrade\""
     },
     {
       "ticker": "NVDA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SPHD Pays Monthly Income Without Fail Since 2012; Here\u2019s What Could Break the Streak\""
+      "move_reason": "News: \"Is NVIDIA Corporation (NVDA) One of the Top Must-Buy Semiconductor Stocks to Invest in Now...\""
     },
     {
       "ticker": "OSCR",
@@ -502,7 +502,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Energy Stocks, Last Hedge Standing\""
+      "move_reason": "News: \"HDV: This May Not Be The ETF You Want, But It Could Be The One You Need Right Now\""
     }
   ],
   "indices": [
