@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-23T18:46:00.136923+00:00",
+  "generated_at": "2026-05-23T19:56:11.665983+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,88 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-23T18:46:00.133392+00:00",
+      "timestamp": "2026-05-23T19:56:11.663201+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Police and protesters clash in Serbia as crowds demand president\u2019s exit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/police-and-protesters-clash-in-serbia-as-crowds-demand-presidents-exit-4708080",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T19:30:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shoals Technologies\u2019 SWOT analysis: stock faces margin pressure despite growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/shoals-technologies-swot-analysis-stock-faces-margin-pressure-despite-growth-93CH-4708079",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T19:22:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T19:19:34+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Key deals this week: Parker Hannifin, Dominion Energy, LiveRamp and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596457-key-deals-this-week-parker-hannifin-dominion-energy-liveramp-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T19:15:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Atlassian\u2019s SWOT analysis: stock faces AI headwinds and cloud growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/atlassians-swot-analysis-stock-faces-ai-headwinds-and-cloud-growth-93CH-4708078",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T19:05:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T18:55:04+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corteva\u2019s SWOT analysis: agribusiness stock shows growth potential",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/cortevas-swot-analysis-agribusiness-stock-shows-growth-potential-93CH-4708077",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T18:47:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -119,17 +197,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Humana\u2019s SWOT analysis: stock faces growth opportunities amid execution risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/humanas-swot-analysis-stock-faces-growth-opportunities-amid-execution-risks-93CH-4708073",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T17:46:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The surprising cost of caring for aging parents: Divorce",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories",
@@ -148,22 +215,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-23T17:38:07+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says he is \u201c50/50\u201d on Iran deal or military action: Axios",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/mediators-race-to-prevent-us-and-israeli-strikes-on-iran--reports-wsj-4707860",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T17:37:47+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -199,28 +250,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Salesforce\u2019s SWOT analysis: stock faces AI transformation test",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/salesforces-swot-analysis-stock-faces-ai-transformation-test-93CH-4708072",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T17:25:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What is the potential impact of AI on concentration and corporate profitability?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/what-is-the-potential-impact-of-ai-on-concentration-and-corporate-profitability-4708071",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T17:21:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -293,18 +322,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T16:39:37+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018It will not bring you happiness\u2019: I have advice for your single, childless 62-year-old multimillionaire reader",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
@@ -335,17 +352,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T16:10:09+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -419,7 +425,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. Iran cite progress in talks as Trump weighs fresh attacks",
+      "headline": "U.S., Iran cite progress in talks as Trump weighs fresh attacks",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4596489-us-tehran-cite-progress-talks-end-war?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
@@ -427,17 +433,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insider trades: Microsoft, Taiwan Semiconductor, and Snap among notable names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596415-insider-trades-microsoft-taiwan-semiconductor-snap-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T15:03:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
