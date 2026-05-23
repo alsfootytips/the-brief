@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-23T21:56:11.771781+00:00",
+  "generated_at": "2026-05-23T22:55:45.866240+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,35 +21,41 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-23T21:56:11.768235+00:00",
+      "timestamp": "2026-05-23T22:55:45.862732+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Trump says framework of Iran deal \u2019largely negotiated,\u2019 with provision to reopen strait",
+      "headline": "US conducts military drill over Venezuelan capital Caracas",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-and-iran-report-progress-on-talks-ending-war-looking-to-next-few-days-4708058",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T21:54:51+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "url": "https://www.investing.com/news/world-news/us-conducts-military-drill-over-venezuelan-capital-caracas-4708090",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T22:30:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "California chemical tank heating up after evacuation in LA suburb, fire official",
+      "headline": "Huntington Bancshares\u2019 SWOT analysis: stock faces integration test amid expansion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/huntington-bancshares-swot-analysis-stock-faces-integration-test-amid-expansion-93CH-4708095",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T22:19:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "California chemical tank heating up after evacuation in LA suburb, fire official says",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/california-chemical-tank-heating-up-after-evacuation-in-la-suburb-fire-official-4708092",
       "is_watchlist": false,
-      "timestamp": "2026-05-23T21:54:36+00:00",
+      "timestamp": "2026-05-23T22:18:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -64,10 +70,37 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
       "is_watchlist": true,
-      "timestamp": "2026-05-23T21:54:01+00:00",
+      "timestamp": "2026-05-23T22:11:14+00:00",
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says framework of Iran deal \u2019largely negotiated,\u2019 with provision to reopen strait",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-and-iran-report-progress-on-talks-ending-war-looking-to-next-few-days-4708058",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T22:06:26+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wells Fargo\u2019s SWOT analysis: stock navigates asset cap removal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/wells-fargos-swot-analysis-stock-navigates-asset-cap-removal-93CH-4708094",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T21:59:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -80,7 +113,46 @@ window.theBriefLive = {
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
       "is_watchlist": true,
-      "timestamp": "2026-05-23T21:37:01+00:00",
+      "timestamp": "2026-05-23T21:55:50+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why airlines look set for winter capacity cuts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-airlines-look-set-for-winter-capacity-cuts-4708093",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T21:55:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Spectacular Growth Stock to Buy Before It Soars by as Much as 124%, According to Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23a05873c497be4e0899a633204f687dfc694e9f20895a7a6e17dbf5b62118e9",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T21:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": "GEV",
+      "headline": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cf7959eeab312a84b668c72827ad5b782efe6732c0fd30392b91d24b49b4945",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T21:39:29+00:00",
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -98,14 +170,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US conducts military drill over Venezuelan capital Caracas",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-conducts-military-drill-over-venezuelan-capital-caracas-4708090",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:24:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "OXY",
+      "headline": "Brent Crude Is Up 85% Since January. OXY, XOM, and CVX Are Playing It Very Differently.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3013631ab42dbc08ff157085a4d1529921bd005ea91be8f1c3f0cd2bd448d8d6",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T21:35:00+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: CVX"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Target Just Posted Its First Sales Growth in 5 Quarters. So Why Did the Stock Drop Anyway?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af117411304b71d6e2be347b77320e8bde5387fd8a8923648d407695655e1102",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T21:26:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -126,17 +211,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-launches-vertiv-powerups-201358721.html",
       "is_watchlist": false,
       "timestamp": "2026-05-23T21:20:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4708088",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:20:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -186,30 +260,39 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Ally Financial\u2019s SWOT analysis: stock navigates margin pressure and credit recovery",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/ally-financials-swot-analysis-stock-navigates-margin-pressure-and-credit-recovery-93CH-4708087",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:04:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "1 Unstoppable Cryptocurrency to Buy Before It Soars 930%, According to Cathie Wood's Ark Invest",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d710be3b06027e29402b662dd625d51759b7e1896ab5431b585bcb26053a128",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T21:11:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran peace deal is \u2019largely negotiated\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-peace-deal-is-largely-negotiated-4708086",
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why AMD (AMD) Stock Is Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c17cd0984e108602bf047cc004ec98a00c6edc54f453dc59b7538738101f49e9",
       "is_watchlist": true,
-      "timestamp": "2026-05-23T20:54:50+00:00",
+      "timestamp": "2026-05-23T20:28:55+00:00",
       "relevance_score": 7.0,
       "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "relevance_label": "Pick: AMD"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why Advanced Micro Devices (AMD) Remains One of the Most Traded Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e2523dfe4b3a575a72972d8af7b26cb46d2692bcf44f8ec1ea68717070eae05",
+      "is_watchlist": true,
+      "timestamp": "2026-05-23T20:12:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -225,18 +308,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 Hypergrowth AI Stocks to Buy and Hold for the Next Decade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c6dd03b326992d353eab8b6bf6dddef0a3a0d5617f034806522764f0f306ef0",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T19:34:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Key deals this week: Parker Hannifin, Dominion Energy, LiveRamp and more",
       "source": "Seeking Alpha Market",
@@ -245,30 +316,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-23T19:15:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "37.4% of Berkshire Hathaway's $330 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64585600a9837f8ae894bdfb4885eb3658b1e0ff9b4ebd130156c76404dd6e94",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T18:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "If I Could Tell All Retirees 1 Thing About Social Security Right Now, It's This",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c60ef0289fae3d8db5ad5b6f0a7526f3dc204469f699f121597ce23de866890c",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T18:40:00+00:00",
-      "relevance_score": -2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -361,18 +408,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "What CEO Sanjay Mehrota Just Said Shows Why Micron Is About to Become a $1,000 Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa730657cc7da040bd796ff9916e9ce912b76a287b5d39fd99bd768b7ab89b67",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T17:04:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "These 4 market sectors look frothy \u2014 and Nvidia\u2019s isn\u2019t even the biggest bubble",
       "source": "MarketWatch",
@@ -425,18 +460,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-23T16:21:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "This Artificial Intelligence (AI) Stock Will Beat Nvidia, AMD, Broadcom, and Intel to Become the Biggest Winner in AI Inference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d53870b445e088e9849282e25d97bd2ae062e13ad59fc509993b00c0af65afd",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T16:19:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -754,18 +777,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-23T03:33:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "ront Street Bought 384K More Shares of Enovis in Q1. Is ENOV a Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63e3f4e18dfb67ed111a928b607048533af3d0f83dd0a58842a9dc86fad3abf7",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T00:28:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1199,18 +1210,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-21T23:14:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "OXY",
-      "headline": "CNBC Daily Open: Dow at all-time high as Iran reviews peace deal",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=acce385c3627556e6ba2b9e7a00b8f378f536d663b35aae917d5dc58b21a9f90",
-      "is_watchlist": true,
-      "timestamp": "2026-05-21T21:32:12+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T21:56:11.765639+00:00",
+  "generated_at": "2026-05-23T22:55:45.860426+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD just beat rival chipmakers to the punch\""
+      "move_reason": "News: \"Why AMD (AMD) Stock Is Up Today\""
     },
     {
       "ticker": "APA",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Hypergrowth AI Stocks to Buy and Hold for the Next Decade\""
+      "move_reason": "News: \"1 Spectacular Growth Stock to Buy Before It Soars by as Much as 124%, According to Wall St...\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD just beat rival chipmakers to the punch\""
+      "move_reason": "News: \"Why AMD (AMD) Stock Is Up Today\""
     },
     {
       "ticker": "APA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Hypergrowth AI Stocks to Buy and Hold for the Next Decade\""
+      "move_reason": "News: \"1 Spectacular Growth Stock to Buy Before It Soars by as Much as 124%, According to Wall St...\""
     },
     {
       "ticker": "OSCR",
@@ -454,7 +454,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Morgan Stanley Maintains Equal-Weight on Occidental Petroleum, Raises Price Target to $74\""
+      "move_reason": "News: \"Brent Crude Is Up 85% Since January. OXY, XOM, and CVX Are Playing It Very Differently.\""
     },
     {
       "ticker": "PWR",
