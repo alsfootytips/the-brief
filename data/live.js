@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-23T22:55:45.866240+00:00",
+  "generated_at": "2026-05-23T23:58:48.858957+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,21 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-23T22:55:45.862732+00:00",
+      "timestamp": "2026-05-23T23:58:48.855395+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukraine\u2019s capital Kyiv hit by massive missile, drone attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ukraines-capital-kyiv-hit-by-massive-missile-drone-attack-4708113",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:54:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -33,29 +44,18 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/us-conducts-military-drill-over-venezuelan-capital-caracas-4708090",
       "is_watchlist": false,
-      "timestamp": "2026-05-23T22:30:31+00:00",
+      "timestamp": "2026-05-23T23:48:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Huntington Bancshares\u2019 SWOT analysis: stock faces integration test amid expansion",
+      "headline": "KeyCorp\u2019s SWOT analysis: large-cap bank stock eyes growth through buybacks",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/huntington-bancshares-swot-analysis-stock-faces-integration-test-amid-expansion-93CH-4708095",
+      "url": "https://www.investing.com/news/swot-analysis/keycorps-swot-analysis-largecap-bank-stock-eyes-growth-through-buybacks-93CH-4708111",
       "is_watchlist": false,
-      "timestamp": "2026-05-23T22:19:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "California chemical tank heating up after evacuation in LA suburb, fire official says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/california-chemical-tank-heating-up-after-evacuation-in-la-suburb-fire-official-4708092",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T22:18:26+00:00",
+      "timestamp": "2026-05-23T23:43:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -70,62 +70,129 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
       "is_watchlist": true,
-      "timestamp": "2026-05-23T22:11:14+00:00",
+      "timestamp": "2026-05-23T23:29:51+00:00",
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says framework of Iran deal \u2019largely negotiated,\u2019 with provision to reopen strait",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-and-iran-report-progress-on-talks-ending-war-looking-to-next-few-days-4708058",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T22:06:26+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "Wells Fargo\u2019s SWOT analysis: stock navigates asset cap removal",
+      "headline": "IHS Holding stock hits 52-week high at 8.39 USD",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/wells-fargos-swot-analysis-stock-navigates-asset-cap-removal-93CH-4708094",
+      "url": "https://www.investing.com/news/company-news/ihs-holding-stock-hits-52week-high-at-839-usd-93CH-4708110",
       "is_watchlist": false,
-      "timestamp": "2026-05-23T21:59:59+00:00",
+      "timestamp": "2026-05-23T23:26:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T21:55:50+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "headline": "Taysha Gene Therapies stock hits all-time high at 5.49 USD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/taysha-gene-therapies-stock-hits-alltime-high-at-549-usd-93CH-4708109",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:26:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why airlines look set for winter capacity cuts",
+      "headline": "Texas Capital Bancshares stock hits 52-week high at 20.95 USD",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-airlines-look-set-for-winter-capacity-cuts-4708093",
+      "url": "https://www.investing.com/news/company-news/texas-capital-bancshares-stock-hits-52week-high-at-2095-usd-93CH-4708108",
       "is_watchlist": false,
-      "timestamp": "2026-05-23T21:55:50+00:00",
+      "timestamp": "2026-05-23T23:26:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eaton Vance stock hits 52-week high at 22.74 USD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/eaton-vance-stock-hits-52week-high-at-2274-usd-93CH-4708107",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:26:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eaton Vance Tax Managed Buy Write stock hits 52-week high at $14.57",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/eaton-vance-tax-managed-buy-write-stock-hits-52week-high-at-1457-93CH-4708106",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:25:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s What Jim Cramer Had Said About NVIDIA (NVDA) Ahead Of Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-had-said-nvidia-231915364.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:19:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The TJX Companies (TJX) Is Great, Says Jim Cramer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-great-says-231835942.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:18:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lowe\u2019s (LOW) Isn\u2019t as Bad as People Think, Says Jim Cramer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-isn-t-bad-231750377.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:17:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s Why Jim Cramer Is Sad About Toll Brothers (TOL)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-sad-toll-231705015.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:17:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Discusses Analog Devices\u2019 (ADI) Market",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-analog-devices-231629313.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:16:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Discusses Texas Instruments\u2019 (TXN) Market",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-texas-instruments-231545326.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T23:15:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -159,17 +226,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Truist Financial\u2019s SWOT analysis: stock faces revenue headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/truist-financials-swot-analysis-stock-faces-revenue-headwinds-93CH-4708091",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:36:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Brent Crude Is Up 85% Since January. OXY, XOM, and CVX Are Playing It Very Differently.",
       "source": "Yahoo",
@@ -191,72 +247,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Comerica\u2019s SWOT analysis: regional bank stock faces merger milestone",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/comericas-swot-analysis-regional-bank-stock-faces-merger-milestone-93CH-4708089",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:24:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vertiv (VRT) Launches Vertiv PowerUPS 100 Standby Series in North America",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-launches-vertiv-powerups-201358721.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:20:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Seagate (STX) Enters Exchange Agreements for $185.9M Senior Notes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-enters-exchange-agreements-200844295.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:17:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arm Holdings (ARM), Red Hat Expand Collaboration for Agentic AI Stack",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-red-hat-200853890.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:16:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TTM Technologies (TTMI): 12 Best Multibagger Stocks to Buy in 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-12-best-200929455.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:16:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GlobalFoundries (GFS) Launches Dedicated Quantum Technology Solutions Unit",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/globalfoundries-gfs-launches-dedicated-quantum-200944118.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T21:15:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
