@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T05:03:46.958484+00:00",
+  "generated_at": "2026-05-23T07:44:27.525146+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Canopy Growth Is Restating Two Years of Financials Before June 15 Earnings -- Here's What ...\""
+      "move_reason": "News: \"Impinj, Lam Research, and FormFactor Shares Are Soaring, What You Need To Know\""
     },
     {
       "ticker": "PLTR",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Week's Market Wrap: Nvidia, War Headlines, And FOMC Minutes\""
+      "move_reason": "News: \"Markets Rally As IPO Momentum Builds\""
     },
     {
       "ticker": "NBIS",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Canopy Growth Is Restating Two Years of Financials Before June 15 Earnings -- Here's What ...\""
+      "move_reason": "News: \"Impinj, Lam Research, and FormFactor Shares Are Soaring, What You Need To Know\""
     },
     {
       "ticker": "OSCR",
