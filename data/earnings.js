@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-22T23:20:08+00:00",
+  "generated_at": "2026-05-23T01:23:38+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -222,64 +222,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.2999,
         "revenue_estimate": 1551806580,
-        "is_watchlist": false
-      }
-    ],
-    "2026-05-22": [
-      {
-        "ticker": "BAH",
-        "date": "2026-05-22",
-        "hour": "bmo",
-        "eps_estimate": 1.3505,
-        "revenue_estimate": 2914580593,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BJ",
-        "date": "2026-05-22",
-        "hour": "bmo",
-        "eps_estimate": 1.059,
-        "revenue_estimate": 5557715127,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GSL",
-        "date": "2026-05-22",
-        "hour": "bmo",
-        "eps_estimate": 2.4821,
-        "revenue_estimate": 184777480,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IMPP",
-        "date": "2026-05-22",
-        "hour": "bmo",
-        "eps_estimate": 0.3468,
-        "revenue_estimate": 49062000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MOBX",
-        "date": "2026-05-22",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SEGG",
-        "date": "2026-05-22",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SY",
-        "date": "2026-05-22",
-        "hour": "bmo",
-        "eps_estimate": -0.7457,
-        "revenue_estimate": 427812560,
         "is_watchlist": false
       }
     ],
@@ -2276,6 +2218,16 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-06-06": [
+      {
+        "ticker": "ICLR",
+        "date": "2026-06-06",
+        "hour": "amc",
+        "eps_estimate": 3.1942,
+        "revenue_estimate": 2024731181,
         "is_watchlist": false
       }
     ]
