@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T17:45:03.554862+00:00",
+  "generated_at": "2026-05-23T18:46:00.131106+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Is Becoming The AI Economy\""
+      "move_reason": "News: \"What CEO Sanjay Mehrota Just Said Shows Why Micron Is About to Become a $1,000 Stock\""
     },
     {
       "ticker": "APA",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Stock Is Up Big in 2026. Is There Still Time to Get In?\""
+      "move_reason": "News: \"Half a Million Dollars. Two ETFs. $1,400 a Month, Without Touching the Principal.\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Is Becoming The AI Economy\""
+      "move_reason": "News: \"What CEO Sanjay Mehrota Just Said Shows Why Micron Is About to Become a $1,000 Stock\""
     },
     {
       "ticker": "APA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Stock Is Up Big in 2026. Is There Still Time to Get In?\""
+      "move_reason": "News: \"Half a Million Dollars. Two ETFs. $1,400 a Month, Without Touching the Principal.\""
     },
     {
       "ticker": "OSCR",
