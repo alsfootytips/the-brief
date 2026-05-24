@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T17:44:50.703991+00:00",
+  "generated_at": "2026-05-24T18:52:25.072131+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -156,6 +156,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 45.35,
+      "change_pct": 0.78,
+      "volume_ratio": 0.72,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 171.77,
@@ -164,17 +175,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "DIA",
-      "name": "SPDR Dow Jones Industrial",
-      "price": 506.12,
-      "change_pct": 0.6,
-      "volume_ratio": 0.89,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
       "move_reason": ""
     }
   ],
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Portfolio Moves Stock Market Investors Should Make Before the End of the Year\""
+      "move_reason": "News: \"Warren Buffett's Favorite Holdings: 3 Stocks Worth Owning for a Lifetime\""
     },
     {
       "ticker": "PLTR",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Portfolio Moves Stock Market Investors Should Make Before the End of the Year\""
+      "move_reason": "News: \"Warren Buffett's Favorite Holdings: 3 Stocks Worth Owning for a Lifetime\""
     },
     {
       "ticker": "OSCR",
@@ -576,6 +576,16 @@ window.theBriefMovers = {
       "price": 180.39,
       "change_pct": 1.0,
       "volume_ratio": 0.78,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 45.35,
+      "change_pct": 0.78,
+      "volume_ratio": 0.72,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -913,6 +923,13 @@ window.theBriefMovers = {
         "AMD",
         "NVDA"
       ]
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "change_pct": 0.78,
+      "price": 45.35,
+      "watchlist_members": []
     },
     {
       "ticker": "XLI",

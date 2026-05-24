@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-24T17:44:50.710191+00:00",
+  "generated_at": "2026-05-24T18:52:25.078104+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,211 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-24T17:44:50.706615+00:00",
+      "timestamp": "2026-05-24T18:52:25.074635+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Dow Jones Futures: Trump Says Iran Deal Near, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T18:39:41+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prosperity Bancshares\u2019 SWOT analysis: stock faces growth headwinds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/prosperity-bancshares-swot-analysis-stock-faces-growth-headwinds-93CH-4708222",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:39:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alaska oil revival gains momentum as Arctic discoveries, policy shifts draw industry back",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596509-alaska-oil-revival-gains-momentum-as-arctic-discoveries-policy-shifts-draw-industry-back?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:33:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:32:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says there is no rush for Iran deal, US blockade stays",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T18:30:24+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kura Sushi USA\u2019s SWOT analysis: stock faces comp headwinds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/kura-sushi-usas-swot-analysis-stock-faces-comp-headwinds-93CH-4708221",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:18:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We have longevity in the family\u2019: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:16:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA warns AI stock mania is nearing historic extremes",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596524-bofa-warns-ai-stock-mania-is-nearing-historic-extremes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:15:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won\u2019t get killed on taxes?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:09:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bond market\u2019s message: Higher yields may outlast the Iran war",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596507-bond-market-s-message-higher-yields-may-outlast-the-iran-war?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T18:03:52+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Watch Restaurant Group\u2019s SWOT analysis: stock navigates breakfast segment challenges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/first-watch-restaurant-groups-swot-analysis-stock-navigates-breakfast-segment-challenges-93CH-4708220",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T17:55:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Warren Buffett's Favorite Holdings: 3 Stocks Worth Owning for a Lifetime",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87a7c05a107a383375a6d83cb70004f454397982be5af9acdbe6c618dded0904",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T17:50:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "After Years of Watching Volatility Spikes These Are the 3 Utility ETFs Built for Investors Who Want Income Without Sleepless Nights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53274bd15f8c4297de3758098ef9f016eb4c655e1f151d0bdd40815a7205256c",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T17:48:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Got $500? 1 Dirt-Cheap Dividend Powerhouse Under $5 to Buy and Hold Forever",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1275da9e8c49c1d847208319c0f2b5ec445ea5fa4c956dbca97e38794f66551",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T17:47:23+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Mandalorian and Grogu\u2019 powers Memorial Day box office as ticket sales climb 14%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596522-mandalorian-and-grogu-powers-memorial-day-box-office-as-ticket-sales-climb-14-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T17:46:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lincoln Electric\u2019s SWOT analysis: stock navigates industrial recovery",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/lincoln-electrics-swot-analysis-stock-navigates-industrial-recovery-93CH-4708219",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T17:37:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-US Treasury rout tests Washington\u2019s tolerance for higher borrowing costs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/analysisus-treasury-rout-tests-washingtons-tolerance-for-higher-borrowing-costs-4708196",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T17:36:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -62,6 +263,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Analyst Upgrades Automatic Data Processing (ADP) to \u2018Equal Weight\u2019, Assigns $214 Price Target",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-upgrades-automatic-data-processing-172920208.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T17:29:20+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
@@ -79,17 +291,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-24T17:26:32+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BofA Raises Philip Morris International (PM) Price Target by $9",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-raises-philip-morris-international-172608760.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:26:08+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -117,28 +318,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The Cigna Group (CI) Downgraded to \u2018Hold\u2019 at Deutsche Bank Amid \u201cMulti-Year Uncertainty\u201d",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/cigna-group-ci-downgraded-hold-172246097.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:22:46+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CVS Health (CVS) Price Target Boosted by $8 at Mizuho",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-health-cvs-price-target-172214898.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:22:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Impinj\u2019s SWOT analysis: stock navigates inventory headwinds",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/swot-analysis/impinjs-swot-analysis-stock-navigates-inventory-headwinds-93CH-4708218",
@@ -157,18 +336,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T17:12:28+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi says AI-linked boost to inflation presents Fed a \u2019dovish opening\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/citi-says-ailinked-boost-to-inflation-presents-fed-a-dovish-opening-4708216",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:06:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -213,50 +380,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Old Dominion Freight Line\u2019s SWOT analysis: stock navigates freight downturn",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/old-dominion-freight-lines-swot-analysis-stock-navigates-freight-downturn-93CH-4708215",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T16:52:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Turkish police force ousted opposition out of headquarters as crisis deepens",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/turkish-riot-police-enter-opposition-headquarters-to-evict-ousted-leadership-4708187",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T16:42:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "First Interstate BancSystem\u2019s SWOT analysis: stock faces balance sheet pressure",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/first-interstate-bancsystems-swot-analysis-stock-faces-balance-sheet-pressure-93CH-4708214",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T16:31:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canadian Prime Minister Carney to visit New York to court investors",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596516-canadian-prime-minister-carney-to-visit-new-york-to-court-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T16:28:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -275,44 +398,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Canadian firm weighs bid for U.K. broadband company KCom: Times",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596515-canadian-firm-weighs-bid-for-uk-broadband-company-kcom-times?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T16:19:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says there is no rush for Iran deal, US blockade stays",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T16:18:27+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "KLA Corporation\u2019s SWOT analysis: stock faces growth prospects amid conservative outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/kla-corporations-swot-analysis-stock-faces-growth-prospects-amid-conservative-outlook-93CH-4708213",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T16:11:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
@@ -324,53 +409,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Disney\u2019s \u2018Mandalorian and Grogu\u2019 opens strong, signals higher stakes for franchise films",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596513-disney-s-mandalorian-and-grogu-opens-strong-signals-higher-stakes-for-franchise-films?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T16:02:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hormuz shipping deal could ease energy shock, though bottlenecks remain",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596512-hormuz-shipping-deal-could-ease-energy-shock-though-bottlenecks-remain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T15:59:47+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Portfolio Moves Stock Market Investors Should Make Before the End of the Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d860c7e75124f6b769dc9d4fbb9fc393611f2c38d0d0b81d980d9713564041ae",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T15:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 ETFs Built for the Slower Summer Trading Season",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86b54984e20f10d0fa7f7c2689197a11f9343018cd23981436907ed018c303b7",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T15:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Americans are 'entrenched' in financial stress amid debt and price pressures",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html",
@@ -378,18 +416,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T15:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Did SpaceX\u2019s $28.5 Trillion Bombshell Reveal Elon Musk\u2019s Genius \u2014 or Peak Galaxy Brain?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=30f6cbd5f11f516eefa44ec9c5e39de4df223448352f4fd873374935338100c1",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T14:59:22+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -448,17 +474,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "\u2018We have longevity in the family\u2019: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T12:16:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Is It Too Late To Consider GE Vernova (GEV) After A 124% One Year Surge?",
       "source": "Yahoo",
@@ -482,6 +497,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T11:43:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "A Final Path To Peace? Markets Weekly Outlook",
       "source": "SeekingAlpha",
@@ -491,17 +517,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I\u2019m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won\u2019t get killed on taxes?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -523,17 +538,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-24T10:21:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T10:16:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
