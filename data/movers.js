@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T11:03:16.608106+00:00",
+  "generated_at": "2026-05-24T12:12:31.029583+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Reasons to Buy Roku Stock Like There's No Tomorrow\""
+      "move_reason": "News: \"Why Billionaire Stanley Druckenmiller Dumped Nvidia but Loaded Up on These 3 AI Infrastruc...\""
     },
     {
       "ticker": "PLTR",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump Wants Cuts, The Long End Needs Relief, And I'm Still Buying The Pullback\""
+      "move_reason": "News: \"SpaceX IPO: Should I Buy It, Or Wait?\""
     },
     {
       "ticker": "NBIS",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Reasons to Buy Roku Stock Like There's No Tomorrow\""
+      "move_reason": "News: \"Why Billionaire Stanley Druckenmiller Dumped Nvidia but Loaded Up on These 3 AI Infrastruc...\""
     },
     {
       "ticker": "OSCR",
