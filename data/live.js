@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-24T09:32:28.451616+00:00",
+  "generated_at": "2026-05-24T11:03:16.614048+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,172 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-24T09:32:28.448048+00:00",
+      "timestamp": "2026-05-24T11:03:16.610625+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Iran war deal 'largely negotiated'",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596500-tump-says-iran-war-deal-largely-negotiated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T10:53:42+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Qorvo\u2019s SWOT analysis: stock faces transition as Skyworks merger nears",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/qorvos-swot-analysis-stock-faces-transition-as-skyworks-merger-nears-93CH-4708169",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T10:42:59+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BioCryst Pharmaceuticals\u2019 SWOT analysis: stock eyes growth from pediatric expansion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/biocryst-pharmaceuticals-swot-analysis-stock-eyes-growth-from-pediatric-expansion-93CH-4708168",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T10:23:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T10:21:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T10:16:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump talks up his ballroom plan dozens of times but plays down Americans\u2019 economic pain",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/trump-talks-up-his-ballroom-plan-dozens-of-times-but-plays-down-americans-economic-pain-4708167",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T10:06:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "At least 24 killed in Pakistan train blast claimed by separatist militants",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/powerful-bomb-explosion-in-pakistans-quetta-kills-24-reports-say-4708157",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T10:00:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet\u2019s SWOT analysis: stock gains momentum on AI infrastructure expansion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/alphabets-swot-analysis-stock-gains-momentum-on-ai-infrastructure-expansion-93CH-4708166",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T09:58:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rewe weighs sale of Italy\u2019s Penny chain amid retail market challenges - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/rewe-weighs-sale-of-italys-penny-chain-amid-retail-market-challenges--bloomberg-4708165",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T09:56:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Reasons to Buy Roku Stock Like There's No Tomorrow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8d0980087ab4c4b9741e742c5e9b5fca873d75950b594bad2c015405df9f549",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T09:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "India, US discuss Middle East, trade as Rubio cites progress on Iran conflict",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/india-us-discuss-middle-east-trade-as-us-cites-progress-on-iran-conflict-4708155",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T09:42:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli fire kills parents and their infant in Gaza, medics say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-fire-kills-parents-and-their-infant-in-gaza-medics-say-4708164",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T09:36:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Where Will Costco Be in 5 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0983a7ff41b6486b5f181e6efdf1351438ecd78603e9b9fd7b18769f7a4cd99c",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T09:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia's Jensen Huang Just Delivered Big News to Shareholders. And It May Influence Your Decision on Whether to Buy Nvidia Stock Right Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db64cd7a7ec107b7cb2267fdf1de46a77930bd9adde9cd910dfc0f45037b382a",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T09:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -38,33 +200,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran deal \u2019largely negotiated\u2019, would reopen Strait of Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T09:12:31+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: ASML, Dell and Nokia flagged as top picks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-asml-dell-and-nokia-flagged-as-top-picks-4708070",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T09:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Torn by war, Israelis and Palestinians tie their fortunes together",
@@ -72,39 +207,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/05/24/nx-s1-5806030/palestinian-israeli-startups-50-50-northeastern",
       "is_watchlist": false,
       "timestamp": "2026-05-24T09:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kenvue\u2019s SWOT analysis: consumer health stock faces headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/kenvues-swot-analysis-consumer-health-stock-faces-headwinds-93CH-4708160",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T08:56:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin rises above $76,500 as Iran deal hopes support risk sentiment",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-76500-as-iran-deal-hopes-support-risk-sentiment-4708159",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T08:38:47+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fifth Third Bancorp\u2019s SWOT analysis: stock navigates acquisition integration",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/fifth-third-bancorps-swot-analysis-stock-navigates-acquisition-integration-93CH-4708158",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T08:35:48+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -123,75 +225,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Powerful bomb explosion in Pakistan\u2019s Quetta kills 24, reports say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/powerful-bomb-explosion-in-pakistans-quetta-kills-24-reports-say-4708157",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T08:18:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley\u2019s SWOT analysis: stock navigates trading strength amid fee pressures",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/morgan-stanleys-swot-analysis-stock-navigates-trading-strength-amid-fee-pressures-93CH-4708156",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T08:17:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "India, US discuss Middle East, trade as US cites progress on Iran conflict",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/india-us-discuss-middle-east-trade-as-us-cites-progress-on-iran-conflict-4708155",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T08:06:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Cava a Buy as Same-Store Sales Start to Sizzle?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed5ff7fa620a05ab68922b6e9287ed4bc2b2ac063d605fad17cdf0d85f14fc9b",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T07:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Here's the One Thing New Fed Chair Kevin Warsh Could Do That Would Actually Crash the Stock Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb8951be3b8f5b949ba4ac9a26efb939ef25875e48806c46def9a57f6701109a",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T07:25:00+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia Quietly Builds Major AI Portfolio Shaping Investor Risk And Optionality",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c6d64e9325bfdb153459826e1198c4c9846121f657e06b98221686cd31c2598",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T07:11:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -315,6 +348,17 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Pick: CVX"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Another pet supplies store operator files Chapter 11 bankruptcy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/another-pet-supplies-store-operator-203300293.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T20:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -463,17 +507,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I\u2019m 66 and have $85,000 in my HSA. When should I start spending it?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-66-and-have-85-000-in-my-hsa-should-i-spend-it-all-by-a-certain-age-66939bd9?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T16:21:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump to decide on Iran strikes by Sunday: Axios",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4596490-trump-to-decide-on-iran-strikes-by-sunday-axios?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -482,17 +515,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Real estate stocks outperform broader markets",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596485-real-estate-stocks-outperform-broader-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T16:00:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -537,17 +559,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-23T12:32:36+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T12:00:31+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -643,6 +654,61 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "He sued a Colorado police detective \u2014 and was just awarded $24 million. Here\u2019s what happened",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/sued-colorado-police-detective-just-083000364.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T08:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Riot Platforms (RIOT) the Best Aschenbrenner Stock To Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-riot-best-aschenbrenner-082245149.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T08:22:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Applied Digital (APLD) Price Target Raised at Needham by $3",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-price-target-082243851.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T08:22:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jefferies Sees Core Scientific (CORZ) Well Positioned for AI Infrastructure Demand Growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-core-scientific-corz-082242460.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T08:22:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IREN (IREN) Expands Brand Push with Awaken Acquisition",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-expands-brand-push-082240297.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-23T08:22:40+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -777,61 +843,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Morgan Stanley Increases Prices Target on Teradyne, Inc. (TER)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-increases-prices-target-044945796.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T04:49:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coinbase Global, Inc. (COIN) to Cut 14% of Workforce",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-cut-044938217.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T04:49:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tempus AI, Inc. (TEM) and Bristol Myers Announce a Strategic Partnership",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/tempus-ai-inc-tem-bristol-044924363.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T04:49:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump Praises Palantir (PLTR) on Truth Social after Buying the Company\u2019s Stock, Records Show",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-praises-palantir-pltr-truth-044917332.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T04:49:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CRISPR Therapeutics AG (CRSP) Reports Q1 2026 Results",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/crispr-therapeutics-ag-crsp-reports-044903897.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T04:49:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Another retail chain closing all stores after 33 years in business",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/articles/another-retail-chain-closing-stores-033300636.html",
@@ -849,17 +860,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-22T22:42:23+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley resets PANW stock price target on demand trends",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-panw-stock-223300963.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T22:33:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

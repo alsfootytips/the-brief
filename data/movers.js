@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T09:32:28.445440+00:00",
+  "generated_at": "2026-05-24T11:03:16.608106+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Cava a Buy as Same-Store Sales Start to Sizzle?\""
+      "move_reason": "News: \"3 Reasons to Buy Roku Stock Like There's No Tomorrow\""
     },
     {
       "ticker": "PLTR",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Cava a Buy as Same-Store Sales Start to Sizzle?\""
+      "move_reason": "News: \"3 Reasons to Buy Roku Stock Like There's No Tomorrow\""
     },
     {
       "ticker": "OSCR",
