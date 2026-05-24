@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T15:33:49.664223+00:00",
+  "generated_at": "2026-05-24T16:43:53.843490+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fluor Is Down 26%. Is It Finally Time to Buy?\""
+      "move_reason": "News: \"3 Portfolio Moves Stock Market Investors Should Make Before the End of the Year\""
     },
     {
       "ticker": "PLTR",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Moving From Measuring Markets To Measuring The Real Economy: The FTSE All-World GDP Adjust...\""
+      "move_reason": "News: \"A Final Path To Peace? Markets Weekly Outlook\""
     },
     {
       "ticker": "NBIS",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fluor Is Down 26%. Is It Finally Time to Buy?\""
+      "move_reason": "News: \"3 Portfolio Moves Stock Market Investors Should Make Before the End of the Year\""
     },
     {
       "ticker": "OSCR",

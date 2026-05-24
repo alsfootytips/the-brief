@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-24T15:33:49.669164+00:00",
+  "generated_at": "2026-05-24T16:43:53.849432+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,154 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-24T15:33:49.666236+00:00",
+      "timestamp": "2026-05-24T16:43:53.845973+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canadian Prime Minister Carney to visit New York to court investors",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596516-canadian-prime-minister-carney-to-visit-new-york-to-court-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T16:28:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Iran negotiations proceeding in 'orderly and constructive manner;' warns against rushing",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/24/trump-iran-war-talks.html",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T16:27:19+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canadian firm weighs bid for U.K. broadband company KCom: Times",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596515-canadian-firm-weighs-bid-for-uk-broadband-company-kcom-times?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T16:19:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says there is no rush for Iran deal, US blockade stays",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T16:18:27+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KLA Corporation\u2019s SWOT analysis: stock faces growth prospects amid conservative outlook",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/kla-corporations-swot-analysis-stock-faces-growth-prospects-amid-conservative-outlook-93CH-4708213",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T16:11:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T16:04:57+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Disney\u2019s \u2018Mandalorian and Grogu\u2019 opens strong, signals higher stakes for franchise films",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596513-disney-s-mandalorian-and-grogu-opens-strong-signals-higher-stakes-for-franchise-films?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T16:02:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hormuz shipping deal could ease energy shock, though bottlenecks remain",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596512-hormuz-shipping-deal-could-ease-energy-shock-though-bottlenecks-remain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T15:59:47+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Republic Services\u2019 SWOT analysis: stock navigates margin strength amid revenue concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/republic-services-swot-analysis-stock-navigates-margin-strength-amid-revenue-concerns-93CH-4708212",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T15:53:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hassett foresees oil relief, sees room for Fed cuts if energy prices fall",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596511-hassett-foresees-oil-relief-sees-room-for-fed-cuts-if-energy-prices-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T15:47:43+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Portfolio Moves Stock Market Investors Should Make Before the End of the Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d860c7e75124f6b769dc9d4fbb9fc393611f2c38d0d0b81d980d9713564041ae",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T15:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Qorvo\u2019s SWOT analysis: semiconductor stock navigates merger path",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/qorvos-swot-analysis-semiconductor-stock-navigates-merger-path-93CH-4708211",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T15:34:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -39,20 +183,27 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says no rush for Iran deal, US blockade stays",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 ETFs Built for the Slower Summer Trading Season",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86b54984e20f10d0fa7f7c2689197a11f9343018cd23981436907ed018c303b7",
       "is_watchlist": true,
-      "timestamp": "2026-05-24T15:06:24+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "timestamp": "2026-05-24T15:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kura Oncology\u2019s SWOT analysis: biotech stock faces launch test",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/kura-oncologys-swot-analysis-biotech-stock-faces-launch-test-93CH-4708210",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T15:15:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -79,6 +230,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Did SpaceX\u2019s $28.5 Trillion Bombshell Reveal Elon Musk\u2019s Genius \u2014 or Peak Galaxy Brain?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30f6cbd5f11f516eefa44ec9c5e39de4df223448352f4fd873374935338100c1",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T14:59:22+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Lumentum Holdings\u2019s SWOT analysis: optical stock rides AI wave",
       "source": "Investing.com News",
@@ -96,44 +259,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/economy-news/turkish-riot-police-enter-opposition-headquarters-to-evict-ousted-leadership-4708187",
       "is_watchlist": false,
       "timestamp": "2026-05-24T14:54:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran negotiations proceeding in 'orderly and constructive manner;' warns against rushing",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/24/trump-iran-war-talks.html",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T14:49:17+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Klaviyo\u2019s SWOT analysis: marketing automation stock faces growth transition",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/klaviyos-swot-analysis-marketing-automation-stock-faces-growth-transition-93CH-4708208",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T14:33:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Political turmoil rattles emerging markets as election risks mount",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596505-political-turmoil-rattles-emerging-markets-as-election-risks-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T14:31:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -162,39 +287,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Zebra Technologies\u2019 SWOT analysis: stock faces memory inflation headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/zebra-technologies-swot-analysis-stock-faces-memory-inflation-headwinds-93CH-4708206",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T14:10:53+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Investor frenzy for SpaceX IPO may overwhelm concerns about losses, governance",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596504-investor-frenzy-for-spacex-ipo-may-overwhelm-concerns-about-losses-governance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T14:02:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "India\u2019s central bank can let rupee slide further as macro fallout will be limited",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/indias-central-bank-can-let-rupee-slide-further-as-macro-fallout-will-be-limited-4708197",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T13:55:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "New Fed Chair Kevin Warsh suggests he may take an Alan Greenspan-style approach at the central bank",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/policy/article/new-fed-chair-kevin-warsh-suggests-he-may-take-an-alan-greenspan-style-approach-at-the-central-bank-135046787.html",
@@ -203,40 +295,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Fluor Is Down 26%. Is It Finally Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ab088f1d57a7dcf12ffd6f431fc5a4f7da81cddb8cde9ff9ddac0711c195d19",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T13:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alkami Technology\u2019s SWOT analysis: stock faces growth headwinds amid buyout talk",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/alkami-technologys-swot-analysis-stock-faces-growth-headwinds-amid-buyout-talk-93CH-4708204",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T13:48:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I\u2019ve worked with over 1,000 kids\u2014the ones with the best people skills use these 6 phrases",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/24/kids-with-the-best-people-skills-use-these-6-phrases-therapist.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T13:34:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -252,17 +310,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Quant snapshot: Diana Shipping, National Bank of Canada among top-rated names as Pony AI, Alarum Technologies lag",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596020-quant-snapshot-diana-shipping-national-bank-of-canada-among-top-rated-names-as-pony-ai-alarum-technologies-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T13:30:12+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Boosting retirement savings has a less-appreciated benefit",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/24/retirement-savings-contributions.html",
@@ -270,18 +317,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T13:30:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia Just Raised Its Dividend by 2,400%. Is the AI Growth Stock a No-Brainer Buy Before the End of May?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93dfcc273db7b1e51ca68aa2b8742628cae73e8f873bf0969ce630550d936c26",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T13:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -296,46 +331,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Two Vanguard Tickers. One Brokerage Account. Passive Income Lands in It Every Month.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0389f669d8756372971e902a7ca9682b277d985d0b66097e138732342e70540",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T13:15:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: UnitedHealth, Boston Scientific, and Eli Lilly in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596445-notable-healthcare-headlines-for-the-week-unitedhealth-boston-scientific-and-eli-lilly-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T13:05:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-24T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Centerbridge is said to near deal for stake in Merritt Properties at roughly $3B valuation",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596503-centerbridge-is-said-to-near-deal-for-stake-in-merritt-properties-at-roughly-3b-valuation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T12:59:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -394,6 +395,29 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T12:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T11:43:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "A Final Path To Peace? Markets Weekly Outlook",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e986cc0c83d17f6be2e71d7843d36973b68f8f7618813c0c90449e5ef9f12228",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T11:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -474,18 +498,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T09:00:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "SpaceX IPO: Should I Buy It, Or Wait?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=754069ff190d6839eb51f93debbc56ca04cf56cb32f90647ba1a2afb866d7942",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T07:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -854,17 +866,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-23T05:07:19+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Another retail chain closing all stores after 33 years in business",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/another-retail-chain-closing-stores-033300636.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-23T03:33:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
