@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-23T23:58:48.852816+00:00",
+  "generated_at": "2026-05-24T04:22:44.348689+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TTD vs. MGNI: Which Ad-Tech Stock Is the Smarter Pick Now?\""
+      "move_reason": "News: \"Why The Trade Desk (TTD) Stock Is Up Today\""
     },
     {
       "ticker": "AMD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why AMD (AMD) Stock Is Up Today\""
+      "move_reason": "News: \"Why This Fund Sold $11 Million of BILL Stock Despite a $1 Billion Buyback Plan\""
     },
     {
       "ticker": "APA",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Spectacular Growth Stock to Buy Before It Soars by as Much as 124%, According to Wall St...\""
+      "move_reason": "News: \"2 Stocks With Monster Potential to Hold Through the Next Decade of Uncertainty\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why AMD (AMD) Stock Is Up Today\""
+      "move_reason": "News: \"Why This Fund Sold $11 Million of BILL Stock Despite a $1 Billion Buyback Plan\""
     },
     {
       "ticker": "APA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Spectacular Growth Stock to Buy Before It Soars by as Much as 124%, According to Wall St...\""
+      "move_reason": "News: \"2 Stocks With Monster Potential to Hold Through the Next Decade of Uncertainty\""
     },
     {
       "ticker": "OSCR",
@@ -490,7 +490,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TTD vs. MGNI: Which Ad-Tech Stock Is the Smarter Pick Now?\""
+      "move_reason": "News: \"Why The Trade Desk (TTD) Stock Is Up Today\""
     },
     {
       "ticker": "XLE",
