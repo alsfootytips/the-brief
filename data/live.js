@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-24T21:12:11.563512+00:00",
+  "generated_at": "2026-05-24T22:12:42.212239+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,255 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-24T21:12:11.559974+00:00",
+      "timestamp": "2026-05-24T22:12:42.208848+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mohawk Industries\u2019 SWOT analysis: flooring stock faces headwinds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/mohawk-industries-swot-analysis-flooring-stock-faces-headwinds-93CH-4708239",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:02:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Monday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596517-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:00:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morgan Stanley Sees Utilities Lagging as it Lowers Southern Company (SO) Target",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-utilities-lagging-215426417.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:54:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Dow Jones Futures: Trump Says No 'Rush' For Iran Deal; Tesla, AI Stocks Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T21:53:59+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Camtek\u2019s SWOT analysis: stock faces valuation debate amid AI growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/camteks-swot-analysis-stock-faces-valuation-debate-amid-ai-growth-93CH-4708238",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:50:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbb2d78006fc6ace73f5850ddfe2e5d26697daa2f3485d0dc2fdf50b28240545",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T21:50:00+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: AMD"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbb2d78006fc6ace73f5850ddfe2e5d26697daa2f3485d0dc2fdf50b28240545",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T21:50:00+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: AMD"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is The Cigna Group (CI) One of the Best Dividend Growth Stocks to Buy and Hold for 3 Years?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/cigna-group-ci-one-best-214951758.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:49:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The TJX Companies (TJX) \u2013 Among the 10 Best Dividend Growth Stocks to Buy and Hold for 3 Years",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-among-10-214717224.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:47:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Piper Sandler Sees Pressure on Tractor Supply (TSCO) from Weak Pet Spending Trends",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-sees-pressure-tractor-214429521.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:44:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says there is no rush for Iran deal, US blockade stays",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T21:42:29+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argus Research Sees Long-Term Growth Ahead for Applied Materials (AMAT)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/argus-research-sees-long-term-214208252.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:42:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "This Billionaire Dumped Cloud Stocks for These New AI Stocks. Should Investors Follow Suit?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7df33448d10b7337f53fa6b76bc47ccb9bd20f504a737f3292c20c9d4485f546",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T21:38:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JOYY Q1 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596403-joyy-q1-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2019Potential crack\u2019 in California chemical tank may prevent explosion, fire official says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/possible-fissure-in-california-chemical-tank-may-help-prevent-explosion-fire-official-says-4708231",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:30:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Edgewell Personal Care\u2019s SWOT analysis: stock navigates transition amid divestiture challenges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/edgewell-personal-cares-swot-analysis-stock-navigates-transition-amid-divestiture-challenges-93CH-4708237",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:27:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin slips as U.S.-Iran peace deal hopes offset by crypto ETF outflows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-76500-as-iran-deal-hopes-support-risk-sentiment-4708159",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:26:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4708236",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:20:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Google Just Shared Bad News for Nvidia, and Even Worse News For CoreWeave and Nebius",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0cdcc0f300aaec8dd9214067066260882bd510715ae4942ca5966e2190ff59e2",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. markets pause for Memorial Day as futures trading shifts to holiday hours",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596531-u-s-markets-pause-for-memorial-day-as-futures-trading-shifts-to-holiday-hours?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:18:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AGCO\u2019s SWOT analysis: stock faces regional challenges amid production shift",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/agcos-swot-analysis-stock-faces-regional-challenges-amid-production-shift-93CH-4708235",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T21:05:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -40,116 +285,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Underlying relationship between equities and rates shaping market - Goldman Sachs",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/underlying-relationship-between-equities-and-rates-shaping-market--goldman-sachs-4708234",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:58:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Turkish police force ousted opposition out of headquarters as crisis deepens",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/turkish-riot-police-enter-opposition-headquarters-to-evict-ousted-leadership-4708187",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:48:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Linde\u2019s SWOT analysis: industrial gas giant stock eyes growth acceleration",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/lindes-swot-analysis-industrial-gas-giant-stock-eyes-growth-acceleration-93CH-4708233",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:45:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "China\u2019s luxury EV push takes aim at Rolls-Royce and Mercedes at a fraction of the price",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4596514-china-s-luxury-ev-push-takes-aim-at-rolls-royce-and-mercedes-at-a-fraction-of-the-price?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-24T20:31:37+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Possible fissure in California chemical tank may help prevent explosion, fire official says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/possible-fissure-in-california-chemical-tank-may-help-prevent-explosion-fire-official-says-4708231",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:30:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Forensic experts sift through ruined dormitory in Russian-held Luhansk region",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/forensic-experts-sift-through-ruined-dormitory-in-russianheld-luhansk-region-4708225",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:30:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "LATAM Airlines\u2019 SWOT analysis: stock eyes premium growth path",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/latam-airlines-swot-analysis-stock-eyes-premium-growth-path-93CH-4708232",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:25:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says there is no rush for Iran deal, US blockade stays",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T20:24:26+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Space rockets, satellites, data centers and Grok: What's the right S&P sector index for SpaceX?",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/24/spacex-sp-sector-index.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:19:04+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Uber weighs higher bid for Delivery Hero, FT reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/uber-weighs-higher-bid-for-delivery-hero-ft-reports-4708228",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:18:31+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -175,22 +316,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Dow Jones Futures: Trump Says No 'Rush' For Iran Deal, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T20:09:14+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
@@ -198,17 +323,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-24T20:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman sees Wall Street bracing for more stock supply as AI trade crowds higher",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596525-goldman-sees-wall-street-bracing-for-more-stock-supply-as-ai-trade-crowds-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:02:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -227,28 +341,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "ECB pushes banks to speed cyber defenses as AI threats escalate",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596527-ecb-pushes-banks-to-speed-cyber-defenses-as-ai-threats-escalate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T19:44:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bond market alarm bells ring as SocGen\u2019s Albert Edwards warns of echoes of 2007",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596523-bond-market-alarm-bells-ring-as-socgen-s-albert-edwards-warns-of-echoes-of-2007?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T19:31:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018He didn\u2019t really pay attention\u2019: I told my friend he left millions on the table in retirement. Did I do the right thing?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
@@ -256,42 +348,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T19:17:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Missed the First AI Wave? These 3 Stocks Are Still Genius Picks.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca523f9ecaa84971bd42e6dc038a7df1b889b7c01c15320a0975ce2a5ed83d9f",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T19:01:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The \u2018Stock Market Maestros\u2019 Author Has a Brutally Simple Rule for Long-Term Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fcc85d849156c4aa58b4550ddb378362876477fabbe60f67ff0ae33d5572a12",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T18:56:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is It Too Late to Buy Nvidia Stock? Here's What the Numbers Say.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=330e8c4d5ed5550dea53f233c179ee763ec1a31a7ca13c0624d475304682a11e",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T18:45:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -318,67 +374,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Shell (SHEL) Upgraded to Buy Following ARC Resources Deal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/shell-shel-upgraded-buy-following-173031419.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:30:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Duke Energy (DUK) Price Target Lowered by $5",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/duke-energy-duk-price-target-173016048.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:30:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lowe\u2019s Companies (LOW) Price Target Trimmed by $32 at RBC Capital",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lowe-companies-low-price-target-172941024.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:29:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analyst Upgrades Automatic Data Processing (ADP) to \u2018Equal Weight\u2019, Assigns $214 Price Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-upgrades-automatic-data-processing-172920208.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:29:20+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
       "is_watchlist": false,
       "timestamp": "2026-05-24T17:26:32+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:26:32+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -441,6 +442,29 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T15:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Americans are 'entrenched' in financial stress amid debt and price pressures",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T15:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "APA",
+      "headline": "Alaska's oil revival sparks a new energy rush into the Arctic",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc45b26ddaf9fac79244de7247d213ec2697aaf8288a84cbbf46f1078147f43e",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T14:15:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -520,17 +544,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:43:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -648,18 +661,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T01:02:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Qorvo, Allegro MicroSystems, and Lattice Semiconductor Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4395f9385011a3ef11d2a16fc5d9c8c4cf70669c3932a22f17f190e39389fb3",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T23:56:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -917,6 +918,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-22T22:42:23+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "AI may speed up search for drugs to treat brain conditions",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
@@ -1072,18 +1084,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-22T14:55:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "MCN: Discount Now Makes This A More Appealing Choice (Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=836cda7440bc375312fcd40352bbbbf1bfc0fab66e72702276498a6b265998d1",
-      "is_watchlist": true,
-      "timestamp": "2026-05-22T14:53:57+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
       "relevance_label": "Watchlist"
     },
     {

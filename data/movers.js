@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T21:12:11.557384+00:00",
+  "generated_at": "2026-05-24T22:12:42.206306+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices: 3 Things Favor This Nvidia Competitor, Reiterate Strong Buy\""
+      "move_reason": "News: \"The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom\""
     },
     {
       "ticker": "APA",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alaska\u2019s Oil Revival Sparks a New Energy Rush Into the Arctic\""
+      "move_reason": "News: \"Alaska's oil revival sparks a new energy rush into the Arctic\""
     },
     {
       "ticker": "OSCR",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Missed the First AI Wave? These 3 Stocks Are Still Genius Picks.\""
+      "move_reason": "News: \"The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices: 3 Things Favor This Nvidia Competitor, Reiterate Strong Buy\""
+      "move_reason": "News: \"The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom\""
     },
     {
       "ticker": "APA",
@@ -358,7 +358,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alaska\u2019s Oil Revival Sparks a New Energy Rush Into the Arctic\""
+      "move_reason": "News: \"Alaska's oil revival sparks a new energy rush into the Arctic\""
     },
     {
       "ticker": "CRWV",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Missed the First AI Wave? These 3 Stocks Are Still Genius Picks.\""
+      "move_reason": "News: \"The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom\""
     },
     {
       "ticker": "OSCR",
