@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T12:12:31.029583+00:00",
+  "generated_at": "2026-05-24T14:02:44.461851+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why This Fund Sold $11 Million of BILL Stock Despite a $1 Billion Buyback Plan\""
+      "move_reason": "News: \"Advanced Micro Devices: 3 Things Favor This Nvidia Competitor, Reiterate Strong Buy\""
     },
     {
       "ticker": "APA",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Billionaire Stanley Druckenmiller Dumped Nvidia but Loaded Up on These 3 AI Infrastruc...\""
+      "move_reason": "News: \"Fluor Is Down 26%. Is It Finally Time to Buy?\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why This Fund Sold $11 Million of BILL Stock Despite a $1 Billion Buyback Plan\""
+      "move_reason": "News: \"Advanced Micro Devices: 3 Things Favor This Nvidia Competitor, Reiterate Strong Buy\""
     },
     {
       "ticker": "APA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Billionaire Stanley Druckenmiller Dumped Nvidia but Loaded Up on These 3 AI Infrastruc...\""
+      "move_reason": "News: \"Fluor Is Down 26%. Is It Finally Time to Buy?\""
     },
     {
       "ticker": "OSCR",
