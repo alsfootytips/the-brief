@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T18:52:25.072131+00:00",
+  "generated_at": "2026-05-24T20:06:30.529159+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Favorite Holdings: 3 Stocks Worth Owning for a Lifetime\""
+      "move_reason": "News: \"Missed the First AI Wave? These 3 Stocks Are Still Genius Picks.\""
     },
     {
       "ticker": "PLTR",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Favorite Holdings: 3 Stocks Worth Owning for a Lifetime\""
+      "move_reason": "News: \"Missed the First AI Wave? These 3 Stocks Are Still Genius Picks.\""
     },
     {
       "ticker": "OSCR",
