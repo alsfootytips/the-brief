@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T14:02:44.461851+00:00",
+  "generated_at": "2026-05-24T15:33:49.664223+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX IPO: Should I Buy It, Or Wait?\""
+      "move_reason": "News: \"Moving From Measuring Markets To Measuring The Real Economy: The FTSE All-World GDP Adjust...\""
     },
     {
       "ticker": "NBIS",
