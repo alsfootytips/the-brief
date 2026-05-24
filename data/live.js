@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-24T22:12:42.212239+00:00",
+  "generated_at": "2026-05-24T23:16:47.585477+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,190 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-24T22:12:42.208848+00:00",
+      "timestamp": "2026-05-24T23:16:47.581850+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Oil prices fall more than 4% after Trump says Iran talks proceeding in a 'constructive manner'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T23:13:54+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is the stock market closed on Memorial Day? Does the post office deliver mail?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T23:09:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T23:07:00+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cirrus Logic\u2019s SWOT analysis: semiconductor stock faces valuation questions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/cirrus-logics-swot-analysis-semiconductor-stock-faces-valuation-questions-93CH-4708243",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T23:00:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil slips to 2-week low as US-Iran seen moving closer to peace deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-more-than-4-as-us-iran-remain-at-odds-over-peace-deal-4708240",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:48:27+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+      "is_watchlist": true,
+      "timestamp": "2026-05-24T22:46:52+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "XPO\u2019s SWOT analysis: stock gains momentum in LTL market",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/xpos-swot-analysis-stock-gains-momentum-in-ltl-market-93CH-4708242",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:41:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil slides, stocks rise as markets bet on Hormuz breakthrough",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4596534-oil-prices-fall-as-u-s-iran-dispute-clouds-strait-of-hormuz-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:41:50+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:23:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tradeweb Markets\u2019 SWOT analysis: stock faces market share challenges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/tradeweb-markets-swot-analysis-stock-faces-market-share-challenges-93CH-4708241",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:21:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-hrl-one-10-222050272.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:20:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "T. Rowe Price Group (TROW) \u2013 Among the 10 High Yield Stocks for Lasting Retirement Income",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-group-trow-221841573.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:18:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morgan Stanley Trims Edison International (EIX) Price Forecast After April Utility Review",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-trims-edison-international-221458021.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:14:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mid-America Apartment Communities (MAA) Faces Lower Rent Growth Expectations, Scotiabank Says",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mid-america-apartment-communities-maa-221217490.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:12:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morgan Stanley Sees Broader Turnaround Emerging at Franklin Resources (BEN)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-broader-turnaround-220941414.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T22:09:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -47,33 +227,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T22:00:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley Sees Utilities Lagging as it Lowers Southern Company (SO) Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-utilities-lagging-215426417.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:54:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Dow Jones Futures: Trump Says No 'Rush' For Iran Deal; Tesla, AI Stocks Near Buy Points",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T21:53:59+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -111,39 +264,6 @@ window.theBriefLive = {
       "relevance_label": "Pick: AMD"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is The Cigna Group (CI) One of the Best Dividend Growth Stocks to Buy and Hold for 3 Years?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/cigna-group-ci-one-best-214951758.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:49:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The TJX Companies (TJX) \u2013 Among the 10 Best Dividend Growth Stocks to Buy and Hold for 3 Years",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-among-10-214717224.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:47:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Piper Sandler Sees Pressure on Tractor Supply (TSCO) from Weak Pet Spending Trends",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-sees-pressure-tractor-214429521.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:44:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -158,17 +278,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Argus Research Sees Long-Term Growth Ahead for Applied Materials (AMAT)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/argus-research-sees-long-term-214208252.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:42:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -206,39 +315,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Edgewell Personal Care\u2019s SWOT analysis: stock navigates transition amid divestiture challenges",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/edgewell-personal-cares-swot-analysis-stock-navigates-transition-amid-divestiture-challenges-93CH-4708237",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:27:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin slips as U.S.-Iran peace deal hopes offset by crypto ETF outflows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-76500-as-iran-deal-hopes-support-risk-sentiment-4708159",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:26:49+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4708236",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Google Just Shared Bad News for Nvidia, and Even Worse News For CoreWeave and Nebius",
       "source": "Yahoo",
@@ -257,17 +333,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4596531-u-s-markets-pause-for-memorial-day-as-futures-trading-shifts-to-holiday-hours?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-24T21:18:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AGCO\u2019s SWOT analysis: stock faces regional challenges amid production shift",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/agcos-swot-analysis-stock-faces-regional-challenges-amid-production-shift-93CH-4708235",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T21:05:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -307,17 +372,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SA Asks: What are the most attractive biotech stocks right now?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4596529-sa-asks-what-are-the-most-attractive-biotech-stocks-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:13:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
@@ -325,18 +379,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T20:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump not rushing Iran deal, whacks critics as 'losers'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/24/trump-iran-war-talks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T20:00:15+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -381,33 +423,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-24T17:26:32+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is the stock market closed on Memorial Day? Does the post office deliver mail?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T17:24:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says there\u2019s no rush as deal to end Iran war, reopen Strait of Hormuz appears close",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
-      "is_watchlist": true,
-      "timestamp": "2026-05-24T16:55:00+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -503,17 +518,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Top Wall Street analysts like these dividend stocks for steady income",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
@@ -544,6 +548,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Move over, seltzer. Non-carbonated drinks are taking the spotlight",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/24/move-over-seltzer-non-carbonated-drinks-are-taking-the-spotlight.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T12:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -912,17 +927,6 @@ window.theBriefLive = {
       "url": "https://www.bloomberg.com/news/articles/2026-05-21/latest-oil-market-news-and-analysis-for-may-22",
       "is_watchlist": false,
       "timestamp": "2026-05-23T05:07:19+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-22T22:42:23+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
