@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T07:37:30.152608+00:00",
+  "generated_at": "2026-05-24T09:32:28.445440+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Cryptocurrencies to Watch as the Clarity Act Heads to the Senate\""
+      "move_reason": "News: \"Is Cava a Buy as Same-Store Sales Start to Sizzle?\""
     },
     {
       "ticker": "PLTR",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Cryptocurrencies to Watch as the Clarity Act Heads to the Senate\""
+      "move_reason": "News: \"Is Cava a Buy as Same-Store Sales Start to Sizzle?\""
     },
     {
       "ticker": "OSCR",

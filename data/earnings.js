@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-24T07:37:30+00:00",
+  "generated_at": "2026-05-24T09:32:28+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -2001,6 +2001,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CURV",
+        "date": "2026-06-04",
+        "hour": "amc",
+        "eps_estimate": -0.0085,
+        "revenue_estimate": 246393413,
+        "is_watchlist": false
+      },
+      {
         "ticker": "DOCU",
         "date": "2026-06-04",
         "hour": "",
@@ -2038,6 +2046,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.3198,
         "revenue_estimate": 60551520,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GWRE",
+        "date": "2026-06-04",
+        "hour": "amc",
+        "eps_estimate": 0.7587,
+        "revenue_estimate": 363104995,
         "is_watchlist": false
       },
       {
