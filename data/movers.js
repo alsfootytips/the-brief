@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T20:06:30.529159+00:00",
+  "generated_at": "2026-05-24T21:12:11.557384+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 S&P 500 Stocks on Our Buy List and 1 That Underwhelm\""
+      "move_reason": "News: \"Alaska\u2019s Oil Revival Sparks a New Energy Rush Into the Arctic\""
     },
     {
       "ticker": "OSCR",
@@ -358,7 +358,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 S&P 500 Stocks on Our Buy List and 1 That Underwhelm\""
+      "move_reason": "News: \"Alaska\u2019s Oil Revival Sparks a New Energy Rush Into the Arctic\""
     },
     {
       "ticker": "CRWV",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Final Path To Peace? Markets Weekly Outlook\""
+      "move_reason": "News: \"Why Are Global Investors Looking To Asia As An Investment Destination?\""
     },
     {
       "ticker": "NBIS",
