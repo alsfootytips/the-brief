@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-25T06:11:05.469485+00:00",
+  "generated_at": "2026-05-25T10:49:24.441385+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Litecoin a Better Buy Than Bitcoin Right Now?\""
+      "move_reason": "News: \"NVIDIA CORP (NASDAQ:NVDA) Stands Out as a Strong Growth Stock with a Good Technical Setup\""
     },
     {
       "ticker": "PLTR",
@@ -382,7 +382,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 S&P 500 Stock to Target This Week and 2 That Underwhelm\""
+      "move_reason": "News: \"With Consumer Sentiment at a Record Low, Could These 2 Value Retailers See a Boost in 2026...\""
     },
     {
       "ticker": "GEV",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Are Global Investors Looking To Asia As An Investment Destination?\""
+      "move_reason": "News: \"The US-Iran War: Deal Unlikely, Brace For Inflationary Shock\""
     },
     {
       "ticker": "NBIS",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Litecoin a Better Buy Than Bitcoin Right Now?\""
+      "move_reason": "News: \"NVIDIA CORP (NASDAQ:NVDA) Stands Out as a Strong Growth Stock with a Good Technical Setup\""
     },
     {
       "ticker": "OSCR",

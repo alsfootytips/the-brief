@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-25T06:11:05+00:00",
+  "generated_at": "2026-05-25T10:49:24+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -1055,14 +1055,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PLUS",
-        "date": "2026-05-27",
-        "hour": "amc",
-        "eps_estimate": 0.9996,
-        "revenue_estimate": 580635000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "SNOW",
         "date": "2026-05-27",
         "hour": "amc",
@@ -1366,6 +1358,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.5508,
         "revenue_estimate": 220994220,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PLUS",
+        "date": "2026-05-28",
+        "hour": "amc",
+        "eps_estimate": 0.9996,
+        "revenue_estimate": 580635000,
         "is_watchlist": false
       },
       {
@@ -1905,6 +1905,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "AGX",
+        "date": "2026-06-04",
+        "hour": "",
+        "eps_estimate": 2.3331,
+        "revenue_estimate": 258587068,
+        "is_watchlist": false
+      },
+      {
         "ticker": "AVD",
         "date": "2026-06-04",
         "hour": "",
@@ -2142,6 +2150,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -1.122,
         "revenue_estimate": 202357800,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PYYX",
+        "date": "2026-06-04",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
