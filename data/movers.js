@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-25T01:31:57.981169+00:00",
+  "generated_at": "2026-05-25T06:11:05.469485+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For\""
+      "move_reason": "News: \"Is Litecoin a Better Buy Than Bitcoin Right Now?\""
     },
     {
       "ticker": "PLTR",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For\""
+      "move_reason": "News: \"Is Litecoin a Better Buy Than Bitcoin Right Now?\""
     },
     {
       "ticker": "OSCR",
@@ -454,7 +454,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Brent Crude Is Up 85% Since January. OXY, XOM, and CVX Are Playing It Very Differently.\""
+      "move_reason": "News: \"Occidental Petroleum: Preferred Stock Time\""
     },
     {
       "ticker": "PWR",
