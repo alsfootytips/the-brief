@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-25T14:09:11.186551+00:00",
+  "generated_at": "2026-05-25T16:32:40.635539+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Math That Should Terrify Index Investors: AI Chips Account for Nearly All S&P 500 Gain...\""
+      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It\""
     },
     {
       "ticker": "APA",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLI sector (+0.73% today)"
+      "move_reason": "News: \"3 Top-Ranked AI Construction Stocks With Double-Digit Near-Term Upside\""
     },
     {
       "ticker": "USO",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Super Micro Computer's Sales More Than Doubled Last Quarter. Here's Why I'd Still Stay Far...\""
+      "move_reason": "News: \"SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive...\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Math That Should Terrify Index Investors: AI Chips Account for Nearly All S&P 500 Gain...\""
+      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It\""
     },
     {
       "ticker": "APA",
@@ -382,7 +382,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"With Consumer Sentiment at a Record Low, Could These 2 Value Retailers See a Boost in 2026...\""
+      "move_reason": "News: \"Everpure Gears Up to Report Q1 Earnings: What's in the Offing?\""
     },
     {
       "ticker": "GEV",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Russell 2000 Index: The Original Benchmark For U.S. Small Caps\""
+      "move_reason": "News: \"Business Conditions Monthly March 2026\""
     },
     {
       "ticker": "NBIS",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Super Micro Computer's Sales More Than Doubled Last Quarter. Here's Why I'd Still Stay Far...\""
+      "move_reason": "News: \"SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive...\""
     },
     {
       "ticker": "OSCR",
@@ -466,7 +466,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLI sector (+0.73% today)"
+      "move_reason": "News: \"3 Top-Ranked AI Construction Stocks With Double-Digit Near-Term Upside\""
     },
     {
       "ticker": "TPL",
