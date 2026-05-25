@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-25T18:16:18.190624+00:00",
+  "generated_at": "2026-05-25T20:10:03.165143+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It\""
+      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Plans to Invest more than $10B in Taiwan\u2019s AI Market\""
     },
     {
       "ticker": "APA",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Iran: It Ain't Over 'Til It's Over\""
+      "move_reason": "News: \"Leading And Lagging Sectors For May 25, 2026\""
     },
     {
       "ticker": "XOP",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMC Entertainment, Nvidia, Arm Holdings And More: 5 Stocks Investors Couldn't Stop Buzzing...\""
+      "move_reason": "News: \"Forget Nvidia: IREN CEO Says A New AI Factory Built Today May Not Go Live Until 2030\""
     },
     {
       "ticker": "CRWV",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Discusses \u201cSilly\u201d Thing About Arm Holdings (ARM)\""
+      "move_reason": "News: \"Why Did Nvidia Raise Its Dividend by 2,400%?\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It\""
+      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Plans to Invest more than $10B in Taiwan\u2019s AI Market\""
     },
     {
       "ticker": "APA",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones, Nasdaq And S&P 500 Intraday Levels - Markets Are Closed, But Futures Are Explod...\""
+      "move_reason": "News: \"Inflation Troubles, Now And Ahead\""
     },
     {
       "ticker": "NBIS",
@@ -418,7 +418,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMC Entertainment, Nvidia, Arm Holdings And More: 5 Stocks Investors Couldn't Stop Buzzing...\""
+      "move_reason": "News: \"Forget Nvidia: IREN CEO Says A New AI Factory Built Today May Not Go Live Until 2030\""
     },
     {
       "ticker": "NVDA",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Discusses \u201cSilly\u201d Thing About Arm Holdings (ARM)\""
+      "move_reason": "News: \"Why Did Nvidia Raise Its Dividend by 2,400%?\""
     },
     {
       "ticker": "OSCR",
@@ -502,7 +502,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Iran: It Ain't Over 'Til It's Over\""
+      "move_reason": "News: \"Leading And Lagging Sectors For May 25, 2026\""
     }
   ],
   "indices": [
