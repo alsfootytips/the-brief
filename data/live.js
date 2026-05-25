@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-25T20:10:03.171053+00:00",
+  "generated_at": "2026-05-25T21:34:48.308082+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,114 @@ window.theBriefLive = {
       "change_pct": 4.61,
       "price": 22.26,
       "is_watchlist": true,
-      "timestamp": "2026-05-25T20:10:03.167561+00:00",
+      "timestamp": "2026-05-25T21:34:48.304568+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cuba publishes list of prisoners released following April amnesty",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/cuba-publishes-list-of-prisoners-released-following-april-amnesty-4708648",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T21:00:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MSCI\u2019s SWOT analysis: stock shows momentum amid market headwinds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/mscis-swot-analysis-stock-shows-momentum-amid-market-headwinds-93CH-4708647",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T20:58:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Oil prices fall 7% after Trump says Iran talks are 'proceeding nicely'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
+      "is_watchlist": true,
+      "timestamp": "2026-05-25T20:53:21+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "W.R. Berkley\u2019s SWOT analysis: insurance stock faces growth concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/swot-analysis/wr-berkleys-swot-analysis-insurance-stock-faces-growth-concerns-93CH-4708646",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T20:36:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Senegal president names economist Lo as prime minister",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/senegal-president-names-economist-lo-as-prime-minister-4708640",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T20:36:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Justice Department seeks to lift injunction on ballroom project after shooting",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-justice-department-seeks-to-lift-injunction-on-ballroom-project-after-shooting-4708557",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T20:30:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada stocks higher at close of trade; S&P/TSX Composite up 1.04%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-104-4708644",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T20:30:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia threatens strikes on Kyiv defence sites, urges foreigners to leave",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/missile-and-drone-strikes-kill-eight-in-russia-and-ukraine-4708527",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T20:30:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brazil stocks higher at close of trade; Bovespa up 0.91%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-091-4708643",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T20:30:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -94,67 +198,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "VICI Properties\u2019 SWOT analysis: stock faces lease concerns amid valuation debate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/vici-properties-swot-analysis-stock-faces-lease-concerns-amid-valuation-debate-93CH-4708638",
+      "headline": "Israel will escalate strikes against Hezbollah in Lebanon, Netanyahu says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHZ6T3ItVElkd1cyWVlNX3VOM05DeUY3bEJGb3QwT1R0SGFQejVzUVI4Z19DZlhwYjNDQ0FVMlBlekEzMkhNYXNDY3lySzZzNUNPUy1uWWpkMl92NGhhNXFfUEViZXZMeDhMbTAxSTZPY3NvMTJ3c2t1cjc1THJxeTU2ZEl2VUtrSTNvbWdhSV9iVEllVXh2bHhKRmhmVW5JYndlemFyblU1bk14bUMzUjBJNVd5SzhXQzZSTy1UYTVIbnhLTnc?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-25T19:38:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EU plans to fine Google high triple-digit million euro sum, Handelsblatt reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/eu-plans-to-fine-google-high-tripledigit-million-euro-sum-handelsblatt-reports-4708627",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T19:24:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil tumbles nearly 7% as US and Iran seen moving closer to deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-falls-more-than-4-as-us-iran-remain-at-odds-over-peace-deal-4708240",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T19:18:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Roper Technologies\u2019 SWOT analysis: stock faces growth headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/roper-technologies-swot-analysis-stock-faces-growth-headwinds-93CH-4708637",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T19:18:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Lattice Semiconductor tops Q1 2026 earnings estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lattice-semiconductor-tops-q1-2026-earnings-estimates-93CH-4708636",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T19:07:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "LegalZoom.com\u2019s SWOT analysis: stock navigates growth reset",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/swot-analysis/legalzoomcoms-swot-analysis-stock-navigates-growth-reset-93CH-4708635",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T18:56:58+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-25T19:39:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -171,28 +220,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Cementos Argos misses Q1 2026 EPS, revenue exceeds forecast",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cementos-argos-misses-q1-2026-eps-revenue-exceeds-forecast-93CH-4708634",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T18:44:47+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meloni coalition wins Venice mayoral vote, defying polls",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/meloni-coalition-wins-venice-mayoral-vote-defying-polls-4708633",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T18:42:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "The $2 Trillion Underwriting Case: Inside Chamath\u2019s Blockbuster SpaceX Math",
       "source": "Yahoo",
@@ -202,6 +229,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fire at Belgian town almost put out, smoke to fade during the night - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmtEWUpyV19xR0x0WDc2bmpIWXBSNnFsd3pVYXpoSTl0bDB6U2hsU2M4XzUzdWdWdTR3YURKNWEyeU14SUp0ZGFOWW5Ra3N5YlpCLUtRcTdBOVI0MFFjczIxd2NTWlJBR2tTRk9RU3RLdzdob05NclZQTWx4b3JiVDZ4UFNPYnBaZFZVek1KRXg2R0Q1ZUFhRVoyeE1HMzNzX0FRX2RDVGdyZUxleXpJ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T18:31:25+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -487,17 +525,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here are the 3 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/25/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:03:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I\u2019m selling my $1 million home. Will my agent really charge less than a 6% commission?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
@@ -587,28 +614,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "European stocks highest since March 2 as U.S.-Iran talks continue; euro zone bond yields drop on peace hopes",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/25/european-stocks-us-iran-talks-continue-markets-oil.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T12:36:21+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sri Lanka in talks to buy fuel from China and Russia, minister says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczNRbFI2bmRScXpPZ2hpbm1JQkNJVkxOVC04djFESVFHR3hkZ0tWWl9ldE41TUhzM2pZdHd1Y2J3aFZzbENfUVkyaXJCYm5kdXBZZUtSZEdjc1NOMVRsSTNGTV9pTzhFTllTa0hkb3NVMXBtbU9QdnBQckZSYVo4SVgyeVNSTG9kbUFpeTlnQ2FQY1VLZUMyNG5uSUNPVmxPMHBaaVZB?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T12:16:25+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -883,11 +888,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Micron Stock is Up over 133% From Its Lows - But Is MU Still Undervalued?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-over-133-lows-130002515.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T13:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Mr. Buffett, how can I make $30 billion?\u2019: Warren Buffett revealed 3 simple investing rules he lives by",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mr-buffett-30-billion-warren-125500638.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T12:55:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Top Wall Street analysts like these dividend stocks for steady income",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
       "is_watchlist": false,
       "timestamp": "2026-05-24T12:52:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "When to Claim Social Security -- the Subtle Factors That Could Make a Big Difference in Your Perfect Claiming Age",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/claim-social-security-subtle-factors-125000438.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T12:50:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "He has $19K in savings but owes $13K across 6 credit cards \u2014 and the interest is costing him $2,700 a year",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/19k-savings-owes-13k-across-124500601.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T12:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sickly Healthcare Stocks Are Perking Up. For Contrarian Investors, Buying Now Could Be Just the Remedy to Protect Your Portfolio.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/sickly-healthcare-stocks-perking-contrarian-123002617.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T12:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scenes from the Memorial Day investing road: Takeaways on Walmart, Nvidia, and GameStop",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/scenes-from-the-memorial-day-investing-road-takeaways-on-walmart-nvidia-and-gamestop-123000395.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-24T12:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -902,83 +973,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Embecta (EMBC) Hit With A Sharp Target Cut As Medtech Sentiment Weakens",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/embecta-embc-hit-sharp-target-114843470.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:48:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Prairie Operating\u2019s (PROP) Near-Term Pressure Hasn\u2019t Broken The Bull Case",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-prairie-operating-prop-near-114833521.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:48:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alight (ALIT) Expands Its Health Solutions Network With New Strategic Partners",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/alight-alit-expands-health-solutions-114820591.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:48:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I need you to listen up\u2019: Suze Orman says Americans underestimate 1 critical retirement cost. 4 ways to get ahead now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/listen-suze-orman-says-americans-114500346.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "She's 60 and divorcing after 30 years \u2014 buying her husband out of the house could cost her retirement",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/shes-60-divorcing-30-years-113000638.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Medicare doesn\u2019t cover these 3 basic expenses \u2014 and they can cost you over $100,000 a year. Prepare your finances now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/medicare-doesn-t-cover-3-110500290.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A $750,000 Portfolio. A 2.95% Blended Yield. A $22,125-a-Year Paycheck Most Retirees Build by Accident.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-portfolio-2-95-110021196.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T11:00:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1348,6 +1342,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are banks open on Memorial Day? 12 federal holidays when your bank is closed.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/are-banks-open-today-221315751.html",
+      "is_watchlist": false,
+      "timestamp": "2024-01-29T22:13:15+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     }
   ]
 };
