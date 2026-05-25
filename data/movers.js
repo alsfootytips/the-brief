@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-24T23:16:47.579178+00:00",
+  "generated_at": "2026-05-25T01:31:57.981169+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alaska's oil revival sparks a new energy rush into the Arctic\""
+      "move_reason": "News: \"Alaska\u2019s Oil Revival Sparks a New Energy Rush Into the Arctic\""
     },
     {
       "ticker": "OSCR",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services Weighs US$1b Buyback Against Growth And Valuation Concerns\""
+      "move_reason": "Tracking XLI sector (+0.73% today)"
     },
     {
       "ticker": "USO",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom\""
+      "move_reason": "News: \"2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For\""
     },
     {
       "ticker": "PLTR",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal\""
     },
     {
       "ticker": "XLC",
@@ -358,7 +358,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alaska's oil revival sparks a new energy rush into the Arctic\""
+      "move_reason": "News: \"Alaska\u2019s Oil Revival Sparks a New Energy Rush Into the Arctic\""
     },
     {
       "ticker": "CRWV",
@@ -394,7 +394,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal\""
     },
     {
       "ticker": "IWM",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom\""
+      "move_reason": "News: \"2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For\""
     },
     {
       "ticker": "OSCR",
@@ -466,7 +466,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services Weighs US$1b Buyback Against Growth And Valuation Concerns\""
+      "move_reason": "Tracking XLI sector (+0.73% today)"
     },
     {
       "ticker": "TPL",
@@ -669,13 +669,13 @@ window.theBriefMovers = {
       "change_pct": 1.44,
       "score": 7.0,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 5.5 (cheap on absolute basis)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 5.5 (cheap on absolute basis)"
@@ -688,33 +688,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
-    },
-    {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 104.45,
-      "change_pct": -2.91,
-      "score": 6.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "9 insider sells vs 1 buys (last 90 days)",
-        "-42.5% from 52-week high"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "9 insider sells vs 1 buys (last 90 days)",
-        "-42.5% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-selling",
-        "off-highs"
-      ],
-      "narrative": "<strong>CRWV</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLK"
     },
     {
       "ticker": "GEV",
@@ -815,6 +788,30 @@ window.theBriefMovers = {
         "insider-selling"
       ],
       "narrative": "<strong>NVDA</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "CRWV",
+      "name": "CoreWeave",
+      "price": 104.45,
+      "change_pct": -2.91,
+      "score": 4.5,
+      "signals": [
+        "1 SEC filing in the last 7 days",
+        "9 insider sells vs 1 buys (last 90 days)",
+        "-42.5% from 52-week high"
+      ],
+      "reasons": [
+        "1 SEC filing in the last 7 days",
+        "9 insider sells vs 1 buys (last 90 days)",
+        "-42.5% from 52-week high"
+      ],
+      "tags": [
+        "filing",
+        "insider-selling",
+        "off-highs"
+      ],
+      "narrative": "<strong>CRWV</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
     },
     {
