@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-25T21:34:48.301898+00:00",
+  "generated_at": "2026-05-25T22:42:35.340326+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Did Nvidia Raise Its Dividend by 2,400%?\""
+      "move_reason": "News: \"Intel CEO Touts Balance Sheet Progress, Foundry Gains and AI CPU Demand\""
     },
     {
       "ticker": "PLTR",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Did Nvidia Raise Its Dividend by 2,400%?\""
+      "move_reason": "News: \"Intel CEO Touts Balance Sheet Progress, Foundry Gains and AI CPU Demand\""
     },
     {
       "ticker": "OSCR",
