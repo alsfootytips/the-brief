@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-25T22:42:35+00:00",
+  "generated_at": "2026-05-25T23:47:09+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -1155,7 +1155,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CHA",
         "date": "2026-05-28",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 2.0513,
         "revenue_estimate": 3262566135,
         "is_watchlist": false
@@ -1395,7 +1395,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SOTK",
         "date": "2026-05-28",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.0255,
         "revenue_estimate": 5722710,
         "is_watchlist": false
@@ -1639,7 +1639,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SAIC",
         "date": "2026-06-01",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.3307,
         "revenue_estimate": 1856861376,
         "is_watchlist": false
