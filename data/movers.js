@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-25T16:32:40.635539+00:00",
+  "generated_at": "2026-05-25T18:16:18.190624+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Top-Ranked AI Construction Stocks With Double-Digit Near-Term Upside\""
+      "move_reason": "News: \"Here is Why Growth Investors Should Buy Quanta Services (PWR) Now\""
     },
     {
       "ticker": "USO",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive...\""
+      "move_reason": "News: \"Jim Cramer Discusses \u201cSilly\u201d Thing About Arm Holdings (ARM)\""
     },
     {
       "ticker": "PLTR",
@@ -382,7 +382,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Everpure Gears Up to Report Q1 Earnings: What's in the Offing?\""
+      "move_reason": "News: \"Jim Cramer Shows How Dollar General (DG) & The Iran War Are Related\""
     },
     {
       "ticker": "GEV",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Business Conditions Monthly March 2026\""
+      "move_reason": "News: \"Dow Jones, Nasdaq And S&P 500 Intraday Levels - Markets Are Closed, But Futures Are Explod...\""
     },
     {
       "ticker": "NBIS",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive...\""
+      "move_reason": "News: \"Jim Cramer Discusses \u201cSilly\u201d Thing About Arm Holdings (ARM)\""
     },
     {
       "ticker": "OSCR",
@@ -454,7 +454,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum: Preferred Stock Time\""
+      "move_reason": "News: \"Occidental Is Trading Above 200-Day SMA: Buy, Hold or Sell the Stock?\""
     },
     {
       "ticker": "PWR",
@@ -466,7 +466,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Top-Ranked AI Construction Stocks With Double-Digit Near-Term Upside\""
+      "move_reason": "News: \"Here is Why Growth Investors Should Buy Quanta Services (PWR) Now\""
     },
     {
       "ticker": "TPL",
