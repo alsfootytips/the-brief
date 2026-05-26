@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-05-26T17:28:19.211627+00:00",
+  "generated_at": "2026-05-26T19:35:32.063769+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
-      "value": 4.5,
-      "change_pct_1d": -1.18,
-      "change_pct_1w": -3.49
+      "value": 4.49,
+      "change_pct_1d": -1.43,
+      "change_pct_1w": -3.73
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.2,
-      "change_pct_1d": -1.32,
-      "change_pct_1w": -3.0
+      "value": 4.18,
+      "change_pct_1d": -1.72,
+      "change_pct_1w": -3.39
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -22,26 +22,26 @@ window.theBriefMacro = {
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 5.03,
-      "change_pct_1d": -0.67,
-      "change_pct_1w": -2.91
+      "change_pct_1d": -0.75,
+      "change_pct_1w": -2.99
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 17.1,
-      "change_pct_1d": 3.07,
-      "change_pct_1w": -1.95
+      "value": 17.02,
+      "change_pct_1d": 2.59,
+      "change_pct_1w": -2.41
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4504.1,
-      "change_pct_1d": -0.37,
-      "change_pct_1w": -0.05
+      "value": 4502.6,
+      "change_pct_1d": -0.41,
+      "change_pct_1w": -0.08
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 94.05,
-      "change_pct_1d": -2.64,
-      "change_pct_1w": -12.73
+      "value": 93.89,
+      "change_pct_1d": -2.81,
+      "change_pct_1w": -12.88
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
@@ -51,12 +51,12 @@ window.theBriefMacro = {
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 76032.84,
-      "change_pct_1d": -1.61,
-      "change_pct_1w": 0.72
+      "value": 75779.67,
+      "change_pct_1d": -1.94,
+      "change_pct_1w": 0.39
     },
     "_yield_curve": {
-      "spread_10y_13w_bps": 92,
+      "spread_10y_13w_bps": 91,
       "inverted": false
     }
   }
