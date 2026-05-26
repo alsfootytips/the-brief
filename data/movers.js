@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-25T23:47:09.283149+00:00",
+  "generated_at": "2026-05-26T03:36:24.876613+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Plans to Invest more than $10B in Taiwan\u2019s AI Market\""
+      "move_reason": "News: \"The 'Next Nvidia' Trade? Why Investors Are Suddenly Watching Advanced Micro Devices, Arm H...\""
     },
     {
       "ticker": "APA",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Market-Beating Stocks with Exciting Potential\""
+      "move_reason": "Tracking XLE sector (+1.34% today)"
     },
     {
       "ticker": "XLE",
@@ -213,7 +213,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
+      "move_reason": ""
     },
     {
       "ticker": "NVDA",
@@ -225,7 +225,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel CEO Touts Balance Sheet Progress, Foundry Gains and AI CPU Demand\""
+      "move_reason": "News: \"Coherent NVIDIA Pact Links AI Optics Growth With Stretched Valuation Metrics\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +346,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD) Plans to Invest more than $10B in Taiwan\u2019s AI Market\""
+      "move_reason": "News: \"The 'Next Nvidia' Trade? Why Investors Are Suddenly Watching Advanced Micro Devices, Arm H...\""
     },
     {
       "ticker": "APA",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Race Is An Ultra Marathon, Not A Sprint\""
+      "move_reason": ""
     },
     {
       "ticker": "DG",
@@ -382,7 +382,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Shows How Dollar General (DG) & The Iran War Are Related\""
+      "move_reason": "News: \"Salesforce earnings, OpenAI IPO filing, April PCE: What to Watch\""
     },
     {
       "ticker": "GEV",
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel CEO Touts Balance Sheet Progress, Foundry Gains and AI CPU Demand\""
+      "move_reason": "News: \"Coherent NVIDIA Pact Links AI Optics Growth With Stretched Valuation Metrics\""
     },
     {
       "ticker": "OSCR",
@@ -478,7 +478,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Market-Beating Stocks with Exciting Potential\""
+      "move_reason": "Tracking XLE sector (+1.34% today)"
     },
     {
       "ticker": "TTD",
@@ -663,31 +663,34 @@ window.theBriefMovers = {
   ],
   "watchlist_radar": [
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 402.71,
-      "change_pct": 1.44,
-      "score": 7.0,
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 105.61,
+      "change_pct": 0.48,
+      "score": 7.5,
       "signals": [
-        "2 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.5 (cheap on absolute basis)"
+        "3 news items in the last 3 days",
+        "Earnings within 7 days",
+        "8 insider sells vs 2 buys (last 90 days)",
+        "Forward P/E 13.3 (cheap on absolute basis)",
+        "Down -30.6% over 3 months \u2014 deep drawdown"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.5 (cheap on absolute basis)"
+        "3 news items in the last 3 days",
+        "Earnings within 7 days",
+        "8 insider sells vs 2 buys (last 90 days)",
+        "Forward P/E 13.3 (cheap on absolute basis)",
+        "Down -30.6% over 3 months \u2014 deep drawdown"
       ],
       "tags": [
         "news-flow",
-        "filing",
-        "insider-buying",
-        "cheap"
+        "earnings-soon",
+        "insider-selling",
+        "cheap",
+        "drawdown"
       ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
+      "narrative": "<strong>DG</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
+      "sector_etf": "XLP"
     },
     {
       "ticker": "GEV",
@@ -712,35 +715,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 22.26,
-      "change_pct": 4.61,
-      "score": 5.5,
-      "signals": [
-        "Moved +4.61% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
-        "Forward P/E 10.3 (cheap on absolute basis)",
-        "-75.1% from 52-week high"
-      ],
-      "reasons": [
-        "Moved +4.61% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
-        "Forward P/E 10.3 (cheap on absolute basis)",
-        "-75.1% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-selling",
-        "cheap",
-        "off-highs"
-      ],
-      "narrative": "<strong>TTD</strong> is accumulating signals worth tracking.",
-      "sector_etf": "XLK"
     },
     {
       "ticker": "NBIS",
@@ -791,30 +765,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 104.45,
-      "change_pct": -2.91,
-      "score": 4.5,
-      "signals": [
-        "1 SEC filing in the last 7 days",
-        "9 insider sells vs 1 buys (last 90 days)",
-        "-42.5% from 52-week high"
-      ],
-      "reasons": [
-        "1 SEC filing in the last 7 days",
-        "9 insider sells vs 1 buys (last 90 days)",
-        "-42.5% from 52-week high"
-      ],
-      "tags": [
-        "filing",
-        "insider-selling",
-        "off-highs"
-      ],
-      "narrative": "<strong>CRWV</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 39.25,
@@ -839,31 +789,30 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 105.61,
-      "change_pct": 0.48,
-      "score": 4.5,
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 22.26,
+      "change_pct": 4.61,
+      "score": 4.0,
       "signals": [
-        "3 news items in the last 3 days",
-        "8 insider sells vs 2 buys (last 90 days)",
-        "Forward P/E 13.3 (cheap on absolute basis)",
-        "Down -30.6% over 3 months \u2014 deep drawdown"
+        "Moved +4.61% \u2014 a 1.2\u03c3 move",
+        "10 insider sells vs 0 buys (last 90 days)",
+        "Forward P/E 10.3 (cheap on absolute basis)",
+        "-75.1% from 52-week high"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
-        "8 insider sells vs 2 buys (last 90 days)",
-        "Forward P/E 13.3 (cheap on absolute basis)",
-        "Down -30.6% over 3 months \u2014 deep drawdown"
+        "Moved +4.61% \u2014 a 1.2\u03c3 move",
+        "10 insider sells vs 0 buys (last 90 days)",
+        "Forward P/E 10.3 (cheap on absolute basis)",
+        "-75.1% from 52-week high"
       ],
       "tags": [
-        "news-flow",
         "insider-selling",
         "cheap",
-        "drawdown"
+        "off-highs"
       ],
-      "narrative": "<strong>DG</strong> has been beaten down hard and now trades at a low valuation \u2014 value setup.",
-      "sector_etf": "XLP"
+      "narrative": "<strong>TTD</strong> is accumulating signals worth tracking.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "OXY",
@@ -884,6 +833,27 @@ window.theBriefMovers = {
         "insider-buying"
       ],
       "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 402.71,
+      "change_pct": 1.44,
+      "score": 3.0,
+      "signals": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.5 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.5 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
     }
   ],

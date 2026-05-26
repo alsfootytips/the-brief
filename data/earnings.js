@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-25T23:47:09+00:00",
+  "generated_at": "2026-05-26T03:36:24+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -222,192 +222,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.2999,
         "revenue_estimate": 1551806580,
-        "is_watchlist": false
-      }
-    ],
-    "2026-05-25": [
-      {
-        "ticker": "CIBN",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CNBZ",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CNF",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CRMT",
-        "date": "2026-05-25",
-        "hour": "bmo",
-        "eps_estimate": -1.3464,
-        "revenue_estimate": 322176516,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DLNG",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "EH",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": -0.6695,
-        "revenue_estimate": 116598060,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ENLV",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": -0.0204,
-        "revenue_estimate": 0,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "EUSP",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FINV",
-        "date": "2026-05-25",
-        "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FNFI",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FUFU",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": 0.0272,
-        "revenue_estimate": 92784300,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GLCP",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GVFF",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JOYY",
-        "date": "2026-05-25",
-        "hour": "amc",
-        "eps_estimate": 1.0404,
-        "revenue_estimate": 554199323,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LX",
-        "date": "2026-05-25",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MCBK",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NAT",
-        "date": "2026-05-25",
-        "hour": "bmo",
-        "eps_estimate": 0.1818,
-        "revenue_estimate": 88993796,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PDD",
-        "date": "2026-05-25",
-        "hour": "bmo",
-        "eps_estimate": 16.7989,
-        "revenue_estimate": 110427270562,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PSHG",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": 0.2361,
-        "revenue_estimate": 32415600,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SHIP",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": 0.4289,
-        "revenue_estimate": 43644270,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SNPW",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SNT",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UVV",
-        "date": "2026-05-25",
-        "hour": "",
-        "eps_estimate": 1.0908,
-        "revenue_estimate": 735482000,
         "is_watchlist": false
       }
     ],
@@ -2460,6 +2274,160 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-06-09": [
+      {
+        "ticker": "ABM",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 0.883,
+        "revenue_estimate": 2235990085,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "APXIF",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BARK",
+        "date": "2026-06-09",
+        "hour": "amc",
+        "eps_estimate": -0.816,
+        "revenue_estimate": 98065523,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CASY",
+        "date": "2026-06-09",
+        "hour": "amc",
+        "eps_estimate": 3.3782,
+        "revenue_estimate": 4310122332,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CGNT",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 0.0864,
+        "revenue_estimate": 107256825,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CNM",
+        "date": "2026-06-09",
+        "hour": "bmo",
+        "eps_estimate": 0.6868,
+        "revenue_estimate": 1924204610,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GIII",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": -0.3063,
+        "revenue_estimate": 540516360,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HEOL",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "JILL",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 0.5763,
+        "revenue_estimate": 149613600,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LMNR",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": -0.2142,
+        "revenue_estimate": 21371723,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "OXM",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 1.2783,
+        "revenue_estimate": 395067388,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SAIL",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 0.0451,
+        "revenue_estimate": 281540502,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SJM",
+        "date": "2026-06-09",
+        "hour": "amc",
+        "eps_estimate": 2.6694,
+        "revenue_estimate": 2282886466,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TITN",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": -0.6885,
+        "revenue_estimate": 495330360,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TPHS",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "UNFI",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 0.7925,
+        "revenue_estimate": 7959361471,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "VLGEA",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "WELNF",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "YEXT",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 0.1326,
+        "revenue_estimate": 114342000,
         "is_watchlist": false
       }
     ]
