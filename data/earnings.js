@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-26T07:03:14+00:00",
+  "generated_at": "2026-05-26T13:55:19+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -365,7 +365,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HMR",
         "date": "2026-05-26",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.0051,
         "revenue_estimate": 27098300,
         "is_watchlist": false
@@ -536,14 +536,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.2414,
         "revenue_estimate": 2734025340,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "VSAT",
-        "date": "2026-05-26",
-        "hour": "amc",
-        "eps_estimate": -0.3638,
-        "revenue_estimate": 1220369646,
         "is_watchlist": false
       },
       {
@@ -1223,6 +1215,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "VSAT",
+        "date": "2026-05-28",
+        "hour": "amc",
+        "eps_estimate": -0.3638,
+        "revenue_estimate": 1220369646,
+        "is_watchlist": false
+      },
+      {
         "ticker": "XNET",
         "date": "2026-05-28",
         "hour": "bmo",
@@ -1254,6 +1254,22 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.8343,
         "revenue_estimate": 2100170000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DLNG",
+        "date": "2026-05-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FUFU",
+        "date": "2026-05-29",
+        "hour": "",
+        "eps_estimate": 0.0272,
+        "revenue_estimate": 92784300,
         "is_watchlist": false
       },
       {
@@ -1815,14 +1831,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "DOMO",
-        "date": "2026-06-04",
-        "hour": "",
-        "eps_estimate": -0.0673,
-        "revenue_estimate": 81342276,
-        "is_watchlist": false
-      },
-      {
         "ticker": "ECF",
         "date": "2026-06-04",
         "hour": "",
@@ -2016,6 +2024,14 @@ window.theBriefEarnings = {
       }
     ],
     "2026-06-05": [
+      {
+        "ticker": "ABM",
+        "date": "2026-06-05",
+        "hour": "",
+        "eps_estimate": 0.883,
+        "revenue_estimate": 2235990085,
+        "is_watchlist": false
+      },
       {
         "ticker": "FGPR",
         "date": "2026-06-05",
@@ -2279,14 +2295,6 @@ window.theBriefEarnings = {
     ],
     "2026-06-09": [
       {
-        "ticker": "ABM",
-        "date": "2026-06-09",
-        "hour": "",
-        "eps_estimate": 0.883,
-        "revenue_estimate": 2235990085,
-        "is_watchlist": false
-      },
-      {
         "ticker": "APXIF",
         "date": "2026-06-09",
         "hour": "",
@@ -2324,6 +2332,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.6868,
         "revenue_estimate": 1924204610,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DOMO",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": -0.0673,
+        "revenue_estimate": 81342276,
         "is_watchlist": false
       },
       {
