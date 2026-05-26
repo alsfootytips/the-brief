@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-26T03:36:24.876613+00:00",
+  "generated_at": "2026-05-26T07:03:14.189098+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 'Next Nvidia' Trade? Why Investors Are Suddenly Watching Advanced Micro Devices, Arm H...\""
+      "move_reason": "News: \"Why Are MU, SNDK Stocks Surging In Overnight Trading?\""
     },
     {
       "ticker": "APA",
@@ -112,11 +112,10 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 107.54,
       "change_pct": 0.96,
-      "volume_ratio": 0.89,
+      "volume_ratio": 1.03,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -124,11 +123,10 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 139.48,
       "change_pct": 0.93,
-      "volume_ratio": 1.03,
+      "volume_ratio": 1.1,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -225,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Coherent NVIDIA Pact Links AI Optics Growth With Stretched Valuation Metrics\""
+      "move_reason": "News: \"2 Building Materials Stocks That Are Quietly Becoming Some of the Market's Best Opportunit...\""
     },
     {
       "ticker": "PLTR",
@@ -346,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 'Next Nvidia' Trade? Why Investors Are Suddenly Watching Advanced Micro Devices, Arm H...\""
+      "move_reason": "News: \"Why Are MU, SNDK Stocks Surging In Overnight Trading?\""
     },
     {
       "ticker": "APA",
@@ -430,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Coherent NVIDIA Pact Links AI Optics Growth With Stretched Valuation Metrics\""
+      "move_reason": "News: \"2 Building Materials Stocks That Are Quietly Becoming Some of the Market's Best Opportunit...\""
     },
     {
       "ticker": "OSCR",
