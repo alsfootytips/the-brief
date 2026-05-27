@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-27T04:49:36+00:00",
+  "generated_at": "2026-05-27T08:39:13+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -454,8 +454,8 @@ window.theBriefEarnings = {
         "ticker": "MRVL",
         "date": "2026-05-27",
         "hour": "amc",
-        "eps_estimate": 0.8089,
-        "revenue_estimate": 2451907293,
+        "eps_estimate": 0.8076,
+        "revenue_estimate": 2449429683,
         "is_watchlist": false
       },
       {
