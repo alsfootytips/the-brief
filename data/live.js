@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-26T22:49:21.431750+00:00",
+  "generated_at": "2026-05-27T00:05:59.166586+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -3.67,
-      "price": 21.81,
+      "change_pct": -3.4,
+      "price": 21.87,
       "is_watchlist": true,
-      "timestamp": "2026-05-26T22:49:21.428536+00:00",
+      "timestamp": "2026-05-27T00:05:59.163450+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 3.3,
-      "price": 1073.0,
+      "change_pct": 3.32,
+      "price": 1073.19,
       "is_watchlist": true,
-      "timestamp": "2026-05-26T22:49:21.428531+00:00",
+      "timestamp": "2026-05-27T00:05:59.163445+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -42,10 +42,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": -3.35,
+      "change_pct": -3.34,
       "price": 37.5,
       "is_watchlist": true,
-      "timestamp": "2026-05-26T22:49:21.428521+00:00",
+      "timestamp": "2026-05-27T00:05:59.163434+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,13 +54,230 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 7.97,
-      "price": 504.75,
+      "change_pct": 8.69,
+      "price": 508.15,
       "is_watchlist": true,
-      "timestamp": "2026-05-26T22:49:21.428512+00:00",
+      "timestamp": "2026-05-27T00:05:59.163426+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:57:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Brent crude climbs as Iran warns of retaliation after U.S. strike",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4597198-brent-crude-climbs-as-iran-warns-of-retaliation-after-us-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T23:50:59+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 Spotify Technology S.A. For: 26 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-spotify-technology-sa-for-26-may-93CH-4711027",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:42:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KalVista CEO Benjamin Palleiko sells $292,646 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kalvista-ceo-benjamin-palleiko-sells-292646-in-common-stock-93CH-4711026",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:40:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KalVista CCO Sweeny sells shares worth $49,845",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kalvista-cco-sweeny-sells-shares-worth-49845-93CH-4711025",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:40:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KalVista Pharmaceuticals CDO sells shares worth $63,157",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kalvista-pharmaceuticals-cdo-sells-shares-worth-63157-93CH-4711024",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:40:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cohu president & CEO Luis Muller sells $2.1m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cohu-president--ceo-luis-muller-sells-21m-in-company-stock-93CH-4711023",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:40:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arista Networks director Kelly Battles sells $61,797 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arista-networks-director-kelly-battles-sells-61797-in-shares-93CH-4711022",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:38:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KalVista CFO Brian Piekos sells $39,881 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kalvista-cfo-brian-piekos-sells-39881-in-company-stock-93CH-4711021",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:37:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KalVista Pharmaceuticals CMO Audhya Sells $71,916 in Stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kalvista-pharmaceuticals-cmo-audhya-sells-71916-in-stock-93CH-4711020",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:37:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Instagram betting ads featuring Kane and Haaland banned",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:33:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why GE Vernova Stock Triumphed on Tuesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c771ce0d87a93763fd9756ba67350b325b3e77716b99c60bc583223ecfa475e4",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T23:31:37+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Why GE Vernova Stock Triumphed on Tuesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c771ce0d87a93763fd9756ba67350b325b3e77716b99c60bc583223ecfa475e4",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T23:31:37+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ferrari shares slump after it unveils first fully electric car",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:28:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran war impact to hit household energy bills for the first time",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T23:28:51+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Goldman Sachs gives harsh warning on market concentration",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e745e3ecedc37159735b095382037c12345e77b4c21893265820e6a1815ca07b",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T23:07:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Transcat expects Q1 service organic growth above 7% while targeting high single-digit growth in fiscal 2027",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4597197-transcat-expects-q1-service-organic-growth-above-7-percent-while-targeting-high-single-digit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T22:58:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Box forecasts FY 2027 revenue of about $1.28B while targeting about 28% operating margin",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4597196-box-forecasts-fy-2027-revenue-of-about-1_28b-while-targeting-about-28-percent-operating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T22:57:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "California Resources starts first CO2 injection at state's inaugural CCS project",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4597195-california-resources-starts-first-co2-injection-at-states-inaugural-ccs-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T22:56:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -75,47 +292,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "IPG Photonics CFO Mammen sells $1.19 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ipg-photonics-cfo-mammen-sells-119-million-in-stock-93CH-4710985",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T22:38:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon CEO Douglas Herrington sells $1.67m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/amazon-ceo-douglas-herrington-sells-167m-in-company-stock-93CH-4710984",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T22:37:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brazilian senator Bolsonaro touts Trump meeting at White House",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/brazilian-senator-bolsonaro-touts-trump-meeting-at-white-house-4710983",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T22:36:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon SVP David Zapolsky sells $4.1 million in AMZN shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/amazon-svp-david-zapolsky-sells-41-million-in-amzn-shares-93CH-4710982",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T22:33:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "IREN to buy Blackwell systems from Dell for about $1.6 billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46eedd5cff350f2b347ab94adb35923deb1b80bf6572054237ca229b25a57989",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T22:36:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -131,46 +316,37 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Form 144 RAMBUS INC. For: 26 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-rambus-inc-for-26-may-93CH-4710981",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T22:31:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "PWR",
+      "headline": "MYR Group and Tutor Perini Shares Are Soaring, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf06595ef98b2e2b8543b610300a6c987a855bcf01132e8956585cc3850b0a95",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T22:23:28+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Limbach and Primoris Shares Are Soaring, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a51a678e1514061ad4961fe8b346b7521b8acf3014229bcfd049f9a1f4b977b9",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T22:23:28+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "BP ousts Chair Albert Manifold citing governance and conduct issues",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bp-removes-chairman-albert-manifold-in-surprise-move-4709537",
+      "headline": "Airlines cancel flights in response to Middle East conflict - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWpNWmRIOXgwVXQ5c0RvZEdOSWhzX0h1WVFXNXBON0FsbHZ3NXdVNzI1Z2FBc19wMTZoOFdkMVBDRnhaanhzLU5Vby1Eelk5SzM0SjFEa3FTSVpfQTJRVEs3WWw3dWNYcHN4Zm8wWXptMHRYLWdFYXNFZDdqQ0lYME5kdlUzYjYydkdXNVFOdUZqYWVyc0RQdi10UjdjcVpkVzNMWnp5ZkdKRkhVNUJRUGFUbllqdw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-26T22:30:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alabama warns healthcare providers against use of non-FDA-approved peptides",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alabama-warns-healthcare-providers-against-use-of-nonfdaapproved-peptides-4710980",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T22:30:11+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trina Solar (Schweiz) AG sells $190.3m of T1 Energy (TE) stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/trina-solar-schweiz-ag-sells-1903m-of-t1-energy-te-stock-93CH-4710979",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T22:25:46+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-26T22:22:31+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -183,6 +359,18 @@ window.theBriefLive = {
       "timestamp": "2026-05-26T22:21:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why Qualcomm (QCOM) Stock Is Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28b34e3fdf758094f71413be59e1097995ba722eb8464d641bbe1114edff0cd0",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T22:07:28+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -219,25 +407,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Digital Turbine outlines fiscal 2027 revenue of $630M-$650M with focus on double-digit growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4597191-digital-turbine-outlines-fiscal-2027-revenue-of-630m-650m-with-focus-on-double-digit-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T21:57:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "SOXL Lost 90 Percent in 2022 While Semiconductors Themselves Fell 35 Percent, And the Daily Reset Math Hasn\u2019t Changed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a2edf4f4d92318b84bf9fda6e2de574f56dbea568191232c6138271592dddaf",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T22:00:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Webco Industries GAAP EPS of $11.61, revenue of $179.6M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4597190-webco-industries-gaap-eps-of-11_61-revenue-of-179_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T21:57:03+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Allegro MicroSystems and Penguin Solutions Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b36bb564df6b0669ded5e322676f792783b2e804629e5e6d7d96d2712a08376",
+      "is_watchlist": true,
+      "timestamp": "2026-05-26T21:59:28+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -275,36 +465,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "IREN signs $1.6B deal with Dell to deploy Blackwell systems; ARR seen rising to $4.4B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4597186-iren-signs-16b-deal-with-dell-to-deploy-blackwell-systems-arr-seen-rising-to-44b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Tanker reports external explosion off Oman coast, crew safe, UKMTO says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPendIOUlabVpsMGRwZWtNcHphcm44eDg4cDBYY0F0Wl9sbndKTkZveDVXaDBiNlhCbzlJTExhYXhqRkFQRkZKYW92ZHhPNmw0b3JYdWZvdWtKVGNMWV9aYVBVblNjRVVYRG14UlZZZVpXOWNablI3YnhrTXAxVjBTZTJfMnExOTBkZTRienFnRGlieHpyYjVxcUx1Vk56QUkwM1BfNnQzNlFmSk5uLTA2ZmtrNmxDQTdTWDVpcXpOSG4?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-26T21:39:07+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-26T21:36:29+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SOLV Energy slides after launching 14M-share public offering",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4597188-solv-energy-slides-after-launching-14m-share-public-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T21:37:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Stock Market Today, May 26: Soaring Tech Stocks Push S&P 500 and Nasdaq to New Highs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80d4bc7609ed96189e5448f79e8735a3bebfefa533f4cbcc8858a0a8fcb9e3e0",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T21:36:51+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -331,18 +498,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia CEO has blunt message on AI layoffs in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58d3bcd01d8735cc512006ff7969dcf8bf02e8f873003160d843976882a98a56",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T21:17:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Russia says US did not grant visa for official to attend UN meeting - Reuters",
       "source": "Reuters",
@@ -351,18 +506,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-26T21:16:08+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "OneQode Deal Highlights AMD AI Expansion Beyond Hyperscaler Data Centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8309d031ded3d820121afd1f168022be3db5be568feec8a883654bf4e8afd79f",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T21:12:34+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -375,17 +518,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airlines cancel flights in response to Middle East conflict - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWpNWmRIOXgwVXQ5c0RvZEdOSWhzX0h1WVFXNXBON0FsbHZ3NXdVNzI1Z2FBc19wMTZoOFdkMVBDRnhaanhzLU5Vby1Eelk5SzM0SjFEa3FTSVpfQTJRVEs3WWw3dWNYcHN4Zm8wWXptMHRYLWdFYXNFZDdqQ0lYME5kdlUzYjYydkdXNVFOdUZqYWVyc0RQdi10UjdjcVpkVzNMWnp5ZkdKRkhVNUJRUGFUbllqdw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T21:07:04+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -411,18 +543,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Honeywell Stock Topped the Market on Tuesday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=334a47fa4a7e24e6738d62529eed9f7f6e499f58bb78d169ae423f8c01b800f0",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T21:02:32+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Why double-digit earnings growth won\u2019t stop the next bear market",
       "source": "MarketWatch",
@@ -431,18 +551,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-26T21:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nu Holdings' Mexico Expansion Is About to Be Tested. Here's What Investors Should Watch.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c863522667d88482f0801f32dc402cf2d28090e2c9ee3b366134ddc620959dd8",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T21:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -465,18 +573,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-26T20:42:59+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Xerox and Super Micro Shares Are Soaring, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10f9527c8a1cd1385122872ce77c62c00b3dcf61ad03e3208a290ddfb2b6bee9",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T20:31:28+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -686,29 +782,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "PWR",
-      "headline": "IBD Stock Of The Day: Data Center Builder Sterling Infrastructure At New Entry",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd81397279a45bcac0913eee045d074f4f3df5b69d99691fac75a3ab6ea1f795",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T17:40:40+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cornyn and Paxton go head-to-head in Texas Republican Senate primary after Trump endorsement",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/26/texas-primary-election-senate-paxton-cornyn.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T17:30:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Cybersecurity stocks are surging. One looks promising into earnings",
       "source": "CNBC Markets",
@@ -717,18 +790,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-26T17:25:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Dow Jones Leader Amazon, AI Stock Quanta, Monster Beverage In Or Near Buy Zones",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e02a4e441bd32e1fd3d39c2fc3ce458c6e3bb879284083dfc06afa02811207f",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T17:25:19+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -761,29 +822,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-26T16:29:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "3 Brilliant Energy Stocks to Buy Now and Hold for the Long Term",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0577867013cc204f3c4573c80825073aa5be25bad65f2961b2cabd380d445262",
-      "is_watchlist": true,
-      "timestamp": "2026-05-26T16:07:52+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T15:04:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -908,6 +946,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-26T13:07:52+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": "CRWV",
       "headline": "What Is Going On With CoreWeave Stock On Tuesday?",
       "source": "Benzinga",
@@ -1002,17 +1052,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ferrari unveils first fully electric car",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-26T02:48:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "filing",
       "ticker": "APA",
       "form": "8-K",
@@ -1023,17 +1062,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The rise of the fruit that tastes like custard",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T23:27:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1061,83 +1089,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "CMS Energy Stock: Analyst Estimates & Ratings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-stock-analyst-estimates-143943864.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:39:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crossroads Capital Investment Maintains a Constructive Outlook on FTAI Aviation (FTAI)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crossroads-capital-investment-maintains-constructive-143728441.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:37:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Schwab CEO says his firm will attract new customers with wealth building instead of meme coins and gambling",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/schwab-ceo-says-his-firm-will-attract-new-customers-with-wealth-building-instead-of-meme-coins-and-gambling-143445773.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:34:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BlackRock Stock: Is Wall Street Bullish or Bearish?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-stock-wall-street-bullish-143106243.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:31:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Varde Partners Joins Growing List Of Firms Launching Private Credit Funds In Asia",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/varde-partners-joins-growing-list-143049311.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:30:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A $10 Billion Reason to Buy AMD Stock Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/10-billion-reason-buy-amd-143002938.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Are Wall Street Analysts' Target Price for Cooper Companies\u2019 Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-142103653.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-25T14:21:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "BJ\u2019s Wholesale plans major store changes as customers pull back",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/articles/bj-wholesale-plans-major-store-140700001.html",
@@ -1149,12 +1100,78 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil prices slide on hopes of US-Iran peace deal",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "headline": "Do Wall Street Analysts Like AvalonBay Communities Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-avalonbay-communities-121550122.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-25T13:05:56+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-05-25T12:15:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Do Wall Street Analysts Like Universal Health Services Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/wall-street-analysts-universal-health-121358933.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T12:13:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vitalik Buterin Defends Ethereum\u2019s \u2018Unreasonable\u2019 Ideals as Samson Mow Claims He 'Feels Sorry For ETH'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-defends-ethereum-unreasonable-121215718.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T12:12:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are Wall Street Analysts Bullish on Insulet Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-insulet-121047762.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T12:10:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Allegion Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allegion-stock-outlook-wall-street-120942800.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T12:09:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Wall Street Bullish or Bearish on Atmos Energy Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-atmos-120712662.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T12:07:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are Wall Street Analysts Predicting Expand Energy Stock Will Climb or Sink?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/wall-street-analysts-predicting-expand-120434472.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-25T12:04:34+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1166,17 +1183,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-25T09:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Barriers grow for international students seeking U.S. jobs: The 'American dream ... is collapsing'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/24/for-international-students-seeking-us-jobs-the-american-dream-is-collapsing.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-24T14:15:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1209,18 +1215,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6e36c0090f04897648ac2a6932918407976494a3b184e65b12e6f7b346dc6f99",
       "is_watchlist": true,
       "timestamp": "2026-05-24T01:40:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "3 Market-Beating Stocks with Exciting Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86f7154ddaa3abf85118052869edbff2807ea4934c4294b19fe6d688172c94ad",
-      "is_watchlist": true,
-      "timestamp": "2026-05-23T11:48:55+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
