@@ -1,12 +1,12 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-28T03:39:16.708138+00:00",
+  "generated_at": "2026-05-28T07:44:29.701322+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 233.6,
       "change_pct": 12.28,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.91,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -18,7 +18,7 @@ window.theBriefMovers = {
       "name": "SIEGY",
       "price": 159.77,
       "change_pct": 2.88,
-      "volume_ratio": 0.12,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -30,7 +30,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 629.93,
       "change_pct": 2.87,
-      "volume_ratio": 1.58,
+      "volume_ratio": 1.6,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -42,7 +42,7 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "price": 121.55,
       "change_pct": 1.76,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.54,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -53,7 +53,7 @@ window.theBriefMovers = {
       "name": "SOFI",
       "price": 16.24,
       "change_pct": 1.63,
-      "volume_ratio": 1.1,
+      "volume_ratio": 1.11,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -65,7 +65,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 404.99,
       "change_pct": 1.22,
-      "volume_ratio": 0.97,
+      "volume_ratio": 1.11,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -77,7 +77,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 104.79,
       "change_pct": 1.14,
-      "volume_ratio": 1.25,
+      "volume_ratio": 1.38,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -89,7 +89,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.58,
       "change_pct": 1.14,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -123,7 +123,7 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "price": 51.18,
       "change_pct": 0.37,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.82,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -138,6 +138,18 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.16,
+      "change_pct": 0.2,
+      "volume_ratio": 0.29,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     },
     {
@@ -162,18 +174,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 107.94,
-      "change_pct": 0.09,
-      "volume_ratio": 1.59,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -187,14 +187,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Leader GE Vernova: Data-Center Customers 'Are Struggling To Get Projects Across The Lin...\""
+      "move_reason": "News: \"GE Vernova: Physical Limitations Put A Harsh Ceiling On The AI Upside\""
     },
     {
       "ticker": "STNG",
       "name": "STNG",
       "price": 77.84,
       "change_pct": -3.12,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.96,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -206,19 +206,19 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 490.0,
       "change_pct": -2.76,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.84,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood sells $16M of surging semiconductor stock\""
+      "move_reason": "News: \"Exclusive-ByteDance developing custom CPU chips to support AI rollout, sources say\""
     },
     {
       "ticker": "PLTR",
       "name": "PLTR",
       "price": 132.89,
       "change_pct": -2.72,
-      "volume_ratio": 1.08,
+      "volume_ratio": 1.14,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -230,7 +230,7 @@ window.theBriefMovers = {
       "name": "APA Corp",
       "price": 36.9,
       "change_pct": -1.6,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -242,12 +242,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 211.74,
       "change_pct": -1.45,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.92,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If You'd Invested $100 in Micron Technology Stock 1 Year Ago, Here's How Much You'd Have T...\""
+      "move_reason": "News: \"Micron Is Nearing $1,000. Is a Stock Split Next?\""
     },
     {
       "ticker": "GLD",
@@ -266,7 +266,7 @@ window.theBriefMovers = {
       "name": "XOP",
       "price": 163.99,
       "change_pct": -1.27,
-      "volume_ratio": 0.72,
+      "volume_ratio": 0.78,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -278,7 +278,7 @@ window.theBriefMovers = {
       "name": "Energy Select Sector",
       "price": 57.18,
       "change_pct": -1.16,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
@@ -290,7 +290,7 @@ window.theBriefMovers = {
       "name": "CVX",
       "price": 182.82,
       "change_pct": -1.02,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -325,7 +325,7 @@ window.theBriefMovers = {
       "name": "KRE",
       "price": 69.74,
       "change_pct": -0.8,
-      "volume_ratio": 0.86,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -337,7 +337,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 57.0,
       "change_pct": -0.8,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -363,19 +363,19 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 490.0,
       "change_pct": -2.76,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.84,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood sells $16M of surging semiconductor stock\""
+      "move_reason": "News: \"Exclusive-ByteDance developing custom CPU chips to support AI rollout, sources say\""
     },
     {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 36.9,
       "change_pct": -1.6,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 105.54,
       "change_pct": -0.33,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -399,7 +399,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 104.79,
       "change_pct": 1.14,
-      "volume_ratio": 1.25,
+      "volume_ratio": 1.38,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -416,14 +416,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Leader GE Vernova: Data-Center Customers 'Are Struggling To Get Projects Across The Lin...\""
+      "move_reason": "News: \"GE Vernova: Physical Limitations Put A Harsh Ceiling On The AI Upside\""
     },
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
       "price": 290.09,
       "change_pct": -0.14,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 233.6,
       "change_pct": 12.28,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.91,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -447,12 +447,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 211.74,
       "change_pct": -1.45,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.92,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If You'd Invested $100 in Micron Technology Stock 1 Year Ago, Here's How Much You'd Have T...\""
+      "move_reason": "News: \"Micron Is Nearing $1,000. Is a Stock Split Next?\""
     },
     {
       "ticker": "OSCR",
@@ -471,7 +471,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 57.0,
       "change_pct": -0.8,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -495,7 +495,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 404.99,
       "change_pct": 1.22,
-      "volume_ratio": 0.97,
+      "volume_ratio": 1.11,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "name": "Energy Select Sector",
       "price": 57.18,
       "change_pct": -1.16,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
@@ -543,7 +543,7 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 290.09,
       "change_pct": -0.14,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
@@ -554,7 +554,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 729.45,
       "change_pct": -0.11,
-      "volume_ratio": 0.96,
+      "volume_ratio": 0.99,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -564,7 +564,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 750.46,
       "change_pct": -0.02,
-      "volume_ratio": 0.96,
+      "volume_ratio": 0.98,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -576,7 +576,7 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "price": 121.55,
       "change_pct": 1.76,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.54,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -586,7 +586,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.58,
       "change_pct": 1.14,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -606,7 +606,7 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "price": 51.18,
       "change_pct": 0.37,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.82,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -676,7 +676,7 @@ window.theBriefMovers = {
       "name": "Energy Select Sector",
       "price": 57.18,
       "change_pct": -1.16,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
@@ -723,13 +723,13 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
+        "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 8.7 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
+        "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 8.7 (cheap on absolute basis)"
       ],
       "tags": [
@@ -822,12 +822,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
+        "Forward P/E 14.8 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
+        "Forward P/E 14.8 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -868,12 +868,12 @@ window.theBriefMovers = {
       "change_pct": 0.72,
       "score": 3.0,
       "signals": [
-        "10 insider sells vs 0 buys (last 90 days)",
+        "9 insider sells vs 1 buys (last 90 days)",
         "Forward P/E 10.3 (cheap on absolute basis)",
         "-75.2% from 52-week high"
       ],
       "reasons": [
-        "10 insider sells vs 0 buys (last 90 days)",
+        "9 insider sells vs 1 buys (last 90 days)",
         "Forward P/E 10.3 (cheap on absolute basis)",
         "-75.2% from 52-week high"
       ],
