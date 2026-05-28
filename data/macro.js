@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-05-28T18:14:00.591774+00:00",
+  "generated_at": "2026-05-28T20:39:20.642107+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.45,
-      "change_pct_1d": -0.62,
-      "change_pct_1w": -2.9
+      "change_pct_1d": -0.58,
+      "change_pct_1w": -2.86
     },
     "^FVX": {
       "name": "5Y Treasury yield",
       "value": 4.16,
-      "change_pct_1d": -0.5,
-      "change_pct_1w": -2.37
+      "change_pct_1d": -0.41,
+      "change_pct_1w": -2.28
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -22,38 +22,38 @@ window.theBriefMacro = {
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 4.98,
-      "change_pct_1d": -0.56,
-      "change_pct_1w": -2.52
+      "change_pct_1d": -0.52,
+      "change_pct_1w": -2.48
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 15.75,
-      "change_pct_1d": -3.31,
-      "change_pct_1w": -5.69
+      "value": 15.74,
+      "change_pct_1d": -3.38,
+      "change_pct_1w": -5.75
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4545.8,
-      "change_pct_1d": 2.21,
-      "change_pct_1w": 0.13
+      "value": 4529.7,
+      "change_pct_1d": 1.85,
+      "change_pct_1w": -0.22
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 88.82,
-      "change_pct_1d": 0.16,
-      "change_pct_1w": -7.82
+      "value": 88.81,
+      "change_pct_1d": 0.15,
+      "change_pct_1w": -7.83
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 98.97,
-      "change_pct_1d": -0.24,
-      "change_pct_1w": -0.22
+      "value": 99.03,
+      "change_pct_1d": -0.19,
+      "change_pct_1w": -0.17
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 73557.99,
-      "change_pct_1d": -1.06,
-      "change_pct_1w": -4.45
+      "value": 73577.54,
+      "change_pct_1d": -1.03,
+      "change_pct_1w": -4.42
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 86,
