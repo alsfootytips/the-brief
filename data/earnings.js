@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-29T07:42:29+00:00",
+  "generated_at": "2026-05-29T11:01:17+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -245,7 +245,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DLNG",
         "date": "2026-05-29",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -575,6 +575,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "DXLG",
+        "date": "2026-06-03",
+        "hour": "bmo",
+        "eps_estimate": -0.0663,
+        "revenue_estimate": 107922120,
+        "is_watchlist": false
+      },
+      {
         "ticker": "FTII",
         "date": "2026-06-03",
         "hour": "",
@@ -726,14 +734,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0606,
         "revenue_estimate": 121200000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AVO",
-        "date": "2026-06-04",
-        "hour": "",
-        "eps_estimate": 0.0606,
-        "revenue_estimate": 277144000,
         "is_watchlist": false
       },
       {
@@ -1111,6 +1111,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "AVO",
+        "date": "2026-06-08",
+        "hour": "",
+        "eps_estimate": 0.0606,
+        "revenue_estimate": 277144000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "BESS",
         "date": "2026-06-08",
         "hour": "",
@@ -1401,6 +1409,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "LAKE",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": -0.1632,
+        "revenue_estimate": 48297000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "LMNR",
         "date": "2026-06-09",
         "hour": "",
@@ -1552,14 +1568,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LAKE",
-        "date": "2026-06-10",
-        "hour": "",
-        "eps_estimate": -0.1632,
-        "revenue_estimate": 48297000,
         "is_watchlist": false
       },
       {
