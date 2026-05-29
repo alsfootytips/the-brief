@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-29T22:13:49.125351+00:00",
+  "generated_at": "2026-05-29T23:43:15.658746+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 7.31,
-      "price": 18.21,
+      "change_pct": 7.69,
+      "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-29T22:13:49.122090+00:00",
+      "timestamp": "2026-05-29T23:43:15.655393+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PLTR",
       "name": "PLTR",
-      "change_pct": 9.03,
-      "price": 156.29,
+      "change_pct": 8.98,
+      "price": 156.21,
       "is_watchlist": false,
-      "timestamp": "2026-05-29T22:13:49.122086+00:00",
+      "timestamp": "2026-05-29T23:43:15.655389+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -42,13 +42,156 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "MSFT",
       "name": "MSFT",
-      "change_pct": 5.15,
-      "price": 449.0,
+      "change_pct": 5.34,
+      "price": 449.8,
       "is_watchlist": false,
-      "timestamp": "2026-05-29T22:13:49.122076+00:00",
+      "timestamp": "2026-05-29T23:43:15.655380+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LendingClub CFO Andrew LaBenne sells $340,064 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/lendingclub-cfo-andrew-labenne-sells-340064-in-company-stock-93CH-4717497",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:31:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Flesh-eating screwworm found within 31 miles of US border, says USDA",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/flesheating-screwworm-found-within-31-miles-of-us-border-says-usda-4717487",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:30:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LendingClub general counsel Jordan Cheng sells $93,500 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/lendingclub-general-counsel-jordan-cheng-sells-93500-in-shares-93CH-4717495",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:28:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Landmark Bancorp director Patrick Alexander sells $136,320 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-patrick-alexander-sells-136320-in-stock-93CH-4717494",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:23:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Power Integrations director Balu Balakrishnan sells $10.7m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/power-integrations-director-balu-balakrishnan-sells-107m-in-stock-93CH-4717493",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:22:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Power Integrations director Nicholas Brathwaite sells $149,679 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/power-integrations-director-nicholas-brathwaite-sells-149679-in-stock-93CH-4717492",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:22:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 POWER INTEGRATIONS For: 29 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-power-integrations-for-29-may-93CH-4717491",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:21:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 CIRRUS LOGIC For: 29 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-cirrus-logic-for-29-may-93CH-4717490",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:21:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598618-yum-brands-in-exclusive-talks-to-sell-pizza-hut-to-longrange---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:06:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "General Dynamics secures $106M task order for U.S. Air Force MUOS support",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598616-general-dynamics-secures-106m-task-order-for-us-air-force-muos-support?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T22:32:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing wins $528.3M contract modification for multi-branch military support",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598615-boeing-wins-5283m-contract-modification-for-multi-branch-military-support?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T22:22:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SBM Offshore awarded multibillion-dollar FPSO contracts for Petrobras project",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598614-sbm-offshore-awarded-multibillion-dollar-fpso-contracts-for-petrobras-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T22:21:13+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prices, policy, pressure, flows all in action: What's happening in crypto market?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598557-prices-policy-pressure-flows-all-in-action-whats-happening-in-crypto-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T22:16:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -69,65 +212,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4598613-clean-energy-technologies-receives-nasdaq-notice-over-delayed-quarterly-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-29T21:58:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gevo chief of staff Kimberly Bowron sells $44,172 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/gevo-chief-of-staff-kimberly-bowron-sells-44172-in-shares-93CH-4717406",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:55:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oak Valley Bancorp director Allison Lafferty buys $2,909 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/oak-valley-bancorp-director-allison-lafferty-buys-2909-in-stock-93CH-4717405",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:55:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US immigration agent arrested in Texas for Minneapolis shooting",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-immigration-agent-arrested-in-texas-for-minneapolis-shooting-4717119",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:54:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump signs order aimed at removing restrictions on access to federal lands",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-signs-order-aimed-at-removing-restrictions-on-access-to-federal-lands-4717404",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T21:54:33+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 WESTWATER RESOURCES For: 29 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-westwater-resources-for-29-may-93CH-4717403",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:54:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -157,28 +241,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kratos Defense president sells $261,872 of common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kratos-defense-president-sells-261872-of-common-stock-93CH-4717402",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:49:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gevo CFO Agiri Yusuf sells $56,651 of GEVO common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/gevo-cfo-agiri-yusuf-sells-56651-of-gevo-common-stock-93CH-4717401",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:49:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Gap and American Eagle shares both get crushed \u2014 and neither retailer is blaming the economy",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories",
@@ -188,38 +250,20 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Gold gains as anticipated U.S.-Iran deal could ease inflation fears",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598602-gold-gains-as-anticipated-us-iran-deal-could-ease-inflation-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:48:16+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Zomedica Q1 2026 sees record revenue growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-zomedica-q1-2026-sees-record-revenue-growth-93CH-4717400",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:47:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ThreeD Capital GAAP EPS of -$0.03",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598611-threed-capital-gaap-eps-of-0_03?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:38:35+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
+      "headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T21:39:26+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -232,17 +276,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elevate Service Group Inc. reports Q1 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598610-elevate-service-group-inc-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:29:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -258,17 +291,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Celularity face Nasdaq listing rule breach after missing Q1 10-Q SEC filing",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598608-celularity-face-nasdaq-listing-rule-breach-after-missing-q1-10-q-sec-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:27:46+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -303,17 +325,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-29T21:24:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stardust Solar completes first tranche of private placement, cuts offering size",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598609-stardust-solar-completes-first-tranche-of-private-placement-cuts-offering-size?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:22:03+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -374,22 +385,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says will soon decide on Iran deal, says Hormuz Strait must open - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T20:50:39+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "These S&P 500 stocks soared the most during the AI-driven May rally",
@@ -399,6 +394,18 @@ window.theBriefLive = {
       "timestamp": "2026-05-29T20:43:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US issues new Iran-related counter-terrorism sanctions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVm1lQTd2R3dIUWlPenlFSkpzM0tiUC1RcGQ1eTVTNWY2blplYnpiaUVxc0lzNXZ0TE1NbjlwYXotcE1GVEktaHJVMmFseEt3aU45dThXQldxb29XRDBzaXBibkVWVFh6T3Q2TnpYWnMxUFAzTEo3UFI1NFdjaVFGNTB1R2N2R0lTWEtNUEo2NFNsbHUxUnpfSFNtUThGNW9Ib2cyd3NJN2hpekJX?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T20:31:45+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -451,18 +458,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T19:58:45+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "The CEOs of the world's biggest chip companies are descending on Taiwan next week",
       "source": "Yahoo",
@@ -503,6 +498,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=75b1e5e27491a5d27ccd54b59dea78f536eea94135b3396059dd717198fb6682",
       "is_watchlist": true,
       "timestamp": "2026-05-29T19:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Short Interest Is Surging, But That's Not The Real Story",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fed8160a111e99c5dd95c755113428d39f065949033a87427d2ff12cdcb2680b",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T18:54:47+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -671,6 +678,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "Bloom Energy Stock Is Sliding: What's Driving The Move?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f1b3c0eba99966c9c93d1dda7eb7ba804183910d11eb5d2c3f997a14284c453e",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T15:34:34+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "The Most Intriguing Market Dynamic",
       "source": "SeekingAlpha",
@@ -722,15 +741,14 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "The Great Parenthesis: The 2 IPOs Of The Century",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba89ccecf8d54860ab86939e91cff96e79677577c174a69e5eb3c18ad57c6856",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T14:50:09+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "Student loan borrowers will have two new repayment options come July 1. Here's how to pick one",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/29/student-loan-borrowers-new-repayment-plans.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T14:39:28+00:00",
+      "relevance_score": -3.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -790,17 +808,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Breakingviews - A new US-Iran deal could be as useless as the last - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXdjSTAzQ0FDZTdBS1FhMklsekpjNERqZFJ1eW9LN3ZTWDQ5aW1ySjVKX2FUdE5HUXlYQ19pVWFRU2xiM3lkZUM4Y3gzMlIyZFY3ZEhzZFJTVU03YWQ3Vk4zZWcxcHU5WDNTXzBJV1FvN0VXM2JTNWc1aEd5OFFiUmp3Y2JYbE8tZU9PaElOM2V3QjZkNVVZTnBIV3B2a3lu?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T13:10:38+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1093,15 +1100,58 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "What's Going On With Bloom Energy Stock Today?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cf57eec1f3b93adba3190c135336da7099b5d0557f86e86277141e769307343a",
-      "is_watchlist": true,
-      "timestamp": "2026-05-28T16:05:13+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "Zscaler Stock Plunges on Weak Guidance. Investors Were Maybe Right to Worry About an AI Apocalypse.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-stock-plunges-weak-guidance-163702184.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T16:37:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crude Oil Prices Supported as Strait of Hormuz Remains Closed",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-supported-strait-163621136.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T16:36:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Roundhill Memory ETF (DRAM) Packages Micron, Sandisk, Samsung, and SK Hynix in 1 Ticker for Just $60. But There's a Catch.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/roundhill-memory-etf-dram-packages-162600755.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T16:26:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Snowflake Surges On Earnings, AI Product Growth, New Amazon Deal",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/snowflake-stock-snow-snowflake-earnings-q12026/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T16:22:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Will Salesforce Buyback Calm Worries As Investors Await Growth Reacceleration?",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/salesforce-stock-repurchase-program-growth-reaccleration-salesforce-earnings/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T16:15:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1133,73 +1183,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-05-28T15:09:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kohl\u2019s Results Were Dismal, but Not as Bad as Feared",
-      "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-28-2026/card/kohl-s-results-were-dismal-but-not-as-bad-as-feared-QwW9GtE1ONVmcxCIPsZE?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T14:54:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Inflation Swamps Income Gains As Fed Eyes Rate Hike, But S&P 500 Rises",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/federal-reserve-pce-inflation-gdp-rate-hike-sp-500/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T14:42:31+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could Yellow Corp. workers finally get paid?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-yellow-corp-workers-finally-144147810.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T14:41:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thea Energy Raises $100 Million in New Funding to Advance Fusion Technology",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/thea-energy-raises-100-million-143604519.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T14:36:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar Erases Early Gains on Disappointing US Economic News",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-disappointing-143535133.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T14:35:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This couple mortgaged 9 properties in under a decade. Here are the financing tips they swear by",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/couple-mortgaged-9-properties-under-143422058.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T14:34:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1302,6 +1285,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-27T23:35:11+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best Buy stock gains as new gadgets and higher tax refunds boost sales",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/best-buy-stock-gains-as-new-gadgets-and-higher-tax-refunds-boost-sales-212025056.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-27T21:20:25+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
