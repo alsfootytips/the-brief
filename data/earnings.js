@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-30T08:09:46+00:00",
+  "generated_at": "2026-05-30T10:18:03+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -222,6 +222,16 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.2999,
         "revenue_estimate": 1551806580,
+        "is_watchlist": false
+      }
+    ],
+    "2026-05-31": [
+      {
+        "ticker": "CANG",
+        "date": "2026-05-31",
+        "hour": "",
+        "eps_estimate": -0.204,
+        "revenue_estimate": 118736323,
         "is_watchlist": false
       }
     ],
@@ -541,6 +551,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "IDT",
+        "date": "2026-06-03",
+        "hour": "",
+        "eps_estimate": 0.8989,
+        "revenue_estimate": 311080000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "IGPK",
         "date": "2026-06-03",
         "hour": "",
@@ -703,14 +721,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "CANG",
-        "date": "2026-06-04",
-        "hour": "",
-        "eps_estimate": -0.204,
-        "revenue_estimate": 118736323,
-        "is_watchlist": false
-      },
-      {
         "ticker": "CETY",
         "date": "2026-06-04",
         "hour": "",
@@ -804,14 +814,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IDT",
-        "date": "2026-06-04",
-        "hour": "",
-        "eps_estimate": 0.8989,
-        "revenue_estimate": 311080000,
         "is_watchlist": false
       },
       {
@@ -982,6 +984,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GIII",
+        "date": "2026-06-05",
+        "hour": "",
+        "eps_estimate": -0.3063,
+        "revenue_estimate": 540516360,
         "is_watchlist": false
       },
       {
@@ -1319,14 +1329,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "GIII",
-        "date": "2026-06-09",
-        "hour": "",
-        "eps_estimate": -0.3063,
-        "revenue_estimate": 540516360,
-        "is_watchlist": false
-      },
-      {
         "ticker": "HEOL",
         "date": "2026-06-09",
         "hour": "",
@@ -1561,14 +1563,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "VRA",
-        "date": "2026-06-10",
-        "hour": "",
-        "eps_estimate": -0.3333,
-        "revenue_estimate": 49607160,
-        "is_watchlist": false
-      },
-      {
         "ticker": "YRD",
         "date": "2026-06-10",
         "hour": "",
@@ -1760,6 +1754,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "VRA",
+        "date": "2026-06-11",
+        "hour": "",
+        "eps_estimate": -0.3333,
+        "revenue_estimate": 49607160,
         "is_watchlist": false
       },
       {

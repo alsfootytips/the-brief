@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T08:09:46.534994+00:00",
+  "generated_at": "2026-05-30T10:18:03.048343+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.56,
-      "change_pct": 0.06,
+      "price": 108.58,
+      "change_pct": 0.07,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
@@ -200,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"RPG Investment Advisory Reduces Peabody Energy Stake, According to Recent SEC Filing\""
+      "move_reason": "News: \"Quanta Services Inc. (NYSE:PWR) Screens Strongly for High Growth Momentum and Minervini Tr...\""
     },
     {
       "ticker": "XLP",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Agentic AI Be Apple's Next Big Tailwind?\""
+      "move_reason": "News: \"This Under-the-Radar Top Tech Investor Has 40% of His Portfolio in These 4 AI Stocks\""
     },
     {
       "ticker": "IWM",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Agentic AI Be Apple's Next Big Tailwind?\""
+      "move_reason": "News: \"This Under-the-Radar Top Tech Investor Has 40% of His Portfolio in These 4 AI Stocks\""
     },
     {
       "ticker": "OSCR",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"RPG Investment Advisory Reduces Peabody Energy Stake, According to Recent SEC Filing\""
+      "move_reason": "News: \"Quanta Services Inc. (NYSE:PWR) Screens Strongly for High Growth Momentum and Minervini Tr...\""
     },
     {
       "ticker": "TPL",
