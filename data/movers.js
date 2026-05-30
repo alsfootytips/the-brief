@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T16:05:54.702302+00:00",
+  "generated_at": "2026-05-30T17:21:45.869400+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.56,
-      "change_pct": 0.06,
+      "price": 108.58,
+      "change_pct": 0.07,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,

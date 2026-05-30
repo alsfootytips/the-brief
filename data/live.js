@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-30T16:05:54.707930+00:00",
+  "generated_at": "2026-05-30T17:21:45.874940+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T16:05:54.704704+00:00",
+      "timestamp": "2026-05-30T17:21:45.871764+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T16:05:54.704700+00:00",
+      "timestamp": "2026-05-30T17:21:45.871760+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,154 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T16:05:54.704691+00:00",
+      "timestamp": "2026-05-30T17:21:45.871751+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: What are the best prediction market stocks right now?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598619-sa-asks-what-are-the-best-prediction-market-stocks-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T17:00:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NextDecade Stock Has Lagged the Market, so Why Did One Investor Buy Up More?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nextdecade-stock-lagged-market-why-165808871.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:58:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Novo is slowly catching up with Lilly: Is Wegovy pill fueling the rally",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598636-novo-is-slowly-catching-up-with-lilly-is-wegovy-pill-fueling-the-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:49:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada\u2019s broader citizenship rules draw strong American interest, data shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/canadas-broader-citizenship-rules-draw-strong-american-interest-data-shows-4717776",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:48:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dyne Stock Is Up 56%. Here's What a $14 Million Stake Reduction Could Mean",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dyne-stock-56-heres-14-164824401.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:48:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coeur Mining Inc. (CDE) A Stock that Could 10x by 2030 While Returning Shareholder Value",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-inc-cde-stock-164436281.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:44:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s Why Zoetis (ZTS) Is one of the Best Wide Moat Stocks to Buy According to Wall Street Analysts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-zoetis-zts-one-best-164409945.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:44:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Robust Recurring Revenue Affirms Trimble Inc. (TRMB) as a Stock That Could 10x by 2030",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robust-recurring-revenue-affirms-trimble-164358733.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:43:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is LPL Financial Holdings (LPLA) One of the Best Wide Moat Stocks to Buy According to Wall Street Analysts?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-holdings-lpla-one-164326205.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:43:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Intuit Inc. (INTU) A stock that could 10x by 2030 Amid Restructuring and TurboTax Hit?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-inc-intu-stock-could-164314537.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:43:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US plans faster military drawdown from Europe, German newspaper reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-plans-faster-military-drawdown-from-europe-german-newspaper-reports-4717775",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:35:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump considers dropping concerts in US capital after artists drop out",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:30:28+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Real estate stocks lose out in May, health care REITs notable laggards",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598567-real-estate-stocks-lose-out-in-may-health-care-reits-notable-laggards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:00:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -58,50 +202,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/commodities-news/who-chief-rallies-community-in-congos-ebola-response-calls-for-more-funding-4717763",
       "is_watchlist": false,
       "timestamp": "2026-05-30T15:54:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kinross Gold Corporation (KGC): Renaissance Technologies Is A Long-Term Admirer",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-corporation-kgc-renaissance-155244772.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:52:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple Inc. (AAPL): Renaissance Technologies Opens New Position",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-renaissance-technologies-155158161.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:51:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir Technologies Inc. (PLTR): Renaissance Technologies Continues Trimming Stake",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-renaissance-155106404.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:51:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "United Therapeutics Corporation (UTHR): Renaissance Technologies Likes This Biotech Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/united-therapeutics-corporation-uthr-renaissance-155020668.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:50:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -119,17 +219,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Steakholder Foods Ltd. (STKH): One of the Best Lab-Grown Meat Stocks to Invest In",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/steakholder-foods-ltd-stkh-one-154850041.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:48:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Which Crypto Will Make the Most Millionaires This Cycle?",
       "source": "Yahoo",
@@ -142,17 +231,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Tyson Foods Inc. (TSN): One of the Top Lab-Grown Meat Stocks to Invest In",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-inc-tsn-one-154808649.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:48:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "The 10-Year Treasury Yield Approaching 5% Could Reshape SCHG\u2019s Next 12 Months",
       "source": "Yahoo",
@@ -162,28 +240,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Beyond Meat Inc. (BYND): One of the Elite Lab-Grown Meat Stocks to Invest In",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-meat-inc-bynd-one-154727401.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:47:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pluri Inc. (PLUR): One of the Premier Lab-Grown Meat Stocks to Invest In",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pluri-inc-plur-one-premier-154621012.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:46:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -426,50 +482,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tiny Guyana poised for big Iran oil gains and growth strains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/tiny-guyana-poised-for-big-iran-oil-gains-and-growth-strains-4717768",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T14:06:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable analyst calls this week: Sandisk, Snowflake and Sensata among top picks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598532-notable-analyst-calls-this-week-sandisk-snowflake-and-sensata-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T14:05:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exelixis presents Cabometyx data for neuroendocrine tumors",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/exelixis-presents-cabometyx-data-for-neuroendocrine-tumors-93CH-4717767",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T14:05:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JPMorgan, Futu in losers; Robinhood, SoFi among gainers: week's financials wrap",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598539-jpmorgan-futu-in-losers-robinhood-sofi-among-gainers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T14:00:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Net worth matters more than income when it comes to financial anxiety, survey finds",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/30/why-higher-income-may-not-reduce-financial-anxiety.html",
@@ -477,32 +489,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-30T14:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron\u2019s ascent to $1T club divides analysts",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598630-micron-s-ascent-to-1t-club-divides-analysts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T13:58:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Philippines remains under threat from China despite Trump-Xi summit, minister says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/philippines-remains-under-threat-from-china-despite-trumpxi-summit-minister-says-4717757",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T13:48:41+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -563,6 +549,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Berkshire trails red-hot S&P 500 by biggest margin so far this year",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/30/berkshire-trails-red-hot-sp-500-by-biggest-margin-so-far-this-year.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T12:47:51+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Will Gen Z be the generation to revive moviegoing?",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/30/gen-z-movie-theaters.html",
@@ -585,17 +582,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Meta has struggled at selling anything other than ads. Will AI be different?",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
@@ -604,6 +590,17 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta has struggled at selling anything other than ads. Will AI be different?",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T12:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -650,18 +647,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump ends Iran meeting without announcing \u2018final determination\u2019 on deal",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T09:40:22+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -866,6 +851,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "DG",
+      "headline": "Dollar Tree Keeps Winning After Family Dollar Divorce",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28cbf81c5d7dbb22fa0b72347194dfd7c7a83652bc1286d8f090fd0648281a2f",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T15:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "Forget Nvidia! This Under-the-Radar Supercharged Growth Stock is a Much Smarter Buy for 2026",
       "source": "Yahoo",
@@ -1037,18 +1034,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6d24c9c8fb7a99b63e4c6c2666aa3bc366963786d575e692a3d4ebd280375351",
       "is_watchlist": true,
       "timestamp": "2026-05-29T03:54:38+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Dollar General (DG) Shares Skyrocket, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a533d6fcb8686313fc65b03728c06ae8e924270d82862d6c318fa99f83665c91",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T02:22:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1360,6 +1345,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These gas deals could make summer road trips a lot cheaper",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/these-gas-deals-could-make-summer-road-trips-a-lot-cheaper-194922927.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-21T19:49:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };
