@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T11:53:14.438454+00:00",
+  "generated_at": "2026-05-30T13:39:42.624502+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.56,
-      "change_pct": 0.06,
+      "price": 108.58,
+      "change_pct": 0.07,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Under-the-Radar Top Tech Investor Has 40% of His Portfolio in These 4 AI Stocks\""
+      "move_reason": "News: \"Does Warren Buffett's Successor, Greg Abel, Know Something That Wall Street Doesn't? He's ...\""
     },
     {
       "ticker": "IWM",
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Might The Federal Reserve Decide After May 2026's Job Report?\""
+      "move_reason": "News: \"The May Labor Market Likely To Be Weak - Yet The Fed Might Still Need To Hike\""
     },
     {
       "ticker": "AMD",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Might The Federal Reserve Decide After May 2026's Job Report?\""
+      "move_reason": "News: \"The May Labor Market Likely To Be Weak - Yet The Fed Might Still Need To Hike\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Under-the-Radar Top Tech Investor Has 40% of His Portfolio in These 4 AI Stocks\""
+      "move_reason": "News: \"Does Warren Buffett's Successor, Greg Abel, Know Something That Wall Street Doesn't? He's ...\""
     },
     {
       "ticker": "OSCR",
