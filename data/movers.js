@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T17:21:45.869400+00:00",
+  "generated_at": "2026-05-30T18:40:08.335479+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General Could Guide Conservatively Amid Cost Headwinds, Economic Pressure on Consum...\""
+      "move_reason": "News: \"The Look Ahead: May 29, 2026\""
     },
     {
       "ticker": "GLD",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.58,
-      "change_pct": 0.07,
+      "price": 108.56,
+      "change_pct": 0.06,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Zscaler Stock a Buy After Its Share Price Plummets?\""
+      "move_reason": "News: \"2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On\""
     },
     {
       "ticker": "IWM",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General Could Guide Conservatively Amid Cost Headwinds, Economic Pressure on Consum...\""
+      "move_reason": "News: \"The Look Ahead: May 29, 2026\""
     },
     {
       "ticker": "GEV",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Zscaler Stock a Buy After Its Share Price Plummets?\""
+      "move_reason": "News: \"2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On\""
     },
     {
       "ticker": "OSCR",
