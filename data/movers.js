@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T10:18:03.048343+00:00",
+  "generated_at": "2026-05-30T11:53:14.438454+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.58,
-      "change_pct": 0.07,
+      "price": 108.56,
+      "change_pct": 0.06,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Party Like It's 1999, 1996 And 2007\""
+      "move_reason": "News: \"What Might The Federal Reserve Decide After May 2026's Job Report?\""
     },
     {
       "ticker": "AMD",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Party Like It's 1999, 1996 And 2007\""
+      "move_reason": "News: \"What Might The Federal Reserve Decide After May 2026's Job Report?\""
     },
     {
       "ticker": "NBIS",
