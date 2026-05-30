@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-30T20:59:00.143768+00:00",
+  "generated_at": "2026-05-30T22:07:30.821374+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T20:59:00.140436+00:00",
+      "timestamp": "2026-05-30T22:07:30.818200+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T20:59:00.140431+00:00",
+      "timestamp": "2026-05-30T22:07:30.818196+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,112 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T20:59:00.140422+00:00",
+      "timestamp": "2026-05-30T22:07:30.818187+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Warren Buffett Successor Greg Abel Made 3 Big Purchases Last Quarter, and They're All Exceptional Performers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f76d239a7219eccb93752fc9c15d97f905598994466d0b32bfbe43c8d41d2b9b",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T21:50:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Datadog Share Value Has More Than Doubled As Investors Recognize a Growing Market Opportunity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c02f05ddd8042655f5d1a4943c06da7b60f63ff9622e7c9a3e4f808b40c1761",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T21:48:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DOJ seeks Judge Eleanor Ross recusal in Georgia election case, citing reports she was disciplined",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/30/doj-seeks-recusal-of-judge-eleanor-ross-in-georgia-election-case.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T21:47:49+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The 1 Metric That Tells Me This Tech Stock Is About to Rip Higher -- and It Just Flashed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf509a61e05a24baaabbade8a653eaa433a4658f7e8ceef1db70df245cf4f4f1",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T21:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3 Stocks to Buy With Less Than $20",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-less-20-213500574.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why This Fund Dumped $35 Million of UiPath Even as Revenue Grew 17%",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fund-dumped-35-million-213000499.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T21:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What lies ahead for the Indian rupee in a higher oil price environment?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/what-lies-ahead-for-the-indian-rupee-in-a-higher-oil-price-environment-4717786",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T21:28:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4717785",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It is such a fine line\u2019: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:58:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -64,34 +166,24 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Will ceasefires in Iran and Ukraine be enough to stabilize markets?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/will-ceasefires-in-iran-and-ukraine-be-enough-to-stabilize-markets-4717784",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:52:03+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "SoftBank to invest up to \u20ac75 bln in French AI data centers",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/softbank-to-invest-up-to-75-bln-in-french-ai-data-centers-4717783",
       "is_watchlist": false,
       "timestamp": "2026-05-30T20:42:47+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX IPO Nears and Retail Makes a Comeback",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-nears-retail-makes-204231704.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T20:42:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-dumps-entire-203300760.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T20:33:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -152,18 +244,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Space Stocks Flying Under the Radar and Worth Buying This Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6ceae1fe29c312c5c4b5783c858b0422cc5c9996be54a54db12086a60b5b55b",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T19:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Coherent Corp. (COHR): Leopold Aschenbrenner Changes Bullish Stance",
       "source": "Yahoo Finance",
@@ -183,30 +263,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-30T19:48:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Wall Street Is Dead Wrong About This Popular Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf68b3cbef1c4709028e132849c444a36975caad773d012b0c6aa25a1be392b7",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T19:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc1bef3eca272a0f8db2a9709d7e96c1212d3643659d01a8d11b74bca24ae91b",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T19:33:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -339,21 +395,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "US judge orders review of Trump\u2019s IRS lawsuit settlement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-judge-orders-review-of-trumps-irs-lawsuit-settlement-4717778",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T17:48:25+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Incyte lymphoma therapy lifts cancer-free survival by 25% in late-stage trial",
@@ -361,39 +402,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4598637-incyte-lymphoma-therapy-lifts-cancer-free-survival-25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-30T17:46:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DOGE official discussed contracts tied to firm he invested in, WSJ reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/doge-official-discussed-contracts-tied-to-firm-he-invested-in-wsj-reports-4717777",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T17:39:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DOJ seeks Judge Eleanor Ross recusal in Georgia election case, citing reports she was disciplined",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/30/doj-seeks-recusal-of-judge-eleanor-ross-in-georgia-election-case.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T17:38:57+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WHO chief urges safe burials in visit to heart of Ebola outbreak",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/who-chief-rallies-community-in-congos-ebola-response-calls-for-more-funding-4717763",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T17:36:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -463,17 +471,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:18:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -756,11 +753,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "TSX extends monthly gain, led by tech and metal mining shares - Reuters",
+      "headline": "Israeli forces cross key Lebanon river in expanded ground offensive - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFd6d2x0YUxYOWtKV0RWZmc4WkRZR3Nua0QxVmxOQm5rUUcwd18zeGVaSW8yZllQWXV5UE1YS20wODVHaG1VOXp6NzBVY3F5Z0NIWkhNbVU1bS1KdDB4cGRoMmp4Ty0yYU50SFNpWlJTYms4WE1iSzFlcWh3Ti1EMkJDZTlESE1wdmg1WVVpeXpQY2VPOHVRSGJ0YXFnYW9ldVQzSVVEWExqZnhueHluMGl0TWZwcmQ1V2VIVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDlpYWVyelEtSWZoWmdtUC11UFhFc296VkRzdkxmT1o2X0pwdkhKQUdVQzkwaF9jWkNEajBGWnJlWjdiVjJxNlVJaEg1Q1VnWVRWQnZOc28zMTQzVTExSGt4VHhkNVNUN1dFSUJfRHlLVUZSZVJZQTR4WDNFanNZc0xnakR3MkV6djh4aWJseDduY2hqYU9aLWV3S2ZhOGl4Szh6VElwYnZNdVRMQmV0cmpqWkYwU1JBUVE?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T21:39:43+00:00",
+      "timestamp": "2026-05-29T23:01:29+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T20:59:00.138008+00:00",
+  "generated_at": "2026-05-30T22:07:30.815791+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.58,
-      "change_pct": 0.07,
+      "price": 108.56,
+      "change_pct": 0.06,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Space Stocks Flying Under the Radar and Worth Buying This Month\""
+      "move_reason": "News: \"Warren Buffett Successor Greg Abel Made 3 Big Purchases Last Quarter, and They're All Exce...\""
     },
     {
       "ticker": "IWM",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Space Stocks Flying Under the Radar and Worth Buying This Month\""
+      "move_reason": "News: \"Warren Buffett Successor Greg Abel Made 3 Big Purchases Last Quarter, and They're All Exce...\""
     },
     {
       "ticker": "OSCR",
