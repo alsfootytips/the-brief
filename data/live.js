@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-30T22:07:30.821374+00:00",
+  "generated_at": "2026-05-30T23:15:48.092243+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T22:07:30.818200+00:00",
+      "timestamp": "2026-05-30T23:15:48.088829+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T22:07:30.818196+00:00",
+      "timestamp": "2026-05-30T23:15:48.088824+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,65 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T22:07:30.818187+00:00",
+      "timestamp": "2026-05-30T23:15:48.088815+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marathon Digital Bets Its Bitcoin Mining Power Assets Can Fuel AI Data Center Growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/marathon-digital-bets-bitcoin-mining-230225331.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T23:02:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Dividend ETF Built for Whatever the Market Does Next",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-built-whatever-market-230100826.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T23:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/yum-brands-in-exclusive-talks-to-sell-pizza-hut-to-longrange--bloomberg-4717789",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T22:35:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What do rising airfares mean for cruise?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/what-do-rising-airfares-mean-for-cruise-4717788",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T22:07:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ECB must act on inflation sooner rather than later, policymaker Pereira says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/ecb-must-act-on-inflation-sooner-rather-than-later-policymaker-pereira-says-4717787",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T22:06:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -96,28 +151,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 Stocks to Buy With Less Than $20",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-less-20-213500574.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why This Fund Dumped $35 Million of UiPath Even as Revenue Grew 17%",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fund-dumped-35-million-213000499.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T21:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -270,21 +303,6 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "US military says it turned away blockade runner trying to reach Iranian port",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-military-says-it-turned-away-blockade-runner-trying-to-reach-iranian-port-4717780",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T19:30:25+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
       "headline": "US military says it turned away blockade runner trying to reach Iranian port - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczdSbmVIRkxGZzQwRk8yYkEzSGhLYlNfTXFVZVN4ZHllWVprVVY5YXJRdGxkQ1VzRHN6RDZPeDI3X0pIbFZ4LUhjOF9TVlI0a1c4NGdrRTAtX19iYkFQVkdRa1NaNFR0ZGc2ZlZrM2t0a0Z5c3M2akd3UXpIUjdVODAxRGJ2R1owMlRMN3BHc0FiQWxIUm14R3ZIUDFLZEx4UlNkSlI4cDV5TzJMZXJCdnpfSWZUaVRxVndLMGFYeWljTHZIQ0E?oc=5",
@@ -293,17 +311,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump to headline 250th anniversary fair opening after performers drop out",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:24:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -347,17 +354,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-30T18:36:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rights groups sue over conditions at largest US immigration detention center",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/rights-groups-sue-over-conditions-at-largest-us-immigration-detention-center-4717779",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T18:30:29+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
