@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-30T19:55:02.037793+00:00",
+  "generated_at": "2026-05-30T20:59:00.143768+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T19:55:02.034999+00:00",
+      "timestamp": "2026-05-30T20:59:00.140436+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T19:55:02.034996+00:00",
+      "timestamp": "2026-05-30T20:59:00.140431+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T19:55:02.034989+00:00",
+      "timestamp": "2026-05-30T20:59:00.140422+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -53,68 +53,160 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Infosys Limited (INFY): Leopold Aschenbrenner Is Bearish on This Firm",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-limited-infy-leopold-aschenbrenner-193525731.html",
+      "headline": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T19:35:25+00:00",
+      "timestamp": "2026-05-30T20:55:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
+      "headline": "SoftBank to invest up to \u20ac75 bln in French AI data centers",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/softbank-to-invest-up-to-75-bln-in-french-ai-data-centers-4717783",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:42:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX IPO Nears and Retail Makes a Comeback",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-nears-retail-makes-204231704.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:42:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-dumps-entire-203300760.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:33:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kevin Warsh 101: Is the new Fed Chair a hawk or a dove?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/kevin-warsh-101-is-the-new-fed-chair-a-hawk-or-a-dove-4717782",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:29:25+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-glxy-leopold-aschenbrenner-195727813.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:57:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:55:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hut 8 Corp. (HUT): Leopold Aschenbrenner Sells Holding",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-corp-hut-leopold-195346935.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:53:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kilroy Realty Corporation (KRC): Leopold Aschenbrenner Has Bearish Stance on This Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kilroy-realty-corporation-krc-leopold-195138449.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:51:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Space Stocks Flying Under the Radar and Worth Buying This Month",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6ceae1fe29c312c5c4b5783c858b0422cc5c9996be54a54db12086a60b5b55b",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T19:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coherent Corp. (COHR): Leopold Aschenbrenner Changes Bullish Stance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-corp-cohr-leopold-aschenbrenner-194931692.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:49:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EQT Corporation (EQT): Leopold Aschenbrenner Is No Longer Bullish",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-eqt-leopold-aschenbrenner-194800862.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:48:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
       "headline": "Why Wall Street Is Dead Wrong About This Popular Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-dead-wrong-193500586.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf68b3cbef1c4709028e132849c444a36975caad773d012b0c6aa25a1be392b7",
+      "is_watchlist": true,
       "timestamp": "2026-05-30T19:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "ProPetro Holding Corp. (PUMP): Leopold Aschenbrenner Remains Bullish",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/propetro-holding-corp-pump-leopold-193420035.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:34:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SharonAI Holdings Inc. (SHAZ): Leopold Aschenbrenner Declares New Position",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sharonai-holdings-inc-shaz-leopold-193307274.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:33:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
       "headline": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stocks-crushed-193300389.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc1bef3eca272a0f8db2a9709d7e96c1212d3643659d01a8d11b74bca24ae91b",
+      "is_watchlist": true,
       "timestamp": "2026-05-30T19:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Babcock & Wilcox Enterprises, Inc. (BW): Leopold Aschenbrenner Likes This Energy Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/babcock-wilcox-enterprises-inc-bw-193143112.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:31:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -132,26 +224,19 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "WhiteFiber, Inc. (WYFI): Leopold Aschenbrenner Discloses New Bet",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/whitefiber-inc-wyfi-leopold-aschenbrenner-192949977.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:29:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Power Solutions International (PSIX): Leopold Aschenbrenner Admires This Power Firm",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/power-solutions-international-psix-leopold-192823825.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:28:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "US military says it turned away blockade runner trying to reach Iranian port - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczdSbmVIRkxGZzQwRk8yYkEzSGhLYlNfTXFVZVN4ZHllWVprVVY5YXJRdGxkQ1VzRHN6RDZPeDI3X0pIbFZ4LUhjOF9TVlI0a1c4NGdrRTAtX19iYkFQVkdRa1NaNFR0ZGc2ZlZrM2t0a0Z5c3M2akd3UXpIUjdVODAxRGJ2R1owMlRMN3BHc0FiQWxIUm14R3ZIUDFLZEx4UlNkSlI4cDV5TzJMZXJCdnpfSWZUaVRxVndLMGFYeWljTHZIQ0E?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T19:27:43+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -281,30 +366,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b63e5558782218e0dae0256cf36ce740366180da2faa13e2d9480d30b940b5e3",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T17:46:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why NVDY Shareholders Miss Half of NVIDIA\u2019s Explosive Moves in Strong Months",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7309b048c1b019fb9e6bcae1f62fd5e0ca2c598569c0e5a4632893b16ce8859c",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T17:40:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "DOGE official discussed contracts tied to firm he invested in, WSJ reports",
       "source": "Investing.com News",
@@ -338,18 +399,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "I Think This Is the Most Misunderstood Tech Stock on the Market Right Now -- and That's Exactly Why I'm Buying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86ef2c926059e5921d3905a19a483c75ecd41ea14f788a3ae8436357372ae399",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T17:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "DOJ seeks Judge Eleanor Ross recusal in Georgia election case, citing reports she was disciplined",
       "source": "CNBC",
@@ -378,28 +427,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4598636-novo-is-slowly-catching-up-with-lilly-is-wegovy-pill-fueling-the-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-30T16:49:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada\u2019s broader citizenship rules draw strong American interest, data shows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/canadas-broader-citizenship-rules-draw-strong-american-interest-data-shows-4717776",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T16:48:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US plans faster military drawdown from Europe, German newspaper reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-plans-faster-military-drawdown-from-europe-german-newspaper-reports-4717775",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T16:35:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -446,17 +473,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-30T15:18:00+00:00",
       "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-took-out-a-100-000-parent-plus-loan-for-his-daughter-she-dropped-out-should-we-refinance-bea7dc6e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:10:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -747,18 +763,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-29T21:39:43+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US issues new Iran-related counter-terrorism sanctions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVm1lQTd2R3dIUWlPenlFSkpzM0tiUC1RcGQ1eTVTNWY2blplYnpiaUVxc0lzNXZ0TE1NbjlwYXotcE1GVEktaHJVMmFseEt3aU45dThXQldxb29XRDBzaXBibkVWVFh6T3Q2TnpYWnMxUFAzTEo3UFI1NFdjaVFGNTB1R2N2R0lTWEtNUEo2NFNsbHUxUnpfSFNtUThGNW9Ib2cyd3NJN2hpekJX?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T20:31:45+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",

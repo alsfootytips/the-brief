@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T19:55:02.033074+00:00",
+  "generated_at": "2026-05-30T20:59:00.138008+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On\""
+      "move_reason": "News: \"3 Space Stocks Flying Under the Radar and Worth Buying This Month\""
     },
     {
       "ticker": "IWM",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Genius Stocks That Billionaire Bill Ackman Just Loaded Up On\""
+      "move_reason": "News: \"3 Space Stocks Flying Under the Radar and Worth Buying This Month\""
     },
     {
       "ticker": "OSCR",
