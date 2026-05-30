@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-30T13:39:42.630321+00:00",
+  "generated_at": "2026-05-30T14:55:51.040986+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T13:39:42.626939+00:00",
+      "timestamp": "2026-05-30T14:55:51.037589+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T13:39:42.626935+00:00",
+      "timestamp": "2026-05-30T14:55:51.037584+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,32 +45,286 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T13:39:42.626926+00:00",
+      "timestamp": "2026-05-30T14:55:51.037574+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "67 million kids haven\u2019t signed up for \u2018Trump accounts.\u2019 Here\u2019s what they could be missing out on.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/67-million-kids-havent-signed-up-for-trump-accounts-heres-what-they-could-be-missing-out-on-ea56dff9?mod=mw_rss_topstories",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T14:54:00+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "The U.S.-China rivalry is killing global supply chains. Your portfolio needs a \u2018home court advantage.\u2019",
+      "headline": "This mutual fund lets you buy SpaceX stock before the IPO \u2014 but what are you actually getting?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-mutual-fund-lets-you-buy-spacex-stock-before-the-ipo-but-what-are-you-actually-getting-907b96d1?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T13:35:00+00:00",
+      "timestamp": "2026-05-30T14:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Even the Ronald Reagan Institute doesn\u2019t believe the \u2018waste, fraud and abuse\u2019 baloney",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/even-the-ronald-reagan-institute-doesnt-believe-the-waste-fraud-and-abuse-baloney-629a6447?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:47:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The death of Nascar driver Kyle Busch is renewing the debate around indexed universal life insurance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-death-of-nascar-driver-kyle-busch-is-renewing-the-debate-around-indexed-universal-life-insurance-3d5dc6d5?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:46:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Your retirement plan may have a \u2018blind spot\u2019 that could leave you without enough money",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/have-a-date-in-mind-to-stop-working-why-you-likely-wont-retire-when-you-plan-to-5e9f2f38?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:46:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft to unveil first Windows PCs powered by Nvidia chips next week: Axios",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598635-microsoft-to-unveil-first-windows-pcs-powered-by-nvidia-chips-next-week-axios?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:39:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/smarter-buy-bitcoin-btc-ethereum-143538623.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:35:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The AI Infrastructure Play Hiding in Plain Sight That Could Be 2026's Biggest Surprise",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/ai-infrastructure-play-hiding-plain-143500087.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/first-windows-pc-powered-by-nvidia-chips-to-debut-next-week-axios-reports-4717762",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:24:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:22:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "America's Car-Mart retains advisor to evaluate strategic alternatives",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598632-americas-car-mart-retains-advisor-to-evaluate-strategic-alternatives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:15:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Investing in the Dow or S&P 500 doesn\u2019t matter \u2014 here\u2019s what actually does",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:13:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tiny Guyana poised for big Iran oil gains and growth strains",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/tiny-guyana-poised-for-big-iran-oil-gains-and-growth-strains-4717768",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:06:28+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "The $450,000 Debt Trap That Costs Dentists $1 Million in Forgone Income",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/450-000-debt-trap-costs-133030936.html",
+      "headline": "Notable analyst calls this week: Sandisk, Snowflake and Sensata among top picks",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598532-notable-analyst-calls-this-week-sandisk-snowflake-and-sensata-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T13:30:30+00:00",
+      "timestamp": "2026-05-30T14:05:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exelixis presents Cabometyx data for neuroendocrine tumors",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/exelixis-presents-cabometyx-data-for-neuroendocrine-tumors-93CH-4717767",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:05:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tiny Guyana poised for big Iran oil gains and growth strains - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3dHcWZTWTJ3cHcyV3VUdHAteUZiTElWMzJtQlM2RC1mZDhsWFh0Sm9uWk9KYzk5akFkeWhtUU55WEliSzc0TXJxN1p0SHNWTi1RY2sxZ3R4alRhWDhqeHlrdFJGcW85UFJFMDN3SF9uaV9sNDVDUl9kV2tpbHd0NldmcnMzX01CUXo0a2lhSzdvMDZRLTREVEpjQzQ1eFpBX2lzQlVDVQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:03:43+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JPMorgan, Futu in losers; Robinhood, SoFi among gainers: week's financials wrap",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598539-jpmorgan-futu-in-losers-robinhood-sofi-among-gainers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T14:00:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Micron\u2019s ascent to $1T club divides analysts",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598630-micron-s-ascent-to-1t-club-divides-analysts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T13:58:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The \u2018Three A\u2019s\u2019 are keeping the economy afloat during Iran war. Is it enough to avoid recession?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-three-as-are-keeping-the-economy-afloat-during-iran-war-is-it-enough-to-avoid-recession-9769e907?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T13:55:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "WHO chief rallies community in Congo\u2019s Ebola response, calls for more funding",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/who-chief-rallies-community-in-congos-ebola-response-calls-for-more-funding-4717763",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T13:54:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Philippines remains under threat from China despite Trump-Xi summit, minister says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/philippines-remains-under-threat-from-china-despite-trumpxi-summit-minister-says-4717757",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T13:48:41+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Can Solana (SOL) Reclaim Its $294 All-Time High?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b00a130d2b9bc60ec8aaafa82f170761358a357eb47006b2d4a6657915a11c8",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T13:44:21+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Gold Is Up Again in 2026 and After Reviewing Every Way to Access the Metal, These 3 ETFs Cover the Trade at Three Different Risk Levels",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9785a77a595fef8af08a3813e97ec652486264ba1cd72a33812f26103b5b2ec7",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T13:36:50+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "How to Recession-Proof Your Retirement Income Before Summer 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb8d5f0693d4bc6786d700b26093c1dffbdc5bec3b9b03ae09ed378915afad8d",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T13:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -86,11 +340,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Irrational Exuberance 2.0 Has Arrived on Wall Street",
+      "headline": "Everyone told this Atlanta couple to sell their inherited cemetery business \u2014 it now makes $6 million a year",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/irrational-exuberance-2-0-arrived-132600422.html",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/everyone-told-atlanta-couple-sell-133000187.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T13:26:00+00:00",
+      "timestamp": "2026-05-30T13:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -102,39 +356,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/nvidia-to-unveil-first-windows-pcs-powered-by-its-chips-next-week--axios-4717764",
       "is_watchlist": false,
       "timestamp": "2026-05-30T13:25:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T13:21:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The company behind the White House\u2019s UFC event says rivals \u2018would kill\u2019 for the opportunity. Critics say that\u2019s a problem.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-company-behind-the-white-houses-ufc-event-says-rivals-would-kill-for-the-opportunity-critics-say-thats-a-problem-bf463d8d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T13:19:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WHO chief rallies community in Congo\u2019s Ebola response, calls for more funding",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/who-chief-rallies-community-in-congos-ebola-response-calls-for-more-funding-4717763",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T13:18:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -208,33 +429,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wall Street\u2019s red-hot momentum trade is still winning, as strategy delivers best 2-month gain on record",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wall-streets-red-hot-momentum-trade-is-still-winning-as-strategy-delivers-best-2-month-gain-on-record-e3984391?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Replimune got another attempt at lead drug after White House intervention: WSJ",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4598629-replimune-wins-fda-white-house-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-30T12:58:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I\u2019m cutting my 401(k) contribution to 3% for one year to help with moving expenses. Is that risky?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-cutting-my-401-k-contribution-to-3-for-one-year-to-help-with-moving-expenses-is-that-risky-8df60c28?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:57:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -263,34 +462,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/first-windows-pc-powered-by-nvidia-chips-to-debut-next-week-axios-reports-4717762",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:54:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "3 themes that drove stocks to another week of records \u2014 and a banner month",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/30/3-themes-that-drove-stocks-to-another-record-week-and-a-banner-month.html",
       "is_watchlist": false,
       "timestamp": "2026-05-30T12:54:38+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Inflation fight again putting central bank independence under strain, policymakers say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/inflation-fight-again-putting-central-bank-independence-under-strain-policymakers-say-4717761",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:54:28+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -334,85 +511,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-reveals-3-serious-124500863.html",
       "is_watchlist": false,
       "timestamp": "2026-05-30T12:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Billionaire Tilman Fertitta's $5.7 billion bet on Caesars could shake up the casino scene in Las Vegas \u2014 and beyond",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-tilman-fertittas-5-7-123500642.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China warns of retaliation if EU imposes new trade restrictions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/china-warns-of-retaliation-if-eu-imposes-new-trade-restrictions-4717760",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:34:22+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Beldex Launches BNS Marketplace, Expanding Digital Ownership Across the Ecosystem",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-bns-marketplace-expanding-digital-ownership-across-the-ecosystem-4717759",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:30:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tesla facing consumer lawsuit in China over FSD claims: report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598628-tesla-facing-consumer-lawsuit-in-china-over-fsd-claims-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:02:59+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Death by Amazon? Dillard's said not so fast \u2014 and rallied 800%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598490-death-by-amazon-dillards-said-not-so-fast-and-rallied-800?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:00:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Appian CEO says time of subsidized AI will end soon",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598569-appian-ceo-says-time-of-subsidized-ai-will-end-soon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:00:09+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broadcom sees bullish views at Susquehanna ahead of Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598252-broadcom-sees-bullish-views-at-susquehanna-ahead-of-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:00:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -474,64 +572,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "What would cause the Fed to hike rates this year? The answer might surprise you.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-would-cause-the-fed-to-hike-rates-this-year-the-answer-might-surprise-you-8c500ada?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Does Warren Buffett's Successor, Greg Abel, Know Something That Wall Street Doesn't? He's Piling Into a \"Magnificent Seven\" Stock at Close to 30x Earnings That Other Billionaire Hedge Fund Managers Are Dumping.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b95a42284847ab2cde104bc467a21e9c08e7636d914610e05241d4c8a0f1e431",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T11:45:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 Industrial Stocks You'll Wish You Bought in 2026 a Decade From Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ecc4f7c8e072b3c8a672b36b88f07b446aacc627828cc3fa9f4a0b1f0a94b6c",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T11:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "SpaceX Quietly Admits to a Threat It Helped Create, and Can\u2019t Stop",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=981df89ab6225d41c809596852936b028d3878460845ef2d9d5aa459ac410709",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T11:29:35+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T11:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "Assessing Trade Desk (TTD) Valuation After Fresh Sell Rating And Ongoing Share Price Weakness",
       "source": "Yahoo",
@@ -555,25 +595,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "\u2018It is such a fine line\u2019: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T10:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tiny Guyana poised for big Iran oil gains and growth strains - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3dHcWZTWTJ3cHcyV3VUdHAteUZiTElWMzJtQlM2RC1mZDhsWFh0Sm9uWk9KYzk5akFkeWhtUU55WEliSzc0TXJxN1p0SHNWTi1RY2sxZ3R4alRhWDhqeHlrdFJGcW85UFJFMDN3SF9uaV9sNDVDUl9kV2tpbHd0NldmcnMzX01CUXo0a2lhSzdvMDZRLTREVEpjQzQ1eFpBX2lzQlVDVQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T10:05:43+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "6 Numbers That Should Give Prudent Investors Pause",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2519cb787b16479c649ca3528bb26c15bb9d85ccb208982cde64bfb4cb46bda7",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T09:49:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -624,18 +654,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The 3 Things That Could Pop The AI Bubble",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=53750faedb1907fe0ebf8bf8fcaee8d05ebbc8640727ab0b819750fdcc551c7e",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T08:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -649,17 +667,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil slides to six-week low as traders bet U.S.-Iran framework deal is near",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598617-oil-slides-to-six-week-low-as-traders-bet-us-iran-framework-deal-is-near?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T23:44:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

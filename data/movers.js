@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T13:39:42.624502+00:00",
+  "generated_at": "2026-05-30T14:55:51.035152+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does Warren Buffett's Successor, Greg Abel, Know Something That Wall Street Doesn't? He's ...\""
+      "move_reason": "News: \"Can Solana (SOL) Reclaim Its $294 All-Time High?\""
     },
     {
       "ticker": "IWM",
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The May Labor Market Likely To Be Weak - Yet The Fed Might Still Need To Hike\""
+      "move_reason": "News: \"6 Numbers That Should Give Prudent Investors Pause\""
     },
     {
       "ticker": "AMD",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The May Labor Market Likely To Be Weak - Yet The Fed Might Still Need To Hike\""
+      "move_reason": "News: \"6 Numbers That Should Give Prudent Investors Pause\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does Warren Buffett's Successor, Greg Abel, Know Something That Wall Street Doesn't? He's ...\""
+      "move_reason": "News: \"Can Solana (SOL) Reclaim Its $294 All-Time High?\""
     },
     {
       "ticker": "OSCR",
