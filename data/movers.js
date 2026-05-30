@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T14:55:51.035152+00:00",
+  "generated_at": "2026-05-30T16:05:54.702302+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.58,
-      "change_pct": 0.07,
+      "price": 108.56,
+      "change_pct": 0.06,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Solana (SOL) Reclaim Its $294 All-Time High?\""
+      "move_reason": "News: \"Is Zscaler Stock a Buy After Its Share Price Plummets?\""
     },
     {
       "ticker": "IWM",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event\""
+      "move_reason": "News: \"Bank of America resets Marvell stock price target after earnings\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event\""
+      "move_reason": "News: \"Bank of America resets Marvell stock price target after earnings\""
     },
     {
       "ticker": "APA",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Solana (SOL) Reclaim Its $294 All-Time High?\""
+      "move_reason": "News: \"Is Zscaler Stock a Buy After Its Share Price Plummets?\""
     },
     {
       "ticker": "OSCR",
