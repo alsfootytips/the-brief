@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T05:35:31.176167+00:00",
+  "generated_at": "2026-05-30T08:09:46.534994+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are Summer Headwinds Already Pricing Into Stocks?\""
+      "move_reason": "News: \"Could Agentic AI Be Apple's Next Big Tailwind?\""
     },
     {
       "ticker": "IWM",
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Key Macro Charts Update: Still Looking Good\""
+      "move_reason": "News: \"Weekly Commentary: Party Like It's 1999, 1996 And 2007\""
     },
     {
       "ticker": "AMD",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Key Macro Charts Update: Still Looking Good\""
+      "move_reason": "News: \"Weekly Commentary: Party Like It's 1999, 1996 And 2007\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are Summer Headwinds Already Pricing Into Stocks?\""
+      "move_reason": "News: \"Could Agentic AI Be Apple's Next Big Tailwind?\""
     },
     {
       "ticker": "OSCR",
