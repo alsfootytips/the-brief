@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-30T18:40:08.341137+00:00",
+  "generated_at": "2026-05-30T19:55:02.037793+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T18:40:08.337867+00:00",
+      "timestamp": "2026-05-30T19:55:02.034999+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T18:40:08.337863+00:00",
+      "timestamp": "2026-05-30T19:55:02.034996+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,157 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T18:40:08.337855+00:00",
+      "timestamp": "2026-05-30T19:55:02.034989+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Infosys Limited (INFY): Leopold Aschenbrenner Is Bearish on This Firm",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-limited-infy-leopold-aschenbrenner-193525731.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:35:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Wall Street Is Dead Wrong About This Popular Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-dead-wrong-193500586.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ProPetro Holding Corp. (PUMP): Leopold Aschenbrenner Remains Bullish",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/propetro-holding-corp-pump-leopold-193420035.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:34:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SharonAI Holdings Inc. (SHAZ): Leopold Aschenbrenner Declares New Position",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sharonai-holdings-inc-shaz-leopold-193307274.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:33:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stocks-crushed-193300389.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Babcock & Wilcox Enterprises, Inc. (BW): Leopold Aschenbrenner Likes This Energy Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/babcock-wilcox-enterprises-inc-bw-193143112.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:31:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US military says it turned away blockade runner trying to reach Iranian port",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-military-says-it-turned-away-blockade-runner-trying-to-reach-iranian-port-4717780",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T19:30:25+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "WhiteFiber, Inc. (WYFI): Leopold Aschenbrenner Discloses New Bet",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whitefiber-inc-wyfi-leopold-aschenbrenner-192949977.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:29:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Power Solutions International (PSIX): Leopold Aschenbrenner Admires This Power Firm",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/power-solutions-international-psix-leopold-192823825.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:28:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump to headline 250th anniversary fair opening after performers drop out",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T19:24:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As Big Tech\u2019s power demand surges, data centers bring utilities a huge new profit center",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T18:56:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China\u2019s next export shock walks on two legs \u2014 and costs less than a used car",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T18:50:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why double-digit earnings growth won\u2019t stop the next bear market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T18:46:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -86,17 +233,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What ITB Investors Need to Watch Before Mortgage Rates Spike Again",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/itb-investors-watch-mortgage-rates-181821315.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T18:18:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Your portfolio can\u2019t afford the real bill for the Iran war",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
@@ -115,17 +251,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-30T18:06:14+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Sandisk Become a $1 Trillion Company in 5 Years?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-become-1-trillion-company-180500363.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T18:05:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -237,29 +362,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Discusses Micron\u2019s Trillion Dollar Journey",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-micron-trillion-172532243.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T17:25:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump considers dropping Freedom 250 concerts in D.C. after artists pull out",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T17:18:29+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: What are the best prediction market stocks right now?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4598619-sa-asks-what-are-the-best-prediction-market-stocks-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -293,39 +395,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Coeur Mining Inc. (CDE) A Stock that Could 10x by 2030 While Returning Shareholder Value",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-inc-cde-stock-164436281.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T16:44:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s Why Zoetis (ZTS) Is one of the Best Wide Moat Stocks to Buy According to Wall Street Analysts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-zoetis-zts-one-best-164409945.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T16:44:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Robust Recurring Revenue Affirms Trimble Inc. (TRMB) as a Stock That Could 10x by 2030",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robust-recurring-revenue-affirms-trimble-164358733.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T16:43:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US plans faster military drawdown from Europe, German newspaper reports",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/us-plans-faster-military-drawdown-from-europe-german-newspaper-reports-4717775",
@@ -342,17 +411,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4598567-real-estate-stocks-lose-out-in-may-health-care-reits-notable-laggards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-30T16:00:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US planning faster troop withdrawal from Europe, newspaper says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-planning-faster-troop-withdrawal-from-europe-newspaper-says-4717773",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:42:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -437,43 +495,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "The number of 401(k) millionaires just fell \u2014 but workers hit record savings rates. What\u2019s going on?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The stock index you invest in isn\u2019t always the most important decision. Here\u2019s what matters even more.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T14:58:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "67 million kids haven\u2019t signed up for \u2018Trump accounts.\u2019 Here\u2019s what they could be missing out on.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/67-million-kids-havent-signed-up-for-trump-accounts-heres-what-they-could-be-missing-out-on-ea56dff9?mod=mw_rss_topstories",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T14:54:00+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "History Says the S&P 500\u2019s 9-Week Rally Is Rare. It May Be Even Rarer Than You Think",
       "source": "Yahoo",
@@ -504,6 +525,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-30T14:00:01+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Travelers to Europe may be leaving money on the table. Here's why",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/30/europe-vat-refunds-travelers.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T13:30:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -629,17 +661,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hegseth praises Asian allies for 'burden-sharing,' calls out China's role in the region",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/30/hegseth-praises-asian-allies-for-burden-sharing-calls-out-china.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T10:45:10+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1170,17 +1191,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Salaries are growing faster than hourly wages. Here's why that matters.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/salaries-are-growing-faster-than-hourly-wages-heres-why-that-matters-151404124.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T15:14:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
@@ -1350,17 +1360,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "These gas deals could make summer road trips a lot cheaper",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/these-gas-deals-could-make-summer-road-trips-a-lot-cheaper-194922927.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-21T19:49:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     }
   ]
 };
