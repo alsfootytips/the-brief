@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-05-29T23:43:15+00:00",
+  "generated_at": "2026-05-30T01:32:37+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -222,72 +222,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.2999,
         "revenue_estimate": 1551806580,
-        "is_watchlist": false
-      }
-    ],
-    "2026-05-29": [
-      {
-        "ticker": "AHNR",
-        "date": "2026-05-29",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BN",
-        "date": "2026-05-29",
-        "hour": "amc",
-        "eps_estimate": 0.8343,
-        "revenue_estimate": 2100170000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DLNG",
-        "date": "2026-05-29",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FUFU",
-        "date": "2026-05-29",
-        "hour": "bmo",
-        "eps_estimate": 0.0272,
-        "revenue_estimate": 92784300,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GCO",
-        "date": "2026-05-29",
-        "hour": "bmo",
-        "eps_estimate": -2.5856,
-        "revenue_estimate": 479745455,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HURC",
-        "date": "2026-05-29",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KNOP",
-        "date": "2026-05-29",
-        "hour": "bmo",
-        "eps_estimate": 0.3101,
-        "revenue_estimate": 92131836,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "OICT",
-        "date": "2026-05-29",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       }
     ],

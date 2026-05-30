@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-29T23:43:15.658746+00:00",
+  "generated_at": "2026-05-30T01:32:37.102452+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 7.69,
+      "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:43:15.655393+00:00",
+      "timestamp": "2026-05-30T01:32:37.099208+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PLTR",
       "name": "PLTR",
-      "change_pct": 8.98,
-      "price": 156.21,
+      "change_pct": 9.07,
+      "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:43:15.655389+00:00",
+      "timestamp": "2026-05-30T01:32:37.099205+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -42,10 +42,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "MSFT",
       "name": "MSFT",
-      "change_pct": 5.34,
-      "price": 449.8,
+      "change_pct": 5.39,
+      "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:43:15.655380+00:00",
+      "timestamp": "2026-05-30T01:32:37.099195+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -53,90 +53,136 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "LendingClub CFO Andrew LaBenne sells $340,064 in company stock",
+      "headline": "Texas Instruments director Martin S. Craighead sells $3.2 million in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/lendingclub-cfo-andrew-labenne-sells-340064-in-company-stock-93CH-4717497",
+      "url": "https://www.investing.com/news/insider-trading-news/texas-instruments-director-martin-s-craighead-sells-32-million-in-stock-93CH-4717564",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:31:05+00:00",
+      "timestamp": "2026-05-30T01:11:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Flesh-eating screwworm found within 31 miles of US border, says USDA",
+      "headline": "Sionna Therapeutics director Peter Thompson sells $4,493 of shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/flesheating-screwworm-found-within-31-miles-of-us-border-says-usda-4717487",
+      "url": "https://www.investing.com/news/insider-trading-news/sionna-therapeutics-director-peter-thompson-sells-4493-of-shares-93CH-4717563",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:30:47+00:00",
+      "timestamp": "2026-05-30T01:10:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "LendingClub general counsel Jordan Cheng sells $93,500 in shares",
+      "headline": "Form 13D/A Symbotic Inc. For: 29 May",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/lendingclub-general-counsel-jordan-cheng-sells-93500-in-shares-93CH-4717495",
+      "url": "https://www.investing.com/news/filings/form-13da-symbotic-inc-for-29-may-93CH-4717562",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:28:10+00:00",
+      "timestamp": "2026-05-30T01:09:14+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SVF Sponsor III sells $281.8m in Symbotic stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/svf-sponsor-iii-sells-2818m-in-symbotic-stock-93CH-4717561",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T01:05:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Landmark Bancorp director Patrick Alexander sells $136,320 in stock",
+      "headline": "Infleqtion director David B. Singer sells $28.9m of company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-patrick-alexander-sells-136320-in-stock-93CH-4717494",
+      "url": "https://www.investing.com/news/insider-trading-news/infleqtion-director-david-b-singer-sells-289m-of-company-stock-93CH-4717560",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:23:29+00:00",
+      "timestamp": "2026-05-30T01:05:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Power Integrations director Balu Balakrishnan sells $10.7m in stock",
+      "headline": "Mp materials chairman & CEO Litinsky sells $26.2 million in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/power-integrations-director-balu-balakrishnan-sells-107m-in-stock-93CH-4717493",
+      "url": "https://www.investing.com/news/insider-trading-news/mp-materials-chairman--ceo-litinsky-sells-262-million-in-stock-93CH-4717559",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:22:37+00:00",
+      "timestamp": "2026-05-30T01:05:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Power Integrations director Nicholas Brathwaite sells $149,679 in stock",
+      "headline": "SoftBank Group sells $281.8m of Symbotic (SYM) stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/power-integrations-director-nicholas-brathwaite-sells-149679-in-stock-93CH-4717492",
+      "url": "https://www.investing.com/news/insider-trading-news/softbank-group-sells-2818m-of-symbotic-sym-stock-93CH-4717558",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:22:32+00:00",
+      "timestamp": "2026-05-30T01:04:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 POWER INTEGRATIONS For: 29 May",
+      "headline": "Infleqtion director Lee Ainslie\u2019s Maverick Capital sells $28.9m shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-power-integrations-for-29-may-93CH-4717491",
+      "url": "https://www.investing.com/news/insider-trading-news/infleqtion-director-lee-ainslies-maverick-capital-sells-289m-shares-93CH-4717557",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:21:21+00:00",
+      "timestamp": "2026-05-30T01:02:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 CIRRUS LOGIC For: 29 May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-cirrus-logic-for-29-may-93CH-4717490",
+      "headline": "Trump's name must be removed from Kennedy Center, judge rules",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/29/trump-kennedy-center-judge-beatty.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-29T23:21:20+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-30T00:15:39+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil slides to six-week low as traders bet U.S.-Iran framework deal is near",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598617-oil-slides-to-six-week-low-as-traders-bet-us-iran-framework-deal-is-near?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T23:44:27+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Stock Slated to Cash In on the SpaceX IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=902f98080f1184afa1e07dab75ff48d99a49512c2aee93d126f8b23fc761dbb0",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T23:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Viasat Stock Sank Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d27e6dfbc081cafadc78e3e630d21b45e066b8db14f1ab62bbce6533cd93c46",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T23:10:22+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -148,6 +194,34 @@ window.theBriefLive = {
       "timestamp": "2026-05-29T23:06:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T22:48:13+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Okta Stock Surged to a New 52-Week High Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df01d0a68890d45672424f5e3f794305ed2b21632b9bf1248e81073c0e444ccd",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T22:45:56+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -218,29 +292,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Delivra Health Brands GAAP EPS of -C$0.03, revenue of C$1.25M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598612-delivra-health-brands-gaap-eps-of-c003-revenue-of-c125m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T21:50:52+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Amazon is Cutting Even More Jobs, Following the Mass Layoffs in January. Can It Maintain Its Cloud Dominance as Employees Exit?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e13a24fc42a290e2db068c8f2f45284df867a1d839428346072785859eca53e7",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Gap and American Eagle shares both get crushed \u2014 and neither retailer is blaming the economy",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories",
@@ -248,22 +299,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-29T21:49:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T21:39:26+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -278,35 +313,8 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump can't rename Kennedy Center or close it for renovation for now, judge says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/29/trump-kennedy-center-judge-beatty.html",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T21:29:19+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": "AMD",
-      "headline": "Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0820b827a24fd9728c16748cde85902c4e3edfb77d0279f4d362e2b5436a02fe",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T21:24:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0820b827a24fd9728c16748cde85902c4e3edfb77d0279f4d362e2b5436a02fe",
@@ -326,18 +334,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-29T21:24:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "These 2 Tech Titans Just Declared Dividend Raises. Should You Buy One or Both?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f15f5ae405ed4abc95cf42e84cf486030c2db675404e59e774f7b4fa8ff6e96",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T21:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -455,6 +451,30 @@ window.theBriefLive = {
       "timestamp": "2026-05-29T20:10:26+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T19:58:45+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Q1 GDP Second Estimate: Real GDP At 1.6%, Lower Than Expected",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a2b3c4ce96e39d33264ebf778930461653e8dc0feeb8a4c14a720f93df600e93",
+      "is_watchlist": true,
+      "timestamp": "2026-05-29T19:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -690,18 +710,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "The Most Intriguing Market Dynamic",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=455878ed444c0e506460e57973930676fc0cf3404e5ab583142ceba19dd3b84e",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29T15:22:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Dollar General Could Guide Conservatively Amid Cost Headwinds, Economic Pressure on Consumers, Oppenheimer Says",
       "source": "Yahoo",
@@ -738,17 +746,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Student loan borrowers will have two new repayment options come July 1. Here's how to pick one",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/29/student-loan-borrowers-new-repayment-plans.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T14:39:28+00:00",
-      "relevance_score": -3.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -844,17 +841,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Technical Assessment: Bullish in the Intermediate-Term",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47177_TechnicalAnalysis_1780054016000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "is_watchlist": false,
-      "timestamp": "2026-05-29T11:26:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1046,6 +1032,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "IBM Stock Climbs As Tech Giant Pledges $10 Billion In Quantum Investment",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/ibm-stock-quantum-computing-10-billion/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T18:47:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Century Aluminum, Stock Of The Day, Rides Major Roll Into Buy Range",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/century-aluminum-stock-rides-major-roll-into-buy-range/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T18:35:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia CEO Jensen Huang Is Heading to Taiwan. Get Ready for Updates on an \u2018AI Semiconductor Triangle Alliance.\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-jensen-huang-heading-183340226.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T18:33:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jeff Bezos' Blue Origin Scores NASA Moon Contract As Artemis Program Targets Permanent Lunar Base",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/jeff-bezos-blue-origin-scores-183053497.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T18:30:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "US government prepares to print $250 note featuring Trump's face",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss",
@@ -1062,6 +1092,28 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/05/28/drone-stocks-unusual-machines-donald-trump-equity-stake.html",
       "is_watchlist": false,
       "timestamp": "2026-05-28T18:22:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "California sues 23andMe over large 2023 data breach",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/california-sues-23andme-over-large-181813876.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T18:18:13+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-secures-965-billion-valuation-181633299.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-28T18:16:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1095,61 +1147,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html",
       "is_watchlist": false,
       "timestamp": "2026-05-28T16:51:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zscaler Stock Plunges on Weak Guidance. Investors Were Maybe Right to Worry About an AI Apocalypse.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-stock-plunges-weak-guidance-163702184.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T16:37:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crude Oil Prices Supported as Strait of Hormuz Remains Closed",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-supported-strait-163621136.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T16:36:21+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Roundhill Memory ETF (DRAM) Packages Micron, Sandisk, Samsung, and SK Hynix in 1 Ticker for Just $60. But There's a Catch.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/roundhill-memory-etf-dram-packages-162600755.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T16:26:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Snowflake Surges On Earnings, AI Product Growth, New Amazon Deal",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/snowflake-stock-snow-snowflake-earnings-q12026/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T16:22:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Will Salesforce Buyback Calm Worries As Investors Await Growth Reacceleration?",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/salesforce-stock-repurchase-program-growth-reaccleration-salesforce-earnings/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T16:15:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1289,17 +1286,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Best Buy stock gains as new gadgets and higher tax refunds boost sales",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/best-buy-stock-gains-as-new-gadgets-and-higher-tax-refunds-boost-sales-212025056.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-27T21:20:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "Stocks Settle Mixed on Conflicting US-Iran Signals",
       "source": "Yahoo",
@@ -1371,16 +1357,15 @@ window.theBriefLive = {
       "relevance_label": "SEC Filing"
     },
     {
-      "type": "filing",
-      "ticker": "GEV",
-      "form": "8-K",
-      "date": "2026-05-22",
-      "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000115/gev-20260520.htm",
-      "is_watchlist": true,
-      "timestamp": "2026-05-22",
-      "relevance_score": 6.0,
-      "relevance_tier": "high",
-      "relevance_label": "SEC Filing"
+      "type": "news",
+      "ticker": null,
+      "headline": "When will mortgage rates go down again? Watch 10-year Treasury yields.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-again-watch-10-year-treasury-yields-190610723.html",
+      "is_watchlist": false,
+      "timestamp": "2025-04-22T19:06:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };
