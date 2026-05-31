@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-30T23:15:48.111656+00:00",
+  "generated_at": "2026-05-31T00:17:49.651725+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -28,8 +28,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.13,
       "name": "Oscar Health",
       "news_count": 0,
-      "days_elapsed": 18,
-      "days_remaining": 38,
+      "days_elapsed": 19,
+      "days_remaining": 37,
       "pick_type": "strategic"
     },
     {
@@ -96,8 +96,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.67,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 18,
-      "days_remaining": 38,
+      "days_elapsed": 19,
+      "days_remaining": 37,
       "pick_type": "strategic"
     },
     {
@@ -162,8 +162,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.88,
       "name": "Energy Select Sector",
       "news_count": 3,
-      "days_elapsed": 18,
-      "days_remaining": 10,
+      "days_elapsed": 19,
+      "days_remaining": 9,
       "pick_type": "strategic"
     },
     {
@@ -202,8 +202,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.18,
       "name": "XOP",
       "news_count": 0,
-      "days_elapsed": 17,
-      "days_remaining": 4
+      "days_elapsed": 18,
+      "days_remaining": 3
     },
     {
       "id": "2026-05-13-USO-tactical",
@@ -328,8 +328,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.04,
       "name": "XOM",
       "news_count": 0,
-      "days_elapsed": 17,
-      "days_remaining": 4
+      "days_elapsed": 18,
+      "days_remaining": 3
     },
     {
       "id": "2026-05-13-CVX-tactical",
@@ -367,8 +367,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.43,
       "name": "CVX",
       "news_count": 0,
-      "days_elapsed": 17,
-      "days_remaining": 4
+      "days_elapsed": 18,
+      "days_remaining": 3
     },
     {
       "id": "2026-05-13-STNG-tactical",
@@ -450,8 +450,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.07,
       "name": "SIEGY",
       "news_count": 0,
-      "days_elapsed": 17,
-      "days_remaining": 4
+      "days_elapsed": 18,
+      "days_remaining": 3
     },
     {
       "id": "2026-05-13-GEV-longterm",
@@ -483,7 +483,7 @@ window.theBriefPicks = {
       "change_pct_today": -2.78,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 17,
+      "days_elapsed": 18,
       "days_remaining": null
     },
     {
@@ -516,7 +516,7 @@ window.theBriefPicks = {
       "change_pct_today": -2.48,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 17,
+      "days_elapsed": 18,
       "days_remaining": null
     },
     {
@@ -549,7 +549,7 @@ window.theBriefPicks = {
       "change_pct_today": 9.07,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 17,
+      "days_elapsed": 18,
       "days_remaining": null
     },
     {
@@ -581,8 +581,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.83,
       "name": "NVIDIA",
       "news_count": 3,
-      "days_elapsed": 12,
-      "days_remaining": 2
+      "days_elapsed": 13,
+      "days_remaining": 1
     },
     {
       "id": "2026-05-18-KRE",
@@ -614,8 +614,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.01,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 12,
-      "days_remaining": 44
+      "days_elapsed": 13,
+      "days_remaining": 43
     },
     {
       "id": "2026-05-18-GLD",
@@ -647,8 +647,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.98,
       "name": "GLD",
       "news_count": 0,
-      "days_elapsed": 12,
-      "days_remaining": 72
+      "days_elapsed": 13,
+      "days_remaining": 71
     }
   ],
   "summary": {

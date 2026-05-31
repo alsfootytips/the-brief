@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-30T23:15:48.092243+00:00",
+  "generated_at": "2026-05-31T00:17:49.631830+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T23:15:48.088829+00:00",
+      "timestamp": "2026-05-31T00:17:49.628622+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T23:15:48.088824+00:00",
+      "timestamp": "2026-05-31T00:17:49.628617+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-30T23:15:48.088815+00:00",
+      "timestamp": "2026-05-31T00:17:49.628608+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -53,81 +53,137 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Marathon Digital Bets Its Bitcoin Mining Power Assets Can Fuel AI Data Center Growth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/marathon-digital-bets-bitcoin-mining-230225331.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T23:02:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Dividend ETF Built for Whatever the Market Does Next",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-built-whatever-market-230100826.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T23:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yum! Brands in exclusive talks to sell Pizza Hut to LongRange - Bloomberg",
+      "headline": "HWH International receives Nasdaq notice for non-compliance with equity listing rule",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/yum-brands-in-exclusive-talks-to-sell-pizza-hut-to-longrange--bloomberg-4717789",
+      "url": "https://www.investing.com/news/sec-filings/hwh-international-receives-nasdaq-notice-for-noncompliance-with-equity-listing-rule-93CH-4717802",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T22:35:50+00:00",
+      "timestamp": "2026-05-31T00:13:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "What do rising airfares mean for cruise?",
+      "headline": "American Airlines refinances and amends credit agreement, secures new term loans",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/what-do-rising-airfares-mean-for-cruise-4717788",
+      "url": "https://www.investing.com/news/sec-filings/american-airlines-refinances-and-amends-credit-agreement-secures-new-term-loans-93CH-4717801",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T22:07:50+00:00",
+      "timestamp": "2026-05-31T00:08:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "ECB must act on inflation sooner rather than later, policymaker Pereira says",
+      "headline": "American Airlines Group amends credit agreement, secures new $1.85 billion term loans",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ecb-must-act-on-inflation-sooner-rather-than-later-policymaker-pereira-says-4717787",
+      "url": "https://www.investing.com/news/sec-filings/american-airlines-group-amends-credit-agreement-secures-new-185-billion-term-loans-93CH-4717800",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T22:06:28+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-05-31T00:03:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brazil extends fuel price relief measures through July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/brazil-extends-fuel-price-relief-measures-through-july-4717799",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T00:02:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 8K American Airlines Group For: 30 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-8k-american-airlines-group-for-30-may-93CH-4717798",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T00:01:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 8K HWH International Inc For: 30 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-8k-hwh-international-inc-for-30-may-93CH-4717797",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T00:01:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 8K Ondas Holdings Inc For: 30 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-8k-ondas-holdings-inc-for-30-may-93CH-4717796",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T00:01:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 8K Americas Car-Mart Inc For: 30 May",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-8k-americas-carmart-inc-for-30-may-93CH-4717795",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T00:01:03+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Warren Buffett Successor Greg Abel Made 3 Big Purchases Last Quarter, and They're All Exceptional Performers",
+      "headline": "Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f76d239a7219eccb93752fc9c15d97f905598994466d0b32bfbe43c8d41d2b9b",
+      "url": "https://finnhub.io/api/news?id=eec3122938563e54cf6a21d27746806543f67da43b24d9e714a34fd0fffc166c",
       "is_watchlist": true,
-      "timestamp": "2026-05-30T21:50:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Datadog Share Value Has More Than Doubled As Investors Recognize a Growing Market Opportunity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c02f05ddd8042655f5d1a4943c06da7b60f63ff9622e7c9a3e4f808b40c1761",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T21:48:00+00:00",
+      "timestamp": "2026-05-30T23:20:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "XLU Investors: Watch PJM\u2019s March 2027 Data Center Framework Decision",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b11078ef2a78026e16c3219e6a09bdf6c03c1807a6ff0610be036701be1ce0d6",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T23:18:28+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Will XRP (Ripple) Make You a Millionaire?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c430728321ee292a547939c951aabe5ed344397823aa3a8cd5027207ab8eca2b",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T23:12:58+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T22:23:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -138,40 +194,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-30T21:47:49+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The 1 Metric That Tells Me This Tech Stock Is About to Rip Higher -- and It Just Flashed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf509a61e05a24baaabbade8a653eaa433a4658f7e8ceef1db70df245cf4f4f1",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T21:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What lies ahead for the Indian rupee in a higher oil price environment?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/what-lies-ahead-for-the-indian-rupee-in-a-higher-oil-price-environment-4717786",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T21:28:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4717785",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T21:20:03+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -193,107 +215,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-30T20:55:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Will ceasefires in Iran and Ukraine be enough to stabilize markets?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/will-ceasefires-in-iran-and-ukraine-be-enough-to-stabilize-markets-4717784",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T20:52:03+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SoftBank to invest up to \u20ac75 bln in French AI data centers",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/softbank-to-invest-up-to-75-bln-in-french-ai-data-centers-4717783",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T20:42:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kevin Warsh 101: Is the new Fed Chair a hawk or a dove?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/kevin-warsh-101-is-the-new-fed-chair-a-hawk-or-a-dove-4717782",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T20:29:25+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-glxy-leopold-aschenbrenner-195727813.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:57:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:55:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hut 8 Corp. (HUT): Leopold Aschenbrenner Sells Holding",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-corp-hut-leopold-195346935.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:53:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kilroy Realty Corporation (KRC): Leopold Aschenbrenner Has Bearish Stance on This Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kilroy-realty-corporation-krc-leopold-195138449.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:51:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coherent Corp. (COHR): Leopold Aschenbrenner Changes Bullish Stance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-corp-cohr-leopold-aschenbrenner-194931692.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:49:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EQT Corporation (EQT): Leopold Aschenbrenner Is No Longer Bullish",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-eqt-leopold-aschenbrenner-194800862.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T19:48:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -425,6 +346,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cbade767bfabc850901c6d2824c050a9402adba3413c6c389ea57e76cfe4d06",
+      "is_watchlist": true,
+      "timestamp": "2026-05-30T17:00:02+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Novo is slowly catching up with Lilly: Is Wegovy pill fueling the rally",
       "source": "Seeking Alpha Market",
@@ -501,18 +434,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-30T15:00:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "History Says the S&P 500\u2019s 9-Week Rally Is Rare. It May Be Even Rarer Than You Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2f486ea9656e850c539dfd5759519621c68528c4c1b55d1743f3b21c007c03e",
-      "is_watchlist": true,
-      "timestamp": "2026-05-30T14:48:54+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -830,6 +751,72 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Micron Faces New Threat From Samsung\u2019s Memory Chip for AI",
+      "source": "Yahoo Finance",
+      "url": "https://www.barrons.com/articles/micron-stock-price-samsung-memorychip-ai-ac9a8e59?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T17:58:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The S&P 500\u2019s Price Is Getting Better Every Week, But This Indicator Keeps Getting Worse. Why 52% Could Be The Market\u2019s Tragic Number.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-price-getting-better-173905332.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T17:39:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Morgan Stanley Is Betting That $1,100 Is in Store for AppLovin Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-betting-1-173111219.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T17:31:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Unusual Options Activity Points to Boston Scientific Stock as a Hot M&A Target",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/unusual-options-activity-points-boston-173002143.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T17:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cotton Holding Mostly Steady Trade on Friday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-holding-mostly-steady-trade-172617366.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T17:26:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn Falling on Friday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-falling-friday-172616550.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T17:26:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Here's how we're coping with high gas prices, according to Costco and Walmart",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/05/29/nx-s1-5838740/how-stressed-are-americans-about-high-gas-prices-fueling",
@@ -861,6 +848,28 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coinbase, Kalshi bring regulated perpetual crypto futures to US investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-kalshi-bring-regulated-perpetual-160603634.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T16:06:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TDOC Stock Pops as Teladoc Teams Up With Walmart",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tdoc-stock-pops-teladoc-teams-160405250.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-29T16:04:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1075,17 +1084,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "When trade soured, this American liquor maker moved to Canada",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-05-28T23:29:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius: Riding Powerful Demand Volume And Pricing Tailwinds",
       "source": "SeekingAlpha",
@@ -1285,54 +1283,6 @@ window.theBriefLive = {
       "timestamp": "2026-05-27T23:35:11+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Stocks Settle Mixed on Conflicting US-Iran Signals",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd07bedd8f2b81cc7eb73bf61cfc46f8e8a33bb6c04b6fa57191c4278c142828",
-      "is_watchlist": true,
-      "timestamp": "2026-05-27T20:35:36+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Stocks Mixed Awaiting Fresh Iran News",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc6f26d84522604c9d8d6bf32425664b41997650ce8e8d21777ac09d179d7287",
-      "is_watchlist": true,
-      "timestamp": "2026-05-27T15:17:33+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Mizuho Maintains Underperform on APA, Raises Price Target to $36",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3a021fc1560db137891bf698b7a60c8fcc1accd62c42cd914f80806721750a95",
-      "is_watchlist": true,
-      "timestamp": "2026-05-27T08:23:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "A Retirement Crisis May Be Coming - And Most Investors Are Not Ready",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6840455a6fdf87640a1bcf5af418bb64ee7d64a2cf81ca3c0934eb186756d1fe",
-      "is_watchlist": true,
-      "timestamp": "2026-05-27T07:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-30T23:15:48.086173+00:00",
+  "generated_at": "2026-05-31T00:17:49.626127+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -70,7 +70,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking George Soros's 13F Portfolio - Q1 2026 Update\""
+      "move_reason": "Tracking XLK sector (+2.23% today)"
     },
     {
       "ticker": "NBIS",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Successor Greg Abel Made 3 Big Purchases Last Quarter, and They're All Exce...\""
+      "move_reason": "News: \"Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently.\""
     },
     {
       "ticker": "IWM",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bank of America resets Marvell stock price target after earnings\""
+      "move_reason": "News: \"The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bank of America resets Marvell stock price target after earnings\""
+      "move_reason": "News: \"The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy\""
     },
     {
       "ticker": "APA",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking George Soros's 13F Portfolio - Q1 2026 Update\""
+      "move_reason": "Tracking XLK sector (+2.23% today)"
     },
     {
       "ticker": "DG",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Successor Greg Abel Made 3 Big Purchases Last Quarter, and They're All Exce...\""
+      "move_reason": "News: \"Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently.\""
     },
     {
       "ticker": "OSCR",
@@ -742,33 +742,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 36.4,
-      "change_pct": -0.36,
-      "score": 7.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 8.5 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 8.5 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "PWR",
       "name": "Quanta Services",
       "price": 712.0,
@@ -793,27 +766,27 @@ window.theBriefMovers = {
       "sector_etf": "XLI"
     },
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 396.49,
-      "change_pct": -1.2,
-      "score": 4.5,
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 36.4,
+      "change_pct": -0.36,
+      "score": 5.5,
       "signals": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.4 (cheap on absolute basis)"
+        "1 SEC filing in the last 7 days",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 8.5 (cheap on absolute basis)"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.4 (cheap on absolute basis)"
+        "1 SEC filing in the last 7 days",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 8.5 (cheap on absolute basis)"
       ],
       "tags": [
-        "news-flow",
+        "filing",
         "insider-buying",
         "cheap"
       ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
     },
     {
@@ -884,6 +857,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 396.49,
+      "change_pct": -1.2,
+      "score": 3.0,
+      "signals": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.4 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.4 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [
