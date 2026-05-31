@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-31T20:42:33.392270+00:00",
+  "generated_at": "2026-05-31T21:42:17.472229+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T20:42:33.389097+00:00",
+      "timestamp": "2026-05-31T21:42:17.468952+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T20:42:33.389093+00:00",
+      "timestamp": "2026-05-31T21:42:17.468948+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,114 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T20:42:33.389083+00:00",
+      "timestamp": "2026-05-31T21:42:17.468939+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire Hathaway to acquire Taylor Morrison in $8.5B deal",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598717-berkshire-hathaway-to-acquire-taylor-morrison-in-8_5b-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T21:33:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4717947",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T21:20:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Polls close in Colombia presidential election, voters weighed leftist reforms against right-wing crackdowns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T21:18:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: Can Salesforce thrive in an AI-dominated world?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598716-sa-asks-can-salesforce-thrive-in-an-ai-dominated-world?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T21:17:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Buffett"
+      ],
+      "ticker": null,
+      "headline": "Berkshire Hathaway Announces First Takeover Since Warren Buffett's Exit",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/berkshire-hathaway-to-buy-taylor-morrison-home-8-5-billion-warren-buffett/?src=A00220&yptr=yahoo",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T21:14:58+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-incorporated-glw-leopold-aschenbrenner-205513332.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T20:55:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "German infrastructure fund misses its spending targets, Handelsblatt says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/german-infrastructure-fund-misses-its-spending-targets-handelsblatt-says-4717946",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T20:54:44+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire Hathaway to buy US homebuilder Taylor Morrison for $8.5 billion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-to-buy-us-homebuilder-taylor-morrison-for-85-billion-4717945",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T20:48:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Loom As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T20:39:29+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -130,38 +234,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china-4717939",
+      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-31T20:18:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Syria\u2019s Sharaa holds phone call with Trump, Syrian presidency says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-4717934",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T20:12:36+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Devon Energy gains as reported $8 billion Marcellus bid signals portfolio value",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/devon-energy-gains-as-reported-8-billion-marcellus-bid-signals-portfolio-value-4717938",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:10:31+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-31T20:13:36+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -186,17 +264,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia-appointed official says child killed, 11 injured in drone attack in Russian-held Kherson region",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/russiaappointed-official-says-child-killed-11-injured-in-drone-attack-in-russianheld-kherson-region-4717937",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:06:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -306,33 +373,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nextpower's Prevalon deal strengthens solar-plus-storage position, BNP says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598710-nextrackers-prevalon-deal-strengthens-solar-plus-storage-position-bnp-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T18:54:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "360 Energy Pulse: What mattered this month in energy",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/sectors/energy/articles/360-energy-pulse-mattered-month-183019766.html",
       "is_watchlist": false,
       "timestamp": "2026-05-31T18:30:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Graphic Packaging seen largely insulated from Nippon Mill accident, UBS says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598709-graphic-packaging-seen-largely-insulated-from-nippon-mill-accident-ubs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T17:57:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -367,28 +412,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/article/why-rising-interest-rates-havent-crushed-stock-valuations-174412488.html",
       "is_watchlist": false,
       "timestamp": "2026-05-31T17:44:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T16:41:41+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "May rewired global energy markets",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/may-rewired-global-energy-markets-163050787.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T16:30:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -456,17 +479,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-31T15:53:27+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stablecoin demand may soon fade, BoE's Greene says",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-demand-may-soon-fade-152940411.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:29:40+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -575,6 +587,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Student loan borrowing is 'high stakes' as new rules take effect on July 1, CFP says. What to know",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/31/student-loan-big-beautiful-bill-changes.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T13:30:01+00:00",
+      "relevance_score": -3.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "In deeply red Oklahoma, minimum wage\u2019s biggest 2026 election cycle fight is about to be decided",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
@@ -674,17 +697,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T09:35:52+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "GE Vernova Robotech Deal Puts Automation And Valuation In Fresh Focus",
       "source": "Yahoo",
@@ -741,17 +753,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia\u2019s latest product is a game-changer",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-latest-product-game-changer-010300358.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T01:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -837,14 +838,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+      "headline": "Travelers to Europe may be leaving money on the table. Here's why",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+      "url": "https://www.cnbc.com/2026/05/30/europe-vat-refunds-travelers.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-30T13:00:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-05-30T13:30:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
