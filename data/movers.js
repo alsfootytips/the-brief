@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T00:17:49.626127+00:00",
+  "generated_at": "2026-05-31T05:02:01.160689+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -188,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Friday's session: top gainers and losers in the S&P500 index\""
+      "move_reason": "News: \"GE Vernova Acquires Robotech Automation to Accelerate Robotics and Automation Capabilities\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently.\""
+      "move_reason": "News: \"This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Still Overlook...\""
     },
     {
       "ticker": "IWM",
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"6 Numbers That Should Give Prudent Investors Pause\""
+      "move_reason": "News: \"Durable Goods Orders Jump 7.9% In April, More Than Expected\""
     },
     {
       "ticker": "AMD",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy\""
+      "move_reason": "News: \"AMD Taiwan AI Bet Tests Long Term Data Center Ambitions\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy\""
+      "move_reason": "News: \"AMD Taiwan AI Bet Tests Long Term Data Center Ambitions\""
     },
     {
       "ticker": "APA",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Friday's session: top gainers and losers in the S&P500 index\""
+      "move_reason": "News: \"GE Vernova Acquires Robotech Automation to Accelerate Robotics and Automation Capabilities\""
     },
     {
       "ticker": "IWM",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"6 Numbers That Should Give Prudent Investors Pause\""
+      "move_reason": "News: \"Durable Goods Orders Jump 7.9% In April, More Than Expected\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently.\""
+      "move_reason": "News: \"This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Still Overlook...\""
     },
     {
       "ticker": "OSCR",
