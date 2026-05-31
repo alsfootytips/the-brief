@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T19:41:49.571559+00:00",
+  "generated_at": "2026-05-31T20:42:33.386637+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -200,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services: A Competitive Edge Through Labor\""
+      "move_reason": "News: \"Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion\""
     },
     {
       "ticker": "XLP",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"China Insight: Why Fashion Must Rethink Globalization\""
+      "move_reason": "News: \"Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion\""
     },
     {
       "ticker": "IWM",
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Korea And Japan Worry Me More Than The Strait Of Hormuz\""
+      "move_reason": "News: \"International Countries Have Only Bought 10% Of Total New Debt Over 18 Months\""
     },
     {
       "ticker": "AMD",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Korea And Japan Worry Me More Than The Strait Of Hormuz\""
+      "move_reason": "News: \"International Countries Have Only Bought 10% Of Total New Debt Over 18 Months\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"China Insight: Why Fashion Must Rethink Globalization\""
+      "move_reason": "News: \"Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion\""
     },
     {
       "ticker": "OSCR",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services: A Competitive Edge Through Labor\""
+      "move_reason": "News: \"Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion\""
     },
     {
       "ticker": "TPL",
