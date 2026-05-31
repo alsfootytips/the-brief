@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T08:23:13.506243+00:00",
+  "generated_at": "2026-05-31T10:30:48.258645+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -188,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Acquires Robotech Automation to Accelerate Robotics and Automation Capabilities\""
+      "move_reason": "News: \"GE Vernova Robotech Deal Puts Automation And Valuation In Fresh Focus\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Says Big Tech Will Spend $1 Trillion in Capital Expenditures in 2027: 3 Stocks to B...\""
+      "move_reason": "News: \"American Express vs. Visa: 2 Different Ways to Bet on Premium Consumer Spending\""
     },
     {
       "ticker": "IWM",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Acquires Robotech Automation to Accelerate Robotics and Automation Capabilities\""
+      "move_reason": "News: \"GE Vernova Robotech Deal Puts Automation And Valuation In Fresh Focus\""
     },
     {
       "ticker": "IWM",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Says Big Tech Will Spend $1 Trillion in Capital Expenditures in 2027: 3 Stocks to B...\""
+      "move_reason": "News: \"American Express vs. Visa: 2 Different Ways to Bet on Premium Consumer Spending\""
     },
     {
       "ticker": "OSCR",
