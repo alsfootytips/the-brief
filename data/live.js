@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-31T18:03:20.992396+00:00",
+  "generated_at": "2026-05-31T19:41:49.577136+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T18:03:20.989224+00:00",
+      "timestamp": "2026-05-31T19:41:49.573991+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T18:03:20.989220+00:00",
+      "timestamp": "2026-05-31T19:41:49.573987+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,136 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T18:03:20.989211+00:00",
+      "timestamp": "2026-05-31T19:41:49.573978+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Surging bank lending could rekindle inflation risks, SocGen's Albert Edwards warns",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598711-surging-bank-lending-could-rekindle-inflation-risks-socgens-albert-edwards-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T19:31:25+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-not-just-tech-stocks-the-broad-based-strength-of-the-market-right-now-gives-investors-reason-to-stay-the-course-4ef65de3?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T19:12:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Syria\u2019s Sharaa holds phone call with Trump, Syrian presidency says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-4717934",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T19:06:24+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nextracker's Prevalon deal strengthens solar-plus-storage position, BNP says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598710-nextrackers-prevalon-deal-strengthens-solar-plus-storage-position-bnp-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:54:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Colombians weigh leftist reforms against right-wing crackdowns in presidential vote",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:42:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strike kills at least two at Gaza seaport cafe, medics say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-at-least-two-at-gaza-seaport-cafe-medics-say-4717931",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:36:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rupee under pressure, but RBI unlikely to rush into rate hikes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/rupee-under-pressure-but-rbi-unlikely-to-rush-into-rate-hikes-4717933",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:35:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "360 Energy Pulse: What mattered this month in energy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/360-energy-pulse-mattered-month-183019766.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:30:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Blast in Myanmar village reportedly kills 55 and injures dozens more",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/explosion-kills-at-least-55-in-myanmar-bbc-reports-4717928",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:30:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukraine\u2019s Zelenskiy seeks progress on peace talks before winter",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-seeks-progress-on-peace-talks-before-winter-4717932",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:06:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rights groups sue over conditions at largest US immigration detention center",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/rights-groups-sue-over-conditions-at-largest-us-immigration-detention-center-4717779",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T18:00:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -58,6 +184,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4598709-graphic-packaging-seen-largely-insulated-from-nippon-mill-accident-ubs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-31T17:57:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My guide to the IPOs of SpaceX, OpenAI and Anthropic \u2014 including the one I really want to buy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/31/my-guide-to-the-ipos-of-spacex-openai-and-anthropic-including-the-one-i-really-want-to-buy.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:56:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -120,17 +257,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Blast in Myanmar village reportedly kills 55 and injures dozens more",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/explosion-kills-at-least-55-in-myanmar-bbc-reports-4717928",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T17:36:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -171,33 +297,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump expands Barrack\u2019s Syria envoy role to include Iraq",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/trump-expands-barracks-syria-envoy-role-to-include-iraq-4717930",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T17:06:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A24\u2019s \u2018Backrooms\u2019 opens to $81M, leads box office surge",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4598706-a24-s-backrooms-opens-to-81m-leads-box-office-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-31T17:03:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Premu Launches Decentralized Prediction Market Platform Featuring User-Created Markets and Leveraged Event Trading",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/premu-launches-decentralized-prediction-market-platform-featuring-usercreated-markets-and-leveraged-event-trading-4717929",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T17:00:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -269,28 +373,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "iHuman acquires two education apps for RMB94 million",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ihuman-acquires-two-education-apps-for-rmb94-million-93CH-4717927",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T16:09:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eleven confirmed dead in Washington state chemical accident, all bodies recovered",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/eleven-confirmed-dead-in-washington-state-chemical-accident-all-bodies-recovered-4717818",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T16:06:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories",
@@ -302,67 +384,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-just-tech-stocks-the-broad-based-strength-of-the-market-right-now-gives-investors-reason-to-stay-the-course-4ef65de3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bank of England\u2019s Greene sees tokenised deposits replacing stablecoins",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bank-of-englands-greene-sees-tokenised-deposits-replacing-stablecoins-93CH-4717925",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:55:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed\u2019s Waller says stablecoins could extend reach of U.S. monetary policy",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598703-fed-s-waller-says-stablecoins-could-extend-reach-of-u-s-monetary-policy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:54:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Former Barclays CEO Jes Staley agrees to July 23 interview about Jeffrey Epstein by Oversight panel",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/31/jes-staley-jeffrey-epstein-interview-house-jpmorgan-chase-barclays.html",
       "is_watchlist": false,
       "timestamp": "2026-05-31T15:53:27+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CPKC maintains rail operations as Canadian signal workers begin strike",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598702-cpkc-maintains-rail-operations-as-canadian-signal-workers-begin-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:45:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Colombians weigh leftist reforms against right-wing crackdowns in presidential vote",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:36:29+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -401,14 +428,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Is Visa (V) One of the Best Long-Term Dividend Stocks to Invest In According to Billionaires?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-one-best-long-145131772.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T14:51:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "Korea And Japan Worry Me More Than The Strait Of Hormuz",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1fdf69f7360a6bd51661a05534b518124e665b50d4c30a1494f3096908e8ff21",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T14:43:56+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -432,6 +460,18 @@ window.theBriefLive = {
       "timestamp": "2026-05-31T14:30:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "The Tech Tug-Of-War: U.S.-China Relations And The Race For Innovation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=838de05c5e0acca5c4b2277053729caa92f62589b726a069abb2cf40d792315f",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T14:05:00+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -659,18 +699,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Parabolic Semiconductor Rally: What Breaks The Trade?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6ec671fea5434efae2408d3ff396b8f64844afe9ec1e8b7696099104587a6d3d",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T08:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Services: A Competitive Edge Through Labor",
       "source": "SeekingAlpha",
@@ -689,18 +717,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3e62fee84d60ddb98b1ae245a929e11cf7203bb64a5adc181ebad23014b39b6e",
       "is_watchlist": true,
       "timestamp": "2026-05-31T07:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Durable Goods Orders Jump 7.9% In April, More Than Expected",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0a173bfaf20c0ecc9c7eef8561720b153c066634cff1d7b1e69c5e33f4f7cb56",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T00:30:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -750,6 +766,17 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-dumps-entire-203300760.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:33:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -789,17 +816,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US planning faster troop withdrawal from Europe, newspaper says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnEybF9EeDRqOGwxZnNCTzljb1lXM0RaT08yS3R1UUQ1N1o2bS1VbFFUcGVhbnJUaExpdXpiTmdfa21OQ2x2MHpXX1JUVVFkNnlEM0VwU3pIdV9JT1lhMEhYZjhQYmowN1ZDZnZzcjVDMkltS3liNmtDM0k2cnVmYjVIY3ZHazE1Rk9RV0pNeHVRVFQ2NUkwMTVhdEdXcG5i?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T15:40:04+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
@@ -831,17 +847,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Retirement Coverage Gap: Beyond the Hype",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/video/retirement-coverage-gap-beyond-hype-100713977.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T10:07:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

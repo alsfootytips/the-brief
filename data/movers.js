@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T18:03:20.986818+00:00",
+  "generated_at": "2026-05-31T19:41:49.571559+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,8 +167,8 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 108.56,
-      "change_pct": 0.06,
+      "price": 108.58,
+      "change_pct": 0.07,
       "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market May Be About To Break\""
+      "move_reason": "News: \"Korea And Japan Worry Me More Than The Strait Of Hormuz\""
     },
     {
       "ticker": "AMD",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market May Be About To Break\""
+      "move_reason": "News: \"Korea And Japan Worry Me More Than The Strait Of Hormuz\""
     },
     {
       "ticker": "NBIS",
