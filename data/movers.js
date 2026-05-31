@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T05:02:01.160689+00:00",
+  "generated_at": "2026-05-31T08:23:13.506243+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Still Overlook...\""
+      "move_reason": "News: \"Nvidia Says Big Tech Will Spend $1 Trillion in Capital Expenditures in 2027: 3 Stocks to B...\""
     },
     {
       "ticker": "IWM",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Taiwan AI Bet Tests Long Term Data Center Ambitions\""
+      "move_reason": "News: \"Can Arm Holdings Triple Your Money by the End of the Year?\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Taiwan AI Bet Tests Long Term Data Center Ambitions\""
+      "move_reason": "News: \"Can Arm Holdings Triple Your Money by the End of the Year?\""
     },
     {
       "ticker": "APA",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Still Overlook...\""
+      "move_reason": "News: \"Nvidia Says Big Tech Will Spend $1 Trillion in Capital Expenditures in 2027: 3 Stocks to B...\""
     },
     {
       "ticker": "OSCR",
