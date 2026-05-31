@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T15:41:55.343094+00:00",
+  "generated_at": "2026-05-31T16:47:18.759396+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -188,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Robotech Deal Puts Automation And Valuation In Fresh Focus\""
+      "move_reason": "News: \"AirJoule Technologies (AIRJ) Reaches Key Milestones As Commercial Plans Expand\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Buying Rocket Lab Stock Today Set You Up for Life?\""
+      "move_reason": "News: \"1 Top Cryptocurrency to Buy Before It Soars 1,600%, According to Cathie Wood of Ark Invest\""
     },
     {
       "ticker": "IWM",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After Following Generative AI Every Single Day These 3 ETFs Keep Rising to the Top of My R...\""
+      "move_reason": "News: \"Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute...\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After Following Generative AI Every Single Day These 3 ETFs Keep Rising to the Top of My R...\""
+      "move_reason": "News: \"Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute...\""
     },
     {
       "ticker": "APA",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Robotech Deal Puts Automation And Valuation In Fresh Focus\""
+      "move_reason": "News: \"AirJoule Technologies (AIRJ) Reaches Key Milestones As Commercial Plans Expand\""
     },
     {
       "ticker": "IWM",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Buying Rocket Lab Stock Today Set You Up for Life?\""
+      "move_reason": "News: \"1 Top Cryptocurrency to Buy Before It Soars 1,600%, According to Cathie Wood of Ark Invest\""
     },
     {
       "ticker": "OSCR",
