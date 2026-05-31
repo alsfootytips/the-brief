@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-31T14:12:05.125017+00:00",
+  "generated_at": "2026-05-31T15:41:55.348438+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T14:12:05.121767+00:00",
+      "timestamp": "2026-05-31T15:41:55.345248+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T14:12:05.121763+00:00",
+      "timestamp": "2026-05-31T15:41:55.345245+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,186 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T14:12:05.121753+00:00",
+      "timestamp": "2026-05-31T15:41:55.345236+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Colombians weigh leftist reforms against right-wing crackdowns in presidential vote",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T15:36:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Revolution Medicines reports Phase 3 win in pancreatic cancer",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598698-revolution-medicines-reports-phase-3-win-in-pancreatic-cancer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T15:33:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stablecoin demand may soon fade, BoE\u2019s Greene says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/stablecoin-demand-may-soon-fade-boes-greene-says-4717924",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T15:30:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Rockets are hard': Elon Musk responds to Jeff Bezos' rocket explosion as his own SpaceX glides to a $1.8T IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rockets-hard-elon-musk-responds-151500401.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T15:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI\u2019s Greg Brockman steps out of the shadows as IPO nears",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598693-openai-s-greg-brockman-steps-out-of-the-shadows-as-ipo-nears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T15:01:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Visa (V) One of the Best Long-Term Dividend Stocks to Invest In According to Billionaires?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-one-best-long-145131772.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:51:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin slides but above $73k as CME launches 24/7 crypto futures trading",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-73k-as-cme-launches-247-crypto-futures-trading-4717830",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:50:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top global stories this week: Softbank, Li Auto, Xpeng among notable names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598701-top-global-stories-this-week-softbank-li-auto-xpeng-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:47:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Applied Materials (AMAT) \u2013 Among the 10 Best Long-Term Dividend Stocks to Invest In According to Billionaires",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-among-10-144737834.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:47:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Right-wing Fujimori holds narrow lead one week before Peru presidential runoff, polls show",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/rightwing-fujimori-holds-narrow-lead-one-week-before-peru-presidential-runoff-polls-show-4717923",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:42:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two hundred hurt in post-game violence as Paris hails second Champions League triumph",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/two-hundred-hurt-in-postgame-violence-as-paris-hails-second-champions-league-triumph-4717922",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:36:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cotality cuts Australian home price growth on tax reforms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/cotality-cuts-australian-home-price-growth-on-tax-reforms-93CH-4717921",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:33:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australians raise retirement savings target on living costs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/australians-raise-retirement-savings-target-on-living-costs-93CH-4717920",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:33:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "J&J seeks expanded use for drug after positive head and neck cancer study",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598696-j-and-j-seeks-expanded-use-for-drug-after-positive-head-and-neck-cancer-study?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:31:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eva Longoria says this quality is more important than an Ivy League education: 'Do you have the capacity to figure it out?'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/31/eva-longoria-says-this-quality-trumps-an-ivy-league-education.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:30:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed\u2019s Waller says stablecoins extend US monetary policy reach",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/feds-waller-says-stablecoins-extend-us-monetary-policy-reach-4717919",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:25:03+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -58,6 +234,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4598697-ai-fueled-chip-rally-sparks-fresh-debate-over-market-bubble-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-05-31T14:03:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 4 big things we're watching in the stock market in the week ahead",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/31/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T14:00:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -86,22 +273,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lithium miners in Congo face higher royalties after strategic mineral designation",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/lithium-miners-in-congo-face-higher-royalties-after-strategic-mineral-designation-93CH-4717916",
+      "headline": "Market concentration is creating 'fragility':  Only 60% of S&P 500 stocks are above their 200-day average",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/market-concentration-is-creating-fragility-only-60-of-sp-500-stocks-are-above-their-200-day-average-135336513.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-31T13:53:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IAEA reports drone strike damage at Zaporizhzhia nuclear plant",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/iaea-reports-drone-strike-damage-at-zaporizhzhia-nuclear-plant-93CH-4717915",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T13:50:25+00:00",
+      "timestamp": "2026-05-31T13:53:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -189,111 +365,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "J&J study suggests earlier use of prostate cancer drug improves outcomes",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598695-jj-study-suggests-earlier-use-of-prostate-cancer-drug-improves-outcomes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-05-31T13:09:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Colombians weigh leftist\u00a0reforms against right-wing crackdowns in presidential vote",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T13:06:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: UnitedHealthcare, Pfizer, Eli Lilly in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598588-notable-healthcare-headlines-for-the-week-unitedhealthcare-pfizer-eli-lilly-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T13:05:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jobs report on tap for soaring US stocks as rate path, bond yields eyed as risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/jobs-report-on-tap-for-soaring-us-stocks-as-rate-path-bond-yields-eyed-as-risks-4717914",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T13:00:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lilly says Retevmo cuts lung cancer recurrence risk in late-stage trial",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598694-lilly-says-retevmo-cuts-lung-cancer-recurrence-risk-in-late-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T12:46:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.46%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-046-4717913",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T12:45:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How the Supreme Court is reshaping the US midterm elections",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/how-the-supreme-court-is-reshaping-the-us-midterm-elections-4717836",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T12:42:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "J&J\u2019s apalutamide cuts prostate cancer death risk by 20%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/jjs-apalutamide-cuts-prostate-cancer-death-risk-by-20-93CH-4717912",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T12:33:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI IPO wave is said to shift investor focus to Asia\u2019s supply chain",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598691-ai-ipo-wave-is-said-to-shift-investor-focus-to-asia-s-supply-chain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T12:14:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Revolution Medicines reports phase 3 pancreatic cancer trial results",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/revolution-medicines-reports-phase-3-pancreatic-cancer-trial-results-93CH-4717910",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T12:13:23+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-05-31T12:47:29+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -349,17 +426,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-31T11:50:00+00:00",
       "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T11:13:49+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -583,6 +649,17 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-dumps-entire-203300760.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T20:33:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -633,6 +710,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Another company shuts down Bitcoin treasury",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/another-company-shuts-down-bitcoin-160000343.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T16:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "US planning faster troop withdrawal from Europe, newspaper says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnEybF9EeDRqOGwxZnNCTzljb1lXM0RaT08yS3R1UUQ1N1o2bS1VbFFUcGVhbnJUaExpdXpiTmdfa21OQ2x2MHpXX1JUVVFkNnlEM0VwU3pIdV9JT1lhMEhYZjhQYmowN1ZDZnZzcjVDMkltS3liNmtDM0k2cnVmYjVIY3ZHazE1Rk9RV0pNeHVRVFQ2NUkwMTVhdEdXcG5i?oc=5",
@@ -678,122 +766,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Josh Brown, counting on a new momentum strategy, thinks investors want more than index funds",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/30/josh-brown-thinks-investors-want-more-than-index-funds.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:56:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 themes that drove stocks to another week of records \u2014 and a banner month",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/30/3-themes-that-drove-stocks-to-another-record-week-and-a-banner-month.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:54:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire trails red-hot S&P 500 by biggest margin so far this year",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/05/30/berkshire-trails-red-hot-sp-500-by-biggest-margin-so-far-this-year.html",
       "is_watchlist": false,
       "timestamp": "2026-05-30T12:47:51+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Broadcom Nears Earnings Report",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:45:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street Wants You to Chase the SpaceX, Anthropic, and OpenAI IPO Hype. History Tells Us That\u2019s a Dangerous Game.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wants-chase-spacex-124501192.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:45:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dave Ramsey reveals 3 serious retirement mistakes Americans make after 55 (and regret later)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-reveals-3-serious-124500863.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Billionaire Tilman Fertitta's $5.7 billion bet on Caesars could shake up the casino scene in Las Vegas \u2014 and beyond",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-tilman-fertittas-5-7-123500642.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US New Home Sales Drop 6.2% In April As Elevated Mortgage Rates Weigh On Housing Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/us-home-sales-drop-6-123116357.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:31:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "C.H. Robinson Is Removing Carriers Based on Safety Scores. A Supreme Court Decision Two Weeks Ago May Explain Why.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/c-h-robinson-removing-carriers-122950741.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:29:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Barry Ritholtz Warns Retail Investors Are Being Set Up as the Exit for Private Markets at Peak Cycle",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barry-ritholtz-warns-retail-investors-122645862.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:26:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Ticking time bomb\u2019: Peter Schiff issues stark warning over US stock market \u2014 and the \u2018ultimate crash\u2019 is near",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ticking-time-bomb-peter-schiff-121500644.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T12:15:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -830,6 +808,28 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Retirement Coverage Gap: Beyond the Hype",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/retirement-coverage-gap-beyond-hype-100713977.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T10:07:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Breakfast giant shuts plant, cuts 100s of workers",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/breakfast-giant-shuts-plant-cuts-090300298.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-30T09:03:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
