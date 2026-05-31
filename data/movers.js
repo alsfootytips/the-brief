@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T12:04:54.846933+00:00",
+  "generated_at": "2026-05-31T14:12:05.119336+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day\""
+      "move_reason": "News: \"Could Buying Rocket Lab Stock Today Set You Up for Life?\""
     },
     {
       "ticker": "IWM",
@@ -339,7 +339,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Durable Goods Orders Jump 7.9% In April, More Than Expected\""
+      "move_reason": "News: \"The Stock Market May Be About To Break\""
     },
     {
       "ticker": "AMD",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Arm Holdings Triple Your Money by the End of the Year?\""
+      "move_reason": "News: \"After Following Generative AI Every Single Day These 3 ETFs Keep Rising to the Top of My R...\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Arm Holdings Triple Your Money by the End of the Year?\""
+      "move_reason": "News: \"After Following Generative AI Every Single Day These 3 ETFs Keep Rising to the Top of My R...\""
     },
     {
       "ticker": "APA",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Durable Goods Orders Jump 7.9% In April, More Than Expected\""
+      "move_reason": "News: \"The Stock Market May Be About To Break\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day\""
+      "move_reason": "News: \"Could Buying Rocket Lab Stock Today Set You Up for Life?\""
     },
     {
       "ticker": "OSCR",
