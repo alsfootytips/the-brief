@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T21:42:17.466516+00:00",
+  "generated_at": "2026-05-31T22:42:27.985223+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion\""
+      "move_reason": "News: \"Why Redwire Stock Skyrocketed This Week\""
     },
     {
       "ticker": "IWM",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute...\""
+      "move_reason": "News: \"Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip S...\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute...\""
+      "move_reason": "News: \"Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip S...\""
     },
     {
       "ticker": "APA",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion\""
+      "move_reason": "News: \"Why Redwire Stock Skyrocketed This Week\""
     },
     {
       "ticker": "OSCR",

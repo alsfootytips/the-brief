@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-31T21:42:17.472229+00:00",
+  "generated_at": "2026-05-31T22:42:27.990784+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T21:42:17.468952+00:00",
+      "timestamp": "2026-05-31T22:42:27.987646+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T21:42:17.468948+00:00",
+      "timestamp": "2026-05-31T22:42:27.987642+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,211 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T21:42:17.468939+00:00",
+      "timestamp": "2026-05-31T22:42:27.987633+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strike kills at least two at Gaza seaport cafe, medics say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-at-least-two-at-gaza-seaport-cafe-medics-say-4717931",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:37:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visits to restart at New Jersey migrant detention center as police expand restricted area",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/visits-to-restart-at-new-jersey-migrant-detention-center-as-police-expand-restricted-area-4717935",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:36:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jobs report on tap for soaring US stocks as rate path, bond yields eyed as risks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/jobs-report-on-tap-for-soaring-us-stocks-as-rate-path-bond-yields-eyed-as-risks-4717914",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:30:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices rise more than 2% as Israel moves further into Lebanon",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-more-than-2-as-israel-moves-further-into-lebanon-4717951",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:30:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:25:34+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AUKUS to develop unmanned undersea vehicles, delivery set for 2027",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/aukus-to-develop-unmanned-undersea-vehicles-delivery-set-for-2027-4717950",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:18:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil rises, U.S. stock futures dip as Wall Street looks to extend its winning streak",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Colombia right wing candidate De La Espriella, leftist Cepeda poised for run-off",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:12:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BOJ may heed calls to pause bond taper next year",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/boj-may-heed-calls-to-pause-bond-taper-next-year-4717949",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:12:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BOJ may heed calls to pause bond taper next year",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/analysis-boj-may-heed-calls-064926660.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:11:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Seagate Technology Holdings plc (STX): Leopold Aschenbrenner Sells Stake",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-220222184.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:02:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Western Digital Corporation (WDC): Leopold Aschenbrenner Is Selling This Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-leopold-220142206.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:01:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Monday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598707-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:00:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump to headline 250th anniversary fair opening after performers drop out",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/trump-considers-dropping-concerts-in-us-capital-after-artists-drop-out-4717774",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:00:32+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tower Semiconductor Ltd. (TSEM): Leopold Aschenbrenner Is Bearish on This Company",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-ltd-tsem-leopold-220025238.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T22:00:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Keel Infrastructure Corp. (KEEL): Leopold Aschenbrenner Is Buying This Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keel-infrastructure-corp-keel-leopold-213945800.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T21:39:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Redwire Stock Skyrocketed This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c9bd8fcb45aeb5377974cea4c450a7d6904863586ee22255b5038d4ab629150",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T21:38:20+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Annaly Capital's Hedging Strategy Could Be the Key to the Next 12 Months",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=427da4eed6d0fc400e9e33d61846c717d2aac3573ce68801b6ac2a83d6d04a2c",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T21:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -63,25 +264,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4717947",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Taiwan Semiconductor Manufacturing (TSM): Leopold Aschenbrenner Takes Bearish View",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7afa75f10d9cb1f4d590059e38fb1e89dd65610fe4b4c7f610c5208ef5a5b31c",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T21:28:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Polls close in Colombia presidential election, voters weighed leftist reforms against right-wing crackdowns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T21:18:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3dd9305f2b534b7874b7c01c5a02f8d3242081f231b3967fc1d9c1b0c52ca6cc",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T21:23:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -95,86 +298,16 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Buffett"
-      ],
-      "ticker": null,
-      "headline": "Berkshire Hathaway Announces First Takeover Since Warren Buffett's Exit",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/berkshire-hathaway-to-buy-taylor-morrison-home-8-5-billion-warren-buffett/?src=A00220&yptr=yahoo",
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Nvidia and AMD face new export limits on China subsidiaries",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55bff26dec21830b8ea19a842aa0aa3eb4f06332f0c65438d9e7255d922c8b49",
       "is_watchlist": true,
-      "timestamp": "2026-05-31T21:14:58+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-incorporated-glw-leopold-aschenbrenner-205513332.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:55:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "German infrastructure fund misses its spending targets, Handelsblatt says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/german-infrastructure-fund-misses-its-spending-targets-handelsblatt-says-4717946",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:54:44+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway to buy US homebuilder Taylor Morrison for $8.5 billion",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-to-buy-us-homebuilder-taylor-morrison-for-85-billion-4717945",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:48:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Loom As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:39:29+00:00",
-      "relevance_score": 3.0,
+      "timestamp": "2026-05-31T20:49:21+00:00",
+      "relevance_score": 3.5,
       "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway to acquire Taylor Morrison for $8.5 billion",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/berkshire-hathaway-to-acquire-taylor-morrison-for-85-billion-93CH-4717944",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:37:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could GLP-1 drugs become oncology\u2019s next big opportunity?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/could-glp1-drugs-become-oncologys-next-big-opportunity-4717943",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:32:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -207,28 +340,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-31T20:28:02+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Who could benefit from further upside in South Korea\u2019s luxury demand?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/who-could-benefit-from-further-upside-in-south-koreas-luxury-demand-4717941",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:25:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia and AMD face new export limits on China subsidiaries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-and-amd-face-new-export-limits-on-china-subsidiaries-4717940",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T20:19:21+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -289,18 +400,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68c4027b10f6f9bd16fbb8ce65f2950464e9b58f4e8a32b302d7bd64bbcaee71",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T19:48:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Grid Modernization and Electrification Power Quanta's Backlog of Nearly $50 Billion",
       "source": "Yahoo",
@@ -313,71 +412,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Zscaler Stock Plummeted This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f4d4d04cd694a6ea6e8462e336efc1e277885ac3d512779707dd2bbe469efd4",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T19:40:34+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "United Rentals: The Industrial Stock Workhorse I'd Happily Hold Through Any Market Crash",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a36aeeea4136bc5620106b97b0d73fe72c0980203e81566f52d60104bc2ac2a1",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T19:35:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Surging bank lending could rekindle inflation risks, SocGen's Albert Edwards warns",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598711-surging-bank-lending-could-rekindle-inflation-risks-socgens-albert-edwards-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T19:31:25+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-not-just-tech-stocks-the-broad-based-strength-of-the-market-right-now-gives-investors-reason-to-stay-the-course-4ef65de3?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-05-31T19:12:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-praised-ibms-legend-ceo-191000655.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T19:10:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "360 Energy Pulse: What mattered this month in energy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/360-energy-pulse-mattered-month-183019766.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T18:30:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -403,17 +443,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why rising interest rates haven't crushed stock valuations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/why-rising-interest-rates-havent-crushed-stock-valuations-174412488.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T17:44:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -483,18 +512,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5bfa92b72490131dce5682096e02a2f742f4a0c7b5d1ed2dce1ee0eac0d3b20",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T15:15:35+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "Korea And Japan Worry Me More Than The Strait Of Hormuz",
       "source": "SeekingAlpha",
@@ -554,17 +571,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "In deeply red Oklahoma, minimum wage\u2019s biggest 2026 election cycle fight is about to be decided",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T14:00:42+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s how Gap\u2019s yoga-wear maker Athleta went from must-have to \u2018generic\u2019",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories",
@@ -619,10 +625,33 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Dow Jones Futures Loom As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31627d3e126e3760bd66a997045034e3fff299e8497b03ad105753b9ce47db26",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T12:02:50+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T12:00:02+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A hotly debated lung cancer drug cut the risk of death by 34% in a late-stage trial in China",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
       "is_watchlist": false,
       "timestamp": "2026-05-31T12:00:02+00:00",
       "relevance_score": 2.5,
@@ -664,29 +693,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T11:50:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "After Following Generative AI Every Single Day These 3 ETFs Keep Rising to the Top of My Research",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa741e1481c827132575b346fb25a4e52514f6d10ad532dd729b8b0d897eff06",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T10:41:50+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html",
@@ -720,18 +726,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Semis Versus Software: Should You Follow The Investment Giants And Their 13-F Actions?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=831d8271f00948abbadf1afa6b7bc833a083468cc38961af75ea8151057b2a2a",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T08:30:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Services: A Competitive Edge Through Labor",
       "source": "SeekingAlpha",
@@ -753,6 +747,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia\u2019s latest product is a game-changer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-latest-product-game-changer-010300358.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T01:03:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -822,17 +827,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-05-30T17:29:16+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Another company shuts down Bitcoin treasury",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/another-company-shuts-down-bitcoin-160000343.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T16:00:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
