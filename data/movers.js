@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T16:47:18.759396+00:00",
+  "generated_at": "2026-05-31T18:03:20.986818+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -188,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AirJoule Technologies (AIRJ) Reaches Key Milestones As Commercial Plans Expand\""
+      "move_reason": "News: \"GE Vernova CEO sends rattling message on data centers\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Top Cryptocurrency to Buy Before It Soars 1,600%, According to Cathie Wood of Ark Invest\""
+      "move_reason": "News: \"China Insight: Why Fashion Must Rethink Globalization\""
     },
     {
       "ticker": "IWM",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AirJoule Technologies (AIRJ) Reaches Key Milestones As Commercial Plans Expand\""
+      "move_reason": "News: \"GE Vernova CEO sends rattling message on data centers\""
     },
     {
       "ticker": "IWM",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Top Cryptocurrency to Buy Before It Soars 1,600%, According to Cathie Wood of Ark Invest\""
+      "move_reason": "News: \"China Insight: Why Fashion Must Rethink Globalization\""
     },
     {
       "ticker": "OSCR",

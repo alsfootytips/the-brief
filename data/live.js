@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-05-31T16:47:18.764986+00:00",
+  "generated_at": "2026-05-31T18:03:20.992396+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 7.66,
       "price": 18.27,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T16:47:18.761810+00:00",
+      "timestamp": "2026-05-31T18:03:20.989224+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 9.07,
       "price": 156.34,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T16:47:18.761806+00:00",
+      "timestamp": "2026-05-31T18:03:20.989220+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 5.39,
       "price": 449.99,
       "is_watchlist": false,
-      "timestamp": "2026-05-31T16:47:18.761797+00:00",
+      "timestamp": "2026-05-31T18:03:20.989211+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -53,11 +53,173 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Explosion kills at least 55 in Myanmar, BBC reports",
+      "headline": "Graphic Packaging seen largely insulated from Nippon Mill accident, UBS says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598709-graphic-packaging-seen-largely-insulated-from-nippon-mill-accident-ubs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:57:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "China Insight: Why Fashion Must Rethink Globalization",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8d3b20f0c46142c7cb17c9f00e7ffa965a9f3612be354c75c884b8a2735ba6a",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T17:52:19+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Earnings Reports to Watch This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b7d7e8b1308c83c91c506f236785827b69ad0caddf466634be6236855e49e7a",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T17:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sky ends UAE news venture, hands full control of Sky News Arabia to IMI",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598712-sky-ends-uae-news-venture-hands-full-control-of-sky-news-arabia-to-imi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:48:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "GE Vernova CEO sends rattling message on data centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=002938a9263a5b066c3658b57e5f7f6feb94737cb3f186a5f40b41a9cbaa6050",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T17:47:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why rising interest rates haven't crushed stock valuations",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/why-rising-interest-rates-havent-crushed-stock-valuations-174412488.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:44:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Blast in Myanmar village reportedly kills 55 and injures dozens more",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/explosion-kills-at-least-55-in-myanmar-bbc-reports-4717928",
       "is_watchlist": false,
-      "timestamp": "2026-05-31T16:36:07+00:00",
+      "timestamp": "2026-05-31T17:36:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran\u2019s foreign minister Abbas Araqchi says talks with US continue",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/usiran-talks-hit-sticking-points-as-lebanon-fighting-escalates-4717808",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T17:35:29+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Vanguard ETFs Long-Term Investors Should Consider Adding in June",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66fa2937ebcc91740f7deb9eaffbaec54072c82a559b339fff82be305eef20d5",
+      "is_watchlist": true,
+      "timestamp": "2026-05-31T17:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China factory growth stalls as export orders weaken, cost pressures persist",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598700-china-factory-growth-stalls-as-export-orders-weaken-cost-pressures-persist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:14:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump expands Barrack\u2019s Syria envoy role to include Iraq",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/trump-expands-barracks-syria-envoy-role-to-include-iraq-4717930",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:06:45+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A24\u2019s \u2018Backrooms\u2019 opens to $81M, leads box office surge",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4598706-a24-s-backrooms-opens-to-81m-leads-box-office-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:03:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Premu Launches Decentralized Prediction Market Platform Featuring User-Created Markets and Leveraged Event Trading",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/premu-launches-decentralized-prediction-market-platform-featuring-usercreated-markets-and-leveraged-event-trading-4717929",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T17:00:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T16:41:41+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "May rewired global energy markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/may-rewired-global-energy-markets-163050787.html",
+      "is_watchlist": false,
+      "timestamp": "2026-05-31T16:30:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -194,58 +356,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Top Cryptocurrency to Buy Before It Soars 1,600%, According to Cathie Wood of Ark Invest",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=612f5d800d67fe612ac17c5e5c185f6946a09fa444046dda96fb88cd92651297",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T15:44:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Colombians weigh leftist reforms against right-wing crackdowns in presidential vote",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
       "is_watchlist": false,
       "timestamp": "2026-05-31T15:36:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Pfizer Stock a \"Value Trap\" or a Generational Opportunity?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71c27233aad79269715aabfd38f864bfa760bd0fbdb722a04ab6632eaecd7b33",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T15:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Revolution Medicines reports Phase 3 win in pancreatic cancer",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598698-revolution-medicines-reports-phase-3-win-in-pancreatic-cancer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:33:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stablecoin demand may soon fade, BoE\u2019s Greene says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/stablecoin-demand-may-soon-fade-boes-greene-says-4717924",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:30:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -262,18 +378,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Reasons to Buy Cameco Stock Like There's No Tomorrow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6e5318359aeb133eb359b88ec3e672ea07ce2668e6d675e4032df615163b087d",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T15:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
       "source": "Yahoo",
@@ -287,33 +391,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:15:08+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "'Rockets are hard': Elon Musk responds to Jeff Bezos' rocket explosion as his own SpaceX glides to a $1.8T IPO",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rockets-hard-elon-musk-responds-151500401.html",
       "is_watchlist": false,
       "timestamp": "2026-05-31T15:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OpenAI\u2019s Greg Brockman steps out of the shadows as IPO nears",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598693-openai-s-greg-brockman-steps-out-of-the-shadows-as-ipo-nears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T15:01:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -330,50 +412,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin slides but above $73k as CME launches 24/7 crypto futures trading",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-73k-as-cme-launches-247-crypto-futures-trading-4717830",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T14:50:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top global stories this week: Softbank, Li Auto, Xpeng among notable names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598701-top-global-stories-this-week-softbank-li-auto-xpeng-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T14:47:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Applied Materials (AMAT) \u2013 Among the 10 Best Long-Term Dividend Stocks to Invest In According to Billionaires",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-among-10-144737834.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T14:47:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Right-wing Fujimori holds narrow lead one week before Peru presidential runoff, polls show",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/rightwing-fujimori-holds-narrow-lead-one-week-before-peru-presidential-runoff-polls-show-4717923",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T14:42:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "AirJoule Technologies (AIRJ) Reaches Key Milestones As Commercial Plans Expand",
       "source": "Yahoo",
@@ -383,17 +421,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "J&J seeks expanded use for drug after positive head and neck cancer study",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4598696-j-and-j-seeks-expanded-use-for-drug-after-positive-head-and-neck-cancer-study?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-05-31T14:31:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -668,18 +695,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Invesco Summit Fund Q1 2026 Portfolio Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a1e9fc0053c7841c5d5565d3fba6be1fef468318b60f3b43668bb1c976e0ac0d",
-      "is_watchlist": true,
-      "timestamp": "2026-05-31T05:12:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "Durable Goods Orders Jump 7.9% In April, More Than Expected",
       "source": "SeekingAlpha",
@@ -825,17 +840,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/video/retirement-coverage-gap-beyond-hype-100713977.html",
       "is_watchlist": false,
       "timestamp": "2026-05-30T10:07:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Breakfast giant shuts plant, cuts 100s of workers",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/breakfast-giant-shuts-plant-cuts-090300298.html",
-      "is_watchlist": false,
-      "timestamp": "2026-05-30T09:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
