@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T10:30:48.258645+00:00",
+  "generated_at": "2026-05-31T12:04:54.846933+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -200,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services Inc. (NYSE:PWR) Screens Strongly for High Growth Momentum and Minervini Tr...\""
+      "move_reason": "News: \"Quanta Services: A Competitive Edge Through Labor\""
     },
     {
       "ticker": "XLP",
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are Oils-Energy Stocks Lagging  Texas Pacific Land (TPL) This Year?\""
+      "move_reason": "News: \"Oil Be Buying: My Absolute Favorite Energy Stocks\""
     },
     {
       "ticker": "SIEGY",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"American Express vs. Visa: 2 Different Ways to Bet on Premium Consumer Spending\""
+      "move_reason": "News: \"IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day\""
     },
     {
       "ticker": "IWM",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"American Express vs. Visa: 2 Different Ways to Bet on Premium Consumer Spending\""
+      "move_reason": "News: \"IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day\""
     },
     {
       "ticker": "OSCR",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services Inc. (NYSE:PWR) Screens Strongly for High Growth Momentum and Minervini Tr...\""
+      "move_reason": "News: \"Quanta Services: A Competitive Edge Through Labor\""
     },
     {
       "ticker": "TPL",
@@ -497,7 +497,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are Oils-Energy Stocks Lagging  Texas Pacific Land (TPL) This Year?\""
+      "move_reason": "News: \"Oil Be Buying: My Absolute Favorite Energy Stocks\""
     },
     {
       "ticker": "TTD",
@@ -790,6 +790,30 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 396.49,
+      "change_pct": -1.2,
+      "score": 4.5,
+      "signals": [
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.4 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.4 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 56.58,
@@ -857,27 +881,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 396.49,
-      "change_pct": -1.2,
-      "score": 3.0,
-      "signals": [
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.4 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.4 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [
