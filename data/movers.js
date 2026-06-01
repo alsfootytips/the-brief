@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-05-31T23:47:20.320997+00:00",
+  "generated_at": "2026-06-01T04:08:11.387464+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Agoda and The Trade Desk Partner to Help Brands Reach High-Intent Travelers Across APAC\""
     },
     {
       "ticker": "CRWV",
@@ -82,7 +82,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Stock Is Sliding: What's Driving The Move?\""
+      "move_reason": "News: \"Nebius: Ballooning Upside Potential\""
     },
     {
       "ticker": "DG",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Look Ahead: May 29, 2026\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "GLD",
@@ -223,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Occidental Petroleum Is a Buy Despite Falling Oil Prices\""
+      "move_reason": "News: \"Occidental Petroleum (OXY) Upgraded at Barclays, Price Target Raised by $13\""
     },
     {
       "ticker": "TPL",
@@ -304,7 +304,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Tops 51,000, Dell Jumps 28% On Blowout AI Sales: Stock Market Today\""
+      "move_reason": ""
     },
     {
       "ticker": "XLC",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Redwire Stock Skyrocketed This Week\""
+      "move_reason": "News: \"NVIDIA Vera BlueField-4 STX Brings Agentic AI Storage Processing With In-Silicon Security\""
     },
     {
       "ticker": "IWM",
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip S...\""
+      "move_reason": "News: \"US moves to block Nvidia AI chip sales to Chinese firms outside China\""
     }
   ],
   "watchlist": [
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip S...\""
+      "move_reason": "News: \"US moves to block Nvidia AI chip sales to Chinese firms outside China\""
     },
     {
       "ticker": "APA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Look Ahead: May 29, 2026\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "GEV",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Stock Is Sliding: What's Driving The Move?\""
+      "move_reason": "News: \"Nebius: Ballooning Upside Potential\""
     },
     {
       "ticker": "NVDA",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Redwire Stock Skyrocketed This Week\""
+      "move_reason": "News: \"NVIDIA Vera BlueField-4 STX Brings Agentic AI Storage Processing With In-Silicon Security\""
     },
     {
       "ticker": "OSCR",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Occidental Petroleum Is a Buy Despite Falling Oil Prices\""
+      "move_reason": "News: \"Occidental Petroleum (OXY) Upgraded at Barclays, Price Target Raised by $13\""
     },
     {
       "ticker": "PWR",
@@ -509,7 +509,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Agoda and The Trade Desk Partner to Help Brands Reach High-Intent Travelers Across APAC\""
     },
     {
       "ticker": "XLE",
@@ -521,7 +521,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Tops 51,000, Dell Jumps 28% On Blowout AI Sales: Stock Market Today\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -836,30 +836,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
-    },
-    {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 108.33,
-      "change_pct": 1.38,
-      "score": 3.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
-        "-40.3% from 52-week high"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
-        "-40.3% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-selling",
-        "off-highs"
-      ],
-      "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
-      "sector_etf": "XLK"
     },
     {
       "ticker": "GEV",

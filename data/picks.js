@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-05-31T23:47:20.346911+00:00",
+  "generated_at": "2026-06-01T04:08:11.412001+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -28,8 +28,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.13,
       "name": "Oscar Health",
       "news_count": 0,
-      "days_elapsed": 19,
-      "days_remaining": 37,
+      "days_elapsed": 20,
+      "days_remaining": 36,
       "pick_type": "strategic"
     },
     {
@@ -96,8 +96,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.67,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 19,
-      "days_remaining": 37,
+      "days_elapsed": 20,
+      "days_remaining": 36,
       "pick_type": "strategic"
     },
     {
@@ -162,8 +162,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.88,
       "name": "Energy Select Sector",
       "news_count": 3,
-      "days_elapsed": 19,
-      "days_remaining": 9,
+      "days_elapsed": 20,
+      "days_remaining": 8,
       "pick_type": "strategic"
     },
     {
@@ -202,8 +202,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.18,
       "name": "XOP",
       "news_count": 0,
-      "days_elapsed": 18,
-      "days_remaining": 3
+      "days_elapsed": 19,
+      "days_remaining": 2
     },
     {
       "id": "2026-05-13-USO-tactical",
@@ -328,8 +328,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.04,
       "name": "XOM",
       "news_count": 0,
-      "days_elapsed": 18,
-      "days_remaining": 3
+      "days_elapsed": 19,
+      "days_remaining": 2
     },
     {
       "id": "2026-05-13-CVX-tactical",
@@ -367,8 +367,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.43,
       "name": "CVX",
       "news_count": 0,
-      "days_elapsed": 18,
-      "days_remaining": 3
+      "days_elapsed": 19,
+      "days_remaining": 2
     },
     {
       "id": "2026-05-13-STNG-tactical",
@@ -450,8 +450,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.07,
       "name": "SIEGY",
       "news_count": 0,
-      "days_elapsed": 18,
-      "days_remaining": 3
+      "days_elapsed": 19,
+      "days_remaining": 2
     },
     {
       "id": "2026-05-13-GEV-longterm",
@@ -483,7 +483,7 @@ window.theBriefPicks = {
       "change_pct_today": -2.78,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 18,
+      "days_elapsed": 19,
       "days_remaining": null
     },
     {
@@ -516,7 +516,7 @@ window.theBriefPicks = {
       "change_pct_today": -2.48,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 18,
+      "days_elapsed": 19,
       "days_remaining": null
     },
     {
@@ -549,7 +549,7 @@ window.theBriefPicks = {
       "change_pct_today": 9.07,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 18,
+      "days_elapsed": 19,
       "days_remaining": null
     },
     {
@@ -572,7 +572,7 @@ window.theBriefPicks = {
       ],
       "sector": "Technology",
       "issue_number": 3,
-      "status": "open",
+      "status": "expired",
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
@@ -581,8 +581,12 @@ window.theBriefPicks = {
       "change_pct_today": -0.83,
       "name": "NVIDIA",
       "news_count": 3,
-      "days_elapsed": 13,
-      "days_remaining": 1
+      "days_elapsed": 14,
+      "days_remaining": 0,
+      "closed_at": "2026-06-01",
+      "closed_price": 212.48,
+      "closed_pct": -5.7,
+      "closed_reason": "horizon_reached (2 weeks)"
     },
     {
       "id": "2026-05-18-KRE",
@@ -614,8 +618,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.01,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 13,
-      "days_remaining": 43
+      "days_elapsed": 14,
+      "days_remaining": 42
     },
     {
       "id": "2026-05-18-GLD",
@@ -647,17 +651,17 @@ window.theBriefPicks = {
       "change_pct_today": 0.98,
       "name": "GLD",
       "news_count": 0,
-      "days_elapsed": 13,
-      "days_remaining": 71
+      "days_elapsed": 14,
+      "days_remaining": 70
     }
   ],
   "summary": {
     "total": 18,
-    "open": 13,
+    "open": 12,
     "hit": 2,
     "miss": 3,
-    "expired": 0,
-    "hit_rate": 40.0,
-    "avg_closed_pct": 0.8
+    "expired": 1,
+    "hit_rate": 33.3,
+    "avg_closed_pct": -0.28
   }
 };
