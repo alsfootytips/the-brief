@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-06-01T04:08:11.412701+00:00",
+  "generated_at": "2026-06-01T09:36:24.833327+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -4.08,
@@ -27,14 +27,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.1714,
       "analyst_recs": {
         "strongBuy": 10,
-        "buy": 18,
-        "hold": 12,
+        "buy": 17,
+        "hold": 13,
         "sell": 1,
         "strongSell": 1,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 1,
+        "buy_delta": -1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -69,14 +69,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.2068,
       "analyst_recs": {
         "strongBuy": 5,
-        "buy": 12,
-        "hold": 5,
+        "buy": 10,
+        "hold": 6,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": -2,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -110,16 +110,16 @@ window.theBriefFundamentals = {
       "short_ratio": 4.01,
       "short_percent_of_float": 0.21059999,
       "analyst_recs": {
-        "strongBuy": 7,
-        "buy": 15,
-        "hold": 18,
-        "sell": 1,
-        "strongSell": 1,
-        "period": "2026-05-01"
+        "strongBuy": 5,
+        "buy": 13,
+        "hold": 22,
+        "sell": 3,
+        "strongSell": 0,
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
+        "buy_delta": -2,
+        "sell_delta": 2
       },
       "insider_recent_90d": {
         "buys": 1,
@@ -154,14 +154,14 @@ window.theBriefFundamentals = {
       "analyst_recs": {
         "strongBuy": 2,
         "buy": 6,
-        "hold": 8,
+        "hold": 9,
         "sell": 2,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 3,
-        "sell_delta": -1
+        "buy_delta": 0,
+        "sell_delta": 0
       },
       "insider_recent_90d": {
         "buys": 5,
@@ -197,9 +197,9 @@ window.theBriefFundamentals = {
         "strongBuy": 3,
         "buy": 7,
         "hold": 19,
-        "sell": 4,
+        "sell": 3,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -241,7 +241,7 @@ window.theBriefFundamentals = {
         "hold": 1,
         "sell": 0,
         "strongSell": 1,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -278,16 +278,16 @@ window.theBriefFundamentals = {
       "short_ratio": 0.01,
       "short_percent_of_float": 0.0002,
       "analyst_recs": {
-        "strongBuy": 4,
-        "buy": 8,
-        "hold": 16,
-        "sell": 3,
+        "strongBuy": 3,
+        "buy": 9,
+        "hold": 17,
+        "sell": 1,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -1,
-        "sell_delta": 0
+        "buy_delta": 1,
+        "sell_delta": -2
       },
       "insider_recent_90d": {
         "buys": 7,
@@ -370,15 +370,15 @@ window.theBriefFundamentals = {
       "short_ratio": 0.97,
       "short_percent_of_float": 0.0275,
       "analyst_recs": {
-        "strongBuy": 15,
-        "buy": 30,
-        "hold": 13,
+        "strongBuy": 14,
+        "buy": 32,
+        "hold": 11,
         "sell": 0,
-        "strongSell": 1,
-        "period": "2026-05-01"
+        "strongSell": 0,
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": 2,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -413,14 +413,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0128,
       "analyst_recs": {
         "strongBuy": 24,
-        "buy": 42,
+        "buy": 39,
         "hold": 4,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": -3,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -454,15 +454,15 @@ window.theBriefFundamentals = {
       "short_ratio": 2.58,
       "short_percent_of_float": 0.0423,
       "analyst_recs": {
-        "strongBuy": 11,
-        "buy": 9,
-        "hold": 18,
+        "strongBuy": 10,
+        "buy": 8,
+        "hold": 20,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": -1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -496,12 +496,12 @@ window.theBriefFundamentals = {
       "short_ratio": 3.76,
       "short_percent_of_float": 0.0336,
       "analyst_recs": {
-        "strongBuy": 9,
+        "strongBuy": 10,
         "buy": 17,
-        "hold": 8,
+        "hold": 9,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -538,15 +538,15 @@ window.theBriefFundamentals = {
       "short_ratio": 3.45,
       "short_percent_of_float": 0.033,
       "analyst_recs": {
-        "strongBuy": 10,
-        "buy": 23,
-        "hold": 8,
+        "strongBuy": 9,
+        "buy": 25,
+        "hold": 7,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-05-01"
+        "period": "2026-06-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -2,
+        "buy_delta": 2,
         "sell_delta": 0
       },
       "insider_recent_90d": {
