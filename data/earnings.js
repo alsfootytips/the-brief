@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-02T04:54:23+00:00",
+  "generated_at": "2026-06-02T09:07:40+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -602,14 +602,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.7587,
         "revenue_estimate": 363068561,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HOFT",
-        "date": "2026-06-04",
-        "hour": "",
-        "eps_estimate": -0.0408,
-        "revenue_estimate": 67638750,
         "is_watchlist": false
       },
       {
@@ -1476,6 +1468,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HOFT",
+        "date": "2026-06-11",
+        "hour": "",
+        "eps_estimate": -0.0408,
+        "revenue_estimate": 67638750,
         "is_watchlist": false
       },
       {
