@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-02T09:07:40+00:00",
+  "generated_at": "2026-06-02T12:52:41+00:00",
   "by_date": {
     "2026-06-02": [
       {
@@ -10,6 +10,13 @@ window.theBriefEarnings = {
         "revenue_estimate": 11138542827,
         "is_watchlist": true,
         "history": [
+          {
+            "period": "2026-06-30",
+            "actual": 2,
+            "estimate": 1.9416,
+            "beat": true,
+            "surprise_pct": 3.0078
+          },
           {
             "period": "2026-03-31",
             "actual": 1.93,
@@ -30,13 +37,6 @@ window.theBriefEarnings = {
             "estimate": 1.6145,
             "beat": true,
             "surprise_pct": 15.2059
-          },
-          {
-            "period": "2025-06-30",
-            "actual": 1.78,
-            "estimate": 1.5263,
-            "beat": true,
-            "surprise_pct": 16.6219
           }
         ]
       },
