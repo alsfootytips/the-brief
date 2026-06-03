@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-03T05:26:46+00:00",
+  "generated_at": "2026-06-03T10:21:31+00:00",
   "by_date": {
     "2026-06-03": [
       {
@@ -559,6 +559,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GASS",
+        "date": "2026-06-05",
+        "hour": "",
+        "eps_estimate": 0.3876,
+        "revenue_estimate": 39168000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "GIII",
         "date": "2026-06-05",
         "hour": "bmo",
@@ -1021,6 +1029,14 @@ window.theBriefEarnings = {
     ],
     "2026-06-10": [
       {
+        "ticker": "ATEX",
+        "date": "2026-06-10",
+        "hour": "amc",
+        "eps_estimate": 1.3974,
+        "revenue_estimate": 1596810,
+        "is_watchlist": false
+      },
+      {
         "ticker": "BRRE",
         "date": "2026-06-10",
         "hour": "",
@@ -1263,6 +1279,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "LEN",
+        "date": "2026-06-11",
+        "hour": "amc",
+        "eps_estimate": 1.2673,
+        "revenue_estimate": 8108476303,
+        "is_watchlist": false
+      },
+      {
         "ticker": "LOVE",
         "date": "2026-06-11",
         "hour": "",
@@ -1364,6 +1388,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ZDGE",
+        "date": "2026-06-11",
+        "hour": "",
+        "eps_estimate": 0.051,
+        "revenue_estimate": 7148160,
         "is_watchlist": false
       }
     ],
@@ -1611,14 +1643,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "ZDGE",
-        "date": "2026-06-15",
-        "hour": "",
-        "eps_estimate": 0.051,
-        "revenue_estimate": 7148160,
-        "is_watchlist": false
-      },
-      {
         "ticker": "ZEOX",
         "date": "2026-06-15",
         "hour": "",
@@ -1702,14 +1726,6 @@ window.theBriefEarnings = {
       }
     ],
     "2026-06-17": [
-      {
-        "ticker": "ATEX",
-        "date": "2026-06-17",
-        "hour": "amc",
-        "eps_estimate": 1.3974,
-        "revenue_estimate": 1596810,
-        "is_watchlist": false
-      },
       {
         "ticker": "CMCM",
         "date": "2026-06-17",
