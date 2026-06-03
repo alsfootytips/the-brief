@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-02T22:34:50.296456+00:00",
+  "generated_at": "2026-06-03T00:18:01.938526+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -23,13 +23,13 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 21.13,
-      "current_pct": -5.8,
-      "change_pct_today": -8.01,
+      "current_price": 21.02,
+      "current_pct": -6.29,
+      "change_pct_today": -8.49,
       "name": "Oscar Health",
       "news_count": 0,
-      "days_elapsed": 21,
-      "days_remaining": 35,
+      "days_elapsed": 22,
+      "days_remaining": 34,
       "pick_type": "strategic"
     },
     {
@@ -55,9 +55,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 261.11,
-      "current_pct": 46.31,
-      "change_pct_today": -1.28,
+      "current_price": 259.76,
+      "current_pct": 45.56,
+      "change_pct_today": -1.8,
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,
@@ -91,13 +91,13 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 291.37,
-      "current_pct": 3.19,
-      "change_pct_today": 0.83,
+      "current_price": 290.92,
+      "current_pct": 3.03,
+      "change_pct_today": 0.67,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 21,
-      "days_remaining": 35,
+      "days_elapsed": 22,
+      "days_remaining": 34,
       "pick_type": "strategic"
     },
     {
@@ -122,9 +122,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 519.75,
-      "current_pct": 17.6,
-      "change_pct_today": 1.89,
+      "current_price": 518.75,
+      "current_pct": 17.37,
+      "change_pct_today": 1.69,
       "name": "Advanced Micro Devices",
       "news_count": 3,
       "days_elapsed": 14,
@@ -157,13 +157,13 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 57.95,
-      "current_pct": 0.4,
-      "change_pct_today": 1.14,
+      "current_price": 58.24,
+      "current_pct": 0.9,
+      "change_pct_today": 1.64,
       "name": "Energy Select Sector",
       "news_count": 3,
-      "days_elapsed": 21,
-      "days_remaining": 7,
+      "days_elapsed": 22,
+      "days_remaining": 6,
       "pick_type": "strategic"
     },
     {
@@ -193,17 +193,21 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open",
+      "status": "expired",
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
-      "current_price": 169.3,
-      "current_pct": -0.26,
-      "change_pct_today": 0.85,
+      "current_price": 169.65,
+      "current_pct": -0.05,
+      "change_pct_today": 1.06,
       "name": "XOP",
       "news_count": 0,
-      "days_elapsed": 20,
-      "days_remaining": 1
+      "days_elapsed": 21,
+      "days_remaining": 0,
+      "closed_at": "2026-06-03",
+      "closed_price": 169.65,
+      "closed_pct": -0.05,
+      "closed_reason": "horizon_reached (3 weeks)"
     },
     {
       "id": "2026-05-13-USO-tactical",
@@ -319,17 +323,21 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open",
+      "status": "expired",
       "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 150.0,
-      "current_pct": -0.42,
-      "change_pct_today": 0.42,
+      "current_price": 150.5,
+      "current_pct": -0.09,
+      "change_pct_today": 0.75,
       "name": "XOM",
       "news_count": 0,
-      "days_elapsed": 20,
-      "days_remaining": 1
+      "days_elapsed": 21,
+      "days_remaining": 0,
+      "closed_at": "2026-06-03",
+      "closed_price": 150.5,
+      "closed_pct": -0.09,
+      "closed_reason": "horizon_reached (3 weeks)"
     },
     {
       "id": "2026-05-13-CVX-tactical",
@@ -358,17 +366,21 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open",
+      "status": "expired",
       "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 187.82,
-      "current_pct": 1.01,
-      "change_pct_today": 1.07,
+      "current_price": 188.66,
+      "current_pct": 1.46,
+      "change_pct_today": 1.52,
       "name": "CVX",
       "news_count": 0,
-      "days_elapsed": 20,
-      "days_remaining": 1
+      "days_elapsed": 21,
+      "days_remaining": 0,
+      "closed_at": "2026-06-03",
+      "closed_price": 188.66,
+      "closed_pct": 1.46,
+      "closed_reason": "horizon_reached (3 weeks)"
     },
     {
       "id": "2026-05-13-STNG-tactical",
@@ -441,7 +453,7 @@ window.theBriefPicks = {
           "Iran"
         ]
       },
-      "status": "open",
+      "status": "expired",
       "pick_type": "tactical",
       "horizon_label": "Short-term",
       "direction": "long",
@@ -450,8 +462,12 @@ window.theBriefPicks = {
       "change_pct_today": 1.82,
       "name": "SIEGY",
       "news_count": 0,
-      "days_elapsed": 20,
-      "days_remaining": 1
+      "days_elapsed": 21,
+      "days_remaining": 0,
+      "closed_at": "2026-06-03",
+      "closed_price": 161.78,
+      "closed_pct": 4.37,
+      "closed_reason": "horizon_reached (3 weeks)"
     },
     {
       "id": "2026-05-13-GEV-longterm",
@@ -478,12 +494,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 968.5,
-      "current_pct": -7.94,
-      "change_pct_today": 1.89,
+      "current_price": 968.56,
+      "current_pct": -7.93,
+      "change_pct_today": 1.9,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 20,
+      "days_elapsed": 21,
       "days_remaining": null
     },
     {
@@ -511,12 +527,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 704.88,
-      "current_pct": -6.65,
-      "change_pct_today": 2.53,
+      "current_price": 706.78,
+      "current_pct": -6.4,
+      "change_pct_today": 2.81,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 20,
+      "days_elapsed": 21,
       "days_remaining": null
     },
     {
@@ -544,12 +560,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 151.19,
-      "current_pct": 15.59,
-      "change_pct_today": -5.89,
+      "current_price": 149.99,
+      "current_pct": 14.67,
+      "change_pct_today": -6.64,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 20,
+      "days_elapsed": 21,
       "days_remaining": null
     },
     {
@@ -576,9 +592,9 @@ window.theBriefPicks = {
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
-      "current_price": 222.4,
-      "current_pct": -1.3,
-      "change_pct_today": -0.87,
+      "current_price": 221.8,
+      "current_pct": -1.56,
+      "change_pct_today": -1.14,
       "name": "NVIDIA",
       "news_count": 3,
       "days_elapsed": 14,
@@ -613,13 +629,13 @@ window.theBriefPicks = {
       "horizon_label": "Long-term",
       "direction": "long",
       "pick_type": "thematic",
-      "current_price": 69.4,
-      "current_pct": 3.66,
-      "change_pct_today": 1.6,
+      "current_price": 69.5,
+      "current_pct": 3.81,
+      "change_pct_today": 1.74,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 15,
-      "days_remaining": 41
+      "days_elapsed": 16,
+      "days_remaining": 40
     },
     {
       "id": "2026-05-18-GLD",
@@ -646,22 +662,22 @@ window.theBriefPicks = {
       "horizon_label": "Long-term",
       "direction": "long",
       "pick_type": "hedge",
-      "current_price": 412.07,
-      "current_pct": -1.25,
-      "change_pct_today": 0.2,
+      "current_price": 410.7,
+      "current_pct": -1.58,
+      "change_pct_today": -0.14,
       "name": "GLD",
       "news_count": 0,
-      "days_elapsed": 15,
-      "days_remaining": 69
+      "days_elapsed": 16,
+      "days_remaining": 68
     }
   ],
   "summary": {
     "total": 18,
-    "open": 12,
+    "open": 8,
     "hit": 2,
     "miss": 3,
-    "expired": 1,
-    "hit_rate": 33.3,
-    "avg_closed_pct": -0.28
+    "expired": 5,
+    "hit_rate": 20.0,
+    "avg_closed_pct": 0.4
   }
 };
