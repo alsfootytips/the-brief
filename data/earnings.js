@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-04T22:12:22+00:00",
+  "generated_at": "2026-06-04T23:39:09+00:00",
   "by_date": {
     "2026-06-04": [
       {
@@ -537,7 +537,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MPAA",
         "date": "2026-06-08",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3366,
         "revenue_estimate": 179479200,
         "is_watchlist": false
@@ -779,7 +779,7 @@ window.theBriefEarnings = {
       {
         "ticker": "UEC",
         "date": "2026-06-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0505,
         "revenue_estimate": 8585000,
         "is_watchlist": false
@@ -1055,7 +1055,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HOFT",
         "date": "2026-06-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0408,
         "revenue_estimate": 67638750,
         "is_watchlist": false
@@ -1087,7 +1087,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LOVE",
         "date": "2026-06-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -1.0183,
         "revenue_estimate": 140103803,
         "is_watchlist": false
@@ -1103,7 +1103,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MH",
         "date": "2026-06-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.1743,
         "revenue_estimate": 453131834,
         "is_watchlist": false
@@ -1175,7 +1175,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VRA",
         "date": "2026-06-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.3333,
         "revenue_estimate": 49607160,
         "is_watchlist": false
@@ -1191,7 +1191,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ZDGE",
         "date": "2026-06-11",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.051,
         "revenue_estimate": 7148160,
         "is_watchlist": false
