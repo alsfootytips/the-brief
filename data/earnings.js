@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-04T05:06:00+00:00",
+  "generated_at": "2026-06-04T09:01:32+00:00",
   "by_date": {
     "2026-06-04": [
       {
@@ -535,6 +535,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "MPAA",
+        "date": "2026-06-08",
+        "hour": "",
+        "eps_estimate": 0.3366,
+        "revenue_estimate": 179479200,
+        "is_watchlist": false
+      },
+      {
         "ticker": "MTN",
         "date": "2026-06-08",
         "hour": "amc",
@@ -769,6 +777,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "UEC",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": -0.0505,
+        "revenue_estimate": 8585000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "UNFI",
         "date": "2026-06-09",
         "hour": "bmo",
@@ -920,6 +936,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ORCL",
+        "date": "2026-06-10",
+        "hour": "amc",
+        "eps_estimate": 1.9985,
+        "revenue_estimate": 19481669489,
         "is_watchlist": false
       },
       {
@@ -1201,6 +1225,14 @@ window.theBriefEarnings = {
     ],
     "2026-06-15": [
       {
+        "ticker": "AIOT",
+        "date": "2026-06-15",
+        "hour": "",
+        "eps_estimate": -0.0061,
+        "revenue_estimate": 115320863,
+        "is_watchlist": false
+      },
+      {
         "ticker": "BANX",
         "date": "2026-06-15",
         "hour": "",
@@ -1435,19 +1467,11 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MPAA",
-        "date": "2026-06-16",
-        "hour": "",
-        "eps_estimate": 0.3366,
-        "revenue_estimate": 179479200,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ORCL",
+        "ticker": "LZB",
         "date": "2026-06-16",
         "hour": "amc",
-        "eps_estimate": 1.9985,
-        "revenue_estimate": 19481669489,
+        "eps_estimate": 0.8248,
+        "revenue_estimate": 574917583,
         "is_watchlist": false
       },
       {
@@ -1480,14 +1504,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UEC",
-        "date": "2026-06-16",
-        "hour": "",
-        "eps_estimate": -0.0505,
-        "revenue_estimate": 8585000,
         "is_watchlist": false
       },
       {
@@ -1538,6 +1554,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "JBL",
+        "date": "2026-06-17",
+        "hour": "bmo",
+        "eps_estimate": 3.109,
+        "revenue_estimate": 8635646450,
         "is_watchlist": false
       },
       {
@@ -1628,14 +1652,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JBL",
-        "date": "2026-06-18",
-        "hour": "bmo",
-        "eps_estimate": 3.109,
-        "revenue_estimate": 8635646450,
         "is_watchlist": false
       },
       {
