@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-05T06:24:52+00:00",
+  "generated_at": "2026-06-05T10:32:45+00:00",
   "by_date": {
     "2026-06-05": [
       {
@@ -1291,6 +1291,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "SWBI",
+        "date": "2026-06-17",
+        "hour": "",
+        "eps_estimate": 0.2295,
+        "revenue_estimate": 158374890,
+        "is_watchlist": false
+      },
+      {
         "ticker": "YI",
         "date": "2026-06-17",
         "hour": "",
@@ -1394,14 +1402,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SWBI",
-        "date": "2026-06-18",
-        "hour": "",
-        "eps_estimate": 0.2295,
-        "revenue_estimate": 158374890,
         "is_watchlist": false
       }
     ]
