@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-05T23:15:13.444853+00:00",
+  "generated_at": "2026-06-06T01:25:26.748349+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.99,
-      "price": 19.98,
+      "change_pct": -5.04,
+      "price": 19.97,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441877+00:00",
+      "timestamp": "2026-06-06T01:25:26.745202+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": -7.81,
-      "price": 15.81,
+      "change_pct": -7.93,
+      "price": 15.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-05T23:15:13.441874+00:00",
+      "timestamp": "2026-06-06T01:25:26.745199+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -29,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.92,
-      "price": 691.0,
+      "change_pct": -4.11,
+      "price": 689.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441872+00:00",
+      "timestamp": "2026-06-06T01:25:26.745196+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,34 +41,22 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PLTR",
       "name": "PLTR",
-      "change_pct": -5.05,
-      "price": 134.55,
+      "change_pct": -5.51,
+      "price": 133.89,
       "is_watchlist": false,
-      "timestamp": "2026-06-05T23:15:13.441869+00:00",
+      "timestamp": "2026-06-06T01:25:26.745193+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
     },
     {
       "type": "mover",
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "change_pct": 3.69,
-      "price": 24.47,
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441867+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": -6.26,
-      "price": 204.97,
+      "change_pct": -6.69,
+      "price": 204.04,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441864+00:00",
+      "timestamp": "2026-06-06T01:25:26.745190+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -77,10 +65,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -13.98,
-      "price": 223.36,
+      "change_pct": -14.57,
+      "price": 221.83,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441862+00:00",
+      "timestamp": "2026-06-06T01:25:26.745188+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -89,10 +77,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "META",
       "name": "META",
-      "change_pct": -5.94,
-      "price": 590.31,
+      "change_pct": -6.02,
+      "price": 589.82,
       "is_watchlist": false,
-      "timestamp": "2026-06-05T23:15:13.441859+00:00",
+      "timestamp": "2026-06-06T01:25:26.745185+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -101,10 +89,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "change_pct": -4.01,
-      "price": 280.3,
+      "change_pct": -4.26,
+      "price": 279.58,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441855+00:00",
+      "timestamp": "2026-06-06T01:25:26.745181+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -113,10 +101,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": -3.93,
-      "price": 925.51,
+      "change_pct": -4.08,
+      "price": 924.07,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441847+00:00",
+      "timestamp": "2026-06-06T01:25:26.745171+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -125,10 +113,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -8.49,
-      "price": 98.86,
+      "change_pct": -9.23,
+      "price": 98.06,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441844+00:00",
+      "timestamp": "2026-06-06T01:25:26.745167+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -137,10 +125,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": -3.9,
-      "price": 36.73,
+      "change_pct": -4.24,
+      "price": 36.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441840+00:00",
+      "timestamp": "2026-06-06T01:25:26.745164+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -149,10 +137,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -11.53,
-      "price": 462.89,
+      "change_pct": -12.33,
+      "price": 458.66,
       "is_watchlist": true,
-      "timestamp": "2026-06-05T23:15:13.441832+00:00",
+      "timestamp": "2026-06-06T01:25:26.745156+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -160,23 +148,139 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Western Digital chief legal officer sells $235k in stock",
+      "headline": "Form PRE 14A EAGLE MATERIALS INC. For: 5 June",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/western-digital-chief-legal-officer-sells-235k-in-stock-93CH-4729405",
+      "url": "https://www.investing.com/news/filings/form-pre-14a-eagle-materials-inc-for-5-june-93CH-4729503",
       "is_watchlist": false,
-      "timestamp": "2026-06-05T23:04:18+00:00",
+      "timestamp": "2026-06-06T01:18:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dillard\u2019s director J.C. Watts Jr. sells $243,671 in stock",
+      "headline": "Form 144 Enliven Therapeutics For: 5 June",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dillards-director-jc-watts-jr-sells-243671-in-stock-93CH-4729404",
+      "url": "https://www.investing.com/news/filings/form-144-enliven-therapeutics-for-5-june-93CH-4729502",
       "is_watchlist": false,
-      "timestamp": "2026-06-05T23:02:01+00:00",
+      "timestamp": "2026-06-06T01:18:40+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 The TJX Companies For: 5 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-the-tjx-companies-for-5-june-93CH-4729501",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T01:18:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form PRE 14A AB PRIVATE CREDIT INVESTORS CORPORATION For: 5 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-pre-14a-ab-private-credit-investors-corporation-for-5-june-93CH-4729500",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T01:18:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 MILLICOM INTL CELLULAR S.A. For: 5 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-millicom-intl-cellular-sa-for-5-june-93CH-4729499",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T01:12:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 TWIN DISC INC For: 5 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-twin-disc-inc-for-5-june-93CH-4729498",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T01:12:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 XENON PHARMACEUTICALS INC. For: 5 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-xenon-pharmaceuticals-inc-for-5-june-93CH-4729497",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T01:12:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Natera CEO Steven Chapman sells $9.09 million in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/natera-ceo-steven-chapman-sells-909-million-in-company-stock-93CH-4729496",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T01:10:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US attacks Iranian coastal sites after Iran launches drones in latest flare-up - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T00:02:00+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why AMD (AMD) Shares Are Trading Lower Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47b905760bb03df12f9812de06248f5a02f3c2524cd2287809b40cf359401cd7",
+      "is_watchlist": true,
+      "timestamp": "2026-06-05T23:52:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Chipotle Stock Rallied Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a51606fce9730771358af7616ffb84d3cdb1e3d3868218a429fa8d32c751c0cc",
+      "is_watchlist": true,
+      "timestamp": "2026-06-05T23:30:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US strikes Iran radar sites after Iranian drone launch - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONE1OaV8yX29rUGpfRjJCbElUcy0tM01SWVZES003OTE3ZVhpaDFJRVBmXzh5ZEY2OEthOHNJU2oyTlBSeU9na0owaEFveC0tZFRWdXc3WjF4VTVfN3dBdFdfcVVzV0tqT1BsRjZyQTlmelBhcDBiWlNhb3NsaDl4OHduY2FVRWxveGlCV21QQ3JldWpQOXlHTW9Xa1p3VHM4cUVqZkVUR09halph?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T23:11:51+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -193,17 +297,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 144 EZCORP For: 5 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-ezcorp-for-5-june-93CH-4729403",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T23:00:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories",
@@ -214,58 +307,39 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Ichor Holdings CEO sells $961,953 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ichor-holdings-ceo-sells-961953-in-shares-93CH-4729402",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T22:56:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Stocks making big moves this week: Okta, TETRA Technologies, Fluence Energy, Verizon, and Cloudflare",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02ed55e443b3143f2e41cc510f025ceae62cad742ebdfb4b379323c1e637e1b4",
+      "is_watchlist": true,
+      "timestamp": "2026-06-05T22:32:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Berkshire Hathaway Just Agreed to Put $10 Billion Into Alphabet's AI Build-Out. Should Investors Follow?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f671fd88d59bdac468769cc51f35f17b3b40c7161e27bf8be172b4add51afb87",
+      "is_watchlist": true,
+      "timestamp": "2026-06-05T22:31:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "908 devices director Christopher Brown sells $900 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/908-devices-director-christopher-brown-sells-900-in-stock-93CH-4729401",
+      "headline": "Trump, campaigning for Republicans in Wisconsin, vows quick end to Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUszNmRGUnk5ajdqM2hrYk9CdjY5VHdzbU03MlloRFF5Z2pmOGFGX21Lb19jMjVOWk4wSEVMb1I5QUl2WV9EeVA2S1BYSzB4S2p3UnJsVFdsZUpmSHlsSTJqZ29JdDVoYmU5RmM5TDhncHc0MjdsRGd3WHJ2Umo5M0VyS050N2VKaXl1QkhtMjY1NFlxVkxBa0RxeGZlV1F1bE1B?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-05T22:55:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Biglari Holdings CEO Sardar Biglari\u2019s fund buys $658k stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/biglari-holdings-ceo-sardar-biglaris-fund-buys-658k-stock-93CH-4729400",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T22:53:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "California to decide soon whether it will seek to block Paramount deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/california-to-decide-soon-whether-it-will-seek-to-block-paramount-deal-4728169",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T22:48:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Krystal Biotech R&D president Suma Krishnan sells $7.7m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/krystal-biotech-rd-president-suma-krishnan-sells-77m-in-stock-93CH-4729399",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T22:46:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-06-05T22:27:28+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -277,6 +351,21 @@ window.theBriefLive = {
       "timestamp": "2026-06-05T22:27:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran has launched multiple drones towards the Strait of Hormuz, CNN reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWNoMWljcEVLeTNSU09PSGdTTllERnBWUXVqRlNrSGI2S3I1Y1VZdlRBY05FbXNlX0tudmZlalJKYV9VaVpJZHBRTWFqTThMQ01TakJDVXVnTGJ2OVBmNmxNdVRRRXNKRThuWnFDUzRDZlFyQkt4Uy1EUDlqVzVMNW56U0tvZzAtYmNoby1tdnpTaGNrWkV3eHk4TGhTUWdaVGg4S3dHakNRaTNpR2tFTnNiYTFmaDl0cjk3eU9R?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-05T22:17:34+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -357,12 +446,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Meta Wants AI Agents to Become Its Next Ad Business",
+      "ticker": "AMD",
+      "headline": "Chips sector bloodbath drags Nasdaq down 4.2%",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db4a35147542d57e9df3a6c7209d89b65153330b9d3fd0a3726f7735a3b3dd70",
+      "url": "https://finnhub.io/api/news?id=dc39565c4f3b2861b1efd8eeef4f78ef9dba4cbae97a075df51d1cac6764a458",
       "is_watchlist": true,
-      "timestamp": "2026-06-05T21:44:15+00:00",
+      "timestamp": "2026-06-05T21:44:12+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -402,18 +491,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Intel Just Experienced a Monster 453% Rally. Is It Time to Sell or Double Down?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=078119ca64f6483277191b9d353113b6b1781cfaca1ca5d47b1a1b3ffc03e5ea",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T21:37:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
       "source": "CNBC Top",
@@ -422,18 +499,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-05T21:36:23+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "History Says This Unstoppable Dow Juggernaut Is a No-Brainer Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa1213dc1ae11b5339d3bb99f8c429b5607d28da09db3d60bd3fb372757bee96",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T21:34:30+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -493,18 +558,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Nasdaq Suffers Worst Day in More Than a Year; S&P 500 Snaps Winning Weekly Streak",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6a2ef48dd80095eeb623de9d289a824c9e9c13e86df4e575c91dd1e12159bab",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T21:05:43+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
       "source": "CNBC Top",
@@ -513,18 +566,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-05T21:01:53+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "50% Upside For AVGO Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3aaed6023aeae7978432a07c32c64f49ea67880fa343a585e43961412d953f0",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T21:00:56+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -588,12 +629,46 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Witkoff, Kushner meet nuclear experts at national lab in Tennessee, source says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0hDX051dHVaUU9zWm80VnU2Wk1jTk9iSjVFSGdfSnFLQVFHQjc5a2ZSMzNvcFprS051UTd5RkdZbTlXWXNJMTZlOTlwblBnVWlpOF9FZEFiYmktdVZDU05GbnVic0JRWUpwbXNpS3daV1hUeEFVV1NWQXpRTnpnYjYzNnhwbDdWU0Z4WDZDVjk5c1laUGp6SXNXVy1zZWM0NmFwbTEwM2t4eFJNSjVnVmd1cw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T20:01:11+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Employment Report: 172K Jobs Added In May, Higher Than Expected",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4d9d62413fee40d4db3e975e7439f44050a95c41c09de3f17da7def3b5cb47ec",
+      "is_watchlist": true,
+      "timestamp": "2026-06-05T19:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Trump to meet AI leaders to discuss US investment in their companies",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-06-05T19:36:30+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US judge strikes down Trump policies targeting immigrants from 39 countries - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkstOFU0cXFkQ1dVbEZwNldfU3lLU2VHbzYwRE90Y2dOX0VYeTVPMWUxRUo1aVBqc3k2ZmFvNGFLMS1lNS1IMkk2MkhtZnNUS2xZNlhBM2w3ajZOWTZuTXYwNlZHbWRYbDIyRUo1ajRta3dCbFRCeDNDXzIyREVsTU0xTnQyUXdfQk9zMUtMWkdXT1hVUzdGdEV1eEp0MnlUSnNlcWtoSXRwRnlzbUtKMQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T18:31:34+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -693,29 +768,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Time To Short The Nasdaq 100",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0150be58e7ed0f18caa7d91c6e7f1c955a58dcf199e20927c9cb5dbe491a8ef5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T17:18:57+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVJhNXhDSC1NbGdmd1NJUnlTaGFMM3JxTnZFNUR6VVpDdXlMS2ZOLW05TW1YMXJhcUdGSVFfM1Q3VVNURUNVSnl4VVM3WnlFMGZuZjVOSUhQZkFCZjBBYVFBeEMzTVViNnFLZWtCWGdKMDFRTF8xZ0RVUlBPbDZBV2FFZVpCZmhHTG00RWNDRGtIS0N5TXI1RzRFY1ozQXR3SXpDNm9JX0ZPcUxQR0E?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T17:12:52+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Oil Has Until July",
       "source": "SeekingAlpha",
@@ -741,47 +793,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Global oil inventories depleted, next price spike could roil economies, markets - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV01INndjOU8xWVM2Z1hYdU16cy1qQU85c0tLb0N6RDhaeG5Oa0J0YWQ4Yzh4TmRUUUJUTDBoVEdWUE5Kc2Y3NXFveG1NZHN6aVZpMHh5RV9waE96a3Z6ckxscHBVajJITGowdVFSeEV2cTVUaHhKcEFBSmxtdmFTU3Jpd1VMbzVyZnBN?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T16:26:41+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran using Lebanon as bargaining chip in US talks, Lebanese president says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOek1MOVV2M1JkZzJlN2h5aGFPaWJvQ2hQRHVELU5pQXhCUkoxRERqMi0wLUwwdFlRQ2lOeDF2ZUlFT0Y4QlpCVEEtczVRZ1lRRTZVNk5NQUR3SzRPdEtUUkxmekxET2FmNGdTU3pmZ1JZYXY2NW1hdDAyT1BZR1FvbHRQT3p5SGRVc2tvMnBfblFHcmYzaGhSbFlodkp1aUQ1cG9XYjZvV1pJeTBfUHFIbnZ1dnZkWXZzM2ttdFdR?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T16:23:03+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US says it issued sanctions on network smuggling Iranian LPG - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU05IR1JudzV6T3A0Q0E3OThERjNCUHVwOVJGem45SWRsaHluTmtvV1o2MXJRNVVjRDZmZHNsWXpNSU5qcFdvcUthNDhMVTBZdElIWC1fRHZBLS0ybnlsNDg3QnhmREwyTkVrYXRVVldwN3JMSzR2cU1Na1RJRE1iczFfRjJzS3pBSzI4NmNpbVJDVElWTkgzMXlabmY?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T16:05:50+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Hospitality jobs boom as US prepares for World Cup",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
@@ -801,17 +812,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T15:38:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -848,21 +848,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran declares support for Hezbollah with wider peace deal in doubt - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkJmdHFzTERGVlZsOTRwbkozTUFSZ3N4cXZhUlJUY1ZaSTJ4ZjZaYXV0NEhZWHgwbUhYVlhYTmpDakgzXzNiTEJpeGdObmkzR1lVMGtIV3FrWVd5eGJUVHdZaEgzVWVGUnlHbHJOYnNGNlprMzNHY3djMWUweFlGWGoyMnJUNlJJNkJuUlhpWWVFanZZcW04aFBMTUlUd1ZjVUk1c2lrcmFwbTFnTHdZNU02WQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T14:59:51+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1157,6 +1142,94 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "UiPath Just Delivered 2 Bullish Signals and 1 Warning Sign for Investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-just-delivered-2-bullish-183035825.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:30:35+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PVH (PVH) Q1 2026 Earnings Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pvh-pvh-q1-2026-earnings-182524545.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:25:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple Stock And The Intelligence Test",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-intelligence-test-182523635.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:25:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar Weakness Lifts Sugar Prices on Short Covering",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/dollar-weakness-lifts-sugar-prices-182253457.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:22:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Republic Services Stock Underperforming the S&P 500?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-stock-underperforming-p-181817590.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:18:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Peter Thiel\u2019s family office revealed as tenant signing pricey lease at 830 Brickell",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-family-office-revealed-181308141.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:13:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TotalEnergies SE (TTE) Files for Authorization to Build 1.5 GW Offshore Wind Farm in France",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/totalenergies-se-tte-files-authorization-181203814.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:12:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Street is Bullish on Toyota Motor Corporation (TM), Here\u2019s Why",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/street-bullish-toyota-motor-corporation-181150492.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-04T18:11:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "NRG Energy's Historic Run Isn't Over Yet",
       "source": "SeekingAlpha",
@@ -1190,94 +1263,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ASML Stock Is Hot, But Please Don\u2019t Go Too Overweight on Chip Stocks",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-hot-please-don-160502709.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T16:05:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ciena reports fiscal Q2 earnings beat, shares slide on guidance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-reports-fiscal-q2-earnings-160200493.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T16:02:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Some Losses for the Dollar Ahead of the NFP",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/losses-dollar-ahead-nfp-160031043.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T16:00:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broadcom\u2019s Q2 Results Fails to Bring Optimism to AVGO Stock. Options Data Predicted It.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-q2-results-brings-fails-160021837.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T16:00:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ferraris, Kobe Bryant sneakers and rookie cards fill a government warehouse \u2014 all bought with stolen taxpayer money",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ferraris-kobe-bryant-sneakers-rookie-160000147.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T16:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rocket Lab Is Down 24% From Its 52-Week High\u2014Pullback or Problem?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-down-24-52-160000520.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump Just Gave Caterpillar Stock a Boost. What to Know.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-just-gave-caterpillar-stock-155803998.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T15:58:03+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eli Lilly, IBD Stock Of The Day, Flashes Two Buy Signals",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/eli-lilly-stock-buy-point-weight-loss-drugs-gene-editing-vaccines-cancer-drugs/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-06-04T15:57:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1469,18 +1454,6 @@ window.theBriefLive = {
       "url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000063/ttd-20260601.htm",
       "is_watchlist": true,
       "timestamp": "2026-06-01",
-      "relevance_score": 6.0,
-      "relevance_tier": "high",
-      "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "filing",
-      "ticker": "TTD",
-      "form": "8-K",
-      "date": "2026-05-29",
-      "url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000060/ttd-20260524.htm",
-      "is_watchlist": true,
-      "timestamp": "2026-05-29",
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
