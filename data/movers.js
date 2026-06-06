@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T15:02:35.312689+00:00",
+  "generated_at": "2026-06-06T16:19:56.032352+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -92,7 +92,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
+      "move_reason": "News: \"Nebius Is Priced For Flawless Delivery\""
     },
     {
       "ticker": "AMD",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
+      "move_reason": "News: \"SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here\u2019s Wh...\""
     },
     {
       "ticker": "CRWV",
@@ -116,7 +116,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Booked Out, Underpriced\""
+      "move_reason": "News: \"Nebius Is Priced For Flawless Delivery\""
     },
     {
       "ticker": "SOFI",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These Investors Earned 20% to 33% Returns Using The Same Philosophy on Completely Differen...\""
+      "move_reason": "News: \"This Dividend Stock Has Gained 18% While the Rest of its Sector Went Nowhere. Here's Why.\""
     },
     {
       "ticker": "XLK",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
+      "move_reason": "News: \"SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here\u2019s Wh...\""
     },
     {
       "ticker": "APA",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Booked Out, Underpriced\""
+      "move_reason": "News: \"Nebius Is Priced For Flawless Delivery\""
     },
     {
       "ticker": "DG",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
+      "move_reason": "News: \"Nebius Is Priced For Flawless Delivery\""
     },
     {
       "ticker": "NVDA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These Investors Earned 20% to 33% Returns Using The Same Philosophy on Completely Differen...\""
+      "move_reason": "News: \"This Dividend Stock Has Gained 18% While the Rest of its Sector Went Nowhere. Here's Why.\""
     },
     {
       "ticker": "OSCR",
@@ -380,7 +380,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"4 Best Low-Beta Stocks to Buy Right Away: LQDA, CVX, OXY & VLO\""
+      "move_reason": "News: \"Investors To Watch Out For Oracle, Adobe Earnings Next Week\""
     },
     {
       "ticker": "PWR",
