@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T05:28:59.113131+00:00",
+  "generated_at": "2026-06-06T08:08:18.141800+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Just Said This AI Chip Stock Could Be the Next $1 Trillion Company (Hint: It'...\""
+      "move_reason": "News: \"Why Nvidia (NVDA) Shares Are Getting Obliterated Today\""
     },
     {
       "ticker": "CRWV",
@@ -116,7 +116,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"VanEck CEO Jan Van Eck Warns Of Bubbles In AI, Says He Is Particularly 'Wary About The Mem...\""
+      "move_reason": "News: \"CoreWeave: Booked Out, Underpriced\""
     },
     {
       "ticker": "SOFI",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Stock Is Getting Hit Hard. But Where Will It Be in 3 Years?\""
+      "move_reason": "News: \"The SpaceX IPO Looks Expensive on the Surface. Here's What Investors Should Know.\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"May Jobs Report: A Robust Picture For Hiring Demand\""
+      "move_reason": "News: \"Teeing Up The Next Great Rug Pull\""
     },
     {
       "ticker": "APA",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Just Said This AI Chip Stock Could Be the Next $1 Trillion Company (Hint: It'...\""
+      "move_reason": "News: \"Why Nvidia (NVDA) Shares Are Getting Obliterated Today\""
     },
     {
       "ticker": "APA",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"VanEck CEO Jan Van Eck Warns Of Bubbles In AI, Says He Is Particularly 'Wary About The Mem...\""
+      "move_reason": "News: \"CoreWeave: Booked Out, Underpriced\""
     },
     {
       "ticker": "DG",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"May Jobs Report: A Robust Picture For Hiring Demand\""
+      "move_reason": "News: \"Teeing Up The Next Great Rug Pull\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Stock Is Getting Hit Hard. But Where Will It Be in 3 Years?\""
+      "move_reason": "News: \"The SpaceX IPO Looks Expensive on the Surface. Here's What Investors Should Know.\""
     },
     {
       "ticker": "OSCR",
