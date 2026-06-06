@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T10:22:37.757430+00:00",
+  "generated_at": "2026-06-06T11:53:57.677825+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oppenheimer Upgrades Quanta Services (PWR) to Outperform\""
+      "move_reason": "News: \"Quanta Services: The Grid Integration Needs Builders, Not Just More Power\""
     },
     {
       "ticker": "GEV",
@@ -392,7 +392,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oppenheimer Upgrades Quanta Services (PWR) to Outperform\""
+      "move_reason": "News: \"Quanta Services: The Grid Integration Needs Builders, Not Just More Power\""
     },
     {
       "ticker": "TPL",

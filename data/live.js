@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-06T10:22:37.762695+00:00",
+  "generated_at": "2026-06-06T11:53:57.683155+00:00",
   "events": [
     {
       "type": "news",
@@ -19,7 +19,7 @@ window.theBriefLive = {
       "change_pct": -5.04,
       "price": 19.97,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759598+00:00",
+      "timestamp": "2026-06-06T11:53:57.679969+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -31,7 +31,7 @@ window.theBriefLive = {
       "change_pct": -7.93,
       "price": 15.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T10:22:37.759595+00:00",
+      "timestamp": "2026-06-06T11:53:57.679966+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -43,7 +43,7 @@ window.theBriefLive = {
       "change_pct": -4.11,
       "price": 689.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759592+00:00",
+      "timestamp": "2026-06-06T11:53:57.679964+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,7 +55,7 @@ window.theBriefLive = {
       "change_pct": -5.51,
       "price": 133.89,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T10:22:37.759590+00:00",
+      "timestamp": "2026-06-06T11:53:57.679961+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -67,7 +67,7 @@ window.theBriefLive = {
       "change_pct": -6.69,
       "price": 204.04,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759587+00:00",
+      "timestamp": "2026-06-06T11:53:57.679958+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -79,7 +79,7 @@ window.theBriefLive = {
       "change_pct": -14.57,
       "price": 221.83,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759585+00:00",
+      "timestamp": "2026-06-06T11:53:57.679955+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -91,7 +91,7 @@ window.theBriefLive = {
       "change_pct": -6.02,
       "price": 589.82,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T10:22:37.759581+00:00",
+      "timestamp": "2026-06-06T11:53:57.679952+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -103,7 +103,7 @@ window.theBriefLive = {
       "change_pct": -4.26,
       "price": 279.58,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759577+00:00",
+      "timestamp": "2026-06-06T11:53:57.679948+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -115,7 +115,7 @@ window.theBriefLive = {
       "change_pct": -4.08,
       "price": 924.07,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759569+00:00",
+      "timestamp": "2026-06-06T11:53:57.679939+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -127,7 +127,7 @@ window.theBriefLive = {
       "change_pct": -9.23,
       "price": 98.06,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759565+00:00",
+      "timestamp": "2026-06-06T11:53:57.679936+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -139,7 +139,7 @@ window.theBriefLive = {
       "change_pct": -4.24,
       "price": 36.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759561+00:00",
+      "timestamp": "2026-06-06T11:53:57.679932+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -151,7 +151,7 @@ window.theBriefLive = {
       "change_pct": -12.33,
       "price": 458.66,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:22:37.759553+00:00",
+      "timestamp": "2026-06-06T11:53:57.679924+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -159,11 +159,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas",
+      "headline": "Pakistan interior minister heads to Iran amid push for peace deal - IRNA",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/screwworm-border-closure-fuels-beef-boom-in-mexico-gloom-in-texas-4729567",
+      "url": "https://www.investing.com/news/economy-news/pakistan-interior-minister-heads-to-iran-amid-push-for-peace-deal--irna-4729576",
       "is_watchlist": false,
-      "timestamp": "2026-06-06T10:12:27+00:00",
+      "timestamp": "2026-06-06T11:36:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple\u2019s WWDC will be a make-or-break moment for the company\u2019s fledgling AI strategy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/apples-wwdc-will-be-a-make-or-break-moment-for-the-companys-fledgling-ai-strategy-42086cc1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gazan fishermen patch up dinghies with door frames to keep themselves afloat",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/gazan-fishermen-patch-up-dinghies-with-door-frames-to-keep-themselves-afloat-4728693",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:18:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:14:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro\u2019s Fair Value models spot 62% gain in Consensus Cloud",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-models-spot-62-gain-in-consensus-cloud-93CH-4729575",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:10:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Insulet presents clinical trial data for diabetes devices",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/insulet-presents-clinical-trial-data-for-diabetes-devices-93CH-4729574",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:09:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why did Micron stock fall 13% on Friday and should you buy the dip?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-did-micron-stock-fall-13-on-friday-and-should-you-buy-the-dip-4729572",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:06:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How InvestingPro\u2019s Fair Value spotted Avino Silver\u2019s 40% drop",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-avino-silvers-40-drop-93CH-4729570",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:02:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -173,11 +250,11 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "headline": "Soccer-Iran World Cup players get US visas, official says, some staff waiting",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flareup-4729541",
+      "url": "https://www.investing.com/news/world-news/socceriran-world-cup-players-granted-visas-to-enter-the-us-says-white-house-official-4728986",
       "is_watchlist": true,
-      "timestamp": "2026-06-06T10:06:30+00:00",
+      "timestamp": "2026-06-06T11:00:30+00:00",
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
@@ -185,12 +262,24 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "China regulator plans fund industry overhaul focused on long-term returns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/china-regulator-plans-fund-industry-overhaul-focused-on-longterm-returns-4729566",
+      "headline": "The key to the upcoming Fed meeting? How Warsh reacts to all the hints of a rate hike.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-key-to-the-upcoming-fed-meeting-how-warsh-reacts-to-all-the-hints-of-a-rate-hike-3cbdce15?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-06-06T10:00:49+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-06-06T11:00:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018He\u2019s very short-tempered\u2019: My husband won\u2019t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:00:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -219,17 +308,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Micron joins Nvidia\u2019s HBM4 supplier lineup for next-generation AI platform",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/micron-joins-nvidias-hbm4-supplier-lineup-for-nextgeneration-ai-platform-4729565",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T09:26:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "I Want to Buy Bloom Energy Stock, Just Not at the Current Price. Here's My Income Trade to Potentially Buy it Cheaper.",
       "source": "Yahoo",
@@ -239,17 +317,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airline chiefs grapple with fuel shock, fare test at Rio summit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit-4729564",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T09:12:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -266,24 +333,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "China urges fund managers to support innovation, warns against concept hype",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/china-urges-fund-managers-to-support-innovation-warns-against-concept-hype-4729563",
+      "headline": "Russia's Sechin says U.S. companies benefit from the closure of the Strait of Hormuz - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHJyOUJ0WVpCMVZ2MFNmNWEtQ1JuZW1LUW5obFNZZTlEZDBmcWE3S3ZYYXI0Q0Y5MHJLNjdGSjI1RnVRYmdtdmtqWGFIWmRINy1RdWMzdGMxTEROWENRQnJlMUxma2FkTHVNN1BDLW83QjdWWHhhdG9nZ3ktU1dGQk5KMFFyR09wZXM4bHhXSGxnWFZEMUJkb3BoRDNkc3FjUW5NODJyR2tRZlB5Q1ltN3RUcjY?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-06T08:54:27+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia\u2019s Sechin says U.S. companies benefit from the closure of the Strait of Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/russias-sechin-says-us-companies-benefit-from-the-closure-of-the-strait-of-hormuz-4729562",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T08:42:54+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-06-06T08:38:26+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -300,12 +355,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60e3775fc462d637d878ab0f94857dd1fcf3190fe403f64d4c342adb668c6215",
+      "ticker": "PWR",
+      "headline": "Quanta Services: The Grid Integration Needs Builders, Not Just More Power",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e9cce7ec9cb5a6b2e1ca77325b59b39cf5ea0536faabd3159c50e41e99d26386",
       "is_watchlist": true,
-      "timestamp": "2026-06-06T05:52:14+00:00",
+      "timestamp": "2026-06-06T07:15:54+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -313,11 +368,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "AMD",
-      "headline": "Is AMD or Broadcom the Best AI Chip Stock After Nvidia?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a5cb064894f915d8a3e23882bad61f5a9ba503db562839fd36602992de2a140",
+      "headline": "Can AI Capex Extend The Semiconductor Cycle?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8bdee986167b63df2adc68059929a4658127db4a72a70e53faddc00146c1c072",
       "is_watchlist": true,
-      "timestamp": "2026-06-06T05:50:00+00:00",
+      "timestamp": "2026-06-06T06:21:29+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why Nvidia (NVDA) Shares Are Getting Obliterated Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60e3775fc462d637d878ab0f94857dd1fcf3190fe403f64d4c342adb668c6215",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T05:52:14+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -491,6 +558,17 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca CEO says AI is reshaping drug development \u2014 and helping boost the odds of success",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/05/astrazeneca-ceo-says-ai-is-reshaping-drug-development-and-helping-boost-the-odds-of-success.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T22:26:16+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -524,17 +602,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-05T22:07:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin is suffering from an \u2018attention\u2019 deficit, as momentum traders have moved on",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T21:58:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -585,6 +652,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Israeli forces shoot dead Palestinian baby, wound his parents in West Bank - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWxYVWpjUC1mQkpudGNfVWdWSjRCQVVfSGs2Q0s0UFpfUWRkWkM2bnl2enltdEl0bjJ6TXR3eVh4MEZaNFVCdTY1TU9JdmtVRnFVUExLdEtfWHNPU2ZxNEIxQ3daV09xel8xU3BfSzVqelBXZk43M1Nnb1lvcFQyMFluVVdSQXRTUVUtQjhOdXBvZjRSVWowWDhneW51ekpoa0JtRWhsQnZNQ3Vmb2FhTlU4MVI0MXYwOS1xc2NPZF95RmpOZ0tlZUlUSQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T21:39:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Sell-the-news hits space stocks after Starfighters Space Russell 3000 entry",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4601184-sell-the-news-hits-space-stocks-after-starfighters-space-russell-3000-entry?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -618,44 +696,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T21:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marvell gets a spot in the S&P 500 \u2014 along with this data-center play",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/an-s-p-500-shakeup-is-hours-away-these-stocks-could-soon-earn-spots-in-the-index-a9b64d67?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T21:27:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Gold plunges, nearly wiping out YTD gains, as U.S. jobs data raises rate-hike bets",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4601189-gold-plunges-nearly-wiping-out-ytd-gains-as-us-jobs-data-raises-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-05T21:25:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "First Google, now Meta? Big Tech may increasingly sell stock to bankroll $820 billion AI boom.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T21:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -690,17 +735,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-05T20:33:46+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mythos rejuvenated the cybersecurity sector. Earnings put the recent rally to the test",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T20:25:09+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -787,28 +821,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "As AI-related stocks dive, the market's winners have one thing in common",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/05/as-ai-related-stocks-dive-the-markets-winners-have-one-thing-in-common.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T18:06:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump wants Bill Pulte to fire big chunk of national intelligence office staff: WSJ",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/05/trump-bill-pulte-fire-intelligence-dni.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T17:25:37+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Oil Has Until July",
       "source": "SeekingAlpha",
@@ -853,18 +865,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Shares of companies within the broader industrial sector are trading lower amid overall market weakness after unexpectedly strong U.S. job-growth data dampened expectations for a Fed rate cut.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8ec355cdf1bd5663ae5228cadb76d413f146a6b0f369c679a2e07c13ef9ae652",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T15:33:47+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1010,6 +1010,94 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "ASML CEO says EU Commission should not try to direct 'strategic projects'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/asml-ceo-says-eu-commission-100938968.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:09:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Google's $84 Billion Capital Raise Uses Tools 'Popularized' By Michael Saylor's Strategy, Says Phong Le: Old Wine In A New Bottle? (CORRECTED)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/googles-84-billion-capital-raise-100612737.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:06:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Toll Brothers (TOL) Announces New Luxury Townhomes in Georgia",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-tol-announces-luxury-100502601.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:05:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3 Absurdly Cheap Stocks to Buy With $1,000 While the Market Is This Nervous",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-absurdly-cheap-stocks-buy-100500223.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RBC Capital Downgrades Taylor Morrison Home Corp. (TMHC) Rating to Sector Perform",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-downgrades-taylor-morrison-100402440.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:04:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is PulteGroup (PHM) One of the Best Real Estate Stocks to Buy Beyond REITs?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pultegroup-phm-one-best-real-100358086.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:03:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Meritage Homes (MTH) Among the Best Real Estate Stocks to Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meritage-homes-mth-among-best-100355013.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:03:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can Corporaci\u00f3n Inmobiliaria Vesta, S.A.B. de C.V.(VTMX) Strengthen Its North America Industrial Presence?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corporaci-n-inmobiliaria-vesta-b-100354849.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-05T10:03:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Who can buy shares in Elon Musk's SpaceX?",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
@@ -1045,88 +1133,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Was the Commodity Sector Seeing Red Early Friday Morning?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/why-commodity-sector-seeing-red-091003400.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T09:10:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PayPay to buy majority stake in T&D Financial Life",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypay-buy-majority-stake-t-090131983.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T09:01:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Lumen Technologies Stock Rocked the Market Last Month",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-lumen-technologies-stock-rocked-090030701.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T09:00:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ask an Advisor: Who Should I Work With on a Roth Conversion During a Low-Income Year?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/professional-tax-calculation-roth-conversion-134413664.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A global World Cup tradition catches fire in the U.S.: Panini sticker collecting",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/06/05/nx-s1-5844319/world-cup-2026-panini-stickers-album",
       "is_watchlist": false,
       "timestamp": "2026-06-05T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Alphabet Inc. the Best Goldman Sachs Tech Stock to Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-best-goldman-sachs-084007616.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T08:40:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Norway Averts Offshore Strike as Workers and Industry Reach Deal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/norway-averts-offshore-strike-workers-083000943.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T08:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Far Can Micron Technology (MU) Go? Susquehanna Sees Over 80% Upside",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/far-micron-technology-mu-susquehanna-081021079.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T08:10:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1151,17 +1162,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-05T07:17:39+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China and Hong Kong users unable to access SpaceX website, IPO documents",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/china-hong-kong-users-unable-070259116.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T07:02:59+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
