@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T13:44:54.028040+00:00",
+  "generated_at": "2026-06-06T15:02:35.312689+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agen...\""
+      "move_reason": "News: \"These Investors Earned 20% to 33% Returns Using The Same Philosophy on Completely Differen...\""
     },
     {
       "ticker": "XLK",
@@ -308,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Opening Bell: June 5, 2026\""
+      "move_reason": "News: \"Five Below Down 12% Post Earnings\u2014Is the Selloff Overdone?\""
     },
     {
       "ticker": "GEV",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agen...\""
+      "move_reason": "News: \"These Investors Earned 20% to 33% Returns Using The Same Philosophy on Completely Differen...\""
     },
     {
       "ticker": "OSCR",
