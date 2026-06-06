@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T21:18:47.614115+00:00",
+  "generated_at": "2026-06-06T22:36:47.829174+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"May 2026 Mailbag: Divvy-Pops, Jellybeans & the Kids of Kopachuk\""
+      "move_reason": "News: \"Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?\""
     },
     {
       "ticker": "XLK",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"May 2026 Mailbag: Divvy-Pops, Jellybeans & the Kids of Kopachuk\""
+      "move_reason": "News: \"Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?\""
     },
     {
       "ticker": "OSCR",
