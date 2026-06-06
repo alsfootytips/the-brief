@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-06T20:09:59.154318+00:00",
+  "generated_at": "2026-06-06T21:18:47.619381+00:00",
   "events": [
     {
       "type": "news",
@@ -19,7 +19,7 @@ window.theBriefLive = {
       "change_pct": -5.04,
       "price": 19.97,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151132+00:00",
+      "timestamp": "2026-06-06T21:18:47.616254+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -31,7 +31,7 @@ window.theBriefLive = {
       "change_pct": -7.93,
       "price": 15.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T20:09:59.151115+00:00",
+      "timestamp": "2026-06-06T21:18:47.616252+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -43,7 +43,7 @@ window.theBriefLive = {
       "change_pct": -4.11,
       "price": 689.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151112+00:00",
+      "timestamp": "2026-06-06T21:18:47.616249+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,7 +55,7 @@ window.theBriefLive = {
       "change_pct": -5.51,
       "price": 133.89,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T20:09:59.151109+00:00",
+      "timestamp": "2026-06-06T21:18:47.616246+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -67,7 +67,7 @@ window.theBriefLive = {
       "change_pct": -6.69,
       "price": 204.04,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151105+00:00",
+      "timestamp": "2026-06-06T21:18:47.616243+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -79,7 +79,7 @@ window.theBriefLive = {
       "change_pct": -14.57,
       "price": 221.83,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151103+00:00",
+      "timestamp": "2026-06-06T21:18:47.616239+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -91,7 +91,7 @@ window.theBriefLive = {
       "change_pct": -6.02,
       "price": 589.82,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T20:09:59.151099+00:00",
+      "timestamp": "2026-06-06T21:18:47.616233+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -103,7 +103,7 @@ window.theBriefLive = {
       "change_pct": -4.26,
       "price": 279.58,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151095+00:00",
+      "timestamp": "2026-06-06T21:18:47.616226+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -115,7 +115,7 @@ window.theBriefLive = {
       "change_pct": -4.08,
       "price": 924.07,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151086+00:00",
+      "timestamp": "2026-06-06T21:18:47.616211+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -127,7 +127,7 @@ window.theBriefLive = {
       "change_pct": -9.23,
       "price": 98.06,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151082+00:00",
+      "timestamp": "2026-06-06T21:18:47.616206+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -139,7 +139,7 @@ window.theBriefLive = {
       "change_pct": -4.24,
       "price": 36.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151078+00:00",
+      "timestamp": "2026-06-06T21:18:47.616202+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -151,10 +151,58 @@ window.theBriefLive = {
       "change_pct": -12.33,
       "price": 458.66,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T20:09:59.151070+00:00",
+      "timestamp": "2026-06-06T21:18:47.616194+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Salesforce or ServiceNow a Better Stock to Buy Right Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-servicenow-better-stock-buy-211100800.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T21:11:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A new wave of weight-loss therapies aims to be better than today\u2019s GLP-1s",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T21:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia CEO Jensen Huang Says This Is the Next Trillion-Dollar AI Chip Stock. Is He Right?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-205700328.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T20:57:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US strikes Iranian sites after Iran launches drones in latest Gulf flare-up",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flareup-4729541",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T20:54:32+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -163,18 +211,75 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/high-fuel-costs-to-trigger-airline-failures-and-consolidation-industry-chief-says-4729611",
       "is_watchlist": false,
-      "timestamp": "2026-06-06T19:48:27+00:00",
+      "timestamp": "2026-06-06T20:48:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Eli Lilly's $3.8 Billion Vaccine Bets: Here's the Big Story Many Investors Are Missing",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lillys-3-8-billion-193500831.html",
+      "headline": "Krishnan steps down as White House AI adviser after 18 months",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/krishnan-steps-down-as-white-house-ai-adviser-after-18-months-93CH-4729616",
       "is_watchlist": false,
-      "timestamp": "2026-06-06T19:35:00+00:00",
+      "timestamp": "2026-06-06T20:45:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DoubleLine, Oaktree buy debt ahead of potential AI credit risks - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/doubleline-oaktree-buy-debt-ahead-of-potential-ai-credit-risks--bloomberg-93CH-4729615",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T20:39:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Embraer sees airlines delaying decisions on plane purchase options\u00a0due to Iran war",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/embraer-sees-airlines-delaying-decisions-on-plane-purchase-optionsdue-to-iran-war-4729614",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T20:13:17+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Airline chiefs grapple with fuel shock, fare test at Rio summit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit-4729564",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T20:12:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Embraer sees airlines delaying decisions on plane purchase options due to Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVFQ3d19Vc0w5bmZneWpXbi1QMldBcm5BQkxrbG5HWGYxVDZ4QkVTZ1pzRVNnUTNGTWVFY09ZRTJpbDh2UjkxVzVxeDRXZ2toMllLeUNKbXk1a2VtWXIwaE5rc1pWREl1QkNwTUgwUS1WUEdneExFYWdxMG9zWkF5NU45b1J6Q05WOWxESzMtY0xoaC1KOE9HNTNsSUpRam9EZHBNcFlIcEQ3LVJBOFZMWnp4OWE1NkdCX1VKVjBMcnU2U3lhVWlEOVRGU3A?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T20:08:09+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Missing US student found dead near Kyoto, Japan, mother says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/missing-us-student-found-dead-near-kyoto-japan-mother-says-4729613",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T20:06:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -216,45 +321,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Amazon Stock a Buy Right Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-buy-now-192300889.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T19:23:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Embraer sees airlines delay option decisions as Iran war clouds industry",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/embraer-sees-airlines-delay-option-decisions-as-iran-war-clouds-industry-4729609",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T19:18:31+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Key deals this week: Mobix Labs, MGM Resorts, Cloudflare, and more",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4601214-key-deals-this-week-mobix-labs-mgm-resorts-cloudflare-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-06T19:15:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eli Lilly shares phase 3 data on triple agonist weight loss drug retatrutide",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/eli-lilly-shares-phase-3-data-on-triple-agonist-weight-loss-drug-retatrutide-4729608",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T19:15:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -297,55 +368,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "White House AI policy adviser Krishnan to leave position",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/white-house-ai-policy-adviser-krishnan-to-leave-position-the-information-reports-4729601",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T19:00:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada PM Carney discusses trade with Indonesia\u2019s Subianto",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/canada-pm-carney-discusses-trade-with-indonesias-subianto-93CH-4729607",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T18:59:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tired of nausea or taking a GLP-1 pill every day? These experimental drugs could be better than Zepbound and Wegovy.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T18:53:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Most robo-advisers will never profit from Wall Street\u2019s AI-generated stock picks",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-06T18:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "France, allies eye national measures to pressure Israel over West Bank, diplomats say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/france-allies-eye-national-measures-to-pressure-israel-over-west-bank-diplomats-say-4729605",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T18:36:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -370,21 +397,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-06T18:10:06+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flareup-4729541",
-      "is_watchlist": true,
-      "timestamp": "2026-06-06T17:42:27+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -678,6 +690,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Israeli strike kills three Lebanese soldiers, military probes incident - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjRlR0psWGhoX1dwYXVZZEZXeUk2cUExSHgweGFYa0ZuNGR3RHU3ZWxybjlHRGYzY2tJby1lYVFuS21rdlhnZVU1QUVKS1JidDdfWVJ4SHhQeEx4UEx2V3lTM01ESkZxV01rOGVwQ0tJU1JXVFdGNVFFVVJ0VzZjeFJIOXlLbElBOFZjS3RQWEM5ZVhDMUNVcGFjTDBMYW16TnpuT1dwLXFDaGZzWGN4aV84NkVlVHFFbUpCVV82QTJkaVNM?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T11:17:22+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "OXY",
       "headline": "Investors To Watch Out For Oracle, Adobe Earnings Next Week",
       "source": "SeekingAlpha",
@@ -937,17 +960,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israeli forces shoot dead Palestinian baby, wound his parents in West Bank - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWxYVWpjUC1mQkpudGNfVWdWSjRCQVVfSGs2Q0s0UFpfUWRkWkM2bnl2enltdEl0bjJ6TXR3eVh4MEZaNFVCdTY1TU9JdmtVRnFVUExLdEtfWHNPU2ZxNEIxQ3daV09xel8xU3BfSzVqelBXZk43M1Nnb1lvcFQyMFluVVdSQXRTUVUtQjhOdXBvZjRSVWowWDhneW51ekpoa0JtRWhsQnZNQ3Vmb2FhTlU4MVI0MXYwOS1xc2NPZF95RmpOZ0tlZUlUSQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T21:39:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US stocks slump as fears over Big Tech shake Wall Street",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
@@ -965,17 +977,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-05T20:33:46+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Witkoff, Kushner meet nuclear experts at national lab in Tennessee, source says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0hDX051dHVaUU9zWm80VnU2Wk1jTk9iSjVFSGdfSnFLQVFHQjc5a2ZSMzNvcFprS051UTd5RkdZbTlXWXNJMTZlOTlwblBnVWlpOF9FZEFiYmktdVZDU05GbnVic0JRWUpwbXNpS3daV1hUeEFVV1NWQXpRTnpnYjYzNnhwbDdWU0Z4WDZDVjk5c1laUGp6SXNXVy1zZWM0NmFwbTEwM2t4eFJNSjVnVmd1cw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T20:01:11+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
