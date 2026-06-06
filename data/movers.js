@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T08:08:18.141800+00:00",
+  "generated_at": "2026-06-06T10:22:37.757430+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Nvidia (NVDA) Shares Are Getting Obliterated Today\""
+      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The SpaceX IPO Looks Expensive on the Surface. Here's What Investors Should Know.\""
+      "move_reason": "News: \"Prediction: Ripple's XRP Will Be a Buy Before 2027\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Teeing Up The Next Great Rug Pull\""
+      "move_reason": "News: \"Model Portfolio For Income, June 2026\""
     },
     {
       "ticker": "APA",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Up 5.5% Since Last Earnings Report: Can It Continue?\""
+      "move_reason": "News: \"Assessing APA Corporation\u2019s Valuation After Strong Results And Free Cash Flow Strength Att...\""
     },
     {
       "ticker": "PWR",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Nvidia (NVDA) Shares Are Getting Obliterated Today\""
+      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
     },
     {
       "ticker": "APA",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Up 5.5% Since Last Earnings Report: Can It Continue?\""
+      "move_reason": "News: \"Assessing APA Corporation\u2019s Valuation After Strong Results And Free Cash Flow Strength Att...\""
     },
     {
       "ticker": "CRWV",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Teeing Up The Next Great Rug Pull\""
+      "move_reason": "News: \"Model Portfolio For Income, June 2026\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The SpaceX IPO Looks Expensive on the Surface. Here's What Investors Should Know.\""
+      "move_reason": "News: \"Prediction: Ripple's XRP Will Be a Buy Before 2027\""
     },
     {
       "ticker": "OSCR",

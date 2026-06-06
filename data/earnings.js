@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-06T08:08:18+00:00",
+  "generated_at": "2026-06-06T10:22:37+00:00",
   "by_date": {
     "2026-06-08": [
       {
@@ -168,6 +168,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 9.1062,
         "revenue_estimate": 1239579363,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "OCC",
+        "date": "2026-06-08",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -950,14 +958,6 @@ window.theBriefEarnings = {
       },
       {
         "ticker": "NMEX",
-        "date": "2026-06-15",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "OCC",
         "date": "2026-06-15",
         "hour": "",
         "eps_estimate": null,
