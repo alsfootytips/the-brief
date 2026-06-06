@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T17:42:48.033346+00:00",
+  "generated_at": "2026-06-06T18:55:52.233837+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here\u2019s Wh...\""
+      "move_reason": "News: \"TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Dividend Stock Has Gained 18% While the Rest of its Sector Went Nowhere. Here's Why.\""
+      "move_reason": "News: \"Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot a...\""
     },
     {
       "ticker": "XLK",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here\u2019s Wh...\""
+      "move_reason": "News: \"TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock\""
     },
     {
       "ticker": "APA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Dividend Stock Has Gained 18% While the Rest of its Sector Went Nowhere. Here's Why.\""
+      "move_reason": "News: \"Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot a...\""
     },
     {
       "ticker": "OSCR",
