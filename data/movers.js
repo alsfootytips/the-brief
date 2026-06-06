@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T11:53:57.677825+00:00",
+  "generated_at": "2026-06-06T13:44:54.028040+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -92,7 +92,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Is Nebius Stock Falling On Friday?\""
+      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
     },
     {
       "ticker": "AMD",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
+      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Ripple's XRP Will Be a Buy Before 2027\""
+      "move_reason": "News: \"Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agen...\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Model Portfolio For Income, June 2026\""
+      "move_reason": "News: \"I Have Been Patiently Waiting For This Market Meltdown\""
     },
     {
       "ticker": "APA",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Fraud Clash With Iberdrola Puts Vineyard Wind And Valuation In Focus\""
+      "move_reason": "News: \"Is GE Vernova Stock Outperforming the Nasdaq?\""
     },
     {
       "ticker": "MSFT",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
+      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
     },
     {
       "ticker": "APA",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Fraud Clash With Iberdrola Puts Vineyard Wind And Valuation In Focus\""
+      "move_reason": "News: \"Is GE Vernova Stock Outperforming the Nasdaq?\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Model Portfolio For Income, June 2026\""
+      "move_reason": "News: \"I Have Been Patiently Waiting For This Market Meltdown\""
     },
     {
       "ticker": "NBIS",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Is Nebius Stock Falling On Friday?\""
+      "move_reason": "News: \"After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?\""
     },
     {
       "ticker": "NVDA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Ripple's XRP Will Be a Buy Before 2027\""
+      "move_reason": "News: \"Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agen...\""
     },
     {
       "ticker": "OSCR",
