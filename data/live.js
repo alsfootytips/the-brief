@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-06T18:55:52.239086+00:00",
+  "generated_at": "2026-06-06T20:09:59.154318+00:00",
   "events": [
     {
       "type": "news",
@@ -19,7 +19,7 @@ window.theBriefLive = {
       "change_pct": -5.04,
       "price": 19.97,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236064+00:00",
+      "timestamp": "2026-06-06T20:09:59.151132+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -31,7 +31,7 @@ window.theBriefLive = {
       "change_pct": -7.93,
       "price": 15.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T18:55:52.236061+00:00",
+      "timestamp": "2026-06-06T20:09:59.151115+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -43,7 +43,7 @@ window.theBriefLive = {
       "change_pct": -4.11,
       "price": 689.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236059+00:00",
+      "timestamp": "2026-06-06T20:09:59.151112+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,7 +55,7 @@ window.theBriefLive = {
       "change_pct": -5.51,
       "price": 133.89,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T18:55:52.236056+00:00",
+      "timestamp": "2026-06-06T20:09:59.151109+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -67,7 +67,7 @@ window.theBriefLive = {
       "change_pct": -6.69,
       "price": 204.04,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236053+00:00",
+      "timestamp": "2026-06-06T20:09:59.151105+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -79,7 +79,7 @@ window.theBriefLive = {
       "change_pct": -14.57,
       "price": 221.83,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236051+00:00",
+      "timestamp": "2026-06-06T20:09:59.151103+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -91,7 +91,7 @@ window.theBriefLive = {
       "change_pct": -6.02,
       "price": 589.82,
       "is_watchlist": false,
-      "timestamp": "2026-06-06T18:55:52.236048+00:00",
+      "timestamp": "2026-06-06T20:09:59.151099+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -103,7 +103,7 @@ window.theBriefLive = {
       "change_pct": -4.26,
       "price": 279.58,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236043+00:00",
+      "timestamp": "2026-06-06T20:09:59.151095+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -115,7 +115,7 @@ window.theBriefLive = {
       "change_pct": -4.08,
       "price": 924.07,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236035+00:00",
+      "timestamp": "2026-06-06T20:09:59.151086+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -127,7 +127,7 @@ window.theBriefLive = {
       "change_pct": -9.23,
       "price": 98.06,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236032+00:00",
+      "timestamp": "2026-06-06T20:09:59.151082+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -139,7 +139,7 @@ window.theBriefLive = {
       "change_pct": -4.24,
       "price": 36.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236028+00:00",
+      "timestamp": "2026-06-06T20:09:59.151078+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -151,10 +151,181 @@ window.theBriefLive = {
       "change_pct": -12.33,
       "price": 458.66,
       "is_watchlist": true,
-      "timestamp": "2026-06-06T18:55:52.236020+00:00",
+      "timestamp": "2026-06-06T20:09:59.151070+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "High fuel costs to trigger airline failures and consolidation, industry chief says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/high-fuel-costs-to-trigger-airline-failures-and-consolidation-industry-chief-says-4729611",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:48:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eli Lilly's $3.8 Billion Vaccine Bets: Here's the Big Story Many Investors Are Missing",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lillys-3-8-billion-193500831.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:33:38+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "May 2026 Mailbag: Divvy-Pops, Jellybeans & the Kids of Kopachuk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea1890d2c93b646a1959c070e34c19e93adec0172212706c0b943b663cc061e2",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T19:32:45+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Amazon Stock a Buy Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a02600a14b379cc395ec80f6f5c49f1ae487a63cb4d136580f3fb2bf187bf941",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T19:23:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Amazon Stock a Buy Right Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-buy-now-192300889.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:23:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Embraer sees airlines delay option decisions as Iran war clouds industry",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/embraer-sees-airlines-delay-option-decisions-as-iran-war-clouds-industry-4729609",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:18:31+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Key deals this week: Mobix Labs, MGM Resorts, Cloudflare, and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4601214-key-deals-this-week-mobix-labs-mgm-resorts-cloudflare-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:15:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eli Lilly shares phase 3 data on triple agonist weight loss drug retatrutide",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/eli-lilly-shares-phase-3-data-on-triple-agonist-weight-loss-drug-retatrutide-4729608",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:15:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Fed's Mary Daly has blunt message for AI stock investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=478a35d9b86b680574a94167e6b365261ed9480575a9725d60ecf88991ea2998",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T19:13:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b92da3822331c396b722dfeedf040cf3064991a46ba9637fcd381f64980d76d7",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T19:12:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "APA",
+      "headline": "How Investors Are Reacting To APA (APA) ESOP Shelf Filing After Earnings Beat Expectations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=164eb0b80ea1a2cb363a2638d0dc798d0a00e15cb64352d4cae6cfec6fb1cbb2",
+      "is_watchlist": true,
+      "timestamp": "2026-06-06T19:11:11+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "White House AI policy adviser Krishnan to leave position",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/white-house-ai-policy-adviser-krishnan-to-leave-position-the-information-reports-4729601",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T19:00:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada PM Carney discusses trade with Indonesia\u2019s Subianto",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/canada-pm-carney-discusses-trade-with-indonesias-subianto-93CH-4729607",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T18:59:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tired of nausea or taking a GLP-1 pill every day? These experimental drugs could be better than Zepbound and Wegovy.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T18:53:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -181,39 +352,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T18:30:41+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should Investors Sell Tesla Stock to Buy SpaceX?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-sell-tesla-stock-buy-182500262.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T18:25:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Bond ETF That Belongs in Almost Every Long-Term Portfolio",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/bond-etf-belongs-almost-every-182000517.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T18:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "You\u2019re going to pay tax on RMDs \u2014 there\u2019s no way around it. Or is there?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
@@ -234,18 +372,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot at Catching It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=145ab97cae0d7fcb9adf4a5e001ef128f2430c28f298735a681c8424fe0ba556",
-      "is_watchlist": true,
-      "timestamp": "2026-06-06T17:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -262,46 +388,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Can You Retire Comfortably on $750,000 in Savings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=31a003003ab6a6243e791e53839f12d873960627f1e824aa58346ae16a214bd7",
-      "is_watchlist": true,
-      "timestamp": "2026-06-06T17:38:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "South Korea is the ultimate backdoor tech play \u2014 but stock investors now face a looming threat",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-06T17:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "White House AI policy adviser Krishnan to leave position",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/white-house-ai-policy-adviser-krishnan-to-leave-position-the-information-reports-4729601",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T17:30:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Raymond James identifies split government as the leading outcome for the midterms",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/raymond-james-identifies-split-government-as-the-leading-outcome-for-the-midterms-4729604",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T17:26:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -374,18 +466,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Want to Retire a Millionaire? This Under-$20 Stock Deserves a Look.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c4d6a35b34f91f47fb8af6476dbf8d1c8ed35962821937949e7bbef6f51d976",
-      "is_watchlist": true,
-      "timestamp": "2026-06-06T17:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Here\u2019s Why Apple (AAPL) is One of the Best Big Company Stocks to Buy Right Now",
       "source": "Yahoo Finance",
@@ -427,44 +507,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-06T16:53:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hegseth, at D-Day event, says Europe faces \u2019invasion\u2019 of dangerous ideologies",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/hegseth-at-dday-event-says-europe-faces-invasion-of-dangerous-ideologies-4729580",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T16:48:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed\u2019s Barr warns that weakening bank rules courts financial instability",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/feds-barr-warns-that-weakening-bank-rules-courts-financial-instability-4729603",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T16:45:34+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Deferring jet orders over Iran war would be costly for Middle Eastern carriers, IATA VP says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/deferring-jet-orders-over-iran-war-would-be-costly-for-middle-eastern-carriers-iata-vp-says-4729602",
-      "is_watchlist": true,
-      "timestamp": "2026-06-06T16:43:02+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -524,13 +566,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Silicon Valley was built on public money \u2014 now it\u2019s fighting California\u2019s billionaire tax",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/big-tech-hates-californias-billionaire-tax-but-loves-taxpayers-money-c143ecac?mod=mw_rss_topstories",
+      "headline": "U.S.-Iran strikes, Wall Street fears, Paramount lawsuit and Cape Verde - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEhkXzdJbXZFNTY5ak41UEx0cjdaanRaZXNJR2lHd1Q5Mld3dEdJQlFtTm43VXhDcFZQWTVZWEdzR2lZMXloVkNkMFIxSWJ4QTRRV3JxYkpGaER1UExpZ0xCSlZNY3NaUHktdS1yQmJrYjZkZWdpU0JPSWVUdThrcHNfNEN1clVLRUFtYVo3Rko2NmNiaktfZGhMb2FMZ0QtMTAxelhqSy1KczQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-06T15:43:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-06-06T15:31:26+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -540,17 +583,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4601210-in-n-out-burger-the-hamburger-chain-with-a-cult-following-and-simple-model?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-06T15:16:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Over $1T wiped out as chip selloff impacts Nvidia, Broadcom, Micron",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4601211-over-1t-erased-chip-selloff-impacts-nvidia-broadcom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-06T15:15:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -598,18 +630,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-06T13:28:42+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Marvell Technology CEO Matt Murphy Believes This Is The 'Most Beautiful Thing' One Person Can Do For Another And It Can 'Change Their Life'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=716d1f2f0c845551352bffcdfe7cec63de051b016254a069485aba1488eab8f4",
-      "is_watchlist": true,
-      "timestamp": "2026-06-06T13:01:16+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -789,6 +809,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Turkmenistan: A reporter\u2019s rare journey - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVlfLXpKNUtUVlU3dTNYNUNUMi1xT1V1VmlCdjV5dkV6bE14Q1gtVHhGOTVwNElMdUdObmNMNXdybVFVMzY2RXdXUjlpYnlOek80THhaWkZGWV95cHY0ZTlxMVkxOWYtZWpGVjdwRFVXTTMwTjRFTWM4cDI2d2NDNmFSZG1ZeWs?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-06T05:01:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "GE Vernova Fraud Clash With Iberdrola Puts Vineyard Wind And Valuation In Focus",
       "source": "Yahoo",
@@ -960,32 +991,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US judge strikes down Trump policies targeting immigrants from 39 countries - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkstOFU0cXFkQ1dVbEZwNldfU3lLU2VHbzYwRE90Y2dOX0VYeTVPMWUxRUo1aVBqc3k2ZmFvNGFLMS1lNS1IMkk2MkhtZnNUS2xZNlhBM2w3ajZOWTZuTXYwNlZHbWRYbDIyRUo1ajRta3dCbFRCeDNDXzIyREVsTU0xTnQyUXdfQk9zMUtMWkdXT1hVUzdGdEV1eEp0MnlUSnNlcWtoSXRwRnlzbUtKMQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-05T18:31:34+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran World Cup squad still in visa limbo 10 days before first match, ambassador says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlBnSE9GWlBqaU82S1FVVlNTLXFvRDBQNmJUNW4xdnIwQ25nYjVxNmUyN0kyLV9tMDhtUDNRN1c4dVJlRnBrU0xSMzlBY1I2akNJV0VlQ1pGdWpZUURwb2JNNDFOS000dEg4Si1lb2dmVmtNMHVFRko0REJEV1I0a0JoSXl3bk51ZW9BNk9wRUlRYmoycnNMNWYzUjR6dy1xVXh4S1FNbFBMdTVWSXlzZ21YcnRidHo4blJkX3JsWmdmVjdxbVNQVWlR?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T18:23:29+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 7",
       "source": "SeekingAlpha",
@@ -1121,18 +1126,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=7c61eb69d3e7af17154288c0aad7b2f267ed818fe8895ace377c3d4f65a95770",
       "is_watchlist": true,
       "timestamp": "2026-06-05T13:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "APA or Ovintiv: Where Should Energy Investors Look Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7f4ef09ae29b8c6ce06f84ead0f8878af360e1332dc16dcbcaef9aed85bf039",
-      "is_watchlist": true,
-      "timestamp": "2026-06-05T12:47:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T18:55:52.233837+00:00",
+  "generated_at": "2026-06-06T20:09:59.149009+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock\""
+      "move_reason": "News: \"AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot a...\""
+      "move_reason": "News: \"May 2026 Mailbag: Divvy-Pops, Jellybeans & the Kids of Kopachuk\""
     },
     {
       "ticker": "XLK",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Assessing APA Corporation\u2019s Valuation After Strong Results And Free Cash Flow Strength Att...\""
+      "move_reason": "News: \"How Investors Are Reacting To APA (APA) ESOP Shelf Filing After Earnings Beat Expectations\""
     },
     {
       "ticker": "PWR",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock\""
+      "move_reason": "News: \"AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?\""
     },
     {
       "ticker": "APA",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Assessing APA Corporation\u2019s Valuation After Strong Results And Free Cash Flow Strength Att...\""
+      "move_reason": "News: \"How Investors Are Reacting To APA (APA) ESOP Shelf Filing After Earnings Beat Expectations\""
     },
     {
       "ticker": "CRWV",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Just Slipped Below $5 Trillion. These Are the Few Companies With a Realistic Shot a...\""
+      "move_reason": "News: \"May 2026 Mailbag: Divvy-Pops, Jellybeans & the Kids of Kopachuk\""
     },
     {
       "ticker": "OSCR",
