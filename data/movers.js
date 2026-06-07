@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T13:54:02.386124+00:00",
+  "generated_at": "2026-06-07T15:24:35.597911+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late To Consider AMD (AMD) After Its 301% One Year Surge?\""
+      "move_reason": "News: \"Why Marvell Technology Rallied in May\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"An Overlooked Cleantech Fund Just Did in Eighteen Months What the S&P 500 Took Five Years ...\""
+      "move_reason": "News: \"1 Unstoppable Stock to Buy Before It Joins Broadcom in the $1 Trillion Club\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tariffs Re-Enter The Spotlight\""
+      "move_reason": "News: \"Why U.S. And International Dividend Strategies Are Working Again\""
     },
     {
       "ticker": "APA",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"FTAI Aviation: Innovation Is Their DNA\""
+      "move_reason": "News: \"Why GE Vernova Stock Fell Nearly 11% in May\""
     },
     {
       "ticker": "MSFT",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late To Consider AMD (AMD) After Its 301% One Year Surge?\""
+      "move_reason": "News: \"Why Marvell Technology Rallied in May\""
     },
     {
       "ticker": "APA",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"FTAI Aviation: Innovation Is Their DNA\""
+      "move_reason": "News: \"Why GE Vernova Stock Fell Nearly 11% in May\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tariffs Re-Enter The Spotlight\""
+      "move_reason": "News: \"Why U.S. And International Dividend Strategies Are Working Again\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"An Overlooked Cleantech Fund Just Did in Eighteen Months What the S&P 500 Took Five Years ...\""
+      "move_reason": "News: \"1 Unstoppable Stock to Buy Before It Joins Broadcom in the $1 Trillion Club\""
     },
     {
       "ticker": "OSCR",
