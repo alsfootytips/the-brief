@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T09:51:43.705000+00:00",
+  "generated_at": "2026-06-07T11:49:00.093935+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends\""
+      "move_reason": "News: \"Prediction: Shiba Inu Will Never See Its All-Time High Again. Here's Why.\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500: This Is Not A Dip Yet (Rating Downgrade)\""
+      "move_reason": "News: \"Two-Month Market Rally: What Comes Next?\""
     },
     {
       "ticker": "APA",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500: This Is Not A Dip Yet (Rating Downgrade)\""
+      "move_reason": "News: \"Two-Month Market Rally: What Comes Next?\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends\""
+      "move_reason": "News: \"Prediction: Shiba Inu Will Never See Its All-Time High Again. Here's Why.\""
     },
     {
       "ticker": "OSCR",
