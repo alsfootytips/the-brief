@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-07T22:19:40.092988+00:00",
+  "generated_at": "2026-06-07T23:37:03.196995+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -5.04,
       "price": 19.97,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089864+00:00",
+      "timestamp": "2026-06-07T23:37:03.193826+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -7.93,
       "price": 15.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-07T22:19:40.089862+00:00",
+      "timestamp": "2026-06-07T23:37:03.193823+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -4.11,
       "price": 689.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089859+00:00",
+      "timestamp": "2026-06-07T23:37:03.193821+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -5.51,
       "price": 133.89,
       "is_watchlist": false,
-      "timestamp": "2026-06-07T22:19:40.089856+00:00",
+      "timestamp": "2026-06-07T23:37:03.193818+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": -6.69,
       "price": 204.04,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089853+00:00",
+      "timestamp": "2026-06-07T23:37:03.193815+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,7 +68,7 @@ window.theBriefLive = {
       "change_pct": -14.57,
       "price": 221.83,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089850+00:00",
+      "timestamp": "2026-06-07T23:37:03.193812+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -80,7 +80,7 @@ window.theBriefLive = {
       "change_pct": -6.02,
       "price": 589.82,
       "is_watchlist": false,
-      "timestamp": "2026-06-07T22:19:40.089847+00:00",
+      "timestamp": "2026-06-07T23:37:03.193809+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -92,7 +92,7 @@ window.theBriefLive = {
       "change_pct": -4.26,
       "price": 279.58,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089843+00:00",
+      "timestamp": "2026-06-07T23:37:03.193805+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -104,7 +104,7 @@ window.theBriefLive = {
       "change_pct": -4.08,
       "price": 924.07,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089834+00:00",
+      "timestamp": "2026-06-07T23:37:03.193796+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -116,7 +116,7 @@ window.theBriefLive = {
       "change_pct": -9.23,
       "price": 98.06,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089830+00:00",
+      "timestamp": "2026-06-07T23:37:03.193791+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -128,7 +128,7 @@ window.theBriefLive = {
       "change_pct": -4.24,
       "price": 36.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089827+00:00",
+      "timestamp": "2026-06-07T23:37:03.193787+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -140,7 +140,7 @@ window.theBriefLive = {
       "change_pct": -12.33,
       "price": 458.66,
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:19:40.089818+00:00",
+      "timestamp": "2026-06-07T23:37:03.193779+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -148,11 +148,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Visa Stock a Smart Way to Invest in the Cashless Economy?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-smart-way-invest-220400191.html",
+      "headline": "China says \u2019illegal\u2019 outbound investment crackdown won\u2019t lead to forced liquidation",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/china-says-illegal-outbound-investment-crackdown-wont-lead-to-forced-liquidation-4729710",
       "is_watchlist": false,
-      "timestamp": "2026-06-07T22:04:00+00:00",
+      "timestamp": "2026-06-07T23:30:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK pay settlements hold at 3.5% for second month, IDR survey shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-pay-settlements-hold-at-35-for-second-month-idr-survey-shows-4729709",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T23:18:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -167,10 +178,193 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/us-eyes-iranian-assets-for-gulf-allies-reconstruction-source-says-4729626",
       "is_watchlist": true,
-      "timestamp": "2026-06-07T22:00:57+00:00",
+      "timestamp": "2026-06-07T23:18:32+00:00",
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Dow Jones Futures Fall As Trump Says This After Iran Attacks Israel; Market Rally Faces First Real Test",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "is_watchlist": true,
+      "timestamp": "2026-06-07T23:14:51+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia and SK hynix announce multiyear memory partnership",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/nvidia-and-sk-hynix-announce-multiyear-memory-partnership-93CH-4729708",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T23:13:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK firms pause hiring as Iran war stings, REC survey shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/uk-firms-pause-hiring-as-iran-war-stings-rec-survey-shows-4729706",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T23:12:29+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marvell leads chip wreck unseen since the pandemic",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-leads-chip-wreck-unseen-230600020.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T23:06:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. stock futures dip, oil prices surge as new attacks threaten the cease-fire with Iran",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T23:05:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Got $1,000? Here's the Tech Stock I Think Has the Best Risk-Reward Setup in the Entire Market Right Now.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-heres-tech-230500438.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T23:05:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Peru\u2019s presidential election runoff is too close to call, exit poll shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/peru-votes-in-tight-presidential-runoff-in-test-of-latin-americas-rightward-shift-4729663",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T23:00:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:49:54+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Wall Street Sees Danaher (DHR) Benefiting From Improving Industry Conditions",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-sees-danaher-224355309.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:43:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Centene (CNC) Earns A Spot On Bank Of America\u2019s Highest-Conviction List",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/centene-cnc-earns-spot-bank-224346095.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:43:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NextEra Energy (NEE) Gets A Higher Target As A Key Deal Moves Closer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/nextera-energy-nee-gets-higher-224339718.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:43:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lockheed Martin (LMT) Lands A Long-Term Defense Contract Worth Up To $180 Million",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-lands-long-224332961.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:43:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RTX Wins A Billion-Dollar Air Defense Contract With Long-Term Visibility",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-wins-billion-dollar-air-224324602.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:43:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices rise more than $2 on Israel strikes on Lebanon",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-more-than-2-on-israel-strikes-on-lebanon-4729704",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:42:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "VolitionRx prices $4.6 million public offering at $1.55 per share",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/volitionrx-prices-46-million-public-offering-at-155-per-share-93CH-4729705",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:37:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global stocks extend retreat as rate hike fears, Middle East tensions rattle markets",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4601261-global-stocks-extend-retreat-as-rate-hike-fears-middle-east-tensions-rattle-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-07T22:34:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -186,55 +380,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "With China\u2019s Xi in North Korea, Kim to project confidence, defiance",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/with-chinas-xi-in-north-korea-kim-to-project-confidence-defiance-4729648",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T22:00:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:55:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "M&S launches new traineeship for 1,000 young people",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-06-07T21:54:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NASA to wear Prada as luxury group pushes into space industry",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/nasa-to-wear-prada-as-luxury-group-pushes-into-space-industry-4729693",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:48:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Armenia\u2019s ruling party leads parliamentary vote with 57% in early results",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/armenias-ruling-party-leads-parliamentary-vote-with-57-in-early-results-4729700",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:48:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -262,17 +412,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Airbus notifies A320neo series customers of delays on jets due in 2027 and 2028, Bloomberg News reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/airbus-notifies-a320neo-series-customers-of-delays-on-jets-due-in-2027-and-2028-bloomberg-news-reports-4729699",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:36:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
       "source": "Yahoo",
@@ -285,50 +424,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-spacex-stock-213500979.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is SoundHound AI, Inc. (SOUN) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-inc-soun-good-212738180.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:27:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is VICI Properties Inc. (VICI) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-good-212722352.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:27:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Western Digital Corporation (WDC) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-good-212709268.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:27:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Here's the 1 Crypto I'd Buy if I Could Only Pick 1",
       "source": "Yahoo",
@@ -338,28 +433,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Autodesk, Inc. (ADSK) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/autodesk-inc-adsk-good-stock-212655292.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:26:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is DNOW Inc. (DNOW) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dnow-inc-dnow-good-stock-212640363.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:26:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -381,17 +454,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4601258-airbus-is-said-to-push-back-some-plane-deliveries-as-supply-chain-strains-persist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-07T21:23:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4729698",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:20:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -424,29 +486,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "LATAM CEO sees more airline capacity cuts if fuel shock persists",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/latam-ceo-sees-more-airline-capacity-cuts-if-fuel-shock-persists-4729692",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T21:00:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T20:58:26+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump pushes restraint after Iran missile barrage raises Middle East risks",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4601256-trump-pushes-restraint-after-iran-missile-barrage-raises-middle-east-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -455,17 +494,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin climbs back above $61,000 as crypto market steadies after brutal selloff",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-above-62000-as-crypto-market-steadies-after-brutal-selloff-4729656",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T20:33:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -478,17 +506,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing clears key 777X certification hurdle as FAA approves next flight tests",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4601255-boeing-clears-key-777x-certification-hurdle-as-faa-approves-next-flight-tests?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T20:10:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -770,17 +787,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-07T12:51:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018He\u2019s taking advantage of me\u2019: My husband won\u2019t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-07T12:47:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
