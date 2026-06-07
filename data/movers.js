@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T11:49:00.093935+00:00",
+  "generated_at": "2026-06-07T13:54:02.386124+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?\""
+      "move_reason": "News: \"Is It Too Late To Consider AMD (AMD) After Its 301% One Year Surge?\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Shiba Inu Will Never See Its All-Time High Again. Here's Why.\""
+      "move_reason": "News: \"An Overlooked Cleantech Fund Just Did in Eighteen Months What the S&P 500 Took Five Years ...\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Two-Month Market Rally: What Comes Next?\""
+      "move_reason": "News: \"Tariffs Re-Enter The Spotlight\""
     },
     {
       "ticker": "APA",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is GE Vernova Stock Outperforming the Nasdaq?\""
+      "move_reason": "News: \"FTAI Aviation: Innovation Is Their DNA\""
     },
     {
       "ticker": "MSFT",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?\""
+      "move_reason": "News: \"Is It Too Late To Consider AMD (AMD) After Its 301% One Year Surge?\""
     },
     {
       "ticker": "APA",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is GE Vernova Stock Outperforming the Nasdaq?\""
+      "move_reason": "News: \"FTAI Aviation: Innovation Is Their DNA\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Two-Month Market Rally: What Comes Next?\""
+      "move_reason": "News: \"Tariffs Re-Enter The Spotlight\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Shiba Inu Will Never See Its All-Time High Again. Here's Why.\""
+      "move_reason": "News: \"An Overlooked Cleantech Fund Just Did in Eighteen Months What the S&P 500 Took Five Years ...\""
     },
     {
       "ticker": "OSCR",
