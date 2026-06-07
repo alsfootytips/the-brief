@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T16:53:06.406682+00:00",
+  "generated_at": "2026-06-07T18:05:49.913902+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Marvell Technology Rallied in May\""
+      "move_reason": "News: \"Intel was on the brink of downfall. A twist in the AI race could boost its revival\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Short-Term Oil Volatility Is Giving Long-Term Investors a Once-in-a-Generation Gift to...\""
+      "move_reason": "News: \"Nvidia\u2019s $500 billion AI opportunity gets real\""
     },
     {
       "ticker": "XLK",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Marvell Technology Rallied in May\""
+      "move_reason": "News: \"Intel was on the brink of downfall. A twist in the AI race could boost its revival\""
     },
     {
       "ticker": "APA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Short-Term Oil Volatility Is Giving Long-Term Investors a Once-in-a-Generation Gift to...\""
+      "move_reason": "News: \"Nvidia\u2019s $500 billion AI opportunity gets real\""
     },
     {
       "ticker": "OSCR",
@@ -380,7 +380,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Investors To Watch Out For Oracle, Adobe Earnings Next Week\""
+      "move_reason": "News: \"Top Wall Street analysts recommend these 3 dividend stocks for solid returns\""
     },
     {
       "ticker": "PWR",
