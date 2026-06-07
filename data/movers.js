@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T19:47:49.199445+00:00",
+  "generated_at": "2026-06-07T21:13:52.086799+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s $500 billion AI opportunity gets real\""
+      "move_reason": "News: \"Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors\""
     },
     {
       "ticker": "XLK",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s $500 billion AI opportunity gets real\""
+      "move_reason": "News: \"Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors\""
     },
     {
       "ticker": "OSCR",
@@ -380,7 +380,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Wall Street analysts recommend these 3 dividend stocks for solid returns\""
+      "move_reason": "News: \"Selling Short 1-Month Occidental Petroleum Put Options Is Still Working\""
     },
     {
       "ticker": "PWR",
