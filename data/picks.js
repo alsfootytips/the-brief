@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-06T23:45:36.183394+00:00",
+  "generated_at": "2026-06-07T01:59:26.081478+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -100,8 +100,8 @@ window.theBriefPicks = {
       "change_pct_today": -4.26,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 25,
-      "days_remaining": 31,
+      "days_elapsed": 26,
+      "days_remaining": 30,
       "pick_type": "strategic"
     },
     {
@@ -166,8 +166,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.84,
       "name": "Energy Select Sector",
       "news_count": 3,
-      "days_elapsed": 25,
-      "days_remaining": 3,
+      "days_elapsed": 26,
+      "days_remaining": 2,
       "pick_type": "strategic"
     },
     {
@@ -503,7 +503,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.08,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 24,
+      "days_elapsed": 25,
       "days_remaining": null
     },
     {
@@ -536,7 +536,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.11,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 24,
+      "days_elapsed": 25,
       "days_remaining": null
     },
     {
@@ -569,7 +569,7 @@ window.theBriefPicks = {
       "change_pct_today": -5.51,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 24,
+      "days_elapsed": 25,
       "days_remaining": null
     },
     {
@@ -638,8 +638,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.27,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 19,
-      "days_remaining": 37
+      "days_elapsed": 20,
+      "days_remaining": 36
     },
     {
       "id": "2026-05-18-GLD",
@@ -671,8 +671,8 @@ window.theBriefPicks = {
       "change_pct_today": -3.49,
       "name": "GLD",
       "news_count": 0,
-      "days_elapsed": 19,
-      "days_remaining": 65
+      "days_elapsed": 20,
+      "days_remaining": 64
     }
   ],
   "summary": {

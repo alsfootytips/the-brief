@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-06T23:45:36.153395+00:00",
+  "generated_at": "2026-06-07T01:59:26.050376+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Russell 2000 Rally: 5 Top Stocks Averaging 178% Forward EPS Growth\""
+      "move_reason": ""
     },
     {
       "ticker": "XLP",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?\""
+      "move_reason": "News: \"3 Cryptocurrencies to Buy Before They Explode\""
     },
     {
       "ticker": "XLK",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Software Stocks to Keep an Eye On and 1 We Turn Down\""
+      "move_reason": "Tracking XLK sector (-6.66% today)"
     },
     {
       "ticker": "QQQ",
@@ -308,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Five Below Down 12% Post Earnings\u2014Is the Selloff Overdone?\""
+      "move_reason": "News: \"Turnaround Stories and Shorting Stocks\""
     },
     {
       "ticker": "GEV",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?\""
+      "move_reason": "News: \"3 Cryptocurrencies to Buy Before They Explode\""
     },
     {
       "ticker": "OSCR",
@@ -368,7 +368,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Russell 2000 Rally: 5 Top Stocks Averaging 178% Forward EPS Growth\""
+      "move_reason": ""
     },
     {
       "ticker": "OXY",
@@ -416,7 +416,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Software Stocks to Keep an Eye On and 1 We Turn Down\""
+      "move_reason": "Tracking XLK sector (-6.66% today)"
     },
     {
       "ticker": "XLE",
