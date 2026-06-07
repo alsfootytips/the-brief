@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-07T06:39:32+00:00",
+  "generated_at": "2026-06-07T09:51:43+00:00",
   "by_date": {
     "2026-06-08": [
       {
@@ -930,6 +930,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0212,
         "revenue_estimate": 264115,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "JRSH",
+        "date": "2026-06-15",
+        "hour": "amc",
+        "eps_estimate": -0.0102,
+        "revenue_estimate": 36924000,
         "is_watchlist": false
       },
       {

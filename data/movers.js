@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T06:39:32.693348+00:00",
+  "generated_at": "2026-06-07T09:51:43.705000+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: SpaceX Will Be 19% of This Low-Cost Vanguard ETF Before the End of 2026\""
+      "move_reason": "News: \"5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, June 7, 2026\""
+      "move_reason": "News: \"S&P 500: This Is Not A Dip Yet (Rating Downgrade)\""
     },
     {
       "ticker": "APA",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, June 7, 2026\""
+      "move_reason": "News: \"S&P 500: This Is Not A Dip Yet (Rating Downgrade)\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: SpaceX Will Be 19% of This Low-Cost Vanguard ETF Before the End of 2026\""
+      "move_reason": "News: \"5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends\""
     },
     {
       "ticker": "OSCR",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Has Until July\""
+      "move_reason": "News: \"This Week's Market Wrap: AI Ups And Downs, Oil Roars Back, And Strong Data\""
     }
   ],
   "indices": [
