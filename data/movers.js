@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T21:13:52.086799+00:00",
+  "generated_at": "2026-06-07T22:19:40.087769+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors\""
+      "move_reason": "News: \"3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait\""
     },
     {
       "ticker": "XLK",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Stock Fell Nearly 11% in May\""
+      "move_reason": "News: \"Is GE Vernova Inc. (GEV) A Good Stock To Buy Now?\""
     },
     {
       "ticker": "MSFT",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Stock Fell Nearly 11% in May\""
+      "move_reason": "News: \"Is GE Vernova Inc. (GEV) A Good Stock To Buy Now?\""
     },
     {
       "ticker": "IWM",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors\""
+      "move_reason": "News: \"3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait\""
     },
     {
       "ticker": "OSCR",
