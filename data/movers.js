@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T01:59:26.050376+00:00",
+  "generated_at": "2026-06-07T06:39:32.693348+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Cryptocurrencies to Buy Before They Explode\""
+      "move_reason": "News: \"Prediction: SpaceX Will Be 19% of This Low-Cost Vanguard ETF Before the End of 2026\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Have Been Patiently Waiting For This Market Meltdown\""
+      "move_reason": "News: \"The 1-Minute Market Report, June 7, 2026\""
     },
     {
       "ticker": "APA",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Have Been Patiently Waiting For This Market Meltdown\""
+      "move_reason": "News: \"The 1-Minute Market Report, June 7, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Cryptocurrencies to Buy Before They Explode\""
+      "move_reason": "News: \"Prediction: SpaceX Will Be 19% of This Low-Cost Vanguard ETF Before the End of 2026\""
     },
     {
       "ticker": "OSCR",
