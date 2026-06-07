@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T15:24:35.597911+00:00",
+  "generated_at": "2026-06-07T16:53:06.406682+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Unstoppable Stock to Buy Before It Joins Broadcom in the $1 Trillion Club\""
+      "move_reason": "News: \"Why Short-Term Oil Volatility Is Giving Long-Term Investors a Once-in-a-Generation Gift to...\""
     },
     {
       "ticker": "XLK",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Unstoppable Stock to Buy Before It Joins Broadcom in the $1 Trillion Club\""
+      "move_reason": "News: \"Why Short-Term Oil Volatility Is Giving Long-Term Investors a Once-in-a-Generation Gift to...\""
     },
     {
       "ticker": "OSCR",
