@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-07T23:37:03.191699+00:00",
+  "generated_at": "2026-06-08T02:01:44.525647+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait\""
+      "move_reason": "News: \"Better Buy: Sandisk or Nvidia Stock?\""
     },
     {
       "ticker": "XLK",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait\""
+      "move_reason": "News: \"Better Buy: Sandisk or Nvidia Stock?\""
     },
     {
       "ticker": "OSCR",
@@ -404,7 +404,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week Of June 7\""
+      "move_reason": "Tracking XLE sector (-1.84% today)"
     },
     {
       "ticker": "TTD",
@@ -593,10 +593,9 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 19.97,
       "change_pct": -5.04,
-      "score": 10.0,
+      "score": 8.5,
       "signals": [
         "Moved -5.04% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider sells vs 1 buys (last 90 days)",
         "+2 analyst sell recs added recently",
@@ -606,7 +605,6 @@ window.theBriefMovers = {
       ],
       "reasons": [
         "Moved -5.04% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider sells vs 1 buys (last 90 days)",
         "+2 analyst sell recs added recently",
@@ -615,7 +613,6 @@ window.theBriefMovers = {
         "-77.8% from 52-week high"
       ],
       "tags": [
-        "news-flow",
         "filing",
         "insider-selling",
         "analyst-downgrade",
@@ -682,35 +679,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 394.74,
-      "change_pct": -2.95,
-      "score": 6.5,
-      "signals": [
-        "Moved -2.95% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.3 (cheap on absolute basis)",
-        "Down -25.6% over 3 months \u2014 deep drawdown"
-      ],
-      "reasons": [
-        "Moved -2.95% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.3 (cheap on absolute basis)",
-        "Down -25.6% over 3 months \u2014 deep drawdown"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap",
-        "drawdown"
-      ],
-      "narrative": "<strong>TPL</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
-      "sector_etf": "XLE"
     },
     {
       "ticker": "AMD",
@@ -864,28 +832,30 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 24.26,
-      "change_pct": 2.8,
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 394.74,
+      "change_pct": -2.95,
       "score": 5.0,
       "signals": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
+        "Moved -2.95% \u2014 a 1.0\u03c3 move",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.3 (cheap on absolute basis)",
+        "Down -25.6% over 3 months \u2014 deep drawdown"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
+        "Moved -2.95% \u2014 a 1.0\u03c3 move",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.3 (cheap on absolute basis)",
+        "Down -25.6% over 3 months \u2014 deep drawdown"
       ],
       "tags": [
-        "news-flow",
-        "filing",
-        "insider-selling"
+        "insider-buying",
+        "cheap",
+        "drawdown"
       ],
-      "narrative": "<strong>OSCR</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLV"
+      "narrative": "<strong>TPL</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLE"
     },
     {
       "ticker": "NVDA",
@@ -910,6 +880,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>NVDA</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 24.26,
+      "change_pct": 2.8,
+      "score": 3.5,
+      "signals": [
+        "1 SEC filing in the last 7 days",
+        "10 insider sells vs 0 buys (last 90 days)"
+      ],
+      "reasons": [
+        "1 SEC filing in the last 7 days",
+        "10 insider sells vs 0 buys (last 90 days)"
+      ],
+      "tags": [
+        "filing",
+        "insider-selling"
+      ],
+      "narrative": "<strong>OSCR</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLV"
     }
   ],
   "sectors_radar": [

@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-07T23:37:03+00:00",
+  "generated_at": "2026-06-08T02:01:44+00:00",
   "by_date": {
     "2026-06-08": [
       {
@@ -1285,6 +1285,120 @@ window.theBriefEarnings = {
       {
         "ticker": "SBSAA",
         "date": "2026-06-18",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-06-22": [
+      {
+        "ticker": "BSFC",
+        "date": "2026-06-22",
+        "hour": "amc",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CARV",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CCL",
+        "date": "2026-06-22",
+        "hour": "bmo",
+        "eps_estimate": 0.3444,
+        "revenue_estimate": 6752367837,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CHI",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "EBF",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": 0.3939,
+        "revenue_estimate": 99182000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GELS",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GURE",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HLEO",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MDRX",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MGIH",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MMED",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MPU",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SEGG",
+        "date": "2026-06-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "THCH",
+        "date": "2026-06-22",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,

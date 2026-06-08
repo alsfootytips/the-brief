@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-07T23:37:03.223032+00:00",
+  "generated_at": "2026-06-08T02:01:44.609703+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,7 +27,7 @@ window.theBriefPicks = {
       "current_pct": 8.16,
       "change_pct_today": 2.8,
       "name": "Oscar Health",
-      "news_count": 3,
+      "news_count": 0,
       "days_elapsed": 22,
       "days_remaining": 34,
       "pick_type": "strategic",
@@ -100,8 +100,8 @@ window.theBriefPicks = {
       "change_pct_today": -4.26,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 26,
-      "days_remaining": 30,
+      "days_elapsed": 27,
+      "days_remaining": 29,
       "pick_type": "strategic"
     },
     {
@@ -166,8 +166,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.84,
       "name": "Energy Select Sector",
       "news_count": 3,
-      "days_elapsed": 26,
-      "days_remaining": 2,
+      "days_elapsed": 27,
+      "days_remaining": 1,
       "pick_type": "strategic"
     },
     {
@@ -503,7 +503,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.08,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 25,
+      "days_elapsed": 26,
       "days_remaining": null
     },
     {
@@ -536,7 +536,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.11,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 25,
+      "days_elapsed": 26,
       "days_remaining": null
     },
     {
@@ -569,7 +569,7 @@ window.theBriefPicks = {
       "change_pct_today": -5.51,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 25,
+      "days_elapsed": 26,
       "days_remaining": null
     },
     {
@@ -638,8 +638,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.27,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 20,
-      "days_remaining": 36
+      "days_elapsed": 21,
+      "days_remaining": 35
     },
     {
       "id": "2026-05-18-GLD",
@@ -671,8 +671,8 @@ window.theBriefPicks = {
       "change_pct_today": -3.49,
       "name": "GLD",
       "news_count": 0,
-      "days_elapsed": 20,
-      "days_remaining": 64
+      "days_elapsed": 21,
+      "days_remaining": 63
     }
   ],
   "summary": {
