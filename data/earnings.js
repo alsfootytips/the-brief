@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-08T07:05:10+00:00",
+  "generated_at": "2026-06-08T12:09:35+00:00",
   "by_date": {
     "2026-06-08": [
       {
@@ -165,7 +165,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OCC",
         "date": "2026-06-08",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -378,6 +378,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.051,
         "revenue_estimate": 123501600,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SUJA",
+        "date": "2026-06-09",
+        "hour": "",
+        "eps_estimate": 0.2176,
+        "revenue_estimate": 107916000,
         "is_watchlist": false
       },
       {
