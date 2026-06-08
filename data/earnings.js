@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-08T21:08:54+00:00",
+  "generated_at": "2026-06-08T22:51:26+00:00",
   "by_date": {
     "2026-06-08": [
       {
@@ -383,7 +383,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SUJA",
         "date": "2026-06-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2176,
         "revenue_estimate": 107916000,
         "is_watchlist": false
@@ -839,7 +839,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AIOT",
         "date": "2026-06-15",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0061,
         "revenue_estimate": 115320863,
         "is_watchlist": false
@@ -863,7 +863,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CODA",
         "date": "2026-06-15",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.1326,
         "revenue_estimate": 7667340,
         "is_watchlist": false
@@ -911,7 +911,7 @@ window.theBriefEarnings = {
       {
         "ticker": "JRSH",
         "date": "2026-06-15",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.0102,
         "revenue_estimate": 36924000,
         "is_watchlist": false
@@ -959,7 +959,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RFIL",
         "date": "2026-06-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0918,
         "revenue_estimate": 20059320,
         "is_watchlist": false
