@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-08T18:42:36+00:00",
+  "generated_at": "2026-06-08T21:08:54+00:00",
   "by_date": {
     "2026-06-08": [
       {
@@ -181,7 +181,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ODC",
         "date": "2026-06-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
