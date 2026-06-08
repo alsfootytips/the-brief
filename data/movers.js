@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-08T02:01:44.525647+00:00",
+  "generated_at": "2026-06-08T07:05:10.120758+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -104,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel was on the brink of downfall. A twist in the AI race could boost its revival\""
+      "move_reason": "News: \"SpaceX Like Other Big IPOs Have\u00a0 Disappointed Buyers, I'm Passing\""
     },
     {
       "ticker": "CRWV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Buy: Sandisk or Nvidia Stock?\""
+      "move_reason": "News: \"Will SpaceX Merge With Tesla? Here's What Prediction Markets Say.\""
     },
     {
       "ticker": "XLK",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why U.S. And International Dividend Strategies Are Working Again\""
+      "move_reason": "News: \"A Critical Week For The Markets Ahead\""
     },
     {
       "ticker": "APA",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel was on the brink of downfall. A twist in the AI race could boost its revival\""
+      "move_reason": "News: \"SpaceX Like Other Big IPOs Have\u00a0 Disappointed Buyers, I'm Passing\""
     },
     {
       "ticker": "APA",
@@ -308,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Turnaround Stories and Shorting Stocks\""
+      "move_reason": "News: \"Dollar General (DG) Price Target Decreased by% to 132.50\""
     },
     {
       "ticker": "GEV",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why U.S. And International Dividend Strategies Are Working Again\""
+      "move_reason": "News: \"A Critical Week For The Markets Ahead\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Buy: Sandisk or Nvidia Stock?\""
+      "move_reason": "News: \"Will SpaceX Merge With Tesla? Here's What Prediction Markets Say.\""
     },
     {
       "ticker": "OSCR",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"This Week's Market Wrap: AI Ups And Downs, Oil Roars Back, And Strong Data\""
+      "move_reason": "News: \"How Geopolitical Shifts Are Reshaping Metals Markets\""
     }
   ],
   "indices": [
