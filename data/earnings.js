@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-09T21:15:07+00:00",
+  "generated_at": "2026-06-09T22:54:01+00:00",
   "by_date": {
     "2026-06-09": [
       {
@@ -855,7 +855,7 @@ window.theBriefEarnings = {
       {
         "ticker": "WLY",
         "date": "2026-06-16",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 1.6665,
         "revenue_estimate": 454500000,
         "is_watchlist": false
