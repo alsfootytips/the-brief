@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-09T08:23:16+00:00",
+  "generated_at": "2026-06-09T11:39:46+00:00",
   "by_date": {
     "2026-06-09": [
       {
@@ -242,6 +242,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GLBS",
+        "date": "2026-06-10",
+        "hour": "",
+        "eps_estimate": -0.051,
+        "revenue_estimate": 10608000,
         "is_watchlist": false
       },
       {
@@ -566,14 +574,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GLBS",
-        "date": "2026-06-12",
-        "hour": "",
-        "eps_estimate": -0.051,
-        "revenue_estimate": 10608000,
         "is_watchlist": false
       },
       {
@@ -932,6 +932,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SB",
+        "date": "2026-06-17",
+        "hour": "",
+        "eps_estimate": 0.0927,
+        "revenue_estimate": 67877000,
         "is_watchlist": false
       },
       {
