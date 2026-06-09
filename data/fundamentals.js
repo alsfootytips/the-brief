@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-06-09T04:36:22.542660+00:00",
+  "generated_at": "2026-06-09T08:23:16.264348+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -20.54,
@@ -25,6 +25,18 @@ window.theBriefFundamentals = {
       "dividend_yield": null,
       "short_ratio": 1.75,
       "short_percent_of_float": 0.1714,
+      "analyst_recs": {
+        "strongBuy": 10,
+        "buy": 17,
+        "hold": 13,
+        "sell": 1,
+        "strongSell": 1,
+        "period": "2026-06-01"
+      },
+      "analyst_recs_change": {
+        "buy_delta": -1,
+        "sell_delta": 0
+      },
       "insider_recent_90d": {
         "buys": 0,
         "sells": 10,
@@ -166,7 +178,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -14.59,
       "return_52w_low": 120.38,
       "realized_vol_30d_pct": 3.07,
-      "trailing_pe": 8.539682,
+      "trailing_pe": 8.778555,
       "forward_pe": 8.8503275,
       "price_to_sales": 1.590215,
       "price_to_book": 2.061754,
@@ -250,7 +262,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -13.22,
       "return_52w_low": 48.39,
       "realized_vol_30d_pct": 2.57,
-      "trailing_pe": 76.64,
+      "trailing_pe": 77.675674,
       "forward_pe": 14.249767,
       "price_to_sales": 2.7071168,
       "price_to_book": 1.8591713,
@@ -342,7 +354,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -9.62,
       "return_52w_low": 322.12,
       "realized_vol_30d_pct": 5.7,
-      "trailing_pe": 156.15604,
+      "trailing_pe": 163.98996,
       "forward_pe": 37.496723,
       "price_to_sales": 21.34705,
       "price_to_book": 12.398664,
@@ -427,7 +439,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 12.35,
       "realized_vol_30d_pct": 2.51,
       "trailing_pe": 15.108911,
-      "forward_pe": 13.349763,
+      "forward_pe": 13.350347,
       "price_to_sales": 0.54701966,
       "price_to_book": 2.6645048,
       "enterprise_to_ebitda": 11.22,
@@ -468,7 +480,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -11.64,
       "return_52w_low": 99.13,
       "realized_vol_30d_pct": 3.73,
-      "trailing_pe": 95.042465,
+      "trailing_pe": 95.17284,
       "forward_pe": 42.150608,
       "price_to_sales": 3.4564824,
       "price_to_book": 11.510934,
