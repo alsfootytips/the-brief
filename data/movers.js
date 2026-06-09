@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-09T00:07:08.929695+00:00",
+  "generated_at": "2026-06-09T04:36:22.511493+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy AI Chip Stocks on the Dip? Words from Nvidia's Jensen Huang Offer an Answer...\""
+      "move_reason": "News: \"Mizuho Raises AMD Target, Citing Continued AI Infrastructure Growth\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+1.22% today)"
+      "move_reason": "News: \"Broader Market Settles Higher as Chipmakers Rally\""
     },
     {
       "ticker": "SOFI",
@@ -117,13 +117,13 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX, Anthropic, and OpenAI Will Have Gargantuan IPOs Soon. That's Rocket Fuel for This ...\""
+      "move_reason": "News: \"Forget the Big Chipmakers for a Minute: This Overlooked AI Stock Is Up 114% and Just Lande...\""
     },
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 58.38,
-      "change_pct": 1.22,
+      "price": 58.36,
+      "change_pct": 1.2,
       "volume_ratio": 0.87,
       "is_watchlist": true,
       "is_index": false,
@@ -134,26 +134,26 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 283.72,
-      "change_pct": 0.73,
+      "price": 283.68,
+      "change_pct": 0.72,
       "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mega IPOs Pose Leveraged Downside Risk For The Nasdaq 100\""
+      "move_reason": "News: \"ORR: Downgrading One Of Our Holdings After A Year In The Market\""
     },
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 57.21,
       "change_pct": 0.49,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer on Occidental Petroleum: \u201cIf the War Ends, That Stock\u2019s Going to Go Down\u201d\""
+      "move_reason": "News: \"Tracking Prem Watsa's Fairfax Financial Holdings Portfolio - Q1 2026 Update\""
     },
     {
       "ticker": "XLY",
@@ -169,9 +169,9 @@ window.theBriefMovers = {
     {
       "ticker": "KRE",
       "name": "KRE",
-      "price": 70.44,
-      "change_pct": 0.38,
-      "volume_ratio": 0.6,
+      "price": 70.37,
+      "change_pct": 0.29,
+      "volume_ratio": 0.62,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -254,7 +254,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 586.55,
       "change_pct": -1.09,
-      "volume_ratio": 0.87,
+      "volume_ratio": 0.85,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -282,18 +282,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "price": 691.9,
-      "change_pct": -0.46,
-      "volume_ratio": 0.86,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Sterling's Semiconductor Push: Is it the New Growth Engine?\""
     },
     {
       "ticker": "VUAG.L",
@@ -351,6 +339,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 932.0,
+      "change_pct": -0.17,
+      "volume_ratio": 0.81,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Is It Time To Reassess GE Vernova (GEV) After Its 95% One Year Share Price Surge\""
     }
   ],
   "watchlist": [
@@ -364,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy AI Chip Stocks on the Dip? Words from Nvidia's Jensen Huang Offer an Answer...\""
+      "move_reason": "News: \"Mizuho Raises AMD Target, Citing Continued AI Infrastructure Growth\""
     },
     {
       "ticker": "APA",
@@ -376,7 +376,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+1.22% today)"
+      "move_reason": "News: \"Broader Market Settles Higher as Chipmakers Rally\""
     },
     {
       "ticker": "CRWV",
@@ -412,19 +412,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova (GEV) Deepens its Commitment to India With a New Launch\""
+      "move_reason": "News: \"Is It Time To Reassess GE Vernova (GEV) After Its 95% One Year Share Price Surge\""
     },
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 283.72,
-      "change_pct": 0.73,
+      "price": 283.68,
+      "change_pct": 0.72,
       "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mega IPOs Pose Leveraged Downside Risk For The Nasdaq 100\""
+      "move_reason": "News: \"ORR: Downgrading One Of Our Holdings After A Year In The Market\""
     },
     {
       "ticker": "NBIS",
@@ -448,7 +448,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX, Anthropic, and OpenAI Will Have Gargantuan IPOs Soon. That's Rocket Fuel for This ...\""
+      "move_reason": "News: \"Forget the Big Chipmakers for a Minute: This Overlooked AI Stock Is Up 114% and Just Lande...\""
     },
     {
       "ticker": "OSCR",
@@ -467,18 +467,18 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 57.21,
       "change_pct": 0.49,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer on Occidental Petroleum: \u201cIf the War Ends, That Stock\u2019s Going to Go Down\u201d\""
+      "move_reason": "News: \"Tracking Prem Watsa's Fairfax Financial Holdings Portfolio - Q1 2026 Update\""
     },
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 691.9,
-      "change_pct": -0.46,
+      "price": 695.0,
+      "change_pct": -0.02,
       "volume_ratio": 0.86,
       "is_watchlist": true,
       "is_index": false,
@@ -513,8 +513,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 58.38,
-      "change_pct": 1.22,
+      "price": 58.36,
+      "change_pct": 1.2,
       "volume_ratio": 0.87,
       "is_watchlist": true,
       "is_index": false,
@@ -529,7 +529,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 508.91,
       "change_pct": -0.15,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -537,8 +537,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 283.72,
-      "change_pct": 0.73,
+      "price": 283.68,
+      "change_pct": 0.72,
       "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": true,
@@ -580,8 +580,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 58.38,
-      "change_pct": 1.22,
+      "price": 58.36,
+      "change_pct": 1.2,
       "volume_ratio": 0.87,
       "is_watchlist": true,
       "is_index": false,
@@ -713,30 +713,6 @@ window.theBriefMovers = {
       "sector_etf": "XLP"
     },
     {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 27.66,
-      "change_pct": 12.85,
-      "score": 6.0,
-      "signals": [
-        "Moved +12.85% \u2014 a 2.5\u03c3 move vs typical 5.2% daily vol",
-        "2 SEC filings in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "reasons": [
-        "Moved +12.85% \u2014 a 2.5\u03c3 move vs typical 5.2% daily vol",
-        "2 SEC filings in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "tags": [
-        "moderate-move",
-        "filing",
-        "insider-selling"
-      ],
-      "narrative": "<strong>OSCR</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLV"
-    },
-    {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 19.44,
@@ -765,6 +741,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TTD</strong> has been beaten down hard and now trades at a low valuation \u2014 value setup.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 27.66,
+      "change_pct": 12.85,
+      "score": 5.0,
+      "signals": [
+        "Moved +12.85% \u2014 a 2.5\u03c3 move vs typical 5.2% daily vol",
+        "2 SEC filings in the last 7 days"
+      ],
+      "reasons": [
+        "Moved +12.85% \u2014 a 2.5\u03c3 move vs typical 5.2% daily vol",
+        "2 SEC filings in the last 7 days"
+      ],
+      "tags": [
+        "moderate-move",
+        "filing"
+      ],
+      "narrative": "<strong>OSCR</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLV"
     },
     {
       "ticker": "GEV",
@@ -797,12 +794,12 @@ window.theBriefMovers = {
       "change_pct": 2.6,
       "score": 4.5,
       "signals": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 8.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 8.9 (cheap on absolute basis)"
       ],
@@ -949,8 +946,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 1.22,
-      "price": 58.38,
+      "change_pct": 1.2,
+      "price": 58.36,
       "watchlist_members": [
         "APA",
         "TPL",
