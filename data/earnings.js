@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-10T08:50:05+00:00",
+  "generated_at": "2026-06-10T12:22:18+00:00",
   "by_date": {
     "2026-06-10": [
       {
@@ -61,7 +61,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GLBS",
         "date": "2026-06-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.051,
         "revenue_estimate": 10608000,
         "is_watchlist": false
@@ -446,6 +446,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0052,
         "revenue_estimate": 60283147840,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DOMO",
+        "date": "2026-06-15",
+        "hour": "amc",
+        "eps_estimate": -0.0673,
+        "revenue_estimate": 81342276,
         "is_watchlist": false
       },
       {
