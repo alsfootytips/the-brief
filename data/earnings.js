@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-10T21:29:05+00:00",
+  "generated_at": "2026-06-10T23:13:32+00:00",
   "by_date": {
     "2026-06-10": [
       {
@@ -735,7 +735,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KMX",
         "date": "2026-06-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.9357,
         "revenue_estimate": 7461204077,
         "is_watchlist": false
@@ -759,7 +759,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SB",
         "date": "2026-06-17",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0927,
         "revenue_estimate": 67877000,
         "is_watchlist": false
@@ -767,7 +767,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SWBI",
         "date": "2026-06-17",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2295,
         "revenue_estimate": 158374890,
         "is_watchlist": false
