@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-10T00:15:14.888480+00:00",
+  "generated_at": "2026-06-10T04:52:26.394374+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
