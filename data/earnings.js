@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-11T06:29:00+00:00",
+  "generated_at": "2026-06-11T11:12:48+00:00",
   "by_date": {
     "2026-06-11": [
       {
@@ -889,6 +889,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "KBH",
+        "date": "2026-06-23",
+        "hour": "amc",
+        "eps_estimate": 0.4504,
+        "revenue_estimate": 1107932630,
+        "is_watchlist": false
+      },
+      {
         "ticker": "LOT",
         "date": "2026-06-23",
         "hour": "",
@@ -995,19 +1003,19 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "FUL",
+        "date": "2026-06-24",
+        "hour": "",
+        "eps_estimate": 1.3906,
+        "revenue_estimate": 932864997,
+        "is_watchlist": false
+      },
+      {
         "ticker": "IXAQF",
         "date": "2026-06-24",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KBH",
-        "date": "2026-06-24",
-        "hour": "amc",
-        "eps_estimate": 0.4504,
-        "revenue_estimate": 1107932630,
         "is_watchlist": false
       },
       {
@@ -1035,11 +1043,27 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "MNY",
+        "date": "2026-06-24",
+        "hour": "",
+        "eps_estimate": -0.0606,
+        "revenue_estimate": 16336750,
+        "is_watchlist": false
+      },
+      {
         "ticker": "MU",
         "date": "2026-06-24",
         "hour": "amc",
         "eps_estimate": 20.1026,
         "revenue_estimate": 35156580173,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NG",
+        "date": "2026-06-24",
+        "hour": "",
+        "eps_estimate": -0.0499,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -1064,6 +1088,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PAYX",
+        "date": "2026-06-24",
+        "hour": "amc",
+        "eps_estimate": 1.3322,
+        "revenue_estimate": 1633476388,
         "is_watchlist": false
       },
       {
