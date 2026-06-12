@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-12T05:04:18+00:00",
+  "generated_at": "2026-06-12T09:13:18+00:00",
   "by_date": {
     "2026-06-12": [
       {
@@ -679,6 +679,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "KEQU",
+        "date": "2026-06-23",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "LOT",
         "date": "2026-06-23",
         "hour": "",
@@ -774,6 +782,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DAKT",
+        "date": "2026-06-24",
+        "hour": "",
+        "eps_estimate": 0.153,
+        "revenue_estimate": 205020000,
         "is_watchlist": false
       },
       {
@@ -1040,6 +1056,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NNOX",
+        "date": "2026-06-25",
+        "hour": "",
+        "eps_estimate": -0.204,
+        "revenue_estimate": 4615500,
         "is_watchlist": false
       },
       {
