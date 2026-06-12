@@ -1,224 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-11T22:31:06+00:00",
+  "generated_at": "2026-06-12T00:07:58+00:00",
   "by_date": {
-    "2026-06-11": [
-      {
-        "ticker": "ADBE",
-        "date": "2026-06-11",
-        "hour": "amc",
-        "eps_estimate": 5.9385,
-        "revenue_estimate": 6584794456,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AUSI",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BTOC",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CLEV",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CRCW",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CRWS",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GTEN",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HITC",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HMMR",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HOFT",
-        "date": "2026-06-11",
-        "hour": "bmo",
-        "eps_estimate": -0.0408,
-        "revenue_estimate": 67638750,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JVA",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LBSR",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LEN",
-        "date": "2026-06-11",
-        "hour": "amc",
-        "eps_estimate": 1.261,
-        "revenue_estimate": 8098485646,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LOVE",
-        "date": "2026-06-11",
-        "hour": "bmo",
-        "eps_estimate": -1.0183,
-        "revenue_estimate": 140103803,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MCRAA",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MH",
-        "date": "2026-06-11",
-        "hour": "bmo",
-        "eps_estimate": 0.1743,
-        "revenue_estimate": 453131834,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NATH",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NIMU",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NIMU",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "OLOX",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PPIH",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": 0.4896,
-        "revenue_estimate": 55080000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PPIH",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SKKY",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SVIN",
-        "date": "2026-06-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "VRA",
-        "date": "2026-06-11",
-        "hour": "bmo",
-        "eps_estimate": -0.3333,
-        "revenue_estimate": 49607160,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "WTER",
-        "date": "2026-06-11",
-        "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ZDGE",
-        "date": "2026-06-11",
-        "hour": "amc",
-        "eps_estimate": 0.051,
-        "revenue_estimate": 7148160,
-        "is_watchlist": false
-      }
-    ],
     "2026-06-12": [
       {
         "ticker": "FRHC",
@@ -679,7 +461,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KR",
         "date": "2026-06-18",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.637,
         "revenue_estimate": 46781307865,
         "is_watchlist": false
@@ -1327,6 +1109,40 @@ window.theBriefEarnings = {
       {
         "ticker": "XITO",
         "date": "2026-06-25",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-06-26": [
+      {
+        "ticker": "AIRT",
+        "date": "2026-06-26",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "APOG",
+        "date": "2026-06-26",
+        "hour": "",
+        "eps_estimate": 0.4556,
+        "revenue_estimate": 340516116,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CPZ",
+        "date": "2026-06-26",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NBXG",
+        "date": "2026-06-26",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
