@@ -1,14 +1,26 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-12T22:08:36.622890+00:00",
+  "generated_at": "2026-06-12T23:51:30.175209+00:00",
   "events": [
+    {
+      "type": "mover",
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "change_pct": 3.43,
+      "price": 382.24,
+      "is_watchlist": true,
+      "timestamp": "2026-06-12T23:51:30.172365+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
     {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": 3.82,
-      "price": 709.37,
+      "change_pct": 3.91,
+      "price": 710.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-12T22:08:36.620024+00:00",
+      "timestamp": "2026-06-12T23:51:30.172362+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 5.68,
-      "price": 234.86,
+      "change_pct": 6.08,
+      "price": 235.75,
       "is_watchlist": true,
-      "timestamp": "2026-06-12T22:08:36.620020+00:00",
+      "timestamp": "2026-06-12T23:51:30.172359+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +41,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 3.85,
-      "price": 941.71,
+      "change_pct": 3.91,
+      "price": 942.26,
       "is_watchlist": true,
-      "timestamp": "2026-06-12T22:08:36.620011+00:00",
+      "timestamp": "2026-06-12T23:51:30.172350+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,10 +53,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 5.76,
-      "price": 101.25,
+      "change_pct": 6.54,
+      "price": 102.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-12T22:08:36.620006+00:00",
+      "timestamp": "2026-06-12T23:51:30.172346+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -53,13 +65,256 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 5.03,
-      "price": 513.0,
+      "change_pct": 5.52,
+      "price": 515.4,
       "is_watchlist": true,
-      "timestamp": "2026-06-12T22:08:36.619997+00:00",
+      "timestamp": "2026-06-12T23:51:30.172338+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump name must be removed from Kennedy Center by Friday night as appeals court rejects delay",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/12/trump-loses-kennedy-center-name.html",
+      "is_watchlist": true,
+      "timestamp": "2026-06-12T23:49:23+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tri-County Financial Group announces resignation of board member Matthew Faber",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/tricounty-financial-group-announces-resignation-of-board-member-matthew-faber-93CH-4740781",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:46:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Falcon\u2019s Beyond Global elects directors and ratifies auditor at annual meeting",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/falcons-beyond-global-elects-directors-and-ratifies-auditor-at-annual-meeting-93CH-4740780",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:41:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 TKO Group Holdings Inc For: 12 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-tko-group-holdings-inc-for-12-june-93CH-4740779",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:39:15+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Adagio Medical receives Nasdaq notice for minimum bid price non-compliance",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/adagio-medical-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4740778",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:36:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI under investigation by coalition of state attorneys general, WSJ reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/openai-under-investigation-by-coalition-of-state-attorneys-general-wsj-reports-4740777",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:36:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US EPA sends California emissions rules to Congress for potential reversal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-epa-sends-california-emissions-rules-to-congress-for-potential-reversal-4740231",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:36:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft EVP Takeshi Numoto sells $1.81m in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/microsoft-evp-takeshi-numoto-sells-181m-in-common-stock-93CH-4740776",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:35:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Slide Insurance Holdings Inc For: 12 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-slide-insurance-holdings-inc-for-12-june-93CH-4740775",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:35:54+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount's $110B purchase of Warner Bros. approved by DOJ (update)",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603075-warner-bros-gain-on-report-doj-approves-111b-sale-to-paramount-skydance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:34:35+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount-Warner Brothers merger gets Justice Department approval",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:24:40+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US deports Iranian pro-democracy activist to Central African Republic, lawyer says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSE9sR1B6Q0ZSajJMbEhkUzU0N01OWlpQS1JxZFZfTU9jbG5yQ1A1dnc4UXJwTUc4cE56NjRzZkdySWM3a0liY3Y1U2M3eThpSjNYYjNiSV8wc1d4LUJwMU5tNFJBby1yU1FvS1E5Sk4zM1l2T1Q1a2h1R3pLUkZUYlFrMWUzYzJHbjh1ZzZNS2JMRU1DOFF2dkUwSldYRkhmYzUyVkk5OXpISjgzZDBrUEQxejhxRl90VC1QZWVvOW00OENGbkE?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-12T23:18:31+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street ends higher as SpaceX's market debut dominates - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXNKNzNQRjdTSU90RjJ6d0JSM1FNVHRUQ1Q3VTM1VTlRSWZfVkoxcU9DRzQxRkE5R2JNdk9QelpoS3RoS29rNGVJTzNpWnVydDdweHhlcEVpd2hWNFVKcV9JUWNpODNzdGVSVlRTUVNKenhMdWpIZGd2RlRwWlBSNS1lWkNfRkRUdFBlUzNYemNtclNFcTdRR2Q4eWMyaERXV3dLc1VMQWQwdVAyUzVvNQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T23:01:47+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This hidden investing flaw is costing you money. Talking to political opponents fixes it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-hidden-investing-flaw-is-costing-you-money-talking-to-political-opponents-fixes-it-fc1f7be3?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:59:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "There\u2019s a 68% chance the stock market ends the year higher. Why the headlines shouldn\u2019t disrupt your portfolio.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:58:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clarity Act by July 4 paints \u201cgreen forest\u201d for Bitcoin\u2014but are bears still patrolling?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603093-clarity-act-by-july-4-paints-green-forest-for-bitcoin-but-are-bears-still-patrolling?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:56:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount-WBD merger wins approval from DOJ",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:54:06+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018This is not a flash in the pan\u2019: Why value stocks are beating growth by such a wide margin",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-is-not-a-flash-in-the-pan-why-value-stocks-are-beating-growth-by-such-a-wide-margin-b2bddccc?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exclusive: UAE to unlock billions of dollars for Iran, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU8xSkdDSVRGOXhzQTVoemlTUi1GaFEyMzFNSUFXdGdQd21pbUNENTdfX01KaGFXdGQ5RklfMVNiSDlBRzRvb0xZVkU1dVd6Q0NTakI1WmxVaXZMMlVtUHVEZ2I1d3NkbExTQXU4RlRSQVhueHE0RU9sbTg5VjJWU0VwUjRMeGJtRmhXbzBQM013T3p4Y05JU2JnZkt1d0k?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:40:05+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corteva sees higher restructuring charges, plans to cease production at Spanish site",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603095-corteva-sees-higher-restructuring-charges-plans-to-cease-production-at-spanish-site?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:34:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T22:29:12+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -121,58 +376,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Paramount-WBD merger wins approval from DOJ",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:51:52+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
       "is_watchlist": false,
       "timestamp": "2026-06-12T21:48:59+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Justice Department clears Paramount\u2019s acquisition of Warner Bros, Politico reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-justice-department-approves-paramounts-acquisition-of-warner-bros-politico-reports-4740410",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:48:23+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SailPoint announces board resignation and new director appointment",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/sailpoint-announces-board-resignation-and-new-director-appointment-93CH-4740665",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:48:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 PTC Therapeutics Inc For: 12 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-ptc-therapeutics-inc-for-12-june-93CH-4740664",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:44:03+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -189,67 +398,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Robo.ai Inc. amends note purchase agreement, issues $2 million convertible note",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/roboai-inc-amends-note-purchase-agreement-issues-2-million-convertible-note-93CH-4740663",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:43:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 BJS RESTAURANTS For: 12 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-bjs-restaurants-for-12-june-93CH-4740662",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:42:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 Viant Technology Inc. For: 12 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-viant-technology-inc-for-12-june-93CH-4740661",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:42:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Compass Inc For: 12 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-compass-inc-for-12-june-93CH-4740659",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:40:56+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 P3 Health Partners Inc For: 12 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-p3-health-partners-inc-for-12-june-93CH-4740658",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:40:47+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Inside Lockheed Martin's $2.293B win: F-35 jet long-term sustainment contract",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4603092-inside-lockheed-martins-2293b-win-f-35-jet-long-term-sustainment-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-12T21:39:04+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran team chief slams FIFA\u2019s 'lack of coordination' on visa issues - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHRxMTh1ODhKYUFzZk5Gd1dWY1IxSVpCTm1Oa1BybHMwbFA4S0xXWUhvbzZMMm54YjFScjdiZ0xMSjY0TFlYMXE3aEl6czdrWVdYN05YdnA0MEpPc0d5NnlvaEl5UDJZVW5KNUY1SFNERUxZbm1SYjdsQWJZbm5YUU1mWDZ5TklhNWJtU1lRQ2RCQjlwOXFrVHdwNTJabnJxVXhOdGlXZ0VoNVk?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T21:37:49+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -312,17 +477,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Binance 'bStocks' twist: Trade these U.S. stocks like crypto; 24/7 access coming",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603071-binance-bstocks-twist-trade-these-us-stocks-like-crypto-24-7-access-coming?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T21:07:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Dow Jones Futures: Market Has Wild Week, 5 Stocks In Buy Areas; SpaceX's Next Test",
       "source": "Yahoo",
@@ -347,57 +501,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bluerock Homes Trust declares $0.125 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603090-bluerock-homes-trust-declares-0_125-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T20:59:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street ends up on Iran war peace deal hopes, SpaceX's historic debut - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXNKNzNQRjdTSU90RjJ6d0JSM1FNVHRUQ1Q3VTM1VTlRSWZfVkoxcU9DRzQxRkE5R2JNdk9QelpoS3RoS29rNGVJTzNpWnVydDdweHhlcEVpd2hWNFVKcV9JUWNpODNzdGVSVlRTUVNKenhMdWpIZGd2RlRwWlBSNS1lWkNfRkRUdFBlUzNYemNtclNFcTdRR2Q4eWMyaERXV3dLc1VMQWQwdVAyUzVvNQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T20:59:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Trade Desk, Publicis settle dispute over DSP fees",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603083-the-trade-desk-publicis-settle-dispute-over-dsp-fees?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T20:55:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SpaceX 'proxies' plunge as real deal arrives: Here's where traders are buying the dip",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/06/12/spacex-proxies-crash-as-real-deal-arrives-heres-where-traders-are-buying-the-dip.html",
       "is_watchlist": false,
       "timestamp": "2026-06-12T20:43:50+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T20:42:19+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -460,17 +569,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is it too late to buy SpaceX\u2019s stock? Here\u2019s how Tesla\u2019s did after one day \u2014 and five years.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-it-too-late-to-buy-spacexs-stock-heres-how-teslas-did-after-one-day-and-five-years-9c7564d3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T20:06:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "UK vows to phase out Russian diesel and jet fuel imports by new year",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
@@ -480,37 +578,20 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T19:56:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brent falls to lowest since March on expected peace deal - Reuters",
+      "headline": "Since March, Trump has repeatedly said the Iran war will end soon - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T19:53:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adobe\u2019s CFO is departing for Marvell. And it\u2019s one more reason for investors to choose chips over software.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/adobes-cfo-is-departing-for-marvell-and-its-one-more-reason-for-investors-to-choose-chips-over-software-336b9e16?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T19:51:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXdqTDl6UFBIS2llelo4cy1oak03OGhGUm1aeXUwRkRoS1FjNFl2RDlrZWhTOEhYVWh2OEdOWmNiRzRDQmloQmlBOHZhallUQlA5aDdueDdEZ1BWdlVVeTg5VFJXZTd0cTRLYWt3UGEyS3daMEMzS1RhcFQzQ2dMTWFtdUFtU28zeF9KVk45TWpNemMyTzZ0Wkt6bEx6TURMQWc1UA?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-12T19:50:26+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -521,17 +602,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-12T19:43:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran team chief slams FIFA\u2019s 'lack of coordination' on visa issues - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHRxMTh1ODhKYUFzZk5Gd1dWY1IxSVpCTm1Oa1BybHMwbFA4S0xXWUhvbzZMMm54YjFScjdiZ0xMSjY0TFlYMXE3aEl6czdrWVdYN05YdnA0MEpPc0d5NnlvaEl5UDJZVW5KNUY1SFNERUxZbm1SYjdsQWJZbm5YUU1mWDZ5TklhNWJtU1lRQ2RCQjlwOXFrVHdwNTJabnJxVXhOdGlXZ0VoNVk?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T19:41:44+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -607,17 +677,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive: UAE to unlock billions of dollars for Iran, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU8xSkdDSVRGOXhzQTVoemlTUi1GaFEyMzFNSUFXdGdQd21pbUNENTdfX01KaGFXdGQ5RklfMVNiSDlBRzRvb0xZVkU1dVd6Q0NTakI1WmxVaXZMMlVtUHVEZ2I1d3NkbExTQXU4RlRSQVhueHE0RU9sbTg5VjJWU0VwUjRMeGJtRmhXbzBQM013T3p4Y05JU2JnZkt1d0k?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T18:12:43+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -699,22 +758,6 @@ window.theBriefLive = {
       "is_watchlist": true,
       "timestamp": "2026-06-12T16:27:45+00:00",
       "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran's leaked deal terms are untrue - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVNLdko5VzdSeXBlazJGaW0wQk8wMjFsT210VFB4OUdhd3ZpWTdocDllY2RwR1hWdlhoYzRZYkQ5OFc4TUE4WWJmN0ZrRlIyVllaeFBZMGwtdk52TU1wdkhFckd0cEFRVDBqalN3T2FhanpySWJWRzBTZmNCeHpHbk5FX1lsd09abWJBamVpVnFhMUxIWVpobjdiWHhOZWtW?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-12T16:15:52+00:00",
-      "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
@@ -1149,6 +1192,50 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Corn Losses Holding on Thursday as USDA Hikes South American Production",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-losses-holding-thursday-usda-164717769.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-11T16:47:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A Florida man is selling his $2.6 million home \u2014 and will accept OpenAI, Anthropic or SpaceX stock as payment",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/florida-man-selling-2-6-164500038.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-11T16:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX IPO Priced At $135 Per Share As Stampede Of Demand Builds",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/spacex-ipo-spcx-stock-oversubscribed/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-06-11T16:44:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The SpaceX IPO Is the Investor Subject of the Week. We Tackled Three of the Biggest Questions for Investors.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-investor-subject-week-163640465.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-11T16:36:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
@@ -1158,6 +1245,28 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BlackRock seeks to buy at least $5 billion in SpaceX IPO shares, WSJ reports",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-seeks-buy-least-5-163159771.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-11T16:31:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GM Stock Alert: What to Know as General Motors Announces Energy Storage Pivot",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/gm-stock-alert-know-general-163116797.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-11T16:31:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1173,66 +1282,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Murphy USA (MUSA) Surged Along with a Spike in Fuel Prices",
+      "headline": "Dollar Strength Undercuts Sugar Prices",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/murphy-usa-musa-surged-along-145013960.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/dollar-strength-undercuts-sugar-prices-162112552.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-11T14:50:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Inflation Hasn't Been This High Since 2023. Could Gold Be Due to Rise Higher This Year?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/inflation-hasnt-high-since-2023-145000009.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-11T14:50:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar General Stock: Is DG Underperforming the Consumer Defensive Sector?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-stock-dg-underperforming-144934090.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-11T14:49:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As the U.S. Dollar Stands Strong, Sell the Canadian Dollar Here",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/u-dollar-stands-strong-sell-144555094.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-11T14:45:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cathie Wood Is Buying the Dip in Broadcom Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-dip-broadcom-144502640.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-11T14:45:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Truckload carriers eyeing multiyear rate upcycle",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/truckload-carriers-eyeing-multiyear-rate-144238454.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-11T14:42:38+00:00",
+      "timestamp": "2026-06-11T16:21:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1298,17 +1352,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "SpaceX blasts off with a record-breaking $75 billion IPO",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
-      "is_watchlist": false,
-      "timestamp": "2026-06-11T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OSCR",
       "headline": "Barclays Upgrades Oscar Health (OSCR)",
       "source": "Fintel",
@@ -1330,17 +1373,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FBI seizing evidence at California plant where chemical tank overheated",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/06/10/g-s1-127381/fbi-garden-grove-chemical-tank-evacuations",
-      "is_watchlist": false,
-      "timestamp": "2026-06-10T23:05:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1412,21 +1444,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Tech stocks today: Chip stocks pull back, Trump says he's meeting with AI executives",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-pull-back-trump-says-hes-meeting-with-ai-executives-120420030.html",
-      "is_watchlist": true,
-      "timestamp": "2026-06-08T12:04:20+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "filing",
