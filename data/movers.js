@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T14:27:16.396770+00:00",
+  "generated_at": "2026-06-13T16:00:19.617847+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Moved Markets This Week\""
+      "move_reason": "News: \"Nebius: Addressing The Current AI Constraints As It Grows\""
     },
     {
       "ticker": "AMD",
@@ -322,7 +322,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Moved Markets This Week\""
+      "move_reason": "News: \"Nebius: Addressing The Current AI Constraints As It Grows\""
     },
     {
       "ticker": "NVDA",
