@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-13T20:20:49.699756+00:00",
+  "generated_at": "2026-06-13T21:46:26.981979+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.43,
       "price": 382.24,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T20:20:49.696861+00:00",
+      "timestamp": "2026-06-13T21:46:26.978896+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.76,
       "price": 709.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T20:20:49.696858+00:00",
+      "timestamp": "2026-06-13T21:46:26.978893+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 6.12,
       "price": 235.84,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T20:20:49.696855+00:00",
+      "timestamp": "2026-06-13T21:46:26.978889+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": 3.95,
       "price": 942.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T20:20:49.696845+00:00",
+      "timestamp": "2026-06-13T21:46:26.978879+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 6.8,
       "price": 102.25,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T20:20:49.696841+00:00",
+      "timestamp": "2026-06-13T21:46:26.978875+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,10 +68,120 @@ window.theBriefLive = {
       "change_pct": 5.41,
       "price": 514.87,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T20:20:49.696833+00:00",
+      "timestamp": "2026-06-13T21:46:26.978866+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4741045",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/70-old-couple-1-8m-210505868.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T21:05:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-205647025.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:56:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Celestica Inc. (CLS) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-good-stock-205626381.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:56:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is DLocal Limited (DLO) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-good-stock-205611908.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:56:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Harrow, Inc. (HROW) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/harrow-inc-hrow-good-stock-205557543.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:55:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-inc-adbe-good-stock-205543314.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:55:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-solutions-inc-br-205530356.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:55:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: Space stocks sold off on Friday; should you buy the dip?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603117-sa-asks-space-stocks-sold-off-on-friday-should-you-buy-the-dip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:50:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mexico investigates murder of mayor of town in Oaxaca state",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/mexico-investigates-murder-of-mayor-of-town-in-oaxaca-state-4741044",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T20:36:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -118,17 +228,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "64-Year-Old Tech Exec Holds $1.6 Million in One Stock. The Wrong Move Could Cost $400,000.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/64-old-tech-exec-holds-194408312.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:44:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
       "source": "Yahoo",
@@ -150,72 +249,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stantec (STN), Jacobs (J) Win Melbourne Water Infrastructure Program Contract",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stantec-stn-jacobs-j-win-193527047.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:35:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AECOM (ACM) Secures US DHS Nationwide Infrastructure Modernization Contract",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aecom-acm-secures-us-dhs-193520688.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:35:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Ensign Group (ENSG) Acquires Iowa Skilled Nursing Facility and Real Estate",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/ensign-group-ensg-acquires-iowa-193514480.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:35:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MP Materials (MP): 10 Most Promising Mid-Cap Stocks to Buy According to Analysts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-mp-10-most-193508036.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:35:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jack Henry & Associates (JKHY) Expands Stock Buyback Authorization by 5M Shares",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-associates-jkhy-expands-193501034.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:35:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here is Why Viasat (VSAT) is One of the Most Promising Mid-Cap Stocks to Buy According to Analysts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-viasat-vsat-one-most-193454847.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:34:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -395,22 +428,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says deal to end war will be signed on Sunday, Iran questions timing - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T18:49:11+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "SA Asks: Is Oracle a buy after the sell-off? (Update)",
@@ -479,13 +496,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran disputes claims of an imminent U.S. peace deal",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603110-iran-disputes-claims-an-imminent-peace-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "UK's Starmer, Trump discuss efforts to end Iran conflict - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWk5VjRaVlZrNXBaVWF1TGpXZ04zQnhyLTNYNkhORTJkYjhMSVhRUS1ndW9sTmRJZ2VxR1phNjA2QS1ic0o3QnE5RHRNMXRTaUktYkctYzhWRkg3Zy02WTRxTFdjV3Axb185ZDdfeDlxZWhFU3Z5MUNQSE9XVERuVTZOazVtc0VIWjd3d2czM1pHREJ3Z1BtT3RoYXZZUXBaQ0NqQWxNVEM?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-13T17:20:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "timestamp": "2026-06-13T17:15:43+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -541,17 +559,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Morgan Stanley sees limited evidence of reshoring after one year of tariffs",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-limited-evidence-of-reshoring-after-one-year-of-tariffs-4741039",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T16:22:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html",
@@ -571,17 +578,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin rebounds above $64,000 as Iran optimism boosts risk appetite",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-63000-as-iran-optimism-boosts-risk-appetite-4741010",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T15:21:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -833,6 +829,22 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says deal to end war will be signed on Sunday, Iran questions timing - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T01:33:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Kennedy Center removes Trump's name from the building",
@@ -869,21 +881,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US deports Iranian pro-democracy activist to Central African Republic, lawyer says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSE9sR1B6Q0ZSajJMbEhkUzU0N01OWlpQS1JxZFZfTU9jbG5yQ1A1dnc4UXJwTUc4cE56NjRzZkdySWM3a0liY3Y1U2M3eThpSjNYYjNiSV8wc1d4LUJwMU5tNFJBby1yU1FvS1E5Sk4zM1l2T1Q1a2h1R3pLUkZUYlFrMWUzYzJHbjh1ZzZNS2JMRU1DOFF2dkUwSldYRkhmYzUyVkk5OXpISjgzZDBrUEQxejhxRl90VC1QZWVvOW00OENGbkE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-12T23:18:31+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",

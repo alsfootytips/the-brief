@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-13T20:20:49+00:00",
+  "generated_at": "2026-06-13T21:46:26+00:00",
   "by_date": {
     "2026-06-15": [
       {
@@ -640,16 +640,16 @@ window.theBriefEarnings = {
         "ticker": "GRCE",
         "date": "2026-06-23",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.2346,
+        "revenue_estimate": 0,
         "is_watchlist": false
       },
       {
         "ticker": "GRCE",
         "date": "2026-06-23",
         "hour": "",
-        "eps_estimate": -0.2346,
-        "revenue_estimate": 0,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
