@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T18:57:44.813766+00:00",
+  "generated_at": "2026-06-13T20:20:49.695033+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?\""
+      "move_reason": "News: \"Citi resets AMD stock price target on key move\""
     },
     {
       "ticker": "GEV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: The Next Test For Market \u2014 And SpaceX; Five Stocks In Buy Areas\""
+      "move_reason": "News: \"Dow Jones Futures: Trump Says Iran Deal 'Signed' Sunday; SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?\""
+      "move_reason": "News: \"Citi resets AMD stock price target on key move\""
     },
     {
       "ticker": "APA",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nu Holdings Is Quietly Building a Banking Empire in Latin America\""
+      "move_reason": "News: \"Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?\""
     },
     {
       "ticker": "OSCR",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: The Next Test For Market \u2014 And SpaceX; Five Stocks In Buy Areas\""
+      "move_reason": "News: \"Dow Jones Futures: Trump Says Iran Deal 'Signed' Sunday; SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
