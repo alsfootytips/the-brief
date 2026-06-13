@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-13T21:46:26.981979+00:00",
+  "generated_at": "2026-06-13T23:05:40.061423+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.43,
       "price": 382.24,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T21:46:26.978896+00:00",
+      "timestamp": "2026-06-13T23:05:40.058563+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.76,
       "price": 709.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T21:46:26.978893+00:00",
+      "timestamp": "2026-06-13T23:05:40.058560+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 6.12,
       "price": 235.84,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T21:46:26.978889+00:00",
+      "timestamp": "2026-06-13T23:05:40.058556+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": 3.95,
       "price": 942.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T21:46:26.978879+00:00",
+      "timestamp": "2026-06-13T23:05:40.058547+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 6.8,
       "price": 102.25,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T21:46:26.978875+00:00",
+      "timestamp": "2026-06-13T23:05:40.058542+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,10 +68,67 @@ window.theBriefLive = {
       "change_pct": 5.41,
       "price": 514.87,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T21:46:26.978866+00:00",
+      "timestamp": "2026-06-13T23:05:40.058533+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood sells $16.2 million of tumbling megacap stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-16-2-224614174.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T22:46:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How AI started turning memory into a structural bottleneck",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/how-ai-started-turning-memory-into-a-structural-bottleneck-4741048",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T22:41:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Beating the heat no problem for World Cup fans in sweltering Houston",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/soccerbeating-the-heat-no-problem-for-world-cup-fans-in-sweltering-houston-4741046",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T21:48:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52c15eed3b45965efa0a65ac309341587be7e1d1e8ba69dbd7dd6cd462ded1f3",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T21:47:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "U.S. Interest Expense Just Hit $1.6 Trillion Annually. Peter Schiff Warns a Dollar Crisis Arrives When It Hits $2 Trillion.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38e5fcf5847619c4ed0459bf3103ad834b3b6578d02047c92151b89ec4ce4aba",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T21:32:46+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -87,12 +144,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make",
+      "headline": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/70-old-couple-1-8m-210505868.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-13T21:05:05+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-06-13T21:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -153,17 +210,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-solutions-inc-br-205530356.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T20:55:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: Space stocks sold off on Friday; should you buy the dip?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4603117-sa-asks-space-stocks-sold-off-on-friday-should-you-buy-the-dip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -182,6 +228,18 @@ window.theBriefLive = {
       "timestamp": "2026-06-13T20:36:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8af540a1b63ae29e4b6bc2b46055ea6fb311a1d71bc75ed6966eacb1a0119be4",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T20:24:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -228,18 +286,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f1bf7aa88888fa7f14395884864c56776c7caaf53591559f46d695a1c407f7b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T19:41:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Citi resets AMD stock price target on key move",
       "source": "Yahoo",
@@ -248,30 +294,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-13T19:38:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=965d67564bc8375d925345b42c276bd313dc32ea0711c583637db28289183493",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T19:25:21+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Wall Street Can't Decide What the Fed Will Do Next. CME Group Gets Paid Either Way.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6e16ba2fb713a10bbeca07fd67fdca718553e2d6313762416587f4b029a56a7f",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T19:25:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
       "relevance_label": "Watchlist"
     },
     {
@@ -452,17 +474,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Amazon voiced concerns about Anthropic AI models before US\u00a0 government\u2019s crackdown, source says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-source-says-4741041",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T18:18:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Amazon CEO is reportedly behind U.S. crackdown on Anthropic AI models",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4603114-amazon-behind-us-crackdown-anthropic-models?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -479,17 +490,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4603112-trending-stocks-this-week-as-investors-cheer-spacex-ipo-diplomacy-hopes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-13T17:57:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi raises KOSPI target to 10,000 as bull case remains intact",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/citi-raises-kospi-target-to-10000-as-bull-case-remains-intact-4741040",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T17:42:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -558,6 +558,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Micron Stock Has Become Volatile, But Key Metric Hints at Further Gains",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dc57b741c83dc36f90364a70dbb552689bbb59eadd79b1f0cd4aa80ebfada3e7",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T16:11:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
       "source": "CNBC Top",
@@ -566,18 +578,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-13T15:50:43+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f00b5c2fde4c8ddb98190eb3c18ee8479c1da1061ee405eae1326ee7ef453a02",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T15:42:37+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

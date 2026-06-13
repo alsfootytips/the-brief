@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T21:46:26.976880+00:00",
+  "generated_at": "2026-06-13T23:05:40.056719+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?\""
+      "move_reason": "News: \"These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now\""
     },
     {
       "ticker": "OSCR",
