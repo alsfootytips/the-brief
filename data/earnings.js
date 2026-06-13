@@ -1,24 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-12T23:51:30+00:00",
+  "generated_at": "2026-06-13T03:47:38+00:00",
   "by_date": {
-    "2026-06-12": [
-      {
-        "ticker": "FRHC",
-        "date": "2026-06-12",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SODI",
-        "date": "2026-06-12",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-06-15": [
       {
         "ticker": "AIOT",
