@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-13T16:00:19.622604+00:00",
+  "generated_at": "2026-06-13T17:41:31.982311+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.43,
       "price": 382.24,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T16:00:19.619695+00:00",
+      "timestamp": "2026-06-13T17:41:31.980405+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.76,
       "price": 709.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T16:00:19.619691+00:00",
+      "timestamp": "2026-06-13T17:41:31.980403+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 6.12,
       "price": 235.84,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T16:00:19.619687+00:00",
+      "timestamp": "2026-06-13T17:41:31.980401+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": 3.95,
       "price": 942.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T16:00:19.619678+00:00",
+      "timestamp": "2026-06-13T17:41:31.980394+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 6.8,
       "price": 102.25,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T16:00:19.619673+00:00",
+      "timestamp": "2026-06-13T17:41:31.980392+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,19 +68,183 @@ window.theBriefLive = {
       "change_pct": 5.41,
       "price": 514.87,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T16:00:19.619665+00:00",
+      "timestamp": "2026-06-13T17:41:31.980388+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Iran deal will be signed Sunday, Strait of Hormuz to open immediately after",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T17:36:26+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Is UniFirst Corporation (UNF) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/unifirst-corporation-unf-good-stock-155104240.html",
+      "headline": "Iran disputes claims of an imminent U.S. peace deal",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603110-iran-disputes-claims-an-imminent-peace-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-06-13T15:51:04+00:00",
+      "timestamp": "2026-06-13T17:20:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "5 things Oracle's CEOs want you to know",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-oracles-ceos-want-171700713.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T17:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visa and Mastercard (MA) Granted Preliminary Approval for Swipe Fee Settlement",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-mastercard-ma-granted-preliminary-171457721.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T17:14:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rosenblatt Raises its Price Target on The Walt Disney Company (DIS)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-raises-price-target-walt-171411938.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T17:14:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visa (V) to Integrate Payments into OpenAI for AI Agent Transaction",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-integrate-payments-openai-171404119.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T17:14:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oracle (ORCL) Reports Fiscal Q4 EPS and Revenue Above Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-reports-fiscal-q4-171356176.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T17:13:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Comfort Systems USA (FIX) the Top Strong Buy Stock to Invest In?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-fix-top-171348100.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T17:13:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cantor Fitzgerald Raises its Price Target on Applied Materials (AMAT)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-171342746.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T17:13:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Iran deal to be signed on Sunday, Strait of Hormuz to reopen",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-iran-signal-peace-deal-is-near-as-strait-of-hormuz-tensions-persist-4740892",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T17:12:54+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What drove the stock market last week \u2014 before and after SpaceX's historic IPO",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/13/what-drove-the-stock-market-last-week-before-and-after-spacexs-historic-ipo.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T16:36:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morgan Stanley sees limited evidence of reshoring after one year of tariffs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-limited-evidence-of-reshoring-after-one-year-of-tariffs-4741039",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T16:22:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bulls vs. Bears: SpaceX valuation in focus after record-setting IPO",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603106-spacex-valuation-focus-record-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T16:19:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi, American Express in gainers; Visa, Mastercard in losers: week's financials wrap",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603039-citi-american-express-in-gainers-visa-mastercard-in-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T16:00:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Real estate stocks continue to post gains, outperform broader markets",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603060-real-estate-stocks-continue-to-post-gains-outperform-broader-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T16:00:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -97,69 +261,63 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Should You Sell Vertiv Holdings (VRT)?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sell-vertiv-holdings-vrt-154953154.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T15:49:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-top-billionaires-changing-154240546.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T15:42:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
+      "ticker": "AMD",
       "headline": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-famous-billionaire-154237082.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f00b5c2fde4c8ddb98190eb3c18ee8479c1da1061ee405eae1326ee7ef453a02",
+      "is_watchlist": true,
       "timestamp": "2026-06-13T15:42:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
+      "headline": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f00b5c2fde4c8ddb98190eb3c18ee8479c1da1061ee405eae1326ee7ef453a02",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T15:42:37+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
       "headline": "Forget the Labor Market Noise: This Essential Business Utility Stock Is the Ultimate \u201cSet-It-and-Forget-It\u201d Cash Cow",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-labor-market-noise-essential-153918359.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=173e8f4a990fe2d315dd7fe11f8c0402581a8a963700d67b13d9bccbfc99eb72",
+      "is_watchlist": true,
       "timestamp": "2026-06-13T15:39:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "You just got a $10,000 windfall! But where to put it? Financial experts weigh in \u2014 and their advice may surprise you",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/just-got-10-000-windfall-153500443.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T15:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Why I'd Buy Ethereum Over Bitcoin Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b85728df1ea1bf02803e7fac3821f7c27721aae59dc5c96508a30ba4fa02693",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T15:35:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Wells Fargo Calls MannKind Corporation (MNKD)\u2019s Commercial Potential a \u201cShow-Me Story\u201d",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/wells-fargo-calls-mannkind-corporation-153105791.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T15:31:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Should You Look for the \u201cNext Nvidia\u201d \u2014 or Just Buy the Real Thing?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe13ffa10c9513db51e3f7ac096fe1e3966788761fb915a898c714dcdb1af4de",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T15:25:36+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -174,6 +332,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f45e180ba412ebbfd59765852d2b816277c0438cc888dbf0f997b4f6170b891",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T15:20:42+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "China opposes Pentagon move against top firms including Alibaba, Baidu, Nio",
       "source": "Seeking Alpha Market",
@@ -182,21 +352,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-13T15:16:59+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says negotiating team will not travel to Pakistan or Geneva",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-iran-signal-peace-deal-is-near-as-strait-of-hormuz-tensions-persist-4740892",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T15:16:17+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -219,6 +374,21 @@ window.theBriefLive = {
       "timestamp": "2026-06-13T15:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran and US close on initial deal, Tehran says no signing on Sunday - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T14:54:06+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -265,32 +435,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T14:13:52+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable analyst calls this week: Pfizer, AMD and Intel among top picks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4602944-notable-analyst-calls-this-week-pfizer-amd-and-intel-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T14:05:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "This 28-year-old paid off her law school loans selling stickers and coloring books",
@@ -314,42 +458,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Starbucks Stock Nearing 52-Week High: Buy, Sell or Hold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d154c29ced2846be3a202f8567b4e353844fcfbc087f632dd8e3fe11a0dff83d",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T13:56:13+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Anthropic\u2019s Biggest Competitive Advantage Just Became a Huge Liability",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87787684655d9f14f733fd3427d7a13b1dace47ced5874be5510e7ff18cd7a63",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T13:48:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Harvard University Likes This Top AI Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5725c694a42e1a63bd1cafc98bc58e1ed9a47ed043ab163c9d6dc7ce2112d3d4",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T13:38:17+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
       "source": "CNBC Top",
@@ -357,17 +465,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-13T13:37:31+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OpenAI under investigation by a group of state AGs: WSJ",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603100-openai-being-probed-group-state-ags?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T13:31:11+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -381,17 +478,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable tech headlines for the week: Apple, Oracle, Intel in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603078-notable-tech-headlines-for-the-week-apple-oracle-intel-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T13:10:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -432,18 +518,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fbbe0c7c05f48cbb17b16708115d78ec554430b6b219a2a81d7a0fb852335cf",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T13:00:56+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city",
       "source": "MarketWatch",
@@ -473,17 +547,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-13T12:57:53+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "J&J multiple myeloma drug Talvey cuts mortality risk by up to 53% in late-stage trial",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603099-jj-multiple-myeloma-drug-talvey-cuts-mortality-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T12:54:14+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -522,17 +585,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Who are the winners & losers in the quantum future",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/who-are-the-winners--losers-in-the-quantum-future-4741033",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T12:29:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Defaults in debt markets are starting again, warns Pimco. Here\u2019s the bond giant\u2019s game plan.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
@@ -540,6 +592,18 @@ window.theBriefLive = {
       "timestamp": "2026-06-13T12:00:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Tokenomics: The New Divide Between AI Winners And Renters",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5928d2d5608da151597cda7f7b9232523d298491c7a13e5ea102d498334054d5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T11:50:41+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -566,17 +630,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Switzerland is voting on whether to cap its population at 10 million. Here's what to know",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T10:51:08+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -649,12 +702,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Weekly Indicators: Consumers Back Off - Slightly",
+      "ticker": "NBIS",
+      "headline": "What Moved Markets This Week",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=01784e849eb0d97a1c125b27fc1b87647e87eab132e0d6b95141f5260d8ff9d1",
+      "url": "https://finnhub.io/api/news?id=9d73db358622346b7d3714fd87dc018a547bd327dad1f18a9d9d4a6adb38e114",
       "is_watchlist": true,
-      "timestamp": "2026-06-13T08:00:00+00:00",
+      "timestamp": "2026-06-13T06:53:45+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Jim Cramer Says SpaceX's Mega Debut Could Unleash A Wave Of AI Deals In The Week Ahead",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f3d40a2c722feb8e405c9e9bd838aadc93ed1d9d42232b1e8f6b0f8992cb72d5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T05:07:15+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -662,11 +727,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NBIS",
-      "headline": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=9d73db358622346b7d3714fd87dc018a547bd327dad1f18a9d9d4a6adb38e114",
+      "headline": "Jim Cramer Says SpaceX's Mega Debut Could Unleash A Wave Of AI Deals In The Week Ahead",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f3d40a2c722feb8e405c9e9bd838aadc93ed1d9d42232b1e8f6b0f8992cb72d5",
       "is_watchlist": true,
-      "timestamp": "2026-06-13T06:53:45+00:00",
+      "timestamp": "2026-06-13T05:07:15+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -707,54 +772,15 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Mediator Pakistan says US and Iran expected to sign initial deal within 24 hours - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T01:33:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=abb6d39c330ea4ba4f9d7360eece965e27c82ee9a03050db1fe4acc7fa19904b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T01:09:33+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "Workers begin removing Trump's name from the Kennedy Center",
+      "headline": "Kennedy Center removes Trump's name from the building",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/06/12/g-s1-128017/trump-name-kennedy-center",
+      "url": "https://www.npr.org/2026/06/12/g-s1-128017/kennedy-center-trump-name-remove",
       "is_watchlist": false,
       "timestamp": "2026-06-13T00:43:32+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "The Unit Economics Of AI Infrastructure",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f8237074d58007743be855d7aa34870d4518d905ed5a5742d552fcf1385a3234",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T00:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -807,17 +833,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-12T23:01:47+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S., Iran signal peace deal near as Tehran claims victory - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T22:34:29+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -910,6 +925,18 @@ window.theBriefLive = {
       "timestamp": "2026-06-12T19:43:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "$100 Invested In State Street Energy Select Sector SPDR ETF 5 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cd00e9895e7dfd88bba68d19a4596e517c7d9dcafaba2de027746125625c6278",
+      "is_watchlist": true,
+      "timestamp": "2026-06-12T18:45:25+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1076,6 +1103,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "'Publicis And The Trade Desk Settle Dispute Over Ad Tech Fees' - AdAge",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cdfe1a9cf3c2b76a726382a9be8bf198519743304e99e91df2103dd3f24d6e7b",
+      "is_watchlist": true,
+      "timestamp": "2026-06-12T11:45:12+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "CRWV",
       "headline": "CoreWeave Set To Join Nasdaq 100 Index, Effective June 22",
       "source": "Benzinga",
@@ -1097,18 +1136,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Microsoft: Nadella's Next Move Could Define The AI Trade",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ae5922f7f81b3fb8019a6197ab4ba4fd78a8ac7c77e66f23ab94d53ad1c09c5e",
-      "is_watchlist": true,
-      "timestamp": "2026-06-12T09:38:29+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1155,18 +1182,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-12T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Stock Trending After Being Named To Nasdaq-100 Index",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1be4cfeb2d598531bab8fb2271e0bb6b4c62067eb201d0fcc3a3a5779329ec81",
-      "is_watchlist": true,
-      "timestamp": "2026-06-12T08:56:42+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1306,18 +1321,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f8205004c86b95abe8752861730a9033111a1e4234413223e5fb2f5ce54b435c",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T16:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolves",
       "source": "CNBC Markets",
@@ -1353,18 +1356,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Leading And Lagging Sectors For June 11, 2026",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0fd06d52d0f7ac0ae1c292d12092c58790b542900983a1f3e1e67c63fa37127d",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T09:10:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OSCR",
       "headline": "Barclays Upgrades Oscar Health (OSCR)",
       "source": "Fintel",
@@ -1386,6 +1377,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "College sticker prices top $100,000 at 16 schools \u2014 but many students pay significantly less",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/10/college-six-figure-sticker-price.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-10T20:13:37+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",

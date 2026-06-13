@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T16:00:19.617847+00:00",
+  "generated_at": "2026-06-13T17:41:31.979384+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stoc...\""
+      "move_reason": "News: \"Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding\""
     },
     {
       "ticker": "GEV",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"7 Asset Classes Every Retirement Portfolio Should Consider\""
+      "move_reason": "News: \"Tokenomics: The New Divide Between AI Winners And Renters\""
     },
     {
       "ticker": "XLU",
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stoc...\""
+      "move_reason": "News: \"Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding\""
     },
     {
       "ticker": "APA",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"7 Asset Classes Every Retirement Portfolio Should Consider\""
+      "move_reason": "News: \"Tokenomics: The New Divide Between AI Winners And Renters\""
     },
     {
       "ticker": "NBIS",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Starbucks Stock Nearing 52-Week High: Buy, Sell or Hold?\""
+      "move_reason": "News: \"Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding\""
     },
     {
       "ticker": "OSCR",
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today: SpaceX Jumps To $175, Rocks Space Rivals\""
+      "move_reason": "News: \"$100 Invested In State Street Energy Select Sector SPDR ETF 5 Years Ago Would Be Worth Thi...\""
     }
   ],
   "indices": [
