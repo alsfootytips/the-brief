@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T17:41:31.979384+00:00",
+  "generated_at": "2026-06-13T18:57:44.813766+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding\""
+      "move_reason": "News: \"Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?\""
     },
     {
       "ticker": "GEV",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Beats Stock Market Upswing: What Investors Need to Know\""
+      "move_reason": "News: \"Is The Trade Desk, Inc. (TTD) A Good Stock To Buy Now?\""
     },
     {
       "ticker": "XLB",
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding\""
+      "move_reason": "News: \"Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?\""
     },
     {
       "ticker": "APA",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding\""
+      "move_reason": "News: \"Nu Holdings Is Quietly Building a Banking Empire in Latin America\""
     },
     {
       "ticker": "OSCR",
@@ -394,7 +394,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Beats Stock Market Upswing: What Investors Need to Know\""
+      "move_reason": "News: \"Is The Trade Desk, Inc. (TTD) A Good Stock To Buy Now?\""
     },
     {
       "ticker": "XLE",
