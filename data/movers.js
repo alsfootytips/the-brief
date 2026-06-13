@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T07:48:21.298414+00:00",
+  "generated_at": "2026-06-13T10:29:56.698571+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI's True Costs Limit Its Impact On Job Displacement\""
+      "move_reason": "News: \"Weekly Commentary: SpaceX And A Z.1 (Q1 2026)\""
     },
     {
       "ticker": "XLU",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI's True Costs Limit Its Impact On Job Displacement\""
+      "move_reason": "News: \"Weekly Commentary: SpaceX And A Z.1 (Q1 2026)\""
     },
     {
       "ticker": "NBIS",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Medtech Stock Wall Street Thinks Will Soar 65% Over the Next 12 Months\""
+      "move_reason": "News: \"Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?\""
     },
     {
       "ticker": "OSCR",
