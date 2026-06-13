@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T12:10:45.029251+00:00",
+  "generated_at": "2026-06-13T14:27:16.396770+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today\""
+      "move_reason": "News: \"The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stoc...\""
     },
     {
       "ticker": "GEV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Comfort Systems, Quanta, and Rivian Shares Are Soaring, What You Need To Know\""
+      "move_reason": "News: \"Dow Jones Futures: The Next Test For Market \u2014 And SpaceX; Five Stocks In Buy Areas\""
     },
     {
       "ticker": "TPL",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Chair Warsh Will Tighten Without Raising Interest Rates\""
+      "move_reason": "News: \"7 Asset Classes Every Retirement Portfolio Should Consider\""
     },
     {
       "ticker": "XLU",
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today\""
+      "move_reason": "News: \"The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stoc...\""
     },
     {
       "ticker": "APA",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Chair Warsh Will Tighten Without Raising Interest Rates\""
+      "move_reason": "News: \"7 Asset Classes Every Retirement Portfolio Should Consider\""
     },
     {
       "ticker": "NBIS",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Now Trading at Its Lowest Level Since December 2023, Is Solana a Buy, Sell, or Hold?\""
+      "move_reason": "News: \"Starbucks Stock Nearing 52-Week High: Buy, Sell or Hold?\""
     },
     {
       "ticker": "OSCR",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Comfort Systems, Quanta, and Rivian Shares Are Soaring, What You Need To Know\""
+      "move_reason": "News: \"Dow Jones Futures: The Next Test For Market \u2014 And SpaceX; Five Stocks In Buy Areas\""
     },
     {
       "ticker": "TPL",
