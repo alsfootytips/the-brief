@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T10:29:56.698571+00:00",
+  "generated_at": "2026-06-13T12:10:45.029251+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Trending After Being Named To Nasdaq-100 Index\""
+      "move_reason": "News: \"What Moved Markets This Week\""
     },
     {
       "ticker": "AMD",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: SpaceX And A Z.1 (Q1 2026)\""
+      "move_reason": "News: \"How Chair Warsh Will Tighten Without Raising Interest Rates\""
     },
     {
       "ticker": "XLU",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: SpaceX And A Z.1 (Q1 2026)\""
+      "move_reason": "News: \"How Chair Warsh Will Tighten Without Raising Interest Rates\""
     },
     {
       "ticker": "NBIS",
@@ -322,7 +322,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Trending After Being Named To Nasdaq-100 Index\""
+      "move_reason": "News: \"What Moved Markets This Week\""
     },
     {
       "ticker": "NVDA",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?\""
+      "move_reason": "News: \"Now Trading at Its Lowest Level Since December 2023, Is Solana a Buy, Sell, or Hold?\""
     },
     {
       "ticker": "OSCR",
