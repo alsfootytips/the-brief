@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T12:16:14.769773+00:00",
+  "generated_at": "2026-06-14T14:41:35.835549+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Stock Valuation After Investor Day AI Growth Outlook And US$1b Buyba...\""
+      "move_reason": "News: \"Dow Jones Futures: No Iran Deal Yet; Five Stocks In Buy Areas, SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500 May Be The Most Overrated Investment In America\""
+      "move_reason": "News: \"The Fed May Have A Hawkish Surprise For Markets This Week\""
     },
     {
       "ticker": "XLU",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500 May Be The Most Overrated Investment In America\""
+      "move_reason": "News: \"The Fed May Have A Hawkish Surprise For Markets This Week\""
     },
     {
       "ticker": "NBIS",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Energy Dividend Stocks With Cheap Valuations and Growing Payouts\""
+      "move_reason": "News: \"3 Cloud Computing Stocks to Load up on in June\""
     },
     {
       "ticker": "OSCR",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Stock Valuation After Investor Day AI Growth Outlook And US$1b Buyba...\""
+      "move_reason": "News: \"Dow Jones Futures: No Iran Deal Yet; Five Stocks In Buy Areas, SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
