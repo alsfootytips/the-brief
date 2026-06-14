@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T20:49:38.257065+00:00",
+  "generated_at": "2026-06-14T22:10:36.451792+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test\""
+      "move_reason": "News: \"Dow Jones Futures Due As Trump Announces Iran Deal, Hormuz To Open; SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA (NVDA): AI Factory Demand Shows How Growth Can Stay High Without Balance Sheet Stra...\""
+      "move_reason": "News: \"Are You Missing the Boat on This AI Stock That's Up 104% This Year?\""
     },
     {
       "ticker": "OSCR",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test\""
+      "move_reason": "News: \"Dow Jones Futures Due As Trump Announces Iran Deal, Hormuz To Open; SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
