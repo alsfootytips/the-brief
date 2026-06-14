@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-13T23:05:40.061423+00:00",
+  "generated_at": "2026-06-14T01:37:18.753444+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.43,
       "price": 382.24,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T23:05:40.058563+00:00",
+      "timestamp": "2026-06-14T01:37:18.750350+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.76,
       "price": 709.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T23:05:40.058560+00:00",
+      "timestamp": "2026-06-14T01:37:18.750347+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 6.12,
       "price": 235.84,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T23:05:40.058556+00:00",
+      "timestamp": "2026-06-14T01:37:18.750343+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": 3.95,
       "price": 942.6,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T23:05:40.058547+00:00",
+      "timestamp": "2026-06-14T01:37:18.750333+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 6.8,
       "price": 102.25,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T23:05:40.058542+00:00",
+      "timestamp": "2026-06-14T01:37:18.750329+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,7 +68,7 @@ window.theBriefLive = {
       "change_pct": 5.41,
       "price": 514.87,
       "is_watchlist": true,
-      "timestamp": "2026-06-13T23:05:40.058533+00:00",
+      "timestamp": "2026-06-14T01:37:18.750320+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -76,13 +76,125 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cathie Wood sells $16.2 million of tumbling megacap stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-16-2-224614174.html",
+      "headline": "South Korea\u2019s stock rally shifts focus to potential MSCI market upgrade",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/south-koreas-stock-rally-shifts-focus-to-potential-msci-market-upgrade-4741053",
       "is_watchlist": false,
-      "timestamp": "2026-06-13T22:46:14+00:00",
+      "timestamp": "2026-06-14T01:19:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman looks at the impact of the AI capex boom on S&P 500 return on equity",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-looks-at-the-impact-of-the-ai-capex-boom-on-sp-500-return-on-equity-4741052",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T00:50:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My plumber charged $160 to fix the cistern on my toilet \u2014 but created another problem. Do I pay again?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T00:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Switzerland votes on proposal to cap population at 10 million",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T00:12:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK, Japan to deepen ties with \u00a318 billion investment agreement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-japan-to-deepen-ties-with-18-billion-investment-agreement-4741050",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T00:06:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil executives warn Trump administration that gasoline prices will get worse",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603097-oil-executives-warn-trump-administration-that-gasoline-prices-will-get-worse?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T00:05:17+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I feel like he may be taking advantage of us\u2019: Our adviser pushes annuities after we already said no. Do we fire him?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T00:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon concerns helped trigger U.S. restrictions on Anthropic AI models",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/amazon-concerns-helped-trigger-us-restrictions-on-anthropic-ai-models-4741049",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T23:24:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We are comfortable financially\u2019: My husband is in his 60s and has $500,000 life insurance. Is this a good time to cancel?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-pay-100-per-month-my-husband-is-in-his-mid-60s-and-has-a-500-000-life-insurance-policy-is-it-time-to-cancel-it-4cc49ffe?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T23:23:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T23:22:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34b95f509b3220ed8055d18dff619307b3b9f70cfab9b48bbbb660f787eb7974",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T23:12:38+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -97,6 +209,30 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Palantir Stock Ripe for a Rebound?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d3a158f02667e4e744409b998d90c5473488d8b219326da48f9fe9b38983107",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T22:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Micron Reports Earnings June 24. Here's the One Number That May Make or Break the Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3863521d3c466475d91dfca36cfba5bb90f8635200b80f32d60c99201081c060",
+      "is_watchlist": true,
+      "timestamp": "2026-06-13T21:56:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Soccer-Beating the heat no problem for World Cup fans in sweltering Houston",
       "source": "Investing.com News",
@@ -105,30 +241,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-13T21:48:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52c15eed3b45965efa0a65ac309341587be7e1d1e8ba69dbd7dd6cd462ded1f3",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T21:47:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "U.S. Interest Expense Just Hit $1.6 Trillion Annually. Peter Schiff Warns a Dollar Crisis Arrives When It Hits $2 Trillion.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38e5fcf5847619c4ed0459bf3103ad834b3b6578d02047c92151b89ec4ce4aba",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T21:32:46+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -144,127 +256,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T21:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-205647025.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T20:56:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Celestica Inc. (CLS) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-good-stock-205626381.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T20:56:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is DLocal Limited (DLO) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-good-stock-205611908.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T20:56:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Harrow, Inc. (HROW) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/harrow-inc-hrow-good-stock-205557543.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T20:55:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-inc-adbe-good-stock-205543314.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T20:55:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: Space stocks sold off on Friday; should you buy the dip?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4603117-sa-asks-space-stocks-sold-off-on-friday-should-you-buy-the-dip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-13T20:50:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mexico investigates murder of mayor of town in Oaxaca state",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/mexico-investigates-murder-of-mayor-of-town-in-oaxaca-state-4741044",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T20:36:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8af540a1b63ae29e4b6bc2b46055ea6fb311a1d71bc75ed6966eacb1a0119be4",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T20:24:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran deal to be signed on Sunday, Strait of Hormuz to reopen",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-iran-signal-peace-deal-is-near-as-strait-of-hormuz-tensions-persist-4740892",
-      "is_watchlist": true,
-      "timestamp": "2026-06-13T19:57:21+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What if AI really does disrupt 50% of all entry-level white-collar jobs?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/what-if-ai-really-does-disrupt-50-of-all-entrylevel-whitecollar-jobs-4741043",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:45:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -308,17 +304,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump names James McDonald as US attorney for Manhattan",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-names-james-mcdonald-as-us-attorney-for-manhattan-4741042",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:12:07+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -333,17 +318,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin stalls at $64,400 resistance in bearish setup: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-63970-resistance-in-vshaped-rally-live-levels-93CH-4729724",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:02:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -387,50 +361,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-13T19:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The true national debt just hit $1 million per U.S. household",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-true-national-debt-just-hit-1-million-per-u-s-household-bd0924d1?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Social Security\u2019s COLA could be 4.7% in 2027 as inflation hits the highest level in 3 years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-could-be-4-7-in-2027-as-inflation-hits-the-highest-level-in-3-years-e5a87320?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:00:00+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My wife and I are 61. We have $2.2 million and expect $5,000 in Social Security benefits. Do we claim early?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-61-we-have-2-2-million-and-5-000-in-social-security-benefits-do-we-claim-early-1585baf3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:00:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Social Security insolvency is \u2018entirely solvable,\u2019 says commissioner under Biden",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T19:00:00+00:00",
-      "relevance_score": -2.5,
       "relevance_tier": "low"
     },
     {
@@ -479,17 +409,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4603114-amazon-behind-us-crackdown-anthropic-models?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-13T18:09:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trending stocks this week as investors cheer SpaceX IPO, diplomacy hopes",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603112-trending-stocks-this-week-as-investors-cheer-spacex-ipo-diplomacy-hopes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-13T17:57:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -952,6 +871,61 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Crude Oil Prices Continue Sharply Lower on Iran Peace Hopes",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-oil-prices-continue-sharply-191454637.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T19:14:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inflation is at a 3-year high, and it\u2019s killing your cash \u2014 where you should put your money now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/inflation-3-high-killing-cash-190000549.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T19:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Cup Lifts IBD Stock Of The Day Near Breakout",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/sghc-stock-world-cup-stocks-near-breakout/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T18:52:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Advisors Turn a 30% Gain Into Long-Term Compounding",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/advisors-turn-30-gain-long-185229653.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T18:52:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Is Dollar Tree's Stock Performance Compared to Other Consumer Defensive Stocks?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-trees-stock-performance-compared-184936916.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T18:49:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "XLE",
       "headline": "$100 Invested In State Street Energy Select Sector SPDR ETF 5 Years Ago Would Be Worth This Much Today",
       "source": "Benzinga",
@@ -961,6 +935,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysts Turn Bearish on Adobe After Earnings. What\u2019s Next for ADBE Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-turn-bearish-adobe-earnings-184437940.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-12T18:44:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1402,18 +1387,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Barclays Upgrades Oscar Health to Overweight, Raises Price Target to $35",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d29bc9d7afffa59516dcb063491be119f5467bbeb56feb7fc7de872dd017ccfc",
-      "is_watchlist": true,
-      "timestamp": "2026-06-10T09:01:21+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "filing",
       "ticker": "CRWV",
       "form": "8-K",
@@ -1460,6 +1433,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ink Business Cash Credit Card review: A standout card for small business owners",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/chase-ink-business-cash-card-180021123.html",
+      "is_watchlist": false,
+      "timestamp": "2024-09-05T19:00:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };

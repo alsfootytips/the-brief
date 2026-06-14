@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-13T23:05:40.091328+00:00",
+  "generated_at": "2026-06-14T01:37:18.784789+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,7 +27,7 @@ window.theBriefPicks = {
       "current_pct": 25.72,
       "change_pct_today": -2.46,
       "name": "Oscar Health",
-      "news_count": 3,
+      "news_count": 2,
       "days_elapsed": 22,
       "days_remaining": 34,
       "pick_type": "strategic",
@@ -100,8 +100,8 @@ window.theBriefPicks = {
       "change_pct_today": 1.09,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 32,
-      "days_remaining": 24,
+      "days_elapsed": 33,
+      "days_remaining": 23,
       "pick_type": "strategic"
     },
     {
@@ -507,7 +507,7 @@ window.theBriefPicks = {
       "change_pct_today": 3.95,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 31,
+      "days_elapsed": 32,
       "days_remaining": null
     },
     {
@@ -540,7 +540,7 @@ window.theBriefPicks = {
       "change_pct_today": 3.76,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 31,
+      "days_elapsed": 32,
       "days_remaining": null
     },
     {
@@ -573,7 +573,7 @@ window.theBriefPicks = {
       "change_pct_today": -2.18,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 31,
+      "days_elapsed": 32,
       "days_remaining": null
     },
     {
@@ -642,8 +642,8 @@ window.theBriefPicks = {
       "change_pct_today": 1.55,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 26,
-      "days_remaining": 30
+      "days_elapsed": 27,
+      "days_remaining": 29
     },
     {
       "id": "2026-05-18-GLD",

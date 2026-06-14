@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-13T23:05:40.056719+00:00",
+  "generated_at": "2026-06-14T01:37:18.748404+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Jim Cramer Says SpaceX's Mega Debut Could Unleash A Wave Of AI Deals In The Week Ahead\""
     },
     {
       "ticker": "NBIS",
@@ -262,7 +262,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Stock Sinks As Market Gains: Here's Why\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -274,7 +274,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Jim Cramer Says SpaceX's Mega Debut Could Unleash A Wave Of AI Deals In The Week Ahead\""
     },
     {
       "ticker": "DG",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now\""
+      "move_reason": "News: \"NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion\""
     },
     {
       "ticker": "OSCR",
@@ -762,11 +762,11 @@ window.theBriefMovers = {
       "change_pct": -2.46,
       "score": 4.0,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "2 SEC filings in the last 7 days"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "2 SEC filings in the last 7 days"
       ],
       "tags": [
