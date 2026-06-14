@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T10:03:57.590720+00:00",
+  "generated_at": "2026-06-14T12:16:14.769773+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tokenomics: The New Divide Between AI Winners And Renters\""
+      "move_reason": "News: \"The S&P 500 May Be The Most Overrated Investment In America\""
     },
     {
       "ticker": "XLU",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tokenomics: The New Divide Between AI Winners And Renters\""
+      "move_reason": "News: \"The S&P 500 May Be The Most Overrated Investment In America\""
     },
     {
       "ticker": "NBIS",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Berkshire Hathaway's Greg Abel Just Made a Big Bet on Who Will Win the AI Races -- And He'...\""
+      "move_reason": "News: \"2 Energy Dividend Stocks With Cheap Valuations and Growing Payouts\""
     },
     {
       "ticker": "OSCR",
