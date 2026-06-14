@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T19:27:22.193664+00:00",
+  "generated_at": "2026-06-14T20:49:38.257065+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Plain-As-Day Dividend King to Buy on the Dip That Has Hiked Its Payout for 70 Consecutiv...\""
+      "move_reason": "News: \"NVIDIA (NVDA): AI Factory Demand Shows How Growth Can Stay High Without Balance Sheet Stra...\""
     },
     {
       "ticker": "OSCR",
