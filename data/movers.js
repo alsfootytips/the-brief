@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T06:21:39.376560+00:00",
+  "generated_at": "2026-06-14T10:03:57.590720+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus\""
+      "move_reason": "News: \"Meta At 17x P/E: Investing Doesn't Get Any Easier\""
     },
     {
       "ticker": "GEV",
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus\""
+      "move_reason": "News: \"Meta At 17x P/E: Investing Doesn't Get Any Easier\""
     },
     {
       "ticker": "APA",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?\""
+      "move_reason": "News: \"Berkshire Hathaway's Greg Abel Just Made a Big Bet on Who Will Win the AI Races -- And He'...\""
     },
     {
       "ticker": "OSCR",
