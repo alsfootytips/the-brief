@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T14:41:35.835549+00:00",
+  "generated_at": "2026-06-14T16:13:14.955855+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta At 17x P/E: Investing Doesn't Get Any Easier\""
+      "move_reason": "News: \"Xbox fans waiting on Project Helix get unexpected news from Wedbush\""
     },
     {
       "ticker": "GEV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: No Iran Deal Yet; Five Stocks In Buy Areas, SpaceX's Next Test\""
+      "move_reason": "News: \"Dow Jones Futures: Trump, Iran Deal In Focus; Five Stocks In Buy Areas, SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta At 17x P/E: Investing Doesn't Get Any Easier\""
+      "move_reason": "News: \"Xbox fans waiting on Project Helix get unexpected news from Wedbush\""
     },
     {
       "ticker": "APA",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Cloud Computing Stocks to Load up on in June\""
+      "move_reason": "News: \"NASA Hires Firefly Aerospace to Build a Drone Aircraft Carrier -- to the Moon\""
     },
     {
       "ticker": "OSCR",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: No Iran Deal Yet; Five Stocks In Buy Areas, SpaceX's Next Test\""
+      "move_reason": "News: \"Dow Jones Futures: Trump, Iran Deal In Focus; Five Stocks In Buy Areas, SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
