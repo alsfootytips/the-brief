@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T01:37:18.748404+00:00",
+  "generated_at": "2026-06-14T06:21:39.376560+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Citi resets AMD stock price target on key move\""
+      "move_reason": "News: \"AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus\""
     },
     {
       "ticker": "GEV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Trump Says Iran Deal 'Signed' Sunday; SpaceX's Next Test\""
+      "move_reason": "News: \"Quanta Services (PWR) Stock Valuation After Investor Day AI Growth Outlook And US$1b Buyba...\""
     },
     {
       "ticker": "TPL",
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Citi resets AMD stock price target on key move\""
+      "move_reason": "News: \"AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus\""
     },
     {
       "ticker": "APA",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion\""
+      "move_reason": "News: \"SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?\""
     },
     {
       "ticker": "OSCR",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Trump Says Iran Deal 'Signed' Sunday; SpaceX's Next Test\""
+      "move_reason": "News: \"Quanta Services (PWR) Stock Valuation After Investor Day AI Growth Outlook And US$1b Buyba...\""
     },
     {
       "ticker": "TPL",
