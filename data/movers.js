@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T17:50:37.980287+00:00",
+  "generated_at": "2026-06-14T19:27:22.193664+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Trump, Iran Deal In Focus; Five Stocks In Buy Areas, SpaceX's Next Test\""
+      "move_reason": "News: \"Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NASA Hires Firefly Aerospace to Build a Drone Aircraft Carrier -- to the Moon\""
+      "move_reason": "News: \"1 Plain-As-Day Dividend King to Buy on the Dip That Has Hiked Its Payout for 70 Consecutiv...\""
     },
     {
       "ticker": "OSCR",
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Trump, Iran Deal In Focus; Five Stocks In Buy Areas, SpaceX's Next Test\""
+      "move_reason": "News: \"Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test\""
     },
     {
       "ticker": "TPL",
