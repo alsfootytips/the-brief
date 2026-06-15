@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-14T23:38:08.063490+00:00",
+  "generated_at": "2026-06-15T02:06:35.656073+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -38,18 +38,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Xbox fans waiting on Project Helix get unexpected news from Wedbush\""
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 942.6,
-      "change_pct": 3.95,
-      "volume_ratio": 0.77,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Barclays Says GE Vernova (GEV) Among Best Positioned for 800VDC Technology\""
-    },
-    {
       "ticker": "PWR",
       "name": "Quanta Services",
       "price": 709.0,
@@ -59,19 +47,29 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due As Trump Announces Iran Deal, Hormuz To Open; SpaceX's Next Test\""
+      "move_reason": "News: \"Oil\u2019s 5.7% Weekly Drop Opens the Door for Jets, Materials, and Infrastructure ETFs\""
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 940.66,
+      "change_pct": 3.74,
+      "volume_ratio": 0.77,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": "News: \"Barclays Says GE Vernova (GEV) Among Best Positioned for 800VDC Technology\""
     },
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 382.24,
-      "change_pct": 3.43,
+      "price": 378.91,
+      "change_pct": 2.53,
       "volume_ratio": 0.92,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Exploring the top movers within the S&P500 index during today's session.\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -106,7 +104,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Biggest Oil Giants: Buy, Sell or Hold?\""
+      "move_reason": ""
     },
     {
       "ticker": "VWRP.L",
@@ -190,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"9 Financials Stocks With Whale Alerts In Today's Session\""
+      "move_reason": ""
     },
     {
       "ticker": "PLTR",
@@ -286,18 +284,17 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General Stock Is Staging a Technical Turnaround as Consumer Sentiment Weakens\""
+      "move_reason": "Tracking XLP sector (+0.65% today)"
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 942.6,
-      "change_pct": 3.95,
+      "price": 940.66,
+      "change_pct": 3.74,
       "volume_ratio": 0.77,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": "News: \"Barclays Says GE Vernova (GEV) Among Best Positioned for 800VDC Technology\""
     },
     {
@@ -334,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are You Missing the Boat on This AI Stock That's Up 104% This Year?\""
+      "move_reason": "News: \"Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New D...\""
     },
     {
       "ticker": "OSCR",
@@ -346,7 +343,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"9 Financials Stocks With Whale Alerts In Today's Session\""
+      "move_reason": ""
     },
     {
       "ticker": "OXY",
@@ -358,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Biggest Oil Giants: Buy, Sell or Hold?\""
+      "move_reason": ""
     },
     {
       "ticker": "PWR",
@@ -370,19 +367,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due As Trump Announces Iran Deal, Hormuz To Open; SpaceX's Next Test\""
+      "move_reason": "News: \"Oil\u2019s 5.7% Weekly Drop Opens the Door for Jets, Materials, and Infrastructure ETFs\""
     },
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 382.24,
-      "change_pct": 3.43,
+      "price": 378.91,
+      "change_pct": 2.53,
       "volume_ratio": 0.92,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Exploring the top movers within the S&P500 index during today's session.\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -406,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"$100 Invested In State Street Energy Select Sector SPDR ETF 5 Years Ago Would Be Worth Thi...\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -632,82 +628,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 942.6,
-      "change_pct": 3.95,
-      "score": 6.0,
-      "signals": [
-        "Moved +3.95% \u2014 a 1.4\u03c3 move",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "+2 analyst buy recs added recently"
-      ],
-      "reasons": [
-        "Moved +3.95% \u2014 a 1.4\u03c3 move",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "+2 analyst buy recs added recently"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "analyst-upgrade"
-      ],
-      "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLI"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 382.24,
-      "change_pct": 3.43,
-      "score": 5.0,
-      "signals": [
-        "Moved +3.43% \u2014 a 1.2\u03c3 move",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 5.2 (cheap on absolute basis)",
-        "Down -28.6% over 3 months \u2014 deep drawdown"
-      ],
-      "reasons": [
-        "Moved +3.43% \u2014 a 1.2\u03c3 move",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 5.2 (cheap on absolute basis)",
-        "Down -28.6% over 3 months \u2014 deep drawdown"
-      ],
-      "tags": [
-        "insider-buying",
-        "cheap",
-        "drawdown"
-      ],
-      "narrative": "<strong>TPL</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
-      "sector_etf": "XLE"
-    },
-    {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 36.98,
-      "change_pct": 0.54,
-      "score": 4.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 8.6 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 8.6 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 56.41,
@@ -756,25 +676,51 @@ window.theBriefMovers = {
       "sector_etf": "XLP"
     },
     {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 28.2,
-      "change_pct": -2.46,
-      "score": 4.0,
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 940.66,
+      "change_pct": 3.74,
+      "score": 4.5,
       "signals": [
-        "2 news items in the last 3 days",
-        "2 SEC filings in the last 7 days"
+        "Moved +3.74% \u2014 a 1.3\u03c3 move",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "+2 analyst buy recs added recently"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
-        "2 SEC filings in the last 7 days"
+        "Moved +3.74% \u2014 a 1.3\u03c3 move",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "+2 analyst buy recs added recently"
       ],
       "tags": [
-        "news-flow",
-        "filing"
+        "insider-buying",
+        "analyst-upgrade"
       ],
-      "narrative": "<strong>OSCR</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLV"
+      "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLI"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 378.91,
+      "change_pct": 2.53,
+      "score": 4.0,
+      "signals": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 5.2 (cheap on absolute basis)",
+        "Down -28.6% over 3 months \u2014 deep drawdown"
+      ],
+      "reasons": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 5.2 (cheap on absolute basis)",
+        "Down -28.6% over 3 months \u2014 deep drawdown"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap",
+        "drawdown"
+      ],
+      "narrative": "<strong>TPL</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLE"
     },
     {
       "ticker": "AMD",
@@ -799,6 +745,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>AMD</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 36.98,
+      "change_pct": 0.54,
+      "score": 3.0,
+      "signals": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 8.6 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 8.6 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [

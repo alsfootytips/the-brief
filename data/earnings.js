@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-14T23:38:08+00:00",
+  "generated_at": "2026-06-15T02:06:35+00:00",
   "by_date": {
     "2026-06-15": [
       {
@@ -1157,6 +1157,160 @@ window.theBriefEarnings = {
       {
         "ticker": "NBXG",
         "date": "2026-06-26",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-06-29": [
+      {
+        "ticker": "ADN",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AOREF",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AXG",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BACK",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BSPK",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CLRC",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CNXC",
+        "date": "2026-06-29",
+        "hour": "amc",
+        "eps_estimate": 2.6903,
+        "revenue_estimate": 2523426450,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DTGI",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ELTP",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "EZGO",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GBX",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": 0.6094,
+        "revenue_estimate": 623746376,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HIHO",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LRE",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "OWPC",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PCSV",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PETV",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RDUS",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": 0.2142,
+        "revenue_estimate": 842573040,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SCGY",
+        "date": "2026-06-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SUND",
+        "date": "2026-06-29",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,

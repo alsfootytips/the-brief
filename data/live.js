@@ -1,18 +1,6 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-14T23:38:08.068683+00:00",
+  "generated_at": "2026-06-15T02:06:35.660963+00:00",
   "events": [
-    {
-      "type": "mover",
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "change_pct": 3.43,
-      "price": 382.24,
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T23:38:08.065746+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
     {
       "type": "mover",
       "ticker": "PWR",
@@ -20,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.76,
       "price": 709.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-14T23:38:08.065743+00:00",
+      "timestamp": "2026-06-15T02:06:35.658011+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 6.12,
       "price": 235.84,
       "is_watchlist": true,
-      "timestamp": "2026-06-14T23:38:08.065739+00:00",
+      "timestamp": "2026-06-15T02:06:35.658007+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 3.95,
-      "price": 942.6,
+      "change_pct": 3.74,
+      "price": 940.66,
       "is_watchlist": true,
-      "timestamp": "2026-06-14T23:38:08.065729+00:00",
+      "timestamp": "2026-06-15T02:06:35.657997+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +44,7 @@ window.theBriefLive = {
       "change_pct": 6.8,
       "price": 102.25,
       "is_watchlist": true,
-      "timestamp": "2026-06-14T23:38:08.065725+00:00",
+      "timestamp": "2026-06-15T02:06:35.657992+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,10 +56,239 @@ window.theBriefLive = {
       "change_pct": 5.41,
       "price": 514.87,
       "is_watchlist": true,
-      "timestamp": "2026-06-14T23:38:08.065715+00:00",
+      "timestamp": "2026-06-15T02:06:35.657980+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories",
+      "is_watchlist": true,
+      "timestamp": "2026-06-15T02:03:00+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold jumps 2% as US-Iran peace deal eases inflation fears, dents dollar",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/gold-jumps-2-as-usiran-peace-deal-eases-inflation-fears-dents-dollar-4741143",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:58:29+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Scotland\u2019s Tartan Army switches sports for a day in Boston",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/soccerscotlands-tartan-army-switches-sports-for-a-day-in-boston-4741142",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:54:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar hits 10-day low as US, Iran reach peace deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/dollar-hits-10day-low-as-us-iran-reach-peace-deal-4741128",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:48:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood\u2019s ARK sells AMD stock, buys SpaceX shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-spacex-shares-93CH-4741141",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:46:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Oil\u2019s 5.7% Weekly Drop Opens the Door for Jets, Materials, and Infrastructure ETFs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fda751076ab862323dd4da7c96b2e15a041dbf83940aa56b5e996e502fa9e31",
+      "is_watchlist": true,
+      "timestamp": "2026-06-15T01:43:47+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/motels-marshland-and-luxury-rates-welcome-to-the-world-cup-in-new-jersey-4741140",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:43:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-Trump veers toward exit in Iran war but risks loom",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/analysistrump-veers-toward-exit-in-iran-war-but-risks-loom-4741139",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:42:57+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Retail investors build big dreams on small slices of SpaceX",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/retail-investors-build-big-dreams-on-small-slices-of-spacex-4741132",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:42:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Twelve people killed in Missouri plane crash, skydiving company says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/twelve-people-killed-in-missouri-plane-crash-state-highway-patrol-says-4741107",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T01:36:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html",
+      "is_watchlist": true,
+      "timestamp": "2026-06-15T01:36:48+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": true,
+      "timestamp": "2026-06-15T01:33:55+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal",
+      "is_watchlist": true,
+      "timestamp": "2026-06-15T01:33:09+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Markets cheer U.S.-Iran agreement, but some investors caution deal is yet to be signed",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html",
+      "is_watchlist": true,
+      "timestamp": "2026-06-15T01:21:22+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on the FF EAI Robotics Education Ecosystem Strategy, Product Line & New EAI Device Launch Happening at Its Los Angeles HQ on June 16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39c0554ea36ad314e65f67e95486ee0e925741b3b0532b4740b1291257411164",
+      "is_watchlist": true,
+      "timestamp": "2026-06-15T00:48:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar hits 10-day low as US, Iran reach peace deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejMtS3JFZU9GNXp1dF9iVjU3V0hyWDQ1M0Y2NEZlbVFyd3JQXzVCek5kbEdIRHltT1RiX0cza051RzJVUm1neDQ3Q3V6SGJIVE9LVnRNNGFKR1JXTXRjNmMtLTdqNGh1SFhpTzE0ajN5aU9jUG0xUG44dTVEYVdFWFpuQXZpX2NKek5tMGtLZmFVeGItV0xjM3NOc2JCNUZqMURPVDNfMXZRNzBi?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-15T00:03:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BNP Paribas sees credit ratings tailwind supporting further spread tightening",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4603150-bnp-paribas-sees-credit-ratings-tailwind-supporting-further-spread-tightening?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T23:54:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": "PWR",
+      "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff4c8633f6c889d5f95e6aac5c40ce7caca45099b41f51bcbe7b1225230ff61b",
+      "is_watchlist": true,
+      "timestamp": "2026-06-14T23:48:59+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -130,30 +347,26 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Alphabet Ties Search AI And Mobility Closer To Revenue Potential",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87161b0aaebcb141349ac4d3629212a66727c6eb9f44e8f1411e4a748a182118",
       "is_watchlist": true,
-      "timestamp": "2026-06-14T23:19:59+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "timestamp": "2026-06-14T23:16:57+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Instant View: Markets cheer deal but see staying elevated",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/instant-view-markets-cheer-deal-231236893.html",
+      "headline": "Markets cheer deal but see oil staying elevated - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekFXV000NkZNcENYOUdVVmtPaUhVUWxmbF80U3R2VkQ0UWt2RFJIc2hDUkhZVjc3bGs2WU05WnJueVFWUEt3akdNTWVrakVPb3lMQ1NrcjI2Q3Q5NDZlaFFaZzdCWE80Q0RDaDJKemRWSkxFcFJKRTg3NVAzT01LZGQtVkphVEprcEtZWTNQWk1Qbms3aFB4c0ZSTi1PaExv?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-14T23:12:36+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-06-14T23:14:53+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -170,57 +383,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US, Iran reach deal to end war, signing set for Friday - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkM0aHUzN3lFUGRoNGhaYnA0aXFMTVdPYUlUWXlocnpiZUZCUWhZbFNoTDVSNGJVbTM2bnN0aUdXaXUtYjBzX21SX2xoUjFwWUgyMDNsNVhwS1NMekItUDFGYmxoRXAyNzlUekpFTjVUU2Y2aWZTajVGV3JvcllPVXRub2lJZUFSVElrbk1ncEt1YjRnZEFLRFN4V293cW8xYTFULU93MkRBc3g2LU4wbktn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T23:08:46+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T23:03:00+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shares jump, oil skids in Asia on news of Gulf deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/shares-jump-oil-skids-in-asia-on-news-of-gulf-deal-4741121",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T23:00:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK, France, Germany and Italy ready to lift Iran sanctions after US-Iran deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/uk-france-germany-and-italy-ready-to-lift-iran-sanctions-after-usiran-deal-4741120",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T23:00:31+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -241,36 +403,25 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T22:47:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Does an Adaptive Biotech Insider's Sale of Nearly 40,000 Shares Mean for Investors?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-adaptive-biotech-insiders-sale-224603676.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T22:46:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil slips over 4% after US, Iran reach peace deal, reopen Strait of Hormuz - Reuters",
+      "headline": "UK, France, Germany and Italy ready to lift Iran sanctions after US-Iran deal - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdl9QNzQwRkp1UnY0alA3UGVJUENYYm9zbDhFUUw4dUJud09TNVFfS1IyOS04YU9aR25qYlM4Ukx0YzkwRDdaam0zYVg2N1B3OHBuN0ZVc2tBQm1JN2dCQnplUWU2S0wtckItUzJWbXdQZkJMcVhtSlU2TFl3c0cwOERyRnhVc0pvajlQLTRLcXZqTG95LVlfZlZRaDE0eUZhSllRTjZHaV9IOG40dURvRU4zZHdTcUpx?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-14T22:32:20+00:00",
+      "timestamp": "2026-06-14T22:58:54+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shares surge, oil skids in Asia on Gulf deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEFOMl9uakdZcWkxTFkyRVlFajFnMkZUc3NOOF9aVk9zSlJGQWg0eDVQdmlNQWlROC1leXlZWkVuNDduSHlUUFc1RGhhRm5oYXdMUDlLZXlpTUJhYXJ4MThLT2EydUswRE0wa0syaGh4STg3bXJ3RW1UbmRRNGVLNjRFbw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T22:58:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -286,51 +437,25 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Twelve people killed in Missouri plane crash, skydiving company says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/twelve-people-killed-in-missouri-plane-crash-state-highway-patrol-says-4741107",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T22:24:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zymeworks reports phase 1 trial results for ovarian cancer drug",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/zymeworks-reports-phase-1-trial-results-for-ovarian-cancer-drug-93CH-4741119",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T22:13:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says deal with Iran now complete,  Strait of Hormuz to reopen",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-says-iran-deal-could-be-signed-sunday-tehran-disputes-timing-4741061",
+      "ticker": "NVDA",
+      "headline": "Longtime SpaceX Investor Cathie Wood Made This Move on IPO Day. Should You Follow?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1847336f71391b01758ba1129f58044446af475aed47b61f72cb014124d0ab2",
       "is_watchlist": true,
-      "timestamp": "2026-06-14T22:13:50+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "timestamp": "2026-06-14T22:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil slips over 4% after US, Iran reach peace deal, reopen Strait of Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-of-hormuz-4741118",
+      "headline": "Oil slips 4% as US, Iran reach peace deal to reopen Strait of Hormuz - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-14T22:12:53+00:00",
-      "relevance_score": 3.0,
+      "timestamp": "2026-06-14T22:10:00+00:00",
+      "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
     },
@@ -344,21 +469,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-14T22:00:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHJ5S3lQbnk2ck1TeGlCeGh2V0k3cXJQSnVwLVNSUEM3cDNIcUVFazFZazBSLW1oQzJQWHJldGo4RHp3b2NaQXQ2OUxJTjdPTVNjZEZQdUxPT1ZfaGVLWWt1MmtQa0taaUNfZnIzUVRqS3R4WFp2UUM1dFFUZlNkY3ZtZ2xOaDE3UW1uQVpFcGQ4MThHUGs4X3JETmg3SWRWdmEwa28zazRGR0dJX0VWMDBJWXd3Z2Izd19OLUNDb01OejE2?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T21:52:50+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -377,19 +487,16 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "US, Iran reach peace deal, signing set for Friday, Pakistan says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-iran-reach-peace-deal-signing-set-for-friday-pakistan-says-4741116",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T21:42:25+00:00",
-      "relevance_score": 5.5,
+      "headline": "US, Iran reach agreement to end war, signing set for Friday - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkM0aHUzN3lFUGRoNGhaYnA0aXFMTVdPYUlUWXlocnpiZUZCUWhZbFNoTDVSNGJVbTM2bnN0aUdXaXUtYjBzX21SX2xoUjFwWUgyMDNsNVhwS1NMekItUDFGYmxoRXAyNzlUekpFTjVUU2Y2aWZTajVGV3JvcllPVXRub2lJZUFSVElrbk1ncEt1YjRnZEFLRFN4V293cW8xYTFULU93MkRBc3g2LU4wbktn?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-14T21:39:00+00:00",
+      "relevance_score": 4.0,
       "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -431,29 +538,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4741115",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Are You Missing the Boat on This AI Stock That's Up 104% This Year?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=82726cd2fd571f792454810711eadd933b515b9b181a1540b366f0b602584027",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T21:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SpaceX wireless ambitions may be less threatening to carriers than feared: BNP Paribas",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4603151-spacex-wireless-ambitions-may-be-less-threatening-to-carriers-than-feared-bnp-paribas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -473,52 +557,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Tech Shakeup on the S&P 500",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe846ccd9aae829cd64473d2dbecdf3c80eb95b64992f9f78c0c2fb804b8e8a0",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T20:53:57+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Should You Buy VOO While the Market Is Near All-Time Highs?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72d6380da3ef4246133ace691bedead3d438dc8f2a01b619e21da3327a92f70b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T20:52:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Odds of Anthropic, OpenAI going public dip after SpaceX IPO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4603148-odds-of-anthropic-openai-going-public-dip-after-spacex-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T20:48:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Parents in their 60s want a reverse mortgage after a heart attack \u2014 but there may be smarter moves",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/parents-60s-want-reverse-mortgage-203000828.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T20:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -583,33 +621,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "DoorDash Inc. (DASH) Shows How Local Commerce Can Expand Beyond Restaurant Delivery",
+      "headline": "Oil executives send a blunt message to Americans on gas prices",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/doordash-inc-dash-shows-local-200554875.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-executives-send-blunt-message-200700286.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-14T20:05:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sea Limited (SE) Shows How Shopee\u2019s Order Growth Is Keeping Its E-Commerce Engine Strong",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-se-shows-shopee-200400091.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T20:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Target Corporation (TGT) Shows Why Store-Based Fulfillment Still Matters in Digital Retail",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/target-corporation-tgt-shows-why-200353633.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T20:03:53+00:00",
+      "timestamp": "2026-06-14T20:07:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -634,52 +650,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-14T17:34:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "In Tijuana, Iran's tiny diaspora agrees on little \u2014 except Team Melli - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFJ4RE8zYXgybG1hUm1tejBnSzNXYm9uNS1rOWkzZGlHcjhvUW1fVWZaNVh2aGJuTzRQNEpKcjN0U2NLTV9QbVlRa0hRUllHaEVja19fZ3c3NTZfbHBZN3FseXppLXJVam8zeVVfN2JzV2FDRGYtWlBOWEZDWEczM1RabW9BZ01ZWWJwanp3c25RaWlSSE55dVJzYXZCWkJJb3NsVUVlZDVMVWd6bVMw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T17:31:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6783a8105043c232fa32b5baa6a3ff56b22dea5305a2e78845fa08a2fd8d651",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T16:05:57+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T16:03:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Dow Jones Futures: Trump, Iran Deal In Focus; Five Stocks In Buy Areas, SpaceX's Next Test",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5d67438364a025ef36c3dc7069bb8cbe2c7bae7818ed6a3258756dc60c9b6df",
-      "is_watchlist": true,
-      "timestamp": "2026-06-14T15:31:13+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -762,45 +732,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Top Wall Street analysts are confident about the growth prospects of these 3 stocks",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/14/top-analysts-are-confident-about-the-prospects-of-these-3-stocks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T12:49:35+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the 3 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/14/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T12:41:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My husband won\u2019t sell his home so we can live together full time. Is this a red flag after a decade of marriage?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-14T12:25:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-14T12:00:02+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -903,6 +840,84 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Cathie Wood Buys 3.3 Million SpaceX Shares On IPO Day",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-ipo-elon-musk-tesla/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T15:20:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bernie Sanders Claps Back At Trump's 'I Love The Inflation' Remark: Working Families Are 'Struggling' To Afford Gas And Groceries",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/bernie-sanders-claps-back-trumps-150143795.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T15:01:43+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mark Cuban Says Everything in the Hospital Could Cost $1 And Insurance Companies Would Still Raise the Prices to \u2018Crush People\u2019s Financial Situation\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-says-everything-hospital-150003102.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T15:00:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TSMC Revenue Surges 30% in May on Relentless AI Demand. TSM Stock Is Still Undervalued Here.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-revenue-surges-30-may-150003206.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T15:00:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon Just Made Its Graviton5 Processor Generally Available to Customers. What This Means for AMZN Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-just-made-graviton5-processor-150003012.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T15:00:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cadence Deal With Intel Backs Bullish Thesis on Cadence\u2019s Agentic AI",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-deal-intel-backs-bullish-150002851.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T15:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Alphabet (GOOGL) Still Undervalued?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-still-undervalued-144236757.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-13T14:42:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Moats vs. moonshots: The Warren Buffett-Elon Musk style debate",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/06/13/moats-vs-moonshots-the-warren-buffett-elon-musk-style-debate.html",
@@ -993,17 +1008,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-06-12T23:05:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1309,18 +1313,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "APA",
-      "headline": "APA (APA) Stock Sinks As Market Gains: Here's Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a146a75e03bffe68407548c7d5a5beddffb0262962c6b48d6e9c8ff7d60abd7b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T22:15:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "What energy insiders in DC are saying about oil prices and a possible Iran deal",
       "source": "CNBC Markets",
@@ -1329,77 +1321,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-11T21:29:14+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "APA Corporation: Suriname Is Getting Closer, And The Market Still Isn't Paying Attention",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=28d5ad0c4b35a423576c2f3fff3ef1611a8e2d0c2ab2b147442f61699e4a5165",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T20:59:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Stocks Settle Sharply Higher on Middle East Peace Hopes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=304fbc0dd716f04eea4c0aac55625d369f97e74dfeb2c959db8e2ca3b719fdbd",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T20:35:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How companies can sneak new chemicals past the FDA \u2014 and into our food and supplements",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5853203/how-companies-can-sneak-new-chemicals-past-the-fda-and-into-our-food-and-supplements",
-      "is_watchlist": false,
-      "timestamp": "2026-06-11T20:15:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "Jefferies Maintains Buy on GE Vernova, Lowers Price Target to $1210",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=57c38d635b291a48fdaebeb8f160bcafd9889efad4419292e4e821671554c726",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T13:39:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "Dow Jones Futures Signal Market Bounce, But Then What? Oracle Dives, SpaceX IPO On Launch Pad",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e6b0813e917077143bb5c3f6b7850aaf38d6b60f8fc22dab1d4bfcfda830001",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T11:54:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Barclays Upgrades Oscar Health (OSCR)",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=c039ffa04c2160fd921bf29123d306dd4c1ba0c5ca9b6ea52202c9954955f1cb",
-      "is_watchlist": true,
-      "timestamp": "2026-06-11T00:02:58+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",
