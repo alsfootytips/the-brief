@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-15T21:32:24+00:00",
+  "generated_at": "2026-06-15T23:25:06+00:00",
   "by_date": {
     "2026-06-15": [
       {
@@ -525,7 +525,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FRVO",
         "date": "2026-06-22",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0612,
         "revenue_estimate": 0,
         "is_watchlist": false
