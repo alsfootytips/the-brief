@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-15T02:06:35.656073+00:00",
+  "generated_at": "2026-06-15T07:39:37.226350+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Addressing The Current AI Constraints As It Grows\""
+      "move_reason": "News: \"Meta: Valuation Gap Is Hard To Ignore\""
     },
     {
       "ticker": "AMD",
@@ -35,7 +35,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Xbox fans waiting on Project Helix get unexpected news from Wedbush\""
+      "move_reason": "News: \"Citi Calls AMD a Rising Force in the GPU Market, Upgrades Shares to Buy\""
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 942.6,
+      "change_pct": 3.95,
+      "volume_ratio": 0.77,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Barclays Says GE Vernova (GEV) Among Best Positioned for 800VDC Technology\""
     },
     {
       "ticker": "PWR",
@@ -50,26 +62,16 @@ window.theBriefMovers = {
       "move_reason": "News: \"Oil\u2019s 5.7% Weekly Drop Opens the Door for Jets, Materials, and Infrastructure ETFs\""
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 940.66,
-      "change_pct": 3.74,
-      "volume_ratio": 0.77,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "move_reason": "News: \"Barclays Says GE Vernova (GEV) Among Best Positioned for 800VDC Technology\""
-    },
-    {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 378.91,
-      "change_pct": 2.53,
+      "price": 382.24,
+      "change_pct": 3.43,
       "volume_ratio": 0.92,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": ""
+      "market_state": null,
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "TTD",
@@ -107,35 +109,11 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 140.08,
-      "change_pct": 1.65,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "KRE",
       "name": "KRE",
       "price": 73.47,
       "change_pct": 1.55,
       "volume_ratio": 1.01,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 107.02,
-      "change_pct": 1.48,
-      "volume_ratio": 1.02,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -154,6 +132,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 141.78,
+      "change_pct": 1.21,
+      "volume_ratio": 0.55,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
       "price": 293.59,
@@ -163,7 +153,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Fed May Have A Hawkish Surprise For Markets This Week\""
+      "move_reason": "News: \"The S&P 500's Missing Giant: What Happens If The 6th-Largest Stock Stays Out A Full Year?\""
     },
     {
       "ticker": "XLU",
@@ -171,6 +161,17 @@ window.theBriefMovers = {
       "price": 44.53,
       "change_pct": 1.09,
       "volume_ratio": 0.93,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 45.36,
+      "change_pct": 0.98,
+      "volume_ratio": 0.81,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -248,7 +249,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Xbox fans waiting on Project Helix get unexpected news from Wedbush\""
+      "move_reason": "News: \"Citi Calls AMD a Rising Force in the GPU Market, Upgrades Shares to Buy\""
     },
     {
       "ticker": "APA",
@@ -289,12 +290,13 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 940.66,
-      "change_pct": 3.74,
+      "price": 942.6,
+      "change_pct": 3.95,
       "volume_ratio": 0.77,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
+      "market_state": null,
       "move_reason": "News: \"Barclays Says GE Vernova (GEV) Among Best Positioned for 800VDC Technology\""
     },
     {
@@ -307,7 +309,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Fed May Have A Hawkish Surprise For Markets This Week\""
+      "move_reason": "News: \"The S&P 500's Missing Giant: What Happens If The 6th-Largest Stock Stays Out A Full Year?\""
     },
     {
       "ticker": "NBIS",
@@ -319,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Addressing The Current AI Constraints As It Grows\""
+      "move_reason": "News: \"Meta: Valuation Gap Is Hard To Ignore\""
     },
     {
       "ticker": "NVDA",
@@ -331,7 +333,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New D...\""
+      "move_reason": "News: \"Want $1 Million in Retirement? Start With This Index Fund.\""
     },
     {
       "ticker": "OSCR",
@@ -372,13 +374,14 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 378.91,
-      "change_pct": 2.53,
+      "price": 382.24,
+      "change_pct": 3.43,
       "volume_ratio": 0.92,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
-      "move_reason": ""
+      "market_state": null,
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "TTD",
@@ -628,6 +631,32 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 382.24,
+      "change_pct": 3.43,
+      "score": 5.0,
+      "signals": [
+        "Moved +3.43% \u2014 a 1.2\u03c3 move",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 5.2 (cheap on absolute basis)",
+        "Down -28.6% over 3 months \u2014 deep drawdown"
+      ],
+      "reasons": [
+        "Moved +3.43% \u2014 a 1.2\u03c3 move",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 5.2 (cheap on absolute basis)",
+        "Down -28.6% over 3 months \u2014 deep drawdown"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap",
+        "drawdown"
+      ],
+      "narrative": "<strong>TPL</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 56.41,
@@ -678,16 +707,16 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 940.66,
-      "change_pct": 3.74,
+      "price": 942.6,
+      "change_pct": 3.95,
       "score": 4.5,
       "signals": [
-        "Moved +3.74% \u2014 a 1.3\u03c3 move",
+        "Moved +3.95% \u2014 a 1.4\u03c3 move",
         "9 insider buys vs 1 sells (last 90 days)",
         "+2 analyst buy recs added recently"
       ],
       "reasons": [
-        "Moved +3.74% \u2014 a 1.3\u03c3 move",
+        "Moved +3.95% \u2014 a 1.4\u03c3 move",
         "9 insider buys vs 1 sells (last 90 days)",
         "+2 analyst buy recs added recently"
       ],
@@ -697,30 +726,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 378.91,
-      "change_pct": 2.53,
-      "score": 4.0,
-      "signals": [
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 5.2 (cheap on absolute basis)",
-        "Down -28.6% over 3 months \u2014 deep drawdown"
-      ],
-      "reasons": [
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 5.2 (cheap on absolute basis)",
-        "Down -28.6% over 3 months \u2014 deep drawdown"
-      ],
-      "tags": [
-        "insider-buying",
-        "cheap",
-        "drawdown"
-      ],
-      "narrative": "<strong>TPL</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
-      "sector_etf": "XLE"
     },
     {
       "ticker": "AMD",
