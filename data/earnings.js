@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-15T07:39:37+00:00",
+  "generated_at": "2026-06-15T13:41:45+00:00",
   "by_date": {
     "2026-06-15": [
       {
@@ -1242,14 +1242,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GBX",
-        "date": "2026-06-29",
-        "hour": "",
-        "eps_estimate": 0.6094,
-        "revenue_estimate": 623746376,
         "is_watchlist": false
       },
       {
