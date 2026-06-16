@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-16T20:52:34+00:00",
+  "generated_at": "2026-06-16T22:53:25+00:00",
   "by_date": {
     "2026-06-16": [
       {
@@ -445,7 +445,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KEQU",
         "date": "2026-06-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -485,7 +485,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SUNB",
         "date": "2026-06-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.7721,
         "revenue_estimate": 2689272840,
         "is_watchlist": false
