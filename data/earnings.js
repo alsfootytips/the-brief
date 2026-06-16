@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-16T07:43:29+00:00",
+  "generated_at": "2026-06-16T12:33:12+00:00",
   "by_date": {
     "2026-06-16": [
       {
@@ -887,6 +887,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "WSE",
+        "date": "2026-06-25",
+        "hour": "amc",
+        "eps_estimate": 0.1949,
+        "revenue_estimate": 881805750,
+        "is_watchlist": false
+      },
+      {
         "ticker": "XCUR",
         "date": "2026-06-25",
         "hour": "",
@@ -952,6 +960,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AVAV",
+        "date": "2026-06-29",
+        "hour": "amc",
+        "eps_estimate": 1.4934,
+        "revenue_estimate": 569984731,
         "is_watchlist": false
       },
       {
@@ -1093,14 +1109,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "AVAV",
-        "date": "2026-06-30",
-        "hour": "amc",
-        "eps_estimate": 1.4934,
-        "revenue_estimate": 569984731,
-        "is_watchlist": false
-      },
-      {
         "ticker": "AVK",
         "date": "2026-06-30",
         "hour": "",
@@ -1210,14 +1218,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 3.3023,
         "revenue_estimate": 2432994413,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "WSE",
-        "date": "2026-06-30",
-        "hour": "amc",
-        "eps_estimate": 0.1949,
-        "revenue_estimate": 881805750,
         "is_watchlist": false
       }
     ]
