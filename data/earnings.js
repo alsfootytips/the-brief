@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-17T21:35:49+00:00",
+  "generated_at": "2026-06-17T23:08:36+00:00",
   "by_date": {
     "2026-06-17": [
       {
@@ -635,7 +635,7 @@ window.theBriefEarnings = {
       {
         "ticker": "POWW",
         "date": "2026-06-22",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0102,
         "revenue_estimate": 12954000,
         "is_watchlist": false
@@ -693,7 +693,7 @@ window.theBriefEarnings = {
       {
         "ticker": "JFIN",
         "date": "2026-06-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -807,7 +807,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DAKT",
         "date": "2026-06-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.2006,
         "revenue_estimate": 209372003,
         "is_watchlist": false
@@ -815,7 +815,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FUL",
         "date": "2026-06-24",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.4094,
         "revenue_estimate": 933361341,
         "is_watchlist": false
@@ -847,7 +847,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MNY",
         "date": "2026-06-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0606,
         "revenue_estimate": 16336750,
         "is_watchlist": false
@@ -863,7 +863,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NG",
         "date": "2026-06-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0478,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -887,7 +887,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PAYX",
         "date": "2026-06-24",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 1.3301,
         "revenue_estimate": 1632588815,
         "is_watchlist": false
