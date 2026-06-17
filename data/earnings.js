@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-17T05:25:03+00:00",
+  "generated_at": "2026-06-17T10:14:59+00:00",
   "by_date": {
     "2026-06-17": [
       {
@@ -364,16 +364,16 @@ window.theBriefEarnings = {
         "ticker": "GRCE",
         "date": "2026-06-23",
         "hour": "",
-        "eps_estimate": -0.2346,
-        "revenue_estimate": 0,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "GRCE",
         "date": "2026-06-23",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.2346,
+        "revenue_estimate": 0,
         "is_watchlist": false
       },
       {
@@ -390,6 +390,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KFY",
+        "date": "2026-06-23",
+        "hour": "bmo",
+        "eps_estimate": 1.3898,
+        "revenue_estimate": 749617556,
         "is_watchlist": false
       },
       {
@@ -520,14 +528,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KFY",
-        "date": "2026-06-24",
-        "hour": "bmo",
-        "eps_estimate": 1.3898,
-        "revenue_estimate": 749617556,
         "is_watchlist": false
       },
       {
