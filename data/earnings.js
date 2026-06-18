@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-18T14:14:39+00:00",
+  "generated_at": "2026-06-18T17:32:53+00:00",
   "by_date": {
     "2026-06-18": [
       {
@@ -1149,27 +1149,19 @@ window.theBriefEarnings = {
     ],
     "2026-07-01": [
       {
-        "ticker": "BABB",
-        "date": "2026-07-01",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BUKS",
-        "date": "2026-07-01",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "CULP",
         "date": "2026-07-01",
         "hour": "amc",
         "eps_estimate": -0.1122,
         "revenue_estimate": 51102000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "EACO",
+        "date": "2026-07-01",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -1197,6 +1189,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "FIZZ",
+        "date": "2026-07-01",
+        "hour": "amc",
+        "eps_estimate": 0.4794,
+        "revenue_estimate": 302307600,
+        "is_watchlist": false
+      },
+      {
         "ticker": "GBX",
         "date": "2026-07-01",
         "hour": "",
@@ -1218,14 +1218,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JEF",
-        "date": "2026-07-01",
-        "hour": "",
-        "eps_estimate": 1.0933,
-        "revenue_estimate": 2189859275,
         "is_watchlist": false
       },
       {
@@ -1270,6 +1262,22 @@ window.theBriefEarnings = {
       }
     ],
     "2026-07-02": [
+      {
+        "ticker": "BABB",
+        "date": "2026-07-02",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LEVI",
+        "date": "2026-07-02",
+        "hour": "",
+        "eps_estimate": 0.2452,
+        "revenue_estimate": 1546627091,
+        "is_watchlist": false
+      },
       {
         "ticker": "PKE",
         "date": "2026-07-02",
