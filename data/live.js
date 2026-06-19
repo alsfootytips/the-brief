@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-19T22:38:27.348769+00:00",
+  "generated_at": "2026-06-19T22:46:33.394198+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-19T22:38:27.345638+00:00",
+      "timestamp": "2026-06-19T22:46:33.262570+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-19T22:38:27.345635+00:00",
+      "timestamp": "2026-06-19T22:46:33.262566+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-19T22:38:27.345625+00:00",
+      "timestamp": "2026-06-19T22:46:33.262557+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -626,6 +626,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "GEV",
+      "headline": "10 Industrials Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=46a9d8a5c138dcb9e4509dffd30ce45cbbd82fc3ec882de5b1e6458e939a40da",
+      "is_watchlist": true,
+      "timestamp": "2026-06-19T13:35:22+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Sees Demand Beyond 2030: Is the Market Undervaluing Its Growth?",
       "source": "Yahoo",
@@ -796,18 +808,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-19T02:47:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "Forget Critical Metals, Electricity is The Real Bottleneck for AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02b102bf5c53bac1a5ecb68a9bbc39c89d36c8f89b432fdf826613bc75817716",
-      "is_watchlist": true,
-      "timestamp": "2026-06-19T00:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
