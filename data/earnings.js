@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-19T14:49:58+00:00",
+  "generated_at": "2026-06-19T16:21:36+00:00",
   "by_date": {
     "2026-06-19": [
       {
@@ -1178,6 +1178,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.2452,
         "revenue_estimate": 1546627091,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LNN",
+        "date": "2026-07-02",
+        "hour": "",
+        "eps_estimate": 1.2196,
+        "revenue_estimate": 159382040,
         "is_watchlist": false
       },
       {

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-19T14:49:58.181198+00:00",
+  "generated_at": "2026-06-19T16:21:36.174177+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Leads Big Chip Stock Rally\""
+      "move_reason": "News: \"Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring\""
     },
     {
       "ticker": "DG",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Target Stock Up 31% Year to Date: Should You Buy, Hold or Sell?\""
+      "move_reason": "News: \"Is DLTR Stock a Buy as Earnings Rise but Risks Keep Valuation in Check\""
     },
     {
       "ticker": "XLK",
@@ -117,7 +117,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2026 Midyear Outlook: World Disrupted? Resilience Endured\""
+      "move_reason": "News: \"Breadth Repairs Wednesday\u2019s Damage as Growth Leads Again\""
     },
     {
       "ticker": "NBIS",
@@ -200,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Stock Dips While Market Gains: Key Facts\""
+      "move_reason": "News: \"APA Gains 63% in a Year: Is the Market Finally Catching On?\""
     },
     {
       "ticker": "PLTR",
@@ -236,7 +236,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"KB Home to Report Q2 Earnings: What's in Store for the Stock?\""
+      "move_reason": "News: \"Quanta Sees Demand Beyond 2030: Is the Market Undervaluing Its Growth?\""
     },
     {
       "ticker": "XLF",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 143.48,
       "change_pct": -0.01,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -329,7 +329,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Leads Big Chip Stock Rally\""
+      "move_reason": "News: \"Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Stock Dips While Market Gains: Key Facts\""
+      "move_reason": "News: \"APA Gains 63% in a Year: Is the Market Finally Catching On?\""
     },
     {
       "ticker": "CRWV",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Target Stock Up 31% Year to Date: Should You Buy, Hold or Sell?\""
+      "move_reason": "News: \"Is DLTR Stock a Buy as Earnings Rise but Risks Keep Valuation in Check\""
     },
     {
       "ticker": "GEV",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2026 Midyear Outlook: World Disrupted? Resilience Endured\""
+      "move_reason": "News: \"Breadth Repairs Wednesday\u2019s Damage as Growth Leads Again\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"KB Home to Report Q2 Earnings: What's in Store for the Stock?\""
+      "move_reason": "News: \"Quanta Sees Demand Beyond 2030: Is the Market Undervaluing Its Growth?\""
     },
     {
       "ticker": "TPL",
@@ -765,13 +765,13 @@ window.theBriefMovers = {
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.0% over 3 months \u2014 deep drawdown"
+        "Down -33.2% over 3 months \u2014 deep drawdown"
       ],
       "reasons": [
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.0% over 3 months \u2014 deep drawdown"
+        "Down -33.2% over 3 months \u2014 deep drawdown"
       ],
       "tags": [
         "news-flow",
