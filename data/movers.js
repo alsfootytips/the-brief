@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-19T18:16:38.314503+00:00",
+  "generated_at": "2026-06-19T20:15:27.068963+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -42,7 +42,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 191.44,
       "change_pct": 3.04,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.94,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -65,7 +65,7 @@ window.theBriefMovers = {
       "name": "SOFI",
       "price": 17.88,
       "change_pct": 2.64,
-      "volume_ratio": 0.92,
+      "volume_ratio": 0.93,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -100,7 +100,7 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 117.61,
       "change_pct": 2.08,
-      "volume_ratio": 1.69,
+      "volume_ratio": 1.7,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -129,7 +129,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Time To Sell...Almost (Rating Downgrade)\""
+      "move_reason": "News: \"Open-Source AI Models Are Eating The Frontier: Where Value Goes\""
     },
     {
       "ticker": "XLY",
@@ -147,7 +147,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 574.8,
       "change_pct": 1.27,
-      "volume_ratio": 1.55,
+      "volume_ratio": 1.56,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -207,7 +207,7 @@ window.theBriefMovers = {
       "name": "PLTR",
       "price": 128.66,
       "change_pct": -1.51,
-      "volume_ratio": 1.41,
+      "volume_ratio": 1.42,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -243,7 +243,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 53.57,
       "change_pct": -0.89,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -348,7 +348,7 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 117.61,
       "change_pct": 2.08,
-      "volume_ratio": 1.69,
+      "volume_ratio": 1.7,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Time To Sell...Almost (Rating Downgrade)\""
+      "move_reason": "News: \"Open-Source AI Models Are Eating The Frontier: Where Value Goes\""
     },
     {
       "ticker": "NVDA",
@@ -494,7 +494,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 515.52,
       "change_pct": 0.12,
-      "volume_ratio": 1.1,
+      "volume_ratio": 1.11,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -537,7 +537,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 191.44,
       "change_pct": 3.04,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.94,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -627,7 +627,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 53.57,
       "change_pct": -0.89,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
