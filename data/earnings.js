@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-19T05:25:05+00:00",
+  "generated_at": "2026-06-19T09:59:07+00:00",
   "by_date": {
     "2026-06-19": [
       {
@@ -345,6 +345,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CRWS",
+        "date": "2026-06-24",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "DAKT",
         "date": "2026-06-24",
         "hour": "bmo",
@@ -587,14 +595,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "LNN",
-        "date": "2026-06-25",
-        "hour": "",
-        "eps_estimate": 1.2196,
-        "revenue_estimate": 159382040,
-        "is_watchlist": false
-      },
-      {
         "ticker": "MSN",
         "date": "2026-06-25",
         "hour": "",
@@ -640,14 +640,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SMPL",
-        "date": "2026-06-25",
-        "hour": "bmo",
-        "eps_estimate": 0.3625,
-        "revenue_estimate": 344363689,
         "is_watchlist": false
       },
       {

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-19T05:25:05.683740+00:00",
+  "generated_at": "2026-06-19T09:59:07.720221+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is The AI Super-Cycle Real Enough To Bet On Micron Stock?\""
+      "move_reason": "News: \"Apple's Price Warning Sends Memory Chips To A Record, Accenture Cracks 18%\""
     },
     {
       "ticker": "DG",
@@ -93,7 +93,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Rises Higher Than Market: Key Facts\""
+      "move_reason": "News: \"The Trade Desk (TTD) Appoints Sarah Gavin as CMO and EVP\""
     },
     {
       "ticker": "CRWV",
@@ -117,7 +117,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Global Exports Downturn Deepens In May As War Hits Trade In Services\""
+      "move_reason": "News: \"The Hidden Policy Tightening From Warsh's First FOMC Meeting\""
     },
     {
       "ticker": "NBIS",
@@ -166,15 +166,14 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 109.14,
-      "change_pct": 0.76,
-      "volume_ratio": 1.09,
+      "ticker": "XLI",
+      "name": "Industrial Select Sector",
+      "price": 180.91,
+      "change_pct": 0.73,
+      "volume_ratio": 0.95,
       "is_watchlist": false,
       "is_index": false,
-      "is_sector": false,
-      "market_state": null,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -295,6 +294,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 143.38,
+      "change_pct": -0.08,
+      "volume_ratio": 0.44,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 28.26,
@@ -318,7 +329,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is The AI Super-Cycle Real Enough To Bet On Micron Stock?\""
+      "move_reason": "News: \"Apple's Price Warning Sends Memory Chips To A Record, Accenture Cracks 18%\""
     },
     {
       "ticker": "APA",
@@ -378,7 +389,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Global Exports Downturn Deepens In May As War Hits Trade In Services\""
+      "move_reason": "News: \"The Hidden Policy Tightening From Warsh's First FOMC Meeting\""
     },
     {
       "ticker": "NBIS",
@@ -462,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Rises Higher Than Market: Key Facts\""
+      "move_reason": "News: \"The Trade Desk (TTD) Appoints Sarah Gavin as CMO and EVP\""
     },
     {
       "ticker": "XLE",
