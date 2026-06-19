@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-19T20:15:27.068963+00:00",
+  "generated_at": "2026-06-19T21:38:11.713001+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -30,7 +30,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 113.54,
       "change_pct": 4.46,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.15,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -132,17 +132,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Open-Source AI Models Are Eating The Frontier: Where Value Goes\""
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "price": 117.16,
-      "change_pct": 1.45,
-      "volume_ratio": 1.15,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "META",
       "name": "META",
       "price": 574.8,
@@ -175,9 +164,53 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 44.76,
+      "change_pct": 0.67,
+      "volume_ratio": 1.65,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     }
   ],
   "losers": [
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 109.2,
+      "change_pct": -2.78,
+      "volume_ratio": 1.22,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 43.97,
+      "change_pct": -2.51,
+      "volume_ratio": 1.85,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 115.49,
+      "change_pct": -2.51,
+      "volume_ratio": 1.24,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
@@ -189,6 +222,17 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks\""
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 83.68,
+      "change_pct": -2.23,
+      "volume_ratio": 1.51,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     },
     {
       "ticker": "APA",
@@ -261,33 +305,11 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 83.3,
-      "change_pct": -0.45,
-      "volume_ratio": 0.9,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 51.81,
       "change_pct": -0.4,
       "volume_ratio": 0.89,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 43.86,
-      "change_pct": -0.25,
-      "volume_ratio": 0.94,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -360,7 +382,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 113.54,
       "change_pct": 4.46,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.15,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -456,7 +478,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 355.85,
       "change_pct": 0.39,
-      "volume_ratio": 2.01,
+      "volume_ratio": 0.91,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -543,16 +565,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "price": 117.16,
-      "change_pct": 1.45,
-      "volume_ratio": 1.15,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 180.91,
@@ -573,41 +585,11 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 109.45,
-      "change_pct": 0.23,
-      "volume_ratio": 1.35,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 43.86,
-      "change_pct": -0.25,
-      "volume_ratio": 0.94,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 51.81,
       "change_pct": -0.4,
       "volume_ratio": 0.89,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 83.3,
-      "change_pct": -0.45,
-      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -642,6 +624,46 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 83.68,
+      "change_pct": -2.23,
+      "volume_ratio": 1.51,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 43.97,
+      "change_pct": -2.51,
+      "volume_ratio": 1.85,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 115.49,
+      "change_pct": -2.51,
+      "volume_ratio": 1.24,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 109.2,
+      "change_pct": -2.78,
+      "volume_ratio": 1.22,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
     }
   ],
   "watchlist_radar": [
@@ -679,13 +701,13 @@ window.theBriefMovers = {
       "change_pct": 4.46,
       "score": 7.0,
       "signals": [
-        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.8% daily vol",
+        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 14.2 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.8% daily vol",
+        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 14.2 (cheap on absolute basis)"
@@ -765,13 +787,13 @@ window.theBriefMovers = {
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.2% over 3 months \u2014 deep drawdown"
+        "Down -33.0% over 3 months \u2014 deep drawdown"
       ],
       "reasons": [
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.2% over 3 months \u2014 deep drawdown"
+        "Down -33.0% over 3 months \u2014 deep drawdown"
       ],
       "tags": [
         "news-flow",
@@ -920,6 +942,36 @@ window.theBriefMovers = {
       ]
     },
     {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "change_pct": -2.78,
+      "price": 109.2,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "change_pct": -2.51,
+      "price": 43.97,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "change_pct": -2.51,
+      "price": 115.49,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "change_pct": -2.23,
+      "price": 83.68,
+      "watchlist_members": [
+        "DG"
+      ]
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "change_pct": -1.5,
@@ -929,13 +981,6 @@ window.theBriefMovers = {
         "TPL",
         "OXY"
       ]
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "change_pct": 1.45,
-      "price": 117.16,
-      "watchlist_members": []
     },
     {
       "ticker": "XLF",
@@ -971,33 +1016,10 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "change_pct": -0.45,
-      "price": 83.3,
-      "watchlist_members": [
-        "DG"
-      ]
-    },
-    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "change_pct": -0.4,
       "price": 51.81,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "change_pct": -0.25,
-      "price": 43.86,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "change_pct": 0.23,
-      "price": 109.45,
       "watchlist_members": []
     }
   ]
