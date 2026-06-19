@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-19T16:21:36.174177+00:00",
+  "generated_at": "2026-06-19T18:16:38.314503+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can GEV's Sustainability Create Long-Term Competitive Advantages?\""
+      "move_reason": "News: \"New England\u2019s Top Marketing Executives Named at the 2026 BostonCMO ORBIE Awards\""
     },
     {
       "ticker": "AMD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring\""
+      "move_reason": "News: \"Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broa...\""
     },
     {
       "ticker": "DG",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"It Is Wise To Get Cautious Here. Fortunately, There Are Options\""
+      "move_reason": "News: \"Leading And Lagging Sectors For June 19, 2026\""
     },
     {
       "ticker": "PWR",
@@ -329,7 +329,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Donald Trump\u2019s Under-The-Radar Tech Stock Pick Everyone\u2019s Ignoring\""
+      "move_reason": "News: \"Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broa...\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can GEV's Sustainability Create Long-Term Competitive Advantages?\""
+      "move_reason": "News: \"New England\u2019s Top Marketing Executives Named at the 2026 BostonCMO ORBIE Awards\""
     },
     {
       "ticker": "IWM",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"It Is Wise To Get Cautious Here. Fortunately, There Are Options\""
+      "move_reason": "News: \"Leading And Lagging Sectors For June 19, 2026\""
     }
   ],
   "indices": [
