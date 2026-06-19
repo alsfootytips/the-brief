@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-19T13:41:22.651033+00:00",
+  "generated_at": "2026-06-19T14:49:58.181198+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Forget Critical Metals, Electricity is The Real Bottleneck for AI\""
+      "move_reason": "News: \"Can GEV's Sustainability Create Long-Term Competitive Advantages?\""
     },
     {
       "ticker": "AMD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally\""
+      "move_reason": "News: \"Intel Leads Big Chip Stock Rally\""
     },
     {
       "ticker": "DG",
@@ -117,7 +117,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$100,000 In 7%+ Average Yielding MLPs: Tax-Friendly Retirement Picks\""
+      "move_reason": "News: \"2026 Midyear Outlook: World Disrupted? Resilience Endured\""
     },
     {
       "ticker": "NBIS",
@@ -236,7 +236,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Stock Rallies More Than 66% Year to Date: Still a Buy?\""
+      "move_reason": "News: \"KB Home to Report Q2 Earnings: What's in Store for the Stock?\""
     },
     {
       "ticker": "XLF",
@@ -304,6 +304,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "Tracking XLV sector (-0.87% today)"
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 143.48,
+      "change_pct": -0.01,
+      "volume_ratio": 0.76,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -317,7 +329,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally\""
+      "move_reason": "News: \"Intel Leads Big Chip Stock Rally\""
     },
     {
       "ticker": "APA",
@@ -365,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Forget Critical Metals, Electricity is The Real Bottleneck for AI\""
+      "move_reason": "News: \"Can GEV's Sustainability Create Long-Term Competitive Advantages?\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +389,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$100,000 In 7%+ Average Yielding MLPs: Tax-Friendly Retirement Picks\""
+      "move_reason": "News: \"2026 Midyear Outlook: World Disrupted? Resilience Endured\""
     },
     {
       "ticker": "NBIS",
@@ -437,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Stock Rallies More Than 66% Year to Date: Still a Buy?\""
+      "move_reason": "News: \"KB Home to Report Q2 Earnings: What's in Store for the Stock?\""
     },
     {
       "ticker": "TPL",
@@ -753,13 +765,13 @@ window.theBriefMovers = {
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.2% over 3 months \u2014 deep drawdown"
+        "Down -33.0% over 3 months \u2014 deep drawdown"
       ],
       "reasons": [
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.2% over 3 months \u2014 deep drawdown"
+        "Down -33.0% over 3 months \u2014 deep drawdown"
       ],
       "tags": [
         "news-flow",
