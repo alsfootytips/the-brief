@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-19T09:59:07.720221+00:00",
+  "generated_at": "2026-06-19T13:41:22.651033+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple's Price Warning Sends Memory Chips To A Record, Accenture Cracks 18%\""
+      "move_reason": "News: \"Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally\""
     },
     {
       "ticker": "DG",
@@ -117,7 +117,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Hidden Policy Tightening From Warsh's First FOMC Meeting\""
+      "move_reason": "News: \"$100,000 In 7%+ Average Yielding MLPs: Tax-Friendly Retirement Picks\""
     },
     {
       "ticker": "NBIS",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Stocks Trade As If Iran War Never Happened: 10 Falling Knives To Watch\""
+      "move_reason": "News: \"It Is Wise To Get Cautious Here. Fortunately, There Are Options\""
     },
     {
       "ticker": "PWR",
@@ -294,18 +294,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 143.38,
-      "change_pct": -0.08,
-      "volume_ratio": 0.44,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 28.26,
@@ -329,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple's Price Warning Sends Memory Chips To A Record, Accenture Cracks 18%\""
+      "move_reason": "News: \"Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally\""
     },
     {
       "ticker": "APA",
@@ -389,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Hidden Policy Tightening From Warsh's First FOMC Meeting\""
+      "move_reason": "News: \"$100,000 In 7%+ Average Yielding MLPs: Tax-Friendly Retirement Picks\""
     },
     {
       "ticker": "NBIS",
@@ -485,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Stocks Trade As If Iran War Never Happened: 10 Falling Knives To Watch\""
+      "move_reason": "News: \"It Is Wise To Get Cautious Here. Fortunately, There Are Options\""
     }
   ],
   "indices": [
