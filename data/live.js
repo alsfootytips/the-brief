@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-19T22:46:33.394198+00:00",
+  "generated_at": "2026-06-19T23:49:00.409185+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-19T22:46:33.262570+00:00",
+      "timestamp": "2026-06-19T23:49:00.406170+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-19T22:46:33.262566+00:00",
+      "timestamp": "2026-06-19T23:49:00.406166+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,33 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-19T22:46:33.262557+00:00",
+      "timestamp": "2026-06-19T23:49:00.406157+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Italy has performed better this decade than pre-2020. How long will this last?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/italy-has-performed-better-this-decade-than-pre2020-how-long-will-this-last-4751577",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T23:33:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T23:00:29+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -44,10 +67,32 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-19T22:31:27+00:00",
+      "timestamp": "2026-06-19T22:53:09+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli envoy and UN official clash at hearing on children in conflict",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-envoy-and-un-official-clash-at-hearing-on-children-in-conflict-4751573",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T22:42:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TD Bank to use software to monitor employees\u2019 work activity - Reuters",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/td-bank-to-use-software-to-monitor-employees-work-activity--reuters-4751576",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T22:41:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -68,17 +113,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/commodities-news/rubio-plans-middle-east-trip-next-week-axios-reports-4751574",
       "is_watchlist": false,
       "timestamp": "2026-06-19T22:06:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli envoy and UN official clash at hearing on children in conflict",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-envoy-and-un-official-clash-at-hearing-on-children-in-conflict-4751573",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T22:00:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -148,28 +182,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-402-4751568",
       "is_watchlist": false,
       "timestamp": "2026-06-19T21:25:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canadian billionaire Frank Stronach found guilty of sexual assault, indecent assault",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/canadian-billionaire-frank-stronach-found-guilty-of-sexual-assault-indecent-assault-4751567",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T21:24:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index down 1.04%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-104-4751566",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T21:20:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -438,18 +450,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-19T16:00:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T15:57:27+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -964,22 +964,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "'Passive' investors who dodged bitcoin are now forced to own SpaceX, which is three times more volatile",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html",
+      "headline": "Corn Heading into the Long Weekend with Losses",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-heading-long-weekend-losses-164730501.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-18T15:49:14+00:00",
+      "timestamp": "2026-06-18T16:47:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "As Bitcoin is tanking, Wyoming becomes the first state to issue cryptocurrency. What to know about the FRNT stablecoin",
+      "headline": "Wheat Falling Back on Thursday",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tanking-wyoming-becomes-first-152500088.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-falling-back-thursday-164730576.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-18T15:25:00+00:00",
+      "timestamp": "2026-06-18T16:47:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michael Burry is questioning SpaceX's $3-trillion market valuation \u2014 and says he'd be tempted to bet against it",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-questioning-spacexs-3-164000469.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-18T16:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prediction: Oracle Will Trade at This Price in 2027",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-oracle-trade-price-2027-163608941.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-18T16:36:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "He made money on SpaceX's IPO \u2014 but leaving $60,000 on the table made him and others 'feel like idiots'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/made-money-spacexs-ipo-leaving-163500384.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-18T16:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesco Sinks as Muddy Weather Trumps World Cup Momentum",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesco-sinks-muddy-weather-trumps-162319968.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-18T16:23:19+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Passive' investors who dodged bitcoin are now forced to own SpaceX, which is three times more volatile",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-18T15:49:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1006,72 +1061,6 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Microsoft expands AI business in China, with ByteDance emerging as top customer",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-expands-ai-business-china-152000672.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T15:20:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks Supported as Geopolitical Risks Recede",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-geopolitical-risks-recede-151709682.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T15:17:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi Initiates Bullish Coverage on Figma Stock as the AI Monetization Story Takes Shape",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/citi-initiates-bullish-coverage-figma-150324533.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T15:03:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adobe (ADBE) Downgraded to Hold by Freedom Broker",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-downgraded-hold-freedom-150322374.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T15:03:22+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cantor Fitzgerald Maintains Neutral Rating on GitLab Inc. (GTLB)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cantor-fitzgerald-maintains-neutral-rating-150318388.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T15:03:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Truist Upgrades Datadog (DDOG) to Buy from Neutral",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/truist-upgrades-datadog-ddog-buy-150317500.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T15:03:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1364,6 +1353,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html",
+      "is_watchlist": false,
+      "timestamp": "2026-04-09T14:28:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };
