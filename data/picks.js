@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-19T00:01:42.027731+00:00",
+  "generated_at": "2026-06-19T05:25:05.725599+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -535,9 +535,9 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 704.26,
-      "current_pct": -6.73,
-      "change_pct_today": -1.48,
+      "current_price": 704.5,
+      "current_pct": -6.7,
+      "change_pct_today": -1.45,
       "name": "Quanta Services",
       "news_count": 3,
       "days_elapsed": 37,
@@ -637,9 +637,9 @@ window.theBriefPicks = {
       "horizon_label": "Long-term",
       "direction": "long",
       "pick_type": "thematic",
-      "current_price": 71.58,
-      "current_pct": 6.92,
-      "change_pct_today": 0.6,
+      "current_price": 71.59,
+      "current_pct": 6.93,
+      "change_pct_today": 0.62,
       "name": "KRE",
       "news_count": 0,
       "days_elapsed": 32,
