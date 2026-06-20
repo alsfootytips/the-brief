@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-20T22:07:57.962561+00:00",
+  "generated_at": "2026-06-20T23:36:55.018506+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T22:07:57.959647+00:00",
+      "timestamp": "2026-06-20T23:36:55.016128+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T22:07:57.959643+00:00",
+      "timestamp": "2026-06-20T23:36:55.016125+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T22:07:57.959634+00:00",
+      "timestamp": "2026-06-20T23:36:55.016119+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,11 +40,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+      "headline": "Why Did Ambarella's CFO Sell Over 5,000 Company Shares?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-ambarellas-cfo-sell-231801645.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T23:18:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T22:07:09+00:00",
+      "timestamp": "2026-06-20T22:59:26+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -52,13 +63,86 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Netflix Stock Cheap or Overvalued? Here's What Investors Need to Know.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-cheap-overvalued-heres-214900542.html",
+      "headline": "What Burnham\u2019s by-election win means for UK stocks?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/what-burnhams-byelection-win-means-for-uk-stocks-4751636",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T21:49:00+00:00",
+      "timestamp": "2026-06-20T22:48:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli fire kills nine people in Gaza, including a child and journalist, medics say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-fire-kills-five-people-in-gaza-including-a-child-medics-say-4751613",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T22:42:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T22:29:08+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "U.S. defends Iran World Cup travel restrictions, says discussions ongoing - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXZKd3Rfc2FkZHhCTEc1WWk1cjBmbm95d2xObktVdTJ4S2JtUnd1ZzMydmltY3B0SUszd3BSN25PMHdPLXBOTlEtbnJ1c1ROV21zT0tZT3RTeTFHczIxRlhUNTI3RXNmSVhNaVVwUWJEcy1BT1ZLTnhXd0sxTXB6MW9qVUFuYXlpSVI2Ni1lb3doTnA2aW9jNG9CQWxZLUc2TnVIQ21TUGdjWkZ6SElKMDhOM2UxeXJfRGVhbg?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T22:03:52+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/report-says-uk-pm-starmer-ready-to-quit-but-source-says-he-is-still-focused-on-the-job-4751635",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T22:00:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=922d1ee0357bc72cba465c5f026126ab7efaa0de930a5a46da88c4c295923d1a",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T21:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Ford Could Make $500 Million From AI. Is Now the Time to Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b149f939299b3d4c81ae2a41818ab649986aa938c149055b3b993e7af347da89",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T21:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -96,6 +180,18 @@ window.theBriefLive = {
       "timestamp": "2026-06-20T21:20:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "This Company Could Become the Nvidia of AI Inference",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0aaaca5f9447eb81ca5fa1c34c37ed770a6ab0353c7357dc2b7925b15f9962b",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -166,17 +262,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "NIQ Global Intelligence (NIQ) Unveils AI-Powered Cadence Platform to Unify Marketing Intelligence and Decision-Making",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/niq-global-intelligence-niq-unveils-203508037.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:35:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bolivia on edge after Paz declares emergency to clear protest gridlock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/bolivias-paz-declares-state-of-emergency-over-blockade-crisis-4751603",
@@ -184,6 +269,21 @@ window.theBriefLive = {
       "timestamp": "2026-06-20T20:24:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says no toll on Strait of Hormuz unless US imposes one - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTlFTUJWal9HaWxJLTBvcWZDT1BnOGlTdGxOWWdzZWMtWlpsTXQ1V0NLVVFXY29oSGxwRVotLVFMU2ptbS11M21nM2pSdExIM1E3OTFSUTc0d0xqeEZCblZtb0VHOEpPWXhzN2NDc2hvXzZ3bGFZSHlKak9VeUVIcElMSk5IcXlfZlh1QTh5emxIT25yQVRMZ09GOHduTDFkVFRIWkZuaXZLZjNK?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T20:01:43+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -213,70 +313,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Should You Buy Abbott Labs Stock Hand Over Fist Before July 16?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df141f809a8cdc5f358c7ce7800fd8270494f69c4e674d45b565ebf7bb58f739",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T19:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Energy Infrastructure Fund Delivers 19% Gains While Paying 2.8% Yield To Income Hunters",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d857110d1287cb7ef47ac32de5f267c4a04b625b7a3dc67ae53efffb59ee6fab",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T19:32:16+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "12 Months From Now, Will You Wish You Bought SpaceX Today?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c986c319fb99e25c9de8416f9dacfdf74d59f654d79d84f5de7912643f1e42d",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T19:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/world-cup-bus-set-alight-as-chaotic-celebrations-erupt-in-manhattan-after-knicks-win-4751630",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T19:18:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "SA Asks: What are the most attractive upcoming IPOs?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4605291-sa-asks-what-are-the-most-attractive-upcoming-ipos?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-20T19:10:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin battles $65K resistance amid MACD bounce: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-66380-resistance-after-wbottom-breakout-live-levels-93CH-4741296",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T19:02:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -356,18 +398,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-20T18:02:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Will the end of the US-Iran war boost Republicans in the midterms?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/will-the-end-of-the-usiran-war-boost-republicans-in-the-midterms-4751629",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T18:01:31+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -731,35 +761,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "With Lebanon ceasefire set, Trump envoy heads to Switzerland for U.S.-Iran talks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGlIRzVkQXRyMi1KZ2xpUGFScEtiNlk2M2VjV0t2M0xsY1NYcFJfQXNxSTFDSXFjaXZmNDVMWkVvU00zX0tXTE80MXpFUlVUeE8xOW1USzJtTERYV09YRU4zbnRic1NwaG1WRHVRT2s2TTl4NkgxMjNVMEtsS0pyQl9ldURhQVkwTzdzcG5sajE3bzhSS1h5NWpoWDJZd05HdTFodHd6azZjN2JLT25xaA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T23:49:50+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Cathie Wood dumps nearly $60 million in popular growth stocks",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html",
       "is_watchlist": false,
       "timestamp": "2026-06-19T22:33:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Belgium face Iran in pivotal Group G clash amid travel row - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVpZSGNpLWdnR0gtTjN4Z2NNc1R4LWZqNEZOVHUtRDNjU3d4MzlqLUtPVjRXSFdIQjUwNkNFNzlfd04tVlJ0a1cwYVZUalVrZF9FWkN2dC1ZVlkyVVAydUlNTUhYYjg3QV9sYjBGdUltUHVTRksyV0x0ejVUSEJGYllST0JoMlpTU08wcmJFMmhhMk1YVmw1aGx4cU5Xc25QTkVMYlNJWmk?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T21:32:11+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
