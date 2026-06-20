@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-20T20:51:10.367484+00:00",
+  "generated_at": "2026-06-20T22:07:57.957535+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -30,7 +30,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 113.54,
       "change_pct": 4.46,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.15,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -132,17 +132,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"CoreWeave: Breaking Down Why The Only Platinum Neocloud Won't Stay Discounted For Long\""
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "price": 117.16,
-      "change_pct": 1.45,
-      "volume_ratio": 1.15,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "META",
       "name": "META",
       "price": 574.8,
@@ -175,6 +164,17 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 44.76,
+      "change_pct": 0.67,
+      "volume_ratio": 1.65,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -201,6 +201,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 115.49,
+      "change_pct": -2.51,
+      "volume_ratio": 1.24,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 51.83,
@@ -211,6 +222,17 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks\""
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 83.68,
+      "change_pct": -2.23,
+      "volume_ratio": 1.51,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     },
     {
       "ticker": "APA",
@@ -277,17 +299,6 @@ window.theBriefMovers = {
       "price": 149.4,
       "change_pct": -0.87,
       "volume_ratio": 1.11,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 83.3,
-      "change_pct": -0.45,
-      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -371,7 +382,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 113.54,
       "change_pct": 4.46,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.15,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -467,7 +478,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 355.85,
       "change_pct": 0.39,
-      "volume_ratio": 2.01,
+      "volume_ratio": 0.91,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -554,16 +565,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "price": 117.16,
-      "change_pct": 1.45,
-      "volume_ratio": 1.15,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 180.91,
@@ -589,16 +590,6 @@ window.theBriefMovers = {
       "price": 51.81,
       "change_pct": -0.4,
       "volume_ratio": 0.89,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 83.3,
-      "change_pct": -0.45,
-      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -635,11 +626,31 @@ window.theBriefMovers = {
       "market_state": null
     },
     {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 83.68,
+      "change_pct": -2.23,
+      "volume_ratio": 1.51,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
       "ticker": "XLRE",
       "name": "Real Estate Select Sector",
       "price": 43.97,
       "change_pct": -2.51,
       "volume_ratio": 1.85,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 115.49,
+      "change_pct": -2.51,
+      "volume_ratio": 1.24,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -690,13 +701,13 @@ window.theBriefMovers = {
       "change_pct": 4.46,
       "score": 7.0,
       "signals": [
-        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.8% daily vol",
+        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 14.2 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.8% daily vol",
+        "Moved +4.46% \u2014 a 1.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 14.2 (cheap on absolute basis)"
@@ -873,12 +884,12 @@ window.theBriefMovers = {
       "signals": [
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.2% over 3 months \u2014 deep drawdown"
+        "Down -33.0% over 3 months \u2014 deep drawdown"
       ],
       "reasons": [
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)",
-        "Down -33.2% over 3 months \u2014 deep drawdown"
+        "Down -33.0% over 3 months \u2014 deep drawdown"
       ],
       "tags": [
         "insider-buying",
@@ -942,6 +953,22 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "change_pct": -2.51,
+      "price": 115.49,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "change_pct": -2.23,
+      "price": 83.68,
+      "watchlist_members": [
+        "DG"
+      ]
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "change_pct": -1.5,
@@ -951,13 +978,6 @@ window.theBriefMovers = {
         "TPL",
         "OXY"
       ]
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "change_pct": 1.45,
-      "price": 117.16,
-      "watchlist_members": []
     },
     {
       "ticker": "XLF",
@@ -991,15 +1011,6 @@ window.theBriefMovers = {
       "change_pct": 0.67,
       "price": 44.76,
       "watchlist_members": []
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "change_pct": -0.45,
-      "price": 83.3,
-      "watchlist_members": [
-        "DG"
-      ]
     },
     {
       "ticker": "XLB",

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-20T20:51:10.372552+00:00",
+  "generated_at": "2026-06-20T22:07:57.962561+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T20:51:10.369549+00:00",
+      "timestamp": "2026-06-20T22:07:57.959647+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T20:51:10.369545+00:00",
+      "timestamp": "2026-06-20T22:07:57.959643+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T20:51:10.369535+00:00",
+      "timestamp": "2026-06-20T22:07:57.959634+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T20:49:10+00:00",
+      "timestamp": "2026-06-20T22:07:09+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -52,36 +52,127 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Robinhood Is Becoming a Full-Service Financial Platform. Is the Stock a Buy?",
+      "headline": "Is Netflix Stock Cheap or Overvalued? Here's What Investors Need to Know.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-becoming-full-financial-platform-203500192.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-cheap-overvalued-heres-214900542.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T20:35:00+00:00",
+      "timestamp": "2026-06-20T21:49:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "RBC Sees AI Initiatives Supporting Margin Discipline Despite Lower PicS N.V. (PICS) Price Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-sees-ai-initiatives-supporting-203445897.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:34:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ADMA Biologics (ADMA) Hit With Federal Securities Lawsuit Over Revenue Inflation Allegations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adma-biologics-adma-hit-federal-203437698.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:34:37+00:00",
-      "relevance_score": 3.0,
+      "headline": "Soccer-U.S. defends Iran World Cup travel restrictions, says discussions ongoing",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccerus-defends-iran-world-cup-travel-restrictions-says-discussions-ongoing-4751634",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T21:24:30+00:00",
+      "relevance_score": 5.5,
       "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: Is now a good time to invest in gold or silver?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605292-sa-asks-is-now-a-good-time-to-invest-in-gold-or-silver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T21:23:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4751633",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukraine\u2019s Zelenskiy says he returned state decoration to Polish president",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-he-returned-state-decoration-to-polish-president-4751623",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:54:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-remains-bullish-kanzhun-limited-203550695.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:35:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is nCino (NCNO) One Of The Stocks Under $20 That Will Explode?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ncino-ncno-one-stocks-under-203541667.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:35:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cellebrite (CLBT)\u2019s Total Addressable Market Is Large, Growing, And Likely Understated, According To DA Davidson",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cellebrite-clbt-total-addressable-market-203532606.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:35:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS Trims PT On Chewy (CHWY) From $32 To $24, Cites Macroeconomic Pressures",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-trims-pt-chewy-chwy-203523900.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:35:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Do Analysts Say About Arlo Technologies (ARLO)?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-arlo-technologies-arlo-203516330.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:35:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NIQ Global Intelligence (NIQ) Unveils AI-Powered Cadence Platform to Unify Marketing Intelligence and Decision-Making",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/niq-global-intelligence-niq-unveils-203508037.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:35:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -175,50 +266,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4605291-sa-asks-what-are-the-most-attractive-upcoming-ipos?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-20T19:10:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is MongoDB (MDB) One Of The Tech Stocks To Sell According To Billionaires?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-one-tech-stocks-190453346.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T19:04:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insight Enterprises (NSIT) Launches Managed Exposure Defense to Combat AI-Driven Cyber Threats",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/insight-enterprises-nsit-launches-managed-190445534.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T19:04:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rapid7 (RPD) Is One Of The Tech Stocks To Sell According To Billionaires",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-rpd-one-tech-stocks-190437546.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T19:04:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mizuho Raises PT On D-Wave Quantum (QBTS) To $35, Maintains \u201cOutperform\u201d Rating",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/mizuho-raises-pt-d-wave-190429527.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T19:04:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -336,39 +383,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israeli fire kills nine people in Gaza, including a child, medics say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-fire-kills-five-people-in-gaza-including-a-child-medics-say-4751613",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:30:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "At least 30 deaths at Congo camp show Ebola could be spreading fast",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/at-least-30-deaths-at-congo-camp-show-ebola-could-be-spreading-fast-4751628",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:12:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brazil\u00b4s President Lula maintains poll lead over right-wing Senator Bolsonaro",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/brazils-president-lula-maintains-poll-lead-over-rightwing-senator-bolsonaro-4751627",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:12:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US forces monitoring Strait of Hormuz to ensure it stays open - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEt1ZGR5cFBKRG1mSHlLQTc3TnpyMnVnaWltNHQ1eXpockxLYVhxeVlqdmRMeThjck83dVdad2s0eTJOblROeE1GNkJWeF94RTE3cEwyNEFSWTVIaTZITHAtbTNMeS13dmtXUFZrUzJHZjNMdW9ReHZpOFhELUJaX2hNU1BLblRBYno3UHVBT1djajVIdlVQQ1hGb0RuR19wZHA0dUZXX1VrSlJPQVE?oc=5",
@@ -438,17 +452,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4605286-pro-real-estate-investment-trust-declares-cad-0_0375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-20T15:29:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chemtrade Logistics Income Fund declares CAD 0.06 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605285-chemtrade-logistics-income-fund-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T15:28:57+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
@@ -582,6 +585,21 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T11:42:33+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Here is how SpaceX could turn up in your current investments",
@@ -700,28 +718,13 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T03:08:00+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Iran negotiators head for Switzerland but Lebanon fighting continues - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T00:55:19+00:00",
+      "timestamp": "2026-06-20T01:03:06+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
