@@ -1,5 +1,5 @@
 window.theBriefMacro = {
-  "generated_at": "2026-06-20T12:15:34.938359+00:00",
+  "generated_at": "2026-06-20T14:34:48.120375+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
@@ -27,9 +27,9 @@ window.theBriefMacro = {
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 18.44,
-      "change_pct_1d": 12.37,
-      "change_pct_1w": -5.14
+      "value": 16.4,
+      "change_pct_1d": -11.06,
+      "change_pct_1w": -7.24
     },
     "GC=F": {
       "name": "Gold futures",
@@ -46,14 +46,14 @@ window.theBriefMacro = {
     "DX-Y.NYB": {
       "name": "US Dollar Index",
       "value": 100.85,
-      "change_pct_1d": 0.76,
-      "change_pct_1w": 1.1
+      "change_pct_1d": -0.0,
+      "change_pct_1w": 1.22
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 63666.01,
-      "change_pct_1d": 0.2,
-      "change_pct_1w": -3.96
+      "value": 63343.64,
+      "change_pct_1d": -0.31,
+      "change_pct_1w": -4.44
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 87,

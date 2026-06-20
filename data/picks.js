@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-20T12:15:34.936889+00:00",
+  "generated_at": "2026-06-20T14:34:48.118803+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -507,7 +507,7 @@ window.theBriefPicks = {
       "change_pct_today": 6.1,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 37,
+      "days_elapsed": 38,
       "days_remaining": null
     },
     {
