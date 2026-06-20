@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-20T07:39:29+00:00",
+  "generated_at": "2026-06-20T10:21:48+00:00",
   "by_date": {
     "2026-06-22": [
       {
@@ -566,6 +566,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.204,
         "revenue_estimate": 4615500,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "OMSE",
+        "date": "2026-06-25",
+        "hour": "",
+        "eps_estimate": 0.153,
+        "revenue_estimate": 37267740,
         "is_watchlist": false
       },
       {
