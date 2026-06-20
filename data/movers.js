@@ -1,18 +1,6 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-20T10:21:48.013578+00:00",
+  "generated_at": "2026-06-20T12:15:34.897184+00:00",
   "gainers": [
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1112.88,
-      "change_pct": 6.1,
-      "volume_ratio": 1.25,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"New England\u2019s Top Marketing Executives Named at the 2026 BostonCMO ORBIE Awards\""
-    },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
@@ -23,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMDY: Good Income With Risks\""
+      "move_reason": "News: \"From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the...\""
     },
     {
       "ticker": "DG",
@@ -117,7 +105,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"New Fed Chair Changes The Conversation\""
+      "move_reason": "News: \"Trump Wanted Lower Rates, But Warsh's Federal Reserve Might Hike Them\""
     },
     {
       "ticker": "NBIS",
@@ -174,6 +162,18 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "KRE",
+      "name": "KRE",
+      "price": 71.59,
+      "change_pct": 0.62,
+      "volume_ratio": 0.86,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -351,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMDY: Good Income With Risks\""
+      "move_reason": "News: \"From FAANG to MANGOS \u2014 Wall Street is searching for the next 'Magnificent 7': Chart of the...\""
     },
     {
       "ticker": "APA",
@@ -390,18 +390,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Is DLTR Stock a Buy as Earnings Rise but Risks Keep Valuation in Check\""
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1112.88,
-      "change_pct": 6.1,
-      "volume_ratio": 1.25,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"New England\u2019s Top Marketing Executives Named at the 2026 BostonCMO ORBIE Awards\""
-    },
-    {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
       "price": 295.13,
@@ -411,7 +399,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"New Fed Chair Changes The Conversation\""
+      "move_reason": "News: \"Trump Wanted Lower Rates, But Warsh's Federal Reserve Might Hike Them\""
     },
     {
       "ticker": "NBIS",
@@ -667,33 +655,6 @@ window.theBriefMovers = {
     }
   ],
   "watchlist_radar": [
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1112.88,
-      "change_pct": 6.1,
-      "score": 7.5,
-      "signals": [
-        "Moved +6.10% \u2014 a 1.8\u03c3 move vs typical 3.3% daily vol",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "+2 analyst buy recs added recently"
-      ],
-      "reasons": [
-        "Moved +6.10% \u2014 a 1.8\u03c3 move vs typical 3.3% daily vol",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "+2 analyst buy recs added recently"
-      ],
-      "tags": [
-        "moderate-move",
-        "news-flow",
-        "insider-buying",
-        "analyst-upgrade"
-      ],
-      "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLI"
-    },
     {
       "ticker": "DG",
       "name": "Dollar General",
