@@ -1,64 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-19T23:49:00+00:00",
+  "generated_at": "2026-06-20T03:42:16+00:00",
   "by_date": {
-    "2026-06-19": [
-      {
-        "ticker": "ADN",
-        "date": "2026-06-19",
-        "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AUSI",
-        "date": "2026-06-19",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BANX",
-        "date": "2026-06-19",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BTOG",
-        "date": "2026-06-19",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KOAN",
-        "date": "2026-06-19",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SKKY",
-        "date": "2026-06-19",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "XAIR",
-        "date": "2026-06-19",
-        "hour": "amc",
-        "eps_estimate": -0.578,
-        "revenue_estimate": 2342256,
-        "is_watchlist": false
-      }
-    ],
     "2026-06-22": [
       {
         "ticker": "BSFC",
