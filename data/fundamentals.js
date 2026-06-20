@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-06-20T16:07:07.397471+00:00",
+  "generated_at": "2026-06-20T17:48:09.093319+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 18.17,
@@ -212,14 +212,14 @@ window.theBriefFundamentals = {
       }
     },
     "TPL": {
-      "return_1m": -8.17,
-      "return_3m": -33.02,
-      "return_6m": 26.99,
+      "return_1m": -9.86,
+      "return_3m": -33.21,
+      "return_6m": 30.16,
       "return_1y": null,
-      "return_ytd": 19.28,
-      "return_52w_high": -34.23,
-      "return_52w_low": 29.93,
-      "realized_vol_30d_pct": 2.99,
+      "return_ytd": 19.5,
+      "return_52w_high": -34.11,
+      "return_52w_low": 30.16,
+      "realized_vol_30d_pct": 2.97,
       "trailing_pe": 48.778843,
       "forward_pe": 4.856537,
       "price_to_sales": 29.192823,
@@ -430,14 +430,14 @@ window.theBriefFundamentals = {
       }
     },
     "DG": {
-      "return_1m": 2.32,
-      "return_3m": -13.79,
-      "return_6m": -17.5,
+      "return_1m": 9.63,
+      "return_3m": -7.66,
+      "return_6m": -14.9,
       "return_1y": null,
-      "return_ytd": -19.84,
-      "return_52w_high": -30.1,
-      "return_52w_low": 14.31,
-      "realized_vol_30d_pct": 2.72,
+      "return_ytd": -16.33,
+      "return_52w_high": -27.04,
+      "return_52w_low": 19.32,
+      "realized_vol_30d_pct": 2.84,
       "trailing_pe": 16.046675,
       "forward_pe": 14.178963,
       "price_to_sales": 0.58097154,
