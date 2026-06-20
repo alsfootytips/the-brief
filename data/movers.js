@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-20T19:27:26.723738+00:00",
+  "generated_at": "2026-06-20T20:51:10.367484+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -190,6 +190,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 43.97,
+      "change_pct": -2.51,
+      "volume_ratio": 1.85,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 51.83,
@@ -288,17 +299,6 @@ window.theBriefMovers = {
       "price": 51.81,
       "change_pct": -0.4,
       "volume_ratio": 0.89,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 43.86,
-      "change_pct": -0.25,
-      "volume_ratio": 0.94,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -584,16 +584,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 43.86,
-      "change_pct": -0.25,
-      "volume_ratio": 0.94,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 51.81,
@@ -643,6 +633,16 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 43.97,
+      "change_pct": -2.51,
+      "volume_ratio": 1.85,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
     },
     {
       "ticker": "XLC",
@@ -935,6 +935,13 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "change_pct": -2.51,
+      "price": 43.97,
+      "watchlist_members": []
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "change_pct": -1.5,
@@ -999,13 +1006,6 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "change_pct": -0.4,
       "price": 51.81,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "change_pct": -0.25,
-      "price": 43.86,
       "watchlist_members": []
     }
   ]

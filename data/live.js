@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-20T19:27:26.728834+00:00",
+  "generated_at": "2026-06-20T20:51:10.372552+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T19:27:26.725876+00:00",
+      "timestamp": "2026-06-20T20:51:10.369549+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T19:27:26.725872+00:00",
+      "timestamp": "2026-06-20T20:51:10.369545+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T19:27:26.725862+00:00",
+      "timestamp": "2026-06-20T20:51:10.369535+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,11 +40,130 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mexican chain collapses into Chapter 7 liquidation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/mexican-chain-collapses-chapter-7-191300226.html",
+      "headline": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T19:13:00+00:00",
+      "timestamp": "2026-06-20T20:49:10+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Robinhood Is Becoming a Full-Service Financial Platform. Is the Stock a Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-becoming-full-financial-platform-203500192.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RBC Sees AI Initiatives Supporting Margin Discipline Despite Lower PicS N.V. (PICS) Price Target",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-sees-ai-initiatives-supporting-203445897.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:34:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ADMA Biologics (ADMA) Hit With Federal Securities Lawsuit Over Revenue Inflation Allegations",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adma-biologics-adma-hit-federal-203437698.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:34:37+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bolivia on edge after Paz declares emergency to clear protest gridlock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bolivias-paz-declares-state-of-emergency-over-blockade-crisis-4751603",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:24:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Money can make you happy\u2019: My wife and I have no heirs, but we\u2019re making the world a better place by giving it away",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T20:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says no toll on Strait of Hormuz unless US imposes one",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-no-toll-on-strait-of-hormuz-unless-us-imposes-one-4751631",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T19:49:02+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Should You Buy Abbott Labs Stock Hand Over Fist Before July 16?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df141f809a8cdc5f358c7ce7800fd8270494f69c4e674d45b565ebf7bb58f739",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T19:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Energy Infrastructure Fund Delivers 19% Gains While Paying 2.8% Yield To Income Hunters",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d857110d1287cb7ef47ac32de5f267c4a04b625b7a3dc67ae53efffb59ee6fab",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T19:32:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "12 Months From Now, Will You Wish You Bought SpaceX Today?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c986c319fb99e25c9de8416f9dacfdf74d59f654d79d84f5de7912643f1e42d",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T19:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/world-cup-bus-set-alight-as-chaotic-celebrations-erupt-in-manhattan-after-knicks-win-4751630",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T19:18:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -56,6 +175,50 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4605291-sa-asks-what-are-the-most-attractive-upcoming-ipos?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-20T19:10:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is MongoDB (MDB) One Of The Tech Stocks To Sell According To Billionaires?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-one-tech-stocks-190453346.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T19:04:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Insight Enterprises (NSIT) Launches Managed Exposure Defense to Combat AI-Driven Cyber Threats",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/insight-enterprises-nsit-launches-managed-190445534.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T19:04:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rapid7 (RPD) Is One Of The Tech Stocks To Sell According To Billionaires",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-rpd-one-tech-stocks-190437546.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T19:04:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mizuho Raises PT On D-Wave Quantum (QBTS) To $35, Maintains \u201cOutperform\u201d Rating",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/mizuho-raises-pt-d-wave-190429527.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T19:04:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -78,72 +241,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-20T18:59:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Enel Chile (ENIC) Among the Best Undervalued Penny Stocks, Here\u2019s What You Need to Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/enel-chile-enic-among-best-185409319.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T18:54:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wipro Limited (WIT) Gains Due to Share Buyback Program and ServiceNow Partnership",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wipro-limited-wit-gains-due-185359971.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T18:53:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prospect Capital Corporation (PSEC) Agrees to Sell Valley Electric Company",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prospect-capital-corporation-psec-agrees-185350295.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T18:53:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ultrapar Participa\u00e7\u00f5es (UGP) Among the Best Undervalued Stocks Under $5",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ultrapar-participa-es-ugp-among-185342036.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T18:53:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RLX Technology (RLX) Trading Below Sector Average, Is It The Best Undervalued Stocks Under $5",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rlx-technology-rlx-trading-below-185314777.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T18:53:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gerdau S.A (GGB) Gaining Due to North American Expansion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gerdau-ggb-gaining-due-north-185307152.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T18:53:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -228,17 +325,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The one-page pledge that forces your financial adviser to put you first",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "MDA Space to buy RTX-owned Blue Canyon Technologies for $620M",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4605290-mda-space-buy-blue-canyon-technologies-from-rtx?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -257,42 +343,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-20T17:30:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:28:52+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "HIVE\u2019s (HIVE) BUZZ HPC Secures $220M GPU Cloud Contract for Sovereign AI Infrastructure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94cc6970580539313d7fd1a0a954b361e3334cff64a94e8a65e76d961af4eaaa",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T17:28:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Best Semiconductor ETF to Buy With $1,000 Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e15607cc63e435a22a1087527567ac20e00bc741c85647199d23bc42ef9aa19",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T17:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -317,32 +367,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Buffett"
-      ],
-      "ticker": "NVDA",
-      "headline": "Billionaire Warren Buffett Disciple Warns: Don\u2019t Quit Your Job To Start A New Business, Do This Instead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e26bc111d034c65504c1cc25b3c5ceca680532c9ec35968d5d3a205940216481",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T17:12:21+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chicago police investigate shooting that left 12 injured",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/chicago-police-investigate-shooting-that-left-12-injured-4751626",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:06:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "US forces monitoring Strait of Hormuz to ensure it stays open - Reuters",
@@ -351,28 +375,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-20T16:55:11+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trilateral meeting for USMCA trade deal review scheduled for July 1, CTV News reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trilateral-meeting-for-usmca-trade-deal-review-scheduled-for-july-1-ctv-news-reports-4751625",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:54:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US forces monitoring Strait of Hormuz to ensure it stays open",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-forces-monitoring-strait-of-hormuz-to-ensure-it-stays-open-4751624",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:54:28+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
