@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-20T03:42:16.339047+00:00",
+  "generated_at": "2026-06-20T07:39:29.879081+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -236,7 +236,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Sees Demand Beyond 2030: Is the Market Undervaluing Its Growth?\""
+      "move_reason": "News: \"Quanta Services (PWR) Reports Record Backlog And Lifts Full Year Outlook\""
     },
     {
       "ticker": "XLF",
@@ -310,7 +310,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 143.48,
       "change_pct": -0.01,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Sees Demand Beyond 2030: Is the Market Undervaluing Its Growth?\""
+      "move_reason": "News: \"Quanta Services (PWR) Reports Record Backlog And Lifts Full Year Outlook\""
     },
     {
       "ticker": "TPL",

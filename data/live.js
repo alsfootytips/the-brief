@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-20T03:42:16.344026+00:00",
+  "generated_at": "2026-06-20T07:39:29.884134+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T03:42:16.341091+00:00",
+      "timestamp": "2026-06-20T07:39:29.881106+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T03:42:16.341087+00:00",
+      "timestamp": "2026-06-20T07:39:29.881102+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T03:42:16.341078+00:00",
+      "timestamp": "2026-06-20T07:39:29.881092+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,99 +40,177 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S., Qatar discuss plan to give Iran access to $6 billion in frozen funds - WSJ",
+      "headline": "Bolivia declares state of emergency after weeks of road blockades",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-qatar-discuss-plan-to-give-iran-access-to-6-billion-in-frozen-funds--wsj-4751598",
+      "url": "https://www.investing.com/news/economy-news/bolivia-declares-state-of-emergency-after-weeks-of-road-blockades-4751605",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T03:23:11+00:00",
+      "timestamp": "2026-06-20T07:14:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin stalls below $65K resistance: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-66380-resistance-after-wbottom-breakout-live-levels-93CH-4741296",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T07:01:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bolivia\u2019s Paz declares state of emergency over blockade crisis, paving way to deploy military",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bolivias-paz-declares-state-of-emergency-over-blockade-crisis-4751603",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T07:00:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Porsche aims to finalize new cost-cutting package by July - FAS",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/porsche-aims-to-finalize-new-costcutting-package-by-july--fas-4751604",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T06:37:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Cardano Too Cheap to Ignore at Today's Price?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42027daa82935c5e47bf285c15ad5f2ad14cd4f0621dffa8f7edf9b7c9b3664b",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T05:57:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Porsche CEO aims to finalise new cost-cutting package by July, FAS reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/porsche-ceo-aims-to-finalise-new-costcutting-package-by-july-fas-reports-4751602",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T05:24:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "At least five killed in Israeli strikes on south Lebanon despite ceasefire",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/at-least-five-killed-in-israeli-strikes-on-south-lebanon-despite-ceasefire-4751601",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T05:24:35+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iranian Guards\u2019 business empire to win big if U.S. sanctions lifted",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/iranian-guards-business-empire-to-win-big-if-us-sanctions-lifted-4751596",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T03:12:26+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "Swimming-American Douglass breaks 50m freestyle world record",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/swimmingamerican-douglass-breaks-50m-freestyle-world-record-4751597",
+      "headline": "My mother was co-owner of my late grandmother\u2019s bank account. Should she share the money with her siblings?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T03:06:53+00:00",
+      "timestamp": "2026-06-20T05:18:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mexico City looks to rein in street drinking after massive World Cup party",
+      "headline": "IRGC set to benefit from Iran sanctions relief under U.S. deal - Reuters",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party-4751594",
+      "url": "https://www.investing.com/news/economy-news/irgc-set-to-benefit-from-iran-sanctions-relief-under-us-deal--reuters-4751600",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T03:00:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says ready for diplomacy if U.S. ensures Israel complies with ceasefire",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-says-ready-for-diplomacy-if-us-ensures-israel-complies-with-ceasefire-4751593",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T02:50:21+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan to target $2.3 trillion public-private investment by 2040, Nikkei reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japan-to-target-23-trillion-publicprivate-investment-by-2040-nikkei-reports-4751592",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T02:42:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump envoy, Iranian minister head to Switzerland for talks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-envoy-iranian-minister-head-to-switzerland-for-talks-4751591",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T02:36:26+00:00",
+      "timestamp": "2026-06-20T05:11:05+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
     },
     {
       "type": "news",
+      "ticker": "PWR",
+      "headline": "Quanta Services (PWR) Reports Record Backlog And Lifts Full Year Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf0e92a715180d5c59219106d3c984ffebb570e38796084ed6e13d5e012b55f2",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T05:06:12+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 \"Magnificent Seven\" Stocks to Buy and Hold Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dba5b2a37de5b3d900d18ae198c6463e3db023dc5330db5a983cf668f879ab09",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T04:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
-      "headline": "Australia vows to rein in any H5N1 birdflu after confirming first case",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/australia-confirms-first-case-of-h5-bird-flu-4751583",
+      "headline": "Trump envoy, Iranian minister head to Switzerland for talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T02:24:31+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-06-20T04:14:46+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is the US more exuberant than China?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/why-is-the-us-more-exuberant-than-china-4751599",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T04:02:56+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SpaceX Has a Glaring Problem. Here's What Investors Can Do About It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f7aeb5270ee71586b66f701e97f57d033d24106f9bb64c1d1158480191d21ee",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T03:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T03:08:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -144,42 +222,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-20T01:42:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8cb3df2ac418b61d47f2e200109b48d10a29109e3cb4fcc54d326076a7fc33d3",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T01:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "EEM\u2019s 0.69% Fee Quietly Costs You $690 a Year, but Your Cheaper Alternative Charges $90",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58de9831546e22bd88dba047de4b7e6f1a48ac6868932739d4d0495f6a68d987",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T00:42:16+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: Oil Will Hit $60 a Barrel in 2027. Here's How to Invest Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1566e16f9bb3153af4eaa6b16dd87818f77476e7d2f66c0749fdcc22568c3a6",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T00:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -251,17 +293,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israel, Hezbollah agree to ceasefire in Lebanon, U.S. official says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:27:36+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -451,17 +482,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is the stock market closed today for Juneteenth? Will the post office deliver mail?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T16:41:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Snap gets a reality check as premium AR glasses drive stock slump",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4605204-snap-gets-a-reality-check-as-premium-ar-glasses-drive-stock-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -560,18 +580,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-19T14:46:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pentagon tells US lawmakers it needs $80 billion for Iran war and other bills, WSJ reports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1F4TXZTZ3VSNGItWkdaX1Yxc0FRZDR2cWR5VVNjVmJNS0lpb1B3dm1JMk0zaVZwWDcyMW83VExiNUNBTnZ0M3JRTDhPbGZwWnJpeDRVNVloU0N2RF9ndTdtNzBxSWRiWkhYb3QybXhVTklacmZFeGV0dXlDdDNVMmRUOWlmSFNrbDlfcGotWXhwclBDVGdCVWhaeHEwdzBJSGFvb05Qb2djZlNDc3ZPR3ZUdGRPcm1zZm9JWXVZZTZtUzQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T14:25:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -821,6 +829,72 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Citi Believes Abbott (ABT) Shares are Undervalued Relative to Business Segments",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-believes-abbott-abt-shares-033733874.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T03:37:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS Trims Nike (NKE) Forecast, Cites Concerns over Upcoming Guidance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-trims-nike-nke-forecast-033514953.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T03:35:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Starbucks Korea Faces Sales Hit after Backlash, Plans Nationwide Staff Training, Says Reuters",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-korea-faces-sales-hit-033322249.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T03:33:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Truist Cuts Cintas (CTAS) Price Target but Stays Bullish on UniFirst Acquisition",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-cuts-cintas-ctas-price-033054799.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T03:30:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Piper Sandler Raises Kimberly-Clark (KMB) Price Target, Sees Long-Term Upside from Kenvue Deal",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-raises-kimberly-clark-032847599.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T03:28:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Quest Diagnostics Stock Underperforming the S&P 500?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quest-diagnostics-stock-underperforming-p-031158298.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T03:11:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Jim Cramer sends a stern message to SpaceX buyers",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html",
@@ -886,72 +960,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "California urges court, FCC to rule AT&T must continue basic phone service",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/california-urges-court-fcc-reject-213626049.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T21:36:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exxon Stock Plunges On U.S.-Iran Deal. Why It's Still Worth A Look.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/exxon-stock-plunges-u-s-iran-deal-why-still-worth-look/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T21:32:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alaska holds billions of barrels, but few bidders",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/alaska-holds-billions-barrels-few-213035892.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T21:30:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Agnico Eagle Mines Limited (AEM): A Top Growth Stock to Buy in Mining According to Ray Dalio",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-limited-aem-212239706.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T21:22:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eli Lilly and Company (LLY) is one of the Best Growth Stocks to Buy According Ray Dalio",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-one-212211277.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T21:22:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wolfe Research Reaffirms Bullish View on Arista Networks (ANET) With $175 Price Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-reaffirms-bullish-view-212158801.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-18T21:21:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1022,18 +1030,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-18T18:33:43+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Quanta Stock Rallies More Than 66% Year to Date: Still a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d308ffee0fc6607a61003ad178767cacb7f2e5c66f0a04ccc3dbe08838da08a4",
-      "is_watchlist": true,
-      "timestamp": "2026-06-18T17:19:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
