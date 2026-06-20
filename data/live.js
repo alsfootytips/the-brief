@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-20T17:48:09.055501+00:00",
+  "generated_at": "2026-06-20T19:27:26.728834+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T17:48:09.052406+00:00",
+      "timestamp": "2026-06-20T19:27:26.725876+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T17:48:09.052401+00:00",
+      "timestamp": "2026-06-20T19:27:26.725872+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T17:48:09.052391+00:00",
+      "timestamp": "2026-06-20T19:27:26.725862+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,11 +40,199 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "headline": "Mexican chain collapses into Chapter 7 liquidation",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/mexican-chain-collapses-chapter-7-191300226.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T17:42:00+00:00",
+      "timestamp": "2026-06-20T19:13:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: What are the most attractive upcoming IPOs?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605291-sa-asks-what-are-the-most-attractive-upcoming-ipos?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T19:10:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin battles $65K resistance amid MACD bounce: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-66380-resistance-after-wbottom-breakout-live-levels-93CH-4741296",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T19:02:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scared to spend your retirement money? Here\u2019s one way to get over the fear of running out.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:59:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Enel Chile (ENIC) Among the Best Undervalued Penny Stocks, Here\u2019s What You Need to Know",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/enel-chile-enic-among-best-185409319.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:54:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wipro Limited (WIT) Gains Due to Share Buyback Program and ServiceNow Partnership",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wipro-limited-wit-gains-due-185359971.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:53:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prospect Capital Corporation (PSEC) Agrees to Sell Valley Electric Company",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prospect-capital-corporation-psec-agrees-185350295.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:53:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ultrapar Participa\u00e7\u00f5es (UGP) Among the Best Undervalued Stocks Under $5",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ultrapar-participa-es-ugp-among-185342036.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:53:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RLX Technology (RLX) Trading Below Sector Average, Is It The Best Undervalued Stocks Under $5",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rlx-technology-rlx-trading-below-185314777.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:53:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gerdau S.A (GGB) Gaining Due to North American Expansion",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gerdau-ggb-gaining-due-north-185307152.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:53:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "You\u2019re going to pay tax on RMDs \u2014 there\u2019s no way around it. Or is there?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:42:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:36:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inside the push to weaken Washington\u2019s toughest financial watchdog",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:28:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "We read the Social Security and Medicare trustees reports. If you\u2019re not worried, you should be.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:20:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Want to splurge on travel in retirement? Here\u2019s how to plan for it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 73 and living 100% off dividends from my stocks. How can I create even more income?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:02:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Will the end of the US-Iran war boost Republicans in the midterms?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/will-the-end-of-the-usiran-war-boost-republicans-in-the-midterms-4751629",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T18:01:31+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The one-page pledge that forces your financial adviser to put you first",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T17:50:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -62,6 +250,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Israeli fire kills nine people in Gaza, including a child, medics say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-fire-kills-five-people-in-gaza-including-a-child-medics-say-4751613",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T17:30:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
@@ -73,73 +272,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Is Cosan (CSAN) One of the Penny Stocks With Explosive Growth Potential?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cosan-csan-one-penny-stocks-172751565.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:27:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alvotech (ALVO): 10 Penny Stocks With Explosive Growth Potential",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alvotech-alvo-10-penny-stocks-172742710.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:27:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vizsla Silver (VZLA) Secures $10M Working Capital Facility from FIFOMI for Panuco Project",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/vizsla-silver-vzla-secures-10m-172734007.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:27:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mitsubishi Fuso Truck and Bus Corporation Selects Clarivate (CLVT) IPfolio for IP Management",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/mitsubishi-fuso-truck-bus-corporation-172724157.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:27:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Buffett"
-      ],
-      "ticker": null,
-      "headline": "Warren Buffett\u2019s mentor said his wealth came down to luck. Is your life savings riding on a coin flip?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/warren-buffetts-mentor-said-his-wealth-came-down-to-luck-is-your-life-savings-riding-on-a-coin-flip-2498c60c?mod=mw_rss_topstories",
+      "ticker": "NVDA",
+      "headline": "HIVE\u2019s (HIVE) BUZZ HPC Secures $220M GPU Cloud Contract for Sovereign AI Infrastructure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94cc6970580539313d7fd1a0a954b361e3334cff64a94e8a65e76d961af4eaaa",
       "is_watchlist": true,
-      "timestamp": "2026-06-20T17:25:00+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
+      "timestamp": "2026-06-20T17:28:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "What a $2 Million Dividend Portfolio Actually Pays After Taxes in California",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-million-dividend-portfolio-actually-172144480.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:21:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "The Best Semiconductor ETF to Buy With $1,000 Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e15607cc63e435a22a1087527567ac20e00bc741c85647199d23bc42ef9aa19",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T17:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -164,16 +317,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed Chair Kevin Warsh wants to get inflation under control. That could be bad news for home buyers seeking lower mortgage rates.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-wants-to-get-inflation-under-control-that-could-be-bad-news-for-home-buyers-seeking-lower-mortgage-rates-99fb4aad?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T17:08:00+00:00",
-      "relevance_score": 3.0,
+      "type": "mover_statement",
+      "movers": [
+        "Buffett"
+      ],
+      "ticker": "NVDA",
+      "headline": "Billionaire Warren Buffett Disciple Warns: Don\u2019t Quit Your Job To Start A New Business, Do This Instead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e26bc111d034c65504c1cc25b3c5ceca680532c9ec35968d5d3a205940216481",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T17:12:21+00:00",
+      "relevance_score": 5.5,
       "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -189,12 +345,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018I\u2019m a realist\u2019: I\u2019m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-a-realist-im-50-with-6-5-million-saved-should-i-quit-my-200-000-job-and-retire-early-a89624fa?mod=mw_rss_topstories",
+      "headline": "US forces monitoring Strait of Hormuz to ensure it stays open - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEt1ZGR5cFBKRG1mSHlLQTc3TnpyMnVnaWltNHQ1eXpockxLYVhxeVlqdmRMeThjck83dVdad2s0eTJOblROeE1GNkJWeF94RTE3cEwyNEFSWTVIaTZITHAtbTNMeS13dmtXUFZrUzJHZjNMdW9ReHZpOFhELUJaX2hNU1BLblRBYno3UHVBT1djajVIdlVQQ1hGb0RuR19wZHA0dUZXX1VrSlJPQVE?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T17:00:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-06-20T16:55:11+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -235,94 +391,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukraine\u2019s Zelenskiy says he returned state decoration to Polish president",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-he-returned-state-decoration-to-polish-president-4751623",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:48:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to work in retirement without seeing your Social Security checks slashed",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:43:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bolivia on edge after Paz declares emergency to clear protest gridlock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bolivias-paz-declares-state-of-emergency-over-blockade-crisis-4751603",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:42:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Italy\u2019s Meloni tells Trump to focus on his own popularity as row rumbles on",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/italys-meloni-tells-trump-to-focus-on-his-own-popularity-as-row-rumbles-on-4751622",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:42:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The initial SpaceX frenzy is cooling off \u2014 but a new wave of cash is waiting to strike",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-initial-spacex-frenzy-is-cooling-off-but-a-new-wave-of-cash-is-waiting-to-strike-6eacca9b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:32:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I spent $200K upgrading my elderly parents' home \u2014 here's what the IRS actually lets me deduct",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/spent-200k-upgrading-elderly-parents-162004631.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AbbVie would gain an experimental eczema drug by buying biotech: report",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/abbvie-would-gain-an-experimental-eczema-drug-by-buying-biotech-report-caf24728?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:11:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -339,60 +407,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9528065c2716b361d6f7d2ca989d07822773d4ec7a7c490e978891bd896b52d",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T15:48:27+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T15:48:27+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "I'm Calling It: GE Vernova (GEV) Is a Buy Before This Catalyst Drops",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb584090d6270cac8f0f18d97503db5413e1c1bd24f21e3e21992bc61a16998b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T15:32:54+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "I'm Calling It: GE Vernova (GEV) Is a Buy Before This Catalyst Drops",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eb584090d6270cac8f0f18d97503db5413e1c1bd24f21e3e21992bc61a16998b",
       "is_watchlist": true,
       "timestamp": "2026-06-20T15:32:54+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: Will Dell Hit $500 This Year?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f93c67b09945f128f01f413fd14ab2f8c9ae5ca40a40d82f87af34671ab84056",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T15:30:58+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -433,17 +453,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dream Office Real Estate Investment Trust declares CAD 0.0833 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605284-dream-office-real-estate-investment-trust-declares-cad-0_0833-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T15:18:31+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The budget airline model in the U.S. is running out of runway",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
@@ -472,6 +481,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-20T14:58:19+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paris police arrest 20 as demonstrators defy ban on Iran opposition rally - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemJad0VoZTdPSXlzRG41S2tQd1pXaFZLWXZvejJ0YlVMa0p5Q2ZBV05SSGxONHhvUHZGWWJUd2prZ3FXa0NFaEQxN2NsR01fRlVpRDREQTg1R1U5S05sR3NvVkN0LXM5MmdfNG1Cb2FWbGo0Rng5RV9Sa1ZyY0pDT21CV2NhRGJPQkhmSGNaYmc0NHJMNXZYQ2NfQThjRlNIY2d2VndGRnAwUTkwNnc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T13:46:09+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -632,6 +652,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Israeli strikes kill at least 20 in Lebanon hours after ceasefire - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T05:28:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "CRWV",
       "headline": "CoreWeave: Breaking Down Why The Only Platinum Neocloud Won't Stay Discounted For Long",
       "source": "SeekingAlpha",
@@ -684,23 +715,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vance expects Iran talks soon, as Guards say Hormuz is closed again - Reuters",
+      "headline": "Iran negotiators head for Switzerland but Lebanon fighting continues - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T02:32:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli strikes kill 16 in Lebanon hours after ceasefire - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T00:54:51+00:00",
+      "timestamp": "2026-06-20T00:55:19+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -737,30 +756,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-19T21:32:11+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:50:56+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump heads to Camp David as Iran talks falter - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanZjcWNWV1diQU5BSFRBUzJtMlVJVDhWSjZ6MXc5S21QVlF1NHVrM0hTdjJ5dEJrQjA1QXMzNHNPTnpySW00XzJfbXBhNXZUN1RHU1UySWFLRl9SdFA3WTVMWmZNaUtPNmZxTGlIZnN0ZUtCVUZVbTBsZ21FVWR3dVJ4WlZCbHpGcHczdXcxVURpQnNHY1JBVTFR?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T17:39:43+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",

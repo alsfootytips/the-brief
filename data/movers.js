@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-20T17:48:09.050373+00:00",
+  "generated_at": "2026-06-20T19:27:26.723738+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -178,6 +178,17 @@ window.theBriefMovers = {
     }
   ],
   "losers": [
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 109.2,
+      "change_pct": -2.78,
+      "volume_ratio": 1.22,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
@@ -573,16 +584,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 109.45,
-      "change_pct": 0.23,
-      "volume_ratio": 1.35,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLRE",
       "name": "Real Estate Select Sector",
       "price": 43.86,
@@ -642,6 +643,16 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 109.2,
+      "change_pct": -2.78,
+      "volume_ratio": 1.22,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
     }
   ],
   "watchlist_radar": [
@@ -917,6 +928,13 @@ window.theBriefMovers = {
       ]
     },
     {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "change_pct": -2.78,
+      "price": 109.2,
+      "watchlist_members": []
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "change_pct": -1.5,
@@ -988,13 +1006,6 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "change_pct": -0.25,
       "price": 43.86,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "change_pct": 0.23,
-      "price": 109.45,
       "watchlist_members": []
     }
   ]
