@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-20T23:36:55.047421+00:00",
+  "generated_at": "2026-06-21T02:05:51.987452+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -100,8 +100,8 @@ window.theBriefPicks = {
       "change_pct_today": 1.81,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 39,
-      "days_remaining": 17,
+      "days_elapsed": 40,
+      "days_remaining": 16,
       "pick_type": "strategic"
     },
     {
@@ -507,7 +507,7 @@ window.theBriefPicks = {
       "change_pct_today": 6.1,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 38,
+      "days_elapsed": 39,
       "days_remaining": null
     },
     {
@@ -540,7 +540,7 @@ window.theBriefPicks = {
       "change_pct_today": -1.45,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 38,
+      "days_elapsed": 39,
       "days_remaining": null
     },
     {
@@ -573,7 +573,7 @@ window.theBriefPicks = {
       "change_pct_today": -1.51,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 38,
+      "days_elapsed": 39,
       "days_remaining": null
     },
     {
@@ -642,8 +642,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.62,
       "name": "KRE",
       "news_count": 0,
-      "days_elapsed": 33,
-      "days_remaining": 23
+      "days_elapsed": 34,
+      "days_remaining": 22
     },
     {
       "id": "2026-05-18-GLD",
@@ -709,8 +709,8 @@ window.theBriefPicks = {
       "change_pct_today": -2.29,
       "name": "Occidental Petroleum",
       "news_count": 3,
-      "days_elapsed": 1,
-      "days_remaining": 41
+      "days_elapsed": 2,
+      "days_remaining": 40
     },
     {
       "id": "2026-06-19-APA-auto",
@@ -739,8 +739,8 @@ window.theBriefPicks = {
       "change_pct_today": -2.22,
       "name": "APA Corp",
       "news_count": 3,
-      "days_elapsed": 1,
-      "days_remaining": 34
+      "days_elapsed": 2,
+      "days_remaining": 33
     },
     {
       "id": "2026-06-19-TTD-auto",
@@ -769,8 +769,8 @@ window.theBriefPicks = {
       "change_pct_today": 2.09,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 1,
-      "days_remaining": 55
+      "days_elapsed": 2,
+      "days_remaining": 54
     }
   ],
   "summary": {

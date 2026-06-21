@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-20T23:36:55.014565+00:00",
+  "generated_at": "2026-06-21T02:05:51.944690+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth\""
     },
     {
       "ticker": "SOFI",
@@ -105,7 +105,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"CoreWeave: Breaking Down Why The Only Platinum Neocloud Won't Stay Discounted For Long\""
     },
     {
       "ticker": "IWM",
@@ -188,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks\""
+      "move_reason": "Tracking XLE sector (-1.50% today)"
     },
     {
       "ticker": "APA",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For June 19, 2026\""
+      "move_reason": "News: \"The 3 Best Energy ETFs to Own as Oil Volatility Returns in 2026\""
     },
     {
       "ticker": "PWR",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"CoreWeave: Breaking Down Why The Only Platinum Neocloud Won't Stay Discounted For Long\""
     },
     {
       "ticker": "DG",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth\""
     },
     {
       "ticker": "OSCR",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks\""
+      "move_reason": "Tracking XLE sector (-1.50% today)"
     },
     {
       "ticker": "PWR",
@@ -461,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oil Stocks Trade As If Iran War Never Happened: 10 Falling Knives To Watch\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For June 19, 2026\""
+      "move_reason": "News: \"The 3 Best Energy ETFs to Own as Oil Volatility Returns in 2026\""
     }
   ],
   "indices": [

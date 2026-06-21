@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-20T23:36:55.018506+00:00",
+  "generated_at": "2026-06-21T02:05:51.949934+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T23:36:55.016128+00:00",
+      "timestamp": "2026-06-21T02:05:51.946837+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T23:36:55.016125+00:00",
+      "timestamp": "2026-06-21T02:05:51.946833+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,21 +32,141 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-20T23:36:55.016119+00:00",
+      "timestamp": "2026-06-21T02:05:51.946824+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump, blaming alleged vandals, says Washington Reflecting Pool needs repairs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-blaming-alleged-vandals-says-washington-reflecting-pool-needs-repairs-4751641",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T01:42:28+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Why Did Ambarella's CFO Sell Over 5,000 Company Shares?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-ambarellas-cfo-sell-231801645.html",
+      "headline": "Trump, Italy\u2019s Meloni exchange fresh criticism over Iran war stance",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-italys-meloni-exchange-fresh-criticism-over-iran-war-stance-4751642",
       "is_watchlist": false,
-      "timestamp": "2026-06-20T23:18:01+00:00",
+      "timestamp": "2026-06-21T01:28:40+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S.-Iran ceasefire talks set to begin in Switzerland as Vance arrives",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/usiran-ceasefire-talks-set-to-begin-in-switzerland-as-vance-arrives-4751640",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T00:55:03+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. energy regulator orders overhaul of data center grid rules",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605294-u-s-energy-regulator-orders-overhaul-of-data-center-grid-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T00:40:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zelenskiy warns of major Russian attack as strikes kill at least six",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/zelenskiy-warns-of-major-russian-attack-as-strikes-kill-at-least-six-4751639",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T00:20:05+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-disputes-iranian-claims-about-closing-strait-of-hormuz-as-negotiators-head-to-switzerland-4751638",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T23:54:32+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran negotiators, Vance head for Switzerland but Lebanon fighting continues - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T23:51:42+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d96eb737c574746755ca243fd9cc030111f3b60de8c980abfe2ee84687beabcb",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T23:50:59+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "This Top AI Cryptocurrency Was Up 115% in May. But Is It a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=984b1a11197795477e7eea01e3fed49a11bf233c202719e306b151f446fd6350",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T23:39:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thousands protest in Albania over Kushner-backed resort project",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/thousands-protest-in-albania-over-kushnerbacked-resort-project-4751637",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T23:34:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Where Will Alphabet Stock Be in 5 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=238ec9df5d90a66e3923c4dbdb86ae5731a237774bba2836c50d30c4f182ede9",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T23:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -83,18 +203,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T22:29:08+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -112,161 +220,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/report-says-uk-pm-starmer-ready-to-quit-but-source-says-he-is-still-focused-on-the-job-4751635",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T22:00:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=922d1ee0357bc72cba465c5f026126ab7efaa0de930a5a46da88c4c295923d1a",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T21:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Ford Could Make $500 Million From AI. Is Now the Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b149f939299b3d4c81ae2a41818ab649986aa938c149055b3b993e7af347da89",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T21:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Soccer-U.S. defends Iran World Cup travel restrictions, says discussions ongoing",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccerus-defends-iran-world-cup-travel-restrictions-says-discussions-ongoing-4751634",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T21:24:30+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: Is now a good time to invest in gold or silver?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4605292-sa-asks-is-now-a-good-time-to-invest-in-gold-or-silver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-20T21:23:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4751633",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "This Company Could Become the Nvidia of AI Inference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0aaaca5f9447eb81ca5fa1c34c37ed770a6ab0353c7357dc2b7925b15f9962b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T21:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukraine\u2019s Zelenskiy says he returned state decoration to Polish president",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-he-returned-state-decoration-to-polish-president-4751623",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:54:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-remains-bullish-kanzhun-limited-203550695.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:35:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is nCino (NCNO) One Of The Stocks Under $20 That Will Explode?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ncino-ncno-one-stocks-under-203541667.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:35:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cellebrite (CLBT)\u2019s Total Addressable Market Is Large, Growing, And Likely Understated, According To DA Davidson",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cellebrite-clbt-total-addressable-market-203532606.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:35:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UBS Trims PT On Chewy (CHWY) From $32 To $24, Cites Macroeconomic Pressures",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-trims-pt-chewy-chwy-203523900.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:35:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Do Analysts Say About Arlo Technologies (ARLO)?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-arlo-technologies-arlo-203516330.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:35:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bolivia on edge after Paz declares emergency to clear protest gridlock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bolivias-paz-declares-state-of-emergency-over-blockade-crisis-4751603",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T20:24:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -295,21 +253,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-20T20:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says no toll on Strait of Hormuz unless US imposes one",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-no-toll-on-strait-of-hormuz-unless-us-imposes-one-4751631",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T19:49:02+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -477,17 +420,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pro Real Estate Investment Trust declares CAD 0.0375 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605286-pro-real-estate-investment-trust-declares-cad-0_0375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T15:29:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The budget airline model in the U.S. is running out of runway",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
@@ -615,21 +547,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T11:42:33+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Here is how SpaceX could turn up in your current investments",
@@ -748,15 +665,19 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Iran negotiators head for Switzerland but Lebanon fighting continues - Reuters",
+      "headline": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T01:03:06+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-06-20T03:08:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -766,6 +687,83 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html",
       "is_watchlist": false,
       "timestamp": "2026-06-19T22:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Plug Power Inc. (PLUG) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/plug-power-inc-plug-good-194003920.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T19:40:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is RingCentral, Inc. (RNG) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-inc-rng-good-stock-193941802.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T19:39:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Talos Energy Inc. (TALO) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-inc-talo-good-193911243.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T19:39:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Teradata Corporation (TDC) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teradata-corporation-tdc-good-stock-193857558.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T19:38:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Callaway Golf Company (CALY) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/callaway-golf-company-caly-good-193843061.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T19:38:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "1 Dividend King Stock Down 25% to Buy Right Now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-dividend-king-stock-down-192700500.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T19:27:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michigan father, 44, says he made a $550K \u2018cheat code\u2019 to financial freedom \u2014 here\u2019s how he did it (and how you can too)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/michigan-father-44-says-made-192500028.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T19:25:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -884,6 +882,18 @@ window.theBriefLive = {
       "timestamp": "2026-06-19T11:41:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "The 3 Best Energy ETFs to Own as Oil Volatility Returns in 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=976fe6b4f3ce5a9ea522d4eff55485564070fb8e6c150728693fe5c52241d4d4",
+      "is_watchlist": true,
+      "timestamp": "2026-06-19T10:55:15+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1107,18 +1117,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "TPL",
-      "headline": "Oil Stocks Trade As If Iran War Never Happened: 10 Falling Knives To Watch",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2c6b258a3a1fbccef090b9898bca921fe1e219104f0cdf39e013cf2570d46aca",
-      "is_watchlist": true,
-      "timestamp": "2026-06-18T15:21:12+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
       "headline": "Oil Stocks Trade As If Iran War Never Happened: 10 Falling Knives To Watch",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=2c6b258a3a1fbccef090b9898bca921fe1e219104f0cdf39e013cf2570d46aca",
