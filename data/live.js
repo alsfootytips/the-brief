@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-21T15:17:17.572946+00:00",
+  "generated_at": "2026-06-21T17:05:26.452465+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T15:17:17.569851+00:00",
+      "timestamp": "2026-06-21T17:05:26.449459+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T15:17:17.569847+00:00",
+      "timestamp": "2026-06-21T17:05:26.449455+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,161 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T15:17:17.569838+00:00",
+      "timestamp": "2026-06-21T17:05:26.449446+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My mother was co-owner of my late grandmother\u2019s bank account. Should she share the money with her siblings?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:59:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3 Ways to Prepare Your Portfolio for the Second Half of 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ways-prepare-portfolio-second-165000905.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/next-1-trillion-ai-winner-164907486.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:49:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil traders revive bearish bets as Iran deal deflates supply fears",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605309-oil-traders-revive-bearish-bets-as-iran-deal-deflates-supply-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:27:23+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pixar's 'Toy Story 5' lassos biggest opening weekend in franchise history with $160 million haul",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/21/pixar-toy-story-5-box-office-biggest-opening-in-franchise-history-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:06:06+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "She saved $200K, quit her $250K tech job, and now pays herself $33K to run a matcha cafe in Manhattan",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/she-saved-200k-quit-her-160412245.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:04:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI may help hospitals more than insurers, UBS says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605299-ai-may-help-hospitals-more-than-insurers-ubs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:00:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Micron Must Do This on June 24, or Its Stock Could Crash",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8481702f864f516da513f202d5783f2bdd7370abbd81f7c4b442ce2af45af0b",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T15:45:31+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Silicon valley on edge after Commerce Dept freezes advanced AI exports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/silicon-valley-on-edge-after-commerce-dept-freezes-advanced-ai-exports-4751676",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T15:44:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Should You Forget Picking Individual Stocks and Buy This Index Fund Instead?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=983556b11c8f4d2820bfa805ba991498e434eb9f7f97ec3fc21459c41d35662d",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T15:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Own 500 Shares of Pfizer and JNJ and Here\u2019s Your Annual Dividend Income",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d96abf3bf94a147bdb7a7b2142321323483cc1cf5ce22841a29c097bd4296175",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T15:30:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump warns Iran over Hezbollah as regional tensions complicate nuclear talks",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605305-trump-warns-iran-over-hezbollah-as-regional-tensions-complicate-nuclear-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T15:26:59+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coca-Cola's $20B tax fight heads to appeals court",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605304-coca-colas-20b-tax-fight-heads-to-appeals-court?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T15:19:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -99,44 +250,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran oil exports poised for return under new U.S. deal, but recovery faces hurdles",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605302-iran-oil-exports-poised-for-return-under-new-u-s-deal-but-recovery-faces-hurdles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:54:16+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "2 Top-Tier Dividend ETFs that Complement Each Other Well to Invest in Right Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-top-tier-dividend-etfs-145000113.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "UK\u2019s Starmer considers political future, could decide as soon as Monday",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/uk-business-minister-says-he-has-no-reason-to-think-pm-starmer-will-resign-on-monday-4751658",
       "is_watchlist": false,
       "timestamp": "2026-06-21T14:42:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jeff Bezos Sets His Sights on a $70 Trillion Market. That\u2019s 10X Bigger than the Ecommerce Market Amazon Dominated",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jeff-bezos-sets-sights-70-144141156.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:41:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -229,17 +347,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taiwan launches combat readiness drill as military adapts to rising China tensions",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605301-taiwan-launches-combat-readiness-drill-as-military-adapts-to-rising-china-tensions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:01:39+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
@@ -294,29 +401,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What Does Schrodinger Inc (SDGR)\u2019s 2026 Outlook Reveal?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-schrodinger-inc-sdgr-2026-134807104.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:48:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FedEx Corp (FDX)\u2019s Bold Dividend Move Amid a Freight Spin-Off",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-corp-fdx-bold-dividend-134710528.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:47:10+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The No. 1 trick I always teach to build unshakeable confidence\u2014it worked for Beyonc\u00e9 and Adele",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/21/the-no-1-trick-i-always-teach-to-build-unshakeable-confidence-therapist.html",
@@ -324,18 +408,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T13:45:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is It Too Late to Buy SpaceX Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbcd9adb47551e7c6bf517c3195768d482f1e7d123df29de3a6b63e6e05bc759",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T13:41:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -350,18 +422,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "SpaceX Will Release Earnings Through X and Its Website Only. Is That a Red Flag?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69c6c123f79a2192566e0cb6fff068cf5af5545064e099c9bb15354d0d728833",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T13:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "No one wants AI data centers on Earth. Do they make sense in space?",
       "source": "CNBC",
@@ -380,54 +440,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-21T13:33:34+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Lebanon fighting threatens to complicate U.S.-Iran nuclear talks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605300-lebanon-fighting-threatens-to-complicate-u-s-iran-nuclear-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T13:32:43+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Quant earnings preview: Micron, BlackBerry top this week's highest-rated reports",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605277-quant-earnings-preview-micron-blackberry-top-this-weeks-highest-rated-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:30:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Republicans buy crypto more than Democrats, data shows \u2014 what's driving the divide",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/21/republicans-democrats-crypto-bitcoin-use.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:30:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'It's that simple': Kevin O'Leary says this one number can turn your $65K salary into millions \u2014 will it work for you?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/simple-kevin-oleary-says-one-133000924.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:30:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -443,18 +455,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nebius Group (NasdaqGS:NBIS) Lands $2 Billion From Nvidia As Avride Moves With Uber",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b8a1ef7106086a90dfe4d59ce7d8e2351178243263622e30c80a9d5c1473bab",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T13:08:36+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "This bull market isn\u2019t going to end because of Fed rate hikes under Warsh",
       "source": "MarketWatch",
@@ -464,17 +464,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.40%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-040-4751669",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T12:45:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -550,17 +539,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-21T12:09:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The secret to wellness is simple: Eat this breakfast and work out at the right time",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-secret-to-wellness-is-simple-eat-this-breakfast-and-work-out-at-the-right-time-43c696b9?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T12:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -712,6 +690,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Dear GameStop Stock Fans, Mark Your Calendars for July 7",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-gamestop-stock-fans-mark-154502538.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T15:45:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "I'm Calling It: GE Vernova (GEV) Is a Buy Before This Catalyst Drops",
       "source": "Yahoo",
@@ -721,6 +710,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Forget SpaceX: See This Overlooked AI Stock in Donald Trump\u2019s Portfolio",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/forget-spacex-see-overlooked-ai-153143545.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T15:31:43+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
