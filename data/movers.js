@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T17:05:26.447279+00:00",
+  "generated_at": "2026-06-21T18:52:18.421058+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Must Do This on June 24, or Its Stock Could Crash\""
+      "move_reason": "News: \"Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?\""
     },
     {
       "ticker": "SOFI",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Must Do This on June 24, or Its Stock Could Crash\""
+      "move_reason": "News: \"Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?\""
     },
     {
       "ticker": "OSCR",

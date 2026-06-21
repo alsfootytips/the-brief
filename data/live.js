@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-21T17:05:26.452465+00:00",
+  "generated_at": "2026-06-21T18:52:18.426277+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T17:05:26.449459+00:00",
+      "timestamp": "2026-06-21T18:52:18.423297+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T17:05:26.449455+00:00",
+      "timestamp": "2026-06-21T18:52:18.423293+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,239 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T17:05:26.449446+00:00",
+      "timestamp": "2026-06-21T18:52:18.423283+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pixar's \u2018Toy Story 5\u2019 delivers record $160M opening as summer box office soars",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605314-pixars-toy-story-5-delivers-record-160m-opening-as-summer-box-office-soars?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:45:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:43:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chubb CEO sees gradual recovery in Hormuz shipping as security risks persist",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605313-chubb-ceo-sees-gradual-recovery-in-hormuz-shipping-as-security-risks-persist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:36:40+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S.-Iran talks in Switzerland continue despite Iranian media walkout reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/usiran-ceasefire-talks-set-to-begin-in-switzerland-as-vance-arrives-4751640",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:22:18+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Match for Costco Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-why-feds-decision-182000215.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:20:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bolivia crisis begins easing, air force jet on assistance flight crashes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bolivia-crisis-begins-to-ease-after-lawmakers-back-state-of-emergency-4751671",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:12:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-had-biggest-ipo-180400880.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:04:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Emerging-market earnings beat expectations for first time in four years",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605307-emerging-market-earnings-beat-expectations-for-first-time-in-four-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:03:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "She tried to cancel her gym membership but no one was there \u2014 now a billing company won't stop charging her",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/she-tried-cancel-her-gym-180000461.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer on CrowdStrike (CRWD): \u201cI Think the Second Half of the Year is Going to Be Really Good\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-crowdstrike-crwd-think-175047227.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T17:50:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Says Ingredion (INGR) Will Become an Ingredient Powerhouse After Tate & Lyle Deal",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-ingredion-become-132812181.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T17:49:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Explains the Reason Capital One (COF) Became a \u201cVirtual Trampoline\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-reason-capital-132816663.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T17:48:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Says He Likes Archer-Daniels-Midland (ADM) and Tyson Foods Now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-archer-132814304.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T17:48:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Highlights How CEO Lip-Bu Tan Solved Intel (INTC) Foundry Issues",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-ceo-lip-132817505.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T17:47:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T17:39:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T17:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ocado Group is said to search for CEO successor",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605312-ocado-group-is-said-to-search-for-ceo-successor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T17:31:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T17:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran suspends U.S. talks after Trump threatens new strikes",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605311-iran-suspends-u-s-talks-after-trump-threatens-new-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T17:16:39+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aluminum rally loses steam as producers adapt to Iran supply shock",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605306-aluminum-rally-loses-steam-as-producers-adapt-to-iran-supply-shock?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T17:02:48+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -51,22 +280,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "3 Ways to Prepare Your Portfolio for the Second Half of 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ways-prepare-portfolio-second-165000905.html",
+      "headline": "Google cooling initiative could reshape AI data-centre retrofit market- Bernstein",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/technology-news/google-cooling-initiative-could-reshape-ai-datacentre-retrofit-market-bernstein-4751677",
       "is_watchlist": false,
-      "timestamp": "2026-06-21T16:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/next-1-trillion-ai-winner-164907486.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T16:49:07+00:00",
+      "timestamp": "2026-06-21T16:54:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -95,122 +313,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "She saved $200K, quit her $250K tech job, and now pays herself $33K to run a matcha cafe in Manhattan",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/she-saved-200k-quit-her-160412245.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T16:04:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI may help hospitals more than insurers, UBS says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605299-ai-may-help-hospitals-more-than-insurers-ubs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T16:00:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Micron Must Do This on June 24, or Its Stock Could Crash",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8481702f864f516da513f202d5783f2bdd7370abbd81f7c4b442ce2af45af0b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T15:45:31+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Silicon valley on edge after Commerce Dept freezes advanced AI exports",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/general-news/silicon-valley-on-edge-after-commerce-dept-freezes-advanced-ai-exports-4751676",
       "is_watchlist": false,
       "timestamp": "2026-06-21T15:44:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Should You Forget Picking Individual Stocks and Buy This Index Fund Instead?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=983556b11c8f4d2820bfa805ba991498e434eb9f7f97ec3fc21459c41d35662d",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T15:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Own 500 Shares of Pfizer and JNJ and Here\u2019s Your Annual Dividend Income",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d96abf3bf94a147bdb7a7b2142321323483cc1cf5ce22841a29c097bd4296175",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T15:30:06+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump warns Iran over Hezbollah as regional tensions complicate nuclear talks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605305-trump-warns-iran-over-hezbollah-as-regional-tensions-complicate-nuclear-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T15:26:59+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coca-Cola's $20B tax fight heads to appeals court",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605304-coca-colas-20b-tax-fight-heads-to-appeals-court?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T15:19:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says U.K.'s starmer will resign as prime minister",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605303-trump-says-u-k-s-starmer-will-resign-as-prime-minister?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T15:02:33+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Moschino names Sunnei founders as creative directors after leadership change",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605297-moschino-names-sunnei-founders-as-creative-directors-after-leadership-change?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T15:02:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -223,17 +330,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-21T15:01:00+00:00",
       "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: After Roku, what other media companies could be takeover targets?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605293-sa-asks-after-roku-what-other-media-companies-could-be-takeover-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T15:00:47+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -259,39 +355,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Absci Corporation (ABSI) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/absci-corporation-absi-good-stock-143601164.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:36:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Aeva Technologies, Inc. (AEVA) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aeva-technologies-inc-aeva-good-143548081.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:35:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Atkore Inc. (ATKR) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atkore-inc-atkr-good-stock-143535537.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:35:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -304,22 +367,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T14:34:00+00:00",
       "relevance_score": 5.5,
       "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump warns Iran over Lebanon proxies as U.S.-Tehran talks continue",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/usiran-ceasefire-talks-set-to-begin-in-switzerland-as-vance-arrives-4751640",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T14:10:20+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
     {
@@ -412,17 +459,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bolivia crisis begins to ease after lawmakers back state of emergency",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bolivia-crisis-begins-to-ease-after-lawmakers-back-state-of-emergency-4751671",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:36:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "No one wants AI data centers on Earth. Do they make sense in space?",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
@@ -440,17 +476,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-21T13:33:34+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S airline stocks face near-term headwinds as market focus shifts to fundamentals",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-airline-stocks-face-nearterm-headwinds-as-market-focus-shifts-to-fundamentals-4751670",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:21:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -663,21 +688,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran coach questions inconsistency as preparation for Belgium match cut short - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMk1kNVo3MFREOWQxV2tJUmhKQktKWWI1dE50UEc5NllHakZfMU11YVRYSTFkNmVQSDVNcXpfbTJXOEdyeC03cHhxSkk0QWpaYXJmV3U5Y3FPLXhlZUFEZjVWbldRYWlPSE1TZ1Q4Sl85QlRwcTluaXUzVjJkc0JSRHpOVzNEai0wSWxhZ1JDOVN6U2xyRjhtUEY4eHNvbUFqMXRZUDhSZzdaZVZzZ3lWYlcxcF9nbF93M2Zmdw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T03:21:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "'Fun dads' get 5 things right about parenting that many people forget\u2014'they're worth borrowing' this Father's Day, says expert",
@@ -686,17 +696,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-20T17:35:35+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear GameStop Stock Fans, Mark Your Calendars for July 7",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-gamestop-stock-fans-mark-154502538.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T15:45:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -710,17 +709,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Forget SpaceX: See This Overlooked AI Stock in Donald Trump\u2019s Portfolio",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/forget-spacex-see-overlooked-ai-153143545.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T15:31:43+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
