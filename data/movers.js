@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T10:46:52.216857+00:00",
+  "generated_at": "2026-06-21T13:06:44.165515+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Social Security COLA Estimates for 2027 Are Getting a \"Trump Bump\": Here's How Much Extra ...\""
+      "move_reason": "News: \"Forget Ads: Alphabet\u2019s CEO Says This Is Now the Biggest Growth Driver\""
     },
     {
       "ticker": "SOFI",
@@ -117,7 +117,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Don't Freak Out Over Fed Chair Kevin Warsh's 'New' Regime\""
+      "move_reason": "News: \"This Could Be The Most Important Market Shift In Years\""
     },
     {
       "ticker": "NBIS",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Don't Freak Out Over Fed Chair Kevin Warsh's 'New' Regime\""
+      "move_reason": "News: \"This Could Be The Most Important Market Shift In Years\""
     },
     {
       "ticker": "NBIS",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Social Security COLA Estimates for 2027 Are Getting a \"Trump Bump\": Here's How Much Extra ...\""
+      "move_reason": "News: \"Forget Ads: Alphabet\u2019s CEO Says This Is Now the Biggest Growth Driver\""
     },
     {
       "ticker": "OSCR",

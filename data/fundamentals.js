@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-06-21T10:46:52.261118+00:00",
+  "generated_at": "2026-06-21T13:06:44.207407+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 18.17,
@@ -256,11 +256,11 @@ window.theBriefFundamentals = {
     "OXY": {
       "return_1m": -14.24,
       "return_3m": -12.62,
-      "return_6m": 34.39,
+      "return_6m": 34.4,
       "return_1y": null,
       "return_ytd": 23.42,
       "return_52w_high": -21.41,
-      "return_52w_low": 34.39,
+      "return_52w_low": 34.4,
       "realized_vol_30d_pct": 2.2,
       "trailing_pe": 70.02702,
       "forward_pe": 12.846606,
