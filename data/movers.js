@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T07:08:26.378263+00:00",
+  "generated_at": "2026-06-21T10:46:52.216857+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Pullback Created Bargains: Dirt Cheap Consumer Stocks Worth Buying With $5,000 Today\""
+      "move_reason": "News: \"Social Security COLA Estimates for 2027 Are Getting a \"Trump Bump\": Here's How Much Extra ...\""
     },
     {
       "ticker": "SOFI",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Pullback Created Bargains: Dirt Cheap Consumer Stocks Worth Buying With $5,000 Today\""
+      "move_reason": "News: \"Social Security COLA Estimates for 2027 Are Getting a \"Trump Bump\": Here's How Much Extra ...\""
     },
     {
       "ticker": "OSCR",
