@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-21T21:55:16.089476+00:00",
+  "generated_at": "2026-06-21T23:14:17.338115+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T21:55:16.086504+00:00",
+      "timestamp": "2026-06-21T23:14:17.335051+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T21:55:16.086500+00:00",
+      "timestamp": "2026-06-21T23:14:17.335047+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,111 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T21:55:16.086491+00:00",
+      "timestamp": "2026-06-21T23:14:17.335038+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock market today: S&P 500, Nasdaq, Dow futures slide with US-Iran peace and inflation in focus",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:58:17+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This bull market isn\u2019t going to end because of Fed rate hikes under Warsh",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:41:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dave Ramsey Tells Couple Supporting 84-Year-Old Father-in-Law With $33,000 of Debt: \u2018It Won\u2019t End Until You End It\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-tells-couple-supporting-223739064.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:37:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "$165 Billion Stock Selloff Looms as Goldman Flags Rising Leverage",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/165-billion-stock-selloff-looms-223539994.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:35:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bolivia crisis begins easing, air force jet on assistance flight crashes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bolivia-crisis-begins-to-ease-after-lawmakers-back-state-of-emergency-4751671",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:24:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brent oil rises more than $1/bbl after bumpy start to US-Iran peace talks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:18:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK\u2019s Starmer considers political future, could decide as soon as Monday",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/uk-business-minister-says-he-has-no-reason-to-think-pm-starmer-will-resign-on-monday-4751658",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:12:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Monday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605281-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T22:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MoonLake eyes FDA filing this fall on one-year results for skin treatment",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605321-moonlake-eyes-fda-filing-this-fall-on-one-year-results-for-skin-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T21:55:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -139,12 +240,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A Lindblad Expeditions Director Sold Nearly 53,000 Shares Worth $1.2 Million. Here's a Deeper Look at the Transaction.",
+      "headline": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-director-sold-nearly-204801880.html",
+      "url": "https://finance.yahoo.com/energy/articles/hormuz-crisis-sparks-middle-east-210000952.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-21T20:48:01+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-06-21T21:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -182,25 +283,39 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "The CLARITY Act's Biggest Obstacle Isn't Crypto Regulation \u2014 It's Trump's Crypto Ties",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-acts-biggest-obstacle-isnt-203040720.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T20:30:40+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Oil Falls to 3-Month Low After Trump\u2019s Iran Deal. What It Means for Inflation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b025ecd0001a97a168caaf90febb17f2a314b5a127929bcf1c0ef53d6697f6ba",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T20:31:34+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Central banks won't derail the growth cycle, SocGen says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605310-central-banks-wont-derail-the-growth-cycle-socgen-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T20:04:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "With the Fed Holding Interest Rates Steady, Here's the Smartest Dividend Stock to Buy With $1,000 Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5eb047d4ebb4200f8caf597e0bd2040ae2d04a414e3fbecd580794aa833569f",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T20:25:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Relatively Unknown Energy Stock You Won't Want to Miss",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9530eb75d445268388d2adea6e0467e715cfdf15c943d92e480d9f137bcd22d0",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T20:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -215,69 +330,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Veteran Tech Investor: Meta Is \u2018One of the Best Advertising Machines Ever Built\u2019 With 46% Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f477e68de01bd4931e97c10de28578e9a56c0d042968eab1acd198849891849b",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T19:44:48+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Think a Roth IRA Is Your Best Bet for Retirement Savings? Here's Why It Could Backfire.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ffd7ec975338ff3057629dc004b30733426a945586419024084735589d6ec0b6",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T19:38:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "France faces economic slack as structural shifts weigh on demand- Citi",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/france-faces-economic-slack-as-structural-shifts-weigh-on-demand-citi-4751681",
       "is_watchlist": false,
       "timestamp": "2026-06-21T19:12:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin coils below $65K resistance: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-66380-resistance-after-wbottom-breakout-live-levels-93CH-4741296",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T19:02:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Guinea bans raw gold exports to expand domestic processing",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605308-guinea-bans-raw-gold-exports-to-expand-domestic-processing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T19:01:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ramiro Valdes, lauded as hero of Cuban revolution, dies at 94",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/ramiro-valdes-lauded-as-hero-of-cuban-revolution-dies-at-94-4751678",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T19:00:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -295,17 +353,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T18:52:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
@@ -313,18 +360,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T18:43:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10c47bc5689beb8efd1785300f3602425a3d8ad429f2e31b93cb6a522a0e3ff7",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T18:41:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -367,28 +402,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-reason-capital-132816663.html",
       "is_watchlist": false,
       "timestamp": "2026-06-21T17:48:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Says He Likes Archer-Daniels-Midland (ADM) and Tyson Foods Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-archer-132814304.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T17:48:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Highlights How CEO Lip-Bu Tan Solved Intel (INTC) Foundry Issues",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-ceo-lip-132817505.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T17:47:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -506,18 +519,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T13:33:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This bull market isn\u2019t going to end because of Fed rate hikes under Warsh",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T13:00:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",

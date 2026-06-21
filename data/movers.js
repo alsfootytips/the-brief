@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T21:55:16.084274+00:00",
+  "generated_at": "2026-06-21T23:14:17.332844+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Veteran Tech Investor: Meta Is \u2018One of the Best Advertising Machines Ever Built\u2019 With 46% ...\""
+      "move_reason": "News: \"Oil Falls to 3-Month Low After Trump\u2019s Iran Deal. What It Means for Inflation\""
     },
     {
       "ticker": "SOFI",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Veteran Tech Investor: Meta Is \u2018One of the Best Advertising Machines Ever Built\u2019 With 46% ...\""
+      "move_reason": "News: \"Oil Falls to 3-Month Low After Trump\u2019s Iran Deal. What It Means for Inflation\""
     },
     {
       "ticker": "OSCR",
