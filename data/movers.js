@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T02:05:51.944690+00:00",
+  "generated_at": "2026-06-21T07:08:26.378263+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth\""
+      "move_reason": "News: \"The Pullback Created Bargains: Dirt Cheap Consumer Stocks Worth Buying With $5,000 Today\""
     },
     {
       "ticker": "SOFI",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth\""
+      "move_reason": "News: \"The Pullback Created Bargains: Dirt Cheap Consumer Stocks Worth Buying With $5,000 Today\""
     },
     {
       "ticker": "OSCR",

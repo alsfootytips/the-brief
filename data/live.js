@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-21T02:05:51.949934+00:00",
+  "generated_at": "2026-06-21T07:08:26.383522+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T02:05:51.946837+00:00",
+      "timestamp": "2026-06-21T07:08:26.380464+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T02:05:51.946833+00:00",
+      "timestamp": "2026-06-21T07:08:26.380460+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,49 +32,146 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T02:05:51.946824+00:00",
+      "timestamp": "2026-06-21T07:08:26.380451+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Trump, blaming alleged vandals, says Washington Reflecting Pool needs repairs",
+      "headline": "Accenture Q3 FY26 slides: margin gains offset by revenue miss, stock plunges",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-blaming-alleged-vandals-says-washington-reflecting-pool-needs-repairs-4751641",
+      "url": "https://www.investing.com/news/company-news/accenture-q3-fy26-slides-margin-gains-offset-by-revenue-miss-stock-plunges-93CH-4751654",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T06:56:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Accenture Q3 2026 results spark sharp stock selloff",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-accenture-q3-2026-results-spark-sharp-stock-selloff-93CH-4751653",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T06:44:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israel says it \u2019eliminated\u2019 two Hamas and Islamic Jihad operatives tied to major funding network",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/israel-says-it-eliminated-two-hamas-and-islamic-jihad-operatives-tied-to-major-funding-network-4751652",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T06:36:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zelenskiy urges Belarus to remove equipment aiding Russian drone attacks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/zelenskiy-urges-belarus-to-remove-equipment-aiding-russian-drone-attacks-4751651",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T06:35:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. sanctions struggle to curb Iran, Russia, North Korea evasion tactics - WSJ",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-sanctions-struggle-to-curb-iran-russia-north-korea-evasion-tactics--wsj-4751650",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T05:49:16+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Pullback Created Bargains: Dirt Cheap Consumer Stocks Worth Buying With $5,000 Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e92bd0edc584ce006f5aceb78ba47710be63a99536cd3122352d1f33915012bc",
       "is_watchlist": true,
-      "timestamp": "2026-06-21T01:42:28+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
+      "timestamp": "2026-06-21T05:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump, Italy\u2019s Meloni exchange fresh criticism over Iran war stance",
+      "headline": "Swiss voters likely to reject stricter neutrality proposal, poll shows",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-italys-meloni-exchange-fresh-criticism-over-iran-war-stance-4751642",
+      "url": "https://www.investing.com/news/economy-news/swiss-voters-likely-to-reject-stricter-neutrality-proposal-poll-shows-4751649",
       "is_watchlist": false,
-      "timestamp": "2026-06-21T01:28:40+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-06-21T04:51:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why This $26.5 Trillion Projection Is Critical to Understand Before Buying SpaceX Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c9f6e601ff307dd767a555abe872882e70cb4768e869df1339f31af3125357c",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T04:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S.-Iran ceasefire talks set to begin in Switzerland as Vance arrives",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/usiran-ceasefire-talks-set-to-begin-in-switzerland-as-vance-arrives-4751640",
+      "headline": "US VP Vance arrives in Switzerland for peace talks with Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnAzWlotOEpfTUY1MXotSFVBTlJndkJWUS1QazZfdjFPNTFHQ3RWaFF5QjlFM3BndjQ1N0ExTlByMjNLODhTalhEb0loNTBnSmJ2OXdieURobkJ5WThHVzhwaXJ3enE4TzhzeHliaVN3bDB5SjFJa0JvNTYydEhDbW5aNmhGT2F2bFp3ZGNJOC1QZkFfWTBPQ1daS3NUbzFCVmRGWQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-21T00:55:03+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-06-21T04:36:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Court orders trial for Spanish PM\u2019s wife in corruption case",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/court-orders-trial-for-spanish-pms-wife-in-corruption-case-4751648",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T04:09:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-Yoghurt wars: Danone-Chobani clash underscores wider protein battle",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/analysisyoghurt-wars-danonechobani-clash-underscores-wider-protein-battle-4751647",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T04:06:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SK Hynix (KOSE:A000660) Ships HBM4E DRAM To AI Customers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cdd029160ab160dedb089cb011a2be0fcf3e6303316f0b8643efb2f366a2a193",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T03:13:33+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -90,83 +187,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Zelenskiy warns of major Russian attack as strikes kill at least six",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/zelenskiy-warns-of-major-russian-attack-as-strikes-kill-at-least-six-4751639",
+      "headline": "Vance arrives in Switzerland for Iran peace talks with Hormuz in spotlight - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3B1UzBaM0FMeEpSTFF5N3J3NXFHanp0a0VKUlprczNXWVJCa0VmSUZxY1ZqYkNPdHBrVml3clJUZzdpck1DY3djZHR6ZTFMeU5HdHVTaTJPMV81Q0VJY1E3TWZyU2RlM0ZVZDJKZ2RERnRETURQRmM4MElPajdMV3VzNW4tUEVVWDZlWG1QTGU5dHVTX2NXdjd5UHd2blpVeW5QNE91cnRnYy1vN25BRTA0RjdzMTZ4X2lQd01JdmM2SnVD?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-21T00:20:05+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-disputes-iranian-claims-about-closing-strait-of-hormuz-as-negotiators-head-to-switzerland-4751638",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T23:54:32+00:00",
-      "relevance_score": 3.0,
+      "timestamp": "2026-06-20T23:49:00+00:00",
+      "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran negotiators, Vance head for Switzerland but Lebanon fighting continues - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T23:51:42+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d96eb737c574746755ca243fd9cc030111f3b60de8c980abfe2ee84687beabcb",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T23:50:59+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "This Top AI Cryptocurrency Was Up 115% in May. But Is It a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=984b1a11197795477e7eea01e3fed49a11bf233c202719e306b151f446fd6350",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T23:39:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thousands protest in Albania over Kushner-backed resort project",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/thousands-protest-in-albania-over-kushnerbacked-resort-project-4751637",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T23:34:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Where Will Alphabet Stock Be in 5 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=238ec9df5d90a66e3923c4dbdb86ae5731a237774bba2836c50d30c4f182ede9",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T23:33:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -179,28 +207,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Burnham\u2019s by-election win means for UK stocks?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/what-burnhams-byelection-win-means-for-uk-stocks-4751636",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T22:48:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli fire kills nine people in Gaza, including a child and journalist, medics say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-fire-kills-five-people-in-gaza-including-a-child-medics-say-4751613",
-      "is_watchlist": false,
-      "timestamp": "2026-06-20T22:42:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -665,19 +671,81 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-06-20T03:08:00+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "headline": "Weekly Wrap: Bitcoin Slumps As Fed Turns Hawkish On Interest Rates",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-slumps-fed-224000383.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T01:40:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Schwab Plans S&P 500 Prediction Markets as Event Trading Moves Mainstream",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/schwab-plans-p-500-prediction-223100187.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T01:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strive Blames Leverage Unwind as SATA and Strategy\u2019s STRC Slide Below Par",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strive-blames-leverage-unwind-sata-222600330.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-20T01:26:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australia's CGT overhaul is splitting its VC ecosystem",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/australias-cgt-overhaul-splitting-vc-231108701.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T23:11:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft vs. Nvidia: Which AI Giant Is the Better Dividend Stock for the Long Haul?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-nvidia-ai-giant-230002256.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T23:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kalshi Explores IPO As Its Prediction Market Surges",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kalshi-explores-ipo-prediction-market-195800130.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T22:58:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should You Add Ethereum to Your Portfolio Right Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/add-ethereum-portfolio-now-225700857.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-19T22:57:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -687,83 +755,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html",
       "is_watchlist": false,
       "timestamp": "2026-06-19T22:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Plug Power Inc. (PLUG) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/plug-power-inc-plug-good-194003920.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:40:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is RingCentral, Inc. (RNG) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-inc-rng-good-stock-193941802.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:39:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Talos Energy Inc. (TALO) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-inc-talo-good-193911243.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:39:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Teradata Corporation (TDC) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/teradata-corporation-tdc-good-stock-193857558.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:38:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Callaway Golf Company (CALY) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/callaway-golf-company-caly-good-193843061.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:38:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "1 Dividend King Stock Down 25% to Buy Right Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-dividend-king-stock-down-192700500.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:27:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Michigan father, 44, says he made a $550K \u2018cheat code\u2019 to financial freedom \u2014 here\u2019s how he did it (and how you can too)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/michigan-father-44-says-made-192500028.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-19T19:25:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
