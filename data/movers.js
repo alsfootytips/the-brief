@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T13:06:44.165515+00:00",
+  "generated_at": "2026-06-21T15:17:17.567734+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles\""
+      "move_reason": "News: \"AMD's H2 2026 Inflection Is Bigger Than AI GPUs\""
     },
     {
       "ticker": "DG",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Forget Ads: Alphabet\u2019s CEO Says This Is Now the Biggest Growth Driver\""
+      "move_reason": "News: \"Is It Too Late to Buy SpaceX Stock?\""
     },
     {
       "ticker": "SOFI",
@@ -236,7 +236,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks To Watch Echo AI Theme. GE Vernova Among Five Stocks Near Buy Points.\""
+      "move_reason": "News: \"Our Top 10 High Growth Dividend Stocks - June 2026\""
     },
     {
       "ticker": "XLF",
@@ -329,7 +329,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cloud Infrastructure Rotation Intensifies as AMD Surges While Microsoft Stumbles\""
+      "move_reason": "News: \"AMD's H2 2026 Inflection Is Bigger Than AI GPUs\""
     },
     {
       "ticker": "APA",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Forget Ads: Alphabet\u2019s CEO Says This Is Now the Biggest Growth Driver\""
+      "move_reason": "News: \"Is It Too Late to Buy SpaceX Stock?\""
     },
     {
       "ticker": "OSCR",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks To Watch Echo AI Theme. GE Vernova Among Five Stocks Near Buy Points.\""
+      "move_reason": "News: \"Our Top 10 High Growth Dividend Stocks - June 2026\""
     },
     {
       "ticker": "TPL",
