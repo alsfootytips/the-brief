@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T18:52:18.421058+00:00",
+  "generated_at": "2026-06-21T20:25:51.144845+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?\""
+      "move_reason": "News: \"Veteran Tech Investor: Meta Is \u2018One of the Best Advertising Machines Ever Built\u2019 With 46% ...\""
     },
     {
       "ticker": "SOFI",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?\""
+      "move_reason": "News: \"Veteran Tech Investor: Meta Is \u2018One of the Best Advertising Machines Ever Built\u2019 With 46% ...\""
     },
     {
       "ticker": "OSCR",

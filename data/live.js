@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-21T18:52:18.426277+00:00",
+  "generated_at": "2026-06-21T20:25:51.150054+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.1,
       "price": 1112.88,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T18:52:18.423297+00:00",
+      "timestamp": "2026-06-21T20:25:51.147083+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.46,
       "price": 113.54,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T18:52:18.423293+00:00",
+      "timestamp": "2026-06-21T20:25:51.147079+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,155 @@ window.theBriefLive = {
       "change_pct": 4.71,
       "price": 536.62,
       "is_watchlist": true,
-      "timestamp": "2026-06-21T18:52:18.423283+00:00",
+      "timestamp": "2026-06-21T20:25:51.147070+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bloom Energy Soared After a New AI Power Report. Is the Fuel Cell Stock a Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-soared-ai-power-200600050.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T20:06:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Central banks won't derail the growth cycle, SocGen says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605310-central-banks-wont-derail-the-growth-cycle-socgen-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T20:04:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why companies sell their products in Singapore first",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/why-companies-sell-products-singapore-200235974.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T20:02:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T20:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Veteran Tech Investor: Meta Is \u2018One of the Best Advertising Machines Ever Built\u2019 With 46% Upside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f477e68de01bd4931e97c10de28578e9a56c0d042968eab1acd198849891849b",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T19:44:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Think a Roth IRA Is Your Best Bet for Retirement Savings? Here's Why It Could Backfire.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffd7ec975338ff3057629dc004b30733426a945586419024084735589d6ec0b6",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T19:38:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "France faces economic slack as structural shifts weigh on demand- Citi",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/france-faces-economic-slack-as-structural-shifts-weigh-on-demand-citi-4751681",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T19:12:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/people-ticketed-for-vandalizing-washington-reflecting-pool-to-be-fully-prosecuted-us-attorney-pirro-says-4751680",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T19:12:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin coils below $65K resistance: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-66380-resistance-after-wbottom-breakout-live-levels-93CH-4741296",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T19:02:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Guinea bans raw gold exports to expand domestic processing",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605308-guinea-bans-raw-gold-exports-to-expand-domestic-processing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T19:01:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ramiro Valdes, lauded as hero of Cuban revolution, dies at 94",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ramiro-valdes-lauded-as-hero-of-cuban-revolution-dies-at-94-4751678",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T19:00:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T19:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T18:52:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -58,6 +203,18 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T18:43:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10c47bc5689beb8efd1785300f3602425a3d8ad429f2e31b93cb6a522a0e3ff7",
+      "is_watchlist": true,
+      "timestamp": "2026-06-21T18:41:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -85,33 +242,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Match for Costco Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-why-feds-decision-182000215.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T18:20:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bolivia crisis begins easing, air force jet on assistance flight crashes",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/bolivia-crisis-begins-to-ease-after-lawmakers-back-state-of-emergency-4751671",
       "is_watchlist": false,
       "timestamp": "2026-06-21T18:12:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-had-biggest-ipo-180400880.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T18:04:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -194,30 +329,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f45401f4a8db2dd7c911e2d1352c2fae2d27850bdb9e46944f56cc5550868a22",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T17:39:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T17:33:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Ocado Group is said to search for CEO successor",
       "source": "Seeking Alpha Market",
@@ -226,18 +337,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T17:31:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f65be541e2c45cb55b56d366e0cdaa64fe5ef5ac8a13a0149af33df3507de3c8",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T17:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -254,17 +353,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Aluminum rally loses steam as producers adapt to Iran supply shock",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605306-aluminum-rally-loses-steam-as-producers-adapt-to-iran-supply-shock?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T17:02:48+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -291,34 +379,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil traders revive bearish bets as Iran deal deflates supply fears",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605309-oil-traders-revive-bearish-bets-as-iran-deal-deflates-supply-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T16:27:23+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Pixar's 'Toy Story 5' lassos biggest opening weekend in franchise history with $160 million haul",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/06/21/pixar-toy-story-5-box-office-biggest-opening-in-franchise-history-.html",
       "is_watchlist": false,
       "timestamp": "2026-06-21T16:06:06+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Silicon valley on edge after Commerce Dept freezes advanced AI exports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/silicon-valley-on-edge-after-commerce-dept-freezes-advanced-ai-exports-4751676",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T15:44:14+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -331,43 +397,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T15:01:00+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran negotiators, Vance head for Switzerland but Lebanon fighting continues",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/iran-negotiators-vance-head-for-switzerland-but-lebanon-fighting-continues-4751675",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:54:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK\u2019s Starmer considers political future, could decide as soon as Monday",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/uk-business-minister-says-he-has-no-reason-to-think-pm-starmer-will-resign-on-monday-4751658",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:42:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says UK Prime Minister Starmer \u2019failed badly,\u2019 will resign",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-says-uk-prime-minister-starmer-failed-badly-will-resign-4751674",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T14:34:00+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -412,22 +441,6 @@ window.theBriefLive = {
       "timestamp": "2026-06-21T14:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says US will resume attacks if Iran does not restrain Hezbollah allies",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-says-us-will-resume-attacks-if-iran-does-not-restrain-hezbollah-allies-4751672",
-      "is_watchlist": true,
-      "timestamp": "2026-06-21T13:48:34+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -543,28 +556,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-21T12:29:46+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Money can make you happy\u2019: My wife and I have no heirs, but we\u2019re making the world a better place by giving it away",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T12:10:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T12:09:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
