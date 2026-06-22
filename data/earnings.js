@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-22T22:48:13+00:00",
+  "generated_at": "2026-06-22T23:14:32+00:00",
   "by_date": {
     "2026-06-22": [
       {
@@ -289,7 +289,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CRWS",
         "date": "2026-06-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -329,7 +329,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MEI",
         "date": "2026-06-24",
-        "hour": "bmo",
+        "hour": "amc",
         "eps_estimate": -0.2121,
         "revenue_estimate": 240848640,
         "is_watchlist": false
@@ -401,7 +401,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PODC",
         "date": "2026-06-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0204,
         "revenue_estimate": 15935123,
         "is_watchlist": false
@@ -571,7 +571,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OMSE",
         "date": "2026-06-25",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.153,
         "revenue_estimate": 37267740,
         "is_watchlist": false
@@ -669,7 +669,7 @@ window.theBriefEarnings = {
       {
         "ticker": "APOG",
         "date": "2026-06-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.4556,
         "revenue_estimate": 340516116,
         "is_watchlist": false
