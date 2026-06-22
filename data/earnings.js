@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-21T23:14:17+00:00",
+  "generated_at": "2026-06-22T01:42:58+00:00",
   "by_date": {
     "2026-06-22": [
       {
@@ -1154,6 +1154,160 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-07-06": [
+      {
+        "ticker": "ACP",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AEHR",
+        "date": "2026-07-06",
+        "hour": "amc",
+        "eps_estimate": -0.0077,
+        "revenue_estimate": 19059210,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AOD",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ASII",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CET",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CYBL",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ESI",
+        "date": "2026-07-06",
+        "hour": "amc",
+        "eps_estimate": 0.4306,
+        "revenue_estimate": 861306487,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FAX",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FCO",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HBSI",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HIX",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "IAF",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NAD",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NEA",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NMZ",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NUV",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NVG",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RDZN",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": -0.0612,
+        "revenue_estimate": 15594780,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SANW",
+        "date": "2026-07-06",
+        "hour": "",
+        "eps_estimate": -1.632,
+        "revenue_estimate": 6630000,
         "is_watchlist": false
       }
     ]

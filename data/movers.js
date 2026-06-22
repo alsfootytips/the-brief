@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-21T23:14:17.332844+00:00",
+  "generated_at": "2026-06-22T01:42:58.038563+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is DLTR Stock a Buy as Earnings Rise but Risks Keep Valuation in Check\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "XLK",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oil Falls to 3-Month Low After Trump\u2019s Iran Deal. What It Means for Inflation\""
+      "move_reason": "News: \"You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead\""
     },
     {
       "ticker": "SOFI",
@@ -93,7 +93,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Appoints Sarah Gavin as CMO and EVP\""
+      "move_reason": "Tracking XLK sector (+3.04% today)"
     },
     {
       "ticker": "CRWV",
@@ -200,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA Gains 63% in a Year: Is the Market Finally Catching On?\""
+      "move_reason": "Tracking XLE sector (-1.50% today)"
     },
     {
       "ticker": "PLTR",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The 3 Best Energy ETFs to Own as Oil Volatility Returns in 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "PWR",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA Gains 63% in a Year: Is the Market Finally Catching On?\""
+      "move_reason": "Tracking XLE sector (-1.50% today)"
     },
     {
       "ticker": "CRWV",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is DLTR Stock a Buy as Earnings Rise but Risks Keep Valuation in Check\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "GEV",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oil Falls to 3-Month Low After Trump\u2019s Iran Deal. What It Means for Inflation\""
+      "move_reason": "News: \"You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead\""
     },
     {
       "ticker": "OSCR",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Appoints Sarah Gavin as CMO and EVP\""
+      "move_reason": "Tracking XLK sector (+3.04% today)"
     },
     {
       "ticker": "XLE",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The 3 Best Energy ETFs to Own as Oil Volatility Returns in 2026\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -730,23 +730,20 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 18.54,
       "change_pct": 2.09,
-      "score": 5.5,
+      "score": 4.0,
       "signals": [
-        "3 news items in the last 3 days",
         "7 insider sells vs 3 buys (last 90 days)",
         "+2 analyst sell recs added recently",
         "Forward P/E 8.6 (cheap on absolute basis)",
         "-79.4% from 52-week high"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
         "7 insider sells vs 3 buys (last 90 days)",
         "+2 analyst sell recs added recently",
         "Forward P/E 8.6 (cheap on absolute basis)",
         "-79.4% from 52-week high"
       ],
       "tags": [
-        "news-flow",
         "insider-selling",
         "analyst-downgrade",
         "cheap",
@@ -754,104 +751,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TTD</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 51.83,
-      "change_pct": -2.29,
-      "score": 5.5,
-      "signals": [
-        "Moved -2.29% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 12.8 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved -2.29% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 12.8 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 117.61,
-      "change_pct": 2.08,
-      "score": 5.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "8 insider sells vs 2 buys (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "8 insider sells vs 2 buys (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-selling"
-      ],
-      "narrative": "<strong>CRWV</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLK"
-    },
-    {
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "price": 285.29,
-      "change_pct": 1.56,
-      "score": 5.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-selling"
-      ],
-      "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLK"
-    },
-    {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 33.18,
-      "change_pct": -2.22,
-      "score": 4.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 7.7 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 7.7 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     },
     {
       "ticker": "TPL",
@@ -878,6 +777,29 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 51.83,
+      "change_pct": -2.29,
+      "score": 4.0,
+      "signals": [
+        "Moved -2.29% \u2014 a 1.0\u03c3 move",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 12.8 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "Moved -2.29% \u2014 a 1.0\u03c3 move",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 12.8 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "price": 536.62,
@@ -900,6 +822,69 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>AMD</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "CRWV",
+      "name": "CoreWeave",
+      "price": 117.61,
+      "change_pct": 2.08,
+      "score": 3.5,
+      "signals": [
+        "1 SEC filing in the last 7 days",
+        "8 insider sells vs 2 buys (last 90 days)"
+      ],
+      "reasons": [
+        "1 SEC filing in the last 7 days",
+        "8 insider sells vs 2 buys (last 90 days)"
+      ],
+      "tags": [
+        "filing",
+        "insider-selling"
+      ],
+      "narrative": "<strong>CRWV</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 285.29,
+      "change_pct": 1.56,
+      "score": 3.5,
+      "signals": [
+        "1 SEC filing in the last 7 days",
+        "10 insider sells vs 0 buys (last 90 days)"
+      ],
+      "reasons": [
+        "1 SEC filing in the last 7 days",
+        "10 insider sells vs 0 buys (last 90 days)"
+      ],
+      "tags": [
+        "filing",
+        "insider-selling"
+      ],
+      "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 33.18,
+      "change_pct": -2.22,
+      "score": 3.0,
+      "signals": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 7.7 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 7.7 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [
