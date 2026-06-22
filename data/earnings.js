@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-22T07:06:45+00:00",
+  "generated_at": "2026-06-22T13:06:46+00:00",
   "by_date": {
     "2026-06-22": [
       {
@@ -37,7 +37,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EBF",
         "date": "2026-06-22",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3939,
         "revenue_estimate": 99182000,
         "is_watchlist": false
