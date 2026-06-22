@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-22T01:42:58.038563+00:00",
+  "generated_at": "2026-06-22T07:06:45.091258+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD's H2 2026 Inflection Is Bigger Than AI GPUs\""
+      "move_reason": "News: \"Why TSMC Doesn\u2019t Even Need to Win the AI Race\""
     },
     {
       "ticker": "DG",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+      "move_reason": "News: \"Dollar General (DG) Raises Fiscal 2026 Outlook as Telsey Advisory Lowers Target\""
     },
     {
       "ticker": "XLK",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead\""
+      "move_reason": "News: \"Is First Solar Dirt Cheap Amid the AI Boom?\""
     },
     {
       "ticker": "SOFI",
@@ -117,7 +117,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Could Be The Most Important Market Shift In Years\""
+      "move_reason": "News: \"Financial Big Bang: Extended Trading Hours Coming Soon, Buy These Exchanges\""
     },
     {
       "ticker": "NBIS",
@@ -188,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (-1.50% today)"
+      "move_reason": "News: \"Occidental Petroleum: I'm Turning More Bearish (Rating Downgrade)\""
     },
     {
       "ticker": "APA",
@@ -310,11 +310,10 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 143.48,
       "change_pct": -0.01,
-      "volume_ratio": 0.86,
+      "volume_ratio": 0.98,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -329,7 +328,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD's H2 2026 Inflection Is Bigger Than AI GPUs\""
+      "move_reason": "News: \"Why TSMC Doesn\u2019t Even Need to Win the AI Race\""
     },
     {
       "ticker": "APA",
@@ -365,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+      "move_reason": "News: \"Dollar General (DG) Raises Fiscal 2026 Outlook as Telsey Advisory Lowers Target\""
     },
     {
       "ticker": "GEV",
@@ -389,7 +388,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Could Be The Most Important Market Shift In Years\""
+      "move_reason": "News: \"Financial Big Bang: Extended Trading Hours Coming Soon, Buy These Exchanges\""
     },
     {
       "ticker": "NBIS",
@@ -413,7 +412,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead\""
+      "move_reason": "News: \"Is First Solar Dirt Cheap Amid the AI Boom?\""
     },
     {
       "ticker": "OSCR",
@@ -437,7 +436,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (-1.50% today)"
+      "move_reason": "News: \"Occidental Petroleum: I'm Turning More Bearish (Rating Downgrade)\""
     },
     {
       "ticker": "PWR",
