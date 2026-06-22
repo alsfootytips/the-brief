@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-22T13:06:46+00:00",
+  "generated_at": "2026-06-22T16:30:36+00:00",
   "by_date": {
     "2026-06-22": [
       {
@@ -1164,14 +1164,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AEHR",
-        "date": "2026-07-06",
-        "hour": "amc",
-        "eps_estimate": -0.0077,
-        "revenue_estimate": 19059210,
         "is_watchlist": false
       },
       {
