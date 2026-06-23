@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-22T23:14:32.983988+00:00",
+  "generated_at": "2026-06-23T00:06:49.607675+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": 5.0,
-      "price": 737.33,
+      "change_pct": 5.16,
+      "price": 738.5,
       "is_watchlist": true,
-      "timestamp": "2026-06-22T23:14:32.849813+00:00",
+      "timestamp": "2026-06-23T00:06:49.604852+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PLTR",
       "name": "PLTR",
-      "change_pct": -7.09,
-      "price": 119.36,
+      "change_pct": -7.02,
+      "price": 119.45,
       "is_watchlist": false,
-      "timestamp": "2026-06-22T23:14:32.849810+00:00",
+      "timestamp": "2026-06-23T00:06:49.604848+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -29,25 +29,145 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -6.59,
-      "price": 110.18,
+      "change_pct": -6.49,
+      "price": 110.3,
       "is_watchlist": true,
-      "timestamp": "2026-06-22T23:14:32.849798+00:00",
+      "timestamp": "2026-06-23T00:06:49.604832+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
-      "type": "mover",
-      "ticker": "APA",
-      "name": "APA Corp",
-      "change_pct": 3.48,
-      "price": 34.18,
-      "is_watchlist": true,
-      "timestamp": "2026-06-22T23:14:32.849790+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
+      "type": "news",
+      "ticker": null,
+      "headline": "Oruka Therapeutics SVP Arjun Agarwal sells $128,468 in ORKA stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-svp-arjun-agarwal-sells-128468-in-orka-stock-93CH-4754461",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:04:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood\u2019s ARK stock trade: SpaceX buy, Roku sell",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-stock-trade-spacex-buy-roku-sell-93CH-4754460",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:03:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Entravision Communications Corp For: 22 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-entravision-communications-corp-for-22-june-93CH-4754459",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:03:24+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 RH For: 22 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-rh-for-22-june-93CH-4754458",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:03:21+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Entravision Communications Corp For: 22 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-entravision-communications-corp-for-22-june-93CH-4754457",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:03:12+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Angi Inc For: 22 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-angi-inc-for-22-june-93CH-4754456",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:03:11+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Angi Inc For: 22 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-angi-inc-for-22-june-93CH-4754455",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:03:11+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strategy Inc CEO Le Phong buys $998,756 in preferred stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/strategy-inc-ceo-le-phong-buys-998756-in-preferred-stock-93CH-4754454",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T00:02:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crude oil adds to losses on potential progress in U.S.-Iran talks",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4605863-crude-oil-adds-to-losses-on-potential-progress-in-us-iran-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-22T23:47:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Beijing is summoning executives again, but here's why that's causing less worry than in 2021",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-22T23:28:15+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-22T23:22:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-22T23:22:22+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -72,94 +192,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jared Moskowitz from Florida\u2019s 23rd District Trades in Cencora and Gilead Sciences Stocks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/jared-moskowitz-from-floridas-23rd-district-trades-in-cencora-and-gilead-sciences-stocks-93CH-4754364",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:06:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Miami International Holdings reports unregistered stock issuances and warrant exchanges",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/miami-international-holdings-reports-unregistered-stock-issuances-and-warrant-exchanges-93CH-4754363",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:05:09+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mara Holdings general counsel Zabi sells $99,750 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mara-holdings-general-counsel-zabi-sells-99750-in-stock-93CH-4754362",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:04:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ra Capital sells $145,918 of Werewolf Therapeutics (HOWL) stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ra-capital-sells-145918-of-werewolf-therapeutics-howl-stock-93CH-4754361",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:04:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mara Holdings CEO Frederick Thiel sells $391,946 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mara-holdings-ceo-frederick-thiel-sells-391946-in-shares-93CH-4754360",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:04:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mara Holdings CFO Salman Khan sells $228,000 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mara-holdings-cfo-salman-khan-sells-228000-in-company-stock-93CH-4754359",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:04:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Stellar Bancorp Inc For: 22 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-stellar-bancorp-inc-for-22-june-93CH-4754358",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:03:38+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Hecla Mining Comp For: 22 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-hecla-mining-comp-for-22-june-93CH-4754357",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T23:03:33+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -323,17 +355,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4605456-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-22T22:00:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Invesco S&P SmallCap 600 Revenue ETF declares quarterly distribution of $0.1522",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4605859-invesco-sp-smallcap-600-revenue-etf-declares-quarterly-distribution-of-01522?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T21:59:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -633,34 +654,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Treasury Department authorizes Iranian oil sales through August",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T17:56:43+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Three key AI stocks to watch this week with traders expecting giant moves",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html",
       "is_watchlist": false,
       "timestamp": "2026-06-22T17:54:14+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Three key AI stocks to watch this week with traders expecting giant moves",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T17:54:14+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -823,17 +822,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gulf markets mixed as Iran reports progress in peace talks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTlET3VJUjlLQm5NWWJzUWZSQkV6TXQ2bVN6MUgyTjhMQkxKMUNDeDFQc2hiNTc2Wm1rM3A0M3NsdVlzN0stYXlodXBYZnUzRVNIVmZTcVh1ZlNHTWZHWkFQd2Myb2dnUEJzRDNQUUR0THV3dGRRQ0lMOF9NN2lUbDZ1bzRybEtjUXQta3BtSmU4dmgyTUZXRktrMlJjTTNFQl9TZl9mdXBSOFJnWWlfY3FJV3ptZw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-22T13:45:58+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1058,6 +1046,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "She saved $200K, quit her $250K tech job, and now pays herself $33K to run a matcha cafe in Manhattan",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/she-saved-200k-quit-her-160412245.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:04:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BABA Stock: The Physical AI Race Heats Up as Alibaba Releases New AI Models for Robots",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/baba-stock-physical-ai-race-160002111.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-21T16:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-mega-cap-stock-might-150002434.html",
@@ -1074,28 +1084,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/absci-corporation-absi-good-stock-143601164.html",
       "is_watchlist": false,
       "timestamp": "2026-06-21T14:36:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Aeva Technologies, Inc. (AEVA) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aeva-technologies-inc-aeva-good-143548081.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:35:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Atkore Inc. (ATKR) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atkore-inc-atkr-good-stock-143535537.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-21T14:35:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1165,30 +1153,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=fa70ef257e45618eba4c3c0860742a984d8de7614646d1c7b8cfaca265ae0100",
       "is_watchlist": true,
       "timestamp": "2026-06-20T05:15:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Is DLTR Stock a Buy as Earnings Rise but Risks Keep Valuation in Check",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62f7fd1c31b3f5b5712070ee6a64e71f490ca35759ed287d52eb974be6b39687",
-      "is_watchlist": true,
-      "timestamp": "2026-06-19T14:19:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "The Trade Desk (TTD) Appoints Sarah Gavin as CMO and EVP",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=048da86409d1f4e2b0bfb7e54934e2c4ee67a8da49294f716a1f83182697164c",
-      "is_watchlist": true,
-      "timestamp": "2026-06-19T07:01:10+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
