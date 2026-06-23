@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-23T14:30:07+00:00",
+  "generated_at": "2026-06-23T16:41:55+00:00",
   "by_date": {
     "2026-06-23": [
       {
@@ -1252,6 +1252,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.5505,
         "revenue_estimate": 413645118,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SAR",
+        "date": "2026-07-07",
+        "hour": "",
+        "eps_estimate": 0.5565,
+        "revenue_estimate": 31570075,
         "is_watchlist": false
       }
     ]
