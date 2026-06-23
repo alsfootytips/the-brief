@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-23T00:06:49.643800+00:00",
+  "generated_at": "2026-06-23T04:20:58.489522+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -23,9 +23,9 @@ window.theBriefPicks = {
       "status": "miss",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 28.7,
-      "current_pct": 27.95,
-      "change_pct_today": 1.06,
+      "current_price": 28.6,
+      "current_pct": 27.51,
+      "change_pct_today": 0.7,
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 22,
@@ -95,9 +95,9 @@ window.theBriefPicks = {
       "status": "open",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 297.82,
-      "current_pct": 5.48,
-      "change_pct_today": 0.75,
+      "current_price": 297.9,
+      "current_pct": 5.5,
+      "change_pct_today": 0.78,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 42,
