@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-23T22:15:21+00:00",
+  "generated_at": "2026-06-23T23:02:12+00:00",
   "by_date": {
     "2026-06-23": [
       {
@@ -863,7 +863,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PRGS",
         "date": "2026-06-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.519,
         "revenue_estimate": 247595820,
         "is_watchlist": false
@@ -871,7 +871,7 @@ window.theBriefEarnings = {
       {
         "ticker": "STZ",
         "date": "2026-06-30",
-        "hour": "bmo",
+        "hour": "amc",
         "eps_estimate": 3.2848,
         "revenue_estimate": 2425115979,
         "is_watchlist": false
