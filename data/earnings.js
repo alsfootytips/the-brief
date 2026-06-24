@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-24T17:19:14+00:00",
+  "generated_at": "2026-06-24T19:11:50+00:00",
   "by_date": {
     "2026-06-24": [
       {
@@ -136,6 +136,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.0204,
         "revenue_estimate": 15935123,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RMIX",
+        "date": "2026-06-24",
+        "hour": "bmo",
+        "eps_estimate": 0.0408,
+        "revenue_estimate": 72420000,
         "is_watchlist": false
       },
       {
