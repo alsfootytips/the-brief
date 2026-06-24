@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-24T15:08:40+00:00",
+  "generated_at": "2026-06-24T17:19:14+00:00",
   "by_date": {
     "2026-06-24": [
       {
@@ -724,6 +724,14 @@ window.theBriefEarnings = {
       }
     ],
     "2026-07-01": [
+      {
+        "ticker": "BSET",
+        "date": "2026-07-01",
+        "hour": "",
+        "eps_estimate": 0.1989,
+        "revenue_estimate": 85072590,
+        "is_watchlist": false
+      },
       {
         "ticker": "CULP",
         "date": "2026-07-01",
