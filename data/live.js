@@ -1,26 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-24T23:00:27.276270+00:00",
+  "generated_at": "2026-06-24T23:43:39.276856+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 4.37,
-      "price": 1080.18,
+      "change_pct": 4.35,
+      "price": 1080.0,
       "is_watchlist": true,
-      "timestamp": "2026-06-24T23:00:27.107739+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
-      "ticker": "DG",
-      "name": "Dollar General",
-      "change_pct": 3.29,
-      "price": 118.35,
-      "is_watchlist": true,
-      "timestamp": "2026-06-24T23:00:27.107735+00:00",
+      "timestamp": "2026-06-24T23:43:39.273880+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,13 +17,156 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 3.32,
-      "price": 537.08,
+      "change_pct": 3.59,
+      "price": 538.5,
       "is_watchlist": true,
-      "timestamp": "2026-06-24T23:00:27.107726+00:00",
+      "timestamp": "2026-06-24T23:43:39.273871+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Princeton Bancorp Inc For: 24 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-princeton-bancorp-inc-for-24-june-93CH-4759423",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:37:46+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 La-Z-Boy Inc For: 24 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-lazboy-inc-for-24-june-93CH-4759422",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:37:42+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoreWeave CDO McBee Brannin sells $5.84m in company shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/coreweave-cdo-mcbee-brannin-sells-584m-in-company-shares-93CH-4759421",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:37:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strong earthquake rocks north-central Venezuela, capital Caracas",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/strong-earthquake-rocks-venezuela-capital-4759299",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:36:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OnKure Therapeutics CFO Jason Leverone sells $1,332 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/onkure-therapeutics-cfo-jason-leverone-sells-1332-in-stock-93CH-4759419",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:36:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Nuvation Bio Inc For: 24 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-nuvation-bio-inc-for-24-june-93CH-4759418",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:35:02+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 I Mab For: 24 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-i-mab-for-24-june-93CH-4759417",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:34:08+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Snowflake\u00a0Inc For: 24 June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-snowflakeinc-for-24-june-93CH-4759416",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:32:19+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korea\u2019s IPO bust clouds equity markets as Chaebol structure restrains listings",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:30:12+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The legal fight to get equal pay for Germany's disabled workers",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:10:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I've spent 30 years in recruitment - this is how to get a job",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:06:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "VAT cut on theme parks and kids' meals comes into force",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:02:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T23:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -73,89 +204,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Corsair Gaming\u00a0Inc For: 24 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-corsair-gaminginc-for-24-june-93CH-4759320",
+      "headline": "Texas family sues Tesla over fatal crash into home",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-06-24T22:34:15+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 LeonaBio Inc For: 24 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-leonabio-inc-for-24-june-93CH-4759319",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T22:34:15+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 La-Z-Boy Inc For: 24 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-lazboy-inc-for-24-june-93CH-4759318",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T22:33:32+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 BridgeBio Pharma Inc For: 24 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-bridgebio-pharma-inc-for-24-june-93CH-4759317",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T22:33:02+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 La-Z-Boy Inc For: 24 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-lazboy-inc-for-24-june-93CH-4759315",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T22:32:50+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 BridgeBio Pharma Inc For: 24 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-bridgebio-pharma-inc-for-24-june-93CH-4759314",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T22:32:46+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Evertz posts record fiscal 2026 sales in Q4 2026",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-evertz-posts-record-fiscal-2026-sales-in-q4-2026-93CH-4759313",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T22:32:40+00:00",
+      "timestamp": "2026-06-24T22:33:56+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 BioLargo Inc For: 24 June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-biolargo-inc-for-24-june-93CH-4759312",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T22:32:38+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -178,6 +232,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-24T22:22:10+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US military requires flu vaccine for some after outbreak in Texas training center - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWG8zSUtWS1hNNFJMR2ZBeERKaXlWS0MxbHdsNngwbzRnR2FjbmNGWHI3Wk1Uc3pUZXVBZ0w3NXNVTFpadlh1QXhzVlNsdDdELV9pbnQ0SlBJZmJuZHNNdXM3bVFLelVLZzg0dlBiMmhXeHAxb1hJUEd5Y29NOGdSd1U3WkR0VTVrNmMwT1JNRFFsZmNLSHhnLVJEVUVpVHYxZzQ4QllvSV9yWHlZQUNCbW5jUFZJNTRRY2NJN24xMWtYaVd5bXc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T22:13:29+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -309,13 +374,26 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+      "headline": "Trump administration asks Congress for $87.6 billion, mostly for Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaldwT2FHdExCakJadVBWOWNDMmppclg5Ri1mX2hoUkNibnFGbER2bVlES2wwRjBYbEQtM21SQmFxTVNiSVpCcDdlbXNHT0xXLXhQbGtCR0s4M0Rrdm0xRGY4dVlndl8yblFNNXNlQjMtOWV6ck5lMlpxMS1xUWo5QlJPZ3MtXzRsNXEtUTB1eFdGWmNsdndybS1YRnhhMGZCdUZpNWoxZEVDcjhVaWkyc1FNVXVkVnZScUlvdQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-24T21:42:05+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
+      "timestamp": "2026-06-24T21:49:58+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump, Republican senator in shouting match over unpopular Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2ZaZ09FYVZua01kNUt3a3EycFVoUi1rZkd3SGc2UUhNa2pqdm5PTEhfMlhMV1ZxRlI3OU5sN3o3aVdjNlpBOEEyelFxY2s5TGVNc2R0ZFZzbEROSmk3MHJGdDVBT3YwbG5KOWZqNWh1Skh6X3RYc0YybzNpU2FMaGxKTEN6Nzd6T3hJN2FJakQ3eFVsdzVFSHJvUVBTMWp0NEpURTAtbk14TDhnS1Vvb21mSUVtNUlFR1FCQ0NXVEg1a0Fn?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T21:45:32+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -416,17 +494,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "This solar stock is surging on the heels of a new Tesla deal",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-solar-stock-is-surging-on-the-heels-of-a-new-tesla-deal-efd2747d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T21:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Vance says review underway to see how Turkey can get F-35 fighter jets - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3dUYTdScGtsb05LZVB3dVFuY1ZUX0Fjcl9iY0hmOTFkZVhRYXZXRWRiMWtxVFlZY0lQOWVhaXI3MFBwWHp0LXRQaUNwc0hRTWVfYlNVMk8wcWRIT044VzZFSXRRVFdNeEY1eEEzMzJQcWZKOGUwUXg1S2NKN1lGcUxINWN3YUxTYWF0SFl1LWhPaU5md2VoRGxDcGRIRjR2anY4U2ZPYmtMRkhQY0R5bmVaY0syaHlEX2ZyMmFR?oc=5",
@@ -458,18 +525,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump, Republican senator in shouting match over unpopular Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2ZaZ09FYVZua01kNUt3a3EycFVoUi1rZkd3SGc2UUhNa2pqdm5PTEhfMlhMV1ZxRlI3OU5sN3o3aVdjNlpBOEEyelFxY2s5TGVNc2R0ZFZzbEROSmk3MHJGdDVBT3YwbG5KOWZqNWh1Skh6X3RYc0YybzNpU2FMaGxKTEN6Nzd6T3hJN2FJakQ3eFVsdzVFSHJvUVBTMWp0NEpURTAtbk14TDhnS1Vvb21mSUVtNUlFR1FCQ0NXVEg1a0Fn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T21:01:21+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -623,17 +678,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "US military requires flu vaccine for some after outbreak in Texas training center - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWG8zSUtWS1hNNFJMR2ZBeERKaXlWS0MxbHdsNngwbzRnR2FjbmNGWHI3Wk1Uc3pUZXVBZ0w3NXNVTFpadlh1QXhzVlNsdDdELV9pbnQ0SlBJZmJuZHNNdXM3bVFLelVLZzg0dlBiMmhXeHAxb1hJUEd5Y29NOGdSd1U3WkR0VTVrNmMwT1JNRFFsZmNLSHhnLVJEVUVpVHYxZzQ4QllvSV9yWHlZQUNCbW5jUFZJNTRRY2NJN24xMWtYaVd5bXc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T18:29:52+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -647,6 +691,17 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil flows through Hormuz Strait close to normal, US energy secretary says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblEyV2FJLXE4UThJODF4UF9mMld3emtCZVFRRXdoRm9WbENlSVoxSDYxNGp1UXBTSzFrVEFmLXBic25fZDg0RDZoUXFQTDFNOVh3cjdwNTFFQzJCdzNaSlk3Tk5qMHJTcEMzd2ItRE9rME43TzY1LXNRMWk0QXRuTThnTjFfd2pETkpqRUdaUmxsZzJfVHBpa1UxM1Zxc09LeVJBNGZuMW43YTRuaU5tOS04R0VGZmdpTGY2bmRGUFFaSVVPVnFXY293?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-24T18:26:20+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -732,33 +787,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israel, Lebanon discuss pilot scheme to hand over territory - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWdCUW9kY2lOS2pVTHpubWhKMDlLZTlIRl9pMFlYNHhWWkFjaVl1MUZuRDJMZFhyY0ZabTVaZ3dmNGYtaDh0MHNPSjQ3cDN2MUtDWXJNNlhDZ0tYQ1JMQ3gyelF0SVlMbnVBbVdBazhOZTZOMTN2VldiVnFkMWRQTXRGLVhueUZKQUczTWNubGN1MnNyaWJHMWxHdkRKbWl1TFFFM0lQcDlUSDduRF9lS0lPc3JNcXpMRl9sV1ZGLXNiMEVUbFdv?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T17:18:56+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Traders are getting worried the chip stock bull market is cracking. How to protect yourself",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/06/24/traders-are-getting-worried-the-chip-stock-bull-market-is-cracking-how-to-protect-yourself.html",
       "is_watchlist": false,
       "timestamp": "2026-06-24T17:14:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bessent sees GDP growth booming again this year. Kalshi traders see little chance of that",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/bessent-sees-gdp-growth-booming-this-year-kalshi-traders-see-little-chance-of-that.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T16:57:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -940,17 +973,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Train passed red signal before fatal crash - report",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T13:09:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "Stocks making the biggest moves midday: Cerebras Systems, KB Home, Expedia, Exxon Mobil & more",
       "source": "CNBC",
@@ -999,28 +1021,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Council tax debt rises to \u00a39bn but here's how you can get help",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c0my4gwe3y2o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T10:48:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why are there holiday delay warnings over the EU's new border system?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-06-24T09:47:35+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Fortune 500: 5 Ideal Dividend Buys With 2 \"Safer\" Industry Leaders",
       "source": "SeekingAlpha",
@@ -1053,17 +1053,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ten years on, Brexit's economic impact is becoming clearer",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-06-23T23:07:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1134,88 +1123,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cognizant Technology Stock Could Be a Great Way to Profit from AI at a Discount",
+      "headline": "US Supreme Court boosts Exxon's bid to get compensation from Cuba",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cognizant-technology-stock-could-great-150122041.html",
+      "url": "https://finance.yahoo.com/energy/articles/us-supreme-court-boosts-exxons-141556047.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-23T15:01:22+00:00",
+      "timestamp": "2026-06-23T15:52:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "China\u2019s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next",
+      "headline": "US Supreme Court ends suit alleging Cisco helped China pursue Falun Gong",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/china-antimony-ban-sent-prices-150000191.html",
+      "url": "https://finance.yahoo.com/news/us-supreme-court-ends-suit-141003714.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-23T15:00:00+00:00",
+      "timestamp": "2026-06-23T15:50:43+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Dollar Index Hits 13-Month High Above 100, Summer Warning for Crypto and Stocks",
+      "headline": "Tim Cook issues chilling warning as \u2018hundred-year-flood\u2019 strikes US tech giants like Apple, Dell, HP. Get protection now",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-index-hits-13-150000894.html",
+      "url": "https://finance.yahoo.com/technology/articles/tim-cook-issues-chilling-warning-155000396.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-23T15:00:00+00:00",
+      "timestamp": "2026-06-23T15:50:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Euro Falls Against Dollar on Shift in Rate Rise Bets, Weak German Data",
+      "headline": "Supreme Court Revives Exxon Mobil Lawsuit Against Cuba",
       "source": "Yahoo Finance",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/euro-falls-against-dollar-on-shift-in-rate-rise-bets-weak-german-data-r6fhy6CrmEBMELAUMdb8?siteid=yhoof2&yptr=yahoo",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/supreme-court-revives-exxon-mobil-lawsuit-against-cuba-wHlpdU4VWekqYIl5OSiu?siteid=yhoof2&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-06-23T14:59:32+00:00",
+      "timestamp": "2026-06-23T15:47:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "13 Investment Must Reads for This Week (June 23, 2026)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/13-investment-must-reads-week-154404147.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-23T15:44:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Silver, Bitcoin, and Palantir Prove That Chasing the \u2018Hot Dot\u2019 Is a Great Way to Lose Your Money",
+      "headline": "Is Veeva Systems Stock Underperforming the Nasdaq?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/silver-bitcoin-palantir-prove-chasing-145130021.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/veeva-systems-stock-underperforming-nasdaq-154248181.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-23T14:51:30+00:00",
+      "timestamp": "2026-06-23T15:42:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside",
+      "headline": "Is Tapestry Stock Outperforming the S&P 500?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-order-backlog-swells-growth-145009950.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-stock-outperforming-p-500-153935289.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-23T14:50:09+00:00",
+      "timestamp": "2026-06-23T15:39:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Says He \u201cCan\u2019t Think of a Reason to Own Tractor Supply\u201d",
+      "headline": "CRM Stock Alert: What to Know as Salesforce Hits a New 52-Week Low",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-t-think-144121252.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crm-stock-alert-know-salesforce-153743289.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-23T14:41:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer on SoFi: \u201cI Continue to Believe It\u2019s Time to Buy\u201d",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sofi-continue-believe-144118728.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-23T14:41:18+00:00",
+      "timestamp": "2026-06-23T15:37:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
