@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-24T05:50:29+00:00",
+  "generated_at": "2026-06-24T09:31:03+00:00",
   "by_date": {
     "2026-06-24": [
       {
@@ -186,14 +186,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 5.2136,
         "revenue_estimate": 1188128791,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BSET",
-        "date": "2026-06-25",
-        "hour": "",
-        "eps_estimate": 0.1989,
-        "revenue_estimate": 85072590,
         "is_watchlist": false
       },
       {
