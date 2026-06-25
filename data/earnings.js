@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-25T15:14:07+00:00",
+  "generated_at": "2026-06-25T17:25:18+00:00",
   "by_date": {
     "2026-06-25": [
       {
@@ -685,14 +685,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "LEVI",
-        "date": "2026-07-02",
-        "hour": "",
-        "eps_estimate": 0.2452,
-        "revenue_estimate": 1546627091,
-        "is_watchlist": false
-      },
-      {
         "ticker": "LNN",
         "date": "2026-07-02",
         "hour": "",
@@ -899,6 +891,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "EPAC",
+        "date": "2026-07-07",
+        "hour": "",
+        "eps_estimate": 0.5032,
+        "revenue_estimate": 167803596,
+        "is_watchlist": false
+      },
+      {
         "ticker": "FPF",
         "date": "2026-07-07",
         "hour": "",
@@ -1013,6 +1013,22 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "HELE",
+        "date": "2026-07-08",
+        "hour": "",
+        "eps_estimate": -0.0102,
+        "revenue_estimate": 382044570,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LEVI",
+        "date": "2026-07-08",
+        "hour": "",
+        "eps_estimate": 0.2452,
+        "revenue_estimate": 1546627091,
+        "is_watchlist": false
+      },
+      {
         "ticker": "PSMT",
         "date": "2026-07-08",
         "hour": "",
@@ -1124,14 +1140,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HELE",
-        "date": "2026-07-09",
-        "hour": "",
-        "eps_estimate": -0.0102,
-        "revenue_estimate": 382044570,
         "is_watchlist": false
       },
       {
