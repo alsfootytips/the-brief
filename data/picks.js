@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-26T00:10:11.558036+00:00",
+  "generated_at": "2026-06-26T04:40:20.992921+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -25,7 +25,7 @@ window.theBriefPicks = {
       "direction": "long",
       "current_price": 28.52,
       "current_pct": 27.15,
-      "change_pct_today": -2.21,
+      "change_pct_today": -2.19,
       "name": "Oscar Health",
       "news_count": 0,
       "days_elapsed": 22,
@@ -637,9 +637,9 @@ window.theBriefPicks = {
       "horizon_label": "Long-term",
       "direction": "long",
       "pick_type": "thematic",
-      "current_price": 74.78,
-      "current_pct": 11.7,
-      "change_pct_today": 1.1,
+      "current_price": 74.85,
+      "current_pct": 11.8,
+      "change_pct_today": 1.19,
       "name": "KRE",
       "news_count": 0,
       "days_elapsed": 39,
@@ -706,7 +706,7 @@ window.theBriefPicks = {
       "direction": "long",
       "current_price": 51.21,
       "current_pct": -1.2,
-      "change_pct_today": 0.24,
+      "change_pct_today": 0.23,
       "name": "Occidental Petroleum",
       "news_count": 3,
       "days_elapsed": 7,
