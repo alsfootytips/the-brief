@@ -1,5 +1,5 @@
 window.theBriefMacro = {
-  "generated_at": "2026-06-26T15:42:11.884801+00:00",
+  "generated_at": "2026-06-26T17:25:30.355606+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
@@ -9,15 +9,15 @@ window.theBriefMacro = {
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.12,
-      "change_pct_1d": -2.37,
-      "change_pct_1w": -1.5
+      "value": 4.13,
+      "change_pct_1d": -2.32,
+      "change_pct_1w": -1.46
     },
     "^IRX": {
       "name": "13W T-Bill yield",
-      "value": 3.67,
-      "change_pct_1d": 0.19,
-      "change_pct_1w": 1.3
+      "value": 3.66,
+      "change_pct_1d": 0.0,
+      "change_pct_1w": 1.11
     },
     "^TYX": {
       "name": "30Y Treasury yield",
@@ -27,36 +27,36 @@ window.theBriefMacro = {
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 19.02,
-      "change_pct_1d": 0.69,
-      "change_pct_1w": 10.07
+      "value": 18.62,
+      "change_pct_1d": -1.43,
+      "change_pct_1w": 7.75
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4101.6,
-      "change_pct_1d": 1.76,
-      "change_pct_1w": -1.92
+      "value": 4098.5,
+      "change_pct_1d": 1.69,
+      "change_pct_1w": -1.99
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 68.75,
-      "change_pct_1d": -4.41,
-      "change_pct_1w": -8.11
+      "value": 69.1,
+      "change_pct_1d": -3.92,
+      "change_pct_1w": -7.65
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 101.21,
-      "change_pct_1d": -0.21,
-      "change_pct_1w": 0.19
+      "value": 101.31,
+      "change_pct_1d": -0.12,
+      "change_pct_1w": 0.29
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 60328.02,
-      "change_pct_1d": 1.02,
-      "change_pct_1w": -5.67
+      "value": 60019.08,
+      "change_pct_1d": 0.5,
+      "change_pct_1w": -6.15
     },
     "_yield_curve": {
-      "spread_10y_13w_bps": 70,
+      "spread_10y_13w_bps": 71,
       "inverted": false
     }
   }

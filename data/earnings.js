@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-26T15:42:11+00:00",
+  "generated_at": "2026-06-26T17:25:30+00:00",
   "by_date": {
     "2026-06-26": [
       {
@@ -837,6 +837,14 @@ window.theBriefEarnings = {
     ],
     "2026-07-09": [
       {
+        "ticker": "BYRN",
+        "date": "2026-07-09",
+        "hour": "",
+        "eps_estimate": -0.1199,
+        "revenue_estimate": 22751610,
+        "is_watchlist": false
+      },
+      {
         "ticker": "CBFC",
         "date": "2026-07-09",
         "hour": "",
@@ -1084,6 +1092,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "H",
+        "date": "2026-07-10",
+        "hour": "",
+        "eps_estimate": 0.9255,
+        "revenue_estimate": 1844188855,
         "is_watchlist": false
       },
       {
