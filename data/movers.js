@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-27T11:11:31.945879+00:00",
+  "generated_at": "2026-06-27T12:20:19.696644+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thinking of Buying the Bottom With Dogecoin? Do This 1 Thing First.\""
+      "move_reason": "News: \"The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today\""
     },
     {
       "ticker": "QQQ",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thinking of Buying the Bottom With Dogecoin? Do This 1 Thing First.\""
+      "move_reason": "News: \"The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today\""
     },
     {
       "ticker": "OSCR",
