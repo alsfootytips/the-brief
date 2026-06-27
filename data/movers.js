@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-27T14:14:29.499763+00:00",
+  "generated_at": "2026-06-27T15:41:14.884118+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -89,7 +89,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 551.22,
       "change_pct": 1.54,
-      "volume_ratio": 1.14,
+      "volume_ratio": 1.2,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "name": "APA Corp",
       "price": 33.04,
       "change_pct": -1.14,
-      "volume_ratio": 0.89,
+      "volume_ratio": 1.23,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "name": "APA Corp",
       "price": 33.04,
       "change_pct": -1.14,
-      "volume_ratio": 0.89,
+      "volume_ratio": 1.23,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -418,12 +418,12 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 298.89,
       "change_pct": -0.01,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.37,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How The Mag 7 Became The Drag 7, And Might Drop The S&P 500 By 30% (Technical Analysis)\""
+      "move_reason": "News: \"The 1-Minute Market Report, June 27, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -538,7 +538,7 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 298.89,
       "change_pct": -0.01,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.37,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
