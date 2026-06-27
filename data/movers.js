@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-27T19:45:15.828770+00:00",
+  "generated_at": "2026-06-27T20:45:28.735676+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does AMD pay dividends? How the chipmaker spends its money\""
+      "move_reason": "News: \"Goldman Sachs Starts Intel (INTC) Coverage\""
     },
     {
       "ticker": "XLK",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Nvidia Stock Be in 2030?\""
+      "move_reason": "News: \"Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right Now\""
     },
     {
       "ticker": "QQQ",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does AMD pay dividends? How the chipmaker spends its money\""
+      "move_reason": "News: \"Goldman Sachs Starts Intel (INTC) Coverage\""
     },
     {
       "ticker": "APA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Nvidia Stock Be in 2030?\""
+      "move_reason": "News: \"Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right Now\""
     },
     {
       "ticker": "OSCR",
