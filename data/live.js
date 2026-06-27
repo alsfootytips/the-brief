@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-27T20:45:28.740714+00:00",
+  "generated_at": "2026-06-27T21:46:42.000950+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.37,
       "price": 18.26,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T20:45:28.737776+00:00",
+      "timestamp": "2026-06-27T21:46:41.997966+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -4.1,
       "price": 689.12,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T20:45:28.737773+00:00",
+      "timestamp": "2026-06-27T21:46:41.997963+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 3.58,
       "price": 29.7,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T20:45:28.737770+00:00",
+      "timestamp": "2026-06-27T21:46:41.997960+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -6.82,
       "price": 239.13,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T20:45:28.737767+00:00",
+      "timestamp": "2026-06-27T21:46:41.997957+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 5.66,
       "price": 372.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-27T20:45:28.737764+00:00",
+      "timestamp": "2026-06-27T21:46:41.997952+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -68,10 +68,132 @@ window.theBriefLive = {
       "change_pct": -3.6,
       "price": 1046.4,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T20:45:28.737750+00:00",
+      "timestamp": "2026-06-27T21:46:41.997938+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:34:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:34:59+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Federal Realty Investment Trust vs. Realty Income: Which Real Estate Stock Is a Better Buy in 2026?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/federal-realty-investment-trust-vs-212401661.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:24:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4764052",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-looks-reshuffle-deck-enterprise-212000586.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: What's the most attractive chip stock right now?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4607881-sa-asks-whats-the-most-attractive-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:19:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin holds above $60,000 as Strategy\u2019s funding model faces growing scrutiny",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-strategys-funding-model-faces-growing-scrutiny-4763957",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:19:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran targets Bahrain, vessel attacked in Strait of Hormuz as tensions flare",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-says-iran-violated-ceasefire-agreement-with-drone-attack-on-cargo-ship-4763166",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T21:18:53+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Is TTEC Holdings Inc (TTEC)\u2019s AI-Powered Claims Validation Platform About?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ttec-holdings-inc-ttec-ai-204517124.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T20:45:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Perfect Corp (PERF) Expands Its Developer Tools",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/perfect-corp-perf-expands-developer-204424723.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T20:44:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bangladesh secures $1.1 billion World Bank package to cushion Middle East shock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bangladesh-secures-11-billion-world-bank-package-to-cushion-middle-east-shock-4764051",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T20:42:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -81,28 +203,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/technology/ai/articles/ci-t-cint-joins-anthropic-203117819.html",
       "is_watchlist": false,
       "timestamp": "2026-06-27T20:31:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Restaurant Brands International vs. McDonald's: Comparing Revenue Trends for These Fast-Food Giants",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/restaurant-brands-international-vs-mcdonalds-202301399.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T20:23:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 Reasons to Buy Silicon Motion Technology Stock Like There's No Tomorrow",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-silicon-motion-202000611.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T20:20:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -196,28 +296,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-best-ai-stock-193236094.html",
       "is_watchlist": false,
       "timestamp": "2026-06-27T19:32:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "KeyBanc Lowers its Price Target on Zscaler (ZS)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/keybanc-lowers-price-target-zscaler-193234733.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T19:32:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi Raises its Price Target on NXP Semiconductors (NXPI)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-nxp-193233902.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T19:32:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -372,56 +450,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin trapped below $62,900 in bear trend: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-rectangle-bearish-bias-holds-live-levels-93CH-4751799",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T19:02:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hezbollah rejects US-brokered Israel-Lebanon security deal as \u2019surrender\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/hezbollah-rejects-usbrokered-israellebanon-security-deal-as-surrender-4764038",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T19:00:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVFWMWszUg?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-06-27T19:00:10+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "South Korea seen as most stretched market in global equity rally, BCA says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/south-korea-seen-as-most-stretched-market-in-global-equity-rally-bca-says-4764047",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T18:53:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ECB\u2019s Schnabel says inflation risks remain despite easing energy prices",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ecbs-schnabel-says-inflation-risks-remain-despite-easing-energy-prices-4764046",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T18:36:56+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -487,17 +521,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4607826-real-estate-stocks-gain-as-rotation-out-of-tech-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-27T16:00:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Viridian launches first commercial product as U.S. approves thyroid eye disease therapy",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4607874-viridian-thyroid-eye-disease-drug-approved?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T15:37:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -578,28 +601,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-27T13:12:36+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:32:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:32:54+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
