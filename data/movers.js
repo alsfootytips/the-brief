@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-27T15:41:14.884118+00:00",
+  "generated_at": "2026-06-27T16:48:00.481368+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMUU: Bull 2x Of AMD In The Phase Of Most Extreme Momentum\""
+      "move_reason": "News: \"Does AMD pay dividends? How the chipmaker spends its money\""
     },
     {
       "ticker": "XLK",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Exactly How We Fixed Social Security the Last Time It Was Running Out of Money\""
+      "move_reason": "News: \"The Average Dividend Yield is 1%. Want More Income? These 3 Stocks Offer Yields of Up 5.9%\""
     },
     {
       "ticker": "QQQ",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMUU: Bull 2x Of AMD In The Phase Of Most Extreme Momentum\""
+      "move_reason": "News: \"Does AMD pay dividends? How the chipmaker spends its money\""
     },
     {
       "ticker": "APA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Exactly How We Fixed Social Security the Last Time It Was Running Out of Money\""
+      "move_reason": "News: \"The Average Dividend Yield is 1%. Want More Income? These 3 Stocks Offer Yields of Up 5.9%\""
     },
     {
       "ticker": "OSCR",
