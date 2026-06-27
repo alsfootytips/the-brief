@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-27T12:20:19.696644+00:00",
+  "generated_at": "2026-06-27T14:14:29.499763+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -89,7 +89,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 551.22,
       "change_pct": 1.54,
-      "volume_ratio": 1.2,
+      "volume_ratio": 1.14,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -173,7 +173,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"2026's Second Half Could Give Us A Massive Buying Opportunity\""
+      "move_reason": "News: \"H2 2026 Playbook: The Midyear Reset And What Comes Next\""
     }
   ],
   "losers": [
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today\""
+      "move_reason": "News: \"Here's Exactly How We Fixed Social Security the Last Time It Was Running Out of Money\""
     },
     {
       "ticker": "QQQ",
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "name": "APA Corp",
       "price": 33.04,
       "change_pct": -1.14,
-      "volume_ratio": 1.23,
+      "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -370,7 +370,7 @@ window.theBriefMovers = {
       "name": "APA Corp",
       "price": 33.04,
       "change_pct": -1.14,
-      "volume_ratio": 1.23,
+      "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -418,12 +418,12 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 298.89,
       "change_pct": -0.01,
-      "volume_ratio": 1.37,
+      "volume_ratio": 1.04,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Tech Rally Meets Economic Fundamentals\""
+      "move_reason": "News: \"How The Mag 7 Became The Drag 7, And Might Drop The S&P 500 By 30% (Technical Analysis)\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today\""
+      "move_reason": "News: \"Here's Exactly How We Fixed Social Security the Last Time It Was Running Out of Money\""
     },
     {
       "ticker": "OSCR",
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"2026's Second Half Could Give Us A Massive Buying Opportunity\""
+      "move_reason": "News: \"H2 2026 Playbook: The Midyear Reset And What Comes Next\""
     }
   ],
   "indices": [
@@ -538,7 +538,7 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 298.89,
       "change_pct": -0.01,
-      "volume_ratio": 1.37,
+      "volume_ratio": 1.04,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
@@ -642,7 +642,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 53.57,
       "change_pct": 0.22,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
