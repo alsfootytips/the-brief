@@ -1,64 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-26T23:48:00+00:00",
+  "generated_at": "2026-06-27T03:30:27+00:00",
   "by_date": {
-    "2026-06-26": [
-      {
-        "ticker": "AIRT",
-        "date": "2026-06-26",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "APOG",
-        "date": "2026-06-26",
-        "hour": "bmo",
-        "eps_estimate": 0.4556,
-        "revenue_estimate": 340516116,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BTM",
-        "date": "2026-06-26",
-        "hour": "",
-        "eps_estimate": -0.5555,
-        "revenue_estimate": 101656500,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CDT",
-        "date": "2026-06-26",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CPZ",
-        "date": "2026-06-26",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NBXG",
-        "date": "2026-06-26",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PEVM",
-        "date": "2026-06-26",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-06-29": [
       {
         "ticker": "ADN",
