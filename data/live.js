@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-28T14:16:24.242583+00:00",
+  "generated_at": "2026-06-28T15:50:18.765488+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.37,
       "price": 18.26,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T14:16:24.239621+00:00",
+      "timestamp": "2026-06-28T15:50:18.762341+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -4.1,
       "price": 689.12,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T14:16:24.239618+00:00",
+      "timestamp": "2026-06-28T15:50:18.762338+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 3.58,
       "price": 29.7,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T14:16:24.239615+00:00",
+      "timestamp": "2026-06-28T15:50:18.762335+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -6.82,
       "price": 239.13,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T14:16:24.239612+00:00",
+      "timestamp": "2026-06-28T15:50:18.762332+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 5.66,
       "price": 372.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-28T14:16:24.239608+00:00",
+      "timestamp": "2026-06-28T15:50:18.762328+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -68,10 +68,238 @@ window.theBriefLive = {
       "change_pct": -3.6,
       "price": 1046.4,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T14:16:24.239594+00:00",
+      "timestamp": "2026-06-28T15:50:18.762312+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Housing bill will be sent to Trump on Monday, US House speaker says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-house-speaker-says-he-will-send-housing-bill-to-trump-on-monday-4764148",
+      "is_watchlist": true,
+      "timestamp": "2026-06-28T15:36:25+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two Monthly Dividend ETFs Built for Lower Volatility That Retirees Quietly Rely On",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-monthly-dividend-etfs-built-153521030.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:35:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia\u2019s ruling party runs Ukraine war veteran among lead candidates for September election",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/russias-ruling-party-runs-ukraine-war-veteran-among-lead-candidates-for-september-election-4764151",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:30:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Ultimate AI Power Supercycle Winner: NextEra Energy or Vistra Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/ultimate-ai-power-supercycle-winner-152728770.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:27:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thirty-three people rescued, thousands still missing after Venezuela quakes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thirtythree-people-rescued-thousands-still-missing-after-venezuela-quakes-4764150",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:18:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Starlink offers free mobile service to Venezuelan carriers\u2019 customers",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/starlink-offers-free-mobile-service-to-venezuelan-carriers-customers-93CH-4764149",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:15:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "America can't get enough of protein. The dairy industry can't keep up",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:13:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "America can't get enough of protein. The dairy industry can't keep up",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:13:52+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin falls below $60,000 as ETF outflows, Fed outlook weigh on sentiment",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-etf-outflows-fed-outlook-weigh-on-sentiment-4764074",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:12:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman Sachs sees strong Q2 earnings season on AI boom",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4607897-goldman-sachs-sees-strong-q2-earnings-season-on-ai-boom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:09:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iraq detains politicians, officials in anti-corruption crackdown",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iraq-arrests-politicians-and-government-officials-in-anticorruption-crackdown-4764080",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:00:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iraq detains politicians, officials in anti-corruption crackdown - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjhiREF4Z2I3aFhFRG1DTVJEaDlpcERlMWRmd19NRks1T05nYVUtcS05N1p6NmNZeWsyeEl0c3lRMkFsYnBfQmU5TU1kR0FnQ3ZaNTJNcGhtRmE1ODBLd1dCS0NHNkRYLTVCZ1duX052Mmw2a2l3WW9Cb3NkeHlrYXNqcnFFZU5LSUJwZnlqUVhWY2haeFBIU20zYk4xd25rUFhqY3F4NlBqUEJMWXZlZHh5UQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:59:22+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eleven people killed in plane crash in northeastern France",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/eleven-people-killed-in-plane-crash-in-northeastern-france-local-officials-say-4764112",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:54:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Austria urges EU to court Anthropic as AI access becomes geopolitical contest",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4607896-austria-urges-eu-to-court-anthropic-as-ai-access-becomes-geopolitical-contest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:49:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Firmus strikes Nvidia deal to bring AI computing power to smaller players",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4607895-firmus-strikes-nvidia-deal-to-bring-ai-computing-power-to-smaller-players?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:44:07+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The $2.4B grocery sushi industry has a dark side \u2014 and a new lawsuit exposes what workers were left with",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/2-4b-grocery-sushi-industry-143000629.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": null,
+      "headline": "Elon Musk says Grok 4.5 enters private testing at SpaceX and Tesla",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4607894-elon-musk-says-grok-4_5-enters-private-testing-at-spacex-and-tesla?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-06-28T14:25:02+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Death toll in Venezuela quake tops 1,400 as rescue efforts intensify",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors-4764033",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:24:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Some renters say homeownership isn't part of their American Dream: Renting is 'really freeing for me'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/28/some-renters-say-homeownership-isnt-part-of-their-american-dream.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:05:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -81,6 +309,17 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-28T14:03:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/australias-firmus-technologies-strikes-ai-140253776.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T14:02:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -117,17 +356,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Austria urges Europe to host Anthropic following US curbs on AI access",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/austria-lobbies-eu-to-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-4764143",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T13:54:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -176,6 +404,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Here are 3 big things we're watching in the stock market in the week ahead",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/28/here-are-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T13:30:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Rates Without Adjusting the Federal Funds Rate",
       "source": "Yahoo",
@@ -189,35 +428,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Migrants in US on temporary status should seek permanent status or leave, Homeland Secretary says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/migrants-in-us-on-temporary-status-should-seek-permanent-status-or-leave-homeland-secretary-says-4764145",
+      "headline": "If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-28T13:24:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Austria reportedly pushes EU to host Anthropic amid US access restrictions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/austria-reportedly-pushes-eu-to-host-anthropic-amid-us-access-restrictions-4764144",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T13:22:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chinese AI closes in on U.S. cybersecurity models, raising stakes in tech rivalry",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4607891-chinese-ai-closes-in-on-u-s-cybersecurity-models-raising-stakes-in-tech-rivalry?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T13:22:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-06-28T13:25:43+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -238,89 +456,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Eleven people killed in plane crash in northeastern France, officials say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/eleven-people-killed-in-plane-crash-in-northeastern-france-local-officials-say-4764112",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T13:06:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: Merck, AbbVie, and Bayer in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4607843-notable-healthcare-headlines-for-the-week-merck-abbvie-and-bayer-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T13:05:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Forget the \u2018Sell America\u2019 trade: Why U.S. markets keep proving the naysayers wrong",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-28T13:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CTA Treasury short covering gathers pace as equity longs face pressure",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/cta-treasury-short-covering-gathers-pace-as-equity-longs-face-pressure-4764142",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T12:55:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Aramco helicopter crash kills 14 nationals, state news agency says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/saudi-aramco-helicopter-crash-kills-14-nationals-state-news-agency-says-4764136",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T12:48:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jobs data, rate bets in focus as US stocks close solid first half",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/jobs-data-rate-bets-in-focus-as-us-stocks-close-solid-first-half-4764135",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T12:48:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.23%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-023-4764134",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T12:45:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BIS warns AI spending frenzy could end like railroads, dot-coms, other manias",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4607890-bis-warns-ai-spending-frenzy-could-end-like-railroads-dot-coms-other-manias?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T12:44:24+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -343,17 +484,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-28T12:29:57+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to play breadth with the rotation in 'full bloom' - SocGen",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4607889-how-to-play-breadth-with-the-rotation-in-full-bloom---socgen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T12:25:54+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -615,7 +745,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran, US continue escalating attacks, recriminations over peace deal - Reuters",
+      "headline": "Iran and US step up attacks and threaten to escalate - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5",
       "is_watchlist": false,
@@ -649,34 +779,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T21:34:59+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "How to work in retirement without seeing your Social Security checks slashed",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-06-27T19:30:00+00:00",
       "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Americans\u2019 401(k) balances hit record levels last year. See how you compare.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T19:30:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -705,24 +813,45 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump's Iran deal falls short for these voters \u2014 and some fear it could cost Republicans the midterm - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalVNd2JyLUZIckdxYmtjWWpqVzZuY1lEMUNva2Rxb3hwQkEwU1FDSzdQLVVybHdNSEt2NjVtTDd5b3dXaXBuclJfYldLd05XWXFOdU12NHphMmU4d1MtOXJEX2pNRURSNjJpbWRpbGF4NWpsTHN1cXExZF9yR3NNRHVQVjZqTUtGRDJKN1ZGRWJKZXpsSnU2TFBKTFRhTU5ZUjQ0UWlYUXdIczZtbWNMTmd4anpUV0hzOWJOcmhpWQ?oc=5",
+      "headline": "Bank of America (BAC) Announces Real-Time Cross-Border Payment Solution for Corporate Clients",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/bank-america-bac-announces-real-144551286.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-27T14:59:05+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-06-27T14:45:51+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018Heated Rivalry\u2019 fuels a boom in gay romance stories, with women leading the fandom",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
+      "headline": "JPMorgan Chase & Co. (JPM): Most Profitable Value Stocks to Invest In Now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/jpmorgan-chase-co-jpm-most-144546297.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-27T14:54:47+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-06-27T14:45:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Billionaire Mark Cuban Says Data Center Fight Is \u2018Proxy For Hate\u2019 Toward AI And \u2018Concentration Of Wealth\u2019 \u2014 \u2018Nothing To Do With Data Centers\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-mark-cuban-says-data-140002990.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T14:00:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom and OpenAI Just Unveiled the New Jalape\u00f1o AI Chip. What That Means for AVGO Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-openai-just-unveiled-jalape-140002870.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T14:00:02+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -739,132 +868,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/27/alphabet-burnishes-one-of-its-best-weapons-in-the-battle-for-ai-supremacy.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T13:12:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A $2.7 Trillion Reason Intel Stock Just Got a New Street-High Price Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-7-trillion-reason-intel-130002280.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon Stock Fans Can Thank Gen AI for a Successful Prime Day, New Data Shows",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-fans-thank-gen-130002671.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why OpenAI\u2019s Delayed IPO Filing May Have Just Been the Death Knell for AI Stocks in 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-openai-delayed-ipo-filing-124501701.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:45:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intel vs. Navitas: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-navitas-semiconductor-stock-123201638.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:32:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NBA Legend Shaq Told \u2018Brilliant\u2019 Oldest Son To Pick Out Any Car \u2014 He Chose A Mercedes Benz. \u2018I\u2019m Rich. We\u2019re Not Rich. Here\u2019s a Chevrolet\u2019",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/nba-legend-shaq-told-brilliant-123103601.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:31:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The top 10 wealthiest US suburbs have average incomes as high as $612K, but experts warn they're magnets for crime",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/top-10-wealthiest-us-suburbs-123000510.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:30:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Straight women can\u2019t get enough of gay romance stories like \u2018Heated Rivalry\u2019 and \u2018Red, White & Royal Blue\u2019",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:22:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Jeremy Grantham says, 'This is the most expensive market in American history'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
       "is_watchlist": false,
       "timestamp": "2026-06-27T12:22:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trading in these two ETFs suggests inflation fears are overblown",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:18:58+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eli Lilly Leads 5 Stocks Near Buy Points As The Market Rally Rotates",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/eli-lilly-stock-buy-points-jbht-ftnt-ezpw-irm/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:00:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I just graduated and my parents want me to co-sign a $50K loan. What could this mean for my credit and borrowing power?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/just-graduated-parents-want-co-120000793.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T12:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
