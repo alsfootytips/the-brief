@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T08:22:08.311971+00:00",
+  "generated_at": "2026-06-28T10:40:20.603688+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Investors Should Avoid Nebius Stock\""
+      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
     },
     {
       "ticker": "PWR",
@@ -223,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Markets Starting To Choke On Massive Surge In Debt Issuance\""
+      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
     },
     {
       "ticker": "AMD",
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters\""
+      "move_reason": "News: \"Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.\""
     },
     {
       "ticker": "XLK",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Bottleneck Most Investors Are Missing but Shouldn't\""
+      "move_reason": "News: \"Where Will Fluor Stock Be in 1 Year?\""
     },
     {
       "ticker": "QQQ",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters\""
+      "move_reason": "News: \"Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.\""
     },
     {
       "ticker": "APA",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Markets Starting To Choke On Massive Surge In Debt Issuance\""
+      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
     },
     {
       "ticker": "DG",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Markets Got Its Final Warnings\""
+      "move_reason": "News: \"Stock Market Pullback Is Healthier Than It Looks\""
     },
     {
       "ticker": "NBIS",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Investors Should Avoid Nebius Stock\""
+      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
     },
     {
       "ticker": "NVDA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Bottleneck Most Investors Are Missing but Shouldn't\""
+      "move_reason": "News: \"Where Will Fluor Stock Be in 1 Year?\""
     },
     {
       "ticker": "OSCR",
