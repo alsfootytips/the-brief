@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T00:15:08.122493+00:00",
+  "generated_at": "2026-06-28T04:55:19.744351+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -150,7 +150,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Implied Volatility Surging for Texas Pacific Land Stock Options\""
+      "move_reason": "News: \"The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas.\""
     },
     {
       "ticker": "XLC",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius vs. Digital Realty: Which AI Infrastructure Stock is the Better Buy?\""
+      "move_reason": "News: \"Why Investors Should Avoid Nebius Stock\""
     },
     {
       "ticker": "PWR",
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Goldman Sachs Starts Intel (INTC) Coverage\""
+      "move_reason": "News: \"Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?\""
     },
     {
       "ticker": "XLK",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion De...\""
+      "move_reason": "News: \"Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry\""
     },
     {
       "ticker": "QQQ",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Goldman Sachs Starts Intel (INTC) Coverage\""
+      "move_reason": "News: \"Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?\""
     },
     {
       "ticker": "APA",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, June 27, 2026\""
+      "move_reason": "News: \"Q1 GDP Third Estimate: Real GDP At 2.1%, Higher Than Expected\""
     },
     {
       "ticker": "NBIS",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius vs. Digital Realty: Which AI Infrastructure Stock is the Better Buy?\""
+      "move_reason": "News: \"Why Investors Should Avoid Nebius Stock\""
     },
     {
       "ticker": "NVDA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion De...\""
+      "move_reason": "News: \"Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry\""
     },
     {
       "ticker": "OSCR",
@@ -495,7 +495,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Implied Volatility Surging for Texas Pacific Land Stock Options\""
+      "move_reason": "News: \"The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas.\""
     },
     {
       "ticker": "TTD",
@@ -891,12 +891,12 @@ window.theBriefMovers = {
       "change_pct": -6.82,
       "score": 3.5,
       "signals": [
-        "Moved -6.82% \u2014 a 1.0\u03c3 move",
+        "Moved -6.82% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "10 insider sells vs 0 buys (last 90 days)"
       ],
       "reasons": [
-        "Moved -6.82% \u2014 a 1.0\u03c3 move",
+        "Moved -6.82% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "10 insider sells vs 0 buys (last 90 days)"
       ],
