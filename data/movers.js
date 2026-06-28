@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T21:02:09.500281+00:00",
+  "generated_at": "2026-06-28T22:15:22.653252+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -178,6 +178,18 @@ window.theBriefMovers = {
   ],
   "losers": [
     {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 239.13,
+      "change_pct": -6.82,
+      "volume_ratio": 0.86,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
+    },
+    {
       "ticker": "PWR",
       "name": "Quanta Services",
       "price": 689.12,
@@ -269,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is GameStop the Next Berkshire Hathaway?\""
+      "move_reason": "News: \"Wall Street Sees SpaceX Surpassing Nvidia in Long-Term Valuation\""
     },
     {
       "ticker": "QQQ",
@@ -338,18 +350,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": ""
-    },
-    {
-      "ticker": "IWM",
-      "name": "iShares Russell 2000 ETF",
-      "price": 298.89,
-      "change_pct": -0.01,
-      "volume_ratio": 1.37,
-      "is_watchlist": true,
-      "is_index": true,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"A Strong Jobs Report Could Change Everything For The Market\""
     }
   ],
   "watchlist": [
@@ -426,6 +426,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"A Strong Jobs Report Could Change Everything For The Market\""
     },
     {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 239.13,
+      "change_pct": -6.82,
+      "volume_ratio": 0.86,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 192.79,
@@ -435,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is GameStop the Next Berkshire Hathaway?\""
+      "move_reason": "News: \"Wall Street Sees SpaceX Surpassing Nvidia in Long-Term Valuation\""
     },
     {
       "ticker": "OSCR",
@@ -870,6 +882,29 @@ window.theBriefMovers = {
         "off-highs"
       ],
       "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 239.13,
+      "change_pct": -6.82,
+      "score": 3.5,
+      "signals": [
+        "Moved -6.82% \u2014 a 1.1\u03c3 move",
+        "3 news items in the last 3 days",
+        "10 insider sells vs 0 buys (last 90 days)"
+      ],
+      "reasons": [
+        "Moved -6.82% \u2014 a 1.1\u03c3 move",
+        "3 news items in the last 3 days",
+        "10 insider sells vs 0 buys (last 90 days)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-selling"
+      ],
+      "narrative": "<strong>NBIS</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
     }
   ],
