@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T10:40:20.603688+00:00",
+  "generated_at": "2026-06-28T12:09:39.972465+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -150,7 +150,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas.\""
+      "move_reason": "News: \"The Market Is Dead Wrong: I'm Buying Dirt-Cheap Energy Stocks\""
     },
     {
       "ticker": "XLC",
@@ -173,7 +173,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"H2 2026 Playbook: The Midyear Reset And What Comes Next\""
+      "move_reason": "News: \"The Market Is Dead Wrong: I'm Buying Dirt-Cheap Energy Stocks\""
     }
   ],
   "losers": [
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Western Midstream: The Best Yield In The Industry\""
+      "move_reason": "News: \"Berkshire May Just Save You From A Likely Market Crash\""
     },
     {
       "ticker": "XLI",
@@ -471,7 +471,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Western Midstream: The Best Yield In The Industry\""
+      "move_reason": "News: \"Berkshire May Just Save You From A Likely Market Crash\""
     },
     {
       "ticker": "PWR",
@@ -495,7 +495,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas.\""
+      "move_reason": "News: \"The Market Is Dead Wrong: I'm Buying Dirt-Cheap Energy Stocks\""
     },
     {
       "ticker": "TTD",
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"H2 2026 Playbook: The Midyear Reset And What Comes Next\""
+      "move_reason": "News: \"The Market Is Dead Wrong: I'm Buying Dirt-Cheap Energy Stocks\""
     }
   ],
   "indices": [
