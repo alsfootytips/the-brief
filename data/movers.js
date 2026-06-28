@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T22:15:22.653252+00:00",
+  "generated_at": "2026-06-28T23:33:03.740419+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -223,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
+      "move_reason": "News: \"This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Poten...\""
     },
     {
       "ticker": "AMD",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Nvidia-Owned Stocks Investors Should Buy Now\""
+      "move_reason": "News: \"This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Poten...\""
     },
     {
       "ticker": "DG",
