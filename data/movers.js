@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T12:09:39.972465+00:00",
+  "generated_at": "2026-06-28T14:16:24.237425+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How the AI data center buildout is creating boom for the gas turbine industry\""
+      "move_reason": "News: \"GE Vernova Is Overheating\""
     },
     {
       "ticker": "CRWV",
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.\""
+      "move_reason": "News: \"Semis Outlook: The Best Days Are Likely Far From Over\""
     },
     {
       "ticker": "XLK",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Fluor Stock Be in 1 Year?\""
+      "move_reason": "News: \"It May Be Time to Stop Contributing to Your 401(k). Here's How to Know.\""
     },
     {
       "ticker": "QQQ",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.\""
+      "move_reason": "News: \"Semis Outlook: The Best Days Are Likely Far From Over\""
     },
     {
       "ticker": "APA",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How the AI data center buildout is creating boom for the gas turbine industry\""
+      "move_reason": "News: \"GE Vernova Is Overheating\""
     },
     {
       "ticker": "IWM",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Pullback Is Healthier Than It Looks\""
+      "move_reason": "News: \"A Strong Jobs Report Could Change Everything For The Market\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Fluor Stock Be in 1 Year?\""
+      "move_reason": "News: \"It May Be Time to Stop Contributing to Your 401(k). Here's How to Know.\""
     },
     {
       "ticker": "OSCR",
