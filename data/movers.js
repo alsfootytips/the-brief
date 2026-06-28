@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T04:55:19.744351+00:00",
+  "generated_at": "2026-06-28T08:22:08.311971+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -223,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"'Who Are These Lunatics?' CoreWeave's Credit Approach Gets A Pep Talk From The 'Dean Of Va...\""
+      "move_reason": "News: \"Markets Starting To Choke On Massive Surge In Debt Issuance\""
     },
     {
       "ticker": "AMD",
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters\""
     },
     {
       "ticker": "XLK",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry\""
+      "move_reason": "News: \"The AI Bottleneck Most Investors Are Missing but Shouldn't\""
     },
     {
       "ticker": "QQQ",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters\""
     },
     {
       "ticker": "APA",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"'Who Are These Lunatics?' CoreWeave's Credit Approach Gets A Pep Talk From The 'Dean Of Va...\""
+      "move_reason": "News: \"Markets Starting To Choke On Massive Surge In Debt Issuance\""
     },
     {
       "ticker": "DG",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Q1 GDP Third Estimate: Real GDP At 2.1%, Higher Than Expected\""
+      "move_reason": "News: \"Markets Got Its Final Warnings\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry\""
+      "move_reason": "News: \"The AI Bottleneck Most Investors Are Missing but Shouldn't\""
     },
     {
       "ticker": "OSCR",
