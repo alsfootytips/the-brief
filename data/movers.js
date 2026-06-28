@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T18:18:59.903540+00:00",
+  "generated_at": "2026-06-28T19:54:43.154325+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -173,7 +173,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The Market Is Dead Wrong: I'm Buying Dirt-Cheap Energy Stocks\""
+      "move_reason": "News: \"Confessions Of An Oil Bull\""
     }
   ],
   "losers": [
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The Market Is Dead Wrong: I'm Buying Dirt-Cheap Energy Stocks\""
+      "move_reason": "News: \"Confessions Of An Oil Bull\""
     }
   ],
   "indices": [
