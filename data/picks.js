@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-27T23:03:20.504632+00:00",
+  "generated_at": "2026-06-28T00:15:08.167750+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -100,8 +100,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.01,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 46,
-      "days_remaining": 10,
+      "days_elapsed": 47,
+      "days_remaining": 9,
       "pick_type": "strategic"
     },
     {
@@ -507,7 +507,7 @@ window.theBriefPicks = {
       "change_pct_today": -3.6,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 45,
+      "days_elapsed": 46,
       "days_remaining": null
     },
     {
@@ -540,7 +540,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.1,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 45,
+      "days_elapsed": 46,
       "days_remaining": null
     },
     {
@@ -573,7 +573,7 @@ window.theBriefPicks = {
       "change_pct_today": 4.55,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 45,
+      "days_elapsed": 46,
       "days_remaining": null
     },
     {
@@ -713,8 +713,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.72,
       "name": "Occidental Petroleum",
       "news_count": 3,
-      "days_elapsed": 8,
-      "days_remaining": 34
+      "days_elapsed": 9,
+      "days_remaining": 33
     },
     {
       "id": "2026-06-19-APA-auto",
@@ -743,8 +743,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.14,
       "name": "APA Corp",
       "news_count": 3,
-      "days_elapsed": 8,
-      "days_remaining": 27
+      "days_elapsed": 9,
+      "days_remaining": 26
     },
     {
       "id": "2026-06-19-TTD-auto",
@@ -773,8 +773,8 @@ window.theBriefPicks = {
       "change_pct_today": 5.37,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 8,
-      "days_remaining": 48
+      "days_elapsed": 9,
+      "days_remaining": 47
     }
   ],
   "summary": {

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-27T23:03:20.462651+00:00",
+  "generated_at": "2026-06-28T00:15:08.127510+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.37,
       "price": 18.26,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T23:03:20.459736+00:00",
+      "timestamp": "2026-06-28T00:15:08.124605+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -4.1,
       "price": 689.12,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T23:03:20.459733+00:00",
+      "timestamp": "2026-06-28T00:15:08.124602+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 3.58,
       "price": 29.7,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T23:03:20.459730+00:00",
+      "timestamp": "2026-06-28T00:15:08.124599+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -6.82,
       "price": 239.13,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T23:03:20.459726+00:00",
+      "timestamp": "2026-06-28T00:15:08.124596+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 5.66,
       "price": 372.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-27T23:03:20.459722+00:00",
+      "timestamp": "2026-06-28T00:15:08.124592+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -68,10 +68,44 @@ window.theBriefLive = {
       "change_pct": -3.6,
       "price": 1046.4,
       "is_watchlist": true,
-      "timestamp": "2026-06-27T23:03:20.459708+00:00",
+      "timestamp": "2026-06-28T00:15:08.124578+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK to commit \u00a3500 million to high-speed boats and drones for Commando Force",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-to-commit-500-million-to-highspeed-boats-and-drones-for-commando-force-4764057",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T23:32:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities-4764056",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T23:30:35+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. carries out fresh strikes on Iran after another ship is attacked",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-says-iran-violated-ceasefire-agreement-with-drone-attack-on-cargo-ship-4763166",
+      "is_watchlist": false,
+      "timestamp": "2026-06-27T23:15:40+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -88,36 +122,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How Many Starlink Satellites Can SpaceX Launch This Year?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/many-starlink-satellites-spacex-launch-225000937.html",
+      "headline": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-06-27T22:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities-4764056",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:42:34+00:00",
-      "relevance_score": 3.0,
+      "timestamp": "2026-06-27T22:41:29+00:00",
+      "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 Stocks I'm Not Selling No Matter What the Market Does",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-im-not-selling-223500097.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -127,72 +139,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/commodities-news/us-mexico-inaugurate-sterile-fly-plant-in-chiapas-in-crossborder-screwworm-fight-4764055",
       "is_watchlist": false,
       "timestamp": "2026-06-27T22:18:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/procore-technologies-pcor-announces-roll-221818886.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:18:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-dynatrace-221811886.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:18:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley Raises PT on International Business Machines (IBM) Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-pt-international-221804976.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:18:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Scotiabank Raises PT on Datadog (DDOG) Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-pt-datadog-ddog-221755577.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:17:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Phillip Securities Maintains Buy Rating on Adobe (ADBE) Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/phillip-securities-maintains-buy-rating-221748344.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:17:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Daiwa Reduces PT on Alibaba Group Holding Limited\u00a0(BABA) Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/daiwa-reduces-pt-alibaba-group-221741927.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T22:17:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -275,17 +221,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4764052",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
       "source": "Yahoo",
@@ -304,17 +239,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4607881-sa-asks-whats-the-most-attractive-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-06-27T21:19:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin holds above $60,000 as Strategy\u2019s funding model faces growing scrutiny",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-strategys-funding-model-faces-growing-scrutiny-4763957",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T21:19:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -784,17 +708,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Iran coach criticizes US travel restrictions after Egypt match - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeURqdnpLTlJIUDEzUDJRVFBlcUR0VXVzdVRxODZ4TmZYU3dBM1REeTdMUTZJZ1ZTUFNHTGd1Q0lOZWpoYUppUTd0TE5LSHFUYXpjOWVIaTM2NVlscUxBSjhkQ2hIMnBEc1h6R3F1N0x0bnpvblRjYkVoWHV3ZWktNjMzLThFM1VPR2E1dUs4Q1JTbEV3VFN2bFhTSUE3eXVER0lxN254SkRQMEJCRHl4c1h3?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-27T07:37:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "AMUU: Bull 2x Of AMD In The Phase Of Most Extreme Momentum",
       "source": "SeekingAlpha",
@@ -893,6 +806,28 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Corning Stock: Get A Fast 59% Return From The Glass Maker And AI Play",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/options/corning-stock-glw-manufacturer-ai-data-centers-options-income-investing-markets/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:57:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft Just Made Commvault a Native Azure Service. Here Is How to Play CVLT Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-made-commvault-native-175657697.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:56:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 28",
       "source": "SeekingAlpha",
@@ -902,6 +837,72 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Standard Chartered Thinks This Under-the-Radar Crypto Is Going to Skyrocket 30x in Price. Is It Worth a Closer Look?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-thinks-under-radar-175300435.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:53:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Apogee Enterprises Stock Is Skyrocketing Today",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-apogee-enterprises-stock-skyrocketing-175237053.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:52:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inside Jefferies\u2019 Latest Call on Lamb Weston Holdings Inc (LW) Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/inside-jefferies-latest-call-lamb-175146623.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:51:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fiserv (FISV) Makes Push Into European Debt Markets, Seeks \u20ac1 Billion",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-makes-push-european-175132830.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:51:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stifel Backs Cooper Companies (COO) as CooperSurgical Sale Talks Progress",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-backs-cooper-companies-coo-175004701.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:50:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mercury Systems Inc (MRCY) Sits on $1.6 Billion Backlog. Jefferies Commented About It",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-inc-mrcy-sits-174811975.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-26T17:48:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
