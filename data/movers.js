@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T17:12:41.416959+00:00",
+  "generated_at": "2026-06-28T18:18:59.903540+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?\""
+      "move_reason": "News: \"The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner\""
     },
     {
       "ticker": "QQQ",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?\""
+      "move_reason": "News: \"The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner\""
     },
     {
       "ticker": "OSCR",

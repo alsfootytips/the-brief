@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-06-28T17:12:41.422034+00:00",
+  "generated_at": "2026-06-28T18:18:59.908735+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.37,
       "price": 18.26,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T17:12:41.419123+00:00",
+      "timestamp": "2026-06-28T18:18:59.905784+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -4.1,
       "price": 689.12,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T17:12:41.419120+00:00",
+      "timestamp": "2026-06-28T18:18:59.905781+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 3.58,
       "price": 29.7,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T17:12:41.419117+00:00",
+      "timestamp": "2026-06-28T18:18:59.905778+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -6.82,
       "price": 239.13,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T17:12:41.419113+00:00",
+      "timestamp": "2026-06-28T18:18:59.905775+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 5.66,
       "price": 372.79,
       "is_watchlist": false,
-      "timestamp": "2026-06-28T17:12:41.419109+00:00",
+      "timestamp": "2026-06-28T18:18:59.905771+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -68,10 +68,114 @@ window.theBriefLive = {
       "change_pct": -3.6,
       "price": 1046.4,
       "is_watchlist": true,
-      "timestamp": "2026-06-28T17:12:41.419095+00:00",
+      "timestamp": "2026-06-28T18:18:59.905757+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. House Speaker Johnson to send housing bill to Trump on Monday",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-house-speaker-johnson-to-send-housing-bill-to-trump-on-monday-93CH-4764155",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T18:08:08+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What History Reveals About a Potential Stock Market Crash in 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/history-reveals-potential-stock-market-175500125.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T17:55:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman Sachs Says These 2 Software Stocks Could Surge at Least 60% From Current Levels",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-2-software-175500464.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T17:55:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Market At Tipping Point As U.S.-Iran Attacks Escalate. Tesla, Jobs On Tap.",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T17:50:11+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fe2689283b44055be30ea6a71859ca940cacb06c2ab4940abe7922d24b857f4",
+      "is_watchlist": true,
+      "timestamp": "2026-06-28T17:44:17+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran and US step up attacks and threaten to escalate",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities-4764056",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T17:36:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Jefferies Reports Earnings Before the Big Banks. Here's Why Wall Street Should Be Watching Closely.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b5a602eddd1178f4f0f441d8d60abe3e33e95d193bcd6fad63ea24d71f10a5e",
+      "is_watchlist": true,
+      "timestamp": "2026-06-28T17:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Unstoppable Trend That Could Supercharge Ford Stock by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad306277d0b9185eb999bfef75430683e9e09140a10035dfef5f7d38fcbed040",
+      "is_watchlist": true,
+      "timestamp": "2026-06-28T17:23:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran claims sole authority over Strait of Hormuz under Trump peace deal",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4607902-iran-claims-sole-authority-over-strait-of-hormuz-under-trump-peace-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T17:18:22+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -98,44 +202,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran and US step up attacks and threaten to escalate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities-4764056",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T17:00:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Migrants in US on temporary status should seek permanent residence or leave, Homeland Secretary says",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/politics-news/migrants-in-us-on-temporary-status-should-seek-permanent-status-or-leave-homeland-secretary-says-4764145",
       "is_watchlist": false,
       "timestamp": "2026-06-28T17:00:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Don't Buy SpaceX Until You Consider These 2 Aerospace and Defense Stocks With 10% EPS Growth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dont-buy-spacex-until-consider-165000924.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T16:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iconic luxury retailer exits bankruptcy after deep cuts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/iconic-luxury-retailer-exits-bankruptcy-164700121.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T16:47:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -197,17 +268,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Newmont Corporation (NEM) Provides Update Following Seismic Event",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-corporation-nem-provides-following-164530451.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T16:45:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Eleven people killed in plane crash in northeastern France",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/eleven-people-killed-in-plane-crash-in-northeastern-france-local-officials-say-4764112",
@@ -225,6 +285,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-28T16:41:30+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eleven people killed in plane crash in northeastern France - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZMNHNzVl9SVGxoSFJ1U1JGZWZpTzlUeEhuaVhMUUlzSkdGTHAwUUJoLWF4dEl1LVFnTXhRME5ib25na3dzcnN3N0RqMHNHUmJHbnlyNUZwY2dUbXh5Vm9PSUhaM09kOThUazFCQ25KX3NYdk10dG1ET3lHSnR1SXJTeldHRFZ1RGVNZ2ZCV3NUUGdMbmZrWm5BWk5qLTJZVzBuRkhxaHQ0V2FFX0M1dV9pRHBSZw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-06-28T16:40:29+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -288,41 +359,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=228fe41c1517e219435d28203171e315d3eac8dcf51c192cf5706773bb96db2d",
-      "is_watchlist": true,
-      "timestamp": "2026-06-28T15:26:10+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Bond ETF Most Investors Overlook -- and Why It Belongs in Your Portfolio Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79f88c33d6a51684b479acbe3b44cf300615cadd57044764a7eca6c5f67fbfc8",
-      "is_watchlist": true,
-      "timestamp": "2026-06-28T15:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thirty-three people rescued, thousands still missing after Venezuela quakes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/thirtythree-people-rescued-thousands-still-missing-after-venezuela-quakes-4764150",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T15:18:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "America can't get enough of protein. The dairy industry can't keep up",
       "source": "CNBC",
@@ -356,18 +392,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is American Express Built for the Next Decade of Spending?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=78fe49f5baa6dc47cae69dd6fac53d6fac050364c507bdc518ccccd8858d2c45",
-      "is_watchlist": true,
-      "timestamp": "2026-06-28T15:07:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
       "source": "MarketWatch",
@@ -397,17 +421,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-06-28T14:49:54+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Firmus strikes Nvidia deal to bring AI computing power to smaller players",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4607895-firmus-strikes-nvidia-deal-to-bring-ai-computing-power-to-smaller-players?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T14:44:07+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -765,17 +778,6 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDBnWUw2ZjNJbF82RElqNG5JNmlqcnA2Q0R0NFhObzBrSVZ5TThlZHlyV1M5bjNGVlgxWUNzMnFuLUV5SmhTNmtEeFFQN01JdkZwM3M1M2FfV3NUel84UlhsQVNNM3JqZ3o5bk1fNFJST3U1WUJjbmtLOTRLRXJFNGNZS0xMR0phcnNEaVE1aWo3RDJNZUFaWklzVHhqeXphaERIel9INHFkSWZN?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-06-28T04:21:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Austria draw with Algeria in World Cup thriller to progress and send Iran home - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWxESjNJOHpZWkI5M0wtZzhVT0pXSEJSbXN4STBsd2JXM3I2MFBObXFxYkdtYjZ6S1JtRHNERFJfMU9DcDY4MzZ0ZWNoQU94SXIwOTZhcmtCQUY5bll0TVRYUGsxaU1XQmlRMkpGLXZQZFQzZUtDcWUwak1URHFVTmJEWEFmYzJUUFV0Q1hxRzMxSzEyRE5wcnBqNzJxNldhVnRKMkJyTjY2VV9YMl9WOXlJYlA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-06-28T04:13:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
