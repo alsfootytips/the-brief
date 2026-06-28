@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T15:50:18.760139+00:00",
+  "generated_at": "2026-06-28T17:12:41.416959+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -64,7 +64,7 @@ window.theBriefMovers = {
       "ticker": "SOFI",
       "name": "SOFI",
       "price": 17.77,
-      "change_pct": 2.69,
+      "change_pct": 2.51,
       "volume_ratio": 0.98,
       "is_watchlist": false,
       "is_index": false,
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"It May Be Time to Stop Contributing to Your 401(k). Here's How to Know.\""
+      "move_reason": "News: \"Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?\""
     },
     {
       "ticker": "QQQ",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"It May Be Time to Stop Contributing to Your 401(k). Here's How to Know.\""
+      "move_reason": "News: \"Is Oracle\u2019s Debt Simply Too Much to Justify the Risk?\""
     },
     {
       "ticker": "OSCR",
