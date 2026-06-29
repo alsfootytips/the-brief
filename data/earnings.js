@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-29T22:49:37+00:00",
+  "generated_at": "2026-06-29T22:58:57+00:00",
   "by_date": {
     "2026-06-29": [
       {
@@ -133,7 +133,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PETV",
         "date": "2026-06-29",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
