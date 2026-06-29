@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-29T01:55:03.728215+00:00",
+  "generated_at": "2026-06-29T06:49:23.071035+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?\""
+      "move_reason": "News: \"Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillio...\""
     },
     {
       "ticker": "QQQ",
@@ -348,7 +348,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -423,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Strong Jobs Report Could Change Everything For The Market\""
+      "move_reason": "News: \"Bought Bloom Energy, Credo At A +20% Discount, But Also Hedged\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?\""
+      "move_reason": "News: \"Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillio...\""
     },
     {
       "ticker": "OSCR",
