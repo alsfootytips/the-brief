@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-29T15:32:30+00:00",
+  "generated_at": "2026-06-29T16:04:43+00:00",
   "by_date": {
     "2026-06-29": [
       {
@@ -482,14 +482,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ESI",
-        "date": "2026-07-06",
-        "hour": "amc",
-        "eps_estimate": 0.4306,
-        "revenue_estimate": 861306487,
         "is_watchlist": false
       },
       {
@@ -1252,14 +1244,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0867,
         "revenue_estimate": 51000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MMYT",
-        "date": "2026-07-13",
-        "hour": "",
-        "eps_estimate": 0.461,
-        "revenue_estimate": 297255540,
         "is_watchlist": false
       },
       {
