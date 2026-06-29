@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-06-28T23:33:03.740419+00:00",
+  "generated_at": "2026-06-29T01:55:03.728215+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fiserv Insiders Load Up on Stock After CEO\u2019s Exit\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "PLTR",
@@ -82,7 +82,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"80-year-old discount grocery chain closes 36 stores\""
+      "move_reason": "Tracking XLP sector (+0.92% today)"
     },
     {
       "ticker": "META",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week Of June 28\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "GEV",
@@ -223,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Poten...\""
+      "move_reason": "News: \"CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI\""
     },
     {
       "ticker": "AMD",
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Sees SpaceX Surpassing Nvidia in Long-Term Valuation\""
+      "move_reason": "News: \"OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?\""
     },
     {
       "ticker": "QQQ",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Poten...\""
+      "move_reason": "News: \"CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI\""
     },
     {
       "ticker": "DG",
@@ -399,7 +399,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"80-year-old discount grocery chain closes 36 stores\""
+      "move_reason": "Tracking XLP sector (+0.92% today)"
     },
     {
       "ticker": "GEV",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Sees SpaceX Surpassing Nvidia in Long-Term Valuation\""
+      "move_reason": "News: \"OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?\""
     },
     {
       "ticker": "OSCR",
@@ -483,7 +483,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week Of June 28\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "TPL",
@@ -507,7 +507,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fiserv Insiders Load Up on Stock After CEO\u2019s Exit\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "XLE",
@@ -707,38 +707,6 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 18.26,
-      "change_pct": 5.37,
-      "score": 6.5,
-      "signals": [
-        "Moved +5.37% \u2014 a 1.4\u03c3 move",
-        "3 news items in the last 3 days",
-        "7 insider sells vs 3 buys (last 90 days)",
-        "+2 analyst sell recs added recently",
-        "Forward P/E 8.5 (cheap on absolute basis)",
-        "-79.5% from 52-week high"
-      ],
-      "reasons": [
-        "Moved +5.37% \u2014 a 1.4\u03c3 move",
-        "3 news items in the last 3 days",
-        "7 insider sells vs 3 buys (last 90 days)",
-        "+2 analyst sell recs added recently",
-        "Forward P/E 8.5 (cheap on absolute basis)",
-        "-79.5% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-selling",
-        "analyst-downgrade",
-        "cheap",
-        "off-highs"
-      ],
-      "narrative": "<strong>TTD</strong> is accumulating signals worth tracking.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova",
       "price": 1046.4,
@@ -763,6 +731,35 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 18.26,
+      "change_pct": 5.37,
+      "score": 5.0,
+      "signals": [
+        "Moved +5.37% \u2014 a 1.4\u03c3 move",
+        "7 insider sells vs 3 buys (last 90 days)",
+        "+2 analyst sell recs added recently",
+        "Forward P/E 8.5 (cheap on absolute basis)",
+        "-79.5% from 52-week high"
+      ],
+      "reasons": [
+        "Moved +5.37% \u2014 a 1.4\u03c3 move",
+        "7 insider sells vs 3 buys (last 90 days)",
+        "+2 analyst sell recs added recently",
+        "Forward P/E 8.5 (cheap on absolute basis)",
+        "-79.5% from 52-week high"
+      ],
+      "tags": [
+        "insider-selling",
+        "analyst-downgrade",
+        "cheap",
+        "off-highs"
+      ],
+      "narrative": "<strong>TTD</strong> is accumulating signals worth tracking.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "APA",
@@ -811,30 +808,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 120.0,
-      "change_pct": 2.08,
-      "score": 4.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
     },
     {
       "ticker": "AMD",
@@ -906,6 +879,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>NBIS</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 120.0,
+      "change_pct": 2.08,
+      "score": 3.0,
+      "signals": [
+        "6 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 14.9 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "6 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 14.9 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLP"
     }
   ],
   "sectors_radar": [

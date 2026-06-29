@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-06-28T23:33:03.790044+00:00",
+  "generated_at": "2026-06-29T01:55:03.769163+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -100,8 +100,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.01,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
-      "days_elapsed": 47,
-      "days_remaining": 9,
+      "days_elapsed": 48,
+      "days_remaining": 8,
       "pick_type": "strategic"
     },
     {
@@ -507,7 +507,7 @@ window.theBriefPicks = {
       "change_pct_today": -3.6,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 46,
+      "days_elapsed": 47,
       "days_remaining": null
     },
     {
@@ -540,7 +540,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.1,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 46,
+      "days_elapsed": 47,
       "days_remaining": null
     },
     {
@@ -573,7 +573,7 @@ window.theBriefPicks = {
       "change_pct_today": 4.55,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 46,
+      "days_elapsed": 47,
       "days_remaining": null
     },
     {
@@ -713,8 +713,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.72,
       "name": "Occidental Petroleum",
       "news_count": 3,
-      "days_elapsed": 9,
-      "days_remaining": 33
+      "days_elapsed": 10,
+      "days_remaining": 32
     },
     {
       "id": "2026-06-19-APA-auto",
@@ -743,8 +743,8 @@ window.theBriefPicks = {
       "change_pct_today": -1.14,
       "name": "APA Corp",
       "news_count": 3,
-      "days_elapsed": 9,
-      "days_remaining": 26
+      "days_elapsed": 10,
+      "days_remaining": 25
     },
     {
       "id": "2026-06-19-TTD-auto",
@@ -772,9 +772,9 @@ window.theBriefPicks = {
       "current_pct": -1.51,
       "change_pct_today": 5.37,
       "name": "The Trade Desk",
-      "news_count": 3,
-      "days_elapsed": 9,
-      "days_remaining": 47
+      "news_count": 1,
+      "days_elapsed": 10,
+      "days_remaining": 46
     }
   ],
   "summary": {
