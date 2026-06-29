@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-06-29T20:25:12+00:00",
+  "generated_at": "2026-06-29T21:52:27+00:00",
   "by_date": {
     "2026-06-29": [
       {
@@ -13,7 +13,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AOREF",
         "date": "2026-06-29",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
