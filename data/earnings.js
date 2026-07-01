@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-01T06:11:29+00:00",
+  "generated_at": "2026-07-01T10:15:00+00:00",
   "by_date": {
     "2026-07-01": [
       {
@@ -469,6 +469,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "PCYO",
+        "date": "2026-07-08",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "PSMT",
         "date": "2026-07-08",
         "hour": "",
@@ -915,6 +923,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "FBK",
+        "date": "2026-07-13",
+        "hour": "",
+        "eps_estimate": 1.1717,
+        "revenue_estimate": 180248135,
+        "is_watchlist": false
+      },
+      {
         "ticker": "FNGR",
         "date": "2026-07-13",
         "hour": "",
@@ -1133,6 +1149,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "ANGO",
+        "date": "2026-07-14",
+        "hour": "amc",
+        "eps_estimate": -0.0918,
+        "revenue_estimate": 82008000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "BAC",
         "date": "2026-07-14",
         "hour": "bmo",
@@ -1218,6 +1242,22 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 5.5819,
         "revenue_estimate": 49615197287,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KMTS",
+        "date": "2026-07-14",
+        "hour": "",
+        "eps_estimate": -0.6076,
+        "revenue_estimate": 27008580,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KMTS",
+        "date": "2026-07-14",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -1380,14 +1420,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.1938,
         "revenue_estimate": 0,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PCYO",
-        "date": "2026-07-15",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
