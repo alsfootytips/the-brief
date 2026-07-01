@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-01T19:59:26+00:00",
+  "generated_at": "2026-07-01T21:43:56+00:00",
   "by_date": {
     "2026-07-01": [
       {
@@ -21,7 +21,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EACO",
         "date": "2026-07-01",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
