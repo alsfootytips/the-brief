@@ -1,5 +1,5 @@
 window.theBriefDaily = {
-  "generated_at": "2026-06-30T23:04:20.093479+00:00",
+  "generated_at": "2026-07-01T14:12:28.539309+00:00",
   "by_issue": {
     "2": [
       {
@@ -16,6 +16,12 @@ window.theBriefDaily = {
       }
     ],
     "3": [
+      {
+        "date": "2026-07-01",
+        "headline": "CoreWeave and Nebius both down double digits on no news",
+        "body": "<p><span class=\"confidence confidence-fact\">Fact</span> <span class=\"ticker\" data-ticker=\"CRWV\">CRWV</span> fell 10.78% and <span class=\"ticker\" data-ticker=\"NBIS\">NBIS</span> dropped 12.69% today, both on no material news. <span class=\"confidence confidence-interp\">Interp</span> The AI-cloud infrastructure names are trading as a correlated basket now \u2014 when one gaps down without a catalyst, the others follow. <span class=\"confidence confidence-speculation\">Spec</span> Either this is position unwinding after recent strength, or the market is pricing in a shared worry about AI capex slowdown that hasn't shown up in earnings yet. Worth watching whether this spread to <span class=\"ticker\" data-ticker=\"NVDA\">NVDA</span> (down 2.26%) is contagion or coincidence.</p><p><span class=\"confidence confidence-fact\">Fact</span> <span class=\"ticker\" data-ticker=\"META\">META</span> rallied 9% and <span class=\"ticker\" data-ticker=\"PLTR\">PLTR</span> gained 6.85%, both on no reported catalyst. <span class=\"confidence confidence-interp\">Interp</span> Communication Services (<span class=\"ticker\" data-ticker=\"XLC\">XLC</span>) led sectors at +2.46%, suggesting rotation into non-semiconductor AI plays. <span class=\"confidence confidence-interp\">Interp</span> The pattern: sell the infrastructure layer, buy the application layer. Two days in a row is the start of a trend.</p><p><span class=\"confidence confidence-fact\">Fact</span> Treasury yields spiked across the curve \u2014 10Y up 2.17%, 30Y up 2.14% \u2014 while <span class=\"ticker\" data-ticker=\"IWM\">IWM</span> gained 0.52%. <span class=\"confidence confidence-interp\">Interp</span> That's the opposite of last month's rotation pattern. When yields rise and small-caps hold, it suggests the market is pricing growth, not cutting rates. The rotation thesis from May hasn't broken, but it paused today.</p>",
+        "generated_by": "claude-sonnet-4-5 \u00b7 2026-07-01T14:11:21.854618+00:00"
+      },
       {
         "date": "2026-06-19",
         "headline": "Energy unwound the geopolitical premium while tech snapped back",
