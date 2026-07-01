@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-01T21:43:56+00:00",
+  "generated_at": "2026-07-01T22:55:51+00:00",
   "by_date": {
     "2026-07-01": [
       {
@@ -415,7 +415,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AZZ",
         "date": "2026-07-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.7109,
         "revenue_estimate": 438866543,
         "is_watchlist": false
@@ -455,7 +455,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HELE",
         "date": "2026-07-08",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0102,
         "revenue_estimate": 382044570,
         "is_watchlist": false
@@ -463,7 +463,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LEVI",
         "date": "2026-07-08",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.2452,
         "revenue_estimate": 1546627091,
         "is_watchlist": false
@@ -471,7 +471,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PCYO",
         "date": "2026-07-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -479,7 +479,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PSMT",
         "date": "2026-07-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.2138,
         "revenue_estimate": 1461981300,
         "is_watchlist": false
