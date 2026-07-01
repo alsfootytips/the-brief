@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-01T22:55:51.346738+00:00",
+  "generated_at": "2026-07-01T23:05:42.059952+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": 5.48,
-      "price": 19.07,
+      "change_pct": 5.59,
+      "price": 19.09,
       "is_watchlist": true,
-      "timestamp": "2026-07-01T22:55:51.343729+00:00",
+      "timestamp": "2026-07-01T23:05:41.887939+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.12,
       "price": 415.22,
       "is_watchlist": true,
-      "timestamp": "2026-07-01T22:55:51.343726+00:00",
+      "timestamp": "2026-07-01T23:05:41.887937+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -4.16,
-      "price": 689.99,
+      "change_pct": -3.65,
+      "price": 693.62,
       "is_watchlist": true,
-      "timestamp": "2026-07-01T22:55:51.343723+00:00",
+      "timestamp": "2026-07-01T23:05:41.887934+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,10 +41,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PLTR",
       "name": "PLTR",
-      "change_pct": 7.16,
-      "price": 125.02,
+      "change_pct": 7.23,
+      "price": 125.11,
       "is_watchlist": false,
-      "timestamp": "2026-07-01T22:55:51.343721+00:00",
+      "timestamp": "2026-07-01T23:05:41.887931+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": 11.5,
       "price": 31.8,
       "is_watchlist": true,
-      "timestamp": "2026-07-01T22:55:51.343718+00:00",
+      "timestamp": "2026-07-01T23:05:41.887928+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -65,10 +65,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -15.52,
-      "price": 233.3,
+      "change_pct": -15.51,
+      "price": 233.33,
       "is_watchlist": true,
-      "timestamp": "2026-07-01T22:55:51.343715+00:00",
+      "timestamp": "2026-07-01T23:05:41.887925+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -77,22 +77,34 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "META",
       "name": "META",
-      "change_pct": 8.79,
-      "price": 612.8,
+      "change_pct": 8.9,
+      "price": 613.43,
       "is_watchlist": false,
-      "timestamp": "2026-07-01T22:55:51.343711+00:00",
+      "timestamp": "2026-07-01T23:05:41.887921+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
     },
     {
       "type": "mover",
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "change_pct": -3.14,
+      "price": 1138.0,
+      "is_watchlist": true,
+      "timestamp": "2026-07-01T23:05:41.887913+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -12.82,
-      "price": 86.78,
+      "change_pct": -12.85,
+      "price": 86.75,
       "is_watchlist": true,
-      "timestamp": "2026-07-01T22:55:51.343700+00:00",
+      "timestamp": "2026-07-01T23:05:41.887909+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -101,13 +113,24 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -6.13,
-      "price": 545.3,
+      "change_pct": -6.01,
+      "price": 545.98,
       "is_watchlist": true,
-      "timestamp": "2026-07-01T22:55:51.343691+00:00",
+      "timestamp": "2026-07-01T23:05:41.887900+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-01T23:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -229,6 +252,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-01T22:16:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-01T22:16:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -482,17 +517,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "This unheralded sector may be the one sure thing for bulls in July",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-unheralded-sector-may-be-the-one-sure-thing-for-bulls-in-july-e620a01b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-01T21:08:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Meta Stock Rallies On Reported Plan For AI Cloud Business; CoreWeave Slides",
       "source": "Yahoo",
@@ -545,17 +569,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-01T20:27:09+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S., Iran talks conclude in Doha, focused on Strait - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-01T20:22:40+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -1143,11 +1156,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. Job Openings and Hires Remained Stable in May",
+      "headline": "IPO Edge NYSE Firesides Scheduled for July 28",
       "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/economy/jobs/u-s-job-openings-and-hires-remained-stable-in-may-70674c10?siteid=yhoof2&yptr=yahoo",
+      "url": "https://finance.yahoo.com/news/ipo-edge-nyse-firesides-scheduled-211107368.html",
       "is_watchlist": false,
-      "timestamp": "2026-06-30T14:53:00+00:00",
+      "timestamp": "2026-06-30T15:00:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why AppLovin\u2019s CEO Is Selling While Quantum Insiders Are Buying",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-applovin-ceo-selling-while-150000787.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-30T15:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1204,17 +1228,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-got-catalyst-texas-143944476.html",
       "is_watchlist": false,
       "timestamp": "2026-06-30T14:39:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tesla Q2 Deliveries Due Later This Week. Stock Gains On Newest FSD Update.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/tesla-q2-deliveries-elon-musk-electric-vehicles-autos-fsd-model-3/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-06-30T14:35:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
