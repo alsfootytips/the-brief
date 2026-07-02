@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-02T07:57:11+00:00",
+  "generated_at": "2026-07-02T10:45:26+00:00",
   "by_date": {
     "2026-07-02": [
       {
@@ -410,14 +410,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CTAS",
-        "date": "2026-07-09",
-        "hour": "amc",
-        "eps_estimate": 1.2642,
-        "revenue_estimate": 2930039556,
         "is_watchlist": false
       },
       {
@@ -1147,6 +1139,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "PXED",
+        "date": "2026-07-14",
+        "hour": "",
+        "eps_estimate": 1.3464,
+        "revenue_estimate": 276556384,
+        "is_watchlist": false
+      },
+      {
         "ticker": "SNV",
         "date": "2026-07-14",
         "hour": "",
@@ -1181,6 +1181,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "BLK",
+        "date": "2026-07-15",
+        "hour": "",
+        "eps_estimate": 12.6481,
+        "revenue_estimate": 6823009842,
+        "is_watchlist": false
+      },
+      {
         "ticker": "BNY",
         "date": "2026-07-15",
         "hour": "",
@@ -1202,6 +1210,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CTAS",
+        "date": "2026-07-15",
+        "hour": "amc",
+        "eps_estimate": 1.2642,
+        "revenue_estimate": 2930039556,
         "is_watchlist": false
       },
       {
@@ -1447,14 +1463,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "BMI",
-        "date": "2026-07-16",
-        "hour": "bmo",
-        "eps_estimate": 1.029,
-        "revenue_estimate": 222406938,
-        "is_watchlist": false
-      },
-      {
         "ticker": "CASS",
         "date": "2026-07-16",
         "hour": "",
@@ -1535,22 +1543,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "FCX",
-        "date": "2026-07-16",
-        "hour": "",
-        "eps_estimate": 0.58,
-        "revenue_estimate": 6708992447,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FFBC",
-        "date": "2026-07-16",
-        "hour": "",
-        "eps_estimate": 0.7837,
-        "revenue_estimate": 275535996,
-        "is_watchlist": false
-      },
-      {
         "ticker": "FFIN",
         "date": "2026-07-16",
         "hour": "",
@@ -1594,16 +1586,16 @@ window.theBriefEarnings = {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.1734,
+        "revenue_estimate": 0,
         "is_watchlist": false
       },
       {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "",
-        "eps_estimate": -0.1734,
-        "revenue_estimate": 0,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -1780,14 +1772,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 1.7476,
         "revenue_estimate": 115533360,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "STBA",
-        "date": "2026-07-16",
-        "hour": "",
-        "eps_estimate": 0.9334,
-        "revenue_estimate": 106331430,
         "is_watchlist": false
       },
       {
