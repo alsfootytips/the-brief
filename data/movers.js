@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-02T04:31:53.677394+00:00",
+  "generated_at": "2026-07-02T07:57:11.959149+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -118,18 +118,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 109.3,
-      "change_pct": 0.4,
-      "volume_ratio": 0.89,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 51.02,
@@ -163,15 +151,14 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 142.34,
-      "change_pct": 0.03,
-      "volume_ratio": 0.83,
+      "ticker": "DIA",
+      "name": "SPDR Dow Jones Industrial",
+      "price": 522.4,
+      "change_pct": 0.0,
+      "volume_ratio": 0.78,
       "is_watchlist": false,
-      "is_index": false,
+      "is_index": true,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -198,7 +185,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move\""
+      "move_reason": "News: \"CoreWeave (CRWV) Is Down 15.1% After Meta Weighs Selling Excess AI Compute Capacity \u2013 What...\""
     },
     {
       "ticker": "AMD",
@@ -329,28 +316,28 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 52.8,
-      "change_pct": -0.58,
-      "volume_ratio": 1.25,
-      "is_watchlist": true,
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 140.94,
+      "change_pct": -0.98,
+      "volume_ratio": 0.25,
+      "is_watchlist": false,
       "is_index": false,
-      "is_sector": true,
-      "market_state": null,
-      "move_reason": "News: \"Dow Hits Record, Meta Soars On AI-Cloud Bet: Stock Market Today\""
-    },
-    {
-      "ticker": "IWM",
-      "name": "iShares Russell 2000 ETF",
-      "price": 298.81,
-      "change_pct": -0.55,
-      "volume_ratio": 0.76,
-      "is_watchlist": true,
-      "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Job Openings Rising\""
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.32,
+      "change_pct": -0.9,
+      "volume_ratio": 0.45,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -388,7 +375,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move\""
+      "move_reason": "News: \"CoreWeave (CRWV) Is Down 15.1% After Meta Weighs Selling Excess AI Compute Capacity \u2013 What...\""
     },
     {
       "ticker": "DG",
@@ -424,7 +411,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Job Openings Rising\""
+      "move_reason": "News: \"Does AI Raise Or Lower Neutral Rates?\""
     },
     {
       "ticker": "NBIS",
@@ -520,7 +507,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Dow Hits Record, Meta Soars On AI-Cloud Bet: Stock Market Today\""
+      "move_reason": "News: \"Fixed Income Midyear Outlook: 6 Ways To Put Volatility To Work\""
     }
   ],
   "indices": [
