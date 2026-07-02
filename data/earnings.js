@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-02T22:47:32+00:00",
+  "generated_at": "2026-07-02T22:58:30+00:00",
   "by_date": {
     "2026-07-02": [
       {
@@ -375,7 +375,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BYRN",
         "date": "2026-07-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1199,
         "revenue_estimate": 22751610,
         "is_watchlist": false
@@ -415,7 +415,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EDUC",
         "date": "2026-07-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -559,7 +559,7 @@ window.theBriefEarnings = {
       {
         "ticker": "WDFC",
         "date": "2026-07-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.5902,
         "revenue_estimate": 176447760,
         "is_watchlist": false

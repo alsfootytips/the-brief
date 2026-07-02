@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-02T22:47:32.705832+00:00",
+  "generated_at": "2026-07-02T22:58:30.147852+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.33,
       "price": 668.41,
       "is_watchlist": true,
-      "timestamp": "2026-07-02T22:47:32.702769+00:00",
+      "timestamp": "2026-07-02T22:58:30.031210+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -5.18,
-      "price": 217.3,
+      "change_pct": -5.36,
+      "price": 216.91,
       "is_watchlist": true,
-      "timestamp": "2026-07-02T22:47:32.702766+00:00",
+      "timestamp": "2026-07-02T22:58:30.031206+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -3.67,
-      "price": 82.54,
+      "change_pct": -3.68,
+      "price": 82.53,
       "is_watchlist": true,
-      "timestamp": "2026-07-02T22:47:32.702755+00:00",
+      "timestamp": "2026-07-02T22:58:30.031195+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,13 +41,123 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.73,
-      "price": 520.68,
+      "change_pct": -3.79,
+      "price": 520.38,
       "is_watchlist": true,
-      "timestamp": "2026-07-02T22:47:32.702746+00:00",
+      "timestamp": "2026-07-02T22:58:30.031186+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Samsara Inc For: 2 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-samsara-inc-for-2-july-93CH-4774671",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:55:24+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 MGM Resorts For: 2 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-mgm-resorts-for-2-july-93CH-4774670",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:54:10+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 BlackRock Inc For: 2 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-blackrock-inc-for-2-july-93CH-4774669",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:54:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Beta Bionics Inc For: 2 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-beta-bionics-inc-for-2-july-93CH-4774668",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:52:35+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsara CFO Dominic Phillips sells nearly $1 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/samsara-cfo-dominic-phillips-sells-nearly-1-million-in-stock-93CH-4774667",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:52:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Whitestone REIT For: 2 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-whitestone-reit-for-2-july-93CH-4774666",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:51:22+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 MGM Resorts For: 2 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-mgm-resorts-for-2-july-93CH-4774665",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:51:15+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 BlackRock Inc For: 2 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-blackrock-inc-for-2-july-93CH-4774664",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:51:15+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:45:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nexa Resources confirms Boliden talks on potential deal",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4609798-nexa-resources-confirms-boliden-talks-on-potential-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T22:42:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -69,94 +179,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-02T22:38:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Moody\u2019s expects Fujimori\u2019s government in Peru to boost investor confidence",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/moodys-expects-fujimoris-government-in-peru-to-boost-investor-confidence-4774620",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:36:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chinese copper foil maker Londian Wason New Energy Tech files for US IPO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/chinese-copper-foil-maker-londian-wason-energy-tech-files-for-us-ipo-4774502",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:36:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 13D/A El Pollo Loco Holdings For: 2 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-13da-el-pollo-loco-holdings-for-2-july-93CH-4774619",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:36:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Church & Dwight For: 2 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-church--dwight-for-2-july-93CH-4774618",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:36:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 First Community Corporation For: 2 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-first-community-corporation-for-2-july-93CH-4774617",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:36:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Church & Dwight For: 2 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-church--dwight-for-2-july-93CH-4774616",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:36:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Whitestone REIT For: 2 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-whitestone-reit-for-2-july-93CH-4774615",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:36:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Ormat Technologies Inc For: 2 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-ormat-technologies-inc-for-2-july-93CH-4774614",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T22:34:05+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -242,17 +264,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T21:57:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "Stocks making big moves yesterday: ServiceNow, CoStar, Freshpet, The Trade Desk, and Amplitude",
       "source": "Yahoo",
@@ -316,17 +327,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4609789-gold-jumps-after-weak-us-payrolls-report-dents-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-02T21:15:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JPMorgan loses fight over Charlie Javice's legal bills - report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609786-jpmorgan-loses-fight-over-charlie-javices-legal-bills-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T21:05:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1081,6 +1081,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Stocks Mixed on Chipmaker Weakness and Easing US Price Pressures",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-chipmaker-weakness-easing-151717999.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-01T15:17:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arteris Looks Like a Bubble-Proof Tech Stock Even at New All-Time Highs",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arteris-looks-bubble-proof-tech-151502458.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-01T15:15:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Ulta Beauty Stock Hits a New 52-Week Low: If It\u2019s Not in the Buy Zone, It\u2019s Awfully Close",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-stock-hits-52-151206847.html",
@@ -1144,17 +1166,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Private employers added 98,000 jobs in June, fewer than expected",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/private-employers-added-98000-jobs-in-june-fewer-than-expected-122106116.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-01T12:21:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1348,17 +1359,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html",
       "is_watchlist": false,
       "timestamp": "2026-06-28T12:29:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The best personal loans for July 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-personal-loans-202034980.html",
-      "is_watchlist": false,
-      "timestamp": "2024-02-28T17:24:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
