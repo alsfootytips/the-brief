@@ -1,32 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-02T22:58:30+00:00",
+  "generated_at": "2026-07-03T00:05:54+00:00",
   "by_date": {
-    "2026-07-02": [
-      {
-        "ticker": "BABB",
-        "date": "2026-07-02",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LNN",
-        "date": "2026-07-02",
-        "hour": "bmo",
-        "eps_estimate": 1.2196,
-        "revenue_estimate": 159382040,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PKE",
-        "date": "2026-07-02",
-        "hour": "",
-        "eps_estimate": 0.1404,
-        "revenue_estimate": 18085060,
-        "is_watchlist": false
-      }
-    ],
     "2026-07-03": [
       {
         "ticker": "SBSAA",
@@ -1868,6 +1842,128 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 1.6297,
         "revenue_estimate": 705123692,
+        "is_watchlist": false
+      }
+    ],
+    "2026-07-17": [
+      {
+        "ticker": "ACU",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 0.5858,
+        "revenue_estimate": 56800380,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ALV",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 2.4416,
+        "revenue_estimate": 2787558680,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BALY",
+        "date": "2026-07-17",
+        "hour": "amc",
+        "eps_estimate": -1.0764,
+        "revenue_estimate": 803388108,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BOTJ",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CCBC",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CCFN",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FITB",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 0.9768,
+        "revenue_estimate": 3321142521,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LOAN",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 0.1122,
+        "revenue_estimate": 1375980,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MCBS",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 0.816,
+        "revenue_estimate": 52734000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ORBN",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RBCAA",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 1.5244,
+        "revenue_estimate": 81679000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RF",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 0.6481,
+        "revenue_estimate": 1996502426,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TFC",
+        "date": "2026-07-17",
+        "hour": "",
+        "eps_estimate": 1.091,
+        "revenue_estimate": 5299177463,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TRV",
+        "date": "2026-07-17",
+        "hour": "bmo",
+        "eps_estimate": 4.8831,
+        "revenue_estimate": 11447104973,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "XIFR",
+        "date": "2026-07-17",
+        "hour": "bmo",
+        "eps_estimate": 0.0372,
+        "revenue_estimate": 371382683,
         "is_watchlist": false
       }
     ]
