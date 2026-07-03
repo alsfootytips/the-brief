@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-07-03T00:05:55.040815+00:00",
+  "generated_at": "2026-07-03T04:09:07.128883+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -161,9 +161,9 @@ window.theBriefPicks = {
       "status": "expired",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 53.13,
-      "current_pct": -7.95,
-      "change_pct_today": 0.61,
+      "current_price": 53.14,
+      "current_pct": -7.93,
+      "change_pct_today": 0.62,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 28,
@@ -742,7 +742,7 @@ window.theBriefPicks = {
       "current_pct": -2.17,
       "change_pct_today": 1.85,
       "name": "APA Corp",
-      "news_count": 1,
+      "news_count": 2,
       "days_elapsed": 14,
       "days_remaining": 21
     },
