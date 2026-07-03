@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-03T22:56:20.576569+00:00",
+  "generated_at": "2026-07-03T23:04:40.058232+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T22:56:20.447296+00:00",
+      "timestamp": "2026-07-03T23:04:40.055121+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T22:56:20.447291+00:00",
+      "timestamp": "2026-07-03T23:04:40.055118+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T22:56:20.447281+00:00",
+      "timestamp": "2026-07-03T23:04:40.055107+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T22:56:20.447271+00:00",
+      "timestamp": "2026-07-03T23:04:40.055098+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -998,77 +998,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Reddit Says Buy This AI Energy Stock Before It\u2019s Too Late",
+      "headline": "Parents signed her up for $80,000 in student loans. Then they bought a $6 million yacht instead of helping",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/reddit-says-buy-ai-energy-154026582.html",
+      "url": "https://finance.yahoo.com/small-business/articles/parents-signed-her-80-000-160000579.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-02T15:40:26+00:00",
+      "timestamp": "2026-07-02T16:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Follow Stock Market Leaders To Stay In Step With Broader Market Health",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-micron-amat-dell-sp500-health/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:59:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading",
+      "headline": "Robinhood Launches Perpetual Futures in Europe as Introduces Blockchain and AI Trading Platform",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/robinhood-stock-soars-on-global-expansion-ai-agents-and-a-push-for-247-trading-153709971.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-launches-perpetual-futures-europe-155715388.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-02T15:37:09+00:00",
+      "timestamp": "2026-07-02T15:57:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock Market Rebounds, But AI Falters; Meta, Tesla, Jobs Report In Focus: Weekly Review",
+      "headline": "The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/stock-market-rebounds-ai-falters-meta-tesla-jobs-report/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/first-major-robotics-ipo-5-155354756.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-02T15:36:31+00:00",
+      "timestamp": "2026-07-02T15:53:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Applied Materials Is Silently Powering the AI Boom. Here's Why.",
+      "headline": "Flexport's CEO called remote work \u2018white-collar fraud\u2019 \u2014 then said it\u2019s really for workers who\u2019ll accept lower pay",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-silently-powering-ai-153600415.html",
+      "url": "https://finance.yahoo.com/small-business/articles/flexports-ceo-called-remote-white-154637438.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-02T15:36:00+00:00",
+      "timestamp": "2026-07-02T15:46:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Crude Prices Tumble as Global Oil Supplies Normalize",
+      "headline": "My wife and I set retirement countdown for ages 59 and 60. Our spreadsheet says we're ready \u2014 but how do we really know?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/crude-prices-tumble-global-oil-153516488.html",
+      "url": "https://finance.yahoo.com/markets/articles/wife-set-retirement-countdown-ages-154500608.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-02T15:35:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Desperate job seekers face new challenge: the 'Great Hunkering Down'",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/desperate-job-seekers-face-challenge-153300780.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T15:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What to Expect From Digital Realty Trust's Next Quarterly Earnings Report",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-digital-realty-trusts-next-153146546.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T15:31:46+00:00",
+      "timestamp": "2026-07-02T15:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1083,6 +1072,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage rates hover near 6.5% as other housing metrics show modest improvement: Mortgage rates today, July 2, 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hover-near-65-as-other-housing-metrics-show-modest-improvement-mortgage-rates-today-july-2-2026-100000176.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1341,11 +1341,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is travel insurance worth it? Here's when to get travel insurance.",
+      "headline": "When will gas prices go down? What to know as you plan your July 4 road trip.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/is-travel-insurance-worth-it-212547618.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-july-4-road-trip-154506731.html",
       "is_watchlist": false,
-      "timestamp": "2026-03-03T21:25:47+00:00",
+      "timestamp": "2026-04-14T15:45:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }

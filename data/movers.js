@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T22:56:20.444833+00:00",
+  "generated_at": "2026-07-03T23:04:40.052540+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,7 +167,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 142.06,
       "change_pct": 0.59,
-      "volume_ratio": 0.86,
+      "volume_ratio": 0.96,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
