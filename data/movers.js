@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T04:09:07.073986+00:00",
+  "generated_at": "2026-07-03T07:36:32.542273+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -163,14 +163,15 @@ window.theBriefMovers = {
       "move_reason": "Tracking XLV sector (+2.63% today)"
     },
     {
-      "ticker": "XLI",
-      "name": "Industrial Select Sector",
-      "price": 183.91,
-      "change_pct": 0.3,
-      "volume_ratio": 0.86,
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.04,
+      "change_pct": 0.58,
+      "volume_ratio": 0.2,
       "is_watchlist": false,
       "is_index": false,
-      "is_sector": true,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -306,18 +307,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 108.14,
-      "change_pct": -1.06,
-      "volume_ratio": 0.95,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary Select",
       "price": 117.12,
@@ -326,18 +315,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 141.22,
-      "change_pct": -0.79,
-      "volume_ratio": 0.91,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -350,7 +327,29 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"U.S. Hiring Slows Sharply In June, Unemployment Rate Ticks Down To 4.2%; EUR/USD Technical...\""
+      "move_reason": "News: \"Jobs Disappoint, Market Gives Two Cheers\""
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 744.78,
+      "change_pct": -0.13,
+      "volume_ratio": 0.99,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 109.6,
+      "change_pct": -0.13,
+      "volume_ratio": 0.96,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -424,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"U.S. Hiring Slows Sharply In June, Unemployment Rate Ticks Down To 4.2%; EUR/USD Technical...\""
+      "move_reason": "News: \"Jobs Disappoint, Market Gives Two Cheers\""
     },
     {
       "ticker": "NBIS",
