@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T16:15:36.111726+00:00",
+  "generated_at": "2026-07-03T17:52:13.520621+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -148,7 +148,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"2 Income Stocks To Tap Into The AI CapEx Megatrend\""
+      "move_reason": "News: \"Equity Outlook: AI Enthusiasm Leaves Little Margin For Error\""
     },
     {
       "ticker": "OSCR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta: The Cure For CapEx Anxiety\""
+      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
     },
     {
       "ticker": "META",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Is Split on Meta\u2019s Secret Cloud Move, and One Side Is Very Wrong\""
+      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Household Survey Shows 500k Jobs Lost In June While Labor Force Participation Crashes To M...\""
+      "move_reason": "News: \"Midyear Economic Check-In: A World Diverging\""
     },
     {
       "ticker": "SPY",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Is Split on Meta\u2019s Secret Cloud Move, and One Side Is Very Wrong\""
+      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
     },
     {
       "ticker": "DG",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Household Survey Shows 500k Jobs Lost In June While Labor Force Participation Crashes To M...\""
+      "move_reason": "News: \"Midyear Economic Check-In: A World Diverging\""
     },
     {
       "ticker": "NBIS",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta: The Cure For CapEx Anxiety\""
+      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
     },
     {
       "ticker": "NVDA",
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"2 Income Stocks To Tap Into The AI CapEx Megatrend\""
+      "move_reason": "News: \"Equity Outlook: AI Enthusiasm Leaves Little Margin For Error\""
     }
   ],
   "indices": [
