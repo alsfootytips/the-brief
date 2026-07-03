@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T10:18:57.148859+00:00",
+  "generated_at": "2026-07-03T12:26:13.070506+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -148,7 +148,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The Employment Report Just Changed Everything: June Miss Reshapes Fed Playbook\""
+      "move_reason": "News: \"2 Income Stocks To Tap Into The AI CapEx Megatrend\""
     },
     {
       "ticker": "OSCR",
@@ -165,9 +165,9 @@ window.theBriefMovers = {
     {
       "ticker": "VWRP.L",
       "name": "VWRP.L",
-      "price": 141.88,
-      "change_pct": 0.47,
-      "volume_ratio": 0.46,
+      "price": 142.06,
+      "change_pct": 0.59,
+      "volume_ratio": 0.62,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks\""
+      "move_reason": "News: \"SpaceX Stock Is Joining the Nasdaq 100 Soon. What History Says Happens Next.\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rates Spark: Resumed Steepening Impulse\""
+      "move_reason": "News: \"Manufacturing Trends Vary As North American And East Asian Growth Spurts Contrast With ASE...\""
     },
     {
       "ticker": "SPY",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks\""
+      "move_reason": "News: \"SpaceX Stock Is Joining the Nasdaq 100 Soon. What History Says Happens Next.\""
     },
     {
       "ticker": "DG",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rates Spark: Resumed Steepening Impulse\""
+      "move_reason": "News: \"Manufacturing Trends Vary As North American And East Asian Growth Spurts Contrast With ASE...\""
     },
     {
       "ticker": "NBIS",
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The Employment Report Just Changed Everything: June Miss Reshapes Fed Playbook\""
+      "move_reason": "News: \"2 Income Stocks To Tap Into The AI CapEx Megatrend\""
     }
   ],
   "indices": [
