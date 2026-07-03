@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T13:44:39.219061+00:00",
+  "generated_at": "2026-07-03T14:42:34.260588+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -139,6 +139,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.16,
+      "change_pct": 0.67,
+      "volume_ratio": 0.78,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 53.14,
@@ -149,18 +161,6 @@ window.theBriefMovers = {
       "is_sector": true,
       "market_state": null,
       "move_reason": "News: \"2 Income Stocks To Tap Into The AI CapEx Megatrend\""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 142.08,
-      "change_pct": 0.61,
-      "volume_ratio": 0.73,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     },
     {
       "ticker": "OSCR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks\""
+      "move_reason": "News: \"Meta: The Cure For CapEx Anxiety\""
     },
     {
       "ticker": "META",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Stock Is Joining the Nasdaq 100 Soon. What History Says Happens Next.\""
+      "move_reason": "News: \"Wall Street Is Split on Meta\u2019s Secret Cloud Move, and One Side Is Very Wrong\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jobs Slow As Trade Talks Enter A New Phase\""
+      "move_reason": "News: \"Wage Growth As A Leading Inflation Indicator\""
     },
     {
       "ticker": "SPY",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Stock Is Joining the Nasdaq 100 Soon. What History Says Happens Next.\""
+      "move_reason": "News: \"Wall Street Is Split on Meta\u2019s Secret Cloud Move, and One Side Is Very Wrong\""
     },
     {
       "ticker": "DG",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jobs Slow As Trade Talks Enter A New Phase\""
+      "move_reason": "News: \"Wage Growth As A Leading Inflation Indicator\""
     },
     {
       "ticker": "NBIS",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks\""
+      "move_reason": "News: \"Meta: The Cure For CapEx Anxiety\""
     },
     {
       "ticker": "NVDA",
