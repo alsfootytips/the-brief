@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T12:26:13.070506+00:00",
+  "generated_at": "2026-07-03T13:44:39.219061+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -151,6 +151,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"2 Income Stocks To Tap Into The AI CapEx Megatrend\""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.08,
+      "change_pct": 0.61,
+      "volume_ratio": 0.73,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 32.09,
@@ -161,18 +173,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "Tracking XLV sector (+2.63% today)"
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 142.06,
-      "change_pct": 0.59,
-      "volume_ratio": 0.62,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Manufacturing Trends Vary As North American And East Asian Growth Spurts Contrast With ASE...\""
+      "move_reason": "News: \"Jobs Slow As Trade Talks Enter A New Phase\""
     },
     {
       "ticker": "SPY",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Manufacturing Trends Vary As North American And East Asian Growth Spurts Contrast With ASE...\""
+      "move_reason": "News: \"Jobs Slow As Trade Talks Enter A New Phase\""
     },
     {
       "ticker": "NBIS",
