@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-03T21:46:12.196522+00:00",
+  "generated_at": "2026-07-03T22:56:20.576569+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T21:46:12.193432+00:00",
+      "timestamp": "2026-07-03T22:56:20.447296+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T21:46:12.193428+00:00",
+      "timestamp": "2026-07-03T22:56:20.447291+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T21:46:12.193419+00:00",
+      "timestamp": "2026-07-03T22:56:20.447281+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,56 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-03T21:46:12.193410+00:00",
+      "timestamp": "2026-07-03T22:56:20.447271+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canfor completes acquisition of PinkWood I-joist facility",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/canfor-completes-acquisition-of-pinkwood-ijoist-facility-93CH-4775323",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T22:04:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Apple Is About 4% Away From Overtaking Nvidia as the World's Most Valuable Company. Could It Happen This Month?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8c41a2e7b34355421a47e8da5d740d9a34791d83446f9510e0cbe527c1a388e",
+      "is_watchlist": true,
+      "timestamp": "2026-07-03T21:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Largest US power grid PJM orders emergency curbs as electricity use nears record peak",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/largest-us-power-grid-pjm-escalates-emergency-actions-to-avoid-blackouts-4775310",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T21:42:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Dividend ETFs vs. Bond ETFs: Which Is the Better Investment in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b668e7e285dbae0c9afecd0a1bdd541c48e8f7d636d805250c41628719ad536",
+      "is_watchlist": true,
+      "timestamp": "2026-07-03T21:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -95,6 +141,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Better EV Stock: Rivian vs. Lucid",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b7ba4af43f28c3c393d2ff22c35a5060335ed9aa23a177739958572916c27cd",
+      "is_watchlist": true,
+      "timestamp": "2026-07-03T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Supreme Court\u2019s Barrett fuels conservative wins while sometimes splitting with Trump",
       "source": "Investing.com News",
@@ -112,28 +170,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/commodities-news/heat-wave-disrupts-fourth-of-july-events-across-eastern-us-4775312",
       "is_watchlist": false,
       "timestamp": "2026-07-03T21:00:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.88%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-088-4775317",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T20:30:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brazil stocks higher at close of trade; Bovespa up 0.74%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-074-4775316",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T20:30:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -180,42 +216,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-03T19:32:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: This Oil Stock Will Beat the S&P 500 in the Second Half of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d868ee102df33d2874d34707e17e20b0f6d96f31ac984ce648fabdb55fe1714",
-      "is_watchlist": true,
-      "timestamp": "2026-07-03T19:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "All Eyes Are on Social Security's Financial Woes. But Medicare Is in Trouble, Too.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe8351a049285ad6ae66b676e94bae5fbf5f1ac45b46903dfd5d906bc3541219",
-      "is_watchlist": true,
-      "timestamp": "2026-07-03T19:20:00+00:00",
-      "relevance_score": -2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Things I Wish I Knew About Retirement Savings When I Started Working",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c85047fa21af7ae2e1c5776051a10966d9e28ea31ec6f5dbf60311b975fe4b36",
-      "is_watchlist": true,
-      "timestamp": "2026-07-03T19:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -520,6 +520,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-03T15:01:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Dear GE Vernova Stock Fans, Mark Your Calendars for July 22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=886728ee517d2efa378243ad21a72fd02c28de283e439a485d64d16f41b90007",
+      "is_watchlist": true,
+      "timestamp": "2026-07-03T15:00:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -860,18 +872,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Jim Cramer on GE Vernova: \u201cI Believe In Scott Strazik\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e268d82736c1ce939ce3bb4088e2f0c1b19eb1fbc749064360860f1330c74f3",
-      "is_watchlist": true,
-      "timestamp": "2026-07-03T08:17:38+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a \u2018blind spot\u2019 for markets",
       "source": "CNBC Top",
@@ -997,6 +997,83 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Reddit Says Buy This AI Energy Stock Before It\u2019s Too Late",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/reddit-says-buy-ai-energy-154026582.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:40:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/robinhood-stock-soars-on-global-expansion-ai-agents-and-a-push-for-247-trading-153709971.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:37:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Market Rebounds, But AI Falters; Meta, Tesla, Jobs Report In Focus: Weekly Review",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/stock-market-rebounds-ai-falters-meta-tesla-jobs-report/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:36:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Applied Materials Is Silently Powering the AI Boom. Here's Why.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-silently-powering-ai-153600415.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:36:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crude Prices Tumble as Global Oil Supplies Normalize",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/crude-prices-tumble-global-oil-153516488.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:35:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Desperate job seekers face new challenge: the 'Great Hunkering Down'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/desperate-job-seekers-face-challenge-153300780.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What to Expect From Digital Realty Trust's Next Quarterly Earnings Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-digital-realty-trusts-next-153146546.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T15:31:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "DG",
       "headline": "Why Is Dollar General (DG) Up 9.6% Since Last Earnings Report?",
       "source": "Yahoo",
@@ -1006,95 +1083,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adyen names interim CFO as part of leadership update",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adyen-names-interim-cfo-part-141752154.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:17:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marvell Technology (MRVL) Gains from AI-Related Infrastructure Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-gains-ai-141751528.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:17:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Former retail giant closed over 1,000 locations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:17:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Wall Street\u2019s Wrong for Loving Protagonist Therapeutics Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-wrong-loving-141502229.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Big win for humans! Ford rehired 350 'gray beards' after AI failed quality checks. Are replacement fears overblown?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/big-win-humans-ford-rehired-141500197.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Makes Curtiss-Wright Corporation (CW) a Worthy Investment?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-curtiss-wright-corporation-cw-141210572.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:12:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Does Advanced Energy Industries (AEIS) Have Solid Growth Prospects?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-advanced-energy-industries-aeis-140834971.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:08:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks Climb as Fed Rate Hike Fears Ease on a Weak Jobs Report",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-climb-fed-rate-hike-140521912.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T14:05:21+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1347,6 +1335,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html",
       "is_watchlist": false,
       "timestamp": "2026-06-28T12:29:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is travel insurance worth it? Here's when to get travel insurance.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/is-travel-insurance-worth-it-212547618.html",
+      "is_watchlist": false,
+      "timestamp": "2026-03-03T21:25:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
