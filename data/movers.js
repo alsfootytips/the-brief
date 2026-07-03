@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T17:52:13.520621+00:00",
+  "generated_at": "2026-07-03T19:23:26.596291+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
+      "move_reason": "News: \"Applied Digital Continues Heavy Capital Spending: What's Ahead?\""
     },
     {
       "ticker": "PWR",
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oklo Advances Groves Isotope Test Reactor With Key DOE Safety Approval\""
+      "move_reason": "News: \"2 High-Flying Stocks with Competitive Advantages and 1 We Turn Down\""
     },
     {
       "ticker": "SOFI",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
+      "move_reason": "News: \"Applied Digital Continues Heavy Capital Spending: What's Ahead?\""
     },
     {
       "ticker": "DG",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oklo Advances Groves Isotope Test Reactor With Key DOE Safety Approval\""
+      "move_reason": "News: \"2 High-Flying Stocks with Competitive Advantages and 1 We Turn Down\""
     },
     {
       "ticker": "IWM",
