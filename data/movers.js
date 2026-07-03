@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T07:36:32.542273+00:00",
+  "generated_at": "2026-07-03T10:18:57.148859+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -165,9 +165,9 @@ window.theBriefMovers = {
     {
       "ticker": "VWRP.L",
       "name": "VWRP.L",
-      "price": 142.04,
-      "change_pct": 0.58,
-      "volume_ratio": 0.2,
+      "price": 141.88,
+      "change_pct": 0.47,
+      "volume_ratio": 0.46,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will GE Vernova (GEV) Beat Estimates Again in Its Next Earnings Report?\""
+      "move_reason": "News: \"Jim Cramer on GE Vernova: \u201cI Believe In Scott Strazik\u201d\""
     },
     {
       "ticker": "SOFI",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jobs Disappoint, Market Gives Two Cheers\""
+      "move_reason": "News: \"Rates Spark: Resumed Steepening Impulse\""
     },
     {
       "ticker": "SPY",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will GE Vernova (GEV) Beat Estimates Again in Its Next Earnings Report?\""
+      "move_reason": "News: \"Jim Cramer on GE Vernova: \u201cI Believe In Scott Strazik\u201d\""
     },
     {
       "ticker": "IWM",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jobs Disappoint, Market Gives Two Cheers\""
+      "move_reason": "News: \"Rates Spark: Resumed Steepening Impulse\""
     },
     {
       "ticker": "NBIS",

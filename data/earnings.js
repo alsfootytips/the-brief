@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-03T07:36:32+00:00",
+  "generated_at": "2026-07-03T10:18:57+00:00",
   "by_date": {
     "2026-07-03": [
       {
@@ -807,14 +807,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "KRC",
-        "date": "2026-07-13",
-        "hour": "",
-        "eps_estimate": 0.4114,
-        "revenue_estimate": 271264668,
-        "is_watchlist": false
-      },
-      {
         "ticker": "LEXX",
         "date": "2026-07-13",
         "hour": "",
@@ -1092,16 +1084,16 @@ window.theBriefEarnings = {
         "ticker": "KMTS",
         "date": "2026-07-14",
         "hour": "",
-        "eps_estimate": -0.6076,
-        "revenue_estimate": 27008580,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "KMTS",
         "date": "2026-07-14",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.6076,
+        "revenue_estimate": 27008580,
         "is_watchlist": false
       },
       {
@@ -1240,6 +1232,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.623,
         "revenue_estimate": 295406280,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "JBHT",
+        "date": "2026-07-15",
+        "hour": "amc",
+        "eps_estimate": 1.7377,
+        "revenue_estimate": 3251202192,
         "is_watchlist": false
       },
       {
