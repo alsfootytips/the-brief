@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-03T14:42:34.260588+00:00",
+  "generated_at": "2026-07-03T16:15:36.111726+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -79,7 +79,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Stock Moves 1.54%: What You Should Know\""
+      "move_reason": "News: \"2 Cash-Producing Stocks with Exciting Potential and 1 Facing Challenges\""
     },
     {
       "ticker": "OXY",
@@ -91,7 +91,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental to Announce Second Quarter Results Wednesday, August 5, 2026; Hold Conference C...\""
+      "move_reason": "News: \"Can OXY's Robust Proved Reserves Strengthen Its Long-Term Returns?\""
     },
     {
       "ticker": "MSFT",
@@ -139,18 +139,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 142.16,
-      "change_pct": 0.67,
-      "volume_ratio": 0.78,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 53.14,
@@ -173,6 +161,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "Tracking XLV sector (+2.63% today)"
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.06,
+      "change_pct": 0.59,
+      "volume_ratio": 0.86,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week Of July 5\""
+      "move_reason": "News: \"Why EMCOR's Electrical Construction Is Gaining Momentum\""
     },
     {
       "ticker": "XLK",
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer on GE Vernova: \u201cI Believe In Scott Strazik\u201d\""
+      "move_reason": "News: \"Oklo Advances Groves Isotope Test Reactor With Key DOE Safety Approval\""
     },
     {
       "ticker": "SOFI",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wage Growth As A Leading Inflation Indicator\""
+      "move_reason": "News: \"Household Survey Shows 500k Jobs Lost In June While Labor Force Participation Crashes To M...\""
     },
     {
       "ticker": "SPY",
@@ -375,7 +375,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Stock Moves 1.54%: What You Should Know\""
+      "move_reason": "News: \"2 Cash-Producing Stocks with Exciting Potential and 1 Facing Challenges\""
     },
     {
       "ticker": "CRWV",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer on GE Vernova: \u201cI Believe In Scott Strazik\u201d\""
+      "move_reason": "News: \"Oklo Advances Groves Isotope Test Reactor With Key DOE Safety Approval\""
     },
     {
       "ticker": "IWM",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wage Growth As A Leading Inflation Indicator\""
+      "move_reason": "News: \"Household Survey Shows 500k Jobs Lost In June While Labor Force Participation Crashes To M...\""
     },
     {
       "ticker": "NBIS",
@@ -471,7 +471,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental to Announce Second Quarter Results Wednesday, August 5, 2026; Hold Conference C...\""
+      "move_reason": "News: \"Can OXY's Robust Proved Reserves Strengthen Its Long-Term Returns?\""
     },
     {
       "ticker": "PWR",
@@ -483,7 +483,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week Of July 5\""
+      "move_reason": "News: \"Why EMCOR's Electrical Construction Is Gaining Momentum\""
     },
     {
       "ticker": "TPL",
@@ -817,12 +817,12 @@ window.theBriefMovers = {
       "change_pct": 1.85,
       "score": 4.5,
       "signals": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 7.6 (cheap on absolute basis)"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 7.6 (cheap on absolute basis)"
       ],
