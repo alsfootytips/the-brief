@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T21:28:24.695222+00:00",
+  "generated_at": "2026-07-04T22:31:13.546346+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d\""
+      "move_reason": "News: \"Why July Could Be a Big Month for AMD Stock Investors\""
     },
     {
       "ticker": "CRWV",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d\""
+      "move_reason": "News: \"Why July Could Be a Big Month for AMD Stock Investors\""
     },
     {
       "ticker": "APA",

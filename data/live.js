@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T21:28:24.700793+00:00",
+  "generated_at": "2026-07-04T22:31:13.551846+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T21:28:24.697724+00:00",
+      "timestamp": "2026-07-04T22:31:13.548819+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T21:28:24.697720+00:00",
+      "timestamp": "2026-07-04T22:31:13.548815+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T21:28:24.697709+00:00",
+      "timestamp": "2026-07-04T22:31:13.548805+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T21:28:24.697700+00:00",
+      "timestamp": "2026-07-04T22:31:13.548797+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -52,35 +52,102 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "headline": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T22:12:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T22:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T22:06:42+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "North Korea\u2019s Kim observed naval destroyer cruise missile launch, weapons tests, state media says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/north-koreas-kim-observed-naval-destroyer-cruise-missile-launch-weapons-tests-state-media-says-4775386",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T22:06:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could Canopy Growth Stock Deliver a 4X Gain? 1 Analyst Thinks So.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-canopy-growth-stock-deliver-220200985.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T22:02:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paul Pelosi faces hit-and-run charge after striking parked vehicle in California, media reports say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/paul-pelosi-faces-hitandrun-charge-after-striking-parked-vehicle-in-california-media-reports-say-4775385",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T21:42:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T20:56:00+00:00",
+      "timestamp": "2026-07-04T21:40:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-nearly-flat-2026-205000376.html",
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4775384",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T20:50:00+00:00",
+      "timestamp": "2026-07-04T21:20:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "MicroStrategy CEO Calls Bitcoin \u2018United States of Money\u2019",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-ceo-calls-bitcoin-united-204529285.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:45:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "1 Reason to Buy This Wide-Moat Stock Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0539236130317e8b6547f9d9a7fd231adf88bf89c310fe19f0aa23cdedb4f5b8",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -92,19 +159,43 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-he-spoke-to-trump-calls-for-american-resolve-to-help-end-war-4775383",
       "is_watchlist": true,
-      "timestamp": "2026-07-04T20:36:25+00:00",
+      "timestamp": "2026-07-04T21:12:27+00:00",
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d05fbd40ebe87af4c8bd4a10009299600a7badf0d830da3d9ed3b5505bbe756",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T21:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia (NVDA) Backs Verkada And Brings In A Microsoft Veteran To Lead Sales",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b13333875bf3e3c3e8afeeb55b8817d089b3c8c1ba6f5e7c5078a19b4c5e059a",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T21:09:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
-      "headline": "Death toll from Venezuela quakes rises to 2,954",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
+      "headline": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T20:30:28+00:00",
+      "timestamp": "2026-07-04T20:56:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -132,47 +223,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US VP Vance says Britain has been failed by leaders, hopes next PM delivers change",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-vp-vance-says-britain-has-been-failed-by-leaders-hopes-next-pm-delivers-change-4775380",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:18:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Masked Patriot Front white nationalists stage July 4 march through DC",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/masked-patriot-front-white-nationalists-stage-july-4-march-through-dc-4775379",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:12:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman revises its USD/JPY forecasts. Here are the new targets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/goldman-revises-its-usdjpy-forecasts-here-are-the-new-targets-4775378",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:06:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/pope-leo-marks-us-anniversary-with-migrant-appeal-on-lampedusa-4775352",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:06:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Why July Could Be a Big Month for AMD Stock Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b07473a196580869157d9d639bd5c276d2c4b52538fca0eb81a3f1849639e008",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T20:19:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -184,42 +243,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-04T20:02:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69542191f9f298aec15d372200408687117964240e51adfd6890bd910096a5ce",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T19:37:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Rocket Lab Stock Skyrocketed Last Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7f969f4c0712cc063695fa491fc6511aa2a2cc400e6af2372a25b0c3a9fe1d1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T19:29:10+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Warren Buffett's Berkshire Hathaway Owns $41 Billion of Alphabet Stock: Here Are 3 Possible Reasons Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40634b645076774e7b8d95e5e8c2a6cb59753eb35f66a35dc7f85f40e8b84dae",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T19:20:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -323,6 +346,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Photos of the week - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13ZXp6OWxrX0JSQnVYQU5YVVdiRlFqUUlPdkg1X3oxMHVXdVMtS0FSMTZQQ0dJM2hwV2tUaU1nU1pzeFhOekhnV3RhcHM5dENaaEVnbjdGdXExOWs1bUZCaGN1b19YMEE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:35:36+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule \u2014 just in time for hail and hurricane season",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
@@ -375,17 +409,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Want to live longer in retirement? This one money move could add years to your life.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/want-to-live-longer-in-retirement-this-one-money-move-could-add-years-to-your-life-e8f2b4ba?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T17:38:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -682,17 +705,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Photos of the week - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13ZXp6OWxrX0JSQnVYQU5YVVdiRlFqUUlPdkg1X3oxMHVXdVMtS0FSMTZQQ0dJM2hwV2tUaU1nU1pzeFhOekhnV3RhcHM5dENaaEVnbjdGdXExOWs1bUZCaGN1b19YMEE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T07:38:06+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
@@ -722,18 +734,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-03T22:08:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e747eda1ce757109ad3627b6fcac3db5afaf34274031044a18d2038aefc534f",
-      "is_watchlist": true,
-      "timestamp": "2026-07-03T18:47:11+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
