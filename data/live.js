@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T16:42:56.554600+00:00",
+  "generated_at": "2026-07-04T17:46:52.462084+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T16:42:56.551587+00:00",
+      "timestamp": "2026-07-04T17:46:52.459038+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T16:42:56.551583+00:00",
+      "timestamp": "2026-07-04T17:46:52.459034+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T16:42:56.551572+00:00",
+      "timestamp": "2026-07-04T17:46:52.459024+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,76 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T16:42:56.551563+00:00",
+      "timestamp": "2026-07-04T17:46:52.459015+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Want to live longer in retirement? This one money move could add years to your life.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/want-to-live-longer-in-retirement-this-one-money-move-could-add-years-to-your-life-e8f2b4ba?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:38:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Procter & Gamble vs Colgate-Palmolive: Two Consumer Giants, Two Strategies, One Invests, Other Optimizes",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-vs-colgate-palmolive-173042715.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:30:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I Want to Become Financially Independent in 5 Years: Here's My 3-Part Plan to Reach That Bold Goal.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/want-become-financially-independent-5-172500773.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:25:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:22:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trending stocks this week as rate-cut hopes lift markets while tech remains volatile",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611507-trending-stocks-this-week-as-rate-cut-hopes-lift-markets-while-tech-remains-volatile?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:15:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -56,8 +122,52 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T16:30:30+00:00",
+      "timestamp": "2026-07-04T17:12:24+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cardano Climbs 12% In Rally",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-12-in-rally-4775372",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:08:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:08:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SK Hynix reportedly eyeing 0.5% fee rate in Nasdaq debut",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611506-sk-hynix-eyeing-05-fee-rate-in-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:01:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thousands protest in Germany as far-right AfD sets sights on power",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thousands-protest-in-germany-against-farright-afd-4775345",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T16:54:27+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -79,28 +189,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/whats-a-soft-off-day-how-to-take-one-without-getting-in-trouble-at-work-10706631?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-04T16:27:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Is Everyone Talking About SentinelOne Stock Right Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-everyone-talking-sentinelone-stock-162000886.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T16:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "International gold and silver dealer files Chapter 11 bankruptcy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/international-gold-silver-dealer-files-161700430.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T16:17:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -213,32 +301,6 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ViRlNyVWgyNWhQRFFuQ3A3SHhQV3VyRmxDQlBEQnVZVU1jdk5ZdEhMVHhSeHZZR2FYTk94cFM5THdSRHV5c25EQjJ4cFJaZHhFVTNWaG1IUEQxTDBGYU5Ca2syUE5oQUM5UUJ6bm1IeEdBS0phcjl1MUVhd1VFV3k5VDN5MG9Ea0lQNzZvSTY0MHlzTVMycWJpSWgwNGZjUGlVVVhRSjQ0VHo2bG5tYm93?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T15:19:25+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thousands protest in Germany as far-right AfD sets sights on power",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/thousands-protest-in-germany-against-farright-afd-4775345",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T15:18:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
       "headline": "Turkey\u2019s Erdogan says Israel must not scupper US-Iran deal",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/turkeys-erdogan-says-israel-must-not-scupper-usiran-deal-4775370",
@@ -258,6 +320,21 @@ window.theBriefLive = {
       "timestamp": "2026-07-04T15:10:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ViRlNyVWgyNWhQRFFuQ3A3SHhQV3VyRmxDQlBEQnVZVU1jdk5ZdEhMVHhSeHZZR2FYTk94cFM5THdSRHV5c25EQjJ4cFJaZHhFVTNWaG1IUEQxTDBGYU5Ca2syUE5oQUM5UUJ6bm1IeEdBS0phcjl1MUVhd1VFV3k5VDN5MG9Ea0lQNzZvSTY0MHlzTVMycWJpSWgwNGZjUGlVVVhRSjQ0VHo2bG5tYm93?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T15:09:43+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -410,39 +487,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Notable tech headlines for the week: Meta, Micron, Palantir in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609900-notable-tech-headlines-for-the-week-meta-micron-palantir-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:10:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "St Petersburg region oil terminal hit in major Ukrainian drone attack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/st-petersburg-region-hit-by-major-ukrainian-drone-attack-russian-officials-say-4775344",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:06:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable analyst calls this week: Palantir, Chevron and Morgan Stanley among top picks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609772-notable-analyst-calls-this-week-palantir-chevron-and-morgan-stanley-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:05:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Services, Inc. (PWR) Gains Growth Momentum with Index Shift and PT Raise",
       "source": "Yahoo",
@@ -461,6 +505,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=ab46ba21612c9a54da56c7d412fdbccd02c06e042c6ea1def5cb1ce87f07d417",
       "is_watchlist": true,
       "timestamp": "2026-07-04T13:23:36+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "The 1-Minute Market Report, July 4, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T13:13:07+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -559,18 +615,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Weekly Commentary: Our Semiquincentennial Gilded Age",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bfc17136e91424f8e980df09a2399474e69e5f74d3836245d636e24c7599ae1b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T10:10:32+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "UK and France agree with Oman to ensure safety of its territorial waters",
       "source": "CNBC Top",
@@ -654,50 +698,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-03T19:34:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T19:32:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Opening a \u2018Trump account\u2019 for your children? Here is the risk you need to reckon with first.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T19:10:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T19:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T18:52:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

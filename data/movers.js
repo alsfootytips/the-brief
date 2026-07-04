@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T16:42:56.549098+00:00",
+  "generated_at": "2026-07-04T17:46:52.456574+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake\""
+      "move_reason": "News: \"The 1-Minute Market Report, July 4, 2026\""
     },
     {
       "ticker": "SPY",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake\""
+      "move_reason": "News: \"The 1-Minute Market Report, July 4, 2026\""
     },
     {
       "ticker": "NBIS",
