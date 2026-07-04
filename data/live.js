@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T11:12:07.699581+00:00",
+  "generated_at": "2026-07-04T12:19:18.683988+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T11:12:07.696613+00:00",
+      "timestamp": "2026-07-04T12:19:18.681025+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T11:12:07.696609+00:00",
+      "timestamp": "2026-07-04T12:19:18.681021+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T11:12:07.696598+00:00",
+      "timestamp": "2026-07-04T12:19:18.681010+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,200 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T11:12:07.696590+00:00",
+      "timestamp": "2026-07-04T12:19:18.681001+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Immersion declares $0.075 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611499-immersion-declares-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:07:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran conflict strengthens case for power, metals over oil: strategist",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/iran-conflict-strengthens-case-for-power-metals-over-oil-strategist-4775367",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:07:22+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X US Electrification ETF declares $0.1684 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611498-global-x-us-electrification-etf-declares-0_1684-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:06:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X SuperDividend REIT ETF declares $0.153 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611497-global-x-superdividend-reit-etf-declares-0_153-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:06:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thousands protest in Germany against far-right AfD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thousands-protest-in-germany-against-farright-afd-4775345",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:06:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X MSCI SuperDividend EAFE ETF declares $0.09 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611496-global-x-msci-superdividend-eafe-etf-declares-0_09-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:06:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X Alternative Income ETF declares $0.079 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611495-global-x-alternative-income-etf-declares-0_079-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:06:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fomento Economico Mexicano declares $1.827 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611494-fomento-economico-mexicano-declares-1_827-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:03:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vantage Introduces 24/7 Gold CFD Trading with XAUUSD247",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/vantage-introduces-247-gold-cfd-trading-with-xauusd247-4775366",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T12:00:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK\u2019s Next plans takeover bid for Harvey Nichols, Sky News reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/uks-next-plans-takeover-bid-for-harvey-nichols-sky-news-reports-4775353",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T11:42:24+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/pope-leo-marks-us-anniversary-with-migrant-appeal-on-lampedusa-4775352",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T11:36:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why I'm Loading Up on QQQ in 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b13480096ac2b8f0155a74d1c890b7c7c7c2a4ef37854a28f1b2f6f8faac5610",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T11:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FatFIRE Addresses Growing Demand for Private Financial Communities Among High-Net-Worth Investors",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/press-releases/fatfire-addresses-growing-demand-for-private-financial-communities-among-highnetworth-investors-4775365",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T11:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The S&P 500 Is Up 10% in 2026 -- What Long-Term Investors Should Do Next",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ef3e90d4940f049821f7c552e3498b2f20dd46e09888a214b8d6be25bb15bd1",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T11:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a692748faebc54b8c71ff2c40c4a7e877c6171b3df6de60233e5f5880cc0296",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T11:15:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fortune Brands stock surges 64% after Fair Value signal spots opportunity",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/fortune-brands-stock-surges-64-after-fair-value-signal-spots-opportunity-93CH-4775364",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T11:09:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro warned BMNR was overvalued\u2014stock plunged 57%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpro-warned-bmnr-was-overvaluedstock-plunged-57-93CH-4775363",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T11:02:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -60,94 +250,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Korea\u2019s KOSPI P/E valuation falls to lowest since global financial crisis",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/koreas-kospi-pe-valuation-falls-to-lowest-since-global-financial-crisis-4775362",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:44:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump to mark U.S. 250th anniversary with campaign-style rally on National Mall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:42:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump extols America, rails at communism in US 250th celebration",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-extols-america-rails-at-communism-in-us-250th-celebration-4775337",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:30:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/pope-leo-marks-us-anniversary-with-migrant-appeal-on-lampedusa-4775352",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:18:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "For one small business, AI was key to a quick start and expansion",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/for-one-small-business-ai-was-key-to-a-quick-start-and-expansion-4775360",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:18:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zelenskiy denies Russian capture of key eastern city Kostiantynivka",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/zelenskiy-denies-russian-capture-of-key-eastern-city-kostiantynivka-4775361",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:12:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "When their interests align, Trump and Roberts both win at Supreme Court",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/when-their-interests-align-trump-and-roberts-both-win-at-supreme-court-4775358",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:06:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump Accounts to debut as US kicks off 250th Independence Day celebrations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-accounts-to-debut-as-us-kicks-off-250th-independence-day-celebrations-4775357",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T10:06:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -173,42 +275,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Here's What to Expect for Cardano in July",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8eab22463c563d779d152c0719b939cad99af002706f18dd590d2eebedc53497",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T09:27:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Better Crypto Buy: Solana vs. Hyperliquid",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=739625a10c1fcd7979d793a08f9d4c841b2d41fee3048e902180a2d9d574c5ec",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T09:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Stock Market Just Did Something Last Seen in 2020. It Signals a Big Move in the Next Year.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2004f6b43a6ae5dc02c526769a25c2fe4367e561b86d83bad185924d6539611a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T09:08:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
       "source": "CNBC Top",
@@ -226,17 +292,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4609904-largest-u-s-power-grid-orders-emergency-curbs-to-avoid-blackouts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-04T02:45:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GFL Environmental weighing potential take-private deal - Bloomberg",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609903-gfl-environmental-weighing-potential-take-private-deal-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T02:07:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -305,17 +360,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-03T19:10:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Catalyst Watch: SpaceX initiations, Sun Valley Conference, PepsiCo earnings",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609050-catalyst-watch-spacex-initiations-sun-valley-conference-pepsico-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T19:00:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -399,17 +443,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SA Asks: What's next for telecommunications stocks?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609792-sa-asks-whats-next-for-telecommunications-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T17:00:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5",
@@ -465,39 +498,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuveen Multi-Asset Income Fund declares $0.116 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609896-nuveen-multi-asset-income-fund-declares-0_116-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T16:23:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuveen Real Asset Income and Growth Fund declares $0.1335 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609895-nuveen-real-asset-income-and-growth-fund-declares-0_1335-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T16:23:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuveen Core Plus Impact Fund declares $0.0895 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609894-nuveen-core-plus-impact-fund-declares-0_0895-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T16:23:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -830,77 +830,99 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "What to Expect From PACCAR\u2019s Q2 2026 Earnings Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-paccar-q2-2026-earnings-104019033.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:40:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin ETFs Snap 10-Day Outflow Streak With $221.7 Million Inflow",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-snap-10-day-103919402.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:39:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What to Expect From Ecolab's Q2 2026 Earnings Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-ecolabs-q2-2026-earnings-103804741.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:38:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What to Expect From RTX Corporation's Q2 2026 Earnings Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-rtx-corporations-q2-2026-103527808.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:35:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sherwin-Williams\u2019 Quarterly Earnings Preview: What You Need to Know",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-quarterly-earnings-preview-103509101.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:35:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Poor, hungry, driven': Billionaire Michael Lee-Chin says rich people become wealthy by doing 5 simple things",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/poor-hungry-driven-billionaire-michael-103500881.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "1 Incredible Autonomous Vehicle Stock to Buy Instead of Tesla",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-autonomous-vehicle-stock-103000180.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoStar Group's Q2 2026 Earnings: What to Expect",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/costar-groups-q2-2026-earnings-102829641.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T10:28:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-03T09:50:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Global equity fund inflows rise as investors add tech stocks after market dip",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-rise-094754157.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T09:47:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Centene's Quarterly Earnings Preview: What You Need to Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/centenes-quarterly-earnings-preview-know-094041312.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T09:40:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alibaba, Tencent back Kuaishou's Kling AI in $2.8 billion fundraise",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-tencent-back-kuaishous-kling-093538982.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T09:35:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI chatbots push premium credit cards 5.7x more than cheap ones \u2014 and pull from the same few affiliate sites",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ai-chatbots-push-premium-credit-093000681.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T09:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why a Couple Lost a $200,000 Tax Battle Over Their Horses",
-      "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/personal-finance/taxes/why-a-couple-lost-a-200-000-tax-battle-over-their-horses-3ca05774?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T09:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tech, Media & Telecom Roundup: Market Talk",
-      "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T09:29:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -935,17 +957,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply",
       "is_watchlist": false,
       "timestamp": "2026-07-03T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intuitive Surgical\u2019s Quarterly Earnings Preview: What You Need to Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/intuitive-surgical-quarterly-earnings-preview-085244557.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T08:52:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1085,17 +1096,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fewer renters are falling behind on payments, but their financial stress might be growing in other ways",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/article/fewer-renters-are-falling-behind-on-payments-but-their-financial-stress-might-be-growing-in-other-ways-100000072.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

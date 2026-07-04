@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T11:12:07.694133+00:00",
+  "generated_at": "2026-07-04T12:19:18.678516+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -117,6 +117,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 44.68,
+      "change_pct": 1.13,
+      "volume_ratio": 0.83,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 527.88,
@@ -157,18 +168,6 @@ window.theBriefMovers = {
       "price": 142.06,
       "change_pct": 0.59,
       "volume_ratio": 0.86,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 108.46,
-      "change_pct": 0.3,
-      "volume_ratio": 0.75,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -618,6 +617,16 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 44.68,
+      "change_pct": 1.13,
+      "volume_ratio": 0.83,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 53.14,
@@ -946,6 +955,13 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "change_pct": 1.53,
       "price": 55.62,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "change_pct": 1.13,
+      "price": 44.68,
       "watchlist_members": []
     },
     {
