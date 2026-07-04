@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T04:11:29.803724+00:00",
+  "generated_at": "2026-07-04T07:15:42.381631+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -167,7 +167,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 142.06,
       "change_pct": 0.59,
-      "volume_ratio": 0.96,
+      "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Midyear Economic Check-In: A World Diverging\""
+      "move_reason": "News: \"At 250, The Bull Case For America Is Solid As Ever\""
     },
     {
       "ticker": "SPY",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Midyear Economic Check-In: A World Diverging\""
+      "move_reason": "News: \"At 250, The Bull Case For America Is Solid As Ever\""
     },
     {
       "ticker": "NBIS",
