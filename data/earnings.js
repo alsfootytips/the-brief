@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-04T07:15:42+00:00",
+  "generated_at": "2026-07-04T09:33:17+00:00",
   "by_date": {
     "2026-07-06": [
       {
@@ -1550,16 +1550,16 @@ window.theBriefEarnings = {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "",
-        "eps_estimate": -0.1734,
-        "revenue_estimate": 0,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.1734,
+        "revenue_estimate": 0,
         "is_watchlist": false
       },
       {
@@ -1680,14 +1680,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 5.4593,
         "revenue_estimate": 1854822784,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SCHL",
-        "date": "2026-07-16",
-        "hour": "",
-        "eps_estimate": 2.2287,
-        "revenue_estimate": 527405280,
         "is_watchlist": false
       },
       {
