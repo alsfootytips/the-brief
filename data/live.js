@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T00:17:07.485220+00:00",
+  "generated_at": "2026-07-04T04:11:29.809356+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T00:17:07.482190+00:00",
+      "timestamp": "2026-07-04T04:11:29.806253+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T00:17:07.482186+00:00",
+      "timestamp": "2026-07-04T04:11:29.806250+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T00:17:07.482175+00:00",
+      "timestamp": "2026-07-04T04:11:29.806239+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T00:17:07.482166+00:00",
+      "timestamp": "2026-07-04T04:11:29.806230+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -52,34 +52,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taylor Swift marries Travis Kelce, spokesperson says",
+      "headline": "Tibet-born activist dies after self-immolation outside UN headquarters",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/taylor-swift-marries-travis-kelce-spokesperson-says-4775327",
+      "url": "https://www.investing.com/news/economy-news/tibetborn-activist-dies-after-selfimmolation-outside-un-headquarters-4775335",
       "is_watchlist": false,
-      "timestamp": "2026-07-03T23:54:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Here's How Many Shares of Coca-Cola You'd Need for $5,000 in Yearly Dividends",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9545ee2db35e31d70f015613d1e8ea6294cc61bc27c32644e2feb072e0752e16",
-      "is_watchlist": true,
-      "timestamp": "2026-07-03T23:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Which Retailer Can Deliver My Order the Fastest?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/which-retailer-can-deliver-my-order-the-fastest-4775326",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T23:41:03+00:00",
+      "timestamp": "2026-07-04T03:13:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -90,18 +67,62 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/heat-wave-disrupts-fourth-of-july-events-across-eastern-us-4775312",
       "is_watchlist": false,
-      "timestamp": "2026-07-03T23:36:45+00:00",
+      "timestamp": "2026-07-04T02:48:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Largest U.S. power grid orders emergency curbs to avoid blackouts",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4609904-largest-u-s-power-grid-orders-emergency-curbs-to-avoid-blackouts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T02:45:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Will a DT/TMUS merger really go ahead?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/will-a-dttmus-merger-really-go-ahead-4775334",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T02:41:13+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GFL Environmental weighing potential take-private deal - Bloomberg",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4609903-gfl-environmental-weighing-potential-take-private-deal-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T02:07:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European NATO allies replace most U.S. force cuts, commander says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/european-nato-allies-replace-most-us-force-cuts-commander-says-4775332",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T01:58:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Why Figure Technology Solutions Stock Zoomed More Than 21% Higher This Week",
+      "headline": "Why FNGU\u2019s 0.95% Fee Is Only Half the Hidden Cost",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8850a4bb8518f4b3688e13bac12cf64f06df9565b3cf6aea1c2388c658cdaa05",
+      "url": "https://finnhub.io/api/news?id=e6f642e44a1f2c8d8c0481f166e7dc36a190dcb4ce1f8e028ebe121e99f79997",
       "is_watchlist": true,
-      "timestamp": "2026-07-03T23:31:35+00:00",
+      "timestamp": "2026-07-04T01:40:26+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -109,70 +130,82 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "How Dell Technologies Inc.\u2019s (DELL) AI Server Guidance Reset Is Driving Its Earnings Estimate Momentum",
+      "headline": "You Won't Regret Buying These 3 Dividend Stocks in July",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=73ae76b2c2bc7b80a76a4592d595a2ffb12ab2a79c8d840839ce406193d078fd",
+      "url": "https://finnhub.io/api/news?id=3398f0202cfa9ceb6ab4dc079adc6997e44199463fed431a752ab1184deb0b12",
       "is_watchlist": true,
-      "timestamp": "2026-07-03T23:30:35+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
+      "timestamp": "2026-07-04T01:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Fed\u2019s Warsh vows to \u2019disappoint\u2019 anyone who thinks he will tolerate inflation above 2%",
+      "headline": "Andy Burnham set to become UK prime minister after Starmer exit",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/feds-warsh-vows-to-disappoint-anyone-who-thinks-he-will-tolerate-inflation-above-2-4775325",
+      "url": "https://www.investing.com/news/economy-news/andy-burnham-set-to-become-uk-prime-minister-after-starmer-exit-4775331",
       "is_watchlist": false,
-      "timestamp": "2026-07-03T23:30:25+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eastern US power grid operator orders emergency curbs as electricity use nears record",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/largest-us-power-grid-pjm-escalates-emergency-actions-to-avoid-blackouts-4775310",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T23:18:52+00:00",
+      "timestamp": "2026-07-04T01:16:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russian forces claim capture of Kostiantynivka in eastern Ukraine",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/russian-forces-claim-capture-of-kostiantynivka-in-eastern-ukraine-4775324",
+      "headline": "Feds seek lower prison term for $100M New Jersey deli fraudster \u2014 but some reasons why are hidden",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-03T23:03:12+00:00",
+      "timestamp": "2026-07-04T01:04:34+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Tesla Beat Delivery Estimates by 74,000 Vehicles -- and the Stock Had Its Worst Day in Nearly a Year. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c616ee7ddeb9f89c4647be8ff13cda393dbccba181ca91abfb58d4a6b533c3ee",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T01:02:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taylor Swift-Travis Kelce: their biggest plays, on and off the field",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/taylor-swifttravis-kelce-their-biggest-plays-on-and-off-the-field-4775330",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T00:54:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Canfor completes acquisition of PinkWood I-joist facility",
+      "headline": "Trump pardons 11, most for violating Clean Air Act",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/canfor-completes-acquisition-of-pinkwood-ijoist-facility-93CH-4775323",
+      "url": "https://www.investing.com/news/politics-news/trump-pardons-11-most-for-violating-clean-air-act-4775329",
       "is_watchlist": false,
-      "timestamp": "2026-07-03T22:04:51+00:00",
+      "timestamp": "2026-07-04T00:48:26+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.02%",
+      "headline": "Iran\u2019s Supreme Leader\u2019s funeral begins as Hormuz security remains in focus",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-002-4775321",
+      "url": "https://www.investing.com/news/economy-news/irans-supreme-leaders-funeral-begins-as-hormuz-security-remains-in-focus-4775328",
       "is_watchlist": false,
-      "timestamp": "2026-07-03T21:30:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-07-04T00:27:22+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -194,17 +227,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-03T19:34:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Feds seek lower prison term for $100 million New Jersey deli fraudster \u2014 but some reasons why are hidden",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T19:33:26+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -451,28 +473,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4609894-nuveen-core-plus-impact-fund-declares-0_0895-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-03T16:23:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuveen Global High Income Fund declares $0.1035 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609893-nuveen-global-high-income-fund-declares-0_1035-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T16:22:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuveen Mortgage and Income Fund declares $0.1535 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609892-nuveen-mortgage-and-income-fund-declares-0_1535-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T16:22:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -943,6 +943,94 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Retail Investors Are Buying This Space Stock, and It\u2019s Not SpaceX (SPCX)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-buying-space-stock-213311540.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:33:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Forget SpaceX (SPCX) and Buy This Ecommerce Stock Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-spacex-spcx-buy-ecommerce-213100887.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should Long-Term Investors Buy Microsoft (MSFT) Instead of SpaceX (SPCX)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/long-term-investors-buy-microsoft-212439742.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:24:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can SpaceX Stock Sustain Its Stellar Valuation?",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/can-spacex-stock-sustain-its-stellar-valuation/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:21:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Auto & Transport Roundup: Market Talk",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/finance/stocks/auto-transport-roundup-market-talk-6073dcc9?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:13:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Financial Services Roundup: Market Talk",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-872c49e3?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-tesla-deliveries-tsla-stock/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:02:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-latest-deliveries-report-exceeded-210029673.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-02T21:00:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
@@ -995,87 +1083,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citizens Maintains Market Perform Rating on Atlassian Corporation (TEAM)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citizens-maintains-market-perform-rating-170807197.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T17:08:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kyndryl Expands Sovereignty Solutioning with Microsoft (MSFT)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-expands-sovereignty-solutioning-microsoft-170757362.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T17:07:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Salesforce (CRM) Receives Mixed Ratings from Analysts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-receives-mixed-ratings-170755847.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T17:07:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "The White House said Trump 'lost money' in office \u2014 then his disclosure revealed $2.2 billion in 2025 earnings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-said-trump-lost-165251196.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-02T16:52:51+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "With Caterpillar Stock In An Uptrend, Build Bullish Exposure With This Spread Trade",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/options/caterpillar-stock-cat-construction-equipment-markets-options-income-investing-trading/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T16:46:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir CEO: \u201cSomething Has Gone Completely Wrong\u201d In AI. Alex Karp Says Enterprises Are Paying To Lose Their Competitive Edge",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-something-gone-completely-164303371.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T16:43:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron\u2019s CEO Says Even His Own Customers Couldn\u2019t See This Coming. Now He\u2019s Spending $200 Billion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/micron-ceo-says-even-own-164253775.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-02T16:42:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1248,17 +1255,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/06/30/nx-s1-5862777/how-to-spend-less-money-restaurants-takeout",
       "is_watchlist": false,
       "timestamp": "2026-06-30T14:07:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "June jobs report live updates: US labor market slows from a 'sprint' to a 'jog'",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/live/june-jobs-report-live-updates-us-labor-market-slows-from-a-sprint-to-a-jog-121350875.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-30T12:13:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
