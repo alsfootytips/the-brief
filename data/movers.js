@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T12:19:18.678516+00:00",
+  "generated_at": "2026-07-04T14:09:45.941947+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -110,7 +110,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 55.62,
       "change_pct": 1.53,
-      "volume_ratio": 1.29,
+      "volume_ratio": 1.28,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -132,7 +132,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 527.88,
       "change_pct": 1.05,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"At 250, The Bull Case For America Is Solid As Ever\""
+      "move_reason": "News: \"Financial Independence Day: How Many Reach $1 Million?\""
     },
     {
       "ticker": "SPY",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"At 250, The Bull Case For America Is Solid As Ever\""
+      "move_reason": "News: \"Financial Independence Day: How Many Reach $1 Million?\""
     },
     {
       "ticker": "NBIS",
@@ -528,7 +528,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 527.88,
       "change_pct": 1.05,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -611,7 +611,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 55.62,
       "change_pct": 1.53,
-      "volume_ratio": 1.29,
+      "volume_ratio": 1.28,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
