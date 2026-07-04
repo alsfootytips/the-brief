@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T17:46:52.462084+00:00",
+  "generated_at": "2026-07-04T19:13:58.391375+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T17:46:52.459038+00:00",
+      "timestamp": "2026-07-04T19:13:58.388381+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T17:46:52.459034+00:00",
+      "timestamp": "2026-07-04T19:13:58.388377+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T17:46:52.459024+00:00",
+      "timestamp": "2026-07-04T19:13:58.388366+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,120 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T17:46:52.459015+00:00",
+      "timestamp": "2026-07-04T19:13:58.388357+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T19:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why a founder at age 50 is twice as likely to find success as one at age 30",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:56:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prediction: SpaceX Stock Will Hit This Price by the End of 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-stock-hit-price-185000522.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why June\u2019s jobs and inflation data are bullish for bonds",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:37:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Higher-for-Longer Rates Are a Gift for Life Insurers. MetLife and Prudential Are Cashing In.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/higher-longer-rates-gift-life-183500490.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Justice Department says Adani case should end because of foreign jurisdiction, small chance of success",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/justice-department-says-adani-case-should-end-because-of-foreign-jurisdiction-small-chance-of-success-4775373",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:24:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule \u2014 just in time for hail and hurricane season",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:19:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "StubHub under investigation in Texas over \u201cghost ticketing\u201d charges",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611508-stubhub-being-probed-ghost-ticketing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T18:10:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Where can I invest my kid\u2019s \u2018Trump account\u2019 money? The Treasury Department just answered that question.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:59:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jelly Roll\u2019s ex-wife Bunnie Xo says he gave her their $6 million Tennessee estate in divorce",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jelly-rolls-ex-wife-bunnie-xo-says-he-gave-her-their-6-million-tennessee-estate-in-divorce-97a6c910?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T17:57:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -62,14 +172,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
+      "headline": "Oil Price Crash: 1 Top Oil Stock to Buy Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc413309ebc39952d8ac554b5a667d7a0f2bf4cfe298487886f3d26f40c1ad95",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T17:37:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
       "headline": "Procter & Gamble vs Colgate-Palmolive: Two Consumer Giants, Two Strategies, One Invests, Other Optimizes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-vs-colgate-palmolive-173042715.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f6176d4f87b6d1d047e126d21517c83768bb5cb02914667b08a8ad019114fba",
+      "is_watchlist": true,
       "timestamp": "2026-07-04T17:30:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -84,25 +207,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
       "headline": "I Want to Become Financially Independent in 5 Years: Here's My 3-Part Plan to Reach That Bold Goal.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/want-become-financially-independent-5-172500773.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=668a7c86db4e29b4b417e9c820dcf2f9768cbcc8da738b5732d90b04a784285c",
+      "is_watchlist": true,
       "timestamp": "2026-07-04T17:25:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T17:22:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -114,6 +227,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-04T17:15:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Should You Buy the Dip in CoreWeave Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23d43a4d192003f9400aed03d2f239ac33cf0aa5bad3e234c8fbce475bd1f49a",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T17:13:49+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -139,14 +264,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T17:08:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "CoreWeave (CRWV) Becomes BattleBots AI Cloud Partner For First Pro League",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7268e1074fb18a85398e91e1635242e59ed522cd244152acd6123247102d3d8c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T17:08:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -183,14 +309,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "What\u2019s a \u2018soft\u2019 off day? How to take one without getting in trouble at work.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/whats-a-soft-off-day-how-to-take-one-without-getting-in-trouble-at-work-10706631?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T16:27:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NBIS",
+      "headline": "Nebius Group (NBIS) Launches AI Cloud 3.6 With Echo For Natural Language Control",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc8d1097feb9a7ded10216b8ae582af83dacd12cf4e141bfac46014b01d472bc",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T16:14:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -260,40 +387,19 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Did Nebius Stock Jump 20% in June?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a8735bfe092f5c0e1bc048a1e410abe2dc3f137c4f8365fd5e89ec20a8e0d07",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ViRlNyVWgyNWhQRFFuQ3A3SHhQV3VyRmxDQlBEQnVZVU1jdk5ZdEhMVHhSeHZZR2FYTk94cFM5THdSRHV5c25EQjJ4cFJaZHhFVTNWaG1IUEQxTDBGYU5Ca2syUE5oQUM5UUJ6bm1IeEdBS0phcjl1MUVhd1VFV3k5VDN5MG9Ea0lQNzZvSTY0MHlzTVMycWJpSWgwNGZjUGlVVVhRSjQ0VHo2bG5tYm93?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-07-04T15:41:51+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: Coinbase Has Over 100% Upside as Cost Cuts and Volume Recovery Drive The Stock Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3dec2165d2092ba6a046d8fb7cc237f0169bc331d2470f14c052246ec432db5e",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T15:26:23+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Green Thumb Stock Oversold? The Case for 100% Upside.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85d89358cb95ca1f13d418c3970a71e0989dc7a9c6e9e9187811ff5551b90590",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T15:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "timestamp": "2026-07-04T15:19:25+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -320,21 +426,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-04T15:10:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ViRlNyVWgyNWhQRFFuQ3A3SHhQV3VyRmxDQlBEQnVZVU1jdk5ZdEhMVHhSeHZZR2FYTk94cFM5THdSRHV5c25EQjJ4cFJaZHhFVTNWaG1IUEQxTDBGYU5Ca2syUE5oQUM5UUJ6bm1IeEdBS0phcjl1MUVhd1VFV3k5VDN5MG9Ea0lQNzZvSTY0MHlzTVMycWJpSWgwNGZjUGlVVVhRSjQ0VHo2bG5tYm93?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T15:09:43+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -429,17 +520,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Is AI inflation transitory?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/is-ai-inflation-transitory-4775369",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:23:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
       "source": "Yahoo",
@@ -449,17 +529,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron holds groundbreaking ceremony for $9B plant expansion in Japan",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4611502-micron-launches-9b-plant-expansion-japan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:21:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -499,47 +568,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave (CRWV) Partners with BattleBots as Official AI Cloud Provider",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab46ba21612c9a54da56c7d412fdbccd02c06e042c6ea1def5cb1ce87f07d417",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T13:23:36+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "The 1-Minute Market Report, July 4, 2026",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a8f6681530e3f119d035426954af6b93f13d37b7a2806ff525058ecd9e029ddd",
       "is_watchlist": true,
       "timestamp": "2026-07-04T13:13:07+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "When it comes to beating the stock market, no news really is good news",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-it-comes-to-beating-the-stock-market-no-news-really-is-good-news-43328bf0?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T13:10:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e4c29ace63f789f67b3e7eae07266507edb8a9593e1d3e48771e2581115fb699",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T12:55:57+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -681,28 +715,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T20:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Record beef imports are flooding the U.S. \u2014 so why is your Fourth of July BBQ so expensive?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T19:34:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decides Winners As \u201cCapacity Will Catch Up\u201d",
       "source": "Yahoo",
@@ -758,18 +770,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-03T16:37:09+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Applied Digital Continues Heavy Capital Spending: What's Ahead?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=858785aee8acaa597aa224a0fe38263ea2dec5e3be698d7f64308563e723bd5b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-03T16:29:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

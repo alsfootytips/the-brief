@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T17:46:52.456574+00:00",
+  "generated_at": "2026-07-04T19:13:58.385905+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Did Nebius Stock Jump 20% in June?\""
+      "move_reason": "News: \"Nebius Group (NBIS) Launches AI Cloud 3.6 With Echo For Natural Language Control\""
     },
     {
       "ticker": "META",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are...\""
+      "move_reason": "News: \"Should You Buy the Dip in CoreWeave Stock?\""
     },
     {
       "ticker": "PWR",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are...\""
+      "move_reason": "News: \"Should You Buy the Dip in CoreWeave Stock?\""
     },
     {
       "ticker": "DG",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Did Nebius Stock Jump 20% in June?\""
+      "move_reason": "News: \"Nebius Group (NBIS) Launches AI Cloud 3.6 With Echo For Natural Language Control\""
     },
     {
       "ticker": "NVDA",
