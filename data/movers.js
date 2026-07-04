@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T14:09:45.941947+00:00",
+  "generated_at": "2026-07-04T15:31:32.597683+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
+      "move_reason": "News: \"Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo\""
     },
     {
       "ticker": "META",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Applied Digital Continues Heavy Capital Spending: What's Ahead?\""
+      "move_reason": "News: \"CoreWeave (CRWV) Partners with BattleBots as Official AI Cloud Provider\""
     },
     {
       "ticker": "PWR",
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why EMCOR's Electrical Construction Is Gaining Momentum\""
+      "move_reason": "News: \"Quanta Services, Inc. (PWR) Gains Growth Momentum with Index Shift and PT Raise\""
     },
     {
       "ticker": "XLK",
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 High-Flying Stocks with Competitive Advantages and 1 We Turn Down\""
+      "move_reason": "News: \"3 AI Data Center Power Stocks to Buy in July\""
     },
     {
       "ticker": "SOFI",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Financial Independence Day: How Many Reach $1 Million?\""
+      "move_reason": "News: \"Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake\""
     },
     {
       "ticker": "SPY",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Applied Digital Continues Heavy Capital Spending: What's Ahead?\""
+      "move_reason": "News: \"CoreWeave (CRWV) Partners with BattleBots as Official AI Cloud Provider\""
     },
     {
       "ticker": "DG",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 High-Flying Stocks with Competitive Advantages and 1 We Turn Down\""
+      "move_reason": "News: \"3 AI Data Center Power Stocks to Buy in July\""
     },
     {
       "ticker": "IWM",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Financial Independence Day: How Many Reach $1 Million?\""
+      "move_reason": "News: \"Earnings Are A Figment Of Accountants' Imaginations. Exiting Equity Would Be A Mistake\""
     },
     {
       "ticker": "NBIS",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?\""
+      "move_reason": "News: \"Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo\""
     },
     {
       "ticker": "NVDA",
@@ -483,7 +483,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why EMCOR's Electrical Construction Is Gaining Momentum\""
+      "move_reason": "News: \"Quanta Services, Inc. (PWR) Gains Growth Momentum with Index Shift and PT Raise\""
     },
     {
       "ticker": "TPL",
