@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T22:31:13.551846+00:00",
+  "generated_at": "2026-07-04T23:43:55.150172+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T22:31:13.548819+00:00",
+      "timestamp": "2026-07-04T23:43:55.147191+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T22:31:13.548815+00:00",
+      "timestamp": "2026-07-04T23:43:55.147187+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T22:31:13.548805+00:00",
+      "timestamp": "2026-07-04T23:43:55.147176+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,70 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T22:31:13.548797+00:00",
+      "timestamp": "2026-07-04T23:43:55.147167+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My parents didn\u2019t plan for retirement, but I\u2019ve got millions: what\u2019s the best way to help them?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/parents-didn-t-plan-retirement-141713265.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T23:31:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chevron vs. Exxon Mobil: Which Energy Stock Is a Better Buy in 2026?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-vs-exxon-mobil-energy-232101335.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T23:21:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump administration proposes 702 regulatory rollbacks in deregulatory push",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-administration-proposes-702-regulatory-rollbacks-in-deregulatory-push-4775388",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T23:01:40+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Putin"
+      ],
+      "ticker": null,
+      "headline": "Trump offered over phone to help Putin find deal with Ukraine, Kremlin aide says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/trump-offered-over-phone-to-help-putin-find-deal-with-ukraine-kremlin-aide-says-4775387",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T22:54:51+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paul Pelosi faces hit-and-run charge after striking parked vehicle in California, law enforcement says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/paul-pelosi-faces-hitandrun-charge-after-striking-parked-vehicle-in-california-media-reports-say-4775385",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T22:54:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -56,18 +116,7 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T22:12:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T22:10:00+00:00",
+      "timestamp": "2026-07-04T22:36:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -90,28 +139,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/world-news/north-koreas-kim-observed-naval-destroyer-cruise-missile-launch-weapons-tests-state-media-says-4775386",
       "is_watchlist": false,
       "timestamp": "2026-07-04T22:06:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could Canopy Growth Stock Deliver a 4X Gain? 1 Analyst Thinks So.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-canopy-growth-stock-deliver-220200985.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T22:02:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paul Pelosi faces hit-and-run charge after striking parked vehicle in California, media reports say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/paul-pelosi-faces-hitandrun-charge-after-striking-parked-vehicle-in-california-media-reports-say-4775385",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T21:42:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -191,34 +218,24 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Mass grief in Iran at Khamenei funeral after US, Israel war killing - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T21:09:11+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-04T20:56:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "European earnings season preview: Watch these 3 things, analyst says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/european-earnings-season-preview-watch-these-3-things-analyst-says-4775381",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:29:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran holds state funeral for Khamenei as successor stays out of public view",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/irans-supreme-leaders-funeral-begins-as-hormuz-security-remains-in-focus-4775328",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:25:25+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -397,18 +414,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-04T17:57:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mass grief at Khamenei funeral projects hardline grip on post-war Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T17:56:45+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",

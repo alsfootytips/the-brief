@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T22:31:13.546346+00:00",
+  "generated_at": "2026-07-04T23:43:55.144711+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -181,7 +181,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 215.89,
       "change_pct": -5.8,
-      "volume_ratio": 1.3,
+      "volume_ratio": 1.29,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "name": "SOFI",
       "price": 18.24,
       "change_pct": -1.08,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.0,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -430,7 +430,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 215.89,
       "change_pct": -5.8,
-      "volume_ratio": 1.3,
+      "volume_ratio": 1.29,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,

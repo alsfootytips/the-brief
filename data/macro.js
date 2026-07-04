@@ -1,5 +1,5 @@
 window.theBriefMacro = {
-  "generated_at": "2026-07-04T22:31:13.602043+00:00",
+  "generated_at": "2026-07-04T23:43:55.199227+00:00",
   "snapshot": {
     "^VIX": {
       "name": "VIX (volatility)",
@@ -27,9 +27,9 @@ window.theBriefMacro = {
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 63164.63,
-      "change_pct_1d": 0.99,
-      "change_pct_1w": 7.87
+      "value": 63109.19,
+      "change_pct_1d": 0.9,
+      "change_pct_1w": 7.77
     }
   }
 };
