@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T15:31:32.597683+00:00",
+  "generated_at": "2026-07-04T16:42:56.549098+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo\""
+      "move_reason": "News: \"Why Did Nebius Stock Jump 20% in June?\""
     },
     {
       "ticker": "META",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decid...\""
+      "move_reason": "News: \"Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d\""
     },
     {
       "ticker": "CRWV",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Partners with BattleBots as Official AI Cloud Provider\""
+      "move_reason": "News: \"Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are...\""
     },
     {
       "ticker": "PWR",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Invesco Analyst: The AI Trade That \u201cLifted All Boats\u201d Is Over. Now Profitability Decid...\""
+      "move_reason": "News: \"Jim Cramer on Dell: \u201cI Missed One of the Greatest Stories Ever Told\u201d\""
     },
     {
       "ticker": "APA",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Partners with BattleBots as Official AI Cloud Provider\""
+      "move_reason": "News: \"Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are...\""
     },
     {
       "ticker": "DG",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo\""
+      "move_reason": "News: \"Why Did Nebius Stock Jump 20% in June?\""
     },
     {
       "ticker": "NVDA",
