@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T20:17:43.565390+00:00",
+  "generated_at": "2026-07-04T21:28:24.700793+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T20:17:43.562316+00:00",
+      "timestamp": "2026-07-04T21:28:24.697724+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T20:17:43.562312+00:00",
+      "timestamp": "2026-07-04T21:28:24.697720+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T20:17:43.562301+00:00",
+      "timestamp": "2026-07-04T21:28:24.697709+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,135 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T20:17:43.562291+00:00",
+      "timestamp": "2026-07-04T21:28:24.697700+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:56:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-nearly-flat-2026-205000376.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MicroStrategy CEO Calls Bitcoin \u2018United States of Money\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-ceo-calls-bitcoin-united-204529285.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:45:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Ukraine\u2019s Zelenskiy says he spoke to Trump, calls for \u2019American resolve\u2019 to help end war",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-he-spoke-to-trump-calls-for-american-resolve-to-help-end-war-4775383",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T20:36:25+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Death toll from Venezuela quakes rises to 2,954",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:30:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European earnings season preview: Watch these 3 things, analyst says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/european-earnings-season-preview-watch-these-3-things-analyst-says-4775381",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:29:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran holds state funeral for Khamenei as successor stays out of public view",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/irans-supreme-leaders-funeral-begins-as-hormuz-security-remains-in-focus-4775328",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:25:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US VP Vance says Britain has been failed by leaders, hopes next PM delivers change",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-vp-vance-says-britain-has-been-failed-by-leaders-hopes-next-pm-delivers-change-4775380",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:18:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Masked Patriot Front white nationalists stage July 4 march through DC",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/masked-patriot-front-white-nationalists-stage-july-4-march-through-dc-4775379",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:12:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman revises its USD/JPY forecasts. Here are the new targets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/goldman-revises-its-usdjpy-forecasts-here-are-the-new-targets-4775378",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:06:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/pope-leo-marks-us-anniversary-with-migrant-appeal-on-lampedusa-4775352",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T20:06:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -62,39 +187,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Which iShares Value ETF Is Better, the Small Cap-Focused IWN or IJJ Targeting Mid-Cap Stocks?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-value-etf-better-small-195501120.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:55:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman sees no return to broad-based dollar weakness anytime soon",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/goldman-sees-no-return-to-broadbased-dollar-weakness-anytime-soon-4775376",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:51:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-memory-supercycle-195000985.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
       "source": "Yahoo",
@@ -104,17 +196,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Heat wave disrupts Fourth of July events across US, strains power grids",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/heat-wave-disrupts-fourth-of-july-events-across-eastern-us-4775312",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:30:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -209,44 +290,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin hits $63K resistance zone: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-in-bear-flag-near-annual-low-live-levels-93CH-4764319",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:02:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lili Turns Idle Cash Into Up to 4% APY for Small Businesses",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/press-releases/lili-turns-idle-cash-into-up-to-4-apy-for-small-businesses-4775375",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:01:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-04T19:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eating champion Joey Chestnut defends title but blames heat for lower hot-dog tally",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/eating-champion-joey-chestnut-defends-title-but-blames-heat-for-lower-hotdog-tally-4775374",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:00:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -270,17 +318,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-04T18:37:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Justice Department says Adani case should end because of foreign jurisdiction, small chance of success",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/justice-department-says-adani-case-should-end-because-of-foreign-jurisdiction-small-chance-of-success-4775373",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T18:24:26+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -353,17 +390,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T17:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trending stocks this week as rate-cut hopes lift markets while tech remains volatile",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4611507-trending-stocks-this-week-as-rate-cut-hopes-lift-markets-while-tech-remains-volatile?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -383,28 +409,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T17:12:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cardano Climbs 12% In Rally",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-12-in-rally-4775372",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T17:08:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

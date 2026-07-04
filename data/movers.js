@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-04T20:17:43.559776+00:00",
+  "generated_at": "2026-07-04T21:28:24.695222+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
