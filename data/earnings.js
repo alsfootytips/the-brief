@@ -1,16 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-03T23:04:40+00:00",
+  "generated_at": "2026-07-04T00:17:07+00:00",
   "by_date": {
-    "2026-07-03": [
-      {
-        "ticker": "SBSAA",
-        "date": "2026-07-03",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-07-06": [
       {
         "ticker": "ACP",
