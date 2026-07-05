@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T17:11:25.225976+00:00",
+  "generated_at": "2026-07-05T18:16:54.678793+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Nvidia Undervalued or AMD Overvalued \u2014 or Both?\""
+      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
     },
     {
       "ticker": "CRWV",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Smart Stocks to Buy Now\""
+      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
     },
     {
       "ticker": "GEV",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Nvidia Undervalued or AMD Overvalued \u2014 or Both?\""
+      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
     },
     {
       "ticker": "APA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Smart Stocks to Buy Now\""
+      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
     },
     {
       "ticker": "OSCR",
