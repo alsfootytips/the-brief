@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T05:38:48.519518+00:00",
+  "generated_at": "2026-07-05T08:31:20.052286+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why July Could Be a Big Month for AMD Stock Investors\""
+      "move_reason": "News: \"Is AMD Stock a Buy Before July 22?\""
     },
     {
       "ticker": "CRWV",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Rare Earths Stock Can Best Deliver Gains From America's Reshoring Boom?\""
+      "move_reason": "News: \"Foxconn second-quarter revenue jumps 40% y/y\""
     },
     {
       "ticker": "GEV",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, July 4, 2026\""
+      "move_reason": "News: \"This Bull Market Should Charge Into 2027\""
     },
     {
       "ticker": "SPY",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why July Could Be a Big Month for AMD Stock Investors\""
+      "move_reason": "News: \"Is AMD Stock a Buy Before July 22?\""
     },
     {
       "ticker": "APA",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, July 4, 2026\""
+      "move_reason": "News: \"This Bull Market Should Charge Into 2027\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Rare Earths Stock Can Best Deliver Gains From America's Reshoring Boom?\""
+      "move_reason": "News: \"Foxconn second-quarter revenue jumps 40% y/y\""
     },
     {
       "ticker": "OSCR",
