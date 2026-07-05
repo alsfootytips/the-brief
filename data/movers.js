@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T12:17:10.951238+00:00",
+  "generated_at": "2026-07-05T14:16:24.035193+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -148,7 +148,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Equity Outlook: AI Enthusiasm Leaves Little Margin For Error\""
+      "move_reason": "News: \"Mid-Year 2026 Market Outlook: Oil, Gold, And Copper\""
     },
     {
       "ticker": "OSCR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is AMD Stock a Buy Before July 22?\""
+      "move_reason": "News: \"How Advanced Micro Devices, Inc.\u2019s (AMD) Server CPU Demand Is Broadening Its AI Growth Sto...\""
     },
     {
       "ticker": "CRWV",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy the Dip in CoreWeave Stock?\""
+      "move_reason": "News: \"Why CoreWeave Stock Plummeted This Week\""
     },
     {
       "ticker": "PWR",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Solana Be in 20 Years?\""
+      "move_reason": "News: \"How Buying NuScale Power Stock Today Could 10X Your Money in 10 Years\""
     },
     {
       "ticker": "GEV",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Millionaire Boom Is Real - But So Is The Market Trap\""
+      "move_reason": "News: \"A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer\""
     },
     {
       "ticker": "SPY",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is AMD Stock a Buy Before July 22?\""
+      "move_reason": "News: \"How Advanced Micro Devices, Inc.\u2019s (AMD) Server CPU Demand Is Broadening Its AI Growth Sto...\""
     },
     {
       "ticker": "APA",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy the Dip in CoreWeave Stock?\""
+      "move_reason": "News: \"Why CoreWeave Stock Plummeted This Week\""
     },
     {
       "ticker": "DG",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Millionaire Boom Is Real - But So Is The Market Trap\""
+      "move_reason": "News: \"A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Solana Be in 20 Years?\""
+      "move_reason": "News: \"How Buying NuScale Power Stock Today Could 10X Your Money in 10 Years\""
     },
     {
       "ticker": "OSCR",
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Equity Outlook: AI Enthusiasm Leaves Little Margin For Error\""
+      "move_reason": "News: \"Mid-Year 2026 Market Outlook: Oil, Gold, And Copper\""
     }
   ],
   "indices": [
