@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-05T18:16:54.684205+00:00",
+  "generated_at": "2026-07-05T19:50:58.300814+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T18:16:54.681354+00:00",
+      "timestamp": "2026-07-05T19:50:58.297945+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T18:16:54.681350+00:00",
+      "timestamp": "2026-07-05T19:50:58.297941+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T18:16:54.681340+00:00",
+      "timestamp": "2026-07-05T19:50:58.297931+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T18:16:54.681331+00:00",
+      "timestamp": "2026-07-05T19:50:58.297923+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -52,7 +52,139 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Citi picks and pans for H2 '26: fintech, industrials, climate tech",
+      "headline": "Trump thanks FIFA after Folarin Balogun\u2019s World Cup red card suspension is reversed",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:35:48+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here's a Much Better Nasdaq-100 Stock to Buy Right Now Than SpaceX",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-better-nasdaq-100-193500026.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/more-than-100-detained-as-leftist-groups-hold-antinato-protests-in-turkey-4775491",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:30:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-tesla-suddenly-worth-same-192700154.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:27:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street's biggest bulls (and handful of bears) for the rest of '26",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611529-wall-streets-biggest-bulls-and-handful-of-bears-for-the-rest-of-26?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:24:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/analyst-shares-5-takes-on-the-neocloud-vs-hyperscaler-opportunities-for-meta-4775490",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:20:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:04:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin stalls at $63,300 resistance as momentum fades: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-in-bear-flag-near-annual-low-live-levels-93CH-4764319",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:01:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "STARK Introduces an Integrated Venture Builder Ecosystem Across AI, Privacy, Cybersecurity and Wearables",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/press-releases/stark-introduces-an-integrated-venture-builder-ecosystem-across-ai-privacy-cybersecurity-and-wearables-4775489",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:01:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/7-opec-countries-agree-expand-184751385.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T18:47:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi's picks and pans for H2 '26: REITs, tech, consumer, health",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611528-citis-picks-and-pans-for-h2-26-reits-tech-consumer-health?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T18:37:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "White supremacists\u2019 July 4 march counts as free speech in \u2019messy democracy,\u2019 Interior Secretary Burgum says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/white-supremacists-july-4-march-counts-as-free-speech-in-messy-democracy-interior-secretary-burgum-says-4775487",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T18:36:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi's picks and pans for H2 '26: fintech, industrials, climate tech",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4611527-citi-picks-and-pans-for-h2-26-fintech-industrials-climate-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
@@ -74,23 +206,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-ai-driving-22-180327725.html",
+      "headline": "Israel government says it will defy Supreme Court ruling on media regulator - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0R1Sy1OdjVoUGg2c1p0Um1BLUk0dy1pLV8wVURGTXpfOVV6R3F0Q1VGV3h6LUhfVXVURVJmZkMzdDQ4enZ2azhScUNfM3lGbG9FUWFuVEhERDNHUGpKZTBqbnNuMDNGN01MRVBNM1QyTlBXSXcxS0RSLTZwb2NlT0Rlcmh4VHdueThQc05heVBDcEQ2djROZk5YNTJNSTMxRm5Eb2pZZVgwWC1iWGJiNkZBSUtIZHhvVTRwRlBZUXV0a1dxR3FaNnFCNA?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T18:03:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nike unsteady as new legal fight brews",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-unsteady-legal-fight-brews-180300795.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T18:03:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-07-05T18:01:10+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -199,28 +320,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "EasyJet agrees to Castlelake\u2019s \u00a35.2B takeover offer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/easyjet-agrees-to-castlelakes-52b-takeover-offer-4775483",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T17:23:43+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T17:03:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "'Minions & Monsters' leads holiday box office despite franchise-low opening",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4611525-minions-and-monsters-leads-holiday-box-office-despite-franchise-low-opening?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -232,55 +331,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israeli strike kills two people in Gaza, medics say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-strike-kills-two-people-in-gaza-medics-say-4775482",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T16:54:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What are the key factors behind the slowdown in tech hiring?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/what-are-the-key-factors-behind-the-slowdown-in-tech-hiring-4775481",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T16:44:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "EasyJet agrees in principle to $6.9B takeover offer from Castlelake",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4611524-easyjet-agrees-in-principle-to-6_9b-takeover-offer-from-castlelake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-05T16:41:42+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "easyJet agrees in principle on Castlelake\u2019s sweetened \u00a36.90 per share bid",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/easyjet-agrees-in-principle-on-castlelakes-sweetened-690-per-share-bid-4775480",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T16:36:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Three sons of Iran\u2019s slain leader Khamenei appear at funeral, not his successor",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/three-sons-of-irans-slain-leader-khamenei-appear-at-funeral-not-his-successor-4775406",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T16:36:32+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -377,33 +432,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T14:10:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here are the 3 big things we're watching in the stock market this week",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/05/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
       "is_watchlist": false,
       "timestamp": "2026-07-05T14:01:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: Who will be most impacted by Meta's new cloud business?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4611513-sa-asks-who-will-be-most-impacted-by-metas-new-cloud-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T14:00:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -450,18 +483,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-05T13:55:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OPEC+ approves another output increase as Hormuz reopening boosts supply outlook",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4611523-opec-approves-another-output-increase-as-hormuz-reopening-boosts-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T13:23:32+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -775,17 +796,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Photos of the week - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13ZXp6OWxrX0JSQnVYQU5YVVdiRlFqUUlPdkg1X3oxMHVXdVMtS0FSMTZQQ0dJM2hwV2tUaU1nU1pzeFhOekhnV3RhcHM5dENaaEVnbjdGdXExOWs1bUZCaGN1b19YMEE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T18:35:36+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Should You Buy the Dip in CoreWeave Stock?",
       "source": "Yahoo",
@@ -855,17 +865,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The World Cup sends prediction market volumes soaring to record highs",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:54:04+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
