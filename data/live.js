@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-05T14:16:24.040541+00:00",
+  "generated_at": "2026-07-05T15:47:11.048398+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T14:16:24.037684+00:00",
+      "timestamp": "2026-07-05T15:47:11.045405+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T14:16:24.037680+00:00",
+      "timestamp": "2026-07-05T15:47:11.045401+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T14:16:24.037670+00:00",
+      "timestamp": "2026-07-05T15:47:11.045390+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,98 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T14:16:24.037661+00:00",
+      "timestamp": "2026-07-05T15:47:11.045381+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What the Buffett Market Valuation Indicator at Record Highs Means for Investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buffett-market-valuation-indicator-record-153100382.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The $185,000 Portfolio That Covers Groceries, Utilities, and the Phone Bill Every Month",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/185-000-portfolio-covers-groceries-152105410.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:21:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Strait of Hormuz has reopened \u2014 why that might be a problem for the oil market: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/the-strait-of-hormuz-has-reopened--why-that-might-be-a-problem-for-the-oil-market-chart-of-the-day-145149603.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:51:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches\u2014they say it was worth it",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:42:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches\u2014they say it was worth it",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:42:38+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OPEC+ adds 188,000 bpd to August quota amid cooling oil market",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/opec-adds-188000-bpd-to-august-quota-as-gulf-flows-resume-4775453",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:37:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 3 big things we're watching in the stock market this week",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/05/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:01:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -57,6 +145,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4611513-sa-asks-who-will-be-most-impacted-by-metas-new-cloud-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-05T14:00:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brides are bringing back the one-night-only bachelorette party: 'You just come, have one perfect night and leave'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/05/brides-are-bringing-back-the-one-night-only-bachelorette-party.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -79,6 +178,17 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-05T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What are the implications of a K-shaped economy?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/what-are-the-implications-of-a-kshaped-economy-4775429",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T13:57:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -337,6 +447,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "French President Macron to visit Syria, Syrian presidency says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlpGYWxDdEIwTHZtZ2dZUm1rU18xUzNJa24yU2F1TEdPUVh2ZHVLdXh1bkE3dk5icVlwZ0o0bEQ4VVdjaElia190dEZyaVQ3V3hpbzlnSEFjaFFQRHNvV21QOURoMlVIZ19veEFXTnFubnZGZDRxWV9YUlh6SmswN1p1aC1td0dPMkpoY2h3djdhcWZ2djMza2lPRk9RaXBuYTFzOHpvZ1ZSTnV2cFdsYUNB?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T11:59:43+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Iran and Qatar resume maritime trade, Iranian state media reports - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGpKTHAxUnc3bjEyYzczRHhyc2JxYUdEbWlKY3g5MWlVZWJfT3RSRVl5MDJQemVfTHRydm94TUktcTQ1ZjlSOEkyR2Ital9NUUllbVBLcUZEckxPWk40c0dJTXNKQkQxcWlBOEVNZTFtYnA2X3dTNERvZmJNWDRXTVRxRXc2S0JFX3F4cTRvTXZiUjBKRlEzYUh1VkR0UmxGcUpEWFJ4OU1TWko2VVhaM1A5UVY?oc=5",
@@ -379,28 +500,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IHS Holding validates Fair Value analysis with 84% return in 29 months",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/investment-ideas/ihs-holding-validates-fair-value-analysis-with-84-return-in-29-months-93CH-4775425",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T11:10:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Standard Lithium falls 48% after InvestingPro overvaluation warning",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/investment-ideas/standard-lithium-falls-48-after-investingpro-overvaluation-warning-93CH-4775424",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T11:02:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -656,17 +755,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "India withdraws gas curbs as Middle East LNG supply resumes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUhNa0VmU05LVzl6WE1MZmZKUmRoRmU5Q1hSZy0yUnhKOU9JUE9vMmtaN21wYVZGVk5nTFB0ZDJlU2xtbkEyaUl6QlE5Y1ZPVUhXUFdGVDFRSlBKVTRteHdGaGo0YVFILTBKVmZxTWxPcy1TMVZQWjhwWFhQZTNKMXk3WEZYTVJqX0xjYjY4d0szeURGSnkwUWxWRlRXYUI4Q043VVk5M0pkMF9L?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T16:25:11+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius Group (NBIS) Launches AI Cloud 3.6 With Echo For Natural Language Control",
       "source": "Yahoo",
@@ -692,38 +780,46 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israel hasn't said who its soldiers abused. Two Gaza mothers think it's their son - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkNqR2ZZT3dEUWRLYTlhcFA2b2x1b3ZsazFnaGZWTGtVYUc2NmVyZ0VaOE9ySDdoUmFSY1hVanBxdkNCWHEwVTUydHQxRTJFMmxOVHcxRVIzcUMtMTN0RmRVdW5kUlhEVlBPLU82X2hWVk8yME13RkhhcXNYR3ZscEQ5UElEM016U0lEN1ZxeDJLMEJBUFJqWUVCM1JXR2oyTkpkdldsUk9mNDVFY21JcmdnWWYyWTNiMkZrVnIwdFUtVXZBaGpQYk9SdlE?oc=5",
+      "headline": "Jim Cramer on AST SpaceMobile: \u201cI Think It Can Make Money in Two Years\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ast-spacemobile-think-143029882.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T15:38:02+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-07-04T14:30:29+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ViRlNyVWgyNWhQRFFuQ3A3SHhQV3VyRmxDQlBEQnVZVU1jdk5ZdEhMVHhSeHZZR2FYTk94cFM5THdSRHV5c25EQjJ4cFJaZHhFVTNWaG1IUEQxTDBGYU5Ca2syUE5oQUM5UUJ6bm1IeEdBS0phcjl1MUVhd1VFV3k5VDN5MG9Ea0lQNzZvSTY0MHlzTVMycWJpSWgwNGZjUGlVVVhRSjQ0VHo2bG5tYm93?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T15:19:25+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. turns 250, Taylor-Travis wed and Iran mourns Khamenei - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDlEcEtGRENYaVljVGVCbVNxSjd5UW1nOTFsUWhkRTFGb2g2T2ZoaDY3WnJrOEwydVlmQ0dNZ2IzMHNmZlpfdE9meG5HZ3FWUXlnLWtNRURqZ1IyRklkVHJ2QkRUblFPOWpyUlRZQjVlbWxjNEJYVjJ0cjgzcXNtM3lzbjFzaEJzeUdnYVpjTzluUnFUN19vMG5iZDg?oc=5",
+      "headline": "Jim Cramer Prefers GEV Over NuScale, Calls the Latter \u201cToo Speculative\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-gev-over-143021035.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T14:56:10+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-07-04T14:30:21+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Pick: GEV"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Says He Likes Agnico Eagle But Believes Gold Is Going Lower",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-agnico-143005546.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:30:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kyndryl and Microsoft Team Up on Cloud Sovereignty. Don\u2019t Count on This Being a Game-Changer for KD Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-microsoft-team-cloud-sovereignty-143002149.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:30:02+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -763,61 +859,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "FactSet Partners with Google Cloud (GOOGL) to Integrate Gemini AI into Financial Platform",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/factset-partners-google-cloud-googl-125357373.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:53:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it \u2018undermines\u2019 the system",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-drops-love-bomb-micron-124000756.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:40:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "2 High-Yield Dividend Stocks Just Got Kicked Out of the S&P 500. Is Either a Buy Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-high-yield-dividend-stocks-123500448.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump Crypto Windfall Turns Heads: How the 'Crypto President' Raked In $1.4 Billion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-crypto-windfall-turns-heads-123223466.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:32:23+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:31:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "3 AI Data Center Power Stocks to Buy in July",
       "source": "Yahoo",
@@ -827,39 +868,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Phillips 66\u2019s Quarterly Earnings Preview: What You Need to Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-quarterly-earnings-preview-121902480.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:19:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jared Kushner's net worth grew 1,440% since 2009 \u2014 9 times more than the average US household. Here's what drove the gap",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jared-kushners-net-worth-grew-121500238.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A 74-year-old was pressured into a $3,000 extended truck warranty. He canceled in time \u2014 months later, still no refund",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/74-old-pressured-3-000-121000075.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T12:10:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -881,17 +889,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-04T01:10:13+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "First known congressional SpaceX stock buys surface after record IPO",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T18:16:43+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
