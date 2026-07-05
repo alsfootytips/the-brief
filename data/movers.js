@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T08:31:20.052286+00:00",
+  "generated_at": "2026-07-05T10:52:01.701623+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Foxconn second-quarter revenue jumps 40% y/y\""
+      "move_reason": "News: \"Why Robinhood Stock Dropped 11% in the first half of 2026\""
     },
     {
       "ticker": "GEV",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Foxconn second-quarter revenue jumps 40% y/y\""
+      "move_reason": "News: \"Why Robinhood Stock Dropped 11% in the first half of 2026\""
     },
     {
       "ticker": "OSCR",
