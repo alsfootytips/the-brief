@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-04T23:43:55.150172+00:00",
+  "generated_at": "2026-07-05T01:26:09.552608+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T23:43:55.147191+00:00",
+      "timestamp": "2026-07-05T01:26:09.549778+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T23:43:55.147187+00:00",
+      "timestamp": "2026-07-05T01:26:09.549774+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T23:43:55.147176+00:00",
+      "timestamp": "2026-07-05T01:26:09.549762+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-04T23:43:55.147167+00:00",
+      "timestamp": "2026-07-05T01:26:09.549735+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -52,24 +52,82 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "My parents didn\u2019t plan for retirement, but I\u2019ve got millions: what\u2019s the best way to help them?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/parents-didn-t-plan-retirement-141713265.html",
+      "headline": "Trump, Putin discuss Ukraine, Iran ahead of NATO summit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-putin-discuss-ukraine-iran-ahead-of-nato-summit-4775391",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T23:31:52+00:00",
+      "timestamp": "2026-07-05T01:08:04+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Storms threaten Trump rally to mark U.S. 250th anniversary in Washington",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T00:42:24+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "North Korea\u2019s Kim oversees cruise missile launch from new naval destroyer",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/north-koreas-kim-oversees-cruise-missile-launch-from-new-naval-destroyer-4775390",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T00:28:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Chevron vs. Exxon Mobil: Which Energy Stock Is a Better Buy in 2026?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/chevron-vs-exxon-mobil-energy-232101335.html",
+      "headline": "Vance says Britain needs political change, pledges support for next PM",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/vance-says-britain-needs-political-change-pledges-support-for-next-pm-4775389",
       "is_watchlist": false,
-      "timestamp": "2026-07-04T23:21:01+00:00",
+      "timestamp": "2026-07-04T23:45:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T23:42:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means for Investors.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=757f6cf4c53ba748a2dff7c4c731ee25c33f51a71cdc6f807bb3d6aa94140594",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T23:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=117910544e259fdf1ef4a162741c79985c70fd679bd1044c3d49f089a54e6881",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T23:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -81,6 +139,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-04T23:01:40+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0f7d18a1b48711fa9ec11cedc23316772d447f2a7912e956184ea577d4b7fed",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T22:55:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -112,39 +182,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T22:36:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T22:06:42+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "North Korea\u2019s Kim observed naval destroyer cruise missile launch, weapons tests, state media says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/north-koreas-kim-observed-naval-destroyer-cruise-missile-launch-weapons-tests-state-media-says-4775386",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T22:06:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
@@ -152,68 +189,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-04T21:40:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4775384",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Reason to Buy This Wide-Moat Stock Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0539236130317e8b6547f9d9a7fd231adf88bf89c310fe19f0aa23cdedb4f5b8",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T21:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Ukraine\u2019s Zelenskiy says he spoke to Trump, calls for \u2019American resolve\u2019 to help end war",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-he-spoke-to-trump-calls-for-american-resolve-to-help-end-war-4775383",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T21:12:27+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "If You'd Put $10,000 Into Intel Stock at the Start of 2026, Here's How Much You'd Have Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d05fbd40ebe87af4c8bd4a10009299600a7badf0d830da3d9ed3b5505bbe756",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T21:10:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia (NVDA) Backs Verkada And Brings In A Microsoft Veteran To Lead Sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b13333875bf3e3c3e8afeeb55b8817d089b3c8c1ba6f5e7c5078a19b4c5e059a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T21:09:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -258,72 +233,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4611512-sa-asks-whats-the-best-space-stock-play-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-04T20:02:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Did General Motors (GM) Just Partner With Micron?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/why-did-general-motors-gm-191731528.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:17:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-stock-fallen-50-191550222.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:15:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Travel Headwinds Result In Attractive Valuation For Global Payments (GPN) Stocks",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/travel-headwinds-result-attractive-valuation-191542312.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:15:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s Why Analysts Are Still Bullish On Alcoa Corp (AA) Stock Despite The Selloff",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-bullish-alcoa-191533264.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:15:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street Is Losing Confidence In PVH Corp (PVH), Is The Stock A Buy?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-losing-confidence-pvh-191514572.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:15:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lincoln National Corporation (LNC) Is One Of The Top Extreme Value Stocks To Buy Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lincoln-national-corporation-lnc-one-191506722.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T19:15:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -486,6 +395,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "AMD Beats NVDA in 1H26 Returns. Here\u2019s What's Next for 2H26.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b3538364024153874362e0b6c7339344ede360a3ad850f634caba5313268e57",
+      "is_watchlist": true,
+      "timestamp": "2026-07-04T16:00:02+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "BioNTech has reportedly contacted buyers over plans to exit German sites",
       "source": "Seeking Alpha Market",
@@ -506,6 +427,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israel hasn't said who its soldiers abused. Two Gaza mothers think it's their son - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkNqR2ZZT3dEUWRLYTlhcFA2b2x1b3ZsazFnaGZWTGtVYUc2NmVyZ0VaOE9ySDdoUmFSY1hVanBxdkNCWHEwVTUydHQxRTJFMmxOVHcxRVIzcUMtMTN0RmRVdW5kUlhEVlBPLU82X2hWVk8yME13RkhhcXNYR3ZscEQ5UElEM016U0lEN1ZxeDJLMEJBUFJqWUVCM1JXR2oyTkpkdldsUk9mNDVFY21JcmdnWWYyWTNiMkZrVnIwdFUtVXZBaGpQYk9SdlE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T15:38:02+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -552,18 +484,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=67d437b7acf5bb75bc7655b1032de97f652a2c73e8024abcff79a68416e17916",
       "is_watchlist": true,
       "timestamp": "2026-07-04T14:24:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Jim Cramer Considers AMD Stock\u2019s Dip as a Buying Opportunity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=05cadded3490849ecb16c3840dcb81040b9f3696733af93c0628e6dced379960",
-      "is_watchlist": true,
-      "timestamp": "2026-07-04T14:21:32+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -743,6 +663,94 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Oil prices little changed as US-Iran peace efforts hold",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/oil-prices-little-changed-ahead-075928204.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T19:09:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SQM-Codelco Venture Targets 70% Lithium Output Surge in Chile",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/sqm-codelco-venture-targets-70-184842992.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T18:48:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Safe Is AGNC's 13% Dividend Right Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/safe-agncs-13-dividend-now-184449409.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T18:44:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cerebras Stock Is Up 11% Since Its IPO. Is It a Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-11-since-ipo-183933183.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T18:39:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is The Kraft Heinz Company (KHC) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-company-khc-good-182810435.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T18:28:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Moody\u2019s Corporation (MCO) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/moody-corporation-mco-good-stock-182758635.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T18:27:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is NVR, Inc. (NVR) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvr-inc-nvr-good-stock-182733618.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T18:27:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is The New York Times Company (NYT) A Good Stock To Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/york-times-company-nyt-good-182721750.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-03T18:27:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "First known congressional SpaceX stock buys surface after record IPO",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
@@ -796,18 +804,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-03T16:13:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CMA CGM ship hit by missile in Hormuz strait may go for scrapping, CEO says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmxkRkQxOC1JcHFKNFBwMkM4V2VNZWJYdUJkRy1yaXJVMkQwaERSd21ER21rYlFyeGxreV9Zc0xhTlFtVEJHTjJOVGpNb3c0OHdHdWVWejg4bWsxTTVLMkptNlVheGcyQnkyZC1XQnItbzk4UWctR0VwSnpQbjdTNmUwRmtRcjNoa1loc3E0LVVHRFVaQzNrbUFPdDJ4R0xoREhDel9pNkpZaWhTNG0ycWhR?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T15:07:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1120,18 +1116,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "The Trade Desk (TTD) Shares Skyrocket, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b86e01d8f8d6e3fece8e3acb6ea5c60689122365bc963a6366cddd68547f174c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-01T22:01:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
       "source": "CNBC Markets",
@@ -1143,42 +1127,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "OXY",
-      "headline": "Occidental to Announce Second Quarter Results Wednesday, August 5, 2026; Hold Conference Call Thursday, August 6, 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff3c0742ab985f13a850853733865d0eac368754843d3e8507912def52de97d9",
-      "is_watchlist": true,
-      "timestamp": "2026-07-01T20:15:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OXY",
-      "headline": "ConocoPhillips or Occidental Petroleum: Which Oil Stock Should You Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2bb8d476bdd77e51c8eb65d6830821c1d7a254af5c96813035edc079e3d20e6",
-      "is_watchlist": true,
-      "timestamp": "2026-07-01T19:44:37+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "How Amazon, Walmart, and Grocery Rivals Are Battling for Your Doorstep",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e743a86fe5f408f16e5fb9cb4f62116a417257de5146ef0e2384c3d7bc2cc0c7",
-      "is_watchlist": true,
-      "timestamp": "2026-07-01T18:48:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
       "source": "CNBC Markets",
@@ -1187,18 +1135,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-01T14:13:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Can Costco Outgrow Retail Headwinds on Balance Sheet Strength?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e2d546d6a30cb291613198285566cd3697a35346c357f142bee3e63b0347a5e",
-      "is_watchlist": true,
-      "timestamp": "2026-07-01T14:08:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1221,18 +1157,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-01T11:15:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "Liftoff Mobile: Advantage In Data And Access To Both Demand And Supply Side",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=54c5c280e0eca0186e4502b6d05847702f24c0a2379107063a0d3c5a9fa10388",
-      "is_watchlist": true,
-      "timestamp": "2026-07-01T08:13:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",
