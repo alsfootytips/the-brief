@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T01:26:09.547220+00:00",
+  "generated_at": "2026-07-05T05:38:48.519518+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -257,7 +257,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Texas Pacific Land: The Stock Price Is Moving Ahead\""
     },
     {
       "ticker": "QQQ",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means fo...\""
+      "move_reason": "News: \"What Rare Earths Stock Can Best Deliver Gains From America's Reshoring Boom?\""
     },
     {
       "ticker": "GEV",
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Data Center Power Stocks to Buy in July\""
+      "move_reason": "News: \"Jim Cramer makes bold buy call on one booming energy stock\""
     },
     {
       "ticker": "SOFI",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Data Center Power Stocks to Buy in July\""
+      "move_reason": "News: \"Jim Cramer makes bold buy call on one booming energy stock\""
     },
     {
       "ticker": "IWM",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means fo...\""
+      "move_reason": "News: \"What Rare Earths Stock Can Best Deliver Gains From America's Reshoring Boom?\""
     },
     {
       "ticker": "OSCR",
@@ -495,7 +495,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Texas Pacific Land: The Stock Price Is Moving Ahead\""
     },
     {
       "ticker": "TTD",
