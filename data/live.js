@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-05T19:50:58.300814+00:00",
+  "generated_at": "2026-07-05T21:01:06.780173+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T19:50:58.297945+00:00",
+      "timestamp": "2026-07-05T21:01:06.777349+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T19:50:58.297941+00:00",
+      "timestamp": "2026-07-05T21:01:06.777346+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T19:50:58.297931+00:00",
+      "timestamp": "2026-07-05T21:01:06.777336+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T19:50:58.297923+00:00",
+      "timestamp": "2026-07-05T21:01:06.777328+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -52,22 +52,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump thanks FIFA after Folarin Balogun\u2019s World Cup red card suspension is reversed",
+      "headline": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T19:35:48+00:00",
+      "timestamp": "2026-07-05T20:59:18+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here's a Much Better Nasdaq-100 Stock to Buy Right Now Than SpaceX",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-better-nasdaq-100-193500026.html",
+      "headline": "Bitcoin trades above $62K as U.S. crypto bill gains fresh traction",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-62k-as-us-crypto-bill-gains-fresh-traction-4775415",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T19:35:00+00:00",
+      "timestamp": "2026-07-05T20:54:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EasyJet\u2019s flight path from start-up to takeover deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/easyjets-flight-path-from-startup-to-takeover-deal-4775493",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:36:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Micron Technology Stock Going to $1,500? The Bull Case Is Stronger Than You Think.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-going-1-202500014.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:25:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -78,20 +100,142 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/more-than-100-detained-as-leftist-groups-hold-antinato-protests-in-turkey-4775491",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T19:30:31+00:00",
+      "timestamp": "2026-07-05T20:24:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+      "headline": "SCHD\u2019s 6 Basis Point Fee Hides a 38% Decade-Long Performance Gap",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-tesla-suddenly-worth-same-192700154.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schd-6-basis-point-fee-202026218.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T19:27:00+00:00",
+      "timestamp": "2026-07-05T20:20:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LG Display (LPL) Earns ASPICE Level 2 Certification for Automotive Displays",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/lg-display-lpl-earns-aspice-200745096.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:07:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wipro (WIT) Completes Data Center Migration for METRO AG",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wipro-wit-completes-data-center-200725808.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:07:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Integra Resources (ITGR) Appoints Ausenco to Lead Detailed Engineering for DeLamar Project",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/integra-resources-itgr-appoints-ausenco-200701299.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:07:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Repay Holdings (RPAY) Receives Unsolicited Acquisition Proposal from Forager Capital Management",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/repay-holdings-rpay-receives-unsolicited-200653568.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:06:53+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Petco (WOOF) is One of the Best Value Penny Stocks to Buy According to Hedge Funds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/petco-woof-one-best-value-200644831.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:06:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Galiano Gold (GAU): Best Value Penny Stocks to Buy According to Hedge Funds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/galiano-gold-gau-best-value-200634573.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T20:06:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OPEC+ raises output levels again despite tumbling crude prices",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:55:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-FIFA makes unprecedented U-turn to clear Balogun for US\u00a0v Belgium World Cup clash",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:54:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK budget airline easyJet ready to accept $7.3 billion takeover bid from Castlelake - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1JMWENOamFoZXFCNzhqazBKbnE1T3QxeWswYnlyMkgzTWRNQ0lhYmdRNVVTOE9RTU1GNTZaNXQyV0xORmZGLUFhaEF4UlkwWElaRGZnS0xlR0ZOdG1QUmtWUDZKODFtVnliUDJ1TkViQUhiQUt4UE1HcjV0TnpjQWRENV8wTTQ5UHF3dV9vRGFiTG9HMnNuZkxMOXc4V0Q2YUUta2xGZzZzeDlWSHc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:48:05+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michigan Democrat drops out of US Senate primary",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/michigan-democrat-drops-out-of-us-senate-primary-4775492",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T19:42:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=828e1a6e4de2b41c811dd28001a681fae315bade14aff7f0ea8000139f870d2b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T19:27:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -106,6 +250,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Ethereum Lost 22% in 1 Month. Here's Why It Could Still Get Worse",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6708d5bd02a7e6db41d2f981c42f680ee1d423e846b9aca9f01f44b36b0d2b21",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T19:22:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
       "source": "Investing.com News",
@@ -117,14 +273,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T19:04:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Nvidia's surprising product revival tells deeper AI industry story",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2602a393bfd56ff76c797624e474f83818ea2beed25d2a1fd197994bdb21f800",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T19:13:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -151,33 +308,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/7-opec-countries-agree-expand-184751385.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T18:47:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Citi's picks and pans for H2 '26: REITs, tech, consumer, health",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4611528-citis-picks-and-pans-for-h2-26-reits-tech-consumer-health?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-05T18:37:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "White supremacists\u2019 July 4 march counts as free speech in \u2019messy democracy,\u2019 Interior Secretary Burgum says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/white-supremacists-july-4-march-counts-as-free-speech-in-messy-democracy-interior-secretary-burgum-says-4775487",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T18:36:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -195,17 +330,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump to meet leaders of Ukraine, Syria alongside NATO summit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-to-meet-leaders-of-ukraine-syria-alongside-nato-summit-4775486",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T18:06:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israel government says it will defy Supreme Court ruling on media regulator - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0R1Sy1OdjVoUGg2c1p0Um1BLUk0dy1pLV8wVURGTXpfOVV6R3F0Q1VGV3h6LUhfVXVURVJmZkMzdDQ4enZ2azhScUNfM3lGbG9FUWFuVEhERDNHUGpKZTBqbnNuMDNGN01MRVBNM1QyTlBXSXcxS0RSLTZwb2NlT0Rlcmh4VHdueThQc05heVBDcEQ2djROZk5YNTJNSTMxRm5Eb2pZZVgwWC1iWGJiNkZBSUtIZHhvVTRwRlBZUXV0a1dxR3FaNnFCNA?oc=5",
@@ -216,41 +340,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Soccer-US striker Balogun available for Belgium clash despite red card",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T18:00:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israel government says it will defy Supreme Court ruling on media regulator",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israel-government-says-it-will-defy-supreme-court-ruling-on-media-regulator-4775484",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T18:00:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
-      "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T17:50:21+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
@@ -273,30 +363,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why e.l.f. Beauty Stock Jumped 32% in June",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=413f401183c018c0c87f3d5acb4fd7f99164829fbc451ca519e4a2545776f17c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T17:44:27+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11fe92703a6597c628a114a5176373a805f929a77c49082a3a69f9a6e90677a5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T17:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "EasyJet reaches 'agreement in principle' over potential takeover",
       "source": "BBC Business",
@@ -304,17 +370,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-05T17:30:55+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A bigger tax hit to save in interest \u2014 why raiding your 401(k) to pay off credit cards can backfire badly",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/bigger-tax-hit-save-interest-173000406.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T17:30:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -353,46 +408,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Investors with $5M+ are done being landlords \u2014 and one passive strategy pays 10% to 12% 'easy money'",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/investors-5m-done-being-landlords-163000068.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T16:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rate hike readjustment and AI hardware momentum: What to watch this week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T16:00:59+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: What's the outlook for bitcoin?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4611514-sa-asks-whats-the-outlook-for-bitcoin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-05T16:00:51+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Strait of Hormuz has reopened \u2014 why that might be a problem for the oil market: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/the-strait-of-hormuz-has-reopened--why-that-might-be-a-problem-for-the-oil-market-chart-of-the-day-145149603.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T14:51:49+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -764,33 +785,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Zelenskiy denies Russian capture of key eastern city Kostiantynivka - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnNiZ2ZRUk1xcWxoWkcyNjNibHV2R0c2S1E5Ym9TbTNnVHpwWHNWQVRaMXE2T1M0aDRiejN1TC1rTThEX2VlT0hiYnVsWGRWOEFnMGZST2NXOFFiTFF6RTF6cThEb0xnOW9SSlRnZFdRVHZoZHlJd2stZ05BeHdOc0pXWHNFT3pZUFBMd1lzQ0t4TmoxenpXWTV0RmszdmxvNkJ6YXVua0lwQi1VbVpOUEhGNFktVEcwMnprLTRnX0tHeFE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T20:33:58+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-04T19:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T18:56:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

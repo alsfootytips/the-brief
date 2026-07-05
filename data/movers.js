@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T19:50:58.295240+00:00",
+  "generated_at": "2026-07-05T21:01:06.775047+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
+      "move_reason": "News: \"Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?\""
     },
     {
       "ticker": "GEV",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
+      "move_reason": "News: \"Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?\""
     },
     {
       "ticker": "OSCR",
