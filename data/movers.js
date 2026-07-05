@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T15:47:11.042865+00:00",
+  "generated_at": "2026-07-05T17:11:25.225976+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Advanced Micro Devices, Inc.\u2019s (AMD) Server CPU Demand Is Broadening Its AI Growth Sto...\""
+      "move_reason": "News: \"Is Nvidia Undervalued or AMD Overvalued \u2014 or Both?\""
     },
     {
       "ticker": "CRWV",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Buying NuScale Power Stock Today Could 10X Your Money in 10 Years\""
+      "move_reason": "News: \"3 Smart Stocks to Buy Now\""
     },
     {
       "ticker": "GEV",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Advanced Micro Devices, Inc.\u2019s (AMD) Server CPU Demand Is Broadening Its AI Growth Sto...\""
+      "move_reason": "News: \"Is Nvidia Undervalued or AMD Overvalued \u2014 or Both?\""
     },
     {
       "ticker": "APA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Buying NuScale Power Stock Today Could 10X Your Money in 10 Years\""
+      "move_reason": "News: \"3 Smart Stocks to Buy Now\""
     },
     {
       "ticker": "OSCR",

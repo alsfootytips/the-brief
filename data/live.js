@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-05T15:47:11.048398+00:00",
+  "generated_at": "2026-07-05T17:11:25.232879+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T15:47:11.045405+00:00",
+      "timestamp": "2026-07-05T17:11:25.229168+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T15:47:11.045401+00:00",
+      "timestamp": "2026-07-05T17:11:25.229162+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T15:47:11.045390+00:00",
+      "timestamp": "2026-07-05T17:11:25.229148+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T15:47:11.045381+00:00",
+      "timestamp": "2026-07-05T17:11:25.229137+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -52,24 +52,182 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What the Buffett Market Valuation Indicator at Record Highs Means for Investors",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buffett-market-valuation-indicator-record-153100382.html",
+      "headline": "'Minions & Monsters' leads holiday box office despite franchise-low opening",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611525-minions-and-monsters-leads-holiday-box-office-despite-franchise-low-opening?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T15:31:00+00:00",
+      "timestamp": "2026-07-05T16:58:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "The $185,000 Portfolio That Covers Groceries, Utilities, and the Phone Bill Every Month",
+      "headline": "Prediction: Energy Transfer (ET) Will Crush the S&P 500 in the Second-Half of 2026.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/185-000-portfolio-covers-groceries-152105410.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-energy-transfer-et-crush-165155909.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T15:21:05+00:00",
+      "timestamp": "2026-07-05T16:51:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-why-microsofts-165000183.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What are the key factors behind the slowdown in tech hiring?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/what-are-the-key-factors-behind-the-slowdown-in-tech-hiring-4775481",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:44:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EasyJet agrees in principle to $6.9B takeover offer from Castlelake",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611524-easyjet-agrees-in-principle-to-6_9b-takeover-offer-from-castlelake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:41:42+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "easyJet agrees in principle on Castlelake\u2019s sweetened \u00a36.90 per share bid",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/easyjet-agrees-in-principle-on-castlelakes-sweetened-690-per-share-bid-4775480",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:36:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Three sons of Iran\u2019s slain leader Khamenei appear at funeral, not his successor",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/three-sons-of-irans-slain-leader-khamenei-appear-at-funeral-not-his-successor-4775406",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:36:32+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Investors with $5M+ are done being landlords \u2014 and one passive strategy pays 10% to 12% 'easy money'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/investors-5m-done-being-landlords-163000068.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rate hike readjustment and AI hardware momentum: What to watch this week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:00:59+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: What's the outlook for bitcoin?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611514-sa-asks-whats-the-outlook-for-bitcoin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T16:00:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Expect Fireworks As Dow Jones Futures Open; Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:55:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Uber pauses Europe food delivery expansion as it pursues Delivery Hero deal, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/uber-pauses-europe-food-delivery-expansion-as-it-pursues-delivery-hero-deal-ft-reports-4775399",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:54:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Smart Stocks to Buy Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19f4d8126c94e49251ab127ffe4f52432473ec57f2f0cbb6e70addc66dc1d105",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T15:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:40:48+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: This Energy Stock Will Make You a Lot Richer by 2029",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c7c86ab9dcc0022f4d696a34632e5136a8fb0b657d86ddbc59666baca6a9f01",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T15:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "What the Buffett Market Valuation Indicator at Record Highs Means for Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6c078a594e031f00b7cadca56cfbaf72f7a205f4ac6fa183901f8cfc6c09081",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T15:31:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -103,6 +261,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-05T14:42:38+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Is Nvidia Undervalued or AMD Overvalued \u2014 or Both?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4cdbe11b13277114dc23b5d540c7aa78b8f052b1f31e3977168af5ff1d6c1591",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T14:38:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -205,39 +375,14 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "How Buying NuScale Power Stock Today Could 10X Your Money in 10 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb1c88a8d2128040f33c92881d31f450a114cebee5587898b8ea4f53200ff4b6",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T13:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Dividend Stocks That Recently Hit 52-Week Lows to Buy in July",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3ce575027a30357b45c79f5c0e9f3403ae89e91ae17ced31dc269ee4d7856f4",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T13:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Fed Chair Kevin Warsh May Have Driven a Dagger Into Wall Street's Heart With This Blunt 7-Word Statement",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=feab17cfca9d62203629aa1149748f1b9e941183e7a16312e4804db4fbfafe54",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T13:26:00+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "ticker": null,
+      "headline": "How Honeywell Technologies\u2019 (HON) Post-Spin Structure Creates a Cleaner Automation Thesis",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-technologies-hon-post-spin-132420080.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T13:24:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -369,17 +514,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What are the most powerful forces shaping wealth creation today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/what-are-the-most-powerful-forces-shaping-wealth-creation-today-4775426",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T12:39:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
@@ -425,28 +559,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T12:02:36+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Three sons of Iran\u2019s slain leader Khamenei appear at funeral, not his successor",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/three-sons-of-irans-slain-leader-khamenei-appear-at-funeral-not-his-successor-4775406",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T12:00:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "French President Macron to visit Syria, Syrian presidency says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlpGYWxDdEIwTHZtZ2dZUm1rU18xUzNJa24yU2F1TEdPUVh2ZHVLdXh1bkE3dk5icVlwZ0o0bEQ4VVdjaElia190dEZyaVQ3V3hpbzlnSEFjaFFQRHNvV21QOURoMlVIZ19veEFXTnFubnZGZDRxWV9YUlh6SmswN1p1aC1td0dPMkpoY2h3djdhcWZ2djMza2lPRk9RaXBuYTFzOHpvZ1ZSTnV2cFdsYUNB?oc=5",
@@ -468,17 +580,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trump gives campaign-style July 4 speech on National Mall for US 250th anniversary",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T11:42:50+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Why CoreWeave Stock Plummeted This Week",
       "source": "Yahoo",
@@ -491,29 +592,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/opec-set-to-approve-another-oil-output-increase-sources-say-4775414",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T11:30:28+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon at 32: From selling books to a still-evolving retail, cloud, and AI juggernaut",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4609300-amazon-at-32-from-selling-books-to-a-still-evolving-retail-cloud-and-ai-juggernaut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T11:00:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer",
       "source": "SeekingAlpha",
@@ -523,28 +601,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Uber pauses most Europe Eats expansion as Delivery Hero pursuit continues - FT",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4611517-uber-pauses-most-europe-eats-expansion-as-delivery-hero-pursuit-continues-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T09:43:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Michael Burry says 'the end is nigh' for AI trade, channels The Joker",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4611516-michael-burry-says-the-end-is-nigh-for-ai-trade-channels-the-joker?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T09:23:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -603,18 +659,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-05T05:57:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Is AMD Stock a Buy Before July 22?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c87f4484f59f6dec668ba70bed63bfdce150ce3ddc9d09e04ee573c1618c4e2",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T05:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -776,51 +820,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer on AST SpaceMobile: \u201cI Think It Can Make Money in Two Years\u201d",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ast-spacemobile-think-143029882.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:30:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Prefers GEV Over NuScale, Calls the Latter \u201cToo Speculative\u201d",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-gev-over-143021035.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:30:21+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Pick: GEV"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Says He Likes Agnico Eagle But Believes Gold Is Going Lower",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-agnico-143005546.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:30:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kyndryl and Microsoft Team Up on Cloud Sovereignty. Don\u2019t Count on This Being a Game-Changer for KD Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-microsoft-team-cloud-sovereignty-143002149.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T14:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
