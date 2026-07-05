@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T10:52:01.701623+00:00",
+  "generated_at": "2026-07-05T12:17:10.951238+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Robinhood Stock Dropped 11% in the first half of 2026\""
+      "move_reason": "News: \"Where Will Solana Be in 20 Years?\""
     },
     {
       "ticker": "GEV",
@@ -327,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Bull Market Should Charge Into 2027\""
+      "move_reason": "News: \"The Millionaire Boom Is Real - But So Is The Market Trap\""
     },
     {
       "ticker": "SPY",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Bull Market Should Charge Into 2027\""
+      "move_reason": "News: \"The Millionaire Boom Is Real - But So Is The Market Trap\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Robinhood Stock Dropped 11% in the first half of 2026\""
+      "move_reason": "News: \"Where Will Solana Be in 20 Years?\""
     },
     {
       "ticker": "OSCR",
