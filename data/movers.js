@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T21:01:06.775047+00:00",
+  "generated_at": "2026-07-05T22:13:15.209693+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Group (NBIS) Launches AI Cloud 3.6 With Echo For Natural Language Control\""
+      "move_reason": "News: \"Equity REITs: Takeaways From REITWeek 2026\""
     },
     {
       "ticker": "META",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
+      "move_reason": "News: \"The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Ca...\""
     },
     {
       "ticker": "CRWV",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why CoreWeave Stock Plummeted This Week\""
+      "move_reason": "News: \"Equity REITs: Takeaways From REITWeek 2026\""
     },
     {
       "ticker": "PWR",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?\""
+      "move_reason": "News: \"3 Dividend ETF Picks That Could Build Serious Long-Term Wealth\""
     },
     {
       "ticker": "GEV",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD vs Palantir: Which AI Giant Is a Better Buy?\""
+      "move_reason": "News: \"The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Ca...\""
     },
     {
       "ticker": "APA",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why CoreWeave Stock Plummeted This Week\""
+      "move_reason": "News: \"Equity REITs: Takeaways From REITWeek 2026\""
     },
     {
       "ticker": "DG",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Group (NBIS) Launches AI Cloud 3.6 With Echo For Natural Language Control\""
+      "move_reason": "News: \"Equity REITs: Takeaways From REITWeek 2026\""
     },
     {
       "ticker": "NVDA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?\""
+      "move_reason": "News: \"3 Dividend ETF Picks That Could Build Serious Long-Term Wealth\""
     },
     {
       "ticker": "OSCR",
