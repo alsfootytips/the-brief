@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-06T23:00:02.971928+00:00",
+  "generated_at": "2026-07-06T23:46:23.299216+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 3.74,
-      "price": 1154.7,
+      "change_pct": 3.73,
+      "price": 1154.6,
       "is_watchlist": true,
-      "timestamp": "2026-07-06T23:00:02.779597+00:00",
+      "timestamp": "2026-07-06T23:46:23.296205+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 6.35,
-      "price": 86.93,
+      "change_pct": 5.57,
+      "price": 86.3,
       "is_watchlist": true,
-      "timestamp": "2026-07-06T23:00:02.779593+00:00",
+      "timestamp": "2026-07-06T23:46:23.296202+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,13 +29,68 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 6.48,
-      "price": 551.36,
+      "change_pct": 6.22,
+      "price": 550.04,
       "is_watchlist": true,
-      "timestamp": "2026-07-06T23:00:02.779584+00:00",
+      "timestamp": "2026-07-06T23:46:23.296193+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon bars breastfeeding boss from business course",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T23:31:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T23:30:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Banks accused of failing most vulnerable customers",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T23:29:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump calls Walmart \u2018patriotic\u2019 for cutting beef prices \u2014 in a stark change of tune",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T23:27:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Balogun to start for U.S. vs. Belgium after Trump defends call to FIFA",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T23:19:34+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -44,7 +99,7 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/06/graham-platner-maine-senate-allegation-response.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-06T22:54:41+00:00",
+      "timestamp": "2026-07-06T23:12:43+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -71,6 +126,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says Sikorsky to fund White House helicopter landing pad - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVFmNnZHQmR4OTYwck8tbXg5UlZmUHBfWjlJRWtBY2xPZmRkS0sxZTk5QXpfRUoxT2Q4dm95Uk9NMjdQakZIbzJMRWVjSDNsNExHb01uRV84eEcyUXhZeHZSWE53TUh4UTkwZWVDWm5fV1l6SG9hLWEwQWZHV3Voc0lKeTY4YnhNTGF4ZnBoNmh4T0d0RkZuc0xWb3RuNXlOSXN4U2xjSzU1azJBd2FPWmc0WHBCanY1OXBUeVJmbw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-06T22:21:43+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "U.S.-Belgium match could draw record TV audience amid the Trump World Cup controversy",
@@ -90,6 +160,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-06T22:14:17+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can China repeat its EV success with robotaxis?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T22:01:07+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -386,17 +467,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Your 5 biggest \u2018Trump account\u2019 questions, answered",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-5-biggest-questions-about-trump-accounts-answered-421d9f6f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T20:53:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "AMD, TER Stocks Jump After Goldman Sachs Lifts Price Targets",
       "source": "Yahoo",
@@ -444,29 +514,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil prices settle at pre-Iran war levels as crude output grows - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T20:12:28+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Belgium loses appeal of Balogun eligibility after Trump defends intervention with FIFA",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T20:11:06+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -657,21 +704,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says Sikorsky to fund White House helicopter landing pad - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVFmNnZHQmR4OTYwck8tbXg5UlZmUHBfWjlJRWtBY2xPZmRkS0sxZTk5QXpfRUoxT2Q4dm95Uk9NMjdQakZIbzJMRWVjSDNsNExHb01uRV84eEcyUXhZeHZSWE53TUh4UTkwZWVDWm5fV1l6SG9hLWEwQWZHV3Voc0lKeTY4YnhNTGF4ZnBoNmh4T0d0RkZuc0xWb3RuNXlOSXN4U2xjSzU1azJBd2FPWmc0WHBCanY1OXBUeVJmbw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-06T16:44:08+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Student loan servicers begin 90-day countdown for borrowers to leave SAVE plan",
@@ -691,6 +723,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-06T16:36:28+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israel kills 4, including school principal, in south Lebanon, health ministry says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1JITmpGTGthNHVGLWZtTDZSY3ZVcjZ6bVJTYWhoR2M4eTRVdzVhdHRoM2VXemV5eGZsMHd6WV93UF9tczhkcU9yeERrbFVmaXlfbmFsVDlmMXdabGY5R3VyWmlPQVFlajFpa3Y5U09oc1BMSm5DeTFxNENiUHMyOXRLY0FRVklfZllyaUxkNEhUSDNlN0xKcVpSWnhsaWtfYmh6OUxQUUZYWmFyWVRoVXowRkhZNEE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T16:19:32+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -847,17 +890,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "EasyJet agrees 'in principle' to \u00a35.2bn takeover deal",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T09:41:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta (PWR): The Best Pick and Shovel AI Stock to Invest In",
       "source": "Yahoo",
@@ -929,17 +961,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "What Sky buying ITV could mean for your favourite shows",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T06:20:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "BE Stock Is Trading At A Massive Premium To Peers \u2014 Retail Bulls Still See A Nearly 4x Rally",
       "source": "Yahoo",
@@ -953,22 +974,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T02:19:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Three things you can do to stop EU border checks at the airport costing you",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-05T23:18:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sentiment Could Be Turning Sour on Nvidia. Here\u2019s Where 1 Analyst Thinks NVDA Stock Is Headed Next.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sentiment-could-turning-sour-nvidia-153002046.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rich, Young Investors Are Losing Faith In The Stock Market To Deliver \u2018Above Average Returns\u2019 \u2014 Here\u2019s Where They\u2019re Putting Their Money Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rich-young-investors-losing-faith-150105846.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:01:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The S&P 500\u2019s Best Quarter Since 2020 Produced Big Winners And Losers. Here\u2019s Where to Look Now for Q3 Profits.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-best-quarter-since-150002142.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dear Netflix Stock Fans, Mark Your Calendars for July 16",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-netflix-stock-fans-mark-150002883.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -997,55 +1051,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Universal Technical Institute's CEO Sold Company Shares Worth $3.9 Million. Here's a Closer Look at the Transaction.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/universal-technical-institutes-ceo-sold-140901858.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T14:09:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for July 16",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dear-taiwan-semi-stock-fans-140002938.html",
       "is_watchlist": false,
       "timestamp": "2026-07-05T14:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "British American Tobacco Is Cutting 5,500 Jobs. How to Play the High-Yield Dividend Stock Here.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/british-american-tobacco-cutting-5-134501060.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T13:45:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dell Stock Has Very Attractive Short-Put Yields - Over 3.8% for the Next 2 Weeks",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/dell-stock-very-attractive-short-133002117.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T13:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Honeywell Technologies\u2019 (HON) Post-Spin Structure Creates a Cleaner Automation Thesis",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-technologies-hon-post-spin-132420080.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T13:24:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1151,17 +1161,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/02/prediction-markets-mostly-have-thinly-traded-contracts-.html",
       "is_watchlist": false,
       "timestamp": "2026-07-03T13:57:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-03T10:46:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
