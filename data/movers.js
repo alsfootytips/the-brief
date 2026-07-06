@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-06T01:18:50.811046+00:00",
+  "generated_at": "2026-07-06T05:57:15.373585+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second ...\""
+      "move_reason": "News: \"Self-Driving Startup Turing Gets AMD Backing, Adopts AMD GPUs\""
     },
     {
       "ticker": "CRWV",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Equity REITs: Takeaways From REITWeek 2026\""
+      "move_reason": "News: \"CoreWeave (CRWV) Launches AI-Enabled Research Agent, ARIA\""
     },
     {
       "ticker": "PWR",
@@ -280,7 +280,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Historic Warning Signal Suggests the Stock Market Is Headed Somewhere Investors Do Not Wan...\""
+      "move_reason": "News: \"Why Palantir Stock Popped This Week\""
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 1117.12,
+      "change_pct": -1.52,
+      "volume_ratio": 0.81,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Jim Cramer makes bold buy call on one booming energy stock\""
     },
     {
       "ticker": "SOFI",
@@ -315,7 +327,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer\""
+      "move_reason": "News: \"Buying Meta And Micron At +20% Discount, Not Without Caution\""
     },
     {
       "ticker": "SPY",
@@ -351,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second ...\""
+      "move_reason": "News: \"Self-Driving Startup Turing Gets AMD Backing, Adopts AMD GPUs\""
     },
     {
       "ticker": "APA",
@@ -375,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Equity REITs: Takeaways From REITWeek 2026\""
+      "move_reason": "News: \"CoreWeave (CRWV) Launches AI-Enabled Research Agent, ARIA\""
     },
     {
       "ticker": "DG",
@@ -390,6 +402,18 @@ window.theBriefMovers = {
       "move_reason": "Tracking XLP sector (+2.03% today)"
     },
     {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 1117.12,
+      "change_pct": -1.52,
+      "volume_ratio": 0.81,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Jim Cramer makes bold buy call on one booming energy stock\""
+    },
+    {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
       "price": 297.34,
@@ -399,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer\""
+      "move_reason": "News: \"Buying Meta And Micron At +20% Discount, Not Without Caution\""
     },
     {
       "ticker": "NBIS",
@@ -423,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Historic Warning Signal Suggests the Stock Market Is Headed Somewhere Investors Do Not Wan...\""
+      "move_reason": "News: \"Why Palantir Stock Popped This Week\""
     },
     {
       "ticker": "OSCR",
@@ -705,6 +729,30 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>NVDA</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 1117.12,
+      "change_pct": -1.52,
+      "score": 5.0,
+      "signals": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "+2 analyst buy recs added recently"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "+2 analyst buy recs added recently"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "analyst-upgrade"
+      ],
+      "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLI"
     },
     {
       "ticker": "TTD",
