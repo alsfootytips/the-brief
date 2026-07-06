@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-06T22:38:07+00:00",
+  "generated_at": "2026-07-06T23:00:02+00:00",
   "by_date": {
     "2026-07-06": [
       {
@@ -959,7 +959,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FBK",
         "date": "2026-07-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.1705,
         "revenue_estimate": 180094685,
         "is_watchlist": false

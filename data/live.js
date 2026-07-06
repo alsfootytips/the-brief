@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-06T22:38:07.541974+00:00",
+  "generated_at": "2026-07-06T23:00:02.971928+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 3.9,
-      "price": 1156.5,
+      "change_pct": 3.74,
+      "price": 1154.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-06T22:38:07.539055+00:00",
+      "timestamp": "2026-07-06T23:00:02.779597+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 6.55,
-      "price": 87.1,
+      "change_pct": 6.35,
+      "price": 86.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-06T22:38:07.539051+00:00",
+      "timestamp": "2026-07-06T23:00:02.779593+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 7.12,
-      "price": 554.68,
+      "change_pct": 6.48,
+      "price": 551.36,
       "is_watchlist": true,
-      "timestamp": "2026-07-06T22:38:07.539041+00:00",
+      "timestamp": "2026-07-06T23:00:02.779584+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,12 +40,34 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Graham Platner denies sex assault claim as Democrats urge him to quit Maine Senate campaign",
+      "headline": "Graham Platner denies sex assault claim as Democrats urge him to quit Maine Senate race",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/06/graham-platner-maine-senate-allegation-response.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-06T22:36:35+00:00",
+      "timestamp": "2026-07-06T22:54:41+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn, soybean futures surge on hotter, drier Midwest weather",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4611814-corn-soybean-futures-surge-on-hotter-drier-midwest-weather?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T22:42:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-nasdaq-100-has-been-far-more-volatile-than-the-s-p-500-now-add-spacex-to-the-mix-cd397c36?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T22:39:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -182,17 +204,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "L3Harris lands up to $499.6M Missile Defense Agency follow-on contract",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4611807-l3harris-lands-up-to-4996m-missile-defense-agency-follow-on-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T21:31:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -395,17 +406,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron\u2019s stock gains, signaling a \u2018return to optimism\u2019 about the chip sector",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-06T20:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -975,6 +975,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Google Just Launched 2 New AI Models. What That Means for GOOGL Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-just-launched-2-ai-143002336.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T14:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
@@ -986,22 +997,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for July 16",
+      "headline": "Universal Technical Institute's CEO Sold Company Shares Worth $3.9 Million. Here's a Closer Look at the Transaction.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-taiwan-semi-stock-fans-140002938.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/universal-technical-institutes-ceo-sold-140901858.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T14:00:02+00:00",
+      "timestamp": "2026-07-05T14:09:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Septerna's Chief People Officer Sold Nearly 12,000 Company Shares. What Does That Mean for Investors?",
+      "headline": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for July 16",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/septernas-chief-people-officer-sold-135501008.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-taiwan-semi-stock-fans-140002938.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-05T13:55:01+00:00",
+      "timestamp": "2026-07-05T14:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1035,17 +1046,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-technologies-hon-post-spin-132420080.html",
       "is_watchlist": false,
       "timestamp": "2026-07-05T13:24:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How NVIDIA Corporation\u2019s (NVDA) AI Factory Model Could Turn Blackwell Demand Into Usage-Linked Revenue",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-ai-factory-131817409.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T13:18:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
