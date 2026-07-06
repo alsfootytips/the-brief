@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-05T23:29:39.347996+00:00",
+  "generated_at": "2026-07-06T01:18:50.816488+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 670.06,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T23:29:39.345201+00:00",
+      "timestamp": "2026-07-06T01:18:50.813636+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -5.8,
       "price": 215.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T23:29:39.345197+00:00",
+      "timestamp": "2026-07-06T01:18:50.813632+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 82.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T23:29:39.345187+00:00",
+      "timestamp": "2026-07-06T01:18:50.813622+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,10 +44,167 @@ window.theBriefLive = {
       "change_pct": -3.92,
       "price": 519.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-05T23:29:39.345178+00:00",
+      "timestamp": "2026-07-06T01:18:50.813613+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Record wave of IPO lock-up shares to hit Hong Kong market",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/record-wave-of-ipo-lockup-shares-to-hit-hong-kong-market-4775510",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T01:12:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T01:06:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic plans to buy 1.4-GW Australian data centre capacity, AFR reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T01:04:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shares edge higher in Asia as oil dips, earnings loom",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/shares-edge-higher-in-asia-as-oil-dips-earnings-loom-4775508",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T01:00:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T00:56:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall St futures rise as investors reassess AI trade, await Fed minutes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-investors-reassess-ai-trade-await-fed-minutes-4775507",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T00:54:53+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil slips after OPEC+ agrees to raise output targets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-slips-after-opec-agrees-to-raise-output-targets-4775506",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T00:42:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran explores Japan oil sales as buyers seek longer U.S. waiver - Reuters",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iran-explores-japan-oil-sales-as-buyers-seek-longer-us-waiver--reuters-4775505",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T00:38:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korea starts 24-hour trading of dollar-won",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/south-korea-starts-24hour-trading-of-dollarwon-4775504",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T00:36:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wegovy weight loss pill now available in UK - here's what you need to know",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-06T00:06:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Quant snapshot: PENG, and LEVI lead top-rated names as EPAC and SMPL lag",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4609648-quant-snapshot-peng-levi-lead-top-rated-names-as-epac-and-smpl-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-05T23:59:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Historic Warning Signal Suggests the Stock Market Is Headed Somewhere Investors Do Not Want to Go",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=911956b6df09cbe810eb70f2903fb8244d0ba8fed9d29aa2cff85789c97ec12d",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T23:50:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Revolution Medicines Is Up Nearly 140% in 2026. Is the Hot Biotech Stock Still a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4ce66f6b77034b9ed46b4351adaaa2d1c5a465468514aabc981508f5d0f7f61",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T23:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Robinhood Stock Jumped This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50cc3c5bd8cceb328e81357035614c7f93bede9cb5deb4e0c63f4e45cb5dec8a",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T23:32:09+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -63,138 +220,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Impeachment trial of Philippine VP Sara Duterte to open in divided Senate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/impeachment-trial-of-philippine-vp-sara-duterte-to-open-in-divided-senate-4775499",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T23:13:57+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-likely-to-post-18fold-jump-in-profit-on-surging-ai-demand-for-memory-4775498",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T23:13:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T23:09:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T23:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Top Cryptocurrency to Buy and Hold Right Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrency-buy-hold-now-230300283.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T23:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:56:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cheniere Energy Partners, L.P. (CQP) Strengthens Financial Position with $2B Offering Amid LNG Expansion Plans",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/cheniere-energy-partners-l-p-225352790.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:53:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wipro Limited (WIT) Asserts Datacenter Prowess with METRO IT Migration",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/wipro-limited-wit-asserts-datacenter-225320129.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:53:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BCE Inc. (BCE) Inks Major AI Infrastructure Deal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bce-inc-bce-inks-major-225308474.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:53:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "R&D Change Underlines Sanofi SA (SNY) Prospects as One of the Best Dividend Stocks to Buy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/r-d-change-underlines-sanofi-225257398.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:52:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AngloGold Ashanti PLC (AU) Faces Diverging Analyst Views Amid Market and Regulatory Shifts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-plc-au-faces-225226198.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:52:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Three sons of Iran\u2019s slain leader Khamenei appear at funeral, not his successor",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/three-sons-of-irans-slain-leader-khamenei-appear-at-funeral-not-his-successor-4775406",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:36:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
@@ -202,6 +227,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-05T22:30:44+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f953a56cd06571ab0afc3485ff0411540f40b4bd32f11cb67e55c0c224c1d5b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-05T22:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -227,76 +264,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-exploring-oil-sales-to-japan-buyers-seek-longer-sanctions-waiver-sources-say-4775497",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T22:06:27+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Death toll from Venezuela quakes rises to 3,342",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-3342-4775495",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T21:48:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Dividend ETF Picks That Could Build Serious Long-Term Wealth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=50270cd18478dddd6879b70936015826b54e6894c8f2891040228c36231c5cc1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T21:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-FIFA makes U-turn to clear Balogun for US v Belgium World Cup clash following call from Trump",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T21:30:54+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/more-than-100-detained-as-leftist-groups-hold-antinato-protests-in-turkey-4775491",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T21:30:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
-      "headline": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce0a13144e0dcf0977ae1fa04bbc5e6ccfce924b1f3bf88c57572d4c82fcc52a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T21:26:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ce0a13144e0dcf0977ae1fa04bbc5e6ccfce924b1f3bf88c57572d4c82fcc52a",
@@ -320,17 +288,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4775496",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
@@ -338,18 +295,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-05T21:10:29+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Bitcoin Is Down 53%. Is It Finally Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ecc7451ac3d1121b19645debd38165d1e2c7c06f78660a35598c0606436626c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T20:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -417,18 +362,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-05T18:01:10+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD vs Palantir: Which AI Giant Is a Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=569f1da82d17ca047c13d9c42c07a482936fb77a2999cb07d0d2d2967d694334",
-      "is_watchlist": true,
-      "timestamp": "2026-07-05T17:50:21+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -507,17 +440,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-05T16:41:42+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: What's the outlook for bitcoin?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4611514-sa-asks-whats-the-outlook-for-bitcoin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-05T16:00:51+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -866,6 +788,94 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Says Corning\u2019s Recent Decline \u201cSeems Extreme\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-corning-recent-142113842.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:21:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer on Cardinal Health: \u201cIt\u2019s Been a Real Stalwart, and I Don\u2019t Think It\u2019s Done\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cardinal-health-real-142048565.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:20:48+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer on Palantir: \u201cThis Is the Fastest Grower of the Stocks I Follow, and It\u2019s Been Crushed\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-fastest-grower-142010542.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:20:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Missed the First Wave of Artificial Intelligence (AI) Stocks? These 2 Aggressive Plays Are Your Second-Chance Buys",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/missed-first-wave-artificial-intelligence-142000436.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer on ServiceNow: \u201cThese Gains, They May Be Ephemeral\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-servicenow-gains-may-141957705.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:19:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Explains Why He Thinks Meta Has \u201cMore Room to Run\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-thinks-141944498.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:19:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Calls Medline the \u201cBest IPO of the Year\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-medline-best-141935578.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:19:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Highlights General Mills\u2019 \u201cBlowout Quarter\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-general-mills-141923785.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-04T14:19:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Services, Inc. (PWR) Gains Growth Momentum with Index Shift and PT Raise",
       "source": "Yahoo",
@@ -908,17 +918,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-04T09:33:19+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What could new rights for unmarried couples mean for your money?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-04T01:10:13+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1062,30 +1061,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "APA",
-      "headline": "APA (APA) Stock Moves 1.54%: What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72870076657886558b17faa591d2fc62115e08fe7eabc1e9393933a6b3a7862a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-02T22:15:02+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Pick: APA"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "Stocks making big moves yesterday: ServiceNow, CoStar, Freshpet, The Trade Desk, and Amplitude",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e888c6c78b8b22cce8e4871ac0c533c18adfc3c61d15ba8d55464ec88618504",
-      "is_watchlist": true,
-      "timestamp": "2026-07-02T21:48:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "A hot summer trend in the sharing economy? Rental swimming pools",
       "source": "NPR Business",
@@ -1116,18 +1091,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-02T18:28:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Why Is Dollar General (DG) Up 9.6% Since Last Earnings Report?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=759e0ec1c11d33f2f36e104ad29ad556c1e9ad8c845a58966394c100cd4facd9",
-      "is_watchlist": true,
-      "timestamp": "2026-07-02T15:30:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

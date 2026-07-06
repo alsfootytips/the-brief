@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-05T23:29:39.342692+00:00",
+  "generated_at": "2026-07-06T01:18:50.811046+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -79,7 +79,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Cash-Producing Stocks with Exciting Potential and 1 Facing Challenges\""
+      "move_reason": ""
     },
     {
       "ticker": "OXY",
@@ -91,7 +91,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can OXY's Robust Proved Reserves Strengthen Its Long-Term Returns?\""
+      "move_reason": ""
     },
     {
       "ticker": "MSFT",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Ca...\""
+      "move_reason": "News: \"AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second ...\""
     },
     {
       "ticker": "CRWV",
@@ -280,19 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Dividend ETF Picks That Could Build Serious Long-Term Wealth\""
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1117.12,
-      "change_pct": -1.52,
-      "volume_ratio": 0.81,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Jim Cramer makes bold buy call on one booming energy stock\""
+      "move_reason": "News: \"Historic Warning Signal Suggests the Stock Market Is Headed Somewhere Investors Do Not Wan...\""
     },
     {
       "ticker": "SOFI",
@@ -363,7 +351,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Ca...\""
+      "move_reason": "News: \"AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second ...\""
     },
     {
       "ticker": "APA",
@@ -375,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Cash-Producing Stocks with Exciting Potential and 1 Facing Challenges\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -400,18 +388,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "Tracking XLP sector (+2.03% today)"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1117.12,
-      "change_pct": -1.52,
-      "volume_ratio": 0.81,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Jim Cramer makes bold buy call on one booming energy stock\""
     },
     {
       "ticker": "IWM",
@@ -447,7 +423,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Dividend ETF Picks That Could Build Serious Long-Term Wealth\""
+      "move_reason": "News: \"Historic Warning Signal Suggests the Stock Market Is Headed Somewhere Investors Do Not Wan...\""
     },
     {
       "ticker": "OSCR",
@@ -471,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can OXY's Robust Proved Reserves Strengthen Its Long-Term Returns?\""
+      "move_reason": ""
     },
     {
       "ticker": "PWR",
@@ -731,54 +707,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1117.12,
-      "change_pct": -1.52,
-      "score": 5.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "+2 analyst buy recs added recently"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "+2 analyst buy recs added recently"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "analyst-upgrade"
-      ],
-      "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLI"
-    },
-    {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 32.46,
-      "change_pct": 1.85,
-      "score": 4.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 7.6 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 7.6 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 19.18,
@@ -851,6 +779,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 32.46,
+      "change_pct": 1.85,
+      "score": 3.0,
+      "signals": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 7.6 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 7.6 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     },
     {
       "ticker": "TPL",
