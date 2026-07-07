@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-07T10:32:34.032750+00:00",
+  "generated_at": "2026-07-07T13:05:33.813000+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -22.06,
@@ -52,7 +52,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -25.7,
       "return_52w_low": 380.86,
       "realized_vol_30d_pct": 7.11,
-      "trailing_pe": 82.24711,
+      "trailing_pe": 81.93077,
       "forward_pe": 589.7237,
       "price_to_sales": 61.607693,
       "price_to_book": 7.5343966,
@@ -190,7 +190,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.285,
       "market_cap": 11473643520,
       "beta": 0.347,
-      "dividend_yield": 3.09,
+      "dividend_yield": 3.08,
       "short_ratio": 5.19,
       "short_percent_of_float": 0.1035,
       "analyst_recs": {
@@ -304,7 +304,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -14.46,
       "return_52w_low": 30.05,
       "realized_vol_30d_pct": 1.36,
-      "trailing_pe": 19.854063,
+      "trailing_pe": 20.103065,
       "forward_pe": null,
       "price_to_sales": null,
       "price_to_book": 1.0194762,
@@ -329,7 +329,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -0.52,
       "return_52w_low": 40.52,
       "realized_vol_30d_pct": 1.22,
-      "trailing_pe": 19.98376,
+      "trailing_pe": 18.518578,
       "forward_pe": null,
       "price_to_sales": null,
       "price_to_book": 1.3667499,
@@ -450,7 +450,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.133,
       "market_cap": 25647607808,
       "beta": 0.247,
-      "dividend_yield": 2.0,
+      "dividend_yield": 2.03,
       "short_ratio": 1.91,
       "short_percent_of_float": 0.0405,
       "analyst_recs": {
@@ -522,7 +522,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -1.94,
       "return_52w_low": 117.95,
       "realized_vol_30d_pct": 3.81,
-      "trailing_pe": 33.71496,
+      "trailing_pe": 33.66569,
       "forward_pe": 46.90413,
       "price_to_sales": 7.8622527,
       "price_to_book": 22.236292,
