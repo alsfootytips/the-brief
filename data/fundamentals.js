@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-06T23:46:23.349493+00:00",
+  "generated_at": "2026-07-07T03:24:49.112348+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -22.06,
@@ -14,7 +14,7 @@ window.theBriefFundamentals = {
       "forward_pe": -74.04109,
       "price_to_sales": 7.575079,
       "price_to_book": 9.665735,
-      "enterprise_to_ebitda": 25.621,
+      "enterprise_to_ebitda": 26.472,
       "profit_margin": -0.25566,
       "gross_margin": 0.69375,
       "operating_margin": -0.069299996,
@@ -27,14 +27,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.2299,
       "analyst_recs": {
         "strongBuy": 10,
-        "buy": 17,
+        "buy": 19,
         "hold": 13,
         "sell": 1,
         "strongSell": 1,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -1,
+        "buy_delta": 2,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -68,15 +68,15 @@ window.theBriefFundamentals = {
       "short_ratio": 2.93,
       "short_percent_of_float": 0.2335,
       "analyst_recs": {
-        "strongBuy": 5,
+        "strongBuy": 6,
         "buy": 10,
-        "hold": 6,
+        "hold": 7,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -2,
+        "buy_delta": 0,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -112,14 +112,14 @@ window.theBriefFundamentals = {
       "analyst_recs": {
         "strongBuy": 5,
         "buy": 13,
-        "hold": 22,
-        "sell": 3,
+        "hold": 20,
+        "sell": 4,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -2,
-        "sell_delta": 2
+        "buy_delta": 0,
+        "sell_delta": 1
       },
       "insider_recent_90d": {
         "buys": 3,
@@ -140,7 +140,7 @@ window.theBriefFundamentals = {
       "forward_pe": 21.176565,
       "price_to_sales": 0.7125759,
       "price_to_book": 5.646552,
-      "enterprise_to_ebitda": 84.893,
+      "enterprise_to_ebitda": 79.291,
       "profit_margin": -0.00296,
       "gross_margin": 0.17389,
       "operating_margin": 0.15151,
@@ -153,15 +153,15 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0712,
       "analyst_recs": {
         "strongBuy": 2,
-        "buy": 6,
+        "buy": 7,
         "hold": 9,
-        "sell": 2,
+        "sell": 1,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
+        "buy_delta": 1,
+        "sell_delta": -1
       },
       "insider_recent_90d": {
         "buys": 2,
@@ -182,7 +182,7 @@ window.theBriefFundamentals = {
       "forward_pe": 7.710195,
       "price_to_sales": 1.370642,
       "price_to_book": 1.7770721,
-      "enterprise_to_ebitda": 3.19,
+      "enterprise_to_ebitda": 3.197,
       "profit_margin": 0.18313,
       "gross_margin": 0.72273004,
       "operating_margin": 0.38487998,
@@ -195,15 +195,15 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.1035,
       "analyst_recs": {
         "strongBuy": 3,
-        "buy": 7,
-        "hold": 19,
+        "buy": 8,
+        "hold": 17,
         "sell": 3,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": -1
+        "buy_delta": 1,
+        "sell_delta": 0
       },
       "insider_recent_90d": {
         "buys": 7,
@@ -224,7 +224,7 @@ window.theBriefFundamentals = {
       "forward_pe": 5.5087523,
       "price_to_sales": 33.113316,
       "price_to_book": 17.856192,
-      "enterprise_to_ebitda": 40.357,
+      "enterprise_to_ebitda": 39.918,
       "profit_margin": 0.60025,
       "gross_margin": 0.93242997,
       "operating_margin": 0.77222,
@@ -241,7 +241,7 @@ window.theBriefFundamentals = {
         "hold": 1,
         "sell": 0,
         "strongSell": 1,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -280,14 +280,14 @@ window.theBriefFundamentals = {
       "analyst_recs": {
         "strongBuy": 3,
         "buy": 9,
-        "hold": 17,
+        "hold": 16,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 1,
-        "sell_delta": -2
+        "buy_delta": 0,
+        "sell_delta": 0
       },
       "insider_recent_90d": {
         "buys": 7,
@@ -370,15 +370,15 @@ window.theBriefFundamentals = {
       "short_ratio": 1.46,
       "short_percent_of_float": 0.028800001,
       "analyst_recs": {
-        "strongBuy": 14,
-        "buy": 32,
-        "hold": 11,
+        "strongBuy": 15,
+        "buy": 33,
+        "hold": 9,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 2,
+        "buy_delta": 1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -388,19 +388,19 @@ window.theBriefFundamentals = {
       }
     },
     "NVDA": {
-      "return_1m": -8.83,
-      "return_3m": 10.37,
-      "return_6m": 4.98,
+      "return_1m": -8.94,
+      "return_3m": 10.24,
+      "return_6m": 4.86,
       "return_1y": null,
-      "return_ytd": 3.67,
-      "return_52w_high": -16.95,
-      "return_52w_low": 23.74,
+      "return_ytd": 3.55,
+      "return_52w_high": -17.05,
+      "return_52w_low": 23.6,
       "realized_vol_30d_pct": 2.54,
       "trailing_pe": 29.946402,
       "forward_pe": 15.319917,
       "price_to_sales": 18.684753,
       "price_to_book": 24.231724,
-      "enterprise_to_ebitda": 28.242,
+      "enterprise_to_ebitda": 28.348,
       "profit_margin": 0.62966,
       "gross_margin": 0.74144995,
       "operating_margin": 0.65596,
@@ -413,14 +413,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0128999995,
       "analyst_recs": {
         "strongBuy": 24,
-        "buy": 39,
+        "buy": 40,
         "hold": 4,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -3,
+        "buy_delta": 1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -456,13 +456,13 @@ window.theBriefFundamentals = {
       "analyst_recs": {
         "strongBuy": 10,
         "buy": 8,
-        "hold": 20,
+        "hold": 21,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -1,
+        "buy_delta": 0,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -497,14 +497,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0291,
       "analyst_recs": {
         "strongBuy": 10,
-        "buy": 17,
-        "hold": 9,
+        "buy": 16,
+        "hold": 10,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": -1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -526,7 +526,7 @@ window.theBriefFundamentals = {
       "forward_pe": 46.90413,
       "price_to_sales": 7.8622527,
       "price_to_book": 22.236292,
-      "enterprise_to_ebitda": 86.161,
+      "enterprise_to_ebitda": 89.225,
       "profit_margin": 0.23809999,
       "gross_margin": 0.20282,
       "operating_margin": 0.05461,
@@ -540,13 +540,13 @@ window.theBriefFundamentals = {
       "analyst_recs": {
         "strongBuy": 9,
         "buy": 25,
-        "hold": 7,
+        "hold": 8,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-06-01"
+        "period": "2026-07-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 2,
+        "buy_delta": 0,
         "sell_delta": 0
       },
       "insider_recent_90d": {
