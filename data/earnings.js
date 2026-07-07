@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-07T07:01:25+00:00",
+  "generated_at": "2026-07-07T10:32:33+00:00",
   "by_date": {
     "2026-07-07": [
       {
@@ -438,14 +438,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "H",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": 0.9255,
-        "revenue_estimate": 1844188855,
         "is_watchlist": false
       },
       {
@@ -912,16 +904,16 @@ window.theBriefEarnings = {
         "ticker": "KMTS",
         "date": "2026-07-14",
         "hour": "",
-        "eps_estimate": -0.6076,
-        "revenue_estimate": 27008580,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "KMTS",
         "date": "2026-07-14",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.6076,
+        "revenue_estimate": 27008580,
         "is_watchlist": false
       },
       {
@@ -1396,16 +1388,16 @@ window.theBriefEarnings = {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "",
-        "eps_estimate": -0.1734,
-        "revenue_estimate": 0,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.1734,
+        "revenue_estimate": 0,
         "is_watchlist": false
       },
       {
@@ -1938,6 +1930,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DX",
+        "date": "2026-07-20",
+        "hour": "",
+        "eps_estimate": 0.3873,
+        "revenue_estimate": 99623145,
         "is_watchlist": false
       },
       {
