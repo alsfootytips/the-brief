@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-08T04:33:32.024959+00:00",
+  "generated_at": "2026-07-08T07:15:33.465954+00:00",
   "gainers": [
     {
       "ticker": "OXY",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum Corporation (OXY) is Attracting Investor Attention: Here is What You ...\""
+      "move_reason": "News: \"Morgan Stanley Trims Price Target on Occidental Petroleum (OXY). Here is Why\""
     },
     {
       "ticker": "APA",
@@ -96,6 +96,17 @@ window.theBriefMovers = {
       "move_reason": "News: \"Here's Exactly How I'd Invest $1 Million In America Today\""
     },
     {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 84.86,
+      "change_pct": 0.9,
+      "volume_ratio": 0.97,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLU",
       "name": "Utilities Select Sector",
       "price": 45.7,
@@ -139,7 +150,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Meta Platforms Finished Down 11% in June\""
+      "move_reason": "News: \"The S&P 500 Returned 10% in the First Half of 2026. This Is Good News for What History Say...\""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.19,
+      "change_pct": 0.14,
+      "volume_ratio": 1.04,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -253,11 +276,10 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 140.72,
       "change_pct": -1.21,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.01,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -308,15 +330,14 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 108.04,
-      "change_pct": -0.79,
-      "volume_ratio": 1.0,
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 117.39,
+      "change_pct": -0.53,
+      "volume_ratio": 1.04,
       "is_watchlist": false,
       "is_index": false,
-      "is_sector": false,
-      "market_state": null,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -415,7 +436,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Meta Platforms Finished Down 11% in June\""
+      "move_reason": "News: \"The S&P 500 Returned 10% in the First Half of 2026. This Is Good News for What History Say...\""
     },
     {
       "ticker": "OSCR",
@@ -439,7 +460,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum Corporation (OXY) is Attracting Investor Attention: Here is What You ...\""
+      "move_reason": "News: \"Morgan Stanley Trims Price Target on Occidental Petroleum (OXY). Here is Why\""
     },
     {
       "ticker": "PWR",
@@ -561,6 +582,16 @@ window.theBriefMovers = {
       "price": 44.89,
       "change_pct": 1.35,
       "volume_ratio": 0.7,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 84.86,
+      "change_pct": 0.9,
+      "volume_ratio": 0.97,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -970,6 +1001,15 @@ window.theBriefMovers = {
       "change_pct": -0.9,
       "price": 51.51,
       "watchlist_members": []
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "change_pct": 0.9,
+      "price": 84.86,
+      "watchlist_members": [
+        "DG"
+      ]
     },
     {
       "ticker": "XLU",
