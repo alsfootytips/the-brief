@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-07-08T13:16:20.685909+00:00",
+  "generated_at": "2026-07-08T13:42:37.947878+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.57,
-      "change_pct_1d": 0.84,
-      "change_pct_1w": 3.37
+      "change_pct_1d": 0.88,
+      "change_pct_1w": 3.42
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.3,
-      "change_pct_1d": 1.03,
-      "change_pct_1w": 2.75
+      "value": 4.31,
+      "change_pct_1d": 1.15,
+      "change_pct_1w": 2.87
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -22,38 +22,38 @@ window.theBriefMacro = {
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 5.07,
-      "change_pct_1d": 0.52,
-      "change_pct_1w": 3.41
+      "change_pct_1d": 0.5,
+      "change_pct_1w": 3.39
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 17.6,
-      "change_pct_1d": 9.11,
-      "change_pct_1w": 6.09
+      "value": 17.43,
+      "change_pct_1d": 8.06,
+      "change_pct_1w": 5.06
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4091.7,
-      "change_pct_1d": -1.29,
-      "change_pct_1w": 0.58
+      "value": 4087.6,
+      "change_pct_1d": -1.39,
+      "change_pct_1w": 0.47
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 73.96,
-      "change_pct_1d": 5.0,
-      "change_pct_1w": 7.84
+      "value": 73.87,
+      "change_pct_1d": 4.87,
+      "change_pct_1w": 7.71
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 101.19,
-      "change_pct_1d": 0.05,
-      "change_pct_1w": -0.19
+      "value": 101.11,
+      "change_pct_1d": -0.03,
+      "change_pct_1w": -0.28
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 61851.91,
-      "change_pct_1d": -2.28,
-      "change_pct_1w": -1.96
+      "value": 61919.5,
+      "change_pct_1d": -2.18,
+      "change_pct_1w": -1.85
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 85,
