@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-08T01:12:09.359848+00:00",
+  "generated_at": "2026-07-08T04:33:32.024959+00:00",
   "gainers": [
     {
       "ticker": "OXY",
@@ -42,7 +42,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 616.98,
       "change_pct": 2.78,
-      "volume_ratio": 0.75,
+      "volume_ratio": 0.76,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -65,7 +65,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 44.89,
       "change_pct": 1.35,
-      "volume_ratio": 0.69,
+      "volume_ratio": 0.7,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -88,23 +88,12 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 406.47,
       "change_pct": 0.91,
-      "volume_ratio": 0.59,
+      "volume_ratio": 0.6,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Here's Exactly How I'd Invest $1 Million In America Today\""
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 84.86,
-      "change_pct": 0.9,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     },
     {
       "ticker": "XLU",
@@ -133,7 +122,7 @@ window.theBriefMovers = {
       "name": "MSFT",
       "price": 388.05,
       "change_pct": 0.34,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.74,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -150,7 +139,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Soaring Stocks That May Have More Upside Ahead\""
+      "move_reason": "News: \"Why Meta Platforms Finished Down 11% in June\""
     }
   ],
   "losers": [
@@ -188,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Advanced Micro Devices Stock Tanked on Tuesday\""
+      "move_reason": "News: \"INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff\""
     },
     {
       "ticker": "CRWV",
@@ -231,7 +220,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 179.18,
       "change_pct": -2.39,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.09,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -288,12 +277,12 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 295.52,
       "change_pct": -1.13,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Bubble: Good Bubble, Bad Trade\""
+      "move_reason": "News: \"Stock Dispersion Jumps As The Equity Rally Broadens\""
     },
     {
       "ticker": "TTD",
@@ -312,7 +301,7 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "price": 51.51,
       "change_pct": -0.9,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.92,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -342,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Advanced Micro Devices Stock Tanked on Tuesday\""
+      "move_reason": "News: \"INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff\""
     },
     {
       "ticker": "APA",
@@ -373,7 +362,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 115.1,
       "change_pct": -0.5,
-      "volume_ratio": 0.93,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -397,12 +386,12 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 295.52,
       "change_pct": -1.13,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Bubble: Good Bubble, Bad Trade\""
+      "move_reason": "News: \"Stock Dispersion Jumps As The Equity Rally Broadens\""
     },
     {
       "ticker": "NBIS",
@@ -426,7 +415,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Soaring Stocks That May Have More Upside Ahead\""
+      "move_reason": "News: \"Why Meta Platforms Finished Down 11% in June\""
     },
     {
       "ticker": "OSCR",
@@ -469,7 +458,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 406.47,
       "change_pct": 0.91,
-      "volume_ratio": 0.59,
+      "volume_ratio": 0.6,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -507,7 +496,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 528.45,
       "change_pct": -0.31,
-      "volume_ratio": 1.22,
+      "volume_ratio": 1.23,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -517,7 +506,7 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 295.52,
       "change_pct": -1.13,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
@@ -538,7 +527,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 747.71,
       "change_pct": -0.48,
-      "volume_ratio": 0.84,
+      "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -571,17 +560,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 44.89,
       "change_pct": 1.35,
-      "volume_ratio": 0.69,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 84.86,
-      "change_pct": 0.9,
-      "volume_ratio": 0.97,
+      "volume_ratio": 0.7,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -621,7 +600,7 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "price": 117.39,
       "change_pct": -0.53,
-      "volume_ratio": 1.03,
+      "volume_ratio": 1.04,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -631,7 +610,7 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "price": 51.51,
       "change_pct": -0.9,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.92,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -651,7 +630,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 179.18,
       "change_pct": -2.39,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.09,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -991,15 +970,6 @@ window.theBriefMovers = {
       "change_pct": -0.9,
       "price": 51.51,
       "watchlist_members": []
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "change_pct": 0.9,
-      "price": 84.86,
-      "watchlist_members": [
-        "DG"
-      ]
     },
     {
       "ticker": "XLU",
