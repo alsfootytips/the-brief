@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-08T20:21:05+00:00",
+  "generated_at": "2026-07-08T21:41:46+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -1037,7 +1037,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LEVI",
         "date": "2026-07-08",
-        "hour": "bmo",
+        "hour": "amc",
         "eps_estimate": 0.2484,
         "revenue_estimate": 1550522614,
         "is_watchlist": false
