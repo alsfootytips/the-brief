@@ -1,11 +1,11 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-09T23:04:44.769087+00:00",
+  "generated_at": "2026-07-09T23:18:21.851229+00:00",
   "gainers": [
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 545.52,
-      "change_pct": 5.43,
+      "price": 546.8,
+      "change_pct": 5.68,
       "volume_ratio": 0.96,
       "is_watchlist": true,
       "is_index": false,
@@ -28,8 +28,8 @@ window.theBriefMovers = {
     {
       "ticker": "META",
       "name": "META",
-      "price": 633.35,
-      "change_pct": 5.01,
+      "price": 634.13,
+      "change_pct": 5.14,
       "volume_ratio": 1.31,
       "is_watchlist": false,
       "is_index": false,
@@ -40,8 +40,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 19.7,
-      "change_pct": 3.3,
+      "price": 19.68,
+      "change_pct": 3.2,
       "volume_ratio": 0.8,
       "is_watchlist": true,
       "is_index": false,
@@ -83,6 +83,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 297.0,
+      "change_pct": 1.2,
+      "volume_ratio": 0.83,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"AAII Sentiment Survey: Pessimism Drops\""
+    },
+    {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 31.18,
@@ -93,18 +105,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": ""
-    },
-    {
-      "ticker": "IWM",
-      "name": "iShares Russell 2000 ETF",
-      "price": 296.93,
-      "change_pct": 1.18,
-      "volume_ratio": 0.83,
-      "is_watchlist": true,
-      "is_index": true,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"AAII Sentiment Survey: Pessimism Drops\""
     },
     {
       "ticker": "VWRP.L",
@@ -192,8 +192,8 @@ window.theBriefMovers = {
     {
       "ticker": "PLTR",
       "name": "PLTR",
-      "price": 128.56,
-      "change_pct": -2.77,
+      "price": 128.6,
+      "change_pct": -2.74,
       "volume_ratio": 0.77,
       "is_watchlist": false,
       "is_index": false,
@@ -204,8 +204,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 52.36,
-      "change_pct": -2.3,
+      "price": 52.32,
+      "change_pct": -2.37,
       "volume_ratio": 0.63,
       "is_watchlist": true,
       "is_index": false,
@@ -239,26 +239,14 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 202.32,
-      "change_pct": -0.88,
+      "price": 202.5,
+      "change_pct": -0.79,
       "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook\""
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 391.4,
-      "change_pct": -0.8,
-      "volume_ratio": 0.6,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"LandBridge & Texas Pacific Land: The Picks-And-Shovels Of The West Texas AI Boom\""
     },
     {
       "ticker": "DG",
@@ -298,14 +286,26 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 216.25,
-      "change_pct": -0.11,
+      "price": 215.92,
+      "change_pct": -0.26,
       "volume_ratio": 0.78,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Down 40%, CoreWeave Is Being Left Behind By the Market\""
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 393.7,
+      "change_pct": -0.22,
+      "volume_ratio": 0.6,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"LandBridge & Texas Pacific Land: The Picks-And-Shovels Of The West Texas AI Boom\""
     },
     {
       "ticker": "XLV",
@@ -323,8 +323,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 545.52,
-      "change_pct": 5.43,
+      "price": 546.8,
+      "change_pct": 5.68,
       "volume_ratio": 0.96,
       "is_watchlist": true,
       "is_index": false,
@@ -383,8 +383,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 296.93,
-      "change_pct": 1.18,
+      "price": 297.0,
+      "change_pct": 1.2,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": true,
@@ -395,8 +395,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 216.25,
-      "change_pct": -0.11,
+      "price": 215.92,
+      "change_pct": -0.26,
       "volume_ratio": 0.78,
       "is_watchlist": true,
       "is_index": false,
@@ -407,8 +407,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 202.32,
-      "change_pct": -0.88,
+      "price": 202.5,
+      "change_pct": -0.79,
       "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
@@ -431,8 +431,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 52.36,
-      "change_pct": -2.3,
+      "price": 52.32,
+      "change_pct": -2.37,
       "volume_ratio": 0.63,
       "is_watchlist": true,
       "is_index": false,
@@ -455,8 +455,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 391.4,
-      "change_pct": -0.8,
+      "price": 393.7,
+      "change_pct": -0.22,
       "volume_ratio": 0.6,
       "is_watchlist": true,
       "is_index": false,
@@ -467,8 +467,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 19.7,
-      "change_pct": 3.3,
+      "price": 19.68,
+      "change_pct": 3.2,
       "volume_ratio": 0.8,
       "is_watchlist": true,
       "is_index": false,
@@ -503,8 +503,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 296.93,
-      "change_pct": 1.18,
+      "price": 297.0,
+      "change_pct": 1.2,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": true,
@@ -679,17 +679,17 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 52.36,
-      "change_pct": -2.3,
+      "price": 52.32,
+      "change_pct": -2.37,
       "score": 5.5,
       "signals": [
-        "Moved -2.30% \u2014 a 1.0\u03c3 move",
+        "Moved -2.37% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 13.7 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved -2.30% \u2014 a 1.0\u03c3 move",
+        "Moved -2.37% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 13.7 (cheap on absolute basis)"
@@ -705,8 +705,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 202.32,
-      "change_pct": -0.88,
+      "price": 202.5,
+      "change_pct": -0.79,
       "score": 5.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -729,8 +729,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 19.7,
-      "change_pct": 3.3,
+      "price": 19.68,
+      "change_pct": 3.2,
       "score": 4.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -756,8 +756,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 391.4,
-      "change_pct": -0.8,
+      "price": 393.7,
+      "change_pct": -0.22,
       "score": 4.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -828,16 +828,16 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 545.52,
-      "change_pct": 5.43,
+      "price": 546.8,
+      "change_pct": 5.68,
       "score": 3.5,
       "signals": [
-        "Moved +5.43% \u2014 a 1.1\u03c3 move",
+        "Moved +5.68% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "9 insider sells vs 1 buys (last 90 days)"
       ],
       "reasons": [
-        "Moved +5.43% \u2014 a 1.1\u03c3 move",
+        "Moved +5.68% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "9 insider sells vs 1 buys (last 90 days)"
       ],
