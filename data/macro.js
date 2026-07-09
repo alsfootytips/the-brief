@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-07-09T18:17:38.328213+00:00",
+  "generated_at": "2026-07-09T20:19:14.606153+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
-      "value": 4.53,
-      "change_pct_1d": -0.79,
-      "change_pct_1w": 1.3
+      "value": 4.54,
+      "change_pct_1d": -0.66,
+      "change_pct_1w": 1.43
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.26,
-      "change_pct_1d": -1.02,
-      "change_pct_1w": 0.76
+      "value": 4.27,
+      "change_pct_1d": -0.91,
+      "change_pct_1w": 0.87
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -22,41 +22,41 @@ window.theBriefMacro = {
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 5.05,
-      "change_pct_1d": -0.3,
-      "change_pct_1w": 1.69
+      "change_pct_1d": -0.24,
+      "change_pct_1w": 1.75
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 16.0,
-      "change_pct_1d": -5.33,
-      "change_pct_1w": -0.93
+      "value": 15.85,
+      "change_pct_1d": -6.21,
+      "change_pct_1w": -1.86
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4141.4,
-      "change_pct_1d": 1.73,
-      "change_pct_1w": 0.7
+      "value": 4131.9,
+      "change_pct_1d": 1.5,
+      "change_pct_1w": 0.47
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 71.64,
-      "change_pct_1d": -2.56,
-      "change_pct_1w": 4.29
+      "value": 71.7,
+      "change_pct_1d": -2.48,
+      "change_pct_1w": 4.38
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 100.88,
-      "change_pct_1d": -0.17,
-      "change_pct_1w": 0.02
+      "value": 100.94,
+      "change_pct_1d": -0.11,
+      "change_pct_1w": 0.08
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 63329.95,
-      "change_pct_1d": 1.72,
-      "change_pct_1w": -0.34
+      "value": 63172.36,
+      "change_pct_1d": 1.47,
+      "change_pct_1w": -0.59
     },
     "_yield_curve": {
-      "spread_10y_13w_bps": 85,
+      "spread_10y_13w_bps": 86,
       "inverted": false
     }
   }
