@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-09T20:19:14.605459+00:00",
+  "generated_at": "2026-07-09T21:57:56.665855+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -12.38,
@@ -174,7 +174,7 @@ window.theBriefFundamentals = {
       "return_3m": -13.52,
       "return_6m": 41.67,
       "return_1y": null,
-      "return_ytd": 33.41,
+      "return_ytd": 33.4,
       "return_52w_high": -24.5,
       "return_52w_low": 91.16,
       "realized_vol_30d_pct": 2.7,
@@ -321,18 +321,18 @@ window.theBriefFundamentals = {
       "short_percent_of_float": null
     },
     "IWM": {
-      "return_1m": 4.88,
-      "return_3m": 14.4,
-      "return_6m": 16.57,
+      "return_1m": 4.87,
+      "return_3m": 14.39,
+      "return_6m": 16.56,
       "return_1y": null,
-      "return_ytd": 19.99,
-      "return_52w_high": -1.06,
-      "return_52w_low": 39.75,
+      "return_ytd": 19.98,
+      "return_52w_high": -1.07,
+      "return_52w_low": 39.74,
       "realized_vol_30d_pct": 1.21,
-      "trailing_pe": 18.41759,
+      "trailing_pe": 18.41573,
       "forward_pe": null,
       "price_to_sales": null,
-      "price_to_book": 1.3592964,
+      "price_to_book": 1.3591594,
       "enterprise_to_ebitda": null,
       "profit_margin": null,
       "gross_margin": null,
@@ -408,7 +408,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 2.106,
       "market_cap": 4911534178304,
       "beta": 2.211,
-      "dividend_yield": null,
+      "dividend_yield": 0.49,
       "short_ratio": 1.72,
       "short_percent_of_float": 0.0128999995,
       "analyst_recs": {

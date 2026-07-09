@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-09T20:19:14+00:00",
+  "generated_at": "2026-07-09T21:57:56+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -1165,7 +1165,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SLP",
         "date": "2026-07-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.1279,
         "revenue_estimate": 21127513,
         "is_watchlist": false
