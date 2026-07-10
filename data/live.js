@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-10T22:53:57.112991+00:00",
+  "generated_at": "2026-07-10T23:16:46.319104+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -19,9 +19,9 @@ window.theBriefLive = {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "change_pct": 3.81,
-      "price": 210.5,
+      "price": 210.51,
       "is_watchlist": true,
-      "timestamp": "2026-07-10T22:53:56.348816+00:00",
+      "timestamp": "2026-07-10T23:16:46.316017+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,13 +30,124 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "META",
       "name": "META",
-      "change_pct": 5.78,
-      "price": 667.95,
+      "change_pct": 5.82,
+      "price": 668.25,
       "is_watchlist": false,
-      "timestamp": "2026-07-10T22:53:56.348807+00:00",
+      "timestamp": "2026-07-10T23:16:46.316013+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "DG",
+      "name": "Dollar General",
+      "change_pct": 3.06,
+      "price": 119.27,
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T23:16:46.315998+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple sues OpenAI for alleged theft of confidential info \u2014 and says that\u2019s just \u2018the tip of the iceberg\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T23:06:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Charlie Kirk\u2019s widow views video she requested of husband\u2019s alleged killer",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/charlie-kirks-widow-views-video-she-requested-of-husbands-alleged-killer-4787150",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:54:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Broadcom Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-broadcom-inc-for-10-july-93CH-4787149",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:51:49+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Health In Tech Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-health-in-tech-inc-for-10-july-93CH-4787148",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:51:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Health In Tech Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-health-in-tech-inc-for-10-july-93CH-4787147",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:51:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Health In Tech Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-health-in-tech-inc-for-10-july-93CH-4787146",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:51:05+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Maine Senate candidate Graham Platner formally withdraws from race",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/maine-senate-candidate-graham-platner-formally-withdraws-from-race-4786955",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:49:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom director Gayla Delly sells $728,368 in AVGO stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/broadcom-director-gayla-delly-sells-728368-in-avgo-stock-93CH-4787145",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:48:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Canada strike deal on tolls to let new bridge open soon",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:48:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -50,97 +161,20 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Data I/O Corporation For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-data-io-corporation-for-10-july-93CH-4787123",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:36:07+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Integer Holdings Corp For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-integer-holdings-corp-for-10-july-93CH-4787122",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:36:07+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 J Jill Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787121",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:36:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 J Jill Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787120",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:33:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 J Jill Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787119",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:33:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Seer\u00a0Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-seerinc-for-10-july-93CH-4787118",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:30:48+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
         "Iran"
       ],
       "ticker": null,
-      "headline": "Trump says US agreed to Iran\u2019s request to continue talks, but ceasefire is over",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/tanker-traffic-slows-in-strait-of-hormuz-after-us-and-iran-clashes-4786079",
+      "headline": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-07-10T22:30:24+00:00",
-      "relevance_score": 7.0,
+      "timestamp": "2026-07-10T22:25:15+00:00",
+      "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 J Jill Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787117",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:30:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -172,17 +206,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4613036-wheat-futures-rise-as-usda-forecasts-u-s-wheat-output-at-lowest-since-1970?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-10T22:16:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple sues OpenAI for alleged theft of confidential info \u2014 and says that\u2019s just \u2018the tip of the iceberg\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:07:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -230,6 +253,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-10T21:45:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T21:36:03+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -319,18 +354,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-10T21:11:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:04:12+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -521,22 +544,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T19:31:16+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -731,12 +738,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How the absence of Iran's Mojtaba Khamenei is becoming a liability for the Islamic Republic - Reuters",
+      "headline": "Delta expects fare gains to hold as fuel volatility pressures airlines - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTNPR0g0ZVgwQjFWR1R4WERMR215bmNZQ0l5YVVFMWN1V1FrZ3F5SWRIQmhwc2g3ZHBFcnhjVEdHOGJTSXdNdDdMR3l5Q3JtdWxWbHlkTkJXa1FaUDVxRGdWMVBFcDNOaXZILWd3Y2RmOXhwSWtNS0ZaclhCRl9IZ1RpVnBXS2RBaldpbzNxYS1GeUVrWFh0RWo0MnRqNl8tcUVRR194akZfeTZ4SXJkU1VybG5jMmVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlNEeTZaemlEQWx5bHlfOFRfMlF2QVJCcTNpUVZLWUdNd0pjNmN4NDBaaWRYUkNoUjJjNjlESTRCNWNPcmZCaWg5Xzh5MUdyRzVJRTVES1gtdll3MGJENWZvY1F1Y3hSM09sa1dxZXdySGZCbUMzSFNEeGxuVTlfT29sb3U3Nmg3YzNubU5OdmVJSDh6ejZZa1JqaVBtVUp4ZEhzYlpBbm1kbzQ3MWxULXdvcGNoRVQ0LXQySFQ3eWNWemp5RmJjQjViX2VoTFV4TG1QTg?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T16:19:20+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-07-10T16:21:23+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1155,55 +1162,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Michael Burry: How a stock can fall from $100 to $5 and still deliver a 6x return",
+      "headline": "Mixed Drivers Fuel Optimism in Stryker Corporation\u2019s (SYK) Performance",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-stock-fall-100-153000845.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mixed-drivers-fuel-optimism-stryker-160410031.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T15:30:00+00:00",
+      "timestamp": "2026-07-09T16:04:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hugo Boss Tells Frasers This Suit Is Too Cheap",
+      "headline": "A Missouri woman, 70, couldn't afford her $8K/month drug after Medicare Advantage denied coverage \u2014 and landed in the ER",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hugo-boss-tells-frasers-suit-152557487.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/missouri-woman-70-couldnt-afford-160000579.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T15:25:57+00:00",
+      "timestamp": "2026-07-09T16:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Strength in Chipmakers Boosts Stock Indexes",
+      "headline": "Oracle Stock Climbs As OpenAI Touts New Model's Performance",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strength-chipmakers-boosts-stock-indexes-152440468.html",
+      "url": "https://www.investors.com/news/technology/oracle-stock-openai-gpt-sol/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T15:24:40+00:00",
+      "timestamp": "2026-07-09T15:54:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "What Makes Amphenol (APH) a Strong Bet Now?",
+      "headline": "Here are the Compelling Reasons to Own Ferrari N.V. (RACE)",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-amphenol-aph-strong-bet-152410812.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/compelling-reasons-own-ferrari-n-155439420.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T15:24:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Figma Stock Is Down 85%, But Wall Street Thinks It\u2019s Time for the Stock to Surge",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/figma-stock-down-85-wall-152207760.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T15:22:07+00:00",
+      "timestamp": "2026-07-09T15:54:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1252,6 +1248,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-09T11:49:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage rates edge higher as US-Iran ceasefire falls apart: Mortgage and refinance interest rates today",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-higher-as-us-iran-ceasefire-falls-apart-mortgage-and-refinance-interest-rates-today-100000098.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T10:00:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
