@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-10T22:16:04+00:00",
+  "generated_at": "2026-07-10T22:53:56+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -1715,7 +1715,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FEIM",
         "date": "2026-07-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2499,
         "revenue_estimate": 18946500,
         "is_watchlist": false
@@ -2375,7 +2375,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ALV",
         "date": "2026-07-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.4483,
         "revenue_estimate": 2790478500,
         "is_watchlist": false
@@ -2415,7 +2415,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FITB",
         "date": "2026-07-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.9755,
         "revenue_estimate": 3319414641,
         "is_watchlist": false
@@ -2447,7 +2447,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RF",
         "date": "2026-07-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.6475,
         "revenue_estimate": 1995655972,
         "is_watchlist": false
@@ -2455,7 +2455,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SPFI",
         "date": "2026-07-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.839,
         "revenue_estimate": 64603485,
         "is_watchlist": false
@@ -2463,7 +2463,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TFC",
         "date": "2026-07-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.0904,
         "revenue_estimate": 5295981823,
         "is_watchlist": false

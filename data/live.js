@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-10T22:16:04.032509+00:00",
+  "generated_at": "2026-07-10T22:53:57.112991+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": 3.8,
-      "price": 210.48,
+      "change_pct": 3.81,
+      "price": 210.5,
       "is_watchlist": true,
-      "timestamp": "2026-07-10T22:16:04.029819+00:00",
+      "timestamp": "2026-07-10T22:53:56.348816+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "META",
       "name": "META",
-      "change_pct": 5.72,
-      "price": 667.62,
+      "change_pct": 5.78,
+      "price": 667.95,
       "is_watchlist": false,
-      "timestamp": "2026-07-10T22:16:04.029812+00:00",
+      "timestamp": "2026-07-10T22:53:56.348807+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -41,7 +41,144 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Apple sues OpenAI for \u2018institutional\u2019 misconduct \u2014 and alleges that\u2019s just the tip of the iceberg",
+      "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:44:35+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Data I/O Corporation For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-data-io-corporation-for-10-july-93CH-4787123",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:36:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Integer Holdings Corp For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-integer-holdings-corp-for-10-july-93CH-4787122",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:36:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 J Jill Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787121",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:36:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 J Jill Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787120",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:33:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 J Jill Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787119",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:33:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Seer\u00a0Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-seerinc-for-10-july-93CH-4787118",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:30:48+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says US agreed to Iran\u2019s request to continue talks, but ceasefire is over",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/tanker-traffic-slows-in-strait-of-hormuz-after-us-and-iran-clashes-4786079",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T22:30:24+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 J Jill Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-j-jill-inc-for-10-july-93CH-4787117",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:30:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta\u2019s stock roars back to life as it notches its best week in years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:24:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SK Hynix\u2019s stock sees double-digit pop in Nasdaq debut",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:18:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wheat futures rise as USDA forecasts U.S. wheat output at lowest since 1970",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613036-wheat-futures-rise-as-usda-forecasts-u-s-wheat-output-at-lowest-since-1970?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T22:16:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple sues OpenAI for alleged theft of confidential info \u2014 and says that\u2019s just \u2018the tip of the iceberg\u2019",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
       "is_watchlist": false,
@@ -86,94 +223,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Alamo Group Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-alamo-group-inc-for-10-july-93CH-4787069",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:51:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Village Farms International Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-village-farms-international-inc-for-10-july-93CH-4787068",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:51:07+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Kilroy Realty Corp For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-kilroy-realty-corp-for-10-july-93CH-4787067",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:51:07+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Village Farms International Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-village-farms-international-inc-for-10-july-93CH-4787066",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:51:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Village Farms International Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-village-farms-international-inc-for-10-july-93CH-4787065",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:51:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Pure Storage Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-pure-storage-inc-for-10-july-93CH-4787064",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:48:56+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Holtec Nuclear Corporation files for US IPO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/holtec-nuclear-corporation-files-for-us-ipo-4787063",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:48:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Kilroy Realty Corp For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-kilroy-realty-corp-for-10-july-93CH-4787062",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:48:15+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Metaplanet launches \"Project NOVA\" to build Bitcoin-backed digital credit products",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4613032-metaplanet-launches-project-nova-to-build-bitcoin-backed-digital-credit-products?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -191,17 +240,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-10T21:35:22+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:35:20+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -284,6 +322,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T21:04:12+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": "AMD",
       "headline": "Why Is Meta (META) Stock Soaring Today",
       "source": "Yahoo",
@@ -321,17 +371,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitmine's Ethereum holding grows to $5.74M after a new ETH buy",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613015-bitmines-ethereum-holding-grows-to-574m-after-a-new-205k-eth-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T20:55:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
@@ -365,6 +404,21 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T20:42:04+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'",
@@ -383,6 +437,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=ce5e589df091de9ab317869c85aa46ca11fa392b059989671bd2621a30712e07",
       "is_watchlist": true,
       "timestamp": "2026-07-10T20:25:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "Why Trade Desk Stock Lost 52% in the First Half of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3ac222498354f6d8c1463bc9d5aa6f4bed60d1d8bb66b74acf19d269d521571",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T20:22:54+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -408,17 +474,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-10T20:01:29+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta\u2019s stock roars back to life as it heads for its best week in years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T19:54:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -517,17 +572,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/10/stocks-rise-as-investors-await-the-start-of-earnings-what-to-expect.html",
       "is_watchlist": false,
       "timestamp": "2026-07-10T19:04:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T19:04:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -732,17 +776,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Turkey says it hopes to achieve result on lifting U.S. sanctions soon - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXY0ckRMNUlWWXNNNzhPVnZlamdNRTFHajk3bjFqeHg4VkU1Q25KNWUzaXRjVDhXTTFYcmR3VXR0VjNoRDBCbERpQnk3V2NUZF9XV0Y0c2NuclEyZzVqTndOTUJpWEFfMmpUQnpQSzhudmpBN2RmblBrUEJBNkJSRVdJV0h0bjJUNkNJc2diVnljQXJZWDhmNkdKdWNPREpjQjhsalZ6TEVEdmtYYkJnOXY5V1BTZw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T15:19:43+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "OXY Beats the Industry in the Past 9 Months: Buy or Stay Patient?",
       "source": "Yahoo",
@@ -780,22 +813,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran has asked to continue talks and the US agreed, Trump says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUtqQnRSYkhpd2ZXamR3RVhpdVVWaWIwVFc4RGRNT2xzaUpaNEdkOENLbHN0SUU3Yzd3ZXZsT3k3WFhEcEpOZWZFbEhYSXFJbGpiYlpsRnp2MTAwc09DLThKOU1meXJBS0l1SXhyUHhGZmhUR0R4VFBjeG9lVUVGN1Jnd2RaQllDTC1EQnlNTEZEQzdqNFhkSE1CYTNYZk5KVTdlSm9iUQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T14:46:28+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": "APA",
       "headline": "2 Stocks Under $50 with Solid Fundamentals and 1 We Brush Off",
@@ -803,6 +820,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=d0ea8cd47ab97bbfd2ba5c2e1b26b6e01217700877c77a52b3f4d1b5f2642462",
       "is_watchlist": true,
       "timestamp": "2026-07-10T14:39:20+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Jefferies Maintains Buy on Quanta Services, Lowers Price Target to $784",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8c6ae144069cd37a5e07a882864b1d84c03dd4a436c722fca06f932b44ceada4",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T14:30:14+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -999,18 +1028,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "PWR",
-      "headline": "Quanta Services (PWR) Is Chasing AI Data Centers To Build Its Next Growth Engine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b3707569c61bc7b107ee811c55276b086931e92ad59e053bbc89c29169cf426",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T07:09:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
       "source": "BBC Business",
@@ -1137,68 +1154,56 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "'Selling Winners, Buying Losers': Tech Stocks Drop as Energy Jumps to Start H2",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=dd632358d0cd47410e40b1a033edd5d547c0d27f3c140cfda837678f6d86e7a4",
-      "is_watchlist": true,
-      "timestamp": "2026-07-09T15:45:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
-      "headline": "There Are 100 Trillion Reasons to Watch the Upcoming U.S. Debut of SK Hynix Stock",
+      "headline": "Michael Burry: How a stock can fall from $100 to $5 and still deliver a 6x return",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/100-trillion-reasons-watch-upcoming-145825792.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-stock-fall-100-153000845.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T14:58:25+00:00",
+      "timestamp": "2026-07-09T15:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitdeer Brings SEALMINER Production to U.S. With $36M Nevada Plant",
+      "headline": "Hugo Boss Tells Frasers This Suit Is Too Cheap",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-brings-sealminer-production-u-145300420.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hugo-boss-tells-frasers-suit-152557487.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T14:53:00+00:00",
+      "timestamp": "2026-07-09T15:25:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "PayPal Expands PYUSD to Polygons $2.6T Stablecoin Settlement Network",
+      "headline": "Strength in Chipmakers Boosts Stock Indexes",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/paypal-expands-pyusd-polygons-2-144900261.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strength-chipmakers-boosts-stock-indexes-152440468.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T14:49:00+00:00",
+      "timestamp": "2026-07-09T15:24:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Are we Paying too Much for Costco Wholesale Corporation (COST)?",
+      "headline": "What Makes Amphenol (APH) a Strong Bet Now?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paying-too-much-costco-wholesale-144708943.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-amphenol-aph-strong-bet-152410812.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T14:47:08+00:00",
+      "timestamp": "2026-07-09T15:24:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Intel Stock Is \u2018Too Good to Ignore\u2019 as HSBC Sets a New Street-High Price Target",
+      "headline": "Figma Stock Is Down 85%, But Wall Street Thinks It\u2019s Time for the Stock to Surge",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-too-good-ignore-144620459.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/figma-stock-down-85-wall-152207760.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-09T14:46:20+00:00",
+      "timestamp": "2026-07-09T15:22:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
