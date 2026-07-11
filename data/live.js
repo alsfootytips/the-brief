@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T10:02:33.660347+00:00",
+  "generated_at": "2026-07-11T11:19:31.191144+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T10:02:33.657874+00:00",
+      "timestamp": "2026-07-11T11:19:31.188221+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T10:02:33.657870+00:00",
+      "timestamp": "2026-07-11T11:19:31.188218+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,79 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T10:02:33.657859+00:00",
+      "timestamp": "2026-07-11T11:19:31.188205+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T11:00:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran\u2019s Supreme Leader pledges revenge for slain father and predecessor",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor-4787228",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T10:54:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T10:15:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two dead, 19 wounded as Russia strikes Ukraine with missiles, drones",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T10:06:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Can Nvidia Still Turn Patient Investors Into Millionaires?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a983da24ddfb6aae40b9abdd50600a0f3c63e5653e885d930f4b610cf1d6711",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T09:49:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If a Stock Market Crash Is Brewing, History Says Investors Who Do This 1 Thing Will Win Out",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26e9a4277b9d6f1300a7d5cf20607e5dd7294ec7edd6da746310801ee16066c0",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T09:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -76,6 +145,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T09:31:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SpaceX IPO Lock-Up Period: A Golden Buying Opportunity or a Liquidity Trap?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40d3b6061568631ce6632efcc4a23314f9ad230def35a8362256686d0f78f0b4",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T09:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -146,18 +227,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd0fe8895564174dc33583433b9adaafc2aae29c689f77d09e8083f48db859d5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T07:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "One killed in drone attack on vessels in Taganrog Bay, Russian authorities say",
       "source": "Investing.com News",
@@ -169,51 +238,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "This Overlooked Investment Could Set You Up for Life. Here's How.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d2433a0616fa2263d5072ab8df1bd42be4bf9e55b9d9419044d71b3de49bbd1",
+      "ticker": "CRWV",
+      "headline": "CoreWeave's Biggest Fear Looks Overdone",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=11820afbafe2ef5d2b5139556f26bec44f99941201e25d374a261b33c207e861",
       "is_watchlist": true,
-      "timestamp": "2026-07-11T07:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin coils below $64,700 resistance: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-63k-resistance-zone-live-levels-93CH-4775638",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T07:02:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-threatens-to-decimate-iran-as-us-steps-up-military-diplomatic-pressure-4787217",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T07:00:35+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ed71ef4846c45de57ed6a76d3aa2fa307df04171df901d06d7eccf5988ee0e4",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T06:55:00+00:00",
+      "timestamp": "2026-07-11T06:29:08+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -242,20 +272,16 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Trump says US, Iran agree to continue talks but ceasefire over - Reuters",
+      "headline": "U.S. seeks Iranian pledge to free up Strait of Hormuz - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",
-      "is_watchlist": true,
+      "is_watchlist": false,
       "timestamp": "2026-07-11T04:46:00+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -666,17 +692,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Summer travel season is here: Make this vital purchase before your next vacation",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/8-things-i-learned-about-travel-expenses-after-a-family-tragedy-1bbb024f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T19:40:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US makes it easier to export Nvidia AI chips and military equipment to the UAE - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5",
@@ -696,17 +711,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Where to put cash right now: Should you lock in at 4% \u2014 or wait for the next Fed rate decision?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T19:30:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -779,18 +783,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-10T17:18:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave CEO Sells Another $22 Million in Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62fe3bd757b6386e3e48c6169412ab0ab61a286b3b9d44e14f03e5374b87a9d7",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T16:47:38+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -1032,11 +1024,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Friday, July 10: Rates are mixed today, mostly higher",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-10-rates-are-mixed-today-mostly-higher-100000913.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best CD rates today, Friday, July 10, 2026: Up to 4.10% APY return",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-10-2026-up-to-410-apy-return-100000644.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Vapes to have less enticing names and flavours to protect children",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-10T09:54:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SoftBank, PayPay in talks to invest in Seven & i, Bloomberg reports",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-paypay-talks-invest-seven-095052586.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T09:50:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Raymond James Sets Wall Street's Highest Price Target on SpaceX Stock at $800. Here's the Math Behind the 425% Upside Call.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-sets-wall-streets-094000466.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T09:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwanese-chipmaker-nanya-plans-6-092507004.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T09:25:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1055,67 +1102,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US stocks rise as Wall Street shows it's still hungry for AI winners",
+      "headline": "Chevron Signs Five-Year WA Gas Supply Deal With Alinta Energy",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-climb-oil-prices-065936283.html",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-signs-five-wa-gas-091000252.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T06:59:36+00:00",
+      "timestamp": "2026-07-10T09:10:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wolfe Research Maintains Outperform rating on CoreWeave (CRWV)",
+      "headline": "Can We Afford $70k Annual Spending at 65 With $1 Million Saved and $30k in Social Security?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-maintains-outperform-rating-065823429.html",
+      "url": "https://finance.yahoo.com/markets/articles/were-65-1-million-saved-111000809.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T06:58:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Makes Equinix (EQIX) One of the Best Data Center Stocks to Buy in July",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-equinix-eqix-one-best-065822240.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T06:58:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Did Eaton (ETN) Spend $2.1 Billion in R&D Investments?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-eaton-etn-spend-065820038.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T06:58:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bernstein Reiterates Buy Rating on Vertiv (VRT)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-reiterates-buy-rating-vertiv-065818415.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T06:58:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-increases-advanced-micro-065817979.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T06:58:17+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-07-10T09:00:00+00:00",
+      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -1150,17 +1153,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-09T23:00:51+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T22:22:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {

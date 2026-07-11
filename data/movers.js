@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T10:02:33.655267+00:00",
+  "generated_at": "2026-07-11T11:19:31.185376+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
+      "move_reason": "News: \"Can Nvidia Still Turn Patient Investors Into Millionaires?\""
     },
     {
       "ticker": "DG",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
+      "move_reason": "News: \"CoreWeave's Biggest Fear Looks Overdone\""
     },
     {
       "ticker": "PWR",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
+      "move_reason": "News: \"CoreWeave's Biggest Fear Looks Overdone\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
+      "move_reason": "News: \"Can Nvidia Still Turn Patient Investors Into Millionaires?\""
     },
     {
       "ticker": "OSCR",
