@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T20:30:31.153731+00:00",
+  "generated_at": "2026-07-11T21:26:45.430672+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T20:30:31.150517+00:00",
+      "timestamp": "2026-07-11T21:26:45.427454+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T20:30:31.150513+00:00",
+      "timestamp": "2026-07-11T21:26:45.427449+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,59 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T20:30:31.150499+00:00",
+      "timestamp": "2026-07-11T21:26:45.427434+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4787306",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:20:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T20:35:21+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-seagate-technology-stx-strengthening-202429436.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T20:24:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Family demands answers in death of young Black man in Mississippi",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/family-demands-answers-in-death-of-young-black-man-in-mississippi-4786916",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T20:24:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -205,17 +254,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Ukraine says drone strikes damage 21 Russian oil tankers in Sea of Azov attack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/ukraine-says-drone-strikes-damage-21-russian-oil-tankers-in-sea-of-azov-attack-4787300",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:11:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company",
       "source": "Yahoo",
@@ -275,17 +313,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-4787296",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T18:06:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bulls vs. Bears: SK Hynix jolts analysts amid record-setting IPO",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4613051-sk-hynix-jolts-analysts-record-setting-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -293,21 +320,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T18:06:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' \u2014 here are experts takes on buying the dip",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebounded-180000405.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T18:00:00+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -583,22 +595,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T12:51:50+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
@@ -756,7 +752,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US seeks Iranian pledge to free up Strait of Hormuz - Reuters",
+      "headline": "US seeks free Hormuz access from Iran as talks focus on strait - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",
       "is_watchlist": false,
