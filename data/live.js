@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T14:58:50.798576+00:00",
+  "generated_at": "2026-07-11T16:01:21.970379+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T14:58:50.795447+00:00",
+      "timestamp": "2026-07-11T16:01:21.967224+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T14:58:50.795443+00:00",
+      "timestamp": "2026-07-11T16:01:21.967219+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,179 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T14:58:50.795428+00:00",
+      "timestamp": "2026-07-11T16:01:21.967205+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T15:54:27+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA says yen bearishness hits four-year extreme as policy fears mount",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/bofa-says-yen-bearishness-hits-fouryear-extreme-as-policy-fears-mount-4787286",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:50:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta disables AI image feature days after launch following backlash",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613047-meta-disables-ai-image-feature-backlash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:47:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The U.S. stock market is becoming \u2018too big to fail\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:47:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:42:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:41:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-comeback-real-3-153500401.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Robinhood, AI Plays Lead Five Stocks Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/robinhood-ai-plays-lead-five-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:34:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit-4787240",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:06:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Insider trades: Palo Alto Networks, Taiwan Semiconductor, and Sony among major names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4612995-insider-trades-palo-alto-networks-taiwan-semiconductor-sony-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:03:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018An American tragedy\u2019 in the making: The majority of small-business owners will retire in the next decade. What happens to their workers?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These underperforming trades could yield big returns over next six months",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China halts helium exports as renewed Middle East tensions threaten chip supplies",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/china-halts-helium-exports-as-renewed-middle-east-tensions-threaten-chip-supplies-4787283",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T14:58:52+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T14:54:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -59,17 +228,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-11T14:44:59+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why More Retirees Are Replacing 40% Bond Allocations With Dividend Stocks",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-more-retirees-replacing-40-144032809.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:40:32+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -146,28 +304,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-best-large-142324571.html",
       "is_watchlist": false,
       "timestamp": "2026-07-11T14:23:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FTAI Aviation (FTAI) Partners with AEI for Boeing 737-800 Freighter Solutions",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-partners-aei-142314128.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:23:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rollins (ROL) Names William Harkins as CFO Following Kenneth Krause Resignation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rollins-rol-names-william-harkins-142254333.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:22:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -284,28 +420,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Eni CEO warns oil could break above $100 in 2027 if Middle East tensions persist",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/eni-ceo-warns-oil-could-break-above-100-in-2027-if-middle-east-tensions-persist-4787278",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:25:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Activist investor Elliott builds a large stake in CCC: Bloomberg",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613045-activist-investor-elliott-builds-stake-ccc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:22:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "AT&T Yields 5.3% and Trades Near a 52-Week Low. Is the SpaceX Threat Really Worth That Discount?",
       "source": "Yahoo",
@@ -315,17 +429,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:15:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -424,50 +527,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Iran\u2019s supreme leader pledges revenge for slain father and predecessor",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor-4787228",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:36:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MGM is reportedly in deal talks with Barry Diller\u2019s People",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613043-mgm-deal-talks-barry-dillers-people?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:33:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Day-to-day dread\u2019 haunts frustrated job seekers in era of low hiring. When will it end?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/day-to-day-dread-haunts-frustrated-job-seekers-in-era-of-low-hiring-when-will-it-end-76640caf?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corporate America offers stronger proof AI is boosting profits, productivity: MS",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/corporate-america-offers-stronger-proof-ai-is-boosting-profits-productivity-ms-4787269",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:25:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "Texas Pacific Land (TPL) Stock Looks Rich On Cash Flow And Earnings",
       "source": "Yahoo",
@@ -477,21 +536,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "China tells refiners to keep fuel output high as Iran conflict threatens supply",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/china-tells-refiners-to-keep-fuel-output-high-as-iran-conflict-threatens-supply-4787257",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T12:07:18+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -517,28 +561,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Regular water is no longer enough. Welcome to the corporate gold rush around \u2018functional hydration.\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jefferies flags buying opportunities as Iran conflict reshapes European energy",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-flags-buying-opportunities-as-iran-conflict-reshapes-european-energy-4787254",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T11:57:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan",
       "source": "Yahoo",
@@ -548,17 +570,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The U.S. stock market is becoming \u2018too big to fail\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T11:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -681,17 +692,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T05:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
