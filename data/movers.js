@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T11:19:31.185376+00:00",
+  "generated_at": "2026-07-11T12:13:37.412142+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Nvidia Still Turn Patient Investors Into Millionaires?\""
+      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
     },
     {
       "ticker": "DG",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These S&P500 stocks that are showing activity before the opening bell on Friday.\""
+      "move_reason": "News: \"Texas Pacific Land (TPL) Could Be 11% Undervalued On Its Royalty Growth Narrative\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Nvidia Still Turn Patient Investors Into Millionaires?\""
+      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
     },
     {
       "ticker": "OSCR",
@@ -404,7 +404,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These S&P500 stocks that are showing activity before the opening bell on Friday.\""
+      "move_reason": "News: \"Texas Pacific Land (TPL) Could Be 11% Undervalued On Its Royalty Growth Narrative\""
     },
     {
       "ticker": "TTD",
