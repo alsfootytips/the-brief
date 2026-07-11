@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T22:24:01.715380+00:00",
+  "generated_at": "2026-07-11T23:27:40.076355+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T22:24:01.712279+00:00",
+      "timestamp": "2026-07-11T23:27:40.073099+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T22:24:01.712274+00:00",
+      "timestamp": "2026-07-11T23:27:40.073094+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,19 +45,87 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T22:24:01.712260+00:00",
+      "timestamp": "2026-07-11T23:27:40.073080+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran declares Strait of Hormuz closed as \u2019unauthorised\u2019 vessel hit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T23:24:27+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Russian strikes kill seven, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
+      "headline": "Soccer-From Algerian fervour to Oranje march, World Cup transforms Kansas City",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/soccerfrom-algerian-fervour-to-oranje-march-world-cup-transforms-kansas-city-4787309",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T23:12:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T22:58:53+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Deutsche Bank shares three key points on the dollar\u2019s long-term trajectory",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/deutsche-bank-shares-three-key-points-on-the-dollars-longterm-trajectory-4787308",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T22:46:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran\u2019s IRGC navy says Strait of Hormuz closed until further notice, state media reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/irans-irgc-navy-says-strait-of-hormuz-closed-until-further-notice-state-media-reports-4787307",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T22:36:50+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russian strikes kill eight, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T22:06:25+00:00",
+      "timestamp": "2026-07-11T22:36:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -174,22 +242,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T20:35:21+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Family demands answers in death of young Black man in Mississippi",
@@ -222,59 +274,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T20:17:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T20:06:26+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US, Canada strike deal on tolls to let new bridge open on July 27",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:42:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Postal Service raises stamp price to 82 cents",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-postal-service-raises-stamp-price-to-82-cents-4787302",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:36:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran\u2019s Khamenei vows revenge as Trump warns of devastating U.S. response",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-threatens-to-decimate-iran-as-us-steps-up-military-diplomatic-pressure-4787217",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T19:22:34+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -428,6 +427,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Nvidia Stock is Finally Soaring, and Rare Chart Pattern Points to More Upside",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=328a9d2fc24f19598820abb1157a69125fd7e57e0ed72f28f336a7d8ab5221ad",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T16:11:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Your data built the AI boom \u2014 but Big Tech is pocketing 100% of the equity",
       "source": "MarketWatch",
@@ -492,18 +503,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T15:47:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Cathie Wood-led ARK Invest Buys Coinbase, Trails Only SpaceX Among Friday's Top Buys",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab7f824b4a60713d700d448380767dcc2735d4fd0314647216c2bc08ad5ac5ff",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T15:14:22+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
