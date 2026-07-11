@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T06:35:46.851442+00:00",
+  "generated_at": "2026-07-11T08:29:02.749024+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching\""
+      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announceme...\""
+      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
     },
     {
       "ticker": "TPL",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TeraWulf's Hidden Capacity Advantage: Why It Could Outrun Core Scientific\""
+      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
     },
     {
       "ticker": "GEV",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fermi America Sinks 11.5% with $375 Million Offering\""
+      "move_reason": "News: \"GE Vernova Nuclear: Small Revenue Now But A Big Future\""
     },
     {
       "ticker": "XLB",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave's CEO Dumped Nearly 370,000 Shares for $30.8 Million. What Does That Mean for In...\""
+      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
     },
     {
       "ticker": "PWR",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Growth Broadens As Markets Look Beyond Geopolitics\""
+      "move_reason": "News: \"Weekly Commentary: Currency Pegs And Carry Trades\""
     }
   ],
   "watchlist": [
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announceme...\""
+      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
     },
     {
       "ticker": "APA",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave's CEO Dumped Nearly 370,000 Shares for $30.8 Million. What Does That Mean for In...\""
+      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
     },
     {
       "ticker": "DG",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fermi America Sinks 11.5% with $375 Million Offering\""
+      "move_reason": "News: \"GE Vernova Nuclear: Small Revenue Now But A Big Future\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Growth Broadens As Markets Look Beyond Geopolitics\""
+      "move_reason": "News: \"Weekly Commentary: Currency Pegs And Carry Trades\""
     },
     {
       "ticker": "NBIS",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TeraWulf's Hidden Capacity Advantage: Why It Could Outrun Core Scientific\""
+      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
     },
     {
       "ticker": "NVDA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching\""
+      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
     },
     {
       "ticker": "OSCR",
@@ -598,13 +598,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 7.9 (cheap on absolute basis)"
+        "Forward P/E 8.0 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 7.9 (cheap on absolute basis)"
+        "Forward P/E 8.0 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -625,13 +625,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 13.7 (cheap on absolute basis)"
+        "Forward P/E 13.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 13.7 (cheap on absolute basis)"
+        "Forward P/E 13.9 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -652,13 +652,13 @@ window.theBriefMovers = {
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.5 (cheap on absolute basis)"
+        "Forward P/E 14.8 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.5 (cheap on absolute basis)"
+        "Forward P/E 14.8 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -704,13 +704,13 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "7 insider sells vs 3 buys (last 90 days)",
-        "Forward P/E 9.2 (cheap on absolute basis)",
+        "Forward P/E 9.1 (cheap on absolute basis)",
         "-78.2% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "7 insider sells vs 3 buys (last 90 days)",
-        "Forward P/E 9.2 (cheap on absolute basis)",
+        "Forward P/E 9.1 (cheap on absolute basis)",
         "-78.2% from 52-week high"
       ],
       "tags": [
@@ -731,12 +731,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.3 (cheap on absolute basis)"
+        "Forward P/E 5.4 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.3 (cheap on absolute basis)"
+        "Forward P/E 5.4 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
