@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T21:26:45.424043+00:00",
+  "generated_at": "2026-07-11T22:24:01.708912+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Stocks Worth Holding Through Any Market Condition\""
+      "move_reason": "News: \"Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Stocks Worth Holding Through Any Market Condition\""
+      "move_reason": "News: \"Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?\""
     },
     {
       "ticker": "OSCR",

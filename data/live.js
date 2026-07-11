@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T21:26:45.430672+00:00",
+  "generated_at": "2026-07-11T22:24:01.715380+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T21:26:45.427454+00:00",
+      "timestamp": "2026-07-11T22:24:01.712279+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T21:26:45.427449+00:00",
+      "timestamp": "2026-07-11T22:24:01.712274+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,77 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T21:26:45.427434+00:00",
+      "timestamp": "2026-07-11T22:24:01.712260+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russian strikes kill seven, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T22:06:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Florida man paid off his house 2 months before Hurricane Milton tore off his roof \u2014 and he had no home insurance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/florida-man-paid-off-house-214000740.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25fe5bf811c1a4d7381a60938007aeba76361c6ad6e0307209280bb783fc0cb8",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T21:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-best-large-142324571.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:23:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here is Why Salesforce (CRM) is One of the Best Large Cap Stocks to Buy According to Analysts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-crm-one-best-142338375.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:20:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -60,6 +127,51 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T21:20:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Baker Hughes (BKR) Secures Long-Term Service Agreement for ANOH Gas Plant",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-secures-long-155952946.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:15:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-introduces-160002387.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:12:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Carrier Global (CARR) Completes $440M Sale of Riello Business",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/carrier-global-carr-completes-440m-160008643.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T21:11:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "2 Beaten-Down Stocks That Still Aren't Worth Buying",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8308b86b1c11803a7d84a3f0719e527a416b8fd3d2c5b841c3b5ccde8dd6b84b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T20:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -80,17 +192,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-seagate-technology-stx-strengthening-202429436.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T20:24:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Family demands answers in death of young Black man in Mississippi",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/family-demands-answers-in-death-of-young-black-man-in-mississippi-4786916",
@@ -101,34 +202,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "5 Top AI Stocks Investors Own on Robinhood",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bc7b94ebc36aeee0f82edd39dc6a4b49c29dc47f5003250f5ba74843961f5ef",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T20:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
       "is_watchlist": false,
       "timestamp": "2026-07-11T20:17:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-applied-optoelectronics-aaoi-well-201727325.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T20:17:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T20:10:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -146,39 +237,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T20:05:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Vertiv (VRT) Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vrt-expanding-ai-data-195901778.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:59:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Ciena (CIEN) Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-ciena-cien-positioned-benefit-195239343.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:52:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -201,29 +259,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T19:36:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russian strikes kill seven, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:30:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Stocks Worth Holding Through Any Market Condition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2598f235551346d10bc8d95b5a48b1a7d7ae631ac4ce33f2ad73b9131a1c04e9",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T19:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -254,18 +289,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8bf09f02584ec480a8ad56fa22eee3817365975fa33a674c841efcb33515a98c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T19:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
       "source": "MarketWatch",
@@ -289,18 +312,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "AMD",
-      "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T18:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
@@ -454,17 +465,6 @@ window.theBriefLive = {
       "headline": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks rally when Congress goes on summer break. Here\u2019s why.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-11T16:00:00+00:00",
       "relevance_score": 0.0,
