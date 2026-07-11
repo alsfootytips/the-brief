@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T04:16:22.062397+00:00",
+  "generated_at": "2026-07-11T06:35:46.851442+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enter...\""
+      "move_reason": "News: \"Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 20...\""
+      "move_reason": "News: \"Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announceme...\""
     },
     {
       "ticker": "TPL",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy\""
+      "move_reason": "News: \"Growth Broadens As Markets Look Beyond Geopolitics\""
     }
   ],
   "watchlist": [
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 20...\""
+      "move_reason": "News: \"Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announceme...\""
     },
     {
       "ticker": "APA",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy\""
+      "move_reason": "News: \"Growth Broadens As Markets Look Beyond Geopolitics\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enter...\""
+      "move_reason": "News: \"Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching\""
     },
     {
       "ticker": "OSCR",

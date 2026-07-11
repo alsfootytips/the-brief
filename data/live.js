@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T04:16:22.068965+00:00",
+  "generated_at": "2026-07-11T06:35:46.858039+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T04:16:22.065817+00:00",
+      "timestamp": "2026-07-11T06:35:46.854903+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T04:16:22.065812+00:00",
+      "timestamp": "2026-07-11T06:35:46.854898+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,157 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T04:16:22.065798+00:00",
+      "timestamp": "2026-07-11T06:35:46.854865+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Volkswagen restructuring faces resistance after board setback",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/volkswagen-restructuring-faces-resistance-after-board-setback-4787215",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T06:13:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fe210b41c4a6cb78fb2618c87ec36265d5686ef64a899b3da6f03eeb8c03dd9",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T05:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5068a29639b2df45d012230e90029611f5c68956d489092926bed27b1270dfb",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T05:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China temporarily bans helium exports as US-Iran tensions flare again",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/china-temporarily-bans-helium-exports-as-usiran-tensions-flare-again-4785887",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T05:06:08+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Bloom Energy the Next Nvidia?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31d0b0a717138092065127e557b2381faa2048e33ace097ef1a64270fe316cb2",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T05:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T05:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says US, Iran agree to continue talks but ceasefire over",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over-4787214",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T04:48:28+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says US, Iran agree to continue talks but ceasefire over - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T04:46:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Canada strike deal on tolls to let new bridge open on July 27",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T04:36:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BlackRock lists top 10 geopolitical risks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/blackrock-lists-top-10-geopolitical-risks-4787213",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T04:35:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "North Korea condemns NATO summit, says denuclearisation should start with US allies",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/north-korea-condemns-us-allies-after-nato-summit-vows-to-safeguard-sovereignty-4787211",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T04:18:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announcement \u2013 Has The Bull Case Changed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90968530f6da7c25ee8c183c6ac704f424a7db66e26a6b68e7630888a6678bf0",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T04:16:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -90,17 +237,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "North Korea condemns US, allies after NATO summit, vows to safeguard sovereignty",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/north-korea-condemns-us-allies-after-nato-summit-vows-to-safeguard-sovereignty-4787211",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T03:36:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -112,96 +248,44 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "OpenAI safety chief Heidecke to leave after leadership reshuffle, says Wired",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/openai-safety-chief-heidecke-to-leave-after-leadership-reshuffle-says-wired-4787209",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T03:31:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US issues fresh Iran-related sanctions as conflict flares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-issues-fresh-iranrelated-sanctions-website-shows-4786681",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T03:06:24+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20a3c958fad602ac7c2b06e25fd2b55f3100fc239920bf5a6b933e8b40906a03",
+      "headline": "Trump says missiles aimed at Iran if Tehran targets US president - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzc3RWxTLVZuRllmY19VQ244ZjcxcjY2TVRNWnh1WkI1ck5qUkFyMzBZNTZTYUZqbTVRSmc4V3BqMl9zY21GdnJmSGU0OTNRd0Q4ekxDMnlGQ0I1UEJScFZhUGZoZ1A1aEdZTWRYZ0FGazJ3aXpJd2Zad044SzhMWXFETXRmQnBvTnMxSjhzdXVjZnp1YmRkNWJlVWdqWWdFdnRKeHlrOFQtdjZqRk9mMFhMbFFHUQ?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-07-11T03:01:00+00:00",
+      "timestamp": "2026-07-11T03:35:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Rackspace Technology Cuts 2026 Outlook as $250M Stock Sale Fuels AI Push",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5e31641a741bb837b81d6befa835e7bbc7f763aceed74bb64478b240cc2d7aa",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T03:02:02+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Soccer-England\u2019s Kane confirms golf outing with Trump, praises president\u2019s game",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccerenglands-kane-confirms-golf-outing-with-trump-praises-presidents-game-4787207",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T02:54:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0ace11c0d707ffab1e368db98888bae9df91e84c2cb38bedfc46e0da5f4c154",
+      "ticker": "IWM",
+      "headline": "Growth Broadens As Markets Look Beyond Geopolitics",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1cf1a2ea73264dfd682db257f5db60e65a59a4b28710a2cd43f5c9251d5df6d5",
       "is_watchlist": true,
-      "timestamp": "2026-07-11T02:39:48+00:00",
+      "timestamp": "2026-07-11T01:35:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Private Credit Is Coming to 401(k) Plans. These Are the Alternative Asset Managers Set to Cash In.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc247e5b74d9d0587d4de3713ff47b30a17c0657ceb3f9846c8ce3b7afa74366",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T02:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Flash flooding traps hundreds of people in rural Missouri",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/flash-flooding-traps-hundreds-of-people-in-rural-missouri-4787206",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T02:24:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump administration backs Intel turnaround with customer push",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/trump-administration-backs-intel-turnaround-with-customer-push-4787205",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T02:17:41+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -229,18 +313,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "IWM",
-      "headline": "This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0d640f7f9dc501eb82b7f81e2f79e06901d81415392b2ccda5639c6fef37da60",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T23:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=0d640f7f9dc501eb82b7f81e2f79e06901d81415392b2ccda5639c6fef37da60",
@@ -451,18 +523,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Why Is Meta (META) Stock Soaring Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T21:03:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Own Walmart For Value? Dollar Tree's Numbers Tell A Sharper Story.",
       "source": "Yahoo",
@@ -642,18 +702,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US issues fresh Iran-related sanctions as conflict flares - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3VkRHJQX280dm52aTMzUkNlOHJKNVNFQ2g2d19JWVc4dkVCMzBiSUhyR01LaTJkalhNQnMybnNrTk9QVWZwSng1TXZGalh6QnVsekV5bVVKN3kwcE02X19TT2ZuZzFfeHQ4RDlHSG84eHFjaEsxRUtlSDlVanpfb2lSVE0zVnhVZlpWd0JuR1VEeU9BQ2stcVpmMll5SjcxUWdTWVk1cmIzUQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T18:49:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of July 12",
       "source": "SeekingAlpha",
@@ -673,17 +721,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-10T17:40:29+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Traders fall back in love with Meta. Here's where bulls see it going",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T17:40:29+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -757,18 +794,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-10T16:42:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed report cites 'stepped-up' inflation due to tariffs, Iran war, AI buildout - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmpCaExTSktkWXFGQjlDZ2pzOHlSNm0xcXJqcWJGUkdNaWRlSnJldzhzSUZaT2drZy1RZVM5TmVJbGltTHhUU3hzeFpvbGZjbmlJWkxjejUwZVY0UTFscU45ekt2LWlBZUM3c1dtc2R1VE05OXA3NmxCVUxBVVFUQ0ZuSm0zejV6ZlE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T16:30:28+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -853,19 +878,15 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "A major housing bill is set to become law at midnight \u2014 even though Trump says he won't sign",
+      "headline": "Largest housing affordability bill in decades becomes law without Trump's signature",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
-      "is_watchlist": true,
+      "is_watchlist": false,
       "timestamp": "2026-07-10T14:55:21+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -911,18 +932,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=c8a8f7e581d5dabe1fa2990bfda0034c628da0586a018f5446699d7d2717f79a",
       "is_watchlist": true,
       "timestamp": "2026-07-10T14:14:44+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Passive ETFs And Leverage: The Market's Hidden Time Bomb",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b7c7bd072d157d9abc8e819e41f2404b79b27751f997cccacfa0de6c4820f729",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T14:00:09+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1071,11 +1080,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "This Blue-Chip Dividend Stock Is Outperforming the S&P 500 in 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-dividend-stock-outperforming-233002964.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T23:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openais-applications-chief-fidji-simo-232331285.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T23:23:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Geopolitical shifts drive sovereign funds towards national priorities, study finds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/geopolitical-shifts-drive-sovereign-funds-230640046.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T23:16:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Pressure builds on Europe's biggest port to be greener",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-09T23:00:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "People Are Talking About Contango While Oil Markets Are Far From Recovered",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/people-talking-contango-while-oil-230000669.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T23:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "From Blastoff To \u2026 Boring? Why SpaceX Stock Could Lead Aerospace Industry Pivot",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/why-spacex-stock-could-pivot-aerospace-industry-to-telecoms/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T22:23:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1101,61 +1165,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Pick: APA"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-Software firm CCC exploring sale, sources say",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-software-firm-ccc-explores-213844618.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T21:38:44+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avantus Secures $525 Million to Support Major California Solar-Plus-Storage Project",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/avantus-secures-525-million-support-213102377.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T21:31:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Americas are rewiring global oil trade",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/americas-rewiring-global-oil-trade-213020470.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T21:30:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed's Logan says Fed open market operations would benefit from voluntary central clearing",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/feds-logan-says-fed-open-173215495.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T21:07:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks climb, oil slides as tech hopes outlast Middle East worries",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-climb-chip-rally-014926610.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T21:04:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1376,11 +1385,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Are high-yield checking accounts worth it?",
+      "headline": "Do 7% interest savings accounts exist anymore?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/are-high-yield-checking-accounts-worth-it-160722121.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/7-interest-savings-accounts-193430565.html",
       "is_watchlist": false,
-      "timestamp": "2024-08-01T16:07:22+00:00",
+      "timestamp": "2024-11-20T19:34:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
