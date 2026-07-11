@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T16:01:21.963793+00:00",
+  "generated_at": "2026-07-11T17:16:15.835325+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math ...\""
+      "move_reason": "News: \"The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the R...\""
     },
     {
       "ticker": "DG",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
+      "move_reason": "News: \"Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does Th...\""
     },
     {
       "ticker": "PWR",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
+      "move_reason": "News: \"Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does Th...\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math ...\""
+      "move_reason": "News: \"The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the R...\""
     },
     {
       "ticker": "OSCR",
