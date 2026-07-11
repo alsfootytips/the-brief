@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T17:16:15.842092+00:00",
+  "generated_at": "2026-07-11T18:26:38.672859+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T17:16:15.838776+00:00",
+      "timestamp": "2026-07-11T18:26:38.669757+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T17:16:15.838771+00:00",
+      "timestamp": "2026-07-11T18:26:38.669753+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,131 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T17:16:15.838757+00:00",
+      "timestamp": "2026-07-11T18:26:38.669739+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The New Villian in Tech",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/villian-tech-180742420.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T18:07:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-4787296",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T18:06:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bulls vs. Bears: SK Hynix jolts analysts amid record-setting IPO",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613051-sk-hynix-jolts-analysts-record-setting-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T18:06:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' \u2014 here are experts takes on buying the dip",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebounded-180000405.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T18:00:00+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63d98cf82e285a7e89021a7e186ac90491de278aad72b96a294557b230adcee5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T17:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "5-star analyst sends AMD stock investors a warning",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=980312e15080d612cd3d4ca93ec5a50e1a48adae714b19ebe2a6d3354ea9de02",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T17:33:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trending stocks this week: Iran tensions, Pepsi results, SK hynix U.S. debut dominate Wall Street",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613050-trending-stocks-this-week-iran-tensions-pepsi-results-sk-hynix-us-debut-dominate-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T17:21:05+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: Apple Will Be Worth $5 Trillion (or More) by the End of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef9f081cf0e5b1135573a533e3215467945d1fdf17599e3fc71cc5efd885cb11",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T17:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oregon reportedly drops motion against Paramount\u2019s Warner bid",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613049-oregon-drops-motion-against-paramounts-warner-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T17:19:05+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T17:12:29+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -63,12 +184,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
       "headline": "If You Invest $5,000 in SCHD Today, Here's the Passive Income It Could Deliver in 20 Years",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-5-000-schd-today-170500581.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1679956778b59d30344ad481d11ec65ef60b4328b92ab074b57223379bebc991",
+      "is_watchlist": true,
       "timestamp": "2026-07-11T17:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can Colombia\u2019s New Government Reverse the Nation\u2019s Oil and Gas Decline?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/colombia-government-reverse-nation-oil-170000737.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T17:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -82,6 +215,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T16:51:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Chevron May Have Unlocked a Powerful New Growth Engine",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93027eb5221e66f3d856d583275775cbd878e858deddbfd16b28619db0ba8757",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T16:51:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -204,28 +349,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Navan (NAVN) Enters Agreement to Acquire Brazilian Travel Management Firm Smartrips",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/navan-navn-enters-agreement-acquire-162742988.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:27:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kyndryl (KD), Amazon (AMZN) Expand Strategic Collaboration for Agentic AI Deployment",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-kd-amazon-amzn-expand-162736426.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:27:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Earnings call transcript: LTIM Q1 2027 profit, AI momentum lift shares 4.7%",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ltim-q1-2027-profit-ai-momentum-lift-shares-47-93CH-4787289",
@@ -244,21 +367,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T16:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T16:00:32+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -341,17 +449,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BofA says yen bearishness hits four-year extreme as policy fears mount",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/bofa-says-yen-bearishness-hits-fouryear-extreme-as-policy-fears-mount-4787286",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T15:50:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Meta disables AI image feature days after launch following backlash",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4613047-meta-disables-ai-image-feature-backlash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -362,36 +459,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+      "ticker": "AMD",
+      "headline": "Cathie Wood-led ARK Invest Buys Coinbase, Trails Only SpaceX Among Friday's Top Buys",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c51243b4f9e1a6c909d6eb79eca3ac2b567766c58e936619d3709b80b7a3b319",
+      "url": "https://finnhub.io/api/news?id=ab7f824b4a60713d700d448380767dcc2735d4fd0314647216c2bc08ad5ac5ff",
       "is_watchlist": true,
-      "timestamp": "2026-07-11T15:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Price Prediction: Synopsys Stock Will Be Worth This In 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=73a1fbe176de380a6a419a32d43b664cfe6d04a76508a97585eede9dda212da0",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T15:30:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Amazon\u2019s $2 Trillion Empire Faces a Critical Turning Point",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4474edc9e45ae8e5b9a88f7a6071a608e94f439077d4ad2e3b968974dd941553",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T15:25:08+00:00",
+      "timestamp": "2026-07-11T15:14:22+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -427,39 +500,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-11T14:44:59+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "KB Financial, Shinhan climb, Lincoln International, Rocket dip in week's financial movers",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613009-kb-financial-shinhan-climb-lincoln-international-rocket-dip-in-weeks-financial-movers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:05:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable tech headlines for the week: Micron, Microsoft, Apple in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613012-notable-tech-headlines-for-the-week-micron-microsoft-nvidia-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:05:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable analyst calls this week: Broadcom, Seagate and Shopify among top picks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4612951-notable-analyst-calls-this-week-broadcom-seagate-and-shopify-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:05:11+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -714,18 +754,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "SK Hynix ETFs Are Coming. Exactly Who Should Own Them.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a17b953939fee94ebb529b8d790c9c85eecfcf544265f70fa0a978d109cca0ee",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T06:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "US seeks Iranian pledge to free up Strait of Hormuz - Reuters",
       "source": "Reuters",
@@ -735,18 +763,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announcement \u2013 Has The Bull Case Changed?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=90968530f6da7c25ee8c183c6ac704f424a7db66e26a6b68e7630888a6678bf0",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T04:16:06+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1101,18 +1117,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6d77374ceb7aac8a73e834500ece636ff90acb048b0087c9170831333d46acaa",
       "is_watchlist": true,
       "timestamp": "2026-07-10T14:21:53+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Vernova (GEV) Is Sold Out On Turbines Through 2030 As Power Demand Builds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8a8f7e581d5dabe1fa2990bfda0034c628da0586a018f5446699d7d2717f79a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T14:14:44+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T17:16:15.835325+00:00",
+  "generated_at": "2026-07-11T18:26:38.666346+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the R...\""
+      "move_reason": "News: \"The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
+      "move_reason": "News: \"5-star analyst sends AMD stock investors a warning\""
     },
     {
       "ticker": "TPL",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Nuclear: Small Revenue Now But A Big Future\""
+      "move_reason": "News: \"Chevron May Have Unlocked a Powerful New Growth Engine\""
     },
     {
       "ticker": "XLB",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?\""
+      "move_reason": "News: \"5-star analyst sends AMD stock investors a warning\""
     },
     {
       "ticker": "APA",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Nuclear: Small Revenue Now But A Big Future\""
+      "move_reason": "News: \"Chevron May Have Unlocked a Powerful New Growth Engine\""
     },
     {
       "ticker": "IWM",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the R...\""
+      "move_reason": "News: \"The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.\""
     },
     {
       "ticker": "OSCR",
