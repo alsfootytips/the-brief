@@ -1,12 +1,12 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T00:57:35.105352+00:00",
+  "generated_at": "2026-07-11T04:16:22.062397+00:00",
   "gainers": [
     {
       "ticker": "META",
       "name": "META",
       "price": 668.0,
       "change_pct": 5.78,
-      "volume_ratio": 1.7,
+      "volume_ratio": 1.73,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -23,14 +23,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Simply Good Foods Slipped by Almost 2% on Friday\""
+      "move_reason": "News: \"Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enter...\""
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 119.24,
       "change_pct": 3.03,
-      "volume_ratio": 0.92,
+      "volume_ratio": 0.97,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Is Meta (META) Stock Soaring Today\""
+      "move_reason": "News: \"Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 20...\""
     },
     {
       "ticker": "TPL",
@@ -66,7 +66,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 219.93,
       "change_pct": 1.72,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.76,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -78,7 +78,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1093.0,
       "change_pct": 1.65,
-      "volume_ratio": 0.42,
+      "volume_ratio": 0.62,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -101,7 +101,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.12,
       "change_pct": 1.11,
-      "volume_ratio": 0.69,
+      "volume_ratio": 0.73,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -123,7 +123,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 52.83,
       "change_pct": 1.01,
-      "volume_ratio": 0.6,
+      "volume_ratio": 0.61,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -147,7 +147,7 @@ window.theBriefMovers = {
       "name": "Utilities Select Sector",
       "price": 45.41,
       "change_pct": 0.62,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.81,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -158,7 +158,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 44.45,
       "change_pct": 0.5,
-      "volume_ratio": 0.78,
+      "volume_ratio": 0.81,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -182,7 +182,7 @@ window.theBriefMovers = {
       "name": "Oscar Health",
       "price": 30.31,
       "change_pct": -2.85,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -194,7 +194,7 @@ window.theBriefMovers = {
       "name": "PLTR",
       "price": 126.6,
       "change_pct": -1.89,
-      "volume_ratio": 0.78,
+      "volume_ratio": 0.79,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -206,7 +206,7 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 88.81,
       "change_pct": -0.99,
-      "volume_ratio": 0.58,
+      "volume_ratio": 0.59,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -218,7 +218,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 661.71,
       "change_pct": -0.97,
-      "volume_ratio": 0.63,
+      "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -230,7 +230,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 160.84,
       "change_pct": -0.82,
-      "volume_ratio": 0.77,
+      "volume_ratio": 0.84,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -241,7 +241,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 19.6,
       "change_pct": -0.76,
-      "volume_ratio": 0.79,
+      "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Investor Sentiment On The Fed And New Chair Kevin Warsh\""
+      "move_reason": "News: \"This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy\""
     }
   ],
   "watchlist": [
@@ -272,14 +272,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Is Meta (META) Stock Soaring Today\""
+      "move_reason": "News: \"Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 20...\""
     },
     {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 33.4,
       "change_pct": 0.33,
-      "volume_ratio": 0.65,
+      "volume_ratio": 0.66,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -291,7 +291,7 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 88.81,
       "change_pct": -0.99,
-      "volume_ratio": 0.58,
+      "volume_ratio": 0.59,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -303,7 +303,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 119.24,
       "change_pct": 3.03,
-      "volume_ratio": 0.92,
+      "volume_ratio": 0.97,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -315,7 +315,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1093.0,
       "change_pct": 1.65,
-      "volume_ratio": 0.42,
+      "volume_ratio": 0.62,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -332,14 +332,14 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Investor Sentiment On The Fed And New Chair Kevin Warsh\""
+      "move_reason": "News: \"This Week's Market Wrap: Oil Shocks, AI Volatility, And A Resilient Economy\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 219.93,
       "change_pct": 1.72,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.76,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -356,14 +356,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Simply Good Foods Slipped by Almost 2% on Friday\""
+      "move_reason": "News: \"Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enter...\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 30.31,
       "change_pct": -2.85,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -375,7 +375,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 52.83,
       "change_pct": 1.01,
-      "volume_ratio": 0.6,
+      "volume_ratio": 0.61,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 661.71,
       "change_pct": -0.97,
-      "volume_ratio": 0.63,
+      "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 19.6,
       "change_pct": -0.76,
-      "volume_ratio": 0.79,
+      "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "name": "Energy Select Sector",
       "price": 54.93,
       "change_pct": 0.2,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.76,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 525.78,
       "change_pct": 0.3,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.97,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -458,7 +458,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 725.51,
       "change_pct": 0.31,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.78,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -468,7 +468,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 754.95,
       "change_pct": 0.43,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.95,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -490,7 +490,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.12,
       "change_pct": 1.11,
-      "volume_ratio": 0.69,
+      "volume_ratio": 0.73,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -510,7 +510,7 @@ window.theBriefMovers = {
       "name": "Utilities Select Sector",
       "price": 45.41,
       "change_pct": 0.62,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.81,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -520,7 +520,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 44.45,
       "change_pct": 0.5,
-      "volume_ratio": 0.78,
+      "volume_ratio": 0.81,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -540,7 +540,7 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "price": 117.24,
       "change_pct": 0.33,
-      "volume_ratio": 0.59,
+      "volume_ratio": 0.62,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -570,7 +570,7 @@ window.theBriefMovers = {
       "name": "Energy Select Sector",
       "price": 54.93,
       "change_pct": 0.2,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.76,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
@@ -581,7 +581,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 160.84,
       "change_pct": -0.82,
-      "volume_ratio": 0.77,
+      "volume_ratio": 0.84,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -598,13 +598,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.0 (cheap on absolute basis)"
+        "Forward P/E 7.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.0 (cheap on absolute basis)"
+        "Forward P/E 7.9 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -625,13 +625,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 13.9 (cheap on absolute basis)"
+        "Forward P/E 13.7 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 13.9 (cheap on absolute basis)"
+        "Forward P/E 13.7 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -652,13 +652,13 @@ window.theBriefMovers = {
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
+        "Forward P/E 14.5 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
+        "Forward P/E 14.5 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -704,13 +704,13 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "7 insider sells vs 3 buys (last 90 days)",
-        "Forward P/E 9.1 (cheap on absolute basis)",
+        "Forward P/E 9.2 (cheap on absolute basis)",
         "-78.2% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "7 insider sells vs 3 buys (last 90 days)",
-        "Forward P/E 9.1 (cheap on absolute basis)",
+        "Forward P/E 9.2 (cheap on absolute basis)",
         "-78.2% from 52-week high"
       ],
       "tags": [
@@ -731,12 +731,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.4 (cheap on absolute basis)"
+        "Forward P/E 5.3 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.4 (cheap on absolute basis)"
+        "Forward P/E 5.3 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
