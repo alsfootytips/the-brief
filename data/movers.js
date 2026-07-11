@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T12:13:37.412142+00:00",
+  "generated_at": "2026-07-11T13:57:30.117467+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
+      "move_reason": "News: \"NVIDIA Corp (NASDAQ:NVDA): High Growth CAN SLIM Leader With Accelerating Earnings\""
     },
     {
       "ticker": "DG",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave's Biggest Fear Looks Overdone\""
+      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
     },
     {
       "ticker": "PWR",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Currency Pegs And Carry Trades\""
+      "move_reason": "News: \"Fed Minutes Show A Committee More Divided Than The 12-0 Vote Suggests\""
     }
   ],
   "watchlist": [
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave's Biggest Fear Looks Overdone\""
+      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
     },
     {
       "ticker": "DG",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Currency Pegs And Carry Trades\""
+      "move_reason": "News: \"Fed Minutes Show A Committee More Divided Than The 12-0 Vote Suggests\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan\""
+      "move_reason": "News: \"NVIDIA Corp (NASDAQ:NVDA): High Growth CAN SLIM Leader With Accelerating Earnings\""
     },
     {
       "ticker": "OSCR",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For July 10, 2026\""
+      "move_reason": "News: \"My Updated 2026 Market Outlook: Keeping The S&P 500 Target, But Changing Sector Leaders\""
     }
   ],
   "indices": [
