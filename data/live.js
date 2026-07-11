@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T18:26:38.672859+00:00",
+  "generated_at": "2026-07-11T19:42:14.623155+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T18:26:38.669757+00:00",
+      "timestamp": "2026-07-11T19:42:14.619983+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T18:26:38.669753+00:00",
+      "timestamp": "2026-07-11T19:42:14.619978+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T18:26:38.669739+00:00",
+      "timestamp": "2026-07-11T19:42:14.619963+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -53,11 +53,93 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The New Villian in Tech",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/villian-tech-180742420.html",
+      "headline": "Russian strikes kill seven, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T18:07:42+00:00",
+      "timestamp": "2026-07-11T19:30:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran\u2019s Khamenei vows revenge as Trump warns of devastating U.S. response",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-threatens-to-decimate-iran-as-us-steps-up-military-diplomatic-pressure-4787217",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T19:22:34+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Key deals this week: MGM, PERF, VRTX, and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613044-key-deals-this-week-mgm-perf-vrtx-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:15:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukraine says drone strikes damage 21 Russian oil tankers in Sea of Azov attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ukraine-says-drone-strikes-damage-21-russian-oil-tankers-in-sea-of-azov-attack-4787300",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:11:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Supermarket That Turned Cashiers Into Millionaires",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/supermarket-turned-cashiers-millionaires-190154431.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:01:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T18:46:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T18:19:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -268,28 +350,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "China\u2019s Q2 slowdown worsened by \u2019de facto\u2019 fiscal austerity, Citi says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/chinas-q2-slowdown-worsened-by-de-facto-fiscal-austerity-citi-says-4787290",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:42:46+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:42:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
@@ -333,28 +393,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-11T16:27:56+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kaspi.kz (KSPI) Receives Regulatory Approval to Acquire Rabobank A.\u015e.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kaspi-kz-kspi-receives-regulatory-162749835.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:27:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: LTIM Q1 2027 profit, AI momentum lift shares 4.7%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ltim-q1-2027-profit-ai-momentum-lift-shares-47-93CH-4787289",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:05:53+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -407,28 +445,6 @@ window.theBriefLive = {
       "headline": "Stocks rally when Congress goes on summer break. Here\u2019s why.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Your investing expectations are more than double the reality. Here is the tough truth.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-investing-expectations-are-more-than-double-the-reality-here-is-the-tough-truth-dea61820?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corporate America is pumping $1 trillion into stock buybacks \u2014 but look at what insiders are doing",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-pumping-1-trillion-into-stock-buybacks-but-look-at-what-insiders-are-doing-44854835?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-11T16:00:00+00:00",
       "relevance_score": 0.0,
@@ -489,17 +505,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-11T15:00:01+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New York Times journalists subpoenaed over report on Trump's new Air Force One",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613046-times-journalists-subpoenaed-air-force-one-repor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:44:59+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
