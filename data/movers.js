@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T13:57:30.117467+00:00",
+  "generated_at": "2026-07-11T14:58:50.792215+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA Corp (NASDAQ:NVDA): High Growth CAN SLIM Leader With Accelerating Earnings\""
+      "move_reason": "News: \"Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math ...\""
     },
     {
       "ticker": "DG",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land (TPL) Could Be 11% Undervalued On Its Royalty Growth Narrative\""
+      "move_reason": "News: \"How Investors Are Reacting To Texas Pacific Land (TPL) Chevron Power Deal And Earnings Bea...\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA Corp (NASDAQ:NVDA): High Growth CAN SLIM Leader With Accelerating Earnings\""
+      "move_reason": "News: \"Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math ...\""
     },
     {
       "ticker": "OSCR",
@@ -404,7 +404,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land (TPL) Could Be 11% Undervalued On Its Royalty Growth Narrative\""
+      "move_reason": "News: \"How Investors Are Reacting To Texas Pacific Land (TPL) Chevron Power Deal And Earnings Bea...\""
     },
     {
       "ticker": "TTD",
