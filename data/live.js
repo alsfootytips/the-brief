@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-10T23:16:46.319104+00:00",
+  "generated_at": "2026-07-11T00:57:35.109781+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": 3.81,
-      "price": 210.51,
+      "change_pct": 3.84,
+      "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-10T23:16:46.316017+00:00",
+      "timestamp": "2026-07-11T00:57:35.107487+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "META",
       "name": "META",
-      "change_pct": 5.82,
-      "price": 668.25,
+      "change_pct": 5.78,
+      "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-10T23:16:46.316013+00:00",
+      "timestamp": "2026-07-11T00:57:35.107484+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -42,13 +42,147 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "DG",
       "name": "Dollar General",
-      "change_pct": 3.06,
-      "price": 119.27,
+      "change_pct": 3.03,
+      "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-10T23:16:46.315998+00:00",
+      "timestamp": "2026-07-11T00:57:35.107475+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump officials sought ways to sidestep election agency before firings, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-officials-sought-ways-to-sidestep-election-agency-before-firings-sources-say-4787194",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:42:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Lionsgate Studios Corp For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-lionsgate-studios-corp-for-10-july-93CH-4787193",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:38:33+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Aeva Technologies Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-aeva-technologies-inc-for-10-july-93CH-4787192",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:37:17+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Aeva Technologies Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-aeva-technologies-inc-for-10-july-93CH-4787191",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:36:58+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Aeva Technologies Inc For: 10 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-aeva-technologies-inc-for-10-july-93CH-4787190",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:36:56+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lionsgate Studios director Mark Rachesky reports large share transfers",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/lionsgate-studios-director-mark-rachesky-reports-large-share-transfers-93CH-4787189",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:34:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aeva technologies CTO Mina Rezk sells $1.37m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/aeva-technologies-cto-mina-rezk-sells-137m-in-company-stock-93CH-4787188",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:33:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aeva technologies CFO Saurabh Sinha sells $436k in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/aeva-technologies-cfo-saurabh-sinha-sells-436k-in-shares-93CH-4787187",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:33:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:08:23+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Traffic through the Strait of Hormuz has largely stalled, but not for Iran",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613039-traffic-thorough-the-strait-of-hormuz-has-largely-stalled-but-not-for-iran?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T00:08:17+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BHP explores up to $2B sale of Chilean desalination plant, power lines - Bloomberg",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613038-bhp-explores-up-to-2b-sale-of-chilean-desalination-plant-power-lines-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T23:53:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Simply Good Foods Slipped by Almost 2% on Friday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cd594364c1930085c7cd8a9c87bcb68a3ae9e4c350a0b09b7dd563b3c97bc0d",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T23:26:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -63,102 +197,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Charlie Kirk\u2019s widow views video she requested of husband\u2019s alleged killer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/charlie-kirks-widow-views-video-she-requested-of-husbands-alleged-killer-4787150",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:54:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Circle Receives New Regulatory Approval for National Trust Bank. Here's What It Could Mean For CRCL Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35d75e0f3f7cf80ee75c47e7eda46585b6a766882e6baf70ef5d5e425a2634d1",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T23:05:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Broadcom Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-broadcom-inc-for-10-july-93CH-4787149",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:51:49+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Health In Tech Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-health-in-tech-inc-for-10-july-93CH-4787148",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:51:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Health In Tech Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-health-in-tech-inc-for-10-july-93CH-4787147",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:51:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Health In Tech Inc For: 10 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-health-in-tech-inc-for-10-july-93CH-4787146",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:51:05+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Maine Senate candidate Graham Platner formally withdraws from race",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/maine-senate-candidate-graham-platner-formally-withdraws-from-race-4786955",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:49:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broadcom director Gayla Delly sells $728,368 in AVGO stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/broadcom-director-gayla-delly-sells-728368-in-avgo-stock-93CH-4787145",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:48:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US, Canada strike deal on tolls to let new bridge open soon",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:48:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:44:35+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Missed Nvidia\u2019s Run? SMH Holders Made 113% Over 12 Months Anyway",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43070e9f681c65a1fb220e0b2e4cc3ab5cc094ea65d7b1b067d6083066b6d002",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T23:00:44+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -234,6 +293,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "PWR",
+      "headline": "Quanta Services (PWR) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70bef0cae50b944c6d815f88218f6483c3959c86f37330d75cd8e63bac3788a0",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T22:00:05+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Frontier Nuclear gets Nasdaq non-compliance notice over missing Form 6-K filing",
       "source": "Seeking Alpha Market",
@@ -279,18 +350,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Figma Stock Lost 52% in the First Half of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02c9903de21b996be37853c952f5d86550170700c67aee99b7146e94fee57372",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T21:33:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
       "source": "MarketWatch",
@@ -309,28 +368,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-10T21:27:18+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vulcan Materials declares $0.52 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613034-vulcan-materials-declares-0_52-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:23:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple sues OpenAI, former employees for theft of trade secrets",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613030-apple-sues-openai-former-employees-for-theft-of-trade-secrets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:16:21+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -358,18 +395,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "AMD",
-      "headline": "Why Is Meta (META) Stock Soaring Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T21:03:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "Why Is Meta (META) Stock Soaring Today",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
@@ -415,18 +440,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why the Pure Bitcoin-Miner Fund Crushed the Blockchain Basket, Up 184%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e36a7042a5906b164a5fb6ad1790a9053ad1be49ce6f2bc8414b2791b8d39b1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T20:48:57+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -440,6 +453,18 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Investor Sentiment On The Fed And New Chair Kevin Warsh",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a761cdfbf02f59d9b121bf66033ac6f17c0014dfec0ac7e3978754349226eecd",
+      "is_watchlist": true,
+      "timestamp": "2026-07-10T20:35:00+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -929,34 +954,10 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Traders Focused On SK Hynix's Nasdaq Debut",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7b070d40cc1369ced06a4615729467dbec8a9aa77a8ec5a983a71e828e550fa7",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T13:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "These S&P500 stocks that are showing activity before the opening bell on Friday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=f52c8250e0b7c5bf63adede8719b8b36ec36adf202be2253cbdc14a0b6cdcb3a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T12:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Quanta Services Announces Second Quarter 2026 Earnings Release & Webcast Schedule",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=39da6d74208ad13e25ab121e534d9be08e41ee2bed354e779cd6e0adc70872bb",
       "is_watchlist": true,
       "timestamp": "2026-07-10T12:35:00+00:00",
       "relevance_score": 2.0,
@@ -1149,6 +1150,61 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Benchmark Maintains a Hold Rating on Snap Inc (SNAP) Despite SPECS Release",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/benchmark-maintains-hold-rating-snap-172717432.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T17:27:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s Why BofA Initiated Kosmos Energy (KOS) With a Sell Rating",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-initiated-kosmos-energy-172702086.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T17:27:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Viavi Solutions (VIAV) Price Target Raised as AI DCI Demand Builds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/viavi-solutions-viav-price-target-172306123.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T17:23:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Klaviyo (KVYO) Expands AI Marketing Tools With Composer Public Beta",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/klaviyo-kvyo-expands-ai-marketing-172057119.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T17:20:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tower Semiconductor (TSEM) Advances AI Data Center Connectivity With Photonics Milestone",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-advances-ai-171950080.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-09T17:19:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "DG",
       "headline": "Dollar Tree\u2019s Turnaround Is Starting to Take Root",
       "source": "Yahoo",
@@ -1158,50 +1214,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mixed Drivers Fuel Optimism in Stryker Corporation\u2019s (SYK) Performance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mixed-drivers-fuel-optimism-stryker-160410031.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T16:04:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A Missouri woman, 70, couldn't afford her $8K/month drug after Medicare Advantage denied coverage \u2014 and landed in the ER",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/missouri-woman-70-couldnt-afford-160000579.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oracle Stock Climbs As OpenAI Touts New Model's Performance",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/oracle-stock-openai-gpt-sol/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T15:54:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the Compelling Reasons to Own Ferrari N.V. (RACE)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/compelling-reasons-own-ferrari-n-155439420.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T15:54:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1248,18 +1260,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-09T11:49:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mortgage rates edge higher as US-Iran ceasefire falls apart: Mortgage and refinance interest rates today",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-higher-as-us-iran-ceasefire-falls-apart-mortgage-and-refinance-interest-rates-today-100000098.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-09T10:00:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",

@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-10T23:16:46+00:00",
+  "generated_at": "2026-07-11T00:57:35+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -1054,88 +1054,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 2.1008,
         "revenue_estimate": 846698150,
-        "is_watchlist": false
-      }
-    ],
-    "2026-07-10": [
-      {
-        "ticker": "AMBK",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BUKS",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DAL",
-        "date": "2026-07-10",
-        "hour": "bmo",
-        "eps_estimate": 1.4736,
-        "revenue_estimate": 17793315722,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FGFH",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GDHG",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GDST",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HIFS",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KISB",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MLGF",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UUU",
-        "date": "2026-07-10",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       }
     ],
