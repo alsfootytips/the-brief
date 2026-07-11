@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T08:29:02.749024+00:00",
+  "generated_at": "2026-07-11T10:02:33.655267+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -652,13 +652,13 @@ window.theBriefMovers = {
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.8 (cheap on absolute basis)"
+        "Forward P/E 14.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.8 (cheap on absolute basis)"
+        "Forward P/E 14.9 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",

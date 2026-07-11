@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T08:29:02.755677+00:00",
+  "generated_at": "2026-07-11T10:02:33.660347+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T08:29:02.752426+00:00",
+      "timestamp": "2026-07-11T10:02:33.657874+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T08:29:02.752421+00:00",
+      "timestamp": "2026-07-11T10:02:33.657870+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,59 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T08:29:02.752406+00:00",
+      "timestamp": "2026-07-11T10:02:33.657859+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T09:36:03+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin stays above $64,000 as U.S. crypto policy advances, adoption grows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T09:31:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China evacuates over one million as Typhoon Bavi nears",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/china-evacuates-over-one-million-as-typhoon-bavi-nears-4787223",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T09:18:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Andy Burnham set to become UK PM as policy agenda remains unclear",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/andy-burnham-set-to-become-uk-pm-as-policy-agenda-remains-unclear-4787222",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T08:25:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -171,28 +220,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Ukraine creates long-range military command to intensify strikes on Russia",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ukraine-creates-longrange-military-command-to-intensify-strikes-on-russia-4787216",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T06:42:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Volkswagen restructuring faces resistance after board setback",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/volkswagen-restructuring-faces-resistance-after-board-setback-4787215",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T06:13:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "SK Hynix ETFs Are Coming. Exactly Who Should Own Them.",
       "source": "Yahoo",
@@ -202,18 +229,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China temporarily bans helium exports as US-Iran tensions flare again",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/china-temporarily-bans-helium-exports-as-usiran-tensions-flare-again-4785887",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T05:06:08+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -449,18 +464,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T22:02:04+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Services (PWR) Stock Slides as Market Rises: Facts to Know Before You Trade",
       "source": "Yahoo",
@@ -647,17 +650,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T20:01:29+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -980,6 +972,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "The Club's top 10 things to watch in the stock market Friday",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/10/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T13:30:28+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TPL",
       "headline": "These S&P500 stocks that are showing activity before the opening bell on Friday.",
       "source": "ChartMill",
@@ -1052,67 +1055,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What\u2019s the Magic Retirement Number? Check Your Clients\u2019 ZIP Code",
+      "headline": "US stocks rise as Wall Street shows it's still hungry for AI winners",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/magic-retirement-number-check-clients-040300140.html",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-climb-oil-prices-065936283.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T04:03:00+00:00",
+      "timestamp": "2026-07-10T06:59:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "The Medicare Myths Costing Retirees Thousands",
+      "headline": "Wolfe Research Maintains Outperform rating on CoreWeave (CRWV)",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/medicare-myths-costing-retirees-thousands-040200242.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-maintains-outperform-rating-065823429.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T04:02:00+00:00",
+      "timestamp": "2026-07-10T06:58:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Slowing Costco Sales Growth Unnerves Investors",
+      "headline": "What Makes Equinix (EQIX) One of the Best Data Center Stocks to Buy in July",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/slowing-costco-sales-growth-unnerves-040100575.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-equinix-eqix-one-best-065822240.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T04:01:00+00:00",
+      "timestamp": "2026-07-10T06:58:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Can SK Hynix Escape Chipmaking\u2019s Cyclical Curse After Nasdaq Debut?",
+      "headline": "Why Did Eaton (ETN) Spend $2.1 Billion in R&D Investments?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-escape-chipmaking-cyclical-040100837.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-eaton-etn-spend-065820038.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T04:01:00+00:00",
+      "timestamp": "2026-07-10T06:58:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "AstraZeneca Plunges After New Heart Disease Drug Fails Trial",
+      "headline": "Bernstein Reiterates Buy Rating on Vertiv (VRT)",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-plunges-heart-disease-drug-040100872.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-reiterates-buy-rating-vertiv-065818415.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T04:01:00+00:00",
+      "timestamp": "2026-07-10T06:58:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump Accounts May Create Millionaire Gen-Beta Retirees",
+      "headline": "Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/trump-accounts-may-create-millionaire-040100558.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-increases-advanced-micro-065817979.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-10T04:01:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-10T06:58:17+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
