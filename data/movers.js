@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-11T19:42:14.616483+00:00",
+  "generated_at": "2026-07-11T20:30:31.147545+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.\""
+      "move_reason": "News: \"3 Stocks Worth Holding Through Any Market Condition\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5-star analyst sends AMD stock investors a warning\""
+      "move_reason": "News: \"Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy...\""
     },
     {
       "ticker": "TPL",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5-star analyst sends AMD stock investors a warning\""
+      "move_reason": "News: \"Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy...\""
     },
     {
       "ticker": "APA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.\""
+      "move_reason": "News: \"3 Stocks Worth Holding Through Any Market Condition\""
     },
     {
       "ticker": "OSCR",

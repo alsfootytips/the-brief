@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T19:42:14.623155+00:00",
+  "generated_at": "2026-07-11T20:30:31.153731+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T19:42:14.619983+00:00",
+      "timestamp": "2026-07-11T20:30:31.150517+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T19:42:14.619978+00:00",
+      "timestamp": "2026-07-11T20:30:31.150513+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,113 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T19:42:14.619963+00:00",
+      "timestamp": "2026-07-11T20:30:31.150499+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T20:17:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-applied-optoelectronics-aaoi-well-201727325.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T20:17:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T20:10:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T20:06:26+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T20:05:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Vertiv (VRT) Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vrt-expanding-ai-data-195901778.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:59:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Ciena (CIEN) Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-ciena-cien-positioned-benefit-195239343.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:52:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Canada strike deal on tolls to let new bridge open on July 27",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:42:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Postal Service raises stamp price to 82 cents",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-postal-service-raises-stamp-price-to-82-cents-4787302",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T19:36:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -60,6 +163,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T19:30:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Stocks Worth Holding Through Any Market Condition",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2598f235551346d10bc8d95b5a48b1a7d7ae631ac4ce33f2ad73b9131a1c04e9",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T19:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -101,14 +216,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "The Supermarket That Turned Cashiers Into Millionaires",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/video/supermarket-turned-cashiers-millionaires-190154431.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:01:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bf09f02584ec480a8ad56fa22eee3817365975fa33a674c841efcb33515a98c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T19:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -134,14 +250,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T18:19:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T18:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T18:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -182,18 +311,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63d98cf82e285a7e89021a7e186ac90491de278aad72b96a294557b230adcee5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T17:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "5-star analyst sends AMD stock investors a warning",
       "source": "Yahoo",
@@ -217,18 +334,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: Apple Will Be Worth $5 Trillion (or More) by the End of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef9f081cf0e5b1135573a533e3215467945d1fdf17599e3fc71cc5efd885cb11",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T17:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Oregon reportedly drops motion against Paramount\u2019s Warner bid",
       "source": "Seeking Alpha Market",
@@ -236,66 +341,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-11T17:19:05+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T17:12:29+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T17:08:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "If You Invest $5,000 in SCHD Today, Here's the Passive Income It Could Deliver in 20 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1679956778b59d30344ad481d11ec65ef60b4328b92ab074b57223379bebc991",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T17:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Colombia\u2019s New Government Reverse the Nation\u2019s Oil and Gas Decline?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/colombia-government-reverse-nation-oil-170000737.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T17:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Just crying' for lower rates: Homebuying and selling have picked up this year \u2014 barely",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/article/just-crying-for-lower-rates-homebuying-and-selling-have-picked-up-this-year--barely-165136773.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:51:36+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -311,29 +356,14 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says he \u2019just finished\u2019 a physical at Walter Reed",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-says-he-just-finished-a-physical-at-walter-reed-4787291",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T16:48:51+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "Typhoon Bavi makes landfall in eastern China\u2019s Taizhou after nearly 2 million evacuated",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/china-evacuates-over-one-million-as-typhoon-bavi-nears-4787223",
+      "headline": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T16:48:31+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-11T16:47:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -372,28 +402,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "M-tron (MPTI) Industries Secures $4M Defense Contract",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/m-tron-mpti-industries-secures-162805749.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:28:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SailPoint (SAIL) Completes Acquisition of Entro Security to Enhance Non-Human Identity Management",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-completes-acquisition-entro-162756226.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:27:56+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -717,18 +725,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T07:41:18+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd0fe8895564174dc33583433b9adaafc2aae29c689f77d09e8083f48db859d5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T07:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
