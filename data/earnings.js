@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-12T07:17:04+00:00",
+  "generated_at": "2026-07-12T09:27:07+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -2028,16 +2028,16 @@ window.theBriefEarnings = {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.1734,
+        "revenue_estimate": 0,
         "is_watchlist": false
       },
       {
         "ticker": "HOVR",
         "date": "2026-07-16",
         "hour": "bmo",
-        "eps_estimate": -0.1734,
-        "revenue_estimate": 0,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -3276,6 +3276,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 6.8777,
         "revenue_estimate": 10906949004,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NP",
+        "date": "2026-07-21",
+        "hour": "",
+        "eps_estimate": 0.148,
+        "revenue_estimate": 53821620,
         "is_watchlist": false
       },
       {

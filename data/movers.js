@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T07:17:04.261156+00:00",
+  "generated_at": "2026-07-12T09:27:07.122183+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What\u2019s the AI hit to U.S. inflation?\""
+      "move_reason": "News: \"3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now\""
     },
     {
       "ticker": "DG",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Chevron May Have Unlocked a Powerful New Growth Engine\""
+      "move_reason": "News: \"Mar Vista U.S. Quality Premier Portfolio Q2 2026 Portfolio Activity\""
     },
     {
       "ticker": "XLB",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fed Minutes Show A Committee More Divided Than The 12-0 Vote Suggests\""
+      "move_reason": "News: \"Kevin Warsh's First FOMC Meeting Was A Success - But Where Does It Lead?\""
     }
   ],
   "watchlist": [
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Chevron May Have Unlocked a Powerful New Growth Engine\""
+      "move_reason": "News: \"Mar Vista U.S. Quality Premier Portfolio Q2 2026 Portfolio Activity\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fed Minutes Show A Committee More Divided Than The 12-0 Vote Suggests\""
+      "move_reason": "News: \"Kevin Warsh's First FOMC Meeting Was A Success - But Where Does It Lead?\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What\u2019s the AI hit to U.S. inflation?\""
+      "move_reason": "News: \"3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now\""
     },
     {
       "ticker": "OSCR",
