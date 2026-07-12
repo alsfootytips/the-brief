@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T01:06:48.385327+00:00",
+  "generated_at": "2026-07-12T04:40:14.436764+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Swears By This 1 Low-Cost Investment. History Proves He's Been Right Every ...\""
+      "move_reason": "News: \"Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy\""
     },
     {
       "ticker": "DG",
@@ -131,6 +131,18 @@ window.theBriefMovers = {
       "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
     },
     {
+      "ticker": "SOFI",
+      "name": "SOFI",
+      "price": 18.79,
+      "change_pct": 0.89,
+      "volume_ratio": 1.11,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLU",
       "name": "Utilities Select Sector",
       "price": 45.41,
@@ -161,17 +173,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPDR S&P 500 ETF",
-      "price": 754.95,
-      "change_pct": 0.43,
-      "volume_ratio": 0.95,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
       "move_reason": ""
     }
   ],
@@ -355,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Swears By This 1 Low-Cost Investment. History Proves He's Been Right Every ...\""
+      "move_reason": "News: \"Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy\""
     },
     {
       "ticker": "OSCR",
