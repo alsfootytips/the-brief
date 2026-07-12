@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T18:28:04.004059+00:00",
+  "generated_at": "2026-07-12T19:40:48.302050+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T18:28:03.999994+00:00",
+      "timestamp": "2026-07-12T19:40:48.298795+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T18:28:03.999989+00:00",
+      "timestamp": "2026-07-12T19:40:48.298791+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,109 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T18:28:03.999975+00:00",
+      "timestamp": "2026-07-12T19:40:48.298775+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strong dollar, weak bond market: Investors favor greenback as Fed tightening bets grow",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613075-strong-dollar-weak-bond-market-investors-favor-greenback-as-fed-tightening-bets-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:27:45+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "You don\u2019t have to be rich to be financially independent. Here\u2019s how to take control of your money.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:27:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:17:32+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Elon Musk roasts OpenAI's Apple lawsuit \u2014 but Altman hits back: 'You're the one selling investors on space datacenters'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-roasts-openais-apple-191500316.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:15:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Teen Venezuela quake survivor mourns her \u2019young forever\u2019 friends",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/teen-venezuela-quake-survivor-mourns-her-young-forever-friends-4787373",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:12:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows-4787372",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:00:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lol-funny-apple-says-ex-190000424.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top global stories last week: Vodafone, easyJet among major names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613074-top-global-stories-last-week-vodafone-easyjet-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T18:28:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -126,6 +225,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Israel's election will be held on October 27, coalition head says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVlfeEhKTEQwUVJDNzQ3eWVJM2JQd2JNMUZSV2pMVFRQUnp3YUNlN1RRQ2VmWVVITTZiUzJwZEJGbWVNUzR5Y0FPaHRZZU5YM0FpQ3Z0UWo1UGI5Tk9BNlNfNUhMMmRGckxhSHBDTzk5RWtsUTM5bGxfTjFkWEp3dF9Mb2RiT1kyNUZINksyTk9KQWt0Tk1qdjNjcjJqOURpUUxKQllTR2M3TC1wRzRLY3Z3N2o?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T17:50:55+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "DG",
       "headline": "Dollar General offers retro prices",
       "source": "Yahoo",
@@ -188,28 +298,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/posco-pkx-anson-resources-partner-075934937.html",
       "is_watchlist": false,
       "timestamp": "2026-07-12T17:26:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-nasdaq-mu-115645715.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:25:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Western Digital (WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-western-digital-nasdaq-wdc-123127857.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:25:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -318,6 +406,18 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlFEMTBmd3hvZzZpVnBYcnNnUlBnQW9DRlkydFVqUTM0S3I2emo0TDczX3NJSGNHdXJqZGJreUhDRDhoYnNUck9vRGVpWEVtMGNnNElfY1lzR0NZakdlSWtTZEExQ2YyWFFKWTNhLXpwbk9HRkF6VGs4V0pLTDRRT013Z3dvc1hZVWthV0x6MzFneHlxei1LZWg5NVNKUE1oV2pfTUNlbkIwNU1tVU14MmhXc1Z2VmNNZnR5Q2thYjFDMWRyaUNJbw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:43:45+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -331,17 +431,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin steadies above $64,000 as investors shrug off Hormuz tensions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-iran-tensions-rise-bip110-debate-intensifies-4787336",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T16:19:22+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -369,34 +458,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Fed hike risk could test stocks despite strong earnings outlook, Goldman Sachs says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613066-fed-hike-risk-could-test-stocks-despite-strong-earnings-outlook-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Lindsey Graham dies, Iran strikes and World Cup semis set - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXhfNmVlMUNVcFlBYzVMck55ajZsTGI2X2NDZjZ5ZEQyRTBTWmtWeUtVd2ljRWZvSm5tWm1qR2tDS2RqYzdhZ0ZQWkNlN0tCaTNiakhDcmNpWUNVTHJiejExMVdGU0NlUWp1MU11U2J1VzlodzFYeExWWnl2THNRWm5oemlxaFZOdVJ4UUFYdWZmR0xCNUtrMWZBbEl0dw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-07-12T15:31:21+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T15:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman discusses what the Fed policy outlook means for equities",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-fed-rate-outlook-as-key-risk-for-us-stocks-ahead-of-cpi-4787366",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T15:25:31+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-12T15:33:27+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -409,22 +476,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T14:58:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Strait of Hormuz remains open after U.S. strikes on Iran",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613065-trump-says-strait-of-hormuz-remains-open-after-u-s-strikes-on-iran?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T14:47:18+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -672,28 +723,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Israeli officials offer their condolences after death of US Senator Lindsey Graham - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkpCQ1VONEVtbkF1Ym5xeldsQ0RWTXhncGJlMGFUOXFKYjZDanlkOXRfbUJKS2RlMTVES2xRbEx1UGlXdXVRTVlKeDBZSExDQTlpeWdnUEE4bENTTkJSaVUxcHF4b1V2VTg1c1BtaExoQjhRM2VIVkliRzF4S1Vvc2tLamQ4LXkxZHkzdXRhb1RKTzY2d3ZWcGxxNU1xS0VwTW1VLXIybHBPLTlraUxXeU1yaUdYMlFHOTNOS29rV1VELUxsQ1A0clEzdHljQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T07:51:22+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Former emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74 - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0haajRKdWJvZENRMEpjQnFRUFJ1cEptbFRKQ1B5WHN2LTlHeDNEUUc2Q1lVS2FNV25jd2cxQUx5M1UwWXB0WWppa2FLallzNnAtWnVxc1I1eGo0UGJQNmpzRUdGR2p0OVVDdmNnODFVdGtuYjM4ZllpX3V3bDBLREVtNDlPUHp4N2ZVV1JZb1JTbkFheVllMDFNMFNTSHdmSGh6bWpUN3NXcDlxWTJMa0h2RQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T05:15:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Jensen Huang's Blue-Collar Millionaire Prediction Lifted Quanta Services' Backlog to $48 Billion",
       "source": "Yahoo",
@@ -725,21 +754,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T05:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US says it struck 140 Iranian military targets Saturday - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VUX0t6UEtnSzZZLVkwYUctMk1IbVZabTZtcGgyOW91RVdLZy1KQmI2SWRydDloNHJxNkJFYVdFTnpmMDV2cGNYamVXZVJISmVkem5XaC0yc09STlFHU2RJX3dXM3owZzJ3U0RLOFRjSXJOR2VqQWJtMG5aZDdmOUgxOHJSZldmWTRvV1MxMWFNZ3hGYlplWWtTUk5Ra2ZNR001dDZSbmY3Nm9YY2c?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T04:26:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -823,17 +837,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-retirement-savings-will-suffer-if-i-delay-social-security-how-do-i-choose-between-the-two-a85273e3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:44:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
@@ -886,17 +889,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-11T13:07:41+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:47:23+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
