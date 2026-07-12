@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T21:24:24.766272+00:00",
+  "generated_at": "2026-07-12T22:23:39.915474+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Big Reason to Buy FuelCell Energy Stock While It's Still Under $30\""
+      "move_reason": "News: \"Meet the Vanguard ETF That Has Crushed the S&P 500 Over the Last 10 Years\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Big Reason to Buy FuelCell Energy Stock While It's Still Under $30\""
+      "move_reason": "News: \"Meet the Vanguard ETF That Has Crushed the S&P 500 Over the Last 10 Years\""
     },
     {
       "ticker": "OSCR",

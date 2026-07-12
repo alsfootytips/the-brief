@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T21:24:24.772910+00:00",
+  "generated_at": "2026-07-12T22:23:39.921928+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T21:24:24.769721+00:00",
+      "timestamp": "2026-07-12T22:23:39.918864+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T21:24:24.769716+00:00",
+      "timestamp": "2026-07-12T22:23:39.918860+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,126 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T21:24:24.769700+00:00",
+      "timestamp": "2026-07-12T22:23:39.918845+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T22:18:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "McConnell provides health update after long unexplained absence; says he suffered fall",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T22:16:53+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T22:06:37+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What do investors need to be watching in DC in 2026H2?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/what-do-investors-need-to-be-watching-in-dc-in-2026h2-4787378",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T22:03:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T22:00:29+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What\u2019s driving the sell-off in AI-related stocks?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/whats-driving-the-selloff-in-airelated-stocks-4787377",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T21:58:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Meet the Vanguard ETF That Has Crushed the S&P 500 Over the Last 10 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84e0678573a12637541d28fdfcaf9acd537b549a121249d5c343106bc2f0d22b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T21:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "McConnell says he won\u2019t be able to return to U.S. Senate yet",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/mcconnell-says-he-wont-be-able-to-return-to-us-senate-yet-4787376",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T21:36:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount weighs California future as Warner Bros. deal faces regulatory threat",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613079-paramount-weighs-california-future-as-warner-bros-deal-faces-regulatory-threat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T21:34:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Billionaire Ken Griffin Boosted His Stake in This Dividend King by 146%. Here's Why It's a Dream Stock for Risk-Averse Investors.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58a9e3afa99b892b7fa317b58953c33ffbfcf9f4f4d402dea4c962b5d3c19797",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T21:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -60,6 +176,29 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T21:23:23+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4787375",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T21:20:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is PayPal Stock a Bargain or a Value Trap?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=715ff728a2796e76f4809a5edf87dbd035e2b1f4c9deea4e205fba38f65afdc3",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -97,12 +236,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+      "headline": "Who will replace Lindsey Graham in the Senate?",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/nancy-mace-lindsey-graham-senate-seat-south-carolina-election.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-12T20:20:36+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-12T20:28:16+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -162,29 +301,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Big Reason to Buy FuelCell Energy Stock While It's Still Under $30",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=666abed608149af3ac7614748cde43f3d995615b15b9a29eb60bb30329eb52b0",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T19:21:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T19:17:32+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Elon Musk roasts OpenAI's Apple lawsuit \u2014 but Altman hits back: 'You're the one selling investors on space datacenters'",
       "source": "Yahoo Finance",
@@ -207,18 +323,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Can Nvidia Still Turn Long-Term Investors Into Millionaires?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c28a27645e259ab22b6fa4643f8d253c3ff6c673926a9b066b7f749bb5a07109",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T19:04:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
       "source": "Investing.com News",
@@ -227,18 +331,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T19:00:28+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is the AI Bubble About to Burst?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed1822e367fe5cc1ca1b0c9e54d974ef6ae6923fe6e33d20ab21e9ac795c37b5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T19:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -286,19 +378,15 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T18:12:27+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "headline": "Graham\u2019s death complicates myriad GOP goals in Congress",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T18:22:11+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -314,39 +402,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lindsey Graham, US Republican senator and Trump ally, dies at 71",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T18:00:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Asian stock leadership shifts as AI-fueled rally shows signs of fatigue, SocGen says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613071-asian-stock-leadership-shifts-as-ai-fueled-rally-shows-signs-of-fatigue-socgen-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:58:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israel\u2019s election will be held on October 27, coalition head says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israels-election-will-be-held-on-october-27-coalition-head-says-4787370",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:54:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -374,17 +429,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lindsey Graham dies at 71 after brief illness, leaving vacancy in U.S. Senate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/lindsey-graham-dies-at-71-after-brief-illness-leaving-vacancy-in-us-senate-4787331",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:27:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Figure Technology (FIGR): Stocks Set to Explode in the Next 2 Years",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/figure-technology-figr-stocks-set-075928541.html",
@@ -401,17 +445,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvro-metals-partners-hecla-mining-075953955.html",
       "is_watchlist": false,
       "timestamp": "2026-07-12T17:26:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli attacks in Gaza kill six people, including a girl, medics say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-attacks-in-gaza-kill-three-people-including-a-girl-say-medics-4787346",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:06:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -456,15 +489,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T16:14:06+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "ticker": "AMD",
+      "headline": "A $26.5 Billion Milestone: What SK Hynix\u2019s U.S. Debut Means for the AI Trade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53bcbe0b37410acb963b3fd90963639e663bef87ebd9518fd7e3aacea852b803",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T15:45:38+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -540,6 +573,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Gulf bourses subdued as US and Iran exchange strikes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1pXOXRCNmZyZWlJV04zUzZFZmtwSG01b1IwN3VENmRyaTRoOThIR3hHbmJVTWNpU1NVTVNtRUMzTmNWXzg1WGdfeEFnZUNEQ3BUdUwyTVdickl6aFdqRzRUOHJ2VXA4Wk9oazhIdnFoczZwa2Jld1hPOEZIRlprYk9SWndKdEU3Z3RTSWhSZWF5MnZYRzNxWVEtRUlpakhU?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T13:07:13+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "The stock-market rally now hinges more on AI than oil",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
@@ -606,18 +650,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Daniel Newman Says Meta Isn't Replacing Nvidia or AMD With In-House AI Chips: 'It is Augmenting\u2026'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87077c82c63a7e1df662e78c5926dfc3038909b320c69b20459cbdc422a7a4a4",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T12:01:27+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "One Indian national missing after attack on vessel off Oman, foreign ministry says - Reuters",
       "source": "Reuters",
@@ -650,17 +682,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iraqi prime minister to visit Washington on Monday; oil and gas deals expected - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOW5nMzhBUlZCM1pkTTFfbzBjZTVPQ2hKR19BQTRsQzNYenR1UEhYdDY0eldGOEpuU2JyeVpVeUhMTjh4aVdxZjVtS3pibnFJWkFKS09hR3NtNHlzWElhcUNxWENpZVRrUVRyeXJuSHpwN0R3cnp0WWFPMlMzcnRJNlFCTHM2NHowM3NYaDNyOWJ6b1Z4V0Y5ZG1IYTJEbkRzb21pUVBFNVJ4QlU4VkdyRWZaM2I3dXBHdHhiYk53?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T11:12:54+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -746,17 +767,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "\u2018Almost unlimited\u2019: Execs says AI demand remains strong even as enterprises move to \u2018valuemaxxing\u2019",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T05:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Mar Vista U.S. Quality Premier Portfolio Q2 2026 Portfolio Activity",
       "source": "SeekingAlpha",
@@ -786,17 +796,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-11T19:00:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T18:46:00+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
@@ -847,17 +846,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "New housing law targets affordability \u2014 what it means for homebuyers and sellers",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:41:13+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "How Investors Are Reacting To Texas Pacific Land (TPL) Chevron Power Deal And Earnings Beat",
       "source": "Yahoo",
@@ -885,6 +873,17 @@ window.theBriefLive = {
       "headline": "The best states to live in for 2026: No. 1 has a six-year winning streak",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/11/best-states-to-live-in-america-2026.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T13:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These are America\u2019s 10 worst states to live in for 2026",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/worst-states-to-live-in-america-2026.html",
       "is_watchlist": false,
       "timestamp": "2026-07-11T13:00:01+00:00",
       "relevance_score": 1.0,
