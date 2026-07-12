@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T09:27:07.122183+00:00",
+  "generated_at": "2026-07-12T10:55:09.029747+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now\""
+      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
     },
     {
       "ticker": "DG",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mar Vista U.S. Quality Premier Portfolio Q2 2026 Portfolio Activity\""
+      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
     },
     {
       "ticker": "XLB",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mar Vista U.S. Quality Premier Portfolio Q2 2026 Portfolio Activity\""
+      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
     },
     {
       "ticker": "IWM",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now\""
+      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
     },
     {
       "ticker": "OSCR",

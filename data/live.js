@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T09:27:07.128720+00:00",
+  "generated_at": "2026-07-12T10:55:09.036295+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T09:27:07.125522+00:00",
+      "timestamp": "2026-07-12T10:55:09.033158+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T09:27:07.125517+00:00",
+      "timestamp": "2026-07-12T10:55:09.033153+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,165 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T09:27:07.125502+00:00",
+      "timestamp": "2026-07-12T10:55:09.033139+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Egypt\u2019s current account deficit doubles in first quarter",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/egypts-current-account-deficit-doubles-in-first-quarter-93CH-4787341",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T10:50:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Senator Lindsey Graham has died at 71 after a brief illness",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T10:36:30+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US says it hit 140 Iranian military targets as Tehran closes Strait of Hormuz",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/iran-closes-strait-of-hormuz-after-vessel-incident-escalating-gulf-tensions-4787314",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T10:20:40+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iraqi prime minister to visit Washington on Monday; oil and gas deals expected",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected-4787340",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T10:18:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-SoFi Stadium\u2019s World Cup run boosts confidence ahead of Super Bowl, LA Olympics",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/soccersofi-stadiums-world-cup-run-boosts-confidence-ahead-of-super-bowl-la-olympics-4787339",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T10:06:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1d280947d2d88b8a39d25a48343587ee8fd23319f9ab18b77be67df8274dc41",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T09:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1d280947d2d88b8a39d25a48343587ee8fd23319f9ab18b77be67df8274dc41",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T09:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Egypt\u2019s January-March current account deficit widens to $5.1 billion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/egypts-januarymarch-current-account-deficit-widens-to-51-billion-4787338",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T09:48:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Former Qatar emir Sheikh Hamad bin Khalifa Al-Thani dies at 74",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/former-qatar-emir-sheikh-hamad-bin-khalifa-althani-dies-at-74-4787337",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T09:46:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia Investors Need to Be Paying Attention on July 16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b80731d9bf5a181c664fb8e3a73ff69b8a0af6ca7f4205e6b3820cddc722f364",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T09:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Warren Buffett Has Backed This Investment for Decades, and History Keeps Proving Him Right",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=891264a806c7cbaad6e54aa005a4d2ecafed420485e800aa1ac4d2ed086984fe",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T09:34:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T09:28:02+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lindsey Graham, pivotal US Republican senator, dies suddenly at 71",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T09:24:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -75,92 +230,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin holds above $63,000 as Iran tensions rise, BIP-110 debate intensifies",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-iran-tensions-rise-bip110-debate-intensifies-4787336",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T08:57:23+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T08:42:28+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lindsey Graham, pivotal US Republican senator, dies suddenly at 71",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T08:30:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-World Cup reflects growing US appetite for soccer, \u2019Ted Lasso\u2019 creators say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/soccerworld-cup-reflects-growing-us-appetite-for-soccer-ted-lasso-creators-say-4787313",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T08:12:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zhipu founder backs open-source AI over restricted frontier models",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/zhipu-founder-backs-opensource-ai-over-restricted-frontier-models-4787335",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T08:08:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Senator Lindsey Graham has died after a brief illness, his office says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T08:04:37+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Sen. Lindsey Graham dies at 71 after brief illness",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4613053-sen-lindsey-graham-dies-at-71-after-brief-illness?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-12T07:55:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli officials offer their condolences after death of US Senator Lindsey Graham",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-officials-offer-their-condolences-after-death-of-us-senator-lindsey-graham-4787333",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T07:54:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -174,68 +248,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T07:48:39+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=97e3f3d38ff4e7a208c0055384f0270997697dc002000a4d9dd4fe343e0b943e",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T07:45:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is AI making markets more or less efficient?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/is-ai-making-markets-more-or-less-efficient-4787332",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T07:26:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "What a $5,000 Investment in SpaceX at Launch Would Be Worth Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6adbb87beba096b9a43e8a9aef6352da98451d9d45906ea58008b61743ce09b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T06:55:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Monday Blues. Is the Dip in Monday.com Stock a Buying Opportunity?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4133df148e9b40f9be7332dfbb5e234b4267c49aba6dad5c67bd9f8a9b3f4ce4",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T06:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T05:51:05+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -292,7 +304,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VUX0t6UEtnSzZZLVkwYUctMk1IbVZabTZtcGgyOW91RVdLZy1KQmI2SWRydDloNHJxNkJFYVdFTnpmMDV2cGNYamVXZVJISmVkem5XaC0yc09STlFHU2RJX3dXM3owZzJ3U0RLOFRjSXJOR2VqQWJtMG5aZDdmOUgxOHJSZldmWTRvV1MxMWFNZ3hGYlplWWtTUk5Ra2ZNR001dDZSbmY3Nm9YY2c?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-07-12T04:27:01+00:00",
+      "timestamp": "2026-07-12T04:26:00+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -852,6 +864,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Oil Prices Are Plunging, but Trumpflation Is Getting Worse -- Here's Why",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/oil-prices-plunging-trumpflation-getting-082600435.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T08:26:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Will Trump Accounts deliver for American children?",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
@@ -890,17 +913,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Bloom Energy the Next Nvidia?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-next-nvidia-050500436.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T05:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
@@ -917,18 +929,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=0da3a4016e15d4def9cf25b11bb2c7c71216adf5e9990094f626cb7014ef0829",
       "is_watchlist": true,
       "timestamp": "2026-07-11T04:04:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Vernova Nuclear: Small Revenue Now But A Big Future",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2ecabaf005c3a632da7f9a74ce911addc1146d97d5e2422dace2849e1c5dde73",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T02:19:08+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
