@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T22:23:39.921928+00:00",
+  "generated_at": "2026-07-12T23:26:47.682662+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T22:23:39.918864+00:00",
+      "timestamp": "2026-07-12T23:26:47.679569+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T22:23:39.918860+00:00",
+      "timestamp": "2026-07-12T23:26:47.679564+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T22:23:39.918845+00:00",
+      "timestamp": "2026-07-12T23:26:47.679549+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,18 +57,18 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-07-12T22:18:00+00:00",
+      "timestamp": "2026-07-12T23:04:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "McConnell provides health update after long unexplained absence; says he suffered fall",
+      "headline": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-12T22:16:53+00:00",
+      "timestamp": "2026-07-12T22:51:13+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -79,7 +79,18 @@ window.theBriefLive = {
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-07-12T22:06:37+00:00",
+      "timestamp": "2026-07-12T22:34:53+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil jumps more than 3% after US, Iran launch strikes in Mideast",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-jumps-more-than-3-after-us-iran-launch-strikes-in-mideast-4787379",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T22:18:28+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -324,20 +335,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows-4787372",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T19:00:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI",
+      "headline": "Is the AI Bubble About to Burst?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/lol-funny-apple-says-ex-190000424.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
       "is_watchlist": false,
       "timestamp": "2026-07-12T19:00:00+00:00",
       "relevance_score": 0.0,
@@ -346,9 +346,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is the AI Bubble About to Burst?",
+      "headline": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lol-funny-apple-says-ex-190000424.html",
       "is_watchlist": false,
       "timestamp": "2026-07-12T19:00:00+00:00",
       "relevance_score": 0.0,
