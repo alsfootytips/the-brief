@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T13:48:18.668997+00:00",
+  "generated_at": "2026-07-12T14:56:53.226049+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Capital One Flips Millions of Discover Cards to Its Own Platform on July 27. Can It Upsell...\""
+      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy...\""
+      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
     },
     {
       "ticker": "TPL",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
+      "move_reason": "News: \"Why Nebius Rocketed 230% in the First Half of 2026\""
     },
     {
       "ticker": "GEV",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"RYLD: The Rally Is Hiding The Structural Flaws\""
+      "move_reason": "News: \"The Credit Market Is Sending A Warning On AI Stocks\""
     }
   ],
   "watchlist": [
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy...\""
+      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
     },
     {
       "ticker": "APA",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"RYLD: The Rally Is Hiding The Structural Flaws\""
+      "move_reason": "News: \"The Credit Market Is Sending A Warning On AI Stocks\""
     },
     {
       "ticker": "NBIS",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Bound To Stay An Industry Leader For A Reason\""
+      "move_reason": "News: \"Why Nebius Rocketed 230% in the First Half of 2026\""
     },
     {
       "ticker": "NVDA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Capital One Flips Millions of Discover Cards to Its Own Platform on July 27. Can It Upsell...\""
+      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
     },
     {
       "ticker": "OSCR",
