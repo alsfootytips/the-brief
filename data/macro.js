@@ -1,29 +1,29 @@
 window.theBriefMacro = {
-  "generated_at": "2026-07-12T04:40:14.511416+00:00",
+  "generated_at": "2026-07-12T07:17:04.329359+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.57,
       "change_pct_1d": 0.66,
-      "change_pct_1w": 1.87
+      "change_pct_1w": 2.01
     },
     "^FVX": {
       "name": "5Y Treasury yield",
       "value": 4.31,
       "change_pct_1d": 0.91,
-      "change_pct_1w": 1.84
+      "change_pct_1w": 2.3
     },
     "^IRX": {
       "name": "13W T-Bill yield",
       "value": 3.69,
       "change_pct_1d": 0.35,
-      "change_pct_1w": 0.74
+      "change_pct_1w": 0.14
     },
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 5.07,
       "change_pct_1d": 0.36,
-      "change_pct_1w": 1.73
+      "change_pct_1w": 1.56
     },
     "^VIX": {
       "name": "VIX (volatility)",
@@ -51,9 +51,9 @@ window.theBriefMacro = {
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 63951.15,
-      "change_pct_1d": -0.27,
-      "change_pct_1w": 1.03
+      "value": 63767.99,
+      "change_pct_1d": -0.05,
+      "change_pct_1w": 2.43
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 88,

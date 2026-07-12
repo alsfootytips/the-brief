@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T04:40:14.436764+00:00",
+  "generated_at": "2026-07-12T07:17:04.261156+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy\""
+      "move_reason": "News: \"What\u2019s the AI hit to U.S. inflation?\""
     },
     {
       "ticker": "DG",
@@ -223,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Stock Slides as Market Rises: Facts to Know Before You Trade\""
+      "move_reason": "News: \"Jensen Huang's Blue-Collar Millionaire Prediction Lifted Quanta Services' Backlog to $48 B...\""
     },
     {
       "ticker": "XLV",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy\""
+      "move_reason": "News: \"What\u2019s the AI hit to U.S. inflation?\""
     },
     {
       "ticker": "OSCR",
@@ -392,7 +392,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Stock Slides as Market Rises: Facts to Know Before You Trade\""
+      "move_reason": "News: \"Jensen Huang's Blue-Collar Millionaire Prediction Lifted Quanta Services' Backlog to $48 B...\""
     },
     {
       "ticker": "TPL",
