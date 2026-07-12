@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T20:27:23.263750+00:00",
+  "generated_at": "2026-07-12T21:24:24.772910+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T20:27:23.260712+00:00",
+      "timestamp": "2026-07-12T21:24:24.769721+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T20:27:23.260707+00:00",
+      "timestamp": "2026-07-12T21:24:24.769716+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,65 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T20:27:23.260693+00:00",
+      "timestamp": "2026-07-12T21:24:24.769700+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T21:23:23+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brookfield nears Hudson Square deal as AI firms fuel Manhattan office revival: WSJ",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613078-brookfield-nears-hudson-square-deal-as-ai-firms-fuel-manhattan-office-revival-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T21:16:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Costco, Target tie urban expansion to affordable housing boom",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613077-costco-target-tie-urban-expansion-to-affordable-housing-boom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T20:46:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T20:29:06+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T20:20:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -75,7 +130,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
+      "headline": "Why Citigroup is the one to watch when banks report earnings this week",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
       "is_watchlist": false,
@@ -231,17 +286,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T18:16:11+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -363,28 +407,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "First Majestic Silver (AG) Receives Construction Permits for Santa Elena Mine Expansion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-silver-ag-receives-075944774.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:26:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Disney's 'Moana' cruises to No. 1 with $43M opening as Pixar, Minions hold strong",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613070-disneys-moana-cruises-to-no-1-with-43m-opening-as-pixar-minions-hold-strong?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:11:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israeli attacks in Gaza kill six people, including a girl, medics say",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/israeli-attacks-in-gaza-kill-three-people-including-a-girl-say-medics-4787346",
@@ -404,28 +426,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI giants shift focus from raw power to lower costs as business spending scrutinized",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613069-ai-giants-shift-focus-from-raw-power-to-lower-costs-as-business-spending-scrutinized?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T16:52:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T16:49:18+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
