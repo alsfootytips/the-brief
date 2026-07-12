@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T17:18:08.128690+00:00",
+  "generated_at": "2026-07-12T18:28:03.996526+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?\""
+      "move_reason": "News: \"The 1 AI Stock I'd Buy and Hold for the Next Decade\""
     },
     {
       "ticker": "DG",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Own Walmart For Value? Dollar Tree's Numbers Tell A Sharper Story.\""
+      "move_reason": "News: \"Dollar General offers retro prices\""
     },
     {
       "ticker": "AMD",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
+      "move_reason": "News: \"3 AI Infrastructure Stocks That Could Double by 2027\""
     },
     {
       "ticker": "TPL",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
+      "move_reason": "News: \"3 AI Infrastructure Stocks That Could Double by 2027\""
     },
     {
       "ticker": "APA",
@@ -308,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Own Walmart For Value? Dollar Tree's Numbers Tell A Sharper Story.\""
+      "move_reason": "News: \"Dollar General offers retro prices\""
     },
     {
       "ticker": "GEV",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?\""
+      "move_reason": "News: \"The 1 AI Stock I'd Buy and Hold for the Next Decade\""
     },
     {
       "ticker": "OSCR",
@@ -643,32 +643,6 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 119.24,
-      "change_pct": 3.03,
-      "score": 5.5,
-      "signals": [
-        "Moved +3.03% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +3.03% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
-    },
-    {
       "ticker": "CRWV",
       "name": "CoreWeave",
       "price": 88.81,
@@ -745,6 +719,29 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 119.24,
+      "change_pct": 3.03,
+      "score": 4.5,
+      "signals": [
+        "Moved +3.03% \u2014 a 1.3\u03c3 move",
+        "3 news items in the last 3 days",
+        "6 insider buys vs 0 sells (last 90 days)"
+      ],
+      "reasons": [
+        "Moved +3.03% \u2014 a 1.3\u03c3 move",
+        "3 news items in the last 3 days",
+        "6 insider buys vs 0 sells (last 90 days)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying"
+      ],
+      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLP"
     },
     {
       "ticker": "NVDA",
