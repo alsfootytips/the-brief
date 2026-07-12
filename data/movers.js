@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T12:00:43.115571+00:00",
+  "generated_at": "2026-07-12T13:48:18.668997+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
+      "move_reason": "News: \"Capital One Flips Millions of Discover Cards to Its Own Platform on July 27. Can It Upsell...\""
     },
     {
       "ticker": "DG",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Big Bank Earnings Kick Off Earnings Season\""
+      "move_reason": "News: \"RYLD: The Rally Is Hiding The Structural Flaws\""
     }
   ],
   "watchlist": [
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Big Bank Earnings Kick Off Earnings Season\""
+      "move_reason": "News: \"RYLD: The Rally Is Hiding The Structural Flaws\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
+      "move_reason": "News: \"Capital One Flips Millions of Discover Cards to Its Own Platform on July 27. Can It Upsell...\""
     },
     {
       "ticker": "OSCR",
