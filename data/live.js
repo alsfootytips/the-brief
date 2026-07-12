@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T14:56:53.232783+00:00",
+  "generated_at": "2026-07-12T16:02:00.471864+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T14:56:53.229509+00:00",
+      "timestamp": "2026-07-12T16:02:00.468714+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T14:56:53.229504+00:00",
+      "timestamp": "2026-07-12T16:02:00.468709+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,109 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T14:56:53.229489+00:00",
+      "timestamp": "2026-07-12T16:02:00.468694+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:32:34+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed hike risk could test stocks despite strong earnings outlook, Goldman Sachs says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613066-fed-hike-risk-could-test-stocks-despite-strong-earnings-outlook-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:31:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman discusses what the Fed policy outlook means for equities",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-fed-rate-outlook-as-key-risk-for-us-stocks-ahead-of-cpi-4787366",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:25:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:25:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli attacks in Gaza kill six people, including a girl, medics say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-attacks-in-gaza-kill-three-people-including-a-girl-say-medics-4787346",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:18:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lindsey Graham, US Republican senator and Trump ally, dies at 71",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:06:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New Syrian parliament meets for first time in Damascus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/new-syrian-parliament-meets-for-first-time-in-damascus-4787359",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:01:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 3 big things we're watching in the stock market this week",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:58:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -77,28 +176,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli attacks in Gaza kill five people, including a girl, say medics",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-attacks-in-gaza-kill-three-people-including-a-girl-say-medics-4787346",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:42:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lindsey Graham, US Republican senator and Trump ally, dies at 71",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:36:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -139,6 +216,50 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nabors-industries-ltd-nbr-top-142403732.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:24:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners\u2019 Filings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-company-crgy-top-142340318.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:23:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gray-media-inc-gtn-top-142333672.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:23:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should You Buy Lincoln National Corporation (LNC)\u2019s Shares?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-lincoln-national-corporation-lnc-142326811.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:23:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -156,7 +277,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia signals broadening AI demand, keeps next-generation roadmap unchanged",
+      "headline": "Analyst flags key investor questions on Nvidia stock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/nvidia-signals-broadening-ai-demand-keeps-nextgeneration-roadmap-unchanged-4787367",
       "is_watchlist": false,
@@ -185,18 +306,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T14:04:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman Sachs flags Fed rate outlook as key risk for U.S. stocks ahead of CPI",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-fed-rate-outlook-as-key-risk-for-us-stocks-ahead-of-cpi-4787366",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:01:47+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -260,17 +369,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Evaxion presents preclinical data on CMV vaccine candidate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/evaxion-presents-preclinical-data-on-cmv-vaccine-candidate-93CH-4787364",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T13:37:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Earnings week ahead: JPM, C, BAC, WFC, MS, UNH, JNJ, ABT, UAL, GS, TSM, and more",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4612883-earnings-week-ahead-jpm-c-bac-wfc-ms-unh-jnj-abt-ual-gs-tsm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -324,17 +422,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-12T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: UnitedHealth, Vertex, and CVS Health in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613022-notable-healthcare-headlines-for-the-week-unitedhealth-vertex-and-cvs-health-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T13:05:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -432,6 +519,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "IWM",
+      "headline": "Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ef22ac348ec27c0c8987dd4682194492bd52506923944e9b4792fdc728f9ae7",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T11:28:32+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
       "headline": "The Credit Market Is Sending A Warning On AI Stocks",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6df4c4348be525cd04f2e9ee26e0b6933f588beea10a9265e5b8e5b5ede86c7a",
@@ -501,18 +600,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Big Bank Earnings Kick Off Earnings Season",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bd7731afc0c65620672a740ce68064b788d9f39aca759dfcc98550afbf14a64e",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T07:15:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Former emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74 - Reuters",
       "source": "Reuters",
@@ -566,7 +653,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VUX0t6UEtnSzZZLVkwYUctMk1IbVZabTZtcGgyOW91RVdLZy1KQmI2SWRydDloNHJxNkJFYVdFTnpmMDV2cGNYamVXZVJISmVkem5XaC0yc09STlFHU2RJX3dXM3owZzJ3U0RLOFRjSXJOR2VqQWJtMG5aZDdmOUgxOHJSZldmWTRvV1MxMWFNZ3hGYlplWWtTUk5Ra2ZNR001dDZSbmY3Nm9YY2c?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-07-12T04:26:00+00:00",
+      "timestamp": "2026-07-12T04:27:01+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -642,6 +729,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Costco and Walmart capture grocery-store crowns",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/costco-walmart-capture-grocery-store-221534002.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T22:15:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
@@ -649,18 +747,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-11T21:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US seeks free Hormuz access from Iran as talks focus on strait - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:36:05+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -754,17 +840,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Your data built the AI boom \u2014 but Big Tech is pocketing 100% of the equity",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T16:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It?",
       "source": "Yahoo",
@@ -788,17 +863,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Cerebras Stock Sends Massive Expansion Signal at Paris Summit",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-stock-sends-massive-expansion-131501607.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:15:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "How Investors Are Reacting To Texas Pacific Land (TPL) Chevron Power Deal And Earnings Beat",
       "source": "Yahoo",
@@ -812,66 +876,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock Market Week Ahead: Watching Big Banks, Warsh, TSMC For Signals",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-big-banks-ge-tsmc-asml-sp-500-nasdaq/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:10:05+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire Hathaway gains ground, but still trails the S&P 500 as '26 enters second half",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html",
       "is_watchlist": false,
       "timestamp": "2026-07-11T13:07:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "70% of S&P 500 Tech Stocks Are Down 20% or More from Their All-Time Highs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/70-p-500-tech-stocks-130003151.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:00:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s Why Buying the Dip in Sandisk Stock May Pay Off",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-buying-dip-sandisk-stock-130003629.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T13:00:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Robert Kiyosaki warns the 'biggest crash' in US history is nigh \u2014 millions of may lose it all. Protect your riches now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-warns-biggest-crash-125500463.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:55:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Believes SpaceX (SPCX) Caused NASDAQ Selloff",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-spacex-spcx-125424881.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T12:54:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -967,17 +976,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T04:09:20+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

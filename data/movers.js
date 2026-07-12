@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T14:56:53.226049+00:00",
+  "generated_at": "2026-07-12T16:02:00.465344+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Credit Market Is Sending A Warning On AI Stocks\""
+      "move_reason": "News: \"Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism\""
     }
   ],
   "watchlist": [
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Credit Market Is Sending A Warning On AI Stocks\""
+      "move_reason": "News: \"Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism\""
     },
     {
       "ticker": "NBIS",
