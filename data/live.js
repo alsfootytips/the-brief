@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T16:02:00.471864+00:00",
+  "generated_at": "2026-07-12T17:18:08.135287+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T16:02:00.468714+00:00",
+      "timestamp": "2026-07-12T17:18:08.132095+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T16:02:00.468709+00:00",
+      "timestamp": "2026-07-12T17:18:08.132090+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,216 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T16:02:00.468694+00:00",
+      "timestamp": "2026-07-12T17:18:08.132075+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T17:12:28+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Disney's 'Moana' cruises to No. 1 with $43M opening as Pixar, Minions hold strong",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613070-disneys-moana-cruises-to-no-1-with-43m-opening-as-pixar-minions-hold-strong?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T17:11:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli attacks in Gaza kill six people, including a girl, medics say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-attacks-in-gaza-kill-three-people-including-a-girl-say-medics-4787346",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T17:06:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI giants shift focus from raw power to lower costs as business spending scrutinized",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613069-ai-giants-shift-focus-from-raw-power-to-lower-costs-as-business-spending-scrutinized?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:52:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:49:18+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-conducts-strikes-on-iran-missile-systems-around-strait-of-hormuz-axios-reports-4787369",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:48:07+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lindsey Graham, US Republican senator and Trump ally, dies at 71",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:42:27+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rubrik (RBRK) is One of the Best Up and Coming Stocks to Invest In Right Now, Here\u2019s Why",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rubrik-rbrk-one-best-coming-132543301.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:33:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UL Solutions (ULS) Opens New Automotive EMC Laboratory in Toyota City",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ul-solutions-uls-opens-automotive-132557038.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:32:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GlobalFoundries (GFS) Announces Production Readiness of SLATE Wafer-to-Wafer Bonding Technology",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-gfs-announces-production-readiness-132550167.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:32:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Haleon (HLN) Partners with Microsoft (MSFT) to Advance Digital and AI Capabilities",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/haleon-hln-partners-microsoft-msft-132610148.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:31:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s Why Sunbelt (SUNB) is One of the Best Up and Coming Stocks to Invest In Right Now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-sunbelt-sunb-one-best-132603787.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:31:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin steadies above $64,000 as investors shrug off Hormuz tensions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-iran-tensions-rise-bip110-debate-intensifies-4787336",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:19:22+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:15:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:14:06+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eni CEO warns prolonged Middle East conflict could push oil prices higher",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613067-eni-ceo-warns-prolonged-middle-east-conflict-could-push-oil-prices-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T16:05:41+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7836bdd0c24dc9572de1f8d8e535bf65e1fdf5ef3ad05f4101cf47c06881e053",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T15:40:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why This Could Be the Worst Time to Buy SpaceX Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=166c6362b997c77249c373445050756e1f2c7d3b51deb244592ab8d65fa278d9",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T15:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -96,36 +302,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T15:25:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli attacks in Gaza kill six people, including a girl, medics say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-attacks-in-gaza-kill-three-people-including-a-girl-say-medics-4787346",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T15:18:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lindsey Graham, US Republican senator and Trump ally, dies at 71",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T15:06:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "1 Top Vanguard ETF to Buy Before the Next Market Crash",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=359f031b249add01e21e4d391cd35af419cebcdf52468f2ddfadf4ba5be8a76d",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T15:21:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -148,18 +333,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T14:58:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:48:22+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -207,98 +380,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why UBS says the bull market can survive higher rates?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-ubs-says-the-bull-market-can-survive-higher-rates-4787368",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:28:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nabors-industries-ltd-nbr-top-142403732.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:24:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners\u2019 Filings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-company-crgy-top-142340318.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:23:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gray-media-inc-gtn-top-142333672.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:23:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should You Buy Lincoln National Corporation (LNC)\u2019s Shares?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-lincoln-national-corporation-lnc-142326811.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:23:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T14:18:31+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analyst flags key investor questions on Nvidia stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-signals-broadening-ai-demand-keeps-nextgeneration-roadmap-unchanged-4787367",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:12:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:09:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Farage seeks political reset, finds himself running against man dressed as trash can",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4613062-farage-seeks-political-reset-finds-himself-running-against-man-dressed-as-trash-can?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -329,75 +410,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a088615026c7f514cbc366aa3b32dc740e38cdd24590a9936afc32825fe96a8b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T13:43:05+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Many Investors Are Still Treating Gilead Sciences Like a Has-Been HIV Stock. 4 Drug Launches This Year Could Prove Them Wrong.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3025ddb2315ad436973d69f7d2db5fb33b836836dd518e233c2710081814e73",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T13:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The U.S. Economy Is Addicted to AI Spending. What Happens If It Slows?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42347fc4a08cbf6ed992fccadbe1d016c00002de3763040e41bafed0d68ce640",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T13:40:29+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings week ahead: JPM, C, BAC, WFC, MS, UNH, JNJ, ABT, UAL, GS, TSM, and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4612883-earnings-week-ahead-jpm-c-bac-wfc-ms-unh-jnj-abt-ual-gs-tsm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T13:33:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Volkswagen CEO signals alternatives to plant closures as cost-cutting drive continues",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613061-volkswagen-ceo-signals-alternatives-to-plant-closures-as-cost-cutting-drive-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T13:32:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Which companies reporting earnings this week show the strongest bullish signals?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4612648-which-companies-reporting-earnings-this-week-show-the-strongest-bullish-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T13:30:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -691,7 +703,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVlDWEtfWEhnNkZzeE9nRTlmaHlPRUlBQU9MRXZjb0MwM2lIdUUxVkt1V1ZIUDJzeGkzQXRtaEkxc09nQWhUN0VOZnN5NVlpLUF1UGt1UXZ4NmhjdzJ1UjJ1dFdsV081TXNoLWwwNFhjLTNXcVVfTFZET1l4SjVPNHNfMlhrclZhZzZFQ2FReUU0bEtLSHlGVjJLeFczQjRabHpyejB6eng3ajlnRWdHX29IVElRMU1VUFJ5bGJkblFqUjYtZl9fVy1QZDU?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-07-12T00:51:26+00:00",
+      "timestamp": "2026-07-12T00:51:00+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -725,17 +737,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Costco and Walmart capture grocery-store crowns",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/costco-walmart-capture-grocery-store-221534002.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T22:15:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

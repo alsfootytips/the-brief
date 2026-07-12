@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T16:02:00.465344+00:00",
+  "generated_at": "2026-07-12T17:18:08.128690+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
+      "move_reason": "News: \"Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Domina...\""
+      "move_reason": "News: \"Better Buy for the Second Half: Celsius Down 36% or a 50/50 Split of Coca-Cola and Pepsi?\""
     },
     {
       "ticker": "OSCR",
