@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T10:55:09.036295+00:00",
+  "generated_at": "2026-07-12T12:00:43.122254+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T10:55:09.033158+00:00",
+      "timestamp": "2026-07-12T12:00:43.119084+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T10:55:09.033153+00:00",
+      "timestamp": "2026-07-12T12:00:43.119079+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,109 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T10:55:09.033139+00:00",
+      "timestamp": "2026-07-12T12:00:43.119065+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iraq PM to visit Washington Monday for oil and gas deals",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iraq-pm-to-visit-washington-monday-for-oil-and-gas-deals-93CH-4787345",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:54:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:51:55+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX 'built to separate retail investors from their money' - George Noble",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613058-spacex-built-to-separate-retail-investors-from-their-money-george-noble?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:48:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukraine\u2019s Zelenskiy proposes to replace Prime Minister Svyrydenko",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-proposes-to-replace-prime-minister-svyrydenko-4787344",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:30:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iraqi prime minister to visit Washington on Monday; oil and gas deals expected",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected-4787340",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:12:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sally Beauty delivers 62% return after InvestingPro Fair Value call",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/sally-beauty-delivers-62-return-after-investingpro-fair-value-call-93CH-4787343",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:10:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prediction markets see oil pop, Hormuz delay after strikes",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613055-prediction-markets-see-oil-pop-hormuz-delay-after-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:09:41+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro\u2019s Fair Value spotted Hycroft Mining\u2019s 44% decline",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-hycroft-minings-44-decline-93CH-4787342",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:01:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Street Calls of the Week",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4776062",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T11:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -59,17 +158,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-12T10:50:24+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Senator Lindsey Graham has died at 71 after a brief illness",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T10:36:30+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -86,28 +174,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iraqi prime minister to visit Washington on Monday; oil and gas deals expected",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected-4787340",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T10:18:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-SoFi Stadium\u2019s World Cup run boosts confidence ahead of Super Bowl, LA Olympics",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/soccersofi-stadiums-world-cup-run-boosts-confidence-ahead-of-super-bowl-la-olympics-4787339",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T10:06:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -132,28 +198,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Egypt\u2019s January-March current account deficit widens to $5.1 billion",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/egypts-januarymarch-current-account-deficit-widens-to-51-billion-4787338",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T09:48:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Former Qatar emir Sheikh Hamad bin Khalifa Al-Thani dies at 74",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/former-qatar-emir-sheikh-hamad-bin-khalifa-althani-dies-at-74-4787337",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T09:46:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -197,31 +241,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lindsey Graham, pivotal US Republican senator, dies suddenly at 71",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-senator-lindsey-graham-passes-away-4787328",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T09:24:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: SpaceX gets a Street-high target, Samsung selloff overdone",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-spacex-gets-a-streethigh-target-samsung-selloff-overdone-4786333",
       "is_watchlist": false,
       "timestamp": "2026-07-12T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -248,6 +270,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T07:48:39+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Big Bank Earnings Kick Off Earnings Season",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bd7731afc0c65620672a740ce68064b788d9f39aca759dfcc98550afbf14a64e",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T07:15:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -500,17 +534,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bulls vs. Bears: SK Hynix jolts analysts amid record-setting IPO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613051-sk-hynix-jolts-analysts-record-setting-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T18:06:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "5-star analyst sends AMD stock investors a warning",
       "source": "Yahoo",
@@ -520,17 +543,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trending stocks this week: Iran tensions, Pepsi results, SK hynix U.S. debut dominate Wall Street",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613050-trending-stocks-this-week-iran-tensions-pepsi-results-sk-hynix-us-debut-dominate-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T17:21:05+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -773,44 +785,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How Union Pacific (UNP) Is Addressing Regulatory Hurdles to Advance Its Coast-to-Coast Rail Network Strategy",
+      "headline": "MarketBeat Week in Review \u2013 07/06 - 07/10",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-unp-addressing-regulatory-093047238.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-07-06-110000519.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T09:30:47+00:00",
+      "timestamp": "2026-07-11T11:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Improving Freight Demand and Pricing Are Reinforcing the Long-Term Investment Case for CSX Corporation",
+      "headline": "The 5 key levels of income in retirement for US boomers \u2014 where do you sit versus other seniors?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-improving-freight-demand-pricing-091156241.html",
+      "url": "https://finance.yahoo.com/markets/articles/5-key-levels-income-retirement-105500287.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T09:11:56+00:00",
+      "timestamp": "2026-07-11T10:55:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Real estate is no longer the wealth builder it once was \u2014 but is it a bad investment?",
+      "headline": "The June jobs report laid an egg: The US only added roughly half of what economists had forecast \u2014 what it means for you",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/real-estate-no-longer-wealth-090000379.html",
+      "url": "https://finance.yahoo.com/economy/articles/june-jobs-report-laid-egg-101500027.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T09:00:00+00:00",
+      "timestamp": "2026-07-11T10:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "How Canadian National Railway (CNI) Is Driving Network Strength With Record Grain Volumes Across Western Canada",
+      "headline": "How Norfolk Southern (NSC) Is Navigating Regulatory Review to Advance Its Transformational Rail Merger Strategy",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/canadian-national-railway-cni-driving-085239602.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/norfolk-southern-nsc-navigating-regulatory-100150717.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T08:52:39+00:00",
+      "timestamp": "2026-07-11T10:01:50+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best CD rates today, Saturday, July 11, 2026: Best account provides 4.10% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-11-2026-best-account-provides-410-apy-100000806.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Saturday, July 11: Rates moving lower today",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-11-rates-moving-lower-today-100000637.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -828,17 +862,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Why Wabtec (WAB) Is Well Positioned to Grow Through Aftermarket Rail Services and Fleet Modernization",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wabtec-wab-well-positioned-083335787.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T08:33:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "My Updated 2026 Market Outlook: Keeping The S&P 500 Target, But Changing Sector Leaders",
       "source": "SeekingAlpha",
@@ -848,29 +871,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "My Updated 2026 Market Outlook: Keeping The S&P 500 Target, But Changing Sector Leaders",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f3168b2462fa2902ffcdd38ca1f0c791c640521257d5504968539eae74afde5d",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T08:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil Prices Are Plunging, but Trumpflation Is Getting Worse -- Here's Why",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/oil-prices-plunging-trumpflation-getting-082600435.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T08:26:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

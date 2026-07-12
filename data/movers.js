@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T10:55:09.029747+00:00",
+  "generated_at": "2026-07-12T12:00:43.115571+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Kevin Warsh's First FOMC Meeting Was A Success - But Where Does It Lead?\""
+      "move_reason": "News: \"Big Bank Earnings Kick Off Earnings Season\""
     }
   ],
   "watchlist": [
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Kevin Warsh's First FOMC Meeting Was A Success - But Where Does It Lead?\""
+      "move_reason": "News: \"Big Bank Earnings Kick Off Earnings Season\""
     },
     {
       "ticker": "NBIS",
