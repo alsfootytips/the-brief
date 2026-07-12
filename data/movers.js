@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T19:40:48.295218+00:00",
+  "generated_at": "2026-07-12T20:27:23.257197+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1 AI Stock I'd Buy and Hold for the Next Decade\""
+      "move_reason": "News: \"1 Big Reason to Buy FuelCell Energy Stock While It's Still Under $30\""
     },
     {
       "ticker": "DG",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
+      "move_reason": "News: \"2 Top Power Stocks That Could Outperform the Market Through 2030\""
     },
     {
       "ticker": "XLB",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Does Chevron's Joint Venture With GE Vernova Make the Stock a Buy Ahead of 2027?\""
+      "move_reason": "News: \"2 Top Power Stocks That Could Outperform the Market Through 2030\""
     },
     {
       "ticker": "IWM",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1 AI Stock I'd Buy and Hold for the Next Decade\""
+      "move_reason": "News: \"1 Big Reason to Buy FuelCell Energy Stock While It's Still Under $30\""
     },
     {
       "ticker": "OSCR",

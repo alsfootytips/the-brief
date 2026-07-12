@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-12T19:40:48.302050+00:00",
+  "generated_at": "2026-07-12T20:27:23.263750+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T19:40:48.298795+00:00",
+      "timestamp": "2026-07-12T20:27:23.260712+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-12T19:40:48.298791+00:00",
+      "timestamp": "2026-07-12T20:27:23.260707+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,32 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-12T19:40:48.298775+00:00",
+      "timestamp": "2026-07-12T20:27:23.260693+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DOJ grand jury is said to probe allegations against UAW President Shawn Fain",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613076-doj-grand-jury-is-said-to-probe-allegations-against-uaw-president-shawn-fain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:58:03+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Death toll from Venezuela earthquakes rises to 4,490",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-earthquakes-rises-to-4490-4787374",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:36:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -85,6 +107,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Big Reason to Buy FuelCell Energy Stock While It's Still Under $30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=666abed608149af3ac7614748cde43f3d995615b15b9a29eb60bb30329eb52b0",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T19:21:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
       "source": "CNBC Top",
@@ -118,6 +152,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Can Nvidia Still Turn Long-Term Investors Into Millionaires?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c28a27645e259ab22b6fa4643f8d253c3ff6c673926a9b066b7f749bb5a07109",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T19:04:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
       "source": "Investing.com News",
@@ -129,6 +175,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is the AI Bubble About to Burst?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed1822e367fe5cc1ca1b0c9e54d974ef6ae6923fe6e33d20ab21e9ac795c37b5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T19:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI",
       "source": "Yahoo Finance",
@@ -137,6 +195,29 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T19:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is the AI Bubble About to Burst?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T19:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "2 Top Power Stocks That Could Outperform the Market Through 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2abdc56423ca045a5e8767a23297b421db32dd2e28395b7495d070d52e766d27",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T18:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -293,41 +374,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "POSCO (PKX), Anson Resources Partner for DLE Demonstration Plant in Utah",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/posco-pkx-anson-resources-partner-075934937.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T17:26:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The 1 AI Stock I'd Buy and Hold for the Next Decade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8484a35b28c85ebbb9604718b08358b6bdc11c6ea8e667bcdde3e24f70e4e301",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T17:23:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Wall Street Is Bullish on 1 of These Chip Stocks and Bearish on the Other",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd0fed833f443c6d14fff01b3dd914345a7ddf55e9b34c1e52410fb766d99400",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T17:18:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Disney's 'Moana' cruises to No. 1 with $43M opening as Pixar, Minions hold strong",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4613070-disneys-moana-cruises-to-no-1-with-43m-opening-as-pixar-minions-hold-strong?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -361,18 +407,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 AI Infrastructure Stocks That Could Double by 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ffbaa6944d7bd941dc5792a13ea6178ef4d61e74e183a52246f9a1c8f4f767c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T17:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "AI giants shift focus from raw power to lower costs as business spending scrutinized",
       "source": "Seeking Alpha Market",
@@ -392,18 +426,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T16:49:18+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-conducts-strikes-on-iran-missile-systems-around-strait-of-hormuz-axios-reports-4787369",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T16:48:07+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -443,17 +465,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eni CEO warns prolonged Middle East conflict could push oil prices higher",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613067-eni-ceo-warns-prolonged-middle-east-conflict-could-push-oil-prices-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T16:05:41+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -591,17 +602,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-12T12:05:02+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top Wall Street analysts are confident about these 3 stocks for the long haul",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T12:05:02+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -813,18 +813,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Chevron May Have Unlocked a Powerful New Growth Engine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93027eb5221e66f3d856d583275775cbd878e858deddbfd16b28619db0ba8757",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T16:51:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
@@ -889,6 +877,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-11T13:07:41+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The best states to live in for 2026: No. 1 has a six-year winning streak",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/11/best-states-to-live-in-america-2026.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T13:00:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
