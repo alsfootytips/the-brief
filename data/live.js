@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-11T23:27:40.076355+00:00",
+  "generated_at": "2026-07-12T01:06:48.390417+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T23:27:40.073099+00:00",
+      "timestamp": "2026-07-12T01:06:48.387901+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-11T23:27:40.073094+00:00",
+      "timestamp": "2026-07-12T01:06:48.387898+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,70 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-11T23:27:40.073080+00:00",
+      "timestamp": "2026-07-12T01:06:48.387887+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran closes Strait of Hormuz after vessel incident, escalating Gulf tensions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/iran-closes-strait-of-hormuz-after-vessel-incident-escalating-gulf-tensions-4787314",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T00:01:45+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-World Cup reflects growing US appetite for soccer, \u2019Ted Lasso\u2019 creators say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/soccerworld-cup-reflects-growing-us-appetite-for-soccer-ted-lasso-creators-say-4787313",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T23:36:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran declares Strait of Hormuz closed as 'unauthorised' vessel hit - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T23:30:37+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK police arrest man on suspicion of killing former minister Widdecombe",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/uk-police-arrest-man-on-suspicion-of-killing-former-minister-widdecombe-4787312",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T23:30:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump administration subpoenas New York Times reporters over Air Force One leak",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-administration-subpoenas-new-york-times-reporters-over-air-force-one-leak-4787311",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T23:28:57+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -64,6 +124,18 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Warren Buffett Swears By This 1 Low-Cost Investment. History Proves He's Been Right Every Time.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b65a4f939b3a92be4c258d0b4feb5e3b670b9364a365d13c86cfba6ab3ff7c45",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T23:20:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -94,6 +166,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Vanguard ETF Warren Buffett Endorsed in 2014 Would Have Turned $5,000 Into $20,465 Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10e7e0f7da9b2d32cc2f14778dd8b38fb88f8e8993783c3c8740f6fbb4721705",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T22:58:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Deutsche Bank shares three key points on the dollar\u2019s long-term trajectory",
       "source": "Investing.com News",
@@ -119,15 +203,31 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Russian strikes kill eight, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T22:36:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "Iran's IRGC navy says Strait of Hormuz closed until further notice, state media reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmZVRzVlODludmRUd2hpVXBuRFY1Z0wwMTNNdGJBUEc1b01YcUtzVVRMVUxvMVg1dTROcEVOdWVfRUlOYWNvTkY4b2REM0QzRDVfVnp5MUJIcVhoeXVPb3l4RVI3MnVtWUpZUk9QRHkzUjFvcDR1UFpXeVZWOG5sSWJGSGtvTlRYeEhHYVhScE1RUWQyRUR2aUROMG9BckEtbG04QmxMSmcyMzRLMkFCZUFlWkM1cHN3UFQ5Z3IxbFpMNVVIdUw4?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T22:32:09+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "CrowdStrike Just Completed a Stock Split. Is the Stock a Buy Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54fd5295f41a792421a1a4e8a0e6055e81c0f87757fb2375715a7b5e44787ed4",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T22:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -137,141 +237,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-11T21:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Florida man paid off his house 2 months before Hurricane Milton tore off his roof \u2014 and he had no home insurance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/florida-man-paid-off-house-214000740.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T21:40:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25fe5bf811c1a4d7381a60938007aeba76361c6ad6e0307209280bb783fc0cb8",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T21:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-best-large-142324571.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T21:23:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here is Why Salesforce (CRM) is One of the Best Large Cap Stocks to Buy According to Analysts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-crm-one-best-142338375.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T21:20:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4787306",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Baker Hughes (BKR) Secures Long-Term Service Agreement for ANOH Gas Plant",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-secures-long-155952946.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T21:15:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-introduces-160002387.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T21:12:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Carrier Global (CARR) Completes $440M Sale of Riello Business",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/carrier-global-carr-completes-440m-160008643.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T21:11:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 Beaten-Down Stocks That Still Aren't Worth Buying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8308b86b1c11803a7d84a3f0719e527a416b8fd3d2c5b841c3b5ccde8dd6b84b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T20:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Family demands answers in death of young Black man in Mississippi",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/family-demands-answers-in-death-of-young-black-man-in-mississippi-4786916",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T20:24:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "5 Top AI Stocks Investors Own on Robinhood",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6bc7b94ebc36aeee0f82edd39dc6a4b49c29dc47f5003250f5ba74843961f5ef",
-      "is_watchlist": true,
-      "timestamp": "2026-07-11T20:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T20:17:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -596,6 +561,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Turkey still evaluating participation in Canada's global defence bank, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEhFYkJqV0dPUVJhMjZQYUhpUkZFb3FtVEpoLS1MamtKU1lTdWFSVjNmcXYyUkZha21zTmtMVEZZa0hxMnlTM0ZjUEZxWmotRXBOQmZxQk8wVVpiODZTV00zeUY2N3FQWC1FTkNoeEJ5cDBJTHlDRElDTzFEdGMzT2JyZG9VNFYxUEUyUUN2YUZMV0tHSFYxWkpKdUt4RzBTUGNBaWptVDJtNGo2Y2g3SHZacURUdVczY0dVdVRaNWJZanhEbXJNQnpDaw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T12:53:43+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
@@ -852,33 +828,6 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Fire at western Iranian mini-refinery contained, Iran media says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLUtrSnZONHozaUJIOU5LOVhpTGo4MEViVEJQQTNiZ0lLaC1ERV80cjNySFJEYk84WmJGeDZWYWoyM1lYYmtuUXRrOXo4NG0yaVZXY0hpWEVIZFgyZ214dWgwcGdITmlYNld4bnFVYlVPZGFwRmE0dmJ2bHNtZ2d0NW1oZ0NvOTV1V1pNcW1mNGVITDFvdFpUSXFUTlE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T21:14:43+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkw5TDZlRDh6aWdqR1hyTHAwQUx5aXFjLXJQdlVoTXRJc19DYXVNMmJ4c0ZVQkpmOXFUMHkxal9RelBqSmkwQ3A1bWpDdTlCQ1ZFUDhKV2lSckpXbm5GYVI3Mk1ZZ0QwZy13dnI1WEduZDRWT25QNVFUc3hnX3dHTE5sRVE3eV9Gd0FXUFdLZ01KZTBfNmpXU2NDXzhaaHpjbFFadUYzWW5EMklzNlhIVXJrWFB5NGRCb1Q0S19FNkU?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T21:09:03+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
       "type": "news",
       "ticker": "DG",
       "headline": "Own Walmart For Value? Dollar Tree's Numbers Tell A Sharper Story.",
@@ -889,21 +838,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-10T20:42:04+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -928,6 +862,39 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dear META Stock Fans, Here\u2019s 1 More Reason to Load Up on the Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-meta-stock-fans-1-184155811.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T18:41:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil Shock Revives Rate-Hike Fears as Gold Tests $4,000 Support",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-shock-revives-rate-hike-183747915.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T18:37:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How to Play SKHY Stock Following the SK Hynix IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/play-skhy-stock-following-sk-183352897.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-10T18:33:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1391,6 +1358,39 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Want to buy a house before the end of 2026? Follow these crucial steps.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/want-to-buy-a-house-in-2026-162052866.html",
+      "is_watchlist": false,
+      "timestamp": "2025-11-04T16:20:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What is a 'banking desert,' and what can you do if you live in one?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/banking-desert-160935878.html",
+      "is_watchlist": false,
+      "timestamp": "2024-07-31T16:09:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What is a good savings account interest rate in 2026?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html",
+      "is_watchlist": false,
+      "timestamp": "2024-03-21T17:39:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };

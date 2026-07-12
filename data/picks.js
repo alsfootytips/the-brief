@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-07-11T23:27:40.137935+00:00",
+  "generated_at": "2026-07-12T01:06:48.439026+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": 1.65,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 59,
+      "days_elapsed": 60,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": -0.97,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 59,
+      "days_elapsed": 60,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": -1.89,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 59,
+      "days_elapsed": 60,
       "days_remaining": null
     },
     {
@@ -717,8 +717,8 @@ window.theBriefPicks = {
       "change_pct_today": 1.01,
       "name": "Occidental Petroleum",
       "news_count": 3,
-      "days_elapsed": 22,
-      "days_remaining": 20
+      "days_elapsed": 23,
+      "days_remaining": 19
     },
     {
       "id": "2026-06-19-APA-auto",
@@ -747,8 +747,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.33,
       "name": "APA Corp",
       "news_count": 3,
-      "days_elapsed": 22,
-      "days_remaining": 13
+      "days_elapsed": 23,
+      "days_remaining": 12
     },
     {
       "id": "2026-06-19-TTD-auto",
@@ -777,8 +777,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.76,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 22,
-      "days_remaining": 34
+      "days_elapsed": 23,
+      "days_remaining": 33
     },
     {
       "id": "2026-07-01-TPL-auto",
@@ -807,8 +807,8 @@ window.theBriefPicks = {
       "change_pct_today": 1.77,
       "name": "Texas Pacific Land",
       "news_count": 3,
-      "days_elapsed": 10,
-      "days_remaining": 46
+      "days_elapsed": 11,
+      "days_remaining": 45
     },
     {
       "id": "2026-07-01-OSCR-auto",
@@ -837,8 +837,8 @@ window.theBriefPicks = {
       "change_pct_today": -2.85,
       "name": "Oscar Health",
       "news_count": 0,
-      "days_elapsed": 10,
-      "days_remaining": 18
+      "days_elapsed": 11,
+      "days_remaining": 17
     },
     {
       "id": "2026-07-01-CRWV-auto",
@@ -867,8 +867,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.99,
       "name": "CoreWeave",
       "news_count": 3,
-      "days_elapsed": 10,
-      "days_remaining": 11
+      "days_elapsed": 11,
+      "days_remaining": 10
     }
   ],
   "summary": {
