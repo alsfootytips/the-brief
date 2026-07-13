@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-13T19:58:45+00:00",
+  "generated_at": "2026-07-13T21:06:42+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -1237,7 +1237,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LEXX",
         "date": "2026-07-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0867,
         "revenue_estimate": 51000,
         "is_watchlist": false
