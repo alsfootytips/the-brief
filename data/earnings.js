@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-13T08:17:30+00:00",
+  "generated_at": "2026-07-13T11:38:44+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -1176,14 +1176,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0,
         "revenue_estimate": 16189290,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "EGY",
-        "date": "2026-07-13",
-        "hour": "",
-        "eps_estimate": 0.0808,
-        "revenue_estimate": 111100000,
         "is_watchlist": false
       },
       {
@@ -3156,14 +3148,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 2.5953,
         "revenue_estimate": 2046474960,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IPAR",
-        "date": "2026-07-21",
-        "hour": "",
-        "eps_estimate": 0.9758,
-        "revenue_estimate": 341666003,
         "is_watchlist": false
       },
       {
@@ -5861,14 +5845,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MARA",
-        "date": "2026-07-27",
-        "hour": "",
-        "eps_estimate": 0.3844,
-        "revenue_estimate": 206424540,
-        "is_watchlist": false
-      },
-      {
         "ticker": "MBLU",
         "date": "2026-07-27",
         "hour": "",
@@ -5997,14 +5973,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PRPL",
-        "date": "2026-07-27",
-        "hour": "",
-        "eps_estimate": -0.068,
-        "revenue_estimate": 107800403,
-        "is_watchlist": false
-      },
-      {
         "ticker": "PVBK",
         "date": "2026-07-27",
         "hour": "",
@@ -6117,14 +6085,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "TYGO",
-        "date": "2026-07-27",
-        "hour": "",
-        "eps_estimate": 0.0034,
-        "revenue_estimate": 31440735,
-        "is_watchlist": false
-      },
-      {
         "ticker": "UDR",
         "date": "2026-07-27",
         "hour": "amc",
@@ -6210,14 +6170,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "XGN",
-        "date": "2026-07-27",
-        "hour": "",
-        "eps_estimate": -0.1919,
-        "revenue_estimate": 17995675,
         "is_watchlist": false
       }
     ]
