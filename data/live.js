@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-13T22:48:39.876345+00:00",
+  "generated_at": "2026-07-13T23:13:36.055324+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 3.34,
-      "price": 56.92,
+      "change_pct": 3.4,
+      "price": 56.95,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628808+00:00",
+      "timestamp": "2026-07-13T23:13:36.052246+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "change_pct": 3.1,
-      "price": 410.17,
+      "change_pct": 3.77,
+      "price": 412.8,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628805+00:00",
+      "timestamp": "2026-07-13T23:13:36.052243+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -42,10 +42,22 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "change_pct": 4.08,
-      "price": 55.05,
+      "change_pct": 4.21,
+      "price": 55.12,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628801+00:00",
+      "timestamp": "2026-07-13T23:13:36.052240+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "change_pct": 3.11,
+      "price": 31.49,
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T23:13:36.052238+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,10 +66,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": -3.41,
-      "price": 203.77,
+      "change_pct": -3.63,
+      "price": 203.31,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628799+00:00",
+      "timestamp": "2026-07-13T23:13:36.052235+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -66,10 +78,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -5.29,
-      "price": 208.03,
+      "change_pct": -6.01,
+      "price": 206.45,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628795+00:00",
+      "timestamp": "2026-07-13T23:13:36.052232+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,10 +90,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": -4.45,
-      "price": 1042.94,
+      "change_pct": -4.72,
+      "price": 1040.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628785+00:00",
+      "timestamp": "2026-07-13T23:13:36.052223+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,7 +105,7 @@ window.theBriefLive = {
       "change_pct": 3.43,
       "price": 123.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628759+00:00",
+      "timestamp": "2026-07-13T23:13:36.052220+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -102,10 +114,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -6.5,
-      "price": 83.1,
+      "change_pct": -6.98,
+      "price": 82.68,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628757+00:00",
+      "timestamp": "2026-07-13T23:13:36.052217+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -114,10 +126,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": 3.68,
-      "price": 34.67,
+      "change_pct": 3.95,
+      "price": 34.76,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628753+00:00",
+      "timestamp": "2026-07-13T23:13:36.052213+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -126,13 +138,130 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -4.13,
-      "price": 534.85,
+      "change_pct": -4.71,
+      "price": 531.63,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T22:48:39.628745+00:00",
+      "timestamp": "2026-07-13T23:13:36.052205+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is tracking your food purchases good for your health?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T23:04:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T23:03:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T23:02:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The secretive crypto firm backed by Farage's biggest donor",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T23:00:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Biogen nabs approval of subcutaneous version of Leqembi for initiation dose",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613404-biogen-nabs-approval-subcutaneous-version-leqembi-initiation-dose?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T22:56:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hapag-Lloyd raises full-year earnings outlook but sees high degree of uncertainty",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613403-hapag-lloyd-raises-full-year-earnings-outlook-but-sees-high-degree-of-uncertainty?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T22:56:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T22:52:19+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount and Warner Bros sued to block $110bn mega merger",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T22:52:11+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T22:50:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T22:47:52+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -155,18 +284,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-13T22:36:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T22:36:24+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -341,29 +458,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trump\u2019s Iran threat, crypto\u2019s $282M comeback: Geopolitics tests market relief",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613390-trumps-iran-threat-cryptos-282m-comeback-geopolitics-tests-market-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T21:59:30+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Syntholene Energy plans up to $1.5M private placement",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613397-syntholene-plans-up-to-15m-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T21:56:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Here's Why USA Rare Earth Stock Rocketed 81% Higher in the First Half of 2026",
       "source": "Yahoo",
@@ -373,21 +467,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-13T21:45:33+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -411,18 +490,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T21:04:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -504,17 +571,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-13T20:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T20:32:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -713,18 +769,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Paramount and Warner Bros sued to block $110bn mega merger",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T18:25:05+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US to begin enforcing maritime blockade on Iran on Tuesday - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHhfWjBMY0wxWWV6RkVYbWw0bXN6LTFSX25HY1FDNXFwb0I5MndOZ2RSSmhjengxS2xKdFdmRi1Yd1J4ZnZkR3lHaTlabTZFbFl4dkdvOHh1MUs0cTNVc2NhOWc3OTJNbVhLa3NRQ0RzRkNUUlVGdk91eHlLX1hkRFBkYndhTjlfU3BCYzUwVHZlT0ZNZHBSV3NESmZjNXItY3Z2bTJ3?oc=5",
@@ -871,17 +915,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-13T16:19:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T16:05:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1136,17 +1169,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T23:29:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "How to change bank, energy or broadband provider and save money",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
@@ -1182,6 +1204,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Wall Street Says Investors Are Missing Cloudflare\u2019s Biggest AI Opportunity",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-says-investors-missing-150002997.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T15:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "This is how rich SpaceX workers are after the IPO",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rich-spacex-workers-ipo-143700468.html",
@@ -1193,77 +1226,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Navitas Semiconductor Stock Is on the Ropes. It Faces a New Patent Infringement Lawsuit.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/navitas-semiconductor-stock-ropes-faces-143002022.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:30:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nabors-industries-ltd-nbr-top-142403732.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:24:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gray-media-inc-gtn-top-142333672.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:23:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bread Financial Holdings, Inc. (BFH) Is A Top Stock In Miller Value Partners\u2019 Filings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bread-financial-holdings-inc-bfh-142315738.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:23:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should You Buy USA TODAY Co., Inc. (TDAY)\u2019s Shares?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-usa-today-co-inc-142308475.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-12T14:23:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Mark Cuban has strong words on AI companies and job losses",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-strong-words-ai-140700495.html",
       "is_watchlist": false,
       "timestamp": "2026-07-12T14:07:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta Platforms Inc. (META) Is A Top AI Stock In D. E. Shaw\u2019s Holdings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-inc-meta-top-140450076.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:04:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw\u2019s Holdings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-top-140443853.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:04:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should You Buy The Home Depot, Inc. (HD)\u2019s Shares?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-home-depot-inc-hd-140431353.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:04:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boston Scientific Corporation (BSX) Is A Stock To Buy According To D. E. Shaw",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boston-scientific-corporation-bsx-stock-140424185.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:04:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should You Buy Tesla, Inc. (TSLA)\u2019s Shares?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-tesla-inc-tsla-shares-140129038.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:01:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple Inc. (AAPL) Is A Top Stock In D. E. Shaw\u2019s Holdings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-stock-140123306.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T14:01:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1300,17 +1322,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T05:00:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
