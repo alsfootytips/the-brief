@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-13T01:05:42.571034+00:00",
+  "generated_at": "2026-07-13T04:46:58.587449+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 210.57,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T01:05:42.568072+00:00",
+      "timestamp": "2026-07-13T04:46:58.584343+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 5.78,
       "price": 668.0,
       "is_watchlist": false,
-      "timestamp": "2026-07-13T01:05:42.568068+00:00",
+      "timestamp": "2026-07-13T04:46:58.584338+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,10 +45,79 @@ window.theBriefLive = {
       "change_pct": 3.03,
       "price": 119.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-13T01:05:42.568054+00:00",
+      "timestamp": "2026-07-13T04:46:58.584323+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "National Storage Affiliates declares $0.0336/share deal-contingent special dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613092-national-storage-affiliates-declares-00336share-deal-contingent-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T04:25:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Operator of TC Energy spin-off Keystone system to pay $27M penalty over Kansas spill",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613088-operator-of-tc-energy-spin-off-keystone-system-to-pay-27m-penalty-over-kansas-spill?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T04:17:16+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cd991655d4cdeaa4a578b841f964bf00d3d1d0fe2f441922829c044b64ee7a4",
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T03:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cd991655d4cdeaa4a578b841f964bf00d3d1d0fe2f441922829c044b64ee7a4",
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T03:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SK Hynix shares slide 12% in Seoul after stellar Nasdaq debut",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T03:33:59+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "What You\u2019ve Done to Create Financial Freedom, Vol. 4",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3e790aedbbdbea9a522c90cd74d1e57c4f3737d14a4ea5045518fb0991d00b6",
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T03:27:56+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -57,7 +126,76 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-07-13T00:58:00+00:00",
+      "timestamp": "2026-07-13T03:03:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If You'd Invested $10,000 in Nike a Decade Ago, Here's How Much You'd Have Today (And It's Not Pretty)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1989f5dec1307871b72b44011b7b3f6d9241d37b2e1aff42555cb3d65a0cfa2",
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T02:51:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why Meta Platforms Stock Surged This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b34acf39590aa00671d1e047382c8fa67ec4264fd52d89832cd52767ef2c9b34",
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T02:11:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nippon Paint has made multiple offers for Akzo Nobel\u2019s decorative paints unit - Bloomberg",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613082-nippon-paint-has-made-multiple-offers-for-akzo-nobel-s-decorative-paints-unit-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T02:10:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Nvidia Stock Is Losing to the Market in 2026. Time to Walk Away or Double Down?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6686122da6e997d407187e3c17d719217334eb7ceb6847077c1ed285683b739e",
+      "is_watchlist": true,
+      "timestamp": "2026-07-13T02:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T01:25:20+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Trump accounts\u2019 are great \u2014 if you\u2019re already rich",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T01:04:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -90,6 +228,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "10 years of Pok\u00e9mon Go and the millions still trying to catch 'em all",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T00:07:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "EU ministers to debate curbing trade with Israeli settlements",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/eu-ministers-to-debate-curbing-trade-with-israeli-settlements-4787388",
@@ -97,18 +246,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-13T00:06:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b06ddb0234e8d87d24a4614cd77f5ffc1c2a0c22e560e548f4f6d2aa4ba942d8",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T23:51:19+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -144,17 +281,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil jumps 3% after US, Iran escalate strikes in Mideast - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T23:24:27+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -171,18 +297,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia (NVDA) Faces Class Action Over Meal Break And Expense Claims",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e1926f295bbbdabc2bf2df7a3bb53bd369477c04ef412962ec47c22c9dbca38",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T23:14:29+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Europe recorded 10,000 excess deaths during late-June heatwave, data show",
       "source": "Investing.com News",
@@ -191,18 +305,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T23:12:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Vanguard ETF That Has Never Let Long-Term Investors Down.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=462e629a5f66c084ebaa0e9000f6084606e61aa2980c0c46e051bef1a36ccde2",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T23:12:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -229,25 +331,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+      "headline": "Oil jumps 4% as new military strikes threaten Hormuz shipments - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-07-12T22:51:13+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-07-12T22:12:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8f440b5020fec9773812b6e07bb077dc0b0761cadf62b52cd0675093362cfce",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T22:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -259,6 +349,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-12T21:34:06+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Reviewing Recent Picks: Winners, Laggards, And Lessons From SpaceX, Meta, Micron, Bloom, And Credo",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cef930682d80ba7bb3f56f5bc5f16115e38dd8f2278f941ba6ba5f3e59a93234",
+      "is_watchlist": true,
+      "timestamp": "2026-07-12T21:30:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -352,17 +454,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Strong dollar, weak bond market: Investors favor greenback as Fed tightening bets grow",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613075-strong-dollar-weak-bond-market-investors-favor-greenback-as-fed-tightening-bets-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T19:27:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "You don\u2019t have to be rich to be financially independent. Here\u2019s how to take control of your money.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
@@ -386,17 +477,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Top global stories last week: Vodafone, easyJet among major names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613074-top-global-stories-last-week-vodafone-easyjet-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T18:28:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Graham\u2019s death complicates myriad GOP goals in Congress",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html",
@@ -406,28 +486,13 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S., Iran exchange new strikes as Hormuz dispute threatens fragile truce",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613072-u-s-iran-exchange-new-strikes-as-hormuz-dispute-threatens-fragile-truce?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T18:09:21+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Israel's election will be held on October 27, coalition head says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVlfeEhKTEQwUVJDNzQ3eWVJM2JQd2JNMUZSV2pMVFRQUnp3YUNlN1RRQ2VmWVVITTZiUzJwZEJGbWVNUzR5Y0FPaHRZZU5YM0FpQ3Z0UWo1UGI5Tk9BNlNfNUhMMmRGckxhSHBDTzk5RWtsUTM5bGxfTjFkWEp3dF9Mb2RiT1kyNUZINksyTk9KQWt0Tk1qdjNjcjJqOURpUUxKQllTR2M3TC1wRzRLY3Z3N2o?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-07-12T17:50:55+00:00",
+      "timestamp": "2026-07-12T17:50:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -439,18 +504,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=19588d0cb95b21267460e094140542def7016a513c497823c58e78ced7b9bb4e",
       "is_watchlist": true,
       "timestamp": "2026-07-12T17:33:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "3 AI Infrastructure Stocks That Could Double by 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ffbaa6944d7bd941dc5792a13ea6178ef4d61e74e183a52246f9a1c8f4f767c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T17:00:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -481,18 +534,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "A $26.5 Billion Milestone: What SK Hynix\u2019s U.S. Debut Means for the AI Trade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53bcbe0b37410acb963b3fd90963639e663bef87ebd9518fd7e3aacea852b803",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T15:45:38+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -586,17 +627,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-12T12:27:55+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -704,18 +734,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "RYLD: The Rally Is Hiding The Structural Flaws",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1b9d1fac91bb3a50dd936a21e637933cbf8c9da06f19d82200129d7267796087",
-      "is_watchlist": true,
-      "timestamp": "2026-07-12T08:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Jensen Huang's Blue-Collar Millionaire Prediction Lifted Quanta Services' Backlog to $48 Billion",
       "source": "Yahoo",
@@ -752,11 +770,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Costco and Walmart capture grocery-store crowns",
+      "headline": "Pizza chain closing up to 50 locations after years of declines",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/costco-walmart-capture-grocery-store-221534002.html",
+      "url": "https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-11T22:15:34+00:00",
+      "timestamp": "2026-07-12T02:33:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -774,22 +792,59 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T19:00:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Salesforce receives double blow over an AI product",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html",
       "is_watchlist": false,
       "timestamp": "2026-07-11T18:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' \u2014 here are experts takes on buying the dip",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebounded-180000405.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-11T18:00:00+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom Lands $30 Billion Chip Deal With Apple. Why It\u2019s a Win-Win for AAPL and AVGO.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-lands-30-billion-chip-173002657.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T17:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can Colombia\u2019s New Government Reverse the Nation\u2019s Oil and Gas Decline?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/colombia-government-reverse-nation-oil-170000737.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T17:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Just crying' for lower rates: Homebuying and selling have picked up this year \u2014 barely",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/article/just-crying-for-lower-rates-homebuying-and-selling-have-picked-up-this-year--barely-165136773.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T16:51:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -801,6 +856,17 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
       "is_watchlist": false,
       "timestamp": "2026-07-11T16:47:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon Is Spending So Much on AI That Even Its Cash Isn\u2019t Enough. Why Investors Shouldn\u2019t Be Worried.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-spending-much-ai-even-164502983.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-11T16:45:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -826,62 +892,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rollins (ROL) Names William Harkins as CFO Following Kenneth Krause Resignation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rollins-rol-names-william-harkins-142254333.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:22:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cognizant (CTSH) Launches Neuro AI Trust Platform for AI Governance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-launches-neuro-ai-142239147.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:22:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Agnico Eagle Mines (AEM) One of the Best Large Cap Stocks to Buy According to Analysts?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-one-142234470.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:22:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Symbotic (SYM) Acquires ARMS Innovations to Expand Warehouse Optimization",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/symbotic-sym-acquires-arms-innovations-142225115.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:22:25+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AMD Stock Is Up 160% in 2026 and Analysts Still Love It",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-160-2026-analysts-141502071.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-11T14:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1208,17 +1218,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-10T01:33:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "filing",

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-13T01:05:42.564189+00:00",
+  "generated_at": "2026-07-13T04:46:58.580477+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandis...\""
+      "move_reason": "News: \"Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom\""
+      "move_reason": "News: \"Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?\""
     },
     {
       "ticker": "TPL",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism\""
+      "move_reason": "News: \"Reviewing Recent Picks: Winners, Laggards, And Lessons From SpaceX, Meta, Micron, Bloom, A...\""
     }
   ],
   "watchlist": [
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom\""
+      "move_reason": "News: \"Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?\""
     },
     {
       "ticker": "APA",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism\""
+      "move_reason": "News: \"Reviewing Recent Picks: Winners, Laggards, And Lessons From SpaceX, Meta, Micron, Bloom, A...\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandis...\""
+      "move_reason": "News: \"Did Nvidia's 2028 Rack Delay Under Jensen Huang Open a Door for AMD and Google?\""
     },
     {
       "ticker": "OSCR",
