@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-12T23:26:47.676148+00:00",
+  "generated_at": "2026-07-13T01:05:42.564189+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Vanguard ETF That Has Crushed the S&P 500 Over the Last 10 Years\""
+      "move_reason": "News: \"Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandis...\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Infrastructure Stocks That Could Double by 2027\""
+      "move_reason": "News: \"Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom\""
     },
     {
       "ticker": "TPL",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Street Calls of the Week\""
     },
     {
       "ticker": "SOFI",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Trade Desk Stock Lost 52% in the First Half of 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "IWM",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Infrastructure Stocks That Could Double by 2027\""
+      "move_reason": "News: \"Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom\""
     },
     {
       "ticker": "APA",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Stocks Under $50 with Solid Fundamentals and 1 We Brush Off\""
+      "move_reason": "News: \"Uruguay\u2019s Offshore Oil Province Could Be Bigger Than Vaca Muerta\""
     },
     {
       "ticker": "CRWV",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Vanguard ETF That Has Crushed the S&P 500 Over the Last 10 Years\""
+      "move_reason": "News: \"Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandis...\""
     },
     {
       "ticker": "OSCR",
@@ -380,7 +380,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Street Calls of the Week\""
     },
     {
       "ticker": "PWR",
@@ -416,7 +416,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Trade Desk Stock Lost 52% in the First Half of 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "XLE",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
       "score": 5.5,
       "signals": [
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 14.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +3.03% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 14.9 (cheap on absolute basis)"
       ],
