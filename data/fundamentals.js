@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-14T10:13:08.818789+00:00",
+  "generated_at": "2026-07-14T11:46:00.246001+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -12.86,
@@ -94,7 +94,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -77.95,
       "return_52w_low": 14.2,
       "realized_vol_30d_pct": 3.48,
-      "trailing_pe": 22.488638,
+      "trailing_pe": 22.235956,
       "forward_pe": 9.215067,
       "price_to_sales": 3.1334014,
       "price_to_book": 3.7991939,
@@ -178,7 +178,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -21.37,
       "return_52w_low": 99.08,
       "realized_vol_30d_pct": 2.77,
-      "trailing_pe": 7.7910113,
+      "trailing_pe": 8.081585,
       "forward_pe": 8.44905,
       "price_to_sales": 1.4639604,
       "price_to_book": 1.8980618,
@@ -190,7 +190,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.285,
       "market_cap": 12254812160,
       "beta": 0.347,
-      "dividend_yield": 2.99,
+      "dividend_yield": 2.88,
       "short_ratio": 5.51,
       "short_percent_of_float": 0.1173,
       "analyst_recs": {
@@ -232,7 +232,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.184,
       "market_cap": 28205025280,
       "beta": 0.594,
-      "dividend_yield": 0.6,
+      "dividend_yield": 0.59,
       "short_ratio": 8.68,
       "short_percent_of_float": 0.0853,
       "analyst_recs": {
@@ -522,7 +522,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -11.26,
       "return_52w_low": 90.62,
       "realized_vol_30d_pct": 3.95,
-      "trailing_pe": 31.952188,
+      "trailing_pe": 30.512146,
       "forward_pe": 42.37517,
       "price_to_sales": 7.1153646,
       "price_to_book": 20.123917,
@@ -534,7 +534,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 17.681,
       "market_cap": 280167481344,
       "beta": 0.935,
-      "dividend_yield": 0.18,
+      "dividend_yield": 0.19,
       "short_ratio": 3.59,
       "short_percent_of_float": 0.0435,
       "analyst_recs": {
