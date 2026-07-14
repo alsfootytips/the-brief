@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-07-14T00:09:47.273076+00:00",
+  "generated_at": "2026-07-14T03:34:24.550380+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -506,9 +506,9 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 1037.02,
-      "current_pct": -1.43,
-      "change_pct_today": -5.0,
+      "current_price": 1037.2,
+      "current_pct": -1.41,
+      "change_pct_today": -4.98,
       "name": "GE Vernova",
       "news_count": 3,
       "days_elapsed": 62,
@@ -539,9 +539,9 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 643.02,
-      "current_pct": -14.84,
-      "change_pct_today": -2.36,
+      "current_price": 642.69,
+      "current_pct": -14.89,
+      "change_pct_today": -2.41,
       "name": "Quanta Services",
       "news_count": 2,
       "days_elapsed": 62,

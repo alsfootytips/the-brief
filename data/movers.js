@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-14T00:09:47.212078+00:00",
+  "generated_at": "2026-07-14T03:34:24.479139+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"PEDEVCO To Conduct 1-For-20 Reverse Stock Split\""
+      "move_reason": "News: \"Diamondback Energy, APA Corporation, and Talos Energy Stocks Trade Up, What You Need To Kn...\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Texas Pacific Land Corporation Rallied Over 50% in the First Half of 2026\""
+      "move_reason": "News: \"Texas Pacific Land, Crescent Energy, and Noble Corporation Shares Skyrocket, What You Need...\""
     },
     {
       "ticker": "XLE",
@@ -205,14 +205,14 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1037.02,
-      "change_pct": -5.0,
+      "price": 1037.2,
+      "change_pct": -4.98,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The First Publicly Listed Fusion Stock Just Started Trading, and It Did Not Arrive Quietly\""
+      "move_reason": "News: \"Chevron (CVX) Launches AI Data Center Power Venture And Extends Australia Gas Supply\""
     },
     {
       "ticker": "AMD",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Seen Posting Strong Quarter\""
+      "move_reason": "News: \"The whole chip trade is waiting on one report\""
     },
     {
       "ticker": "SOFI",
@@ -248,7 +248,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why USA Rare Earth Stock Rocketed 81% Higher in the First Half of 2026\""
+      "move_reason": "News: \"Famous AI Investor Says This is the \u2018Mega Bull Case\u2019 For Stocks like NVIDIA, Micron, and B...\""
     },
     {
       "ticker": "XLK",
@@ -264,8 +264,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 643.02,
-      "change_pct": -2.36,
+      "price": 642.69,
+      "change_pct": -2.41,
       "volume_ratio": 0.68,
       "is_watchlist": true,
       "is_index": false,
@@ -306,7 +306,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Siren Songs: AI, Inflation, And The Fed's Next Move\""
+      "move_reason": "News: \"Rates Spark: Room For Warsh To Shift The Narrative\""
     },
     {
       "ticker": "XLY",
@@ -364,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Seen Posting Strong Quarter\""
+      "move_reason": "News: \"The whole chip trade is waiting on one report\""
     },
     {
       "ticker": "APA",
@@ -376,7 +376,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"PEDEVCO To Conduct 1-For-20 Reverse Stock Split\""
+      "move_reason": "News: \"Diamondback Energy, APA Corporation, and Talos Energy Stocks Trade Up, What You Need To Kn...\""
     },
     {
       "ticker": "CRWV",
@@ -405,14 +405,14 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1037.02,
-      "change_pct": -5.0,
+      "price": 1037.2,
+      "change_pct": -4.98,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The First Publicly Listed Fusion Stock Just Started Trading, and It Did Not Arrive Quietly\""
+      "move_reason": "News: \"Chevron (CVX) Launches AI Data Center Power Venture And Extends Australia Gas Supply\""
     },
     {
       "ticker": "IWM",
@@ -424,7 +424,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Siren Songs: AI, Inflation, And The Fed's Next Move\""
+      "move_reason": "News: \"Rates Spark: Room For Warsh To Shift The Narrative\""
     },
     {
       "ticker": "NBIS",
@@ -448,7 +448,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why USA Rare Earth Stock Rocketed 81% Higher in the First Half of 2026\""
+      "move_reason": "News: \"Famous AI Investor Says This is the \u2018Mega Bull Case\u2019 For Stocks like NVIDIA, Micron, and B...\""
     },
     {
       "ticker": "OSCR",
@@ -477,8 +477,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 643.02,
-      "change_pct": -2.36,
+      "price": 642.69,
+      "change_pct": -2.41,
       "volume_ratio": 0.68,
       "is_watchlist": true,
       "is_index": false,
@@ -496,7 +496,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Texas Pacific Land Corporation Rallied Over 50% in the First Half of 2026\""
+      "move_reason": "News: \"Texas Pacific Land, Crescent Energy, and Noble Corporation Shares Skyrocket, What You Need...\""
     },
     {
       "ticker": "TTD",
@@ -852,16 +852,16 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1037.02,
-      "change_pct": -5.0,
+      "price": 1037.2,
+      "change_pct": -4.98,
       "score": 4.5,
       "signals": [
-        "Moved -5.00% \u2014 a 1.3\u03c3 move",
+        "Moved -4.98% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)"
       ],
       "reasons": [
-        "Moved -5.00% \u2014 a 1.3\u03c3 move",
+        "Moved -4.98% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)"
       ],
