@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-14T22:50:52.342610+00:00",
+  "generated_at": "2026-07-14T23:27:55.079051+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -18,10 +18,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.14,
-      "price": 18.97,
+      "change_pct": -4.24,
+      "price": 18.95,
       "is_watchlist": true,
-      "timestamp": "2026-07-14T22:50:52.170778+00:00",
+      "timestamp": "2026-07-14T23:27:55.076603+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": 3.92,
-      "price": 211.5,
+      "change_pct": 3.93,
+      "price": 211.52,
       "is_watchlist": true,
-      "timestamp": "2026-07-14T22:50:52.170774+00:00",
+      "timestamp": "2026-07-14T23:27:55.076600+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -42,10 +42,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -6.95,
-      "price": 195.88,
+      "change_pct": -6.56,
+      "price": 196.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-14T22:50:52.170770+00:00",
+      "timestamp": "2026-07-14T23:27:55.076597+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,13 +54,156 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -3.89,
-      "price": 80.07,
+      "change_pct": -3.81,
+      "price": 80.14,
       "is_watchlist": true,
-      "timestamp": "2026-07-14T22:50:52.170755+00:00",
+      "timestamp": "2026-07-14T23:27:55.076585+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Xos Inc For: 14 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-xos-inc-for-14-july-93CH-4792014",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:21:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Xos Inc For: 14 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-xos-inc-for-14-july-93CH-4792013",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:21:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Xos Inc For: 14 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-xos-inc-for-14-july-93CH-4792012",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:21:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Midnight social media curfew proposed for older UK teens",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:17:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan manufacturers stay upbeat on chip demand, services hit by costs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-manufacturers-stay-upbeat-on-chip-demand-services-hit-by-costs-4792008",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:12:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Workday Inc For: 14 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-workday-inc-for-14-july-93CH-4792011",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:11:59+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Artiva Biotherapeutics Inc For: 14 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-artiva-biotherapeutics-inc-for-14-july-93CH-4792010",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:09:21+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Workday chief accounting officer Mark S. Garfield sells $130,530",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/workday-chief-accounting-officer-mark-s-garfield-sells-130530-93CH-4792009",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:08:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Veradermics to present phase 2 hair loss study results Wednesday",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/veradermics-to-present-phase-2-hair-loss-study-results-wednesday-93CH-4792007",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:05:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I changed jobs 10 times in 10 years to get the career I wanted",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:04:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Buy Now Pay Later rules to bring refunds and rejections",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:01:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Heating oil customers to get compensation after price hikes",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T23:00:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kestra expects $137M FY2027 revenue while targeting 70%+ gross margins in the next few years",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4613797-kestra-expects-137m-fy2027-revenue-while-targeting-70-percent-gross-margins-in-the-next-few?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T22:59:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -71,94 +214,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-14T22:46:41+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Sera Prognostics Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-sera-prognostics-inc-for-14-july-93CH-4791997",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:14+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Duolingo Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-duolingo-inc-for-14-july-93CH-4791996",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Duolingo Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-duolingo-inc-for-14-july-93CH-4791995",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Sera Prognostics Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-sera-prognostics-inc-for-14-july-93CH-4791994",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Sera Prognostics Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-sera-prognostics-inc-for-14-july-93CH-4791993",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:07+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Sera Prognostics Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-sera-prognostics-inc-for-14-july-93CH-4791992",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Sera Prognostics Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-sera-prognostics-inc-for-14-july-93CH-4791991",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Sera Prognostics Inc For: 14 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-sera-prognostics-inc-for-14-july-93CH-4791990",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T22:45:06+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -302,17 +357,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Midnight social media curfew proposed for older UK teens",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T21:43:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Nvidia (NVDA) Stock Trades Up, Here Is Why",
       "source": "Yahoo",
@@ -331,17 +375,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-14T21:38:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "J.B. Hunt Transport Services Q2 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4613680-j-b-hunt-transport-services-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T21:35:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -436,18 +469,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-14T21:02:45+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump wants fees for Hormuz just like Iran - is that legal? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3dNNmJQLXczRFNZeWVhc01WeGRBWEpGbGtVejR5X2VIUzVUUHVCUDNIbWxqVElSamZ0ZkhySGtUelhhNVduTUlqc2YzWnl0cnVNbDU0aVd2ZmNBUzNCWUdxanpwbVgzMnBEV2ViTGFVSXZGZ3RUMTBPMEZDbXlVVC1JMHpNT0ltRkx0YXFUQVI5YmUtaGUtOFc1MDVoSHRfTXJ6LQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T21:01:25+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -700,6 +721,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Key witness in US probe of Turkey's Halkbank avoids prison time - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjlSR19PdktfdW5Xa1RWbV9Yd0RKZ0tRZXRabFo4Y3Y1ejYtOFpHdHZvZ2JVb3p3Mi0xOUI4WkVvd21NSFVNU0ljTVRuenB1X1V3UG5Nem93RFBnMncwV0ZLMTFVWGliTUljV0stRFpIdExHZmh0T3Z5Vkc5WlVZSEJMbkplQ245dTd1UHEyZkM1MUo0aGx2d1RjblN1Q3Q0TFNBc1kxSUJIRThzYlE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T17:08:59+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "XLE",
       "headline": "The Big Picture (Video): Inflation And AI Infrastructure Buildout",
       "source": "SeekingAlpha",
@@ -721,17 +753,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Port of Dover works to avoid summer travel chaos",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l8zdn7k6o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T16:42:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -924,17 +945,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "South East Water must pay \u00a330.5m for supply failures",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cevlvxgggxyo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T10:13:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Stephens & Co. Maintains Overweight on Occidental Petroleum, Lowers Price Target to $69",
       "source": "Benzinga",
@@ -1042,17 +1052,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The mysterious crypto firm backed by Farage's biggest donor",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T23:00:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Target's problems aren't what you think they are",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html",
@@ -1122,55 +1121,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Explainer-Europe's digital euro: What it is and how it would work",
+      "headline": "Axon Enterprise's Quarterly Earnings Preview: What You Need to Know",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/explainer-europes-digital-euro-143727060.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprises-quarterly-earnings-preview-150321003.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-13T14:37:27+00:00",
+      "timestamp": "2026-07-13T15:03:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. bank regulators warn firms on lending to undocumented workers",
+      "headline": "Nvidia, Micron, and other chip players are poised to become cash-producing machines",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/u-bank-regulators-warn-firms-143514210.html",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-micron-and-other-chip-players-are-poised-to-become-cash-producing-machines-150232841.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-13T14:35:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SK Hynix Just Sent a Huge AI Demand Signal With Historic U.S. Listing for SKHY Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-just-sent-huge-143505505.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T14:35:05+00:00",
+      "timestamp": "2026-07-13T15:02:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dollar Supported by US-Iran Hostilities",
+      "headline": "$750K vs. $2M vs. $5M net worth: Here\u2019s what changes at each level for US boomers looking to retire",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-us-iran-hostilities-143453248.html",
+      "url": "https://finance.yahoo.com/markets/articles/750k-vs-2m-vs-5m-150000384.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-13T14:34:53+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-13T15:00:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Disappointing Trial Results Hurt Regeneron Pharmaceuticals (REGN) in Q2",
+      "headline": "What Makes HCA Healthcare (HCA) a Compelling Investment Bet?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/disappointing-trial-results-hurt-regeneron-143335859.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-hca-healthcare-hca-compelling-145617464.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-13T14:33:35+00:00",
+      "timestamp": "2026-07-13T14:56:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Upcoming Q2 Earnings for GOOG Stock: Here\u2019s Why Bulls Are Optimistic",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/upcoming-q2-earnings-goog-stock-145603732.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T14:56:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bernstein Cuts AT&T, Verizon, T-Mobile Price Targets Amid Starlink Threat",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/spacex-stock-bernstein-cuts-price-targets-stock-att-stock-verizon-stock-tmobile-stock/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-13T14:54:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1197,17 +1207,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/sk-hynix-stock-falls-leads-broader-chip-sector-declines-as-ai-trade-angst-returns-120751185.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T12:07:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
