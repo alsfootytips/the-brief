@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-15T19:52:04+00:00",
+  "generated_at": "2026-07-15T21:01:03+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -3405,7 +3405,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CAWW",
         "date": "2026-07-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -3413,7 +3413,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CCEL",
         "date": "2026-07-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0,
         "revenue_estimate": 7704060,
         "is_watchlist": false
@@ -3533,7 +3533,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FNGR",
         "date": "2026-07-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
