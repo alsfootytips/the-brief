@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-07-15T15:50:19.389757+00:00",
+  "generated_at": "2026-07-15T17:18:19.736731+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.55,
-      "change_pct_1d": -0.79,
-      "change_pct_1w": 0.22
+      "change_pct_1d": -0.7,
+      "change_pct_1w": 0.31
     },
     "^FVX": {
       "name": "5Y Treasury yield",
       "value": 4.27,
-      "change_pct_1d": -1.23,
-      "change_pct_1w": -0.02
+      "change_pct_1d": -1.27,
+      "change_pct_1w": -0.07
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -21,39 +21,39 @@ window.theBriefMacro = {
     },
     "^TYX": {
       "name": "30Y Treasury yield",
-      "value": 5.07,
-      "change_pct_1d": -0.37,
-      "change_pct_1w": 0.44
+      "value": 5.09,
+      "change_pct_1d": -0.18,
+      "change_pct_1w": 0.63
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 16.09,
-      "change_pct_1d": -2.48,
-      "change_pct_1w": 1.58
+      "value": 16.17,
+      "change_pct_1d": -2.0,
+      "change_pct_1w": 2.08
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4055.7,
-      "change_pct_1d": -0.13,
-      "change_pct_1w": -1.81
+      "value": 4045.1,
+      "change_pct_1d": -0.39,
+      "change_pct_1w": -2.07
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 78.75,
-      "change_pct_1d": -0.74,
-      "change_pct_1w": 9.25
+      "value": 79.15,
+      "change_pct_1d": -0.24,
+      "change_pct_1w": 9.81
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 100.74,
-      "change_pct_1d": -0.2,
-      "change_pct_1w": -0.2
+      "value": 100.61,
+      "change_pct_1d": -0.32,
+      "change_pct_1w": -0.32
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 65443.48,
-      "change_pct_1d": 0.75,
-      "change_pct_1w": 2.57
+      "value": 64984.03,
+      "change_pct_1d": 0.04,
+      "change_pct_1w": 1.85
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 85,
