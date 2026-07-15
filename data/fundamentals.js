@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-15T08:42:59.644675+00:00",
+  "generated_at": "2026-07-15T10:29:58.184832+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -16.5,
@@ -14,7 +14,7 @@ window.theBriefFundamentals = {
       "forward_pe": -62.91268,
       "price_to_sales": 7.003838,
       "price_to_book": 8.936837,
-      "enterprise_to_ebitda": 25.904,
+      "enterprise_to_ebitda": 25.296,
       "profit_margin": -0.25566,
       "gross_margin": 0.69375,
       "operating_margin": -0.069299996,
@@ -274,7 +274,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 2.574,
       "market_cap": 54277214208,
       "beta": 0.15,
-      "dividend_yield": 1.9,
+      "dividend_yield": 1.91,
       "short_ratio": 0.01,
       "short_percent_of_float": 0.0002,
       "analyst_recs": {
@@ -354,7 +354,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -8.01,
       "return_52w_low": 253.57,
       "realized_vol_30d_pct": 5.09,
-      "trailing_pe": 178.54398,
+      "trailing_pe": 182.103,
       "forward_pe": 41.11821,
       "price_to_sales": 23.863434,
       "price_to_book": 13.860217,
@@ -408,7 +408,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 2.106,
       "market_cap": 5130007609344,
       "beta": 2.211,
-      "dividend_yield": 0.49,
+      "dividend_yield": 0.47,
       "short_ratio": 1.9,
       "short_percent_of_float": 0.013300001,
       "analyst_recs": {
@@ -438,7 +438,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -20.21,
       "return_52w_low": 30.49,
       "realized_vol_30d_pct": 2.28,
-      "trailing_pe": 17.46221,
+      "trailing_pe": 17.016996,
       "forward_pe": 15.003172,
       "price_to_sales": 0.6152307,
       "price_to_book": 2.9967573,
@@ -480,7 +480,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -17.63,
       "return_52w_low": 73.76,
       "realized_vol_30d_pct": 2.96,
-      "trailing_pe": 88.479256,
+      "trailing_pe": 90.913345,
       "forward_pe": 40.1254,
       "price_to_sales": 3.2927277,
       "price_to_book": 10.9655905,
