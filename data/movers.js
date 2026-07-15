@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-15T00:53:09.779823+00:00",
+  "generated_at": "2026-07-15T03:58:30.721736+00:00",
   "gainers": [
     {
       "ticker": "NVDA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This\""
+      "move_reason": "News: \"Why IBM Stock Crashed Today\""
     },
     {
       "ticker": "PLTR",
@@ -129,7 +129,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Consumer Price Index: Inflation At 3.5% In June\""
+      "move_reason": "News: \"NFIB Small Business Survey: Optimism Picks Up In June\""
     },
     {
       "ticker": "XLE",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The Big Picture (Video): Inflation And AI Infrastructure Buildout\""
+      "move_reason": "News: \"A Jolt For Energy\""
     },
     {
       "ticker": "SPY",
@@ -283,7 +283,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Occidental Petroleum (OXY) Stock Undervalued Right Now?\""
+      "move_reason": "News: \"How Cheap Is ExxonMobil Stock Once You Look Two Years Out?\""
     },
     {
       "ticker": "APA",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Hidden Winners Inside SCHD - July 2026\""
+      "move_reason": "News: \"APA (APA) Stock Looks Cheap Relative To Its Earnings Power\""
     },
     {
       "ticker": "XLRE",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Hidden Winners Inside SCHD - July 2026\""
+      "move_reason": "News: \"APA (APA) Stock Looks Cheap Relative To Its Earnings Power\""
     },
     {
       "ticker": "CRWV",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Consumer Price Index: Inflation At 3.5% In June\""
+      "move_reason": "News: \"NFIB Small Business Survey: Optimism Picks Up In June\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This\""
+      "move_reason": "News: \"Why IBM Stock Crashed Today\""
     },
     {
       "ticker": "OSCR",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Occidental Petroleum (OXY) Stock Undervalued Right Now?\""
+      "move_reason": "News: \"How Cheap Is ExxonMobil Stock Once You Look Two Years Out?\""
     },
     {
       "ticker": "PWR",
@@ -521,7 +521,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The Big Picture (Video): Inflation And AI Infrastructure Buildout\""
+      "move_reason": "News: \"A Jolt For Energy\""
     }
   ],
   "indices": [
