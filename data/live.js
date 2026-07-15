@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-15T22:52:31.951834+00:00",
+  "generated_at": "2026-07-15T23:13:11.779859+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -3.93,
-      "price": 76.8,
+      "change_pct": -3.75,
+      "price": 76.94,
       "is_watchlist": true,
-      "timestamp": "2026-07-15T22:52:31.697043+00:00",
+      "timestamp": "2026-07-15T23:13:11.776729+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,13 +43,68 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.69,
-      "price": 527.93,
+      "change_pct": -3.56,
+      "price": 528.62,
       "is_watchlist": true,
-      "timestamp": "2026-07-15T22:52:31.697035+00:00",
+      "timestamp": "2026-07-15T23:13:11.776720+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Celebrity influencers paid up to \u00a31m to advertise deodorant on Instagram",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T23:00:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I don\u2019t want to sound callous\u2019: Why base your Social Security claim on life expectancy? We could die at any time.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T23:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Nuvalent Inc For: 15 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-nuvalent-inc-for-15-july-93CH-4794503",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:54:08+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Nuvalent Inc For: 15 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-nuvalent-inc-for-15-july-93CH-4794502",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:51:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "In a Patagonia town with an 85-foot Messi statue, Argentines celebrate advance to World Cup final",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/in-a-patagonia-town-with-an-85foot-messi-statue-argentines-celebrate-advance-to-world-cup-final-4794501",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:49:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -69,12 +124,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Airbus in talks to sell jets to Flynas, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/airbus-in-talks-to-sell-jets-to-flynas-sources-say-4794500",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:48:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vivani Medical at emerging growth conference: implant push gains traction",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/vivani-medical-at-emerging-growth-conference-implant-push-gains-traction-93CH-4794499",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:46:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Trump calls out General Dynamics on submarines amid push on defense contractors",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4614320-trump-calls-out-general-dynamics-on-submarines-amid-push-on-defense-contractors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-15T22:45:37+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Nuvalent Inc For: 15 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-nuvalent-inc-for-15-july-93CH-4794498",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:45:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Nuvalent Inc For: 15 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-nuvalent-inc-for-15-july-93CH-4794497",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:45:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Revive Therapeutics closes first tranche of private placement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/revive-therapeutics-closes-first-tranche-of-private-placement-93CH-4794496",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T22:44:41+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -113,33 +223,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Soccer-Argentina late show sinks England and sets up World Cup final against Spain",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccerholders-argentina-beat-england-21-to-set-up-world-cup-final-against-spain-4794442",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T22:30:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-15T22:25:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 PACS Group For: 15 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-pacs-group-for-15-july-93CH-4794489",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T22:24:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -162,77 +250,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-15T22:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Blanche says he\u2019s not a \u2019yes man\u2019 as he faces criticism over Trump loyalty",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/general-news/blanche-to-face-senate-grilling-in-bid-to-be-trumps-attorney-general-4792668",
-      "is_watchlist": true,
-      "timestamp": "2026-07-15T22:18:50+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: J.B. Hunt tops Q2 2026 estimates, shares jump 7.7%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jb-hunt-tops-q2-2026-estimates-shares-jump-77-93CH-4794488",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T22:18:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Pagerduty Inc For: 15 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-pagerduty-inc-for-15-july-93CH-4794487",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T22:18:09+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 Clover Health Investments For: 15 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-clover-health-investments-for-15-july-93CH-4794486",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T22:18:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin turns marginally lower as soft U.S. Inflation data offset by Iran tensions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-near-65k-as-rate-jitters-ease-iran-tensions-limit-gains-4792215",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T22:17:08+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/tesla-driver-accelerated-into-house-in-fatal-texas-crash-ntsb-says-4794485",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T22:12:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -371,17 +388,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What makes this cyclospora outbreak different \u2014 and why it might not end until August",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-makes-this-cyclospora-outbreak-different-and-why-it-might-not-end-until-august-e54cd0b1?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T21:27:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -701,17 +707,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EasyJet passengers stuck on tarmac for hours when plane couldn't refuel",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T15:31:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1088,77 +1083,81 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Norfolk Southern's Q2 2026 Earnings: What to Expect",
+      "headline": "Exclusive-Data center firm Switch taps banks for IPO that could value it up to $80 billion, sources say",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/norfolk-southerns-q2-2026-earnings-145138213.html",
+      "url": "https://finance.yahoo.com/technology/articles/exclusive-data-center-firm-switch-152221299.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-14T14:51:38+00:00",
+      "timestamp": "2026-07-14T15:22:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Dimon"
+      ],
+      "ticker": null,
+      "headline": "JPMorgan CEO Jamie Dimon says he\u2019s eyeing up book deals and teaching gigs when he steps away from his decades-long career at the banking giant",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-ceo-jamie-dimon-says-152020568.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-14T15:20:20+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Baird Raises PT on Mastercard (MA) Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/baird-raises-pt-mastercard-ma-151614322.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T15:16:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hynix Isn't Selling Shares to Cash Out. It's Funding a $26.5 Billion Factory Bet.",
+      "headline": "Trump Accounts Could Subject Your Kid to a Stock Market Bubble. Here\u2019s a Better Way to Invest.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/hynix-isnt-selling-shares-cash-145000266.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-accounts-could-subject-kid-151541688.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-14T14:50:00+00:00",
+      "timestamp": "2026-07-14T15:15:41+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Baird Raises PT on Visa (V) Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/baird-raises-pt-visa-v-151525394.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-14T15:15:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oracle Stock Crashes to a 52-Week Low. Here\u2019s Why It Might Be Time to Buy.",
+      "headline": "Stocks Supported as Bond Yields Slide on Weak CPI Report",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-crashes-52-week-144952554.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-bond-yields-slide-151520671.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-14T14:49:52+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-07-14T15:15:20+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ericsson\u2019s AI Story Meets a Component Cost Reality Check",
+      "headline": "Bank of America Maintains Buy Rating on Meta Platforms (META) Stock",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ericsson-ai-story-meets-component-144938667.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-maintains-buy-rating-151503359.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-14T14:49:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alexander\u2019s (ALX) Jumped Amid Market Attention",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/alexander-alx-jumped-amid-market-144544713.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T14:45:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Freight Distress Report: Carrier, logistics closures erase over 245 jobs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/freight-distress-report-carrier-logistics-144420684.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T14:44:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Boston Beer Company (SAM) Fell Amid Mixed Short-Term Industry Data",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boston-beer-company-sam-fell-144136736.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-14T14:41:36+00:00",
+      "timestamp": "2026-07-14T15:15:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
