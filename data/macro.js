@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-07-16T17:18:44.346426+00:00",
+  "generated_at": "2026-07-16T18:40:38.296547+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.57,
-      "change_pct_1d": 0.62,
-      "change_pct_1w": 0.09
+      "change_pct_1d": 0.44,
+      "change_pct_1w": -0.09
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.29,
-      "change_pct_1d": 0.89,
-      "change_pct_1w": -0.35
+      "value": 4.28,
+      "change_pct_1d": 0.63,
+      "change_pct_1w": -0.6
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -21,39 +21,39 @@ window.theBriefMacro = {
     },
     "^TYX": {
       "name": "30Y Treasury yield",
-      "value": 5.1,
-      "change_pct_1d": 0.33,
-      "change_pct_1w": 0.57
+      "value": 5.09,
+      "change_pct_1d": 0.22,
+      "change_pct_1w": 0.45
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 16.25,
-      "change_pct_1d": 3.7,
-      "change_pct_1w": 8.12
+      "value": 16.39,
+      "change_pct_1d": 4.59,
+      "change_pct_1w": 9.05
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 3993.5,
-      "change_pct_1d": -1.25,
-      "change_pct_1w": -2.69
+      "value": 3989.7,
+      "change_pct_1d": -1.34,
+      "change_pct_1w": -2.79
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 78.35,
-      "change_pct_1d": -1.57,
-      "change_pct_1w": 9.72
+      "value": 78.33,
+      "change_pct_1d": -1.6,
+      "change_pct_1w": 9.69
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 100.83,
-      "change_pct_1d": 0.33,
-      "change_pct_1w": -0.14
+      "value": 100.78,
+      "change_pct_1d": 0.28,
+      "change_pct_1w": -0.19
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 64127.62,
-      "change_pct_1d": -0.9,
-      "change_pct_1w": 0.58
+      "value": 64062.63,
+      "change_pct_1d": -1.0,
+      "change_pct_1w": 0.48
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 87,
