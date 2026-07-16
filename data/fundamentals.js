@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-15T23:13:11.843915+00:00",
+  "generated_at": "2026-07-16T00:12:06.364486+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -23.3,
@@ -38,8 +38,8 @@ window.theBriefFundamentals = {
         "sell_delta": 0
       },
       "insider_recent_90d": {
-        "buys": 1,
-        "sells": 9,
+        "buys": 0,
+        "sells": 10,
         "total": 10
       }
     },
@@ -94,7 +94,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -78.42,
       "return_52w_low": 11.77,
       "realized_vol_30d_pct": 3.23,
-      "trailing_pe": 22.011364,
+      "trailing_pe": 21.522224,
       "forward_pe": 9.019497,
       "price_to_sales": 3.0669017,
       "price_to_book": 3.718564,
@@ -122,8 +122,8 @@ window.theBriefFundamentals = {
         "sell_delta": 1
       },
       "insider_recent_90d": {
-        "buys": 3,
-        "sells": 7,
+        "buys": 9,
+        "sells": 1,
         "total": 10
       }
     },
@@ -164,8 +164,8 @@ window.theBriefFundamentals = {
         "sell_delta": -1
       },
       "insider_recent_90d": {
-        "buys": 1,
-        "sells": 9,
+        "buys": 4,
+        "sells": 6,
         "total": 10
       }
     },
@@ -182,7 +182,7 @@ window.theBriefFundamentals = {
       "forward_pe": 8.475457,
       "price_to_sales": 1.4470704,
       "price_to_book": 1.8761634,
-      "enterprise_to_ebitda": 3.337,
+      "enterprise_to_ebitda": 3.32,
       "profit_margin": 0.18313,
       "gross_margin": 0.72273004,
       "operating_margin": 0.38487998,
@@ -224,7 +224,7 @@ window.theBriefFundamentals = {
       "forward_pe": 5.654267,
       "price_to_sales": 33.98801,
       "price_to_book": 18.327866,
-      "enterprise_to_ebitda": 41.23,
+      "enterprise_to_ebitda": 40.981,
       "profit_margin": 0.60025,
       "gross_margin": 0.93242997,
       "operating_margin": 0.77222,
@@ -396,7 +396,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -9.75,
       "return_52w_low": 28.81,
       "realized_vol_30d_pct": 2.63,
-      "trailing_pe": 32.592026,
+      "trailing_pe": 32.44275,
       "forward_pe": 16.595171,
       "price_to_sales": 20.304321,
       "price_to_book": 26.332096,
@@ -526,7 +526,7 @@ window.theBriefFundamentals = {
       "forward_pe": 42.884995,
       "price_to_sales": 7.2019014,
       "price_to_book": 20.368664,
-      "enterprise_to_ebitda": 82.455,
+      "enterprise_to_ebitda": 81.611,
       "profit_margin": 0.23809999,
       "gross_margin": 0.20282,
       "operating_margin": 0.05461,
