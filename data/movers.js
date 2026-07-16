@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-16T00:12:06.304799+00:00",
+  "generated_at": "2026-07-16T03:38:38.546957+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -58,7 +58,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Stock Drops Despite Market Gains: Important Facts to Note\""
+      "move_reason": "News: \"Dollar General copies Costco with inflation-proof deal\""
     },
     {
       "ticker": "NBIS",
@@ -97,14 +97,14 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 295.81,
+      "price": 295.82,
       "change_pct": 0.44,
       "volume_ratio": 1.06,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"On The Brink Of Recession; AI Won't Help, But This Will\""
+      "move_reason": "News: \"Producer Price Index: Wholesale Inflation Unexpectedly Falls In June\""
     },
     {
       "ticker": "SPY",
@@ -185,7 +185,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is CoreWeave (CRWV) Cheap After A 43% Drop?\""
+      "move_reason": "News: \"Can CoreWeave Become a $1 Trillion Company?\""
     },
     {
       "ticker": "AMD",
@@ -197,7 +197,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"My 3 Favorite AI Stocks to Buy on the Continued Chip Sell-Off\""
+      "move_reason": "News: \"The Real Risk Inside Marvell Stock\""
     },
     {
       "ticker": "SOFI",
@@ -257,7 +257,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Cheap Is ExxonMobil Stock Once You Look Two Years Out?\""
+      "move_reason": "News: \"Occidental Petroleum (OXY) Stock Slides as Market Rises: Facts to Know Before You Trade\""
     },
     {
       "ticker": "GEV",
@@ -364,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"My 3 Favorite AI Stocks to Buy on the Continued Chip Sell-Off\""
+      "move_reason": "News: \"The Real Risk Inside Marvell Stock\""
     },
     {
       "ticker": "APA",
@@ -388,7 +388,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is CoreWeave (CRWV) Cheap After A 43% Drop?\""
+      "move_reason": "News: \"Can CoreWeave Become a $1 Trillion Company?\""
     },
     {
       "ticker": "DG",
@@ -400,7 +400,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Stock Drops Despite Market Gains: Important Facts to Note\""
+      "move_reason": "News: \"Dollar General copies Costco with inflation-proof deal\""
     },
     {
       "ticker": "GEV",
@@ -417,14 +417,14 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 295.81,
+      "price": 295.82,
       "change_pct": 0.44,
       "volume_ratio": 1.06,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"On The Brink Of Recession; AI Won't Help, But This Will\""
+      "move_reason": "News: \"Producer Price Index: Wholesale Inflation Unexpectedly Falls In June\""
     },
     {
       "ticker": "NBIS",
@@ -448,7 +448,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Predicting Where SpaceX Is Headed by the End of 2026\""
+      "move_reason": "News: \"Can CoreWeave Become a $1 Trillion Company?\""
     },
     {
       "ticker": "OSCR",
@@ -472,7 +472,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Cheap Is ExxonMobil Stock Once You Look Two Years Out?\""
+      "move_reason": "News: \"Occidental Petroleum (OXY) Stock Slides as Market Rises: Facts to Know Before You Trade\""
     },
     {
       "ticker": "PWR",
@@ -537,7 +537,7 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 295.81,
+      "price": 295.82,
       "change_pct": 0.44,
       "volume_ratio": 1.06,
       "is_watchlist": true,
@@ -623,16 +623,6 @@ window.theBriefMovers = {
       "price": 158.29,
       "change_pct": 0.0,
       "volume_ratio": 1.1,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrial Select Sector",
-      "price": 180.06,
-      "change_pct": -0.22,
-      "volume_ratio": 1.22,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -920,16 +910,6 @@ window.theBriefMovers = {
       "change_pct": -0.28,
       "price": 50.5,
       "watchlist_members": []
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrial Select Sector",
-      "change_pct": -0.22,
-      "price": 180.06,
-      "watchlist_members": [
-        "PWR",
-        "GEV"
-      ]
     },
     {
       "ticker": "XLRE",
