@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-17T22:41:29.081009+00:00",
+  "generated_at": "2026-07-17T22:51:29.247675+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -44,13 +44,101 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 4.15,
-      "price": 178.9,
+      "change_pct": 4.21,
+      "price": 179.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-17T22:41:28.917110+00:00",
+      "timestamp": "2026-07-17T22:51:29.245109+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cuban dissident artist to go into exile in US after five years in prison",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/cuban-dissident-artist-to-go-into-exile-in-us-after-five-years-in-prison-4799446",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:43:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Factbox-US companies face rise in cyber attacks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/factboxus-companies-face-rise-in-cyber-attacks-4797809",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:43:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corcept Therapeutics director Wilson sells $882,985 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-director-wilson-sells-882985-in-common-stock-93CH-4799445",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:42:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top US prosecutor will not dispute DOJ decision to drop Indian tycoon Gautam Adani\u2019s criminal case",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/top-us-prosecutor-will-not-dispute-doj-decision-to-drop-indian-tycoon-gautam-adanis-criminal-case-4799444",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:42:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Corcept Therapeutics Incorporated For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-corcept-therapeutics-incorporated-for-17-july-93CH-4799443",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:40:42+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Kratos Defense & Security Solutions For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-kratos-defense--security-solutions-for-17-july-93CH-4799442",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:39:50+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corcept Therapeutics CFO Mokari sells $3.5m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-cfo-mokari-sells-35m-in-shares-93CH-4799441",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:37:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kratos SVP Marie Mendoza sells $52,463 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kratos-svp-marie-mendoza-sells-52463-in-company-stock-93CH-4799440",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:36:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -66,28 +154,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kratos Defense president Phillip Carrai sells $329,105 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kratos-defense-president-phillip-carrai-sells-329105-in-stock-93CH-4799432",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:28:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 RADCOM LTD For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-radcom-ltd-for-17-july-93CH-4799431",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:27:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Fifth Third outlines $8.74B-$8.80B 2026 NII outlook ahead of Labor Day conversion",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4615095-fifth-third-outlines-8_74b-8_80b-2026-nii-outlook-ahead-of-labor-day-conversion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -95,77 +161,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-17T22:27:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 BlackRock Inc For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-blackrock-inc-for-17-july-93CH-4799430",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:26:36+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin flat for the week as rate concerns, Iran tensions offset inflation data",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-63k-as-rate-jitters-iran-tensions-weigh-4797477",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:26:08+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BlackRock CLO Christopher Meade sells $19.9m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/blackrock-clo-christopher-meade-sells-199m-in-company-stock-93CH-4799429",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:21:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 Crowdstrike Holdings For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-crowdstrike-holdings-for-17-july-93CH-4799428",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:21:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Smoke, fire, floods: US faces triple extreme summer weather threats",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/smoke-fire-floods-us-faces-triple-extreme-summer-weather-threats-4798952",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:18:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "US judge says Trump administration cannot revoke grants that conflict with its priorities",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-administration-cannot-cancel-grants-for-disfavored-causes-us-judge-rules-4799195",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T22:18:27+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -187,6 +182,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-17T22:14:04+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The White House is dictating access to frontier AI models, shifting power from tech giants",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:04:48+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -535,17 +541,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-17T19:45:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T19:38:06+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1085,78 +1080,89 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Starbucks spends $400 million a year on software \u2014 now it's using AI to build its own and cut out the middleman",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/starbucks-spends-400-million-software-153043217.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T15:30:43+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "You May Not Know ASE Technology, But the Chip Stock Has Nearly Quadrupled",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/may-not-know-ase-technology-153003992.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T15:30:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michael Saylor\u2019s Bitcoin Treasury Company Strategy Is Falling Apart",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-bitcoin-treasury-company-152908593.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T15:29:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Key Role in AI Infrastructure Buildout Bolsters Astera Labs (ALAB) in Q2",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/key-role-ai-infrastructure-buildout-152842779.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T15:28:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bank of Nova Scotia discloses 7.7% TeraWulf stake and 5.62% CleanSpark position",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-nova-scotia-discloses-7-152745422.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T15:27:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here's Why Plug Power Stock Soared 37.6% in the First Half of 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-plug-power-stock-152721480.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T15:27:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Western Digital Corporation (WDC) Jumped Following the Earnings Beat",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-jumped-152602385.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T15:26:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/increasing-demand-ai-computing-power-152424776.html",
       "is_watchlist": false,
       "timestamp": "2026-07-16T15:24:24+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netflix (NFLX) Slid in Q2 Despite Strong Results",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-q2-despite-152104641.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:21:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks Mixed as Weakness in Chipmakers Weighs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-weakness-chipmakers-weighs-152053893.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:20:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SK Hynix: The Memory Supercycle Still Has Legs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-memory-supercycle-still-152000953.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Investors\u2019 Skepticism Over Rapid Transitions Weighed on IREN Limited (IREN) in Q2",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-skepticism-over-rapid-transitions-151938161.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:19:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin hashrate falls 6.3% as mining capital shifts toward AI",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hashrate-falls-6-3-151836693.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:18:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "QXO (QXO) Struggled in the Softer Market",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qxo-qxo-struggled-softer-market-151126989.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:11:26+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1170,17 +1176,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s Why Credo Technology Group Holding Ltd (CRDO) is on the Detector List of the Fund",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-credo-technology-group-holding-150632997.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:06:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
