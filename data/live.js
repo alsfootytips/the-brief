@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-17T20:56:06.547297+00:00",
+  "generated_at": "2026-07-17T21:54:25.522354+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -44,10 +44,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 3.73,
-      "price": 178.17,
+      "change_pct": 3.48,
+      "price": 177.75,
       "is_watchlist": true,
-      "timestamp": "2026-07-17T20:56:06.544191+00:00",
+      "timestamp": "2026-07-17T21:54:25.519302+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,24 +55,219 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Xencor advances 17% after revealing ESMO 2026 oral presentation slot",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615067-xencor-advances-17-after-revealing-esmo-2026-oral-presentation-slot?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Sezzle CFO Brading Lee Dickson sells $1.95 million in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sezzle-cfo-brading-lee-dickson-sells-195-million-in-company-stock-93CH-4799350",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T20:50:44+00:00",
+      "timestamp": "2026-07-17T21:45:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. drilling rig count rises again in Baker Hughes survey",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615066-u-s-drilling-rig-count-rises-again-in-baker-hughes-survey?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Form 4 Xos Inc For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-xos-inc-for-17-july-93CH-4799349",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T20:50:08+00:00",
+      "timestamp": "2026-07-17T21:45:15+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Xos Inc For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-xos-inc-for-17-july-93CH-4799348",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:45:09+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Republic Services Inc For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-republic-services-inc-for-17-july-93CH-4799347",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:45:08+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Republic Services Inc For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-republic-services-inc-for-17-july-93CH-4799346",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:45:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "19 (mostly) tech stocks that have fallen at least 25% in July",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Cadence Design Systems Inc For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-cadence-design-systems-inc-for-17-july-93CH-4799345",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:44:15+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World stocks fall in semiconductor rout; oil rises on Middle East escalation",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/stocks-stumble-oil-set-for-weekly-gain-on-renewed-gulf-hostilities-4797335",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:43:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Champion Electric Metals restores Jonathan Buick as CEO, names new CFO",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615091-champion-electric-metals-restores-jonathan-buick-as-ceo-names-new-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:43:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump Media pitched $100,000 monthly fee for fastest feed of US president\u2019s posts, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trump-media-pitched-100000-monthly-fee-for-fast-feed-of-us-presidents-posts-ft-reports-4798840",
+      "is_watchlist": true,
+      "timestamp": "2026-07-17T21:43:19+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Digital Brands Group to implement 1-for-40 reverse stock split to comply with Nasdaq rules",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615089-digital-brands-group-to-implement-1-for-40-reverse-stock-split-to-comply-with-nasdaq-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:41:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold reclaims $4,000 but falls for the week as U.S.-Iran flare-up fuels rate-hike bets",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615074-gold-reclaims-4000-but-falls-for-the-week-as-us-iran-flare-up-fuels-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:25:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How your winning stock-index fund can turn on a dime",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-your-winning-stock-index-fund-can-turn-on-a-dime-e2e4b44e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:23:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exodus Movement cuts 25% workforce to streamline costs and payments integration",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615088-exodus-movement-cuts-25-workforce-to-streamline-costs-and-payments-integration?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:21:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Raytheon secures $309.5M U.S. Space Force radar modernization agreement",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615087-raytheon-secures-3095m-us-space-force-radar-modernization-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:16:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bank of America Corporation 4.250% DP PFD QQ declares $0.2656 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615086-bank-of-america-corporation-4_250-percent-dp-pfd-qq-declares-0_2656-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:16:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bank of America Corporation 5% NCUM PFD LL declares $0.3125 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615085-bank-of-america-corporation-5-percent-ncum-pfd-ll-declares-0_3125-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:16:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Look on the bright side: Energy companies are booming",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:08:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-17T21:00:54+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -88,181 +283,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
+      "headline": "The cyclosporiasis outbreak linked to Taco Bell is hitting some restaurant stocks, but don't expect a long-term impact",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+      "url": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T20:48:35+00:00",
+      "timestamp": "2026-07-17T20:48:56+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hyperscale Data, Inc. 13% CUM RED PFD declares $0.2708 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615071-hyperscale-data-inc-13-percent-cum-red-pfd-declares-0_2708-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:46:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "J. M. Smucker raises quarterly dividend by 1.8% to  $1.12/share",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615069-j-m-smucker-raises-quarterly-dividend-by-18-to-112share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:40:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pepsico declares $1.48 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615068-pepsico-declares-1_48-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:38:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CN Energy gets Nasdaq notice over minimum bid price rule",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615063-cn-energy-gets-nasdaq-notice-over-minimum-bid-price-rule?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:36:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canadian wildfires and air advisories will dampen park attendance \u2014 Citi Research",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615043-canadian-wildfires-and-air-advisories-will-dampen-park-attendance-citi-research?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:35:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
+      "headline": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/iran-war-iraq-syria-oil-pipeline-strait-hormuz.html",
+      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T20:33:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T20:31:56+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CareDx CEO John Hanna sells $4.46m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/caredx-ceo-john-hanna-sells-446m-in-company-stock-93CH-4799116",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:28:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Adobe Systems Incorporated For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-adobe-systems-incorporated-for-17-july-93CH-4799115",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:27:25+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 The Ensign Group Inc For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-the-ensign-group-inc-for-17-july-93CH-4799114",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:27:24+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Adobe Systems Incorporated For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-adobe-systems-incorporated-for-17-july-93CH-4799113",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:27:17+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Rpm Intl Inc For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-rpm-intl-inc-for-17-july-93CH-4799112",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:27:16+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Edgewise Therapeutics Inc For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-edgewise-therapeutics-inc-for-17-july-93CH-4799111",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:27:16+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 MORGAN STANLEY For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-morgan-stanley-for-17-july-93CH-4799110",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:27:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 Clover Health Investments For: 17 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-clover-health-investments-for-17-july-93CH-4799109",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:27:15+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-07-17T20:48:35+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -461,28 +498,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:27:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -496,17 +511,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to find the best mortgage rate \u2014 it could save you $3,300 a year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-find-the-best-mortgage-rate-it-could-save-you-3-300-a-year-e973e520?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:19:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -741,7 +745,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "EXCLUSIVE: Pakistan and Kuwait discuss expanded defence pact, sources say - Reuters",
+      "headline": "Pakistan and Kuwait discuss expanded defence pact, sources say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHZvMDI1eHV5d0EwekZYSTVrdmU0VDVpR1o0V2hqUlFkcXBxR0xUSFEtak9UdVdVNEtmenkxYVFfeXNtQlc0TGVHSXZZd2gwNlEtRkNya0JuclAwV2llWS1jVjRnUldaWWF5WEZhcFJzal8yV3M5MUhKMldHa2lGNjNTS2c2OGxCTjN0YzVSejVrdy1jTUx1LVUzVmRMeVdnX3NYWUQ4SXhYSjNvM2J4NDBB?oc=5",
       "is_watchlist": false,
@@ -1091,6 +1095,83 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Williams Is No AI Pipe Dream. The Stock Is a Winner.",
+      "source": "Yahoo Finance",
+      "url": "https://www.barrons.com/articles/buy-williams-stock-price-pick-e060a346?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T14:26:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brown-Forman faces big questions as CEO prepares for exit",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-faces-big-questions-104545799.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T14:22:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strong Results Reinforce Micron Technology\u2019s (MU) Importance in AI Infrastructure Buildout",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/strong-results-reinforce-micron-technology-142159581.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T14:21:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Short sellers notch $8.7 billion profit as SpaceX shares dip to IPO price",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/short-sellers-rack-8-7-141800051.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T14:18:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Seagate Technology Holdings plc (STX) Returned 100% on Strong Execution",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-141657411.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T14:16:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Market Overlooked Spotify Technology S.A. (SPOT) Despite Robust Results",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-overlooked-spotify-technology-spot-141246818.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T14:12:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stocks Pressured by a Renewed Selloff in Chipmakers",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-renewed-selloff-chipmakers-140730200.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-16T14:07:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "DG",
       "headline": "Is Costco Stock Still a Buy After Its June Sales Update?",
       "source": "Yahoo",
@@ -1104,11 +1185,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018Portfolios are becoming much riskier\u2019: How to make defensive investments before the AI bubble pops",
+      "headline": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/portfolios-becoming-much-riskier-defensive-111000269.html",
+      "url": "https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T11:10:00+00:00",
+      "timestamp": "2026-07-16T11:31:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1126,83 +1207,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Retirement Plan Problem Most Couples Don't See Coming",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/etfs-and-funds/retirement/retirement-plan-problem-most-couples-dont-see-coming/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T11:00:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alternatives ETFs Punching Above Their Weight in 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/alternatives-etfs-punching-above-weight-110050229.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T11:00:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "After Satya Nadella's 'Pay Twice' Warning, Mark Cuban Says AI Is Making Patents Less Valuable, Trade Secrets More Important",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/satya-nadellas-pay-twice-warning-110019135.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T11:00:19+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron Technology Bear Call Spread Could Net\u00a016% in Five Weeks",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/micron-technology-bear-call-spread-110002881.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T11:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Save Mart, Lucky roll out their largest-ever fuel discount",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/save-mart-lucky-roll-largest-110000431.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T11:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Assurant\u2019s Quarterly Earnings Preview: What You Need to Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assurant-quarterly-earnings-preview-know-105926969.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T10:59:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US probes Samsung for alleged infringement of Netlist's memory-chip patents",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/us-probes-samsung-alleged-infringement-105613259.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T10:56:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
