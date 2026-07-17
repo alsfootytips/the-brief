@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-07-17T00:13:00.529224+00:00",
+  "generated_at": "2026-07-17T03:40:35.643564+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -165,9 +165,9 @@ window.theBriefPicks = {
       "status": "expired",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 57.09,
-      "current_pct": -1.09,
-      "change_pct_today": 1.05,
+      "current_price": 57.06,
+      "current_pct": -1.14,
+      "change_pct_today": 0.99,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 28,
@@ -802,9 +802,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 415.81,
-      "current_pct": -3.41,
-      "change_pct_today": 0.57,
+      "current_price": 417.58,
+      "current_pct": -3.0,
+      "change_pct_today": 1.0,
       "name": "Texas Pacific Land",
       "news_count": 2,
       "days_elapsed": 16,

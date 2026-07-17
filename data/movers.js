@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-17T00:13:00.456182+00:00",
+  "generated_at": "2026-07-17T03:40:35.593732+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -59,10 +59,22 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 417.58,
+      "change_pct": 1.0,
+      "volume_ratio": 0.93,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"3 Market-Beating Stocks for Long-Term Investors\""
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 57.09,
-      "change_pct": 1.05,
+      "price": 57.06,
+      "change_pct": 0.99,
       "volume_ratio": 0.8,
       "is_watchlist": true,
       "is_index": false,
@@ -80,18 +92,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 415.81,
-      "change_pct": 0.57,
-      "volume_ratio": 0.93,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"3 Market-Beating Stocks for Long-Term Investors\""
     },
     {
       "ticker": "XLU",
@@ -173,7 +173,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Group Rolls Out Echo AI Agent, Cloud Controls in Investor Update\""
+      "move_reason": "News: \"Nebius lands $1 billion AI deal as one major risk looms\""
     },
     {
       "ticker": "CRWV",
@@ -185,7 +185,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Sinks 13% as the Neocloud Trade Unravels; How CoreWeave, IREN, and the AI Data Cent...\""
+      "move_reason": "News: \"MU Stock Alert: What to Know as Micron Teams Up With Qualcomm\""
     },
     {
       "ticker": "AMD",
@@ -221,7 +221,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top 3 Construction Stocks For The AI Data Center Buildout\""
+      "move_reason": "News: \"Quanta Services (PWR) Suffers a Larger Drop Than the General Market: Key Insights\""
     },
     {
       "ticker": "SOFI",
@@ -245,7 +245,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s Rubin reassurance protects a much bigger AI bet\""
+      "move_reason": "News: \"Andy Jassy Says Amazon's Chip Business Already Has $225 Billion in Commitments\""
     },
     {
       "ticker": "GEV",
@@ -375,7 +375,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Sinks 13% as the Neocloud Trade Unravels; How CoreWeave, IREN, and the AI Data Cent...\""
+      "move_reason": "News: \"MU Stock Alert: What to Know as Micron Teams Up With Qualcomm\""
     },
     {
       "ticker": "DG",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Group Rolls Out Echo AI Agent, Cloud Controls in Investor Update\""
+      "move_reason": "News: \"Nebius lands $1 billion AI deal as one major risk looms\""
     },
     {
       "ticker": "NVDA",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s Rubin reassurance protects a much bigger AI bet\""
+      "move_reason": "News: \"Andy Jassy Says Amazon's Chip Business Already Has $225 Billion in Commitments\""
     },
     {
       "ticker": "OSCR",
@@ -471,13 +471,13 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top 3 Construction Stocks For The AI Data Center Buildout\""
+      "move_reason": "News: \"Quanta Services (PWR) Suffers a Larger Drop Than the General Market: Key Insights\""
     },
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 415.81,
-      "change_pct": 0.57,
+      "price": 417.58,
+      "change_pct": 1.0,
       "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": false,
@@ -500,8 +500,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 57.09,
-      "change_pct": 1.05,
+      "price": 57.06,
+      "change_pct": 0.99,
       "volume_ratio": 0.8,
       "is_watchlist": true,
       "is_index": false,
@@ -587,8 +587,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 57.09,
-      "change_pct": 1.05,
+      "price": 57.06,
+      "change_pct": 0.99,
       "volume_ratio": 0.8,
       "is_watchlist": true,
       "is_index": false,
@@ -834,8 +834,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 415.81,
-      "change_pct": 0.57,
+      "price": 417.58,
+      "change_pct": 1.0,
       "score": 4.5,
       "signals": [
         "2 news items in the last 3 days",
@@ -967,8 +967,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 1.05,
-      "price": 57.09,
+      "change_pct": 0.99,
+      "price": 57.06,
       "watchlist_members": [
         "APA",
         "TPL",
