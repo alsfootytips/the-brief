@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-17T22:51:29.247675+00:00",
+  "generated_at": "2026-07-17T23:53:31.558485+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -44,10 +44,22 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 4.21,
-      "price": 179.0,
+      "change_pct": 3.51,
+      "price": 177.8,
       "is_watchlist": true,
-      "timestamp": "2026-07-17T22:51:29.245109+00:00",
+      "timestamp": "2026-07-17T23:53:31.555273+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "APA",
+      "name": "APA Corp",
+      "change_pct": 3.23,
+      "price": 35.39,
+      "is_watchlist": true,
+      "timestamp": "2026-07-17T23:53:31.555257+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,88 +67,159 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cuban dissident artist to go into exile in US after five years in prison",
+      "headline": "Form 144 Toppoint Holdings Inc. For: 17 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/cuban-dissident-artist-to-go-into-exile-in-us-after-five-years-in-prison-4799446",
+      "url": "https://www.investing.com/news/filings/form-144-toppoint-holdings-inc-for-17-july-93CH-4799486",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T22:43:22+00:00",
+      "timestamp": "2026-07-17T23:39:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Factbox-US companies face rise in cyber attacks",
+      "headline": "Federal employees can download TikTok on government devices, DOJ says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/factboxus-companies-face-rise-in-cyber-attacks-4797809",
+      "url": "https://www.investing.com/news/economy-news/federal-employees-can-download-tiktok-on-government-devices-doj-says-4799480",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T22:43:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-07-17T23:36:23+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Corcept Therapeutics director Wilson sells $882,985 in common stock",
+      "headline": "Is AI now the main driver of China\u2019s growth?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-director-wilson-sells-882985-in-common-stock-93CH-4799445",
+      "url": "https://www.investing.com/news/economy-news/is-ai-now-the-main-driver-of-chinas-growth-4799485",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T22:42:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top US prosecutor will not dispute DOJ decision to drop Indian tycoon Gautam Adani\u2019s criminal case",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/top-us-prosecutor-will-not-dispute-doj-decision-to-drop-indian-tycoon-gautam-adanis-criminal-case-4799444",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:42:36+00:00",
+      "timestamp": "2026-07-17T23:34:44+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Corcept Therapeutics Incorporated For: 17 July",
+      "headline": "Form 4 Remitly Global Inc For: 17 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-corcept-therapeutics-incorporated-for-17-july-93CH-4799443",
+      "url": "https://www.investing.com/news/filings/form-4-remitly-global-inc-for-17-july-93CH-4799484",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T22:40:42+00:00",
+      "timestamp": "2026-07-17T23:31:51+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Kratos Defense & Security Solutions For: 17 July",
+      "headline": "Form 4 Exponent Inc For: 17 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-kratos-defense--security-solutions-for-17-july-93CH-4799442",
+      "url": "https://www.investing.com/news/filings/form-4-exponent-inc-for-17-july-93CH-4799483",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T22:39:50+00:00",
+      "timestamp": "2026-07-17T23:31:40+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Corcept Therapeutics CFO Mokari sells $3.5m in shares",
+      "headline": "Form 4 Adaptive Biotechnologies Corp For: 17 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-cfo-mokari-sells-35m-in-shares-93CH-4799441",
+      "url": "https://www.investing.com/news/filings/form-4-adaptive-biotechnologies-corp-for-17-july-93CH-4799482",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T22:37:06+00:00",
+      "timestamp": "2026-07-17T23:31:21+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Remitly Global Inc For: 17 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-remitly-global-inc-for-17-july-93CH-4799481",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T23:31:19+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Remitly global director Joshua Hug sells $17.2 million of common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/remitly-global-director-joshua-hug-sells-172-million-of-common-stock-93CH-4799479",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T23:28:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kratos SVP Marie Mendoza sells $52,463 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kratos-svp-marie-mendoza-sells-52463-in-company-stock-93CH-4799440",
+      "headline": "U.S. crude climbs 15% this week as U.S.-Iran attacks escalate, Red Sea shutdown fears rise",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615094-us-crude-climbs-15-this-week-as-us-iran-attacks-escalate-red-sea-shutdown-fears-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T22:36:50+00:00",
+      "timestamp": "2026-07-17T23:21:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T23:18:35+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T23:10:07+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-17T23:08:24+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T23:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX postponed a crucial launch \u2014 and its stock went on to close below IPO price for second day",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T22:55:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -182,17 +265,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-17T22:14:04+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The White House is dictating access to frontier AI models, shifting power from tech giants",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:04:48+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -322,17 +394,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Exodus Movement cuts 25% workforce to streamline costs and payments integration",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615088-exodus-movement-cuts-25-workforce-to-streamline-costs-and-payments-integration?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T21:21:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Jim Cramer Says Semiconductor Stocks Are \u201cGoing Down.\u201d Buy These 2 Dividend Stocks Instead",
       "source": "Yahoo",
@@ -403,21 +464,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T21:00:54+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Chip stocks have entered a bear market. A BofA analyst says not to panic.",
@@ -462,17 +508,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T20:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -535,17 +570,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T19:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "China signals possible return of U.S. trade privileges for Hong Kong",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
@@ -575,21 +599,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-17T18:44:30+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T18:20:37+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1080,89 +1089,78 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Starbucks spends $400 million a year on software \u2014 now it's using AI to build its own and cut out the middleman",
+      "headline": "A $3 Billion Reason to Buy Tower Semiconductor Stock Here",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/starbucks-spends-400-million-software-153043217.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-billion-reason-buy-tower-164532227.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T15:30:43+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "You May Not Know ASE Technology, But the Chip Stock Has Nearly Quadrupled",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/may-not-know-ase-technology-153003992.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T15:30:03+00:00",
+      "timestamp": "2026-07-16T16:45:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Michael Saylor\u2019s Bitcoin Treasury Company Strategy Is Falling Apart",
+      "headline": "Meta's data center plans could help solve its AI spending problems",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-bitcoin-treasury-company-152908593.html",
+      "url": "https://finance.yahoo.com/technology/article/metas-data-center-plans-could-help-solve-its-ai-spending-problems-164031347.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T15:29:08+00:00",
+      "timestamp": "2026-07-16T16:40:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Key Role in AI Infrastructure Buildout Bolsters Astera Labs (ALAB) in Q2",
+      "headline": "U.S. Dollar Moves Higher As Retail Sales Meet Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/key-role-ai-infrastructure-buildout-152842779.html",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/u-dollar-moves-higher-retail-163721084.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T15:28:42+00:00",
+      "timestamp": "2026-07-16T16:37:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bank of Nova Scotia discloses 7.7% TeraWulf stake and 5.62% CleanSpark position",
+      "headline": "\u2018The only true one-and-done asset\u2019 \u2014 here\u2019s the passive income gig one investor says can net you $40,000 per month",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-nova-scotia-discloses-7-152745422.html",
+      "url": "https://finance.yahoo.com/real-estate/articles/only-true-one-done-asset-163500658.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T15:27:45+00:00",
+      "timestamp": "2026-07-16T16:35:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here's Why Plug Power Stock Soared 37.6% in the First Half of 2026",
+      "headline": "Why Uber\u2019s Biggest Deal Yet Could Unlock Its Next Growth Phase",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-plug-power-stock-152721480.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-uber-biggest-deal-yet-163500445.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T15:27:21+00:00",
+      "timestamp": "2026-07-16T16:35:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Western Digital Corporation (WDC) Jumped Following the Earnings Beat",
+      "headline": "Visa Launches Stablecoin Platform for Minting, Wallets and Payments",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-jumped-152602385.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/visa-launches-stablecoin-platform-minting-162300938.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T15:26:02+00:00",
+      "timestamp": "2026-07-16T16:23:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2",
+      "headline": "AI Internet Hyperscalers: Why Wedbush Prefers Google And Amazon To Meta",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/increasing-demand-ai-computing-power-152424776.html",
+      "url": "https://www.investors.com/news/technology/amazon-stock-meta-google-wedbush-ai-hypscalers/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-07-16T15:24:24+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-16T16:21:42+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1397,6 +1395,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX stock is falling. What investors should do next.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-is-falling-what-investors-should-do-next-141704338.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-17T14:17:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };
