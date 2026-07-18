@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-18T11:30:43.191025+00:00",
+  "generated_at": "2026-07-18T12:31:02.014853+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T11:30:43.187963+00:00",
+      "timestamp": "2026-07-18T12:31:02.011515+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,10 +59,177 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T11:30:43.187947+00:00",
+      "timestamp": "2026-07-18T12:31:02.011499+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. is reportedly weighing a proposal to form Finra-like agency to review AI models",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615098-us-is-looking-form-finra-agency-review-ai-models?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:14:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bloom Energy\u2019s AI Data Center Growth Story Is Starting to Crack",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-ai-data-center-121408154.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:14:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HDFC Bank Q1 FY27 slides: deposit growth strong, margins under pressure",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/hdfc-bank-q1-fy27-slides-deposit-growth-strong-margins-under-pressure-93CH-4799615",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:08:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Datadog-related sales trended higher in Q2 but softer customer sentiment ahead: BNP Paribas",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4614569-datadog-related-sales-trended-higher-in-q2-but-softer-customer-sentiment-ahead-bnp-paribas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft's upcoming earnings should show revenue and capex accelerations: BNP Paribas",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615059-microsofts-upcoming-earnings-should-show-revenue-and-capex-accelerations-bnp-paribas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Spain\u2019s World Cup winner Capdevila seeks Trump\u2019s help after US entry denial",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccerspains-world-cup-winner-capdevila-seeks-trumps-help-after-us-entry-denial-4799613",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:08+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How a homegrown Chinese chip maker became the memory industry\u2019s biggest wild card",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-homegrown-chinese-chip-maker-became-the-memory-industrys-biggest-wild-card-c3f603af?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/forget-gasoline-why-the-price-surge-in-this-under-the-radar-fuel-is-the-real-threat-to-the-u-s-economy-710b9470?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This may be the real reason USDA made a huge revision to its beef-export sales data",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-may-be-the-real-reason-usda-made-a-huge-revision-to-its-beef-export-sales-data-8abfba78?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: HDFC Bank posts modest Q1 2026 growth as margins narrow",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hdfc-bank-posts-modest-q1-2026-growth-as-margins-narrow-93CH-4799612",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T11:57:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T11:45:35+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T11:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran renews attacks on Gulf states after another night of US strikes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T11:42:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T11:31:03+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ICICI Bank Q1 profit jumps 16% as bad-loan provisions fall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/icici-bank-q1-profit-jumps-16-as-badloan-provisions-fall-4799606",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T11:26:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -85,6 +252,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-18T11:24:54+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Dividend Stocks to Buy and Hold for the Next 5 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=780ac7fdf3a9c9ed78dcc7320c36a95944e383b60304554e278ad0d3434c1058",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T11:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -132,69 +311,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T11:10:25+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Integra LifeSciences Fair Value call delivers 73% gain in 12 months",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/investment-ideas/integra-lifesciences-fair-value-call-delivers-73-gain-in-12-months-93CH-4799595",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T11:09:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Kotak Mahindra Bank posts strong q1 2026 profit growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kotak-mahindra-bank-posts-strong-q1-2026-profit-growth-93CH-4799588",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T11:03:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Punjab National Bank posts steady Q1 2026 profit, shares rise",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-punjab-national-bank-posts-steady-q1-2026-profit-shares-rise-93CH-4799587",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T11:03:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HDFC Bank Q1 profit rises 5% on loan growth, stable asset quality",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/hdfc-bank-q1-profit-rises-5-on-loan-growth-stable-asset-quality-4799586",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T11:02:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "how Fair Value analysis predicted Ivanhoe Electric\u2019s 50% drop",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/investment-ideas/how-fair-value-analysis-predicted-ivanhoe-electrics-50-drop-93CH-4799585",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T11:02:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "History Says Buying Chip Stocks After a 20% Drawdown Has Usually Worked in This Cycle. Will It Work Again?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81198598bb83481b717791df01a36986587608426595d1eae4681df7086fead8",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T11:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -246,36 +371,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Warren Buffett's Top Rule for Dealing With a Stock Market Crash",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff72a89b2c79aa954234a15fa22989135ce073a99d15649c16d2ca46b47bab24",
+      "ticker": "IWM",
+      "headline": "AI Pullback: Bubble Pop Or Buy The Dip? I Say Neither",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9b333e9162648ca97098d576b30b3d5d450d24ede491e7e2a9799f342eb664df",
       "is_watchlist": true,
-      "timestamp": "2026-07-18T09:37:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: SpaceX Stock Could Be Worth $5 Trillion or More If This 1 Thing Happens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57520d180a6558b225b079fc09d9a919dff8e5f1e7139549359f87d49977199d",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T09:35:00+00:00",
+      "timestamp": "2026-07-18T08:15:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cacd388d69f70d2ee0afa16e82d1248f99b8eb99a7780ac2264404bc9bcba0d9",
+      "ticker": "IWM",
+      "headline": "Weekly Indicators: All Timeframes Positive Despite Increase In Oil Prices",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c283490d45a003f0345212b4813f22519548a8d972a60aed56724e847bd522cc",
       "is_watchlist": true,
-      "timestamp": "2026-07-18T09:00:00+00:00",
+      "timestamp": "2026-07-18T08:00:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -318,36 +431,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Strong Earnings And A Goldilocks Economy Backstop Markets",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0070516899a7a7e36fd356e52f90921d4d993ca39074696b3d7089455fab5a3c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T05:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink Its Plans with Crude Prices Now Up 30%?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=15a8532ffc080b7df23756686405a0d94708d7c8ea04c3e94e68cc2dbb43cdf1",
       "is_watchlist": true,
       "timestamp": "2026-07-18T05:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Weekly Commentary: Sloppy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a570fc35c296cca5d18789a564c94a81fd43d4db41bb887931f8c00af812ae9d",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T04:00:13+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -591,55 +680,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sigma Lithium cash flow will cover key debt maturity, chair says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615093-sigma-lithium-cash-flow-will-cover-key-debt-maturity-chair-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T22:14:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The average stock is having a moment as semiconductors struggle. It\u2019s a sign of a healthy market.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-17T21:55:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corporaci\u00f3n Am\u00e9rica Airports June 2026 passenger traffic down 4.1% Y/Y",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615090-corporacion-america-airports-june-2026-passenger-traffic-down-41-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T21:51:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "19 (mostly) tech stocks that have fallen at least 25% in July",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T21:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Champion Electric Metals restores Jonathan Buick as CEO, names new CFO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615091-champion-electric-metals-restores-jonathan-buick-as-ceo-names-new-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T21:43:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -654,17 +699,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How your winning stock-index fund can turn on a dime",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-your-winning-stock-index-fund-can-turn-on-a-dime-e2e4b44e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T21:23:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -704,17 +738,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Look on the bright side: Energy companies are booming",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T21:08:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
       "source": "Yahoo",
@@ -736,17 +759,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T19:49:17+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1030,61 +1042,79 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Friday, July 17, 2026: Rates are mixed today",
+      "headline": "McDonald's Earnings Preview: What to Expect",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-17-2026-rates-are-mixed-today-100000981.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-earnings-preview-expect-111143213.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T10:00:00+00:00",
+      "timestamp": "2026-07-17T11:11:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "The $3.3 trillion chip sell-off is nearing a bear market: Chart of the Day",
+      "headline": "TKO Group\u2019s Q2 2026 Earnings: What to Expect",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/the-33-trillion-chip-sell-off-is-nearing-a-bear-market-chart-of-the-day-100000286.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tko-group-q2-2026-earnings-110649621.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T10:00:00+00:00",
+      "timestamp": "2026-07-17T11:06:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Best CD rates today, Friday, July 17, 2026: Up to 4.10% APY return",
+      "headline": "Earnings Preview: What To Expect From Airbnb\u2019s Report",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-17-2026-up-to-410-apy-return-100000711.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-airbnb-report-105820399.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T10:00:00+00:00",
+      "timestamp": "2026-07-17T10:58:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "President Trump's Major Marijuana Move: What It Means for Canopy Growth, Green Thumb, and Tilray",
+      "headline": "Why $900,000 at 64 Feels Rich but Spends Like $27,000 a Year",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/president-trumps-major-marijuana-move-095000827.html",
+      "url": "https://finance.yahoo.com/markets/articles/why-900-000-64-feels-105754253.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T09:50:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-17T10:57:54+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Musk"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Chamath Palihapitiya Says Meta and Elon Musk Could End the '$50 Barrel of Intelligence' Era, Challenging Rivals OpenAI and Anthropic",
+      "headline": "McKesson's Q1 2027 Earnings: What to Expect",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chamath-palihapitiya-says-meta-elon-094607440.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T09:46:07+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
+      "url": "https://finance.yahoo.com/healthcare/articles/mckessons-q1-2027-earnings-expect-105414794.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T10:54:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nasdaq Futures Plunge as Chip Selloff Deepens; Netflix Sinks on Disappointing Forecast",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-chip-selloff-103516994.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T10:35:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan's LNG Giant Weighs U.S. IPO to Accelerate Global Expansion",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/japans-lng-giant-weighs-u-103000478.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T10:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1097,17 +1127,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Libya Declares Major Oil Discovery Commercial as Production Revival Gains Pace",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/libya-declares-major-oil-discovery-093000857.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T09:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1344,28 +1363,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
       "is_watchlist": false,
       "timestamp": "2026-07-13T11:36:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best high-yield savings interest rates today, Friday, July 17, 2026: Multiple banks offering up to 4.10% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-july-17-2026-multiple-banks-offering-up-to-410-apy-100000572.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HELOC and home equity loan rates today, Friday, July 17, 2026: Why understanding how rates work matters",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-july-17-2026-why-understanding-how-rates-work-matters-100000072.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-13T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

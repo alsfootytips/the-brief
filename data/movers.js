@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T11:30:43.182107+00:00",
+  "generated_at": "2026-07-18T12:31:02.005594+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Top Rule for Dealing With a Stock Market Crash\""
+      "move_reason": "News: \"With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half...\""
     },
     {
       "ticker": "PLTR",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
+      "move_reason": "News: \"AI Pullback: Bubble Pop Or Buy The Dip? I Say Neither\""
     },
     {
       "ticker": "NBIS",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Top Rule for Dealing With a Stock Market Crash\""
+      "move_reason": "News: \"With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half...\""
     },
     {
       "ticker": "OSCR",
@@ -594,26 +594,23 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 18.64,
       "change_pct": -2.51,
-      "score": 8.0,
+      "score": 7.0,
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.7 (cheap on absolute basis)",
         "-79.3% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.7 (cheap on absolute basis)",
         "-79.3% from 52-week high"
       ],
       "tags": [
         "news-flow",
         "filing",
         "insider-buying",
-        "cheap",
         "off-highs"
       ],
       "narrative": "<strong>TTD</strong> has notable insider conviction in the last 90 days.",
