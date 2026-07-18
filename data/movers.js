@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T10:26:21.185554+00:00",
+  "generated_at": "2026-07-18T11:30:43.182107+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Tech Rout Deepens on China's AI Shock, Crude Rises to $81: Stock Market Today\""
+      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
     },
     {
       "ticker": "CRWV",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Strong Earnings And A Goldilocks Economy Backstop Markets\""
+      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
     },
     {
       "ticker": "NBIS",
@@ -405,7 +405,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump Declared The Iran Ceasefire 'Over': These 7 Energy Stocks Have Been Cashing In Ever ...\""
+      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
     },
     {
       "ticker": "TTD",
@@ -429,7 +429,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Tech Rout Deepens on China's AI Shock, Crude Rises to $81: Stock Market Today\""
+      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
     }
   ],
   "indices": [
