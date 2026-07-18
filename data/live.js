@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-18T18:27:44.076321+00:00",
+  "generated_at": "2026-07-18T19:44:00.704261+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T18:27:44.073150+00:00",
+      "timestamp": "2026-07-18T19:44:00.701105+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,10 +59,98 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T18:27:44.073133+00:00",
+      "timestamp": "2026-07-18T19:44:00.701089+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:35:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The $1.4 Million Gap: What a Median 55-Year-Old Can Still Do in the Last 10 Working Years",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/1-4-million-gap-median-191959703.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:19:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:16:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Energizer Insider Aqua Capital Purchases 100,000 Shares for $2 Million -- Should Investors Buy Too?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/energizer-insider-aqua-capital-purchases-191341726.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:13:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin squeezes below $65,556 resistance: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-at-supertrend-support-hourly-levels-93CH-4787508",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:02:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US says two military personnel killed in Jordan",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:54:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netflix is spending big money on sports. Is the company making the right bets?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:54:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -71,8 +159,85 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T18:24:01+00:00",
+      "timestamp": "2026-07-18T18:53:56+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Your Netflix bill is up 29% in just over a year. It\u2019s time for Washington to step in.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:49:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These are the obstacles still keeping women from retirement security",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:48:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart pulls lettuce items amid cyclosporiasis-linked recalls",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615107-walmart-pulls-lettuce-items-amid-cyclosporiasis-linked-recalls?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:47:23+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman lists 3 non-AI investment themes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-lists-3-nonai-investment-themes-4799648",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:41:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:32:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump administration\u00a0to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/trump-administrationto-fund-magaaligned-projects-in-europe-as-he-reorders-us-aid-ft-reports-4799664",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:30:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T18:30:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -101,39 +266,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "GRID\u2019s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/grid-0-56-fee-pays-181500052.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My relative inherited money in her 80s. Will it affect her Social Security taxes or Medicare premiums?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-relative-inherited-money-in-her-80s-will-it-affect-her-social-security-taxes-or-medicare-premiums-0f09a210?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:14:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Copart Director Daniel Englander Sells 80,000 Shares for $2.2 Million. Should Investors Sell Too, With the Stock Down 40%?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/copart-director-daniel-englander-sells-181024757.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:10:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Two US service members killed in Jordan as Iran steps up attacks",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/us-widens-iran-strikes-as-tehran-targets-gulf-bases-hormuz-traffic-falls-4799562",
@@ -156,28 +288,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Running out of money is not the saddest retirement mistake you can make. This is.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/running-out-of-money-is-not-the-saddest-retirement-mistake-you-can-make-this-is-09040acf?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "You are missing the bond deal of the decade \u2014 and it is guaranteed to beat inflation",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T17:57:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -260,28 +370,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "How to find the best mortgage rate \u2014 it could save you $3,300 a year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-find-the-best-mortgage-rate-it-could-save-you-3-300-a-year-e973e520?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T17:26:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CFM International wins approval for jet engine durability boost",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/cfm-international-wins-approval-for-jet-engine-durability-boost-4799655",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T17:25:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "1 Dividend ETF I'm Loading Up on Before 2027",
       "source": "Yahoo",
@@ -316,17 +404,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Mexico ministries investigate cyclospora linked to Mexican farm",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-ministries-investigate-cyclospora-linked-to-mexican-farm-4799647",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T17:12:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "2 Space Stocks You Should Buy Before Piling Into SpaceX",
       "source": "Yahoo",
@@ -336,33 +413,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The stock market has a \u2018Magnificent Seven\u2019 problem \u2014 but not the one bears are warning about",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stock-market-has-a-magnificent-seven-problem-but-not-the-one-bears-are-warning-about-574d9dc7?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T17:03:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran\u2019s Supreme Leader says US breaches show Trump\u2019s signature is \u2019worthless\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/irans-supreme-leader-says-us-breaches-show-trumps-signature-is-worthless-4799653",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T17:00:34+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -399,39 +449,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4615104-ibm-stock-hold-after-record-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-18T16:54:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Most Americans don\u2019t know how to prevent dementia. Here\u2019s what you can do.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T16:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "He backed Tesla and SpaceX before anyone else \u2014 here is the \u2018impossible\u2019 bet Tim Draper is making now",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T16:31:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Representative Ralph Norman to run for Senate in South Carolina following Lindsey Graham\u2019s death",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-rep-ralph-norman-says-he-will-run-for-senate-in-south-carolina-following-lindsey-grahams-death-4799637",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T16:30:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -488,17 +505,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4615092-sa-asks-how-important-are-robotaxis-to-teslas-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-18T16:00:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Real estate stocks stand strong even as broader markets pull back",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615027-real-estate-stocks-stand-strong-even-as-broader-markets-pull-back?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T16:00:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -606,6 +612,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "IWM",
+      "headline": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8fe77b1504407578ce8b5ed7d4c73977b80e90618e0b23b70f0790d61709c477",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T14:12:35+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
       "headline": "The 1-Minute Market Report, July 18, 2026",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1865017f80e1cee96640ef4c4364382a7e9b75ac5c169e59aadd1465144cd059",
@@ -689,17 +707,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T11:45:35+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "How are prediction markets taxed? The IRS hasn\u2019t provided guidance yet",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
@@ -729,18 +736,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-18T10:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The Capex Ex-Suppliers Trade: Earnings Season Is The Referee",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=811bb49528e2ffa255df1025a0fe4273d8ff7dc554b3578c06e6f62463afe5d3",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T09:04:35+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -779,14 +774,29 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T04:59:24+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Iran hits Gulf states and Jordan after seventh night of US strikes - Reuters",
+      "headline": "US says two military personnel killed in Jordan - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-07-18T03:55:00+00:00",
-      "relevance_score": 2.5,
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -824,21 +834,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T02:40:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",

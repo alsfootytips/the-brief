@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T18:27:44.067174+00:00",
+  "generated_at": "2026-07-18T19:44:00.695074+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, July 18, 2026\""
+      "move_reason": "News: \"Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3\""
     },
     {
       "ticker": "NBIS",
