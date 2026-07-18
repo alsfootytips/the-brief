@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T17:17:13.735181+00:00",
+  "generated_at": "2026-07-18T18:27:44.067174+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This \"Hands-Off\" ETF Could Be Your Ticket to Becoming a Millionaire\""
+      "move_reason": "News: \"3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This week's AI winners and losers\""
+      "move_reason": "News: \"AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This week's AI winners and losers\""
+      "move_reason": "News: \"AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI\""
     },
     {
       "ticker": "APA",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"UnitedHealth Just Told Us The Economy Isn't Breaking\u2024 Here's The Proof\""
+      "move_reason": "News: \"The 1-Minute Market Report, July 18, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This \"Hands-Off\" ETF Could Be Your Ticket to Becoming a Millionaire\""
+      "move_reason": "News: \"3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock\""
     },
     {
       "ticker": "OSCR",
