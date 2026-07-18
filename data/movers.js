@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T14:02:41.528198+00:00",
+  "generated_at": "2026-07-18T15:15:21.591612+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink...\""
+      "move_reason": "News: \"ExxonMobil Stock Offers a Different Kind of Fuel\""
     },
     {
       "ticker": "GEV",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half...\""
+      "move_reason": "News: \"Should You Buy Viking Therapeutics Stock on the Dip? Wall Street Is Screaming \"Yes.\"\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows\""
+      "move_reason": "News: \"This week's AI winners and losers\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The $350-a-Year Tax Trap Inside this Semiconductor ETF Everyone Knows\""
+      "move_reason": "News: \"This week's AI winners and losers\""
     },
     {
       "ticker": "APA",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half...\""
+      "move_reason": "News: \"Should You Buy Viking Therapeutics Stock on the Dip? Wall Street Is Screaming \"Yes.\"\""
     },
     {
       "ticker": "OSCR",
@@ -381,7 +381,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink...\""
+      "move_reason": "News: \"ExxonMobil Stock Offers a Different Kind of Fuel\""
     },
     {
       "ticker": "PWR",
