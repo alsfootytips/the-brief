@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-18T07:09:54.566468+00:00",
+  "generated_at": "2026-07-18T08:59:33.201870+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T07:09:54.563342+00:00",
+      "timestamp": "2026-07-18T08:59:33.199246+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T07:09:54.563327+00:00",
+      "timestamp": "2026-07-18T08:59:33.199233+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,26 +67,62 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran attacks Gulf infrastructure as US widens strikes, Hormuz tensions rise",
+      "headline": "Iran renews attacks on Gulf states after another night of US strikes",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-widens-iran-strikes-as-tehran-targets-gulf-bases-hormuz-traffic-falls-4799562",
+      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T06:32:18+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-07-18T08:42:50+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Analysis-Trump threatens new Iran escalation and risks repeating old mistakes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/analysistrump-threatens-new-iran-escalation-and-risks-repeating-old-mistakes-4799576",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T08:42:29+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c12915b3361eaa7c44295b3b030efb071535e2f81ad0bee6ab4e7e49a03a70a9",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T05:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "China\u2019s DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-deepseek-to-raise-fresh-capital-at-74-billion-valuation-ahead-of-onshore-ipo-sources-say-4799575",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T08:36:27+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China smartphone makers turn to agentic AI as device sales slow",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/china-smartphone-makers-turn-to-agentic-ai-as-device-sales-slow-4799573",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T08:14:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Skyroot launches India\u2019s first privately developed orbital rocket",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/skyroot-launches-indias-first-privately-developed-orbital-rocket-4799571",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T07:36:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -94,14 +130,72 @@ window.theBriefLive = {
         "Trump"
       ],
       "ticker": null,
-      "headline": "Trump says China obtained 220 million US voter files ahead of 2020 election",
+      "headline": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-says-china-obtained-220-million-us-voter-files-ahead-of-2020-election-4799569",
+      "url": "https://www.investing.com/news/world-news/trump-blames-canada-for-wildfire-smoke-says-he-will-add-cost-to-tariffs-4799567",
       "is_watchlist": true,
-      "timestamp": "2026-07-18T05:21:32+00:00",
+      "timestamp": "2026-07-18T07:30:24+00:00",
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "I Know That a Bear Market Is Coming Eventually. This Is Warren Buffett's Single Best Piece of Advice for Investors.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd7647c4077bbd58c6eaceca297e4cccfd5bddac451d0cf76ddbcc708c99783b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T07:20:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin trapped in $62.5K-$65.5K range: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-at-supertrend-support-hourly-levels-93CH-4787508",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T07:02:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb01a00ef7b23731c691050cc237d6570464b07f9def8cf9d5c858e58f01f67c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T07:02:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS projects the space economy\u2019s TAM at $1.3TN by 2040",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ubs-projects-the-space-economys-tam-at-13tn-by-2040-4799570",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T06:53:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Warren Buffett Is Disposing of His Berkshire Shares. Here's How.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a35c88dd8754aaccf239266cec09b4c2a7bc72d0ab729674cfb0289533642c5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T06:50:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -117,86 +211,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink Its Plans with Crude Prices Now Up 30%?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15a8532ffc080b7df23756686405a0d94708d7c8ea04c3e94e68cc2dbb43cdf1",
+      "ticker": "IWM",
+      "headline": "Weekly Commentary: Sloppy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a570fc35c296cca5d18789a564c94a81fd43d4db41bb887931f8c00af812ae9d",
       "is_watchlist": true,
-      "timestamp": "2026-07-18T05:05:00+00:00",
+      "timestamp": "2026-07-18T04:00:13+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-Trump back in World Cup spotlight after starring role in tournament\u2019s controversies",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccertrump-back-in-world-cup-spotlight-after-starring-role-in-tournaments-controversies-4799469",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T05:00:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CXMT IPO: Here\u2019s everything you need to know",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cxmt-ipo-heres-everything-you-need-to-know-4799568",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T04:49:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Some of Berkshire's Newest Bets Aren't American. Greg Abel Bought 3 Japanese Trading Houses Last Quarter.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5cf3add5143f34898ebbb7fd1012bb4df329b5a0770651219d678a73b627627",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T04:39:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-blames-canada-for-wildfire-smoke-says-he-will-add-cost-to-tariffs-4799567",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T04:18:27+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran renews attacks on Gulf states after another night of US strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T04:06:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Etched seeks $20 billion valuation in new AI chip funding round - WSJ reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/etched-seeks-20-billion-valuation-in-new-ai-chip-funding-round--wsj-reports-4799566",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T04:05:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -211,6 +234,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "A Pause And Some Jitters",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8c2cbaba8366e265be89eabfec8e3df3ad6064fae5052259b835abbc039373d5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T03:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Jim Cramer says it's not the time to buy surging AI stock",
       "source": "Yahoo",
@@ -220,21 +255,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-military-says-it-completed-latest-strikes-on-iran-marking-7th-consecutive-night-of-attacks-4799563",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T02:54:31+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -331,30 +351,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-18T00:17:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "A Long Way Still Ahead For The U.S.'S Disinflation Journey",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2831b16780b24cc6f90a93b430e6af400d0fd5fd01eb2fea2ea304509460870b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T00:10:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Welcome To Trillionistan. Don't Get Comfortable",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ac38b3fe472923443220af27f904b19a6006f2a935fd1bb1f0ebac54427d756d",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T23:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1062,6 +1058,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Analysis-Among AI crowd, some investors position for slower hyperscaler spending growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/analysis-among-ai-crowd-investors-050341080.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T05:03:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Uniper Commits \u20ac5 Billion to Flexible Power and Energy Transition",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/uniper-commits-5-billion-flexible-050217294.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T05:02:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
@@ -1073,66 +1091,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AtaiBeckley (ATAI) Soars to 4-Year High on $3.8B Merger with Eli Lilly",
+      "headline": "The sell-off for AI stars worsens, while oil prices keep jumping",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ataibeckley-atai-soars-4-high-001925655.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-sink-tokyo-down-043403906.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T00:19:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PayPal (PYPL) Skyrockets on $53B Takeover Reports",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-skyrockets-53b-takeover-003530360.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T00:14:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lucid Group (LCID) Rockets 29% After CEO Shuts Down Bankruptcy Claims",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-rockets-29-205136452.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T00:13:36+00:00",
+      "timestamp": "2026-07-17T04:34:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cyprium Metals closes in on first copper cathode production at Nifty",
+      "headline": "Down 26%, Is IBM Stock the Smartest Dividend Stock to Buy for the Second Half of 2026?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/cyprium-metals-closes-first-copper-000100571.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-26-ibm-stock-smartest-042000923.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T00:01:00+00:00",
+      "timestamp": "2026-07-17T04:20:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "A Monster Pile of Airline Points Is Supercharging Summer Travel",
+      "headline": "Wall Street Balks at TSMC\u2019s $100 Billion Bet on Growing AI Demand",
       "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/business/airlines/airline-credit-card-points-94b0a458?siteid=yhoof2&yptr=yahoo",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-balks-tsmc-100-040100384.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T00:00:00+00:00",
+      "timestamp": "2026-07-17T04:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "The No.1 Commodity Story of the Year Is Flying Under Wall Street\u2019s Radar",
+      "headline": "Eli Lilly to Pay up to $3.8B for AtaiBeckley in Big Pharma\u2019s Latest Psychedelic Foray",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/no-1-commodity-story-flying-000000244.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-pay-3-8b-040100270.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-17T00:00:00+00:00",
+      "timestamp": "2026-07-17T04:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lackluster Retail Sales Mask a (Short-Lived) Silver Lining",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/lackluster-retail-sales-mask-short-040100231.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T04:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The New Retirement Plan: Living out of a Suitcase",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/retirement-plan-living-suitcase-040100725.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T04:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1151,34 +1169,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "This Dividend King With a 64-Year Streak Is Beating the Market",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-64-streak-beating-233002886.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T23:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-16T23:14:11+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China Could Be About to Remove Oil's Biggest Safety Net",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/china-could-remove-oils-biggest-230000174.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-16T23:00:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
