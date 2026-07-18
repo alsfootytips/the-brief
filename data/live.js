@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-18T22:33:02.420686+00:00",
+  "generated_at": "2026-07-18T23:36:30.557298+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T22:33:02.417556+00:00",
+      "timestamp": "2026-07-18T23:36:30.554171+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,10 +59,65 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T22:33:02.417541+00:00",
+      "timestamp": "2026-07-18T23:36:30.554156+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US renews strikes on Iran after two military personnel were killed by Iranian attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T23:24:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What It Takes to Retire on Lake Como at 60 on $1 Million Without Touching Your Principal",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/takes-retire-lake-como-60-232127430.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T23:21:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A PayPal Vice President Sold Nearly 4,000 Company Shares. Here's What That Means for Investors.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-vice-president-sold-nearly-231501786.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T23:15:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla stock: How much does an improved auto business matter?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-stock-how-much-does-an-improved-auto-business-matter-4799683",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T23:14:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/fda-says-sample-of-iceberg-lettuce-supplied-by-taylor-farms-tested-positive-for-cyclospora-4799682",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T23:12:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -70,14 +125,47 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal",
+      "headline": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
       "is_watchlist": true,
-      "timestamp": "2026-07-18T22:26:59+00:00",
+      "timestamp": "2026-07-18T23:04:22+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T22:42:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Representative Ralph Norman to run for Senate in South Carolina following Lindsey Graham\u2019s death",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-rep-ralph-norman-says-he-will-run-for-senate-in-south-carolina-following-lindsey-grahams-death-4799637",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T22:30:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US data center protests go national as backlash grows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T22:18:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -104,23 +192,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Samsung Electronics America to reduce workforce by 739 in New Jersey, US WARN notice says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T22:00:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 AI Stocks That Can Outperform Nvidia Next Year",
+      "headline": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-america-reduce-workforce-215814306.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T21:56:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-07-18T21:58:14+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -145,17 +222,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pok-mon-cards-beat-p-214500876.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T21:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -197,43 +263,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US says two military personnel killed by Iranian attack in Jordan",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T21:30:25+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T21:30:15+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4799676",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": "AMD",
       "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
@@ -244,17 +273,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What\u2019s next for the ECB? Key expectations for next week",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/whats-next-for-the-ecb-key-expectations-for-next-week-4799670",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T19:41:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -289,17 +307,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-18T19:41:18+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US data center protests go national as backlash grows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T19:36:47+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -501,6 +508,18 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Top S&P 500 Stocks to Watch Next Week: Tesla, Google, Intel, GE Vernova",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1832eec856d30fdbd386d3139fa2c3ad199e1e65af052d4a0e5acc23f6300074",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T17:05:22+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -602,17 +621,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/multiple-compression-real-threat-microsoft-154502346.html",
       "is_watchlist": false,
       "timestamp": "2026-07-18T15:45:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "14 S&P 500 Stocks Are Up Over 100% in 2026. Why Micron Is My Favorite for the Rest of the Year.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/14-p-500-stocks-over-153002917.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T15:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -942,18 +950,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=ffa92d7644d6ea547991348a10105a6269be8845f903154e05dcde56e79545f0",
       "is_watchlist": true,
       "timestamp": "2026-07-17T21:17:32+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T21:01:14+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
