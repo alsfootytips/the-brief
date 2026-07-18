@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T05:12:16.236067+00:00",
+  "generated_at": "2026-07-18T07:09:54.557521+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Occidental Continue to Grow on the Back of the Permian Basin?\""
+      "move_reason": "News: \"Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink...\""
     },
     {
       "ticker": "GEV",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"VTI Is Cheaper Than It Used to Be. So What's the Catch?\""
+      "move_reason": "News: \"Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.\""
     },
     {
       "ticker": "PLTR",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Long Way Still Ahead For The U.S.'S Disinflation Journey\""
+      "move_reason": "News: \"This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock\""
     },
     {
       "ticker": "NBIS",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"VTI Is Cheaper Than It Used to Be. So What's the Catch?\""
+      "move_reason": "News: \"Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.\""
     },
     {
       "ticker": "OSCR",
@@ -381,7 +381,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Occidental Continue to Grow on the Back of the Permian Basin?\""
+      "move_reason": "News: \"Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink...\""
     },
     {
       "ticker": "PWR",
@@ -594,26 +594,23 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 18.64,
       "change_pct": -2.51,
-      "score": 8.0,
+      "score": 7.0,
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.7 (cheap on absolute basis)",
         "-79.3% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.7 (cheap on absolute basis)",
         "-79.3% from 52-week high"
       ],
       "tags": [
         "news-flow",
         "filing",
         "insider-buying",
-        "cheap",
         "off-highs"
       ],
       "narrative": "<strong>TTD</strong> has notable insider conviction in the last 90 days.",
@@ -674,58 +671,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 35.37,
-      "change_pct": 3.19,
-      "score": 5.5,
-      "signals": [
-        "Moved +3.19% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.9 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +3.19% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.9 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 54.99,
-      "change_pct": 2.5,
-      "score": 5.5,
-      "signals": [
-        "Moved +2.50% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.2 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +2.50% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.2 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 177.93,
@@ -750,25 +695,68 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 35.37,
+      "change_pct": 3.19,
+      "score": 4.5,
+      "signals": [
+        "Moved +3.19% \u2014 a 1.2\u03c3 move",
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)"
+      ],
+      "reasons": [
+        "Moved +3.19% \u2014 a 1.2\u03c3 move",
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying"
+      ],
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 54.99,
+      "change_pct": 2.5,
+      "score": 4.5,
+      "signals": [
+        "Moved +2.50% \u2014 a 1.1\u03c3 move",
+        "3 news items in the last 3 days",
+        "7 insider buys vs 3 sells (last 90 days)"
+      ],
+      "reasons": [
+        "Moved +2.50% \u2014 a 1.1\u03c3 move",
+        "3 news items in the last 3 days",
+        "7 insider buys vs 3 sells (last 90 days)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying"
+      ],
+      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "price": 415.7,
       "change_pct": -0.08,
-      "score": 4.5,
+      "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.7 (cheap on absolute basis)"
+        "10 insider buys vs 0 sells (last 90 days)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.7 (cheap on absolute basis)"
+        "10 insider buys vs 0 sells (last 90 days)"
       ],
       "tags": [
         "news-flow",
-        "insider-buying",
-        "cheap"
+        "insider-buying"
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
