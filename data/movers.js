@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T19:44:00.695074+00:00",
+  "generated_at": "2026-07-18T20:32:24.472988+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE VERNOVA INC (NYSE:GEV) Shows High Growth Momentum and Breakout Setup\""
+      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "XLE",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock\""
+      "move_reason": "News: \"Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and San...\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI\""
+      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI\""
+      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "APA",
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE VERNOVA INC (NYSE:GEV) Shows High Growth Momentum and Breakout Setup\""
+      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "IWM",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock\""
+      "move_reason": "News: \"Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and San...\""
     },
     {
       "ticker": "OSCR",
@@ -393,7 +393,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Says Semiconductor Stocks Are \u201cGoing Down.\u201d Buy These 2 Dividend Stocks Instead\""
+      "move_reason": "News: \"GRID\u2019s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss\""
     },
     {
       "ticker": "TPL",

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-18T19:44:00.704261+00:00",
+  "generated_at": "2026-07-18T20:32:24.481587+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T19:44:00.701105+00:00",
+      "timestamp": "2026-07-18T20:32:24.478506+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,10 +59,113 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T19:44:00.701089+00:00",
+      "timestamp": "2026-07-18T20:32:24.478491+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Popular cosmetics company files for Chapter 11 bankruptcy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/popular-cosmetics-company-files-chapter-201459549.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T20:14:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Discount chain shuts 75 locations, calls its stores 'substandard'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/discount-chain-closing-75-stores-150700942.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:54:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5b2d261769b95e4d12b570ae963e3c7a611f0e7872ba976ef7e58e987d02fdd",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T19:42:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What\u2019s next for the ECB? Key expectations for next week",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/whats-next-for-the-ecb-key-expectations-for-next-week-4799670",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:41:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5bba93f1947327983f5a211b34aa87ef45ca7f596f01673cd602193d9f83c26",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T19:41:18+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5bba93f1947327983f5a211b34aa87ef45ca7f596f01673cd602193d9f83c26",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T19:41:18+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:41:18+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US data center protests go national as backlash grows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T19:36:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: SOXX Is About to Outperform SMH. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4095ce4ad184f8f3388162894b862135a3b662406263cbd0adb51d1180999f3e",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T19:36:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -77,14 +180,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "The $1.4 Million Gap: What a Median 55-Year-Old Can Still Do in the Last 10 Working Years",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/1-4-million-gap-median-191959703.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T19:19:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd2b64ec0adec2e256690ff8d52c38a6dd4c90c546f08feb9e0fff06a195b55c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T19:23:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -99,14 +203,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Energizer Insider Aqua Capital Purchases 100,000 Shares for $2 Million -- Should Investors Buy Too?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/energizer-insider-aqua-capital-purchases-191341726.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T19:13:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "AMD (AMD) Stock Faces Fresh AI Pressure After China Unveils Kimi K3",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52e14705a20aa9ac7a2f4bc4e4472b463ab35bd3b05f720d427c268a253d86ca",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T19:07:03+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -254,6 +359,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "PWR",
+      "headline": "GRID\u2019s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f5740f2075bc46d80775b5be13ac0e515df6b9a132f41be1dca7567c25605b5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T18:15:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
       "source": "MarketWatch",
@@ -301,48 +418,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Two US service members in Jordan killed in Iranian attack, US says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/two-us-service-members-in-jordan-killed-in-iranian-attack-us-says-4799656",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T17:54:32+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Ontario premier says Trump\u2019s criticism of Canada\u2019s efforts to stop wildfires is \u2019absolutely unacceptable\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/canada-prepares-to-evacuate-ontario-community-as-wildfire-smoke-chokes-us-4799628",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T17:42:35+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f910ddae6890fb3065a08643770eaab30487e42558c3c9bf643af9bf9ce6eee7",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T17:35:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Key deals this week: Eli Lilly, PayPal, Uber and more",
@@ -370,18 +445,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Dividend ETF I'm Loading Up on Before 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a28ffa75ff079217326f80f4bf8ae08464caacbf46f12f6d4a0150fb207d3276",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T17:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Analog Devices (ADI) at $375: Are Investors Paying an AI Premium for Industrial Tech?",
       "source": "Yahoo Finance",
@@ -403,18 +466,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 Space Stocks You Should Buy Before Piling Into SpaceX",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56783cb09649941cd680d749ed0b7b66ce8b1beefa164aac86d63d4dd8a2df1c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T17:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -429,17 +480,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T16:56:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -629,30 +669,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=1865017f80e1cee96640ef4c4364382a7e9b75ac5c169e59aadd1465144cd059",
       "is_watchlist": true,
       "timestamp": "2026-07-18T13:56:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "This week's AI winners and losers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14fc97be4b589d08aae0cad891298b3cd5af76652e5422bd81a943c342160633",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T13:16:54+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "I Keep Buying Nvidia Because Bears Keep Shouting This False Narrative",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c29c9a9c0a33936523195136040400ea32b4c4810d240af75a064fd5b3be57b8",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T13:10:14+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1056,18 +1072,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Aerospace Faces a Prove-It Moment in Q2 Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57c1987b4c80fc563876ed02198e237dbcebd895afb118176f0c11bdea98c22f",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T14:55:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Five Below Jumps 41% in a Year: Should You Still Buy the Stock?",
       "source": "Yahoo",
@@ -1186,18 +1190,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-17T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Jim Cramer Says Microchip Is Near A Bottom \u2014 'I Don't See It Yet' \u2014 While Nebius Is 'Not Done Going Down'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d3706515efbedd0084169189205a2e04174b2e47c72031f1efe21332761d1097",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T08:33:47+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
