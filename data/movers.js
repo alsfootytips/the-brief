@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T21:34:16.676830+00:00",
+  "generated_at": "2026-07-18T22:33:02.411605+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and San...\""
+      "move_reason": "News: \"Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"What Do SpaceX, AMD, and Palantir Have in Common?\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"What Do SpaceX, AMD, and Palantir Have in Common?\""
     },
     {
       "ticker": "APA",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and San...\""
+      "move_reason": "News: \"Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie\""
     },
     {
       "ticker": "OSCR",

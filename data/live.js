@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-18T21:34:16.685806+00:00",
+  "generated_at": "2026-07-18T22:33:02.420686+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T21:34:16.682690+00:00",
+      "timestamp": "2026-07-18T22:33:02.417556+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,31 +59,167 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T21:34:16.682675+00:00",
+      "timestamp": "2026-07-18T22:33:02.417541+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T22:26:59+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "We love you, Don Gonyea: Veteran NPR correspondent hangs up his mic after 4 decades",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5866597/we-love-you-don-gonyea-veteran-npr-correspondent-hangs-up-his-mic-after-4-decades",
+      "headline": "Cuban dissident artist arrives in US after five years in prison, Rubio says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/cuban-dissident-artist-arrives-in-us-after-five-years-in-prison-rubio-says-4799680",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T21:20:39+00:00",
+      "timestamp": "2026-07-18T22:12:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "A reporter's take on putting people at the center of stories about the economy",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5894703/a-reporters-take-on-putting-people-at-the-center-of-stories-about-the-economy",
+      "headline": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T21:20:37+00:00",
+      "timestamp": "2026-07-18T22:04:02+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung Electronics America to reduce workforce by 739 in New Jersey, US WARN notice says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T22:00:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3 AI Stocks That Can Outperform Nvidia Next Year",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T21:56:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KOSPI earnings are better. So why are stocks falling harder?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/kospi-earnings-are-better-so-why-are-stocks-falling-harder-4799678",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T21:52:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2e6c8b9ec1e8336ecd1ba5029ebc6e59ea1513f41d6a3038a9ea44093167688",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T21:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pok-mon-cards-beat-p-214500876.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T21:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Netflix Stock's Last Decade Was Spectacular. But What Will the Next Decade Look Like?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b835c33f90adb3ade7edfb99d1d727bd644dd697a83d473857c45260a1cbddb",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T21:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Intuitive Surgical Stock Dropped This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=199b1e6ae832e1e193392a4fc205ed46df61e91ecb89ab5c12fe4d6301c11d5e",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T21:41:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T21:30:29+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US says two military personnel killed by Iranian attack in Jordan",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T21:30:25+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T21:30:15+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -99,34 +235,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Everyone\u2019s Chasing Portugal. Smart American Retirees Are Quietly Moving Here Instead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/everyone-chasing-portugal-smart-american-210757304.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T21:07:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bank of America revamps Tesla forecast before earnings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T21:06:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
+      "ticker": "AMD",
+      "headline": "What Do SpaceX, AMD, and Palantir Have in Common?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5b2d261769b95e4d12b570ae963e3c7a611f0e7872ba976ef7e58e987d02fdd",
+      "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
       "is_watchlist": true,
-      "timestamp": "2026-07-18T19:42:00+00:00",
+      "timestamp": "2026-07-18T20:33:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -190,41 +304,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: SOXX Is About to Outperform SMH. Here's Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4095ce4ad184f8f3388162894b862135a3b662406263cbd0adb51d1180999f3e",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T19:36:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T19:35:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd2b64ec0adec2e256690ff8d52c38a6dd4c90c546f08feb9e0fff06a195b55c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T19:23:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?",
       "source": "MarketWatch",
@@ -249,33 +328,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin squeezes below $65,556 resistance: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-at-supertrend-support-hourly-levels-93CH-4787508",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T19:02:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-18T19:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US says two military personnel killed in Jordan",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/iran-renews-attacks-on-gulf-states-after-another-night-of-us-strikes-4799565",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:54:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -288,17 +345,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-18T18:54:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:53:56+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -337,34 +383,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Goldman lists 3 non-AI investment themes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-lists-3-nonai-investment-themes-4799648",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:41:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-18T18:32:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump administration\u00a0to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-administrationto-fund-magaaligned-projects-in-europe-as-he-reorders-us-aid-ft-reports-4799664",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:30:49+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -411,17 +435,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-18T18:15:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Two US service members killed in Jordan as Iran steps up attacks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-widens-iran-strikes-as-tehran-targets-gulf-bases-hormuz-traffic-falls-4799562",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:04:33+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -516,24 +529,23 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Ethereum Price Prediction: Thin Volumes Increase Risk of a Drop Below $1.8K",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-thin-volumes-163433731.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T16:34:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Services: Buy The Bottleneck Between AI And Energized Power",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3dc8ea810e39ed7325e1ee417c602fc9fb3b8f8cdb8497a6f55b8613d4e938d2",
       "is_watchlist": true,
       "timestamp": "2026-07-18T16:31:36+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=593946d46655ca9eca9b19f733bd15a3cbe4da0615959d1458e2a7b76cf9e174",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T16:21:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -585,33 +597,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock Market Week Ahead: Navigating Uncertainty",
+      "headline": "Multiple Compression Is a Real Threat to Microsoft Stock, But Its Core Story Isn\u2019t Broken",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-navigating-uncertainty/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/multiple-compression-real-threat-microsoft-154502346.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T15:15:50+00:00",
+      "timestamp": "2026-07-18T15:45:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "For Gen Z, saving for vacation tops retirement: JPM study",
+      "headline": "14 S&P 500 Stocks Are Up Over 100% in 2026. Why Micron Is My Favorite for the Rest of the Year.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/for-gen-z-saving-for-vacation-tops-retirement-jpm-study-150903141.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/14-p-500-stocks-over-153002917.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T15:09:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mark Cuban Says If You\u2019ve Got $100,000, You\u2019ll Get The \u2018Best Guaranteed\u2019 ROI Buying Bulk Toothpaste & Soup \u2014 Put the Rest in the Bank, \u2018Let It Earn Nothing\u2019",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/mark-cuban-says-ve-got-150002885.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T15:00:02+00:00",
+      "timestamp": "2026-07-18T15:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -824,32 +825,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T04:59:24+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US says two military personnel killed in Jordan - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T03:55:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": "NBIS",
       "headline": "Jim Cramer says it's not the time to buy surging AI stock",
@@ -884,6 +859,21 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T02:40:00+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1338,6 +1328,28 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T09:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex",
+      "is_watchlist": false,
+      "timestamp": "2026-07-15T06:25:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
