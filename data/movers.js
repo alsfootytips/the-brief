@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T12:31:02.005594+00:00",
+  "generated_at": "2026-07-18T14:02:41.528198+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off\""
+      "move_reason": "News: \"GE VERNOVA INC (NYSE:GEV) Shows High Growth Momentum and Breakout Setup\""
     },
     {
       "ticker": "XLE",
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off\""
+      "move_reason": "News: \"GE VERNOVA INC (NYSE:GEV) Shows High Growth Momentum and Breakout Setup\""
     },
     {
       "ticker": "IWM",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Pullback: Bubble Pop Or Buy The Dip? I Say Neither\""
+      "move_reason": "News: \"The Capex Ex-Suppliers Trade: Earnings Season Is The Referee\""
     },
     {
       "ticker": "NBIS",
@@ -594,23 +594,26 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 18.64,
       "change_pct": -2.51,
-      "score": 7.0,
+      "score": 8.0,
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.7 (cheap on absolute basis)",
         "-79.3% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.7 (cheap on absolute basis)",
         "-79.3% from 52-week high"
       ],
       "tags": [
         "news-flow",
         "filing",
         "insider-buying",
+        "cheap",
         "off-highs"
       ],
       "narrative": "<strong>TTD</strong> has notable insider conviction in the last 90 days.",
