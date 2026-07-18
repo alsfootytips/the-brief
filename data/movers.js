@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T16:13:23.795476+00:00",
+  "generated_at": "2026-07-18T17:17:13.735181+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta and Anthropic Discuss $10B AI Infrastructure Agreement\""
+      "move_reason": "News: \"Why CoreWeave Stock Keeps Falling\""
     },
     {
       "ticker": "OSCR",
@@ -297,7 +297,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta and Anthropic Discuss $10B AI Infrastructure Agreement\""
+      "move_reason": "News: \"Why CoreWeave Stock Keeps Falling\""
     },
     {
       "ticker": "DG",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Capex Ex-Suppliers Trade: Earnings Season Is The Referee\""
+      "move_reason": "News: \"UnitedHealth Just Told Us The Economy Isn't Breaking\u2024 Here's The Proof\""
     },
     {
       "ticker": "NBIS",
