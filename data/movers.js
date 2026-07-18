@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T15:15:21.591612+00:00",
+  "generated_at": "2026-07-18T16:13:23.795476+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Viking Therapeutics Stock on the Dip? Wall Street Is Screaming \"Yes.\"\""
+      "move_reason": "News: \"This \"Hands-Off\" ETF Could Be Your Ticket to Becoming a Millionaire\""
     },
     {
       "ticker": "PLTR",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Viking Therapeutics Stock on the Dip? Wall Street Is Screaming \"Yes.\"\""
+      "move_reason": "News: \"This \"Hands-Off\" ETF Could Be Your Ticket to Becoming a Millionaire\""
     },
     {
       "ticker": "OSCR",
