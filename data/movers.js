@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T08:59:33.194948+00:00",
+  "generated_at": "2026-07-18T10:26:21.185554+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Know That a Bear Market Is Coming Eventually. This Is Warren Buffett's Single Best Piece...\""
+      "move_reason": "News: \"Warren Buffett's Top Rule for Dealing With a Stock Market Crash\""
     },
     {
       "ticker": "PLTR",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Sloppy\""
+      "move_reason": "News: \"Strong Earnings And A Goldilocks Economy Backstop Markets\""
     },
     {
       "ticker": "NBIS",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Know That a Bear Market Is Coming Eventually. This Is Warren Buffett's Single Best Piece...\""
+      "move_reason": "News: \"Warren Buffett's Top Rule for Dealing With a Stock Market Crash\""
     },
     {
       "ticker": "OSCR",
