@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-18T20:32:24.481587+00:00",
+  "generated_at": "2026-07-18T21:34:16.685806+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T20:32:24.478506+00:00",
+      "timestamp": "2026-07-18T21:34:16.682690+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-18T20:32:24.478491+00:00",
+      "timestamp": "2026-07-18T21:34:16.682675+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,22 +67,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Popular cosmetics company files for Chapter 11 bankruptcy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/popular-cosmetics-company-files-chapter-201459549.html",
+      "headline": "We love you, Don Gonyea: Veteran NPR correspondent hangs up his mic after 4 decades",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5866597/we-love-you-don-gonyea-veteran-npr-correspondent-hangs-up-his-mic-after-4-decades",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T20:14:59+00:00",
+      "timestamp": "2026-07-18T21:20:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Discount chain shuts 75 locations, calls its stores 'substandard'",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/discount-chain-closing-75-stores-150700942.html",
+      "headline": "A reporter's take on putting people at the center of stories about the economy",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5894703/a-reporters-take-on-putting-people-at-the-center-of-stories-about-the-economy",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T19:54:13+00:00",
+      "timestamp": "2026-07-18T21:20:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4799676",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Everyone\u2019s Chasing Portugal. Smart American Retirees Are Quietly Moving Here Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/everyone-chasing-portugal-smart-american-210757304.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T21:07:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bank of America revamps Tesla forecast before earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T21:06:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -409,17 +442,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hungary\u2019s president signs law change ending his term in office",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/hungarys-president-signs-law-change-ending-his-term-in-office-4799659",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T17:54:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Key deals this week: Eli Lilly, PayPal, Uber and more",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4614788-key-deals-this-week-eli-lilly-paypal-uber-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -491,6 +513,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-18T16:54:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Quanta Services: Buy The Bottleneck Between AI And Energized Power",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3dc8ea810e39ed7325e1ee417c602fc9fb3b8f8cdb8497a6f55b8613d4e938d2",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T16:31:36+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -573,11 +607,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil and Gas Employment Hits a 2026 Low Even as Production Sets Records",
+      "headline": "Mark Cuban Says If You\u2019ve Got $100,000, You\u2019ll Get The \u2018Best Guaranteed\u2019 ROI Buying Bulk Toothpaste & Soup \u2014 Put the Rest in the Bank, \u2018Let It Earn Nothing\u2019",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oil-gas-employment-hits-2026-150000486.html",
+      "url": "https://finance.yahoo.com/small-business/articles/mark-cuban-says-ve-got-150002885.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T15:00:00+00:00",
+      "timestamp": "2026-07-18T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1060,18 +1094,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "PWR",
-      "headline": "Quanta vs. EMCOR: Which Infrastructure Stock Is the Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99b18d8a4c35b42dcbb90e271c6b49c913bbc99a76fa8435c865feaf0b4c3381",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T15:08:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Five Below Jumps 41% in a Year: Should You Still Buy the Stock?",
       "source": "Yahoo",
@@ -1316,28 +1338,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "American AI is expensive. Some startups are turning to cheap Chinese models",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex",
-      "is_watchlist": false,
-      "timestamp": "2026-07-15T06:25:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
