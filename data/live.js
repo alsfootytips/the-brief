@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T14:42:00.266149+00:00",
+  "generated_at": "2026-07-19T15:40:06.670749+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T14:42:00.263102+00:00",
+      "timestamp": "2026-07-19T15:40:06.667698+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,173 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T14:42:00.263085+00:00",
+      "timestamp": "2026-07-19T15:40:06.667682+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Buffett"
+      ],
+      "ticker": null,
+      "headline": "Why Warren Buffett Warns That the Market Is Headed for Trouble",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-warns-market-152000600.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T15:20:00+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing puts production ahead of plane orders at Farnborough",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615122-boeing-puts-production-ahead-of-plane-orders-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:18:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The 12% Yield Trap: Why BIZD\u2019s Soaring Payout Ratio Signals Trouble Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/12-yield-trap-why-bizd-151351256.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:13:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed\u2019s preferred inflation gauge set for downward revision",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615121-feds-preferred-inflation-gauge-set-for-downward-revision?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:04:35+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aevo Brings One-Tap Protected Perps to Mobile With PERPS+ Launch",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/aevo-brings-onetap-protected-perps-to-mobile-with-perps-launch-4799727",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:00:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: Are memory chipmakers building too much capacity?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615108-sa-asks-are-memory-chipmakers-building-too-much-capacity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:00:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A couple with $6.1 million can't agree on when to retire \u2014 Ramit Sethi says 'it's not the numbers' holding them back",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/couple-6-1-million-cant-150000535.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T14:52:49+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nearly half of retirees leave work earlier than planned \u2014 the 3 reasons Americans are retiring at 62 instead of 65",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/nearly-half-retirees-leave-earlier-144653221.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T14:46:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sky-high U.S. stock valuations revive fears of another market reckoning: FT",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615120-sky-high-us-stock-valuations-revive-fears-of-another-market-reckoning-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T14:46:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/psychedelic-drugs-mental-health.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T14:45:37+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can former employers withhold money from your 401(k) when you\u2019re laid off?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T14:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing focused on production, not new orders at Farnborough Airshow",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-studying-new-737-max-production-hikes-4799724",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T14:30:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/financial-planner-explains-why-splitting-143000499.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T14:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -81,17 +244,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4615119-boeing-sees-demand-for-44000-new-aircraft-by-2045-despite-near-term-disruptions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-19T14:11:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing focused on production, not new orders at Farnborough Airshow",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-studying-new-737-max-production-hikes-4799724",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:54:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -178,33 +330,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Apple raises iPhone prices in Japan by as much as 11% amid weak yen",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615116-apple-raises-iphone-prices-in-japan-by-as-much-as-11-percent-amid-weak-yen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Anger as water supply misery continues for second day",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q128kn4qo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T13:17:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: UnitedHealth, J&J, and Intuitive Surgical in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615062-notable-healthcare-headlines-for-the-week-unitedhealth-j-and-j-and-intuitive-surgical-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:05:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Three themes emerge as AI momentum trade turns volatile: Goldman Sachs",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615115-three-themes-emerge-as-ai-momentum-trade-turns-volatile-goldman-sachs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:01:58+00:00",
+      "timestamp": "2026-07-19T13:06:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -229,6 +359,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T13:00:30+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gulf bourses retreat as US\u2013Iran hostilities intensify - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzIxWFlrMnEyMFZoNHBRTjFybFYyNWtmNktvMlRFaGM0X2RBeWNzZzhycWxlVl9rSTlpdnBGVzY2dlZzWkFGUThqbkZPQUREak85NUREUjFkalExaHBJSk53aEFScDA0dFY2b1NwMlNiRVNkWndZanEzM05HVF9NNktScnUyNDdESkY5VlBTZDNsU3c0ZVY4aG1aaWZlZi1iQ3J2Y1Rn?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T12:53:43+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -284,17 +425,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T12:42:30+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BofA's top 10 covered call trades",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615114-bofas-top-10-covered-call-trades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T12:37:51+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -410,17 +540,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israel-to-receive-more-us-refuelling-planes-as-iran-attacks-intensify-israeli-officials-say-4799719",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T11:54:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR28xNFpKXzVoWU9qY0YtNnBqZlh4ck9aeTZnc1VlOVVKaTczV2J1M1pqSmRwUFc1TnFIRU5wRktydXhhXzhSY1ctbDhzU3dkX3I0dEliRDFJWDNUaFkzUUFsMEg4NnV2SWFpOGFhdHdMRHc2SDc4NE0tcXhpZ0VUVGNTQUVQazZONGdlT3hvbm4tQ0RoaFNBVkZWR0pBTlhiRmNJMnl1RFdzWWRrQl83akkybFFRUy1odzdkdFFmTmhXbS1fNDNPcG9UY0RjeFk?oc=5",
@@ -428,21 +547,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-19T11:51:03+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T11:36:45+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -646,34 +750,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T23:21:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
       "is_watchlist": false,
       "timestamp": "2026-07-18T23:01:01+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T22:04:02+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -720,29 +802,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-18T18:54:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Your Netflix bill is up 29% in just over a year. It\u2019s time for Washington to step in.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:49:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:16:42+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -806,91 +865,35 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "This week's AI winners and losers",
+      "headline": "Palo Alto Networks Stock Has Doubled in 3 Months. Here\u2019s Why the Rally May Be Far From Over.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stock-doubled-143002038.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T13:16:54+00:00",
+      "timestamp": "2026-07-18T14:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "OpenAI Hardware Pivot Sends Blunt Warning to Audio Giant. How to Play Hard-Hit Sonos Stock Here.",
+      "headline": "CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-hardware-pivot-sends-blunt-131502059.html",
+      "url": "https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T13:15:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Scott Bessent assures Americans Fort Knox gold is still there \u2014 then reminds them the dollar is no longer backed by it",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-assures-americans-fort-131500660.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T13:15:00+00:00",
+      "timestamp": "2026-07-18T14:06:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Rambus Gains Momentum on Rising AI Memory Bandwidth Needs",
+      "headline": "A $1 Billion Reason to Sell AST SpaceMobile Stock Here",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rambus-gains-momentum-rising-ai-130052383.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-sell-ast-140002785.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T13:00:52+00:00",
+      "timestamp": "2026-07-18T14:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Costco Delivers Another Strong Sales Report. Buy COST Stock Now for More Upside Ahead.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-delivers-another-strong-sales-130002754.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "No Delays for Nvidia: Jensen Huang Says Rubin Is Right on Track",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/no-delays-nvidia-jensen-huang-130002005.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UBS Raises Its FuelCell Energy Stock Forecast With a $27 Stock Price Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-fuelcell-energy-stock-130002774.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Warsh believes America's $700B AI buildout will lower prices \u2014 but his colleagues warn it will fuel persistent inflation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-125500516.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T12:55:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -903,6 +906,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:02+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1220,17 +1234,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
       "is_watchlist": false,
       "timestamp": "2026-07-17T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T05:00:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
