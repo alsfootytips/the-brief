@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T16:36:32.702004+00:00",
+  "generated_at": "2026-07-19T17:42:56.340670+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T16:36:32.698747+00:00",
+      "timestamp": "2026-07-19T17:42:56.338144+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,66 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T16:36:32.698712+00:00",
+      "timestamp": "2026-07-19T17:42:56.338132+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here\u2019s The Price Target",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-warming-marvell-xconn-173026216.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T17:30:26+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netflix's Post-Earnings Sell-Off Just Revealed Why It Was Bidding to Acquire Warner Bros. and Roku",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflixs-post-earnings-sell-off-172000520.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T17:20:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-companies-pouring-swelling-cash-balances-into-growth-plans--morgan-stanley-4799733",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T17:10:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "At least six dead and 21 injured after 2 earthquakes in Peru",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/at-least-six-dead-and-21-injured-after-2-earthquakes-in-peru-4799732",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:54:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bellows withdraws from US Senate race as Maine Democrats regroup",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/bellows-withdraws-from-us-senate-race-as-maine-democrats-regroup-4799731",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:48:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -59,6 +115,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4615125-aercap-is-said-to-weigh-order-for-up-to-15-boeing-787s-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-19T16:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing on track for 2028 Air Force One delivery, costs rise",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-on-track-for-2028-air-force-one-delivery-costs-rise-4799730",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:30:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -76,33 +143,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "ICE officers to wear body cameras during vehicle stops, border czar says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ice-officers-to-wear-body-cameras-during-vehicle-stops-border-czar-says-4799729",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:24:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Madison Square Garden sues Wired over article on celebrity database",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4615124-madison-square-garden-sues-wired-over-article-on-celebrity-database?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-19T16:18:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I Can\u2019t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/t-stop-buying-alphabet-because-161210758.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:12:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI Is Keeping DRAM Prices High \u2014 Here\u2019s Exactly When the Market Finally Loosens Up",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-keeping-dram-prices-high-130031963.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:06:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -340,28 +396,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bernstein spotlights how compute markets are increasingly resembling commodities",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bernstein-spotlights-how-compute-markets-are-increasingly-resembling-commodities-4799726",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T14:13:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:42:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Stop asking 'How was work today?' Successful, mentally strong couples ask these 7 questions instead",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/19/stop-asking-how-was-work-today-successful-mentally-strong-couples-ask-these-questions-instead.html",
@@ -379,6 +413,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T13:30:00+00:00",
       "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why IBM Stock Crashed 25% Even as AI Spending Exploded",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-stock-crashed-25-131037960.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T13:10:37+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -403,17 +448,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up-4799723",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:00:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -446,17 +480,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T12:46:25+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.03%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-003-4799722",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T12:45:04+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -503,17 +526,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Barclays draws parallels with 2006, says independent Americans leaning Democrat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/barclays-draws-parallels-with-2006-says-independent-americans-leaning-democrat-4799721",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T12:17:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -853,17 +865,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "For Gen Z, saving for vacation tops retirement: JPM study",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/for-gen-z-saving-for-vacation-tops-retirement-jpm-study-150903141.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T15:09:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1212,23 +1213,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Kalshi says it's not a sportsbook even as World Cup bets surge",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
       "is_watchlist": false,
       "timestamp": "2026-07-17T09:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T09:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
