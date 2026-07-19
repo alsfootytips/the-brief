@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T01:11:22.437442+00:00",
+  "generated_at": "2026-07-19T04:35:46.751281+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T01:11:22.434408+00:00",
+      "timestamp": "2026-07-19T04:35:46.748799+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T01:11:22.434393+00:00",
+      "timestamp": "2026-07-19T04:35:46.748786+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,11 +67,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why would Stripe want PayPal?",
+      "headline": "Exclusive-Samsung cuts US jobs, offers relocations ahead of HQ move",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-would-stripe-want-paypal-4799689",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T00:39:35+00:00",
+      "timestamp": "2026-07-19T04:30:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -82,8 +82,110 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T00:30:30+00:00",
+      "timestamp": "2026-07-19T04:18:32+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Andrew and Tristan Tate arrested in Miami on UK extradition request",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/andrew-and-tristan-tate-arrested-in-miami-on-uk-extradition-request-4799700",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T03:56:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's What Drove It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8976480c53bb61b7eeb24b4f38fbbc47dd07d7d311904e555cb6fca59ea82fd2",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T03:39:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Incoming UK prime minister Andy Burnham scraps digital ID scheme",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/incoming-uk-prime-minister-andy-burnham-scraps-digital-id-scheme-4799699",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T03:17:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe55413b6fd2b9f2645fae11b9a07cc361af2d7338273bc961214cdc62f890a2",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T03:07:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA lists the strongest luxury brands in 2026",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-lists-the-strongest-luxury-brands-in-2026-4799697",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T02:37:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SpaceX Stock Just Quietly Fell to $124 a Share -- and It's Still Not a Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd698b4ccde14cc2ac45be7161b4ff8a3728ca36034646e49795598a12a1491c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T02:34:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russian ballistic missiles rock Kyiv, one killed, officials say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/russian-ballistic-missiles-rock-kyiv-one-killed-officials-say-4799696",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T02:30:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Marshals arrest \u2019hypermasculine\u2019 social media stars Andrew and Tristan Tate, UK seeks extradition",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-marshals-arrest-hypermasculine-social-media-stars-andrew-and-tristan-tate-uk-seeks-extradition-4799694",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T02:18:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cuban dissident artist arrives in US after five years in prison",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/cuban-dissident-artist-arrives-in-us-after-five-years-in-prison-rubio-says-4799680",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T02:12:24+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -95,39 +197,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T00:30:15+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Data center opponents stage 142 protests across 42 US states",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T00:00:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mexico\u2019s Sheinbaum to attend World Cup final at President Trump\u2019s invitation",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/mexicos-sheinbaum-to-attend-world-cup-final-at-president-trumps-invitation-4799687",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T23:54:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US strikes Iran after attack kills two American troops",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-strikes-iran-after-attack-kills-two-american-troops-4799686",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T23:53:24+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -148,36 +217,13 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Which \"Magnificent Seven\" Stock Has the Best Risk/Reward Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7ccce599ed976f1123f68424ea51a0e966efa45f96e2cd4aabaf8e9ee96487a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T23:25:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
-      "headline": "Tesla stock: How much does an improved auto business matter?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/tesla-stock-how-much-does-an-improved-auto-business-matter-4799683",
+      "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-07-18T23:14:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/fda-says-sample-of-iceberg-lettuce-supplied-by-taylor-farms-tested-positive-for-cyclospora-4799682",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T23:12:27+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-07-18T23:21:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -197,41 +243,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "How Buying SpaceX Today Could More Than 10X Your Net Worth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40a7a7b81e7335b9c3c50fd730b0c1d5b5ebb22e6621feb563c86507ddba2ce2",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T22:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T22:42:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66c9e0159e8fd2d609d26335b92adf8c05eb8eaa940cb85ed84c04dd5e7788ca",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T22:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
       "source": "CNBC Top",
@@ -240,21 +251,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-18T22:04:02+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T21:30:29+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -757,6 +753,32 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "PODCAST: Data centers: Small town politics turn into a national fight - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaS1ua0dnQWM0aHRKWG5lSXFCWGp2M05xT0ZhSHlNS0M0UnV1YV83QXR4MkozNUhGd1BHUzFNWTRBZHdEUE52UWdJRTBLX21Ud1lvQXczM1EtU2JPeE9fNlA2V0hfNWZ4VExxbGVYdmUyU0NrLU91WWN1aWVmMjUzU1k3bEhHRDBfeTMxTndFMUFoVWZRRzJtTWczSFI3TUl0UWxjRw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T05:01:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T03:55:00+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Jim Cramer says it's not the time to buy surging AI stock",
       "source": "Yahoo",
@@ -819,6 +841,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T01:03:54+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Meta Reportedly Negotiating $10 Billion AI Compute Deal With Anthropic",
       "source": "Benzinga",
@@ -828,18 +862,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing keeps 20-year forecast for jet demand steady, shrugs off Iran war impact - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVC1qb3huZlFwTlFVOEpuUjZwWVdQMl9NNFZDQVdWXzZlSzl2UG1oTmhNeXJzeTZaYVBxcWVVQ2ZSVFFOZGp5S3k3Rkpia0tvOHZRd05nMkdBRFBWVnZlRW94WkxNSkxmQW5kYS1rbUxScUotSW8wYTY5RWthOUVLNlJCZEduN25ZT0FOUms5OEJRajRPd3ppeTdqaGs1ZEJjcnBweGJaY3NQWjVQU3BlaTdXcDJSai1GWS1vRmdrRmpBYTlST1NxQVRYUDdFeVdGX2JJ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T23:03:47+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -880,6 +902,94 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Apple\u2019s Core Business Cash Flow Machine Will Support Innovation and Diversification",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-core-business-cash-flow-210334811.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:03:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Big enough for its own fund-of-funds: Inside one wealth manager's own vehicle",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/big-enough-own-fund-funds-210240024.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:02:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Daily ETF Flows: QQQ Notches Inflows of $2.4B",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-qqq-notches-210004406.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:00:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JPMorgan slashes Coinbase price target",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-slashes-coinbase-price-target-210000893.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T21:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A Duolingo For ESG, Deloitte\u2019s New Tool Translates Sustainability in A Way C-Suites Can Understand",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/duolingo-esg-deloitte-tool-translates-205951488.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T20:59:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ETF Share Class: The Key to Unlocking Retirement Assets?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/etf-share-class-key-unlocking-205644885.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T20:56:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chip Stocks Enter Bear Market. Astera Labs Continues Slump.",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/chip-stocks-sox-index-bear-market-astera-labs/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T20:55:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soybeans Round the Week with Gains, Following Slew of Export Business on Friday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-round-week-gains-following-205503534.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T20:55:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
@@ -903,111 +1013,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kevin O'Leary is being sued after claiming the opposition to his Utah data center was funded by Chinese money",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/kevin-oleary-being-sued-claiming-190000390.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T19:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
       "is_watchlist": false,
       "timestamp": "2026-07-17T18:59:36+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China's AI models are shrinking US lead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/chinas-ai-models-are-shrinking-us-lead-185555366.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:55:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AA Stock Dips as Alcoa Cuts Aluminum Production Guidance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aa-stock-dips-alcoa-cuts-185026084.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:50:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:44:30+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "High yields, Covid-like volumes drive 23% gain in United\u2019s cargo revenue",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/high-yields-covid-volumes-drive-183955811.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:39:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intel Stock Back In Growth Mode, But Sellers Still Smack Shares Ahead Of Q2 Report",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/earnings-preview/intel-stock-intc-earnings-semiconductor-industry/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:34:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Visa hands banks an edge against their rivals with AI tool",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/visa-hands-banks-edge-against-183300003.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Teucrium Launches TPMT, a New Physical Gold ETF With a 0.24% Fee",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/teucrium-launches-tpmt-physical-gold-183255487.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T18:32:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T17:55:14+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1153,17 +1164,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The weight-loss drugs boom is creating both winners and wipeouts: One Big Investment Idea",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/the-weight-loss-drugs-boom-is-creating-both-winners-and-wipeouts-one-big-investment-idea-103918718.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T10:39:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

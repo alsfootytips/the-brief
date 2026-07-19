@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T01:11:22.428460+00:00",
+  "generated_at": "2026-07-19T04:35:46.744324+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Which \"Magnificent Seven\" Stock Has the Best Risk/Reward Right Now?\""
+      "move_reason": "News: \"Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's Wha...\""
     },
     {
       "ticker": "PLTR",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Which \"Magnificent Seven\" Stock Has the Best Risk/Reward Right Now?\""
+      "move_reason": "News: \"Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's Wha...\""
     },
     {
       "ticker": "OSCR",
