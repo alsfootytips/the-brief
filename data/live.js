@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T20:50:18.427672+00:00",
+  "generated_at": "2026-07-19T21:53:38.010937+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T20:50:18.424426+00:00",
+      "timestamp": "2026-07-19T21:53:38.007904+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T20:50:18.424410+00:00",
+      "timestamp": "2026-07-19T21:53:38.007889+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,22 +54,154 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alphabet's Gemini 3.5 Pro Is Late and the Stock Is Slipping. Is the AI Leader Falling Behind?",
+      "headline": "Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-gemini-3-5-pro-204300449.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-investors-happy-buy-amd-213700432.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T20:43:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-19T21:37:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cathie Wood Is Selling This High-Flying Stock. Is It a Buy?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-high-flying-203200378.html",
+      "headline": "AMC Q2 preview: investors weigh box office recovery, debt progress",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615029-amc-q2-preview-investors-weigh-box-office-recovery-debt-progress?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T20:32:00+00:00",
+      "timestamp": "2026-07-19T21:35:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Steel Dynamics Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615016-steel-dynamics-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "W.R. Berkley Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615017-w-r-berkley-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zions Bancorporation Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615032-zions-bancorporation-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Calix Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615033-calix-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crown Holdings Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615034-crown-holdings-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wintrust Financial Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615035-wintrust-financial-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prediction: These Will Be the 2 Best Nuclear Energy Stocks to Buy for the Next 5 Years",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/prediction-2-best-nuclear-energy-212700216.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:27:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin eyes $72,000 as governance and mining concentration concerns grow",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:25:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4799742",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Madonna, BTS and Bieber bring star power to World Cup halftime show",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccermadonna-bts-and-bieber-bring-star-power-to-world-cup-halftime-show-4799741",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:12:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA sees AI winners emerging beyond crowded semis and mega-cap names",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-ai-winners-emerging-beyond-crowded-semis-and-megacap-names-4799740",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:09:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Venture Global (VG) Soars as Geopolitical Tensions Fuel Natural Gas Rally",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/venture-global-vg-soars-geopolitical-210724730.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T21:07:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -165,17 +297,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Deutsche Bank sees Fed balance sheet reduction as bearish for the dollar",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/deutsche-bank-sees-fed-balance-sheet-reduction-as-bearish-for-the-dollar-4799736",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T19:31:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
       "source": "Yahoo",
@@ -185,17 +306,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jackson gains majority delegate support in Maine to challenge US Senator Collins, Politico reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/bellows-withdraws-from-us-senate-race-as-maine-democrats-regroup-4799731",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T19:24:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -212,44 +322,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oppenheimer\u2019s \u2018best of the best\u2019 momentum list: NVDA, LRCX and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615130-oppenheimer-s-best-of-the-best-momentum-list-nvda-lrcx-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T19:10:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-With security lines and star-studded spectacle, World Cup prepares for final showdown",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccerwith-security-lines-and-starstudded-spectacle-world-cup-prepares-for-final-showdown-4799734",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T19:06:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-19T19:06:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI boom keeps stock volatility elevated, but market risks contained: SocGen",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615129-ai-boom-keeps-stock-volatility-elevated-but-market-risks-contained-socgen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T19:03:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -277,62 +354,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Samsung cuts U.S. consumer electronics jobs as headquarters moves to Texas",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615128-samsung-cuts-u-s-consumer-electronics-jobs-as-headquarters-moves-to-texas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T18:20:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: What are the best defense stocks amid higher NATO spending?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615109-sa-asks-what-are-the-best-defense-stocks-amid-higher-nato-spending?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T18:00:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bond market still expects Fed rate hikes despite softer inflation data",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615127-bond-market-still-expects-fed-rate-hikes-despite-softer-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T17:56:30+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Basic income will be needed as AI takes our jobs - Roubini",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615126-basic-income-will-be-needed-as-ai-takes-our-jobs-roubini?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T17:44:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-companies-pouring-swelling-cash-balances-into-growth-plans--morgan-stanley-4799733",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T17:10:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
       "source": "Yahoo",
@@ -342,17 +363,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AerCap is said to weigh order for up to 15 Boeing 787s at Farnborough",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615125-aercap-is-said-to-weigh-order-for-up-to-15-boeing-787s-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -402,22 +412,34 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A couple with $6.1 million can't agree on when to retire \u2014 Ramit Sethi says 'it's not the numbers' holding them back",
+      "headline": "Oppenheimer Downgraded IBM Following Its Sharp Post-Earnings Drop. What the Warning Means for IBM Stock.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/couple-6-1-million-cant-150000535.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-downgraded-ibm-following-sharp-151501745.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T15:00:00+00:00",
+      "timestamp": "2026-07-19T15:15:01+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Synopsys Should Benefit No Matter Who Wins The AI Race. Here\u2019s What Explains Its Poor Stock Performance.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-benefit-no-matter-wins-150002706.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nearly half of retirees leave work earlier than planned \u2014 the 3 reasons Americans are retiring at 62 instead of 65",
+      "headline": "What a New Uber Eats Deal Means for GameStop Stock",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/nearly-half-retirees-leave-earlier-144653221.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-eats-deal-means-gamestop-150002665.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T14:46:53+00:00",
+      "timestamp": "2026-07-19T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -440,6 +462,17 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-19T14:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "26-year-old quit her corporate job to become a seamstress at Yellowstone National Park for $19.25/hour",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/19/26-year-old-quit-her-corporate-job-to-become-a-seamstress-at-yellowstone.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T14:30:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -521,6 +554,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T12:46:25+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T12:46:25+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -686,28 +730,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Sunday, July 19, 2026: Lock in up to 4.10% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-19-2026-lock-in-up-to-410-apy-100000814.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Sunday, July 19, 2026: Rates moved higher last week as Iranian conflict escalated",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T10:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
       "source": "SeekingAlpha",
@@ -768,17 +790,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T06:03:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "New EU border system tripling time at passport control, airport boss says",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
@@ -796,17 +807,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T00:01:55+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T23:01:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1201,23 +1201,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Kalshi says it's not a sportsbook even as World Cup bets surge",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
       "is_watchlist": false,
       "timestamp": "2026-07-17T09:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T09:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
