@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T11:58:38.694935+00:00",
+  "generated_at": "2026-07-19T13:42:23.507114+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "XLE",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"President Donald Trump Just Told Congress to Pass the Clarity Act. Here's the Most Likely ...\""
+      "move_reason": "News: \"Oracle Crashed 65% From Its Peak. I Just Bought It Anyway. Here's Why.\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the...\""
+      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the...\""
+      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "APA",
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
     },
     {
       "ticker": "IWM",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fixed Income Outlook Q3 2026: Looking To The Data When Visibility Is Low\""
+      "move_reason": "News: \"AI CapEx, Hyperscalers, And The Next Earnings Wave\""
     },
     {
       "ticker": "NBIS",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"President Donald Trump Just Told Congress to Pass the Clarity Act. Here's the Most Likely ...\""
+      "move_reason": "News: \"Oracle Crashed 65% From Its Peak. I Just Bought It Anyway. Here's Why.\""
     },
     {
       "ticker": "OSCR",
