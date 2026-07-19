@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T04:35:46.744324+00:00",
+  "generated_at": "2026-07-19T07:16:30.228532+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's Wha...\""
+      "move_reason": "News: \"Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?\""
     },
     {
       "ticker": "PLTR",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3\""
+      "move_reason": "News: \"Fixed Income Outlook Q3 2026: Looking To The Data When Visibility Is Low\""
     },
     {
       "ticker": "NBIS",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Travelers' Profit Jumped 46% and Its Stock Popped 9% While Chip Stocks Crashed. Here's Wha...\""
+      "move_reason": "News: \"Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?\""
     },
     {
       "ticker": "OSCR",
