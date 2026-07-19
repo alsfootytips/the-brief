@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T10:54:50.256479+00:00",
+  "generated_at": "2026-07-19T11:58:38.694935+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -405,7 +405,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
+      "move_reason": "News: \"These 3 Stocks Are So Good, I May Never Sell Them\""
     },
     {
       "ticker": "TTD",

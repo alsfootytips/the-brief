@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T10:54:50.265668+00:00",
+  "generated_at": "2026-07-19T11:58:38.703846+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T10:54:50.262438+00:00",
+      "timestamp": "2026-07-19T11:58:38.700817+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,19 +59,89 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T10:54:50.262422+00:00",
+      "timestamp": "2026-07-19T11:58:38.700802+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T11:36:45+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Boxing-American boxer Hannah Rapp dies at 26 after being hit by car while cycling",
+      "headline": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/boxingamerican-boxer-hannah-rapp-dies-at-26-after-being-hit-by-car-while-cycling-4799714",
+      "url": "https://www.investing.com/news/world-news/us-hurricane-center-says-80-chance-of-cyclone-in-next-48-hours-near-florida-4799718",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T10:36:07+00:00",
+      "timestamp": "2026-07-19T11:36:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T11:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Odds of normal Strait of Hormuz traffic this year continue to tumble",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615111-odds-of-normal-strait-of-hormuz-traffic-this-year-continue-to-tumble?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T11:24:46+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jordan has not ordered evacuation of Aqaba airport or seaport, gov\u2019t spokesperson says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/jordan-has-not-ordered-evacuation-of-aqaba-airport-or-seaport-govt-spokesperson-says-4799717",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T11:18:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lebanon\u2019s Aoun to meet Trump at White House, hoping to generate pressure on Israel",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/lebanons-aoun-to-meet-trump-at-white-house-hoping-to-generate-pressure-on-israel-4799704",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T11:18:32+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Green Dot stock delivers 73% return after Fair Value alert",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/green-dot-stock-delivers-73-return-after-fair-value-alert-93CH-4799716",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T11:09:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -82,18 +152,62 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T10:18:27+00:00",
+      "timestamp": "2026-07-19T11:06:44+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Street Calls of the Week",
+      "headline": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4799654",
+      "url": "https://www.investing.com/news/world-news/us-marshals-arrest-hypermasculine-social-media-stars-andrew-and-tristan-tate-uk-seeks-extradition-4799694",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T10:00:02+00:00",
+      "timestamp": "2026-07-19T11:06:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "how InvestingPro\u2019s fair value spotted Prestige Healthcare\u2019s 42% drop",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-prestige-healthcares-42-drop-93CH-4799715",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T11:02:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla earnings preview: Time for robotaxis and Optimus to shine?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4614850-tesla-earnings-preview-time-for-robotaxis-and-optimus-to-shine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T11:00:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese firm seeks compensation over British Steel nationalisation",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T10:59:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exclusive-Samsung cuts US jobs, offers relocations ahead of HQ move",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T10:48:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -110,17 +224,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "BofA on GBP",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bofa-on-gbp-4799713",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T09:50:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "President Donald Trump Just Told Congress to Pass the Clarity Act. Here's the Most Likely Scenario for What Happens Next.",
       "source": "Yahoo",
@@ -130,21 +233,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T09:47:28+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -194,50 +282,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Institutional demand for CXMT\u2019s $8.6 billion Shanghai IPO dented by chip stock selloff",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/institutional-demand-for-cxmts-86-billion-shanghai-ipo-dented-by-chip-stock-selloff-4799712",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T09:18:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: Apple upgraded as HSBC flags \u2019operational turning point\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-as-hsbc-flags-operational-turning-point-4798630",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T09:00:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin eyes $72,000 as governance and mining concentration concerns grow",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T08:57:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Users of Meta\u2019s Facebook, Instagram report suffering some outages",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/users-of-metas-facebook-instagram-report-suffering-some-outages-4799710",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T08:54:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.",
       "source": "Yahoo",
@@ -247,6 +291,29 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TPL",
+      "headline": "These 3 Stocks Are So Good, I May Never Sell Them",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eab65edda15a353d117e4b4e3e25a4ab522abec9a974905ad7af4ef81100fd64",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T07:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T06:03:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -341,6 +408,21 @@ window.theBriefLive = {
       "timestamp": "2026-07-18T22:04:02+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-18T21:30:29+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -469,17 +551,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I\u2019m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
@@ -544,17 +615,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trending stocks this week as chip selloff, earnings dominate Wall Street",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615105-trending-stocks-this-week-as-chip-selloff-earnings-dominate-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T17:15:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Top S&P 500 Stocks to Watch Next Week: Tesla, Google, Intel, GE Vernova",
       "source": "Benzinga",
@@ -564,17 +624,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bulls vs. Bears: IBM is a Hold after historic selloff",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615104-ibm-stock-hold-after-record-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T16:54:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -751,6 +800,51 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Half of workers say they rely on AI more than they should \u2014 here are 3 habits that can help you stay ahead of AI",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/half-workers-rely-ai-more-110000818.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MarketBeat Week in Review \u2013 07/13- 07/17",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-07-13-110000070.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed Chair Kevin Warsh, Welcome to Your No-Win Scenario, Courtesy of President Donald Trump",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-welcome-105600406.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T10:56:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic is offering $600,000 to someone to shape its Wall Street story as it gears up for a blockbuster IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-offering-600-000-someone-103000640.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T10:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "My mom has no savings, but needs assisted living. Are Social Security and Medicaid enough?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/mom-no-savings-needs-assisted-101000179.html",
@@ -805,51 +899,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "A $36T Great Wealth Transfer is coming \u2014 but not everyone will score a payday. How to make a modest inheritance count",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/36t-great-wealth-transfer-coming-095000926.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T09:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meet the 17-year-old who's helping his parents retire \u2014 but is it risky to put your finances in a kids hands?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-17-old-whos-helping-093000127.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T09:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Has Nvidia Become a Value Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-become-value-stock-083000548.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T08:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Inflation Isn't Just a Trumpflation Problem Any Longer -- There's a New Culprit, and It Has Potentially Dire Implications for Wall Street",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/inflation-isnt-just-trumpflation-problem-082600040.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T08:26:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next",
       "source": "SeekingAlpha",
@@ -896,21 +945,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T03:55:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": "NBIS",
       "headline": "Jim Cramer says it's not the time to buy surging AI stock",
@@ -945,21 +979,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T02:40:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1039,17 +1058,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
       "is_watchlist": false,
       "timestamp": "2026-07-17T18:59:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China hits out at British Steel nationalisation",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T16:44:22+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -1173,18 +1181,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-17T11:36:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "Texas Pacific Land\u2019s Quarterly Earnings Preview: What You Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f388a1cc5e72eb653edbf636724a76ff7042ed0307dbff406d3ad36326ed5951",
-      "is_watchlist": true,
-      "timestamp": "2026-07-17T11:24:52+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
