@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T18:40:25.264278+00:00",
+  "generated_at": "2026-07-19T19:54:59.257390+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T18:40:25.261192+00:00",
+      "timestamp": "2026-07-19T19:54:59.254830+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T18:40:25.261176+00:00",
+      "timestamp": "2026-07-19T19:54:59.254817+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,8 +58,129 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T18:36:23+00:00",
+      "timestamp": "2026-07-19T19:51:38+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US service member killed in northern Iraq, U.S. Central Command says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-service-member-killed-in-northern-iraq-us-central-command-says-4799737",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:36:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Deutsche Bank sees Fed balance sheet reduction as bearish for the dollar",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/deutsche-bank-sees-fed-balance-sheet-reduction-as-bearish-for-the-dollar-4799736",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:31:17+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Spend the IRA First, Claim Social Security Last: The Order That Adds Six Figures for $500,000 Retirees",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/spend-ira-first-claim-social-193000394.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:30:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jackson gains majority delegate support in Maine to challenge US Senator Collins, Politico reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/bellows-withdraws-from-us-senate-race-as-maine-democrats-regroup-4799731",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:24:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysts Project the Oklo Stock Price Will Reach $87 in 2027 -- Is the Risk-to-Reward Scenario Worth It?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-project-oklo-stock-price-192100654.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:21:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oppenheimer\u2019s \u2018best of the best\u2019 momentum list: NVDA, LRCX and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615130-oppenheimer-s-best-of-the-best-momentum-list-nvda-lrcx-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:10:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-With security lines and star-studded spectacle, World Cup prepares for final showdown",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccerwith-security-lines-and-starstudded-spectacle-world-cup-prepares-for-final-showdown-4799734",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:06:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:06:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI boom keeps stock volatility elevated, but market risks contained: SocGen",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615129-ai-boom-keeps-stock-volatility-elevated-but-market-risks-contained-socgen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:03:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T18:36:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T18:35:16+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -71,39 +192,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T18:20:34+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-With security lines and star-studded spectacle, World Cup prepares for final showdown",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccerwith-security-lines-and-starstudded-spectacle-world-cup-prepares-for-final-showdown-4799734",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T18:12:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "68% of Greg Abel's Berkshire Hathaway Portfolio Is Invested in Just 5 Stocks. Here's My Favorite of the Bunch.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/68-greg-abels-berkshire-hathaway-180500534.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T18:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why the $2,000 Social Security Check Hits Harder for Bottom-Half Earners in 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/why-2-000-social-security-180412617.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T18:04:12+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -200,17 +288,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bellows withdraws from US Senate race as Maine Democrats regroup",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/bellows-withdraws-from-us-senate-race-as-maine-democrats-regroup-4799731",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:48:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
       "source": "Yahoo",
@@ -257,28 +334,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "ICE officers to wear body cameras during vehicle stops, border czar says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/ice-officers-to-wear-body-cameras-during-vehicle-stops-border-czar-says-4799729",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:24:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Madison Square Garden sues Wired over article on celebrity database",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615124-madison-square-garden-sues-wired-over-article-on-celebrity-database?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:18:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
@@ -302,45 +357,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Boeing focused on production, not new orders at Farnborough Airshow",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-studying-new-737-max-production-hikes-4799724",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:00:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Christopher Nolan's 'The Odyssey' opens with $124.5M in North America",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615123-christopher-nolans-the-odyssey-opens-with-1245m-in-north-america?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:59:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-19T15:43:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bernstein traffic data analysis shows low-income U.S. consumers under pressure",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bernstein-traffic-data-analysis-shows-lowincome-us-consumers-under-pressure-4799728",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:35:14+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -444,39 +466,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/19/stop-asking-how-was-work-today-successful-mentally-strong-couples-ask-these-questions-instead.html",
       "is_watchlist": false,
       "timestamp": "2026-07-19T13:30:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A retiree has $1 million and a $100K pension \u2014 here's why waiting until 70 for Social Security could be the smart play",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/retiree-1-million-100k-pension-133000639.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:30:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why IBM Stock Crashed 25% Even as AI Spending Exploded",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-stock-crashed-25-131037960.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:10:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anger as water supply misery continues for second day",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q128kn4qo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:06:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -611,17 +600,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR28xNFpKXzVoWU9qY0YtNnBqZlh4ck9aeTZnc1VlOVVKaTczV2J1M1pqSmRwUFc1TnFIRU5wRktydXhhXzhSY1ctbDhzU3dkX3I0dEliRDFJWDNUaFkzUUFsMEg4NnV2SWFpOGFhdHdMRHc2SDc4NE0tcXhpZ0VUVGNTQUVQazZONGdlT3hvbm4tQ0RoaFNBVkZWR0pBTlhiRmNJMnl1RFdzWWRrQl83akkybFFRUy1odzdkdFFmTmhXbS1fNDNPcG9UY0RjeFk?oc=5",
@@ -695,6 +673,28 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T10:17:43+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best CD rates today, Sunday, July 19, 2026: Lock in up to 4.10% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-19-2026-lock-in-up-to-410-apy-100000814.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Sunday, July 19, 2026: Rates moved higher last week as Iranian conflict escalated",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T10:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
