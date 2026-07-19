@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T21:53:38.002991+00:00",
+  "generated_at": "2026-07-19T22:52:57.608255+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's M...\""
+      "move_reason": "News: \"Netflix: Down Nearly 50% Over the Past Year, Is the Stock a Buy on This Latest Dip? Here's...\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off\""
+      "move_reason": "News: \"Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Even...\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off\""
+      "move_reason": "News: \"Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Even...\""
     },
     {
       "ticker": "APA",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's M...\""
+      "move_reason": "News: \"Netflix: Down Nearly 50% Over the Past Year, Is the Stock a Buy on This Latest Dip? Here's...\""
     },
     {
       "ticker": "OSCR",
