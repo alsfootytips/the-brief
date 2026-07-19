@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-18T23:36:30.548262+00:00",
+  "generated_at": "2026-07-19T01:11:22.428460+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie\""
+      "move_reason": "News: \"Which \"Magnificent Seven\" Stock Has the Best Risk/Reward Right Now?\""
     },
     {
       "ticker": "PLTR",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie\""
+      "move_reason": "News: \"Which \"Magnificent Seven\" Stock Has the Best Risk/Reward Right Now?\""
     },
     {
       "ticker": "OSCR",
@@ -681,13 +681,13 @@ window.theBriefMovers = {
       "score": 5.5,
       "signals": [
         "Moved +3.19% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 8.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +3.19% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 8.9 (cheap on absolute basis)"
       ],
