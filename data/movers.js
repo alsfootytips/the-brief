@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T13:42:23.507114+00:00",
+  "generated_at": "2026-07-19T14:42:00.257773+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"Big Tech earnings test tech's big rotation: What to watch this week\""
     },
     {
       "ticker": "XLE",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oracle Crashed 65% From Its Peak. I Just Bought It Anyway. Here's Why.\""
+      "move_reason": "News: \"TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In...\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In...\""
     },
     {
       "ticker": "APA",
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead\""
+      "move_reason": "News: \"Big Tech earnings test tech's big rotation: What to watch this week\""
     },
     {
       "ticker": "IWM",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI CapEx, Hyperscalers, And The Next Earnings Wave\""
+      "move_reason": "News: \"A $90 Billion Liquidity Storm May Hit Markets This Week\""
     },
     {
       "ticker": "NBIS",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oracle Crashed 65% From Its Peak. I Just Bought It Anyway. Here's Why.\""
+      "move_reason": "News: \"TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?\""
     },
     {
       "ticker": "OSCR",
