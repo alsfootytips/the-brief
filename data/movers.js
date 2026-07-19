@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T07:16:30.228532+00:00",
+  "generated_at": "2026-07-19T09:27:25.987196+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?\""
+      "move_reason": "News: \"Can Nvidia Become a $10 Trillion Stock by 2030?\""
     },
     {
       "ticker": "PLTR",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?\""
+      "move_reason": "News: \"Can Nvidia Become a $10 Trillion Stock by 2030?\""
     },
     {
       "ticker": "OSCR",

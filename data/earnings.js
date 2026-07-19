@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-19T07:16:30+00:00",
+  "generated_at": "2026-07-19T09:27:25+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -1974,14 +1974,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.6973,
         "revenue_estimate": 312651675,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FIX",
-        "date": "2026-07-29",
-        "hour": "",
-        "eps_estimate": 10.5596,
-        "revenue_estimate": 3024708357,
         "is_watchlist": false
       },
       {
@@ -8220,6 +8212,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.9491,
         "revenue_estimate": 59214570,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FIX",
+        "date": "2026-07-23",
+        "hour": "",
+        "eps_estimate": 10.5596,
+        "revenue_estimate": 3024708357,
         "is_watchlist": false
       },
       {
