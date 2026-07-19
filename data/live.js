@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T17:42:56.340670+00:00",
+  "generated_at": "2026-07-19T18:40:25.264278+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T17:42:56.338144+00:00",
+      "timestamp": "2026-07-19T18:40:25.261192+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T17:42:56.338132+00:00",
+      "timestamp": "2026-07-19T18:40:25.261176+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,11 +54,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here\u2019s The Price Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-warming-marvell-xconn-173026216.html",
+      "headline": "FBI will no longer investigate ICE confrontations, The New York Times reports",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T17:30:26+00:00",
+      "timestamp": "2026-07-19T18:36:23+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung cuts U.S. consumer electronics jobs as headquarters moves to Texas",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615128-samsung-cuts-u-s-consumer-electronics-jobs-as-headquarters-moves-to-texas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T18:20:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-With security lines and star-studded spectacle, World Cup prepares for final showdown",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccerwith-security-lines-and-starstudded-spectacle-world-cup-prepares-for-final-showdown-4799734",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T18:12:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "68% of Greg Abel's Berkshire Hathaway Portfolio Is Invested in Just 5 Stocks. Here's My Favorite of the Bunch.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/68-greg-abels-berkshire-hathaway-180500534.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T18:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why the $2,000 Social Security Check Hits Harder for Bottom-Half Earners in 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/why-2-000-social-security-180412617.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T18:04:12+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: What are the best defense stocks amid higher NATO spending?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615109-sa-asks-what-are-the-best-defense-stocks-amid-higher-nato-spending?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T18:00:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bond market still expects Fed rate hikes despite softer inflation data",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615127-bond-market-still-expects-fed-rate-hikes-despite-softer-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T17:56:30+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -66,13 +132,49 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Netflix's Post-Earnings Sell-Off Just Revealed Why It Was Bidding to Acquire Warner Bros. and Roku",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflixs-post-earnings-sell-off-172000520.html",
+      "headline": "Basic income will be needed as AI takes our jobs - Roubini",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615126-basic-income-will-be-needed-as-ai-takes-our-jobs-roubini?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T17:20:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-19T17:44:53+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a114f7c35c04f5c6c5c55398e3bba616faac3f19fa5c71293e21ad551c922d28",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T17:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here\u2019s The Price Target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cf65152ab9df44a1f7ef875eaf50b47f334b5b0d9c759feb4a787f0de6dfba9",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T17:30:26+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Man Who Survived 47 Days on a Raft Has a Lesson for Every Investor",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b27da4c49c641fcb42aaa3bc17baffd1c78d63b6aacc250e4135bcd712561869",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T17:14:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -106,6 +208,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-19T16:48:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1528dd91c2a1ac562330f05ce90104a9817f97d93ff3f0cb527500ee86a29d6",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T16:31:05+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -175,6 +289,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "Can Nebius Group Really 10X by 2030? The Math Says Yes",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bbf8d1172de753afcd15360c41f0cbbd3fdee7cfba2eaf416c664f891737b03",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T16:04:31+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Boeing focused on production, not new orders at Farnborough Airshow",
       "source": "Investing.com News",
@@ -197,18 +323,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "This Crypto Fund Stakes Everything and Pays 7%, No Exchange Account Needed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c3c345528868fcd51fc8cd638c74921f24f1111ace01cb9e59d607a2be9e134",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T15:50:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?",
       "source": "MarketWatch",
@@ -226,78 +340,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/economy-news/bernstein-traffic-data-analysis-shows-lowincome-us-consumers-under-pressure-4799728",
       "is_watchlist": false,
       "timestamp": "2026-07-19T15:35:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Bill Gates' Foundation Was Snubbed by Warren Buffett for the First Time in 20 Years. Buffett Is Now on Track to Offload His Entire $140 Billion Berkshire Stake by 2034.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f7948b2871206bfd1e4d9d0acccd930d460e0db6a28143902573d49ee5ed2a1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T15:35:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Buffett"
-      ],
-      "ticker": "NVDA",
-      "headline": "Warren Buffett Said He Personally Started Berkshire's $31 Billion Alphabet Position",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5298621b04426f4b977379e0c837e1f31fe8c250ba4bc4491222693d826edfe1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T15:33:00+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing puts production ahead of plane orders at Farnborough",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615122-boeing-puts-production-ahead-of-plane-orders-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:18:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed\u2019s preferred inflation gauge set for downward revision",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615121-feds-preferred-inflation-gauge-set-for-downward-revision?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:04:35+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Aevo Brings One-Tap Protected Perps to Mobile With PERPS+ Launch",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/aevo-brings-onetap-protected-perps-to-mobile-with-perps-launch-4799727",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:00:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: Are memory chipmakers building too much capacity?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615108-sa-asks-are-memory-chipmakers-building-too-much-capacity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -335,17 +377,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/small-business/articles/nearly-half-retirees-leave-earlier-144653221.html",
       "is_watchlist": false,
       "timestamp": "2026-07-19T14:46:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sky-high U.S. stock valuations revive fears of another market reckoning: FT",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615120-sky-high-us-stock-valuations-revive-fears-of-another-market-reckoning-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T14:46:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -392,6 +423,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-19T14:27:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8bd227e6d0343eba3d115653de1746b42e3939c952218d6491a4447aa4681fe9",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T14:23:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -469,17 +512,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T12:46:25+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T12:46:25+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -600,18 +632,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T11:31:02+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
       "source": "Yahoo",
@@ -692,18 +712,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "IWM",
-      "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T09:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "The AI Bubble Looks A Lot Like Dot-Com Bust",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=0f09b850aa0b035a06621d9522f22f1690e2df6a826cbb96c4f45de1a70d91de",
@@ -1020,18 +1028,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Meta Reportedly Negotiating $10 Billion AI Compute Deal With Anthropic",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=23e511637de44298e99043d62dbfa1447c0f478b33be04b2c13ba19a4adc8e00",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T00:04:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "Unity, The Trade Desk, and GoDaddy Stocks Trade Down, What You Need To Know",
       "source": "Yahoo",
@@ -1213,23 +1209,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kalshi says it's not a sportsbook even as World Cup bets surge",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
       "is_watchlist": false,
       "timestamp": "2026-07-17T09:00:00+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kalshi says it's not a sportsbook even as World Cup bets surge",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T09:00:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

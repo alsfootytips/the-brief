@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T17:42:56.333825+00:00",
+  "generated_at": "2026-07-19T18:40:25.256292+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Crypto Fund Stakes Everything and Pays 7%, No Exchange Account Needed\""
+      "move_reason": "News: \"A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In...\""
+      "move_reason": "News: \"Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In...\""
+      "move_reason": "News: \"Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off\""
     },
     {
       "ticker": "APA",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Crypto Fund Stakes Everything and Pays 7%, No Exchange Account Needed\""
+      "move_reason": "News: \"A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands\""
     },
     {
       "ticker": "OSCR",
