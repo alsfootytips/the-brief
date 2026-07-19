@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T19:54:59.250220+00:00",
+  "generated_at": "2026-07-19T20:50:18.418419+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands\""
+      "move_reason": "News: \"Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's M...\""
     },
     {
       "ticker": "PLTR",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands\""
+      "move_reason": "News: \"Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's M...\""
     },
     {
       "ticker": "OSCR",

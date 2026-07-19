@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T19:54:59.257390+00:00",
+  "generated_at": "2026-07-19T20:50:18.427672+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T19:54:59.254830+00:00",
+      "timestamp": "2026-07-19T20:50:18.424426+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,77 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T19:54:59.254817+00:00",
+      "timestamp": "2026-07-19T20:50:18.424410+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet's Gemini 3.5 Pro Is Late and the Stock Is Slipping. Is the AI Leader Falling Behind?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-gemini-3-5-pro-204300449.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T20:43:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood Is Selling This High-Flying Stock. Is It a Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-high-flying-203200378.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T20:32:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US renews strikes on Iran after at least two military personnel killed by Iranian attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T20:30:23+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. death toll rises again as Iran war escalates over the weekend",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T20:25:15+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russian strike on cargo ship in Black Sea kills 5, Kyiv says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/russian-strike-on-cargo-ship-in-black-sea-kills-5-kyiv-says-4799739",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T20:24:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is U.S. inflation melting away?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/is-us-inflation-melting-away-4799738",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T20:23:07+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -61,6 +128,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-19T19:51:38+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f071a8b766f102045fad76398e7eedbe8f3b6fdd9c811577be12e60b4de9ce2",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T19:38:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -76,6 +155,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "US service member killed in northern Iraq, U.S. Central Command says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWhlMjhBVDQ5MWpFeHNXcUZOcHF4S2NYVzlRRXo4WFhOTmRyWHI1elU3aGRKN21pVzJMTFpvQkIwak9yWnNVbERyNFpuUUhZYTR1SHA3UUJYSlc2MDNDSjhkaXROVFBuelhQbV8xSnlSYTl2Um5VOXNHQ0VqdXRzaEo2djloRWNuSXNaUm1kS2J5VkhvTC1qMDdkWmdmZlo4c3RVRjZ2WlVPUV9SR08yZktIYkNneHc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T19:31:29+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Deutsche Bank sees Fed balance sheet reduction as bearish for the dollar",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/deutsche-bank-sees-fed-balance-sheet-reduction-as-bearish-for-the-dollar-4799736",
@@ -86,14 +176,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Spend the IRA First, Claim Social Security Last: The Order That Adds Six Figures for $500,000 Retirees",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/spend-ira-first-claim-social-193000394.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T19:30:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T19:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -108,14 +199,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
       "headline": "Analysts Project the Oklo Stock Price Will Reach $87 in 2027 -- Is the Risk-to-Reward Scenario Worth It?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-project-oklo-stock-price-192100654.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec70e86b7b3468d8808698398beec563ec41d2c5a2cfaea6f8768dcdb0e39d55",
+      "is_watchlist": true,
       "timestamp": "2026-07-19T19:21:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -164,12 +256,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
+      "headline": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/mineral-rights-complete-guide-owning-190000632.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T18:36:36+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-19T19:00:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -230,59 +322,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a114f7c35c04f5c6c5c55398e3bba616faac3f19fa5c71293e21ad551c922d28",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T17:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here\u2019s The Price Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cf65152ab9df44a1f7ef875eaf50b47f334b5b0d9c759feb4a787f0de6dfba9",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T17:30:26+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Man Who Survived 47 Days on a Raft Has a Lesson for Every Investor",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b27da4c49c641fcb42aaa3bc17baffd1c78d63b6aacc250e4135bcd712561869",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T17:14:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/us-companies-pouring-swelling-cash-balances-into-growth-plans--morgan-stanley-4799733",
       "is_watchlist": false,
       "timestamp": "2026-07-19T17:10:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "At least six dead and 21 injured after 2 earthquakes in Peru",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/at-least-six-dead-and-21-injured-after-2-earthquakes-in-peru-4799732",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:54:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -306,17 +351,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4615125-aercap-is-said-to-weigh-order-for-up-to-15-boeing-787s-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-19T16:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing on track for 2028 Air Force One delivery, costs rise",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-on-track-for-2028-air-force-one-delivery-costs-rise-4799730",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T16:30:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -377,21 +411,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T14:52:49+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Nearly half of retirees leave work earlier than planned \u2014 the 3 reasons Americans are retiring at 62 instead of 65",
@@ -421,17 +440,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-19T14:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/financial-planner-explains-why-splitting-143000499.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T14:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -483,6 +491,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "A $1.7 Billion Reason to Buy Bloom Energy Stock Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73a45aa48c93659e02c0c7cdf1773ab11e1372a643d314a3002406551e09a126",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T13:00:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Gulf bourses retreat as US\u2013Iran hostilities intensify - Reuters",
       "source": "Reuters",
@@ -512,17 +532,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T12:42:30+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T12:42:30+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -790,22 +799,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T23:35:18+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
@@ -924,6 +917,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T12:00:02+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "How are prediction markets taxed? The IRS hasn\u2019t provided guidance yet",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
@@ -994,18 +998,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "CRWV",
-      "headline": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eef1dd3490b3d26767ce89821d9a68fb3bf93f12598ffbaff3a620338ca2da18",
-      "is_watchlist": true,
-      "timestamp": "2026-07-18T02:47:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
       "headline": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eef1dd3490b3d26767ce89821d9a68fb3bf93f12598ffbaff3a620338ca2da18",
