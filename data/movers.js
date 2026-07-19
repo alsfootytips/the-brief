@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T09:27:25.987196+00:00",
+  "generated_at": "2026-07-19T10:54:50.256479+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Nvidia Become a $10 Trillion Stock by 2030?\""
+      "move_reason": "News: \"President Donald Trump Just Told Congress to Pass the Clarity Act. Here's the Most Likely ...\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Do SpaceX, AMD, and Palantir Have in Common?\""
+      "move_reason": "News: \"AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the...\""
     },
     {
       "ticker": "XLY",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Do SpaceX, AMD, and Palantir Have in Common?\""
+      "move_reason": "News: \"AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the...\""
     },
     {
       "ticker": "APA",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Nvidia Become a $10 Trillion Stock by 2030?\""
+      "move_reason": "News: \"President Donald Trump Just Told Congress to Pass the Clarity Act. Here's the Most Likely ...\""
     },
     {
       "ticker": "OSCR",
