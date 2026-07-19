@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T22:52:57.617051+00:00",
+  "generated_at": "2026-07-19T23:57:55.534449+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T22:52:57.614095+00:00",
+      "timestamp": "2026-07-19T23:57:55.531365+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,76 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T22:52:57.614080+00:00",
+      "timestamp": "2026-07-19T23:57:55.531347+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: BCI advances Mardie salt project in Q4 2026",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bci-advances-mardie-salt-project-in-q4-2026-93CH-4799754",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:44:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX targeting Starship test flight by Thursday after botched launch",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-targeting-starship-test-flight-by-thursday-after-botched-launch-4799753",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:42:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:42:33+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Substitute Torres rescues grim final to make Spain world champions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccertorres-grabs-extratime-winner-as-spain-beat-toothless-argentina-to-win-their-second-world-cup-4799749",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:42:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:38:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil Pulls the Market Lower Again",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/oil-pulls-market-lower-again-233501151.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:35:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -58,18 +124,73 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T22:32:00+00:00",
+      "timestamp": "2026-07-19T23:30:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Soccer-Madonna, BTS and Bieber bring star power to World Cup halftime show",
+      "headline": "Soccer-Spain battle past 10-man Argentina 1-0 in extra time to win World\u00a0Cup",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccermadonna-bts-and-bieber-bring-star-power-to-world-cup-halftime-show-4799741",
+      "url": "https://www.investing.com/news/world-news/soccerspain-battle-past-10man-argentina-10-in-extra-time-to-win-worldcup-4799744",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T22:30:50+00:00",
+      "timestamp": "2026-07-19T23:24:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TSMC expects \u2019strong, multi-year\u2019 demand for AI chips as it ramps up Arizona investment",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/tsmc-expects-strong-multiyear-demand-for-ai-chips-as-it-ramps-up-arizona-investment-4799752",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:18:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:18:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are you a parent missing out on \u00a327 a week? Here's how to check",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:16:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK chief financial officers turn more hopeful about AI",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/uk-chief-financial-officers-turn-more-hopeful-about-ai-4799751",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:12:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My fitness tracker knew I was pregnant before I did",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:09:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -80,9 +201,47 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/spacex-moves-starship-launch-attempt-to-thursday-4799747",
       "is_watchlist": false,
-      "timestamp": "2026-07-19T22:30:33+00:00",
+      "timestamp": "2026-07-19T23:00:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. death toll rises again as Iran war escalates over the weekend",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T23:00:25+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung Biologics launches $1.46 billion bid for PolyPeptide",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/samsung-biologics-launches-146-billion-bid-for-polypeptide-93CH-4799750",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T22:49:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump Media (DJT) Climbs on Paid Early-Access to Market-Moving Posts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-media-djt-climbs-paid-224604918.html",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T22:46:04+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -92,72 +251,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-19T22:29:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-Spain battle past 10-man Argentina 1-0 in extra time to win World\u00a0Cup",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccerspain-battle-past-10man-argentina-10-in-extra-time-to-win-worldcup-4799744",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T22:24:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Vice President JD Vance announces birth of son",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-vice-president-jd-vance-announces-birth-of-son-4799746",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T22:24:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Married Filing Separately Is Medicare\u2019s Most Expensive Tax Status: the Surcharges Start at $109,000 and Skip Straight to the Top",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/married-filing-separately-medicare-most-222038571.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T22:20:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Fall As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T22:19:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shooting in Tucson, Arizona, leaves 10 people wounded, including suspect",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/shooting-in-tucson-arizona-leaves-10-people-wounded-including-suspect-4799745",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T22:18:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Korean stocks turned from trusty bellwether to AI frenzy",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/how-korean-stocks-turned-from-trusty-bellwether-to-ai-frenzy-4799743",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T22:00:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -289,28 +382,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin eyes $72,000 as governance and mining concentration concerns grow",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-72000-as-governance-and-mining-concentration-concerns-grow-4799711",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T21:25:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4799742",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Venture Global (VG) Soars as Geopolitical Tensions Fuel Natural Gas Rally",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/venture-global-vg-soars-geopolitical-210724730.html",
@@ -318,18 +389,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-19T21:07:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. death toll rises again as Iran war escalates over the weekend",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T20:25:15+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -389,6 +448,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "3 Numbers That Will Matter Most in IBM\u2019s Upcoming Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-numbers-matter-most-ibm-173002550.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T17:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI Bubble Fears, Earnings and Other Can't Miss Items this Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-fears-earnings-other-170002624.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T17:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Major car dealer cuts 40% of its locations, issues serious warning",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html",
@@ -442,18 +523,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-19T15:43:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oppenheimer Downgraded IBM Following Its Sharp Post-Earnings Drop. What the Warning Means for IBM Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-downgraded-ibm-following-sharp-151501745.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:15:01+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -543,17 +612,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T12:46:25+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T12:46:25+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -719,28 +777,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Sunday, July 19, 2026: Lock in up to 4.10% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-19-2026-lock-in-up-to-410-apy-100000814.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Sunday, July 19, 2026: Rates moved higher last week as Iranian conflict escalated",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T10:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "A $90 Billion Liquidity Storm May Hit Markets This Week",
       "source": "SeekingAlpha",
@@ -806,17 +842,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-19T01:47:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The hidden cost of the night shift and how to sleep it off",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T00:01:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1078,17 +1103,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Brewdog founder faces data complaints over efforts to buy back firm",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T16:44:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "These S&P500 stocks are moving in today's session",
       "source": "ChartMill",
@@ -1174,17 +1188,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Pick: APA"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The financial winners and losers from the World Cup",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T11:36:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
