@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-19T15:40:06+00:00",
+  "generated_at": "2026-07-19T16:36:32+00:00",
   "by_date": {
     "2026-07-22": [
       {
@@ -11694,6 +11694,16 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.2722,
         "revenue_estimate": 175906150,
+        "is_watchlist": false
+      }
+    ],
+    "2026-08-01": [
+      {
+        "ticker": "AD",
+        "date": "2026-08-01",
+        "hour": "",
+        "eps_estimate": 0.6386,
+        "revenue_estimate": 54077832,
         "is_watchlist": false
       }
     ]

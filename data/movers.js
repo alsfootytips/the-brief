@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T15:40:06.661937+00:00",
+  "generated_at": "2026-07-19T16:36:32.692651+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?\""
+      "move_reason": "News: \"This Crypto Fund Stakes Everything and Pays 7%, No Exchange Account Needed\""
     },
     {
       "ticker": "PLTR",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?\""
+      "move_reason": "News: \"This Crypto Fund Stakes Everything and Pays 7%, No Exchange Account Needed\""
     },
     {
       "ticker": "OSCR",

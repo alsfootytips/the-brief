@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-19T15:40:06.670749+00:00",
+  "generated_at": "2026-07-19T16:36:32.702004+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.59,
       "price": 177.93,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T15:40:06.667698+00:00",
+      "timestamp": "2026-07-19T16:36:32.698747+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,22 +46,156 @@ window.theBriefLive = {
       "change_pct": 3.19,
       "price": 35.37,
       "is_watchlist": true,
-      "timestamp": "2026-07-19T15:40:06.667682+00:00",
+      "timestamp": "2026-07-19T16:36:32.698712+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AerCap is said to weigh order for up to 15 Boeing 787s at Farnborough",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615125-aercap-is-said-to-weigh-order-for-up-to-15-boeing-787s-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:28:53+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Madison Square Garden sues Wired over article on celebrity database",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615124-madison-square-garden-sues-wired-over-article-on-celebrity-database?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:18:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I Can\u2019t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/t-stop-buying-alphabet-because-161210758.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:12:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI Is Keeping DRAM Prices High \u2014 Here\u2019s Exactly When the Market Finally Loosens Up",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-keeping-dram-prices-high-130031963.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:06:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:04:39+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing focused on production, not new orders at Farnborough Airshow",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-studying-new-737-max-production-hikes-4799724",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T16:00:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Christopher Nolan's 'The Odyssey' opens with $124.5M in North America",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615123-christopher-nolans-the-odyssey-opens-with-1245m-in-north-america?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:59:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "This Crypto Fund Stakes Everything and Pays 7%, No Exchange Account Needed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c3c345528868fcd51fc8cd638c74921f24f1111ace01cb9e59d607a2be9e134",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T15:50:24+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:43:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bernstein traffic data analysis shows low-income U.S. consumers under pressure",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bernstein-traffic-data-analysis-shows-lowincome-us-consumers-under-pressure-4799728",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T15:35:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Bill Gates' Foundation Was Snubbed by Warren Buffett for the First Time in 20 Years. Buffett Is Now on Track to Offload His Entire $140 Billion Berkshire Stake by 2034.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f7948b2871206bfd1e4d9d0acccd930d460e0db6a28143902573d49ee5ed2a1",
+      "is_watchlist": true,
+      "timestamp": "2026-07-19T15:35:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
       "movers": [
         "Buffett"
       ],
-      "ticker": null,
-      "headline": "Why Warren Buffett Warns That the Market Is Headed for Trouble",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-warns-market-152000600.html",
+      "ticker": "NVDA",
+      "headline": "Warren Buffett Said He Personally Started Berkshire's $31 Billion Alphabet Position",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5298621b04426f4b977379e0c837e1f31fe8c250ba4bc4491222693d826edfe1",
       "is_watchlist": true,
-      "timestamp": "2026-07-19T15:20:00+00:00",
+      "timestamp": "2026-07-19T15:33:00+00:00",
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
@@ -74,17 +208,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4615122-boeing-puts-production-ahead-of-plane-orders-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-19T15:18:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The 12% Yield Trap: Why BIZD\u2019s Soaring Payout Ratio Signals Trouble Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/12-yield-trap-why-bizd-151351256.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T15:13:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -195,17 +318,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Boeing focused on production, not new orders at Farnborough Airshow",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-studying-new-737-max-production-hikes-4799724",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T14:30:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/financial-planner-explains-why-splitting-143000499.html",
@@ -239,28 +351,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Boeing sees demand for 44,000 new aircraft by 2045 despite near-term disruptions",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615119-boeing-sees-demand-for-44000-new-aircraft-by-2045-despite-near-term-disruptions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T14:11:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Taylor Farms faces renewed food safety scrutiny after lettuce recall",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615118-taylor-farms-faces-renewed-food-safety-scrutiny-after-lettuce-recall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:46:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/us-renews-strikes-on-iran-after-two-military-personnel-were-killed-by-iranian-attack-4799684",
@@ -271,53 +361,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=59ec3c5e395ca97f4c48b9688602ba2edce8e1684c5dc227a6d0aee5c885fe08",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T13:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top global stories this week: Burberry, ASML among notable names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615117-top-global-stories-this-week-burberry-asml-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:35:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T13:35:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T13:30:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Stop asking 'How was work today?' Successful, mentally strong couples ask these 7 questions instead",
       "source": "CNBC",
@@ -325,6 +368,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-19T13:30:01+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A retiree has $1 million and a $100K pension \u2014 here's why waiting until 70 for Social Security could be the smart play",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/retiree-1-million-100k-pension-133000639.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-19T13:30:00+00:00",
+      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -460,22 +514,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-19T12:17:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Republicans should add Iran to Russian bill",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-says-republicans-should-add-iran-to-russian-bill-4799720",
-      "is_watchlist": true,
-      "timestamp": "2026-07-19T12:12:29+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -794,17 +832,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Netflix is spending big money on sports. Is the company making the right bets?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T18:54:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "GRID\u2019s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss",
       "source": "Yahoo",
@@ -826,6 +853,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "For Gen Z, saving for vacation tops retirement: JPM study",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/for-gen-z-saving-for-vacation-tops-retirement-jpm-study-150903141.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-18T15:09:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -864,39 +902,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Palo Alto Networks Stock Has Doubled in 3 Months. Here\u2019s Why the Rally May Be Far From Over.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stock-doubled-143002038.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T14:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T14:06:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A $1 Billion Reason to Sell AST SpaceMobile Stock Here",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-sell-ast-140002785.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T14:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "ExxonMobil Stock Offers a Different Kind of Fuel",
       "source": "Yahoo",
@@ -906,17 +911,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-18T12:00:02+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
