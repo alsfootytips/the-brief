@@ -1,11 +1,11 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-20T22:40:04.778619+00:00",
+  "generated_at": "2026-07-20T22:51:16.443438+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 187.41,
-      "change_pct": 5.46,
+      "price": 187.76,
+      "change_pct": 5.66,
       "volume_ratio": 0.76,
       "is_watchlist": true,
       "is_index": false,
@@ -16,8 +16,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1077.63,
-      "change_pct": 1.87,
+      "price": 1078.88,
+      "change_pct": 1.99,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
@@ -28,8 +28,8 @@ window.theBriefMovers = {
     {
       "ticker": "MSFT",
       "name": "MSFT",
-      "price": 400.01,
-      "change_pct": 1.57,
+      "price": 399.82,
+      "change_pct": 1.52,
       "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": false,
@@ -40,8 +40,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 503.3,
-      "change_pct": 1.52,
+      "price": 503.15,
+      "change_pct": 1.49,
       "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,
@@ -52,8 +52,8 @@ window.theBriefMovers = {
     {
       "ticker": "PLTR",
       "name": "PLTR",
-      "price": 134.0,
-      "change_pct": 1.22,
+      "price": 134.25,
+      "change_pct": 1.41,
       "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
@@ -76,8 +76,8 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 73.7,
-      "change_pct": 0.67,
+      "price": 73.65,
+      "change_pct": 0.6,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
@@ -88,8 +88,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 58.03,
-      "change_pct": 0.61,
+      "price": 58.0,
+      "change_pct": 0.56,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
@@ -100,8 +100,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 632.0,
-      "change_pct": 0.55,
+      "price": 631.92,
+      "change_pct": 0.54,
       "volume_ratio": 0.67,
       "is_watchlist": true,
       "is_index": false,
@@ -262,6 +262,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"The $1.5 Trillion Warning Signal: Leverage Is Peaking, And History Is Unforgiving\""
     },
     {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 125.02,
+      "change_pct": -0.58,
+      "volume_ratio": 0.54,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Why Costco's Warehouse Growth Story Is Far From Over\""
+    },
+    {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 517.94,
@@ -284,30 +296,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "META",
-      "name": "META",
-      "price": 643.0,
-      "change_pct": -0.47,
-      "volume_ratio": 0.59,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 125.17,
-      "change_pct": -0.46,
-      "volume_ratio": 0.54,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Why Costco's Warehouse Growth Story Is Far From Over\""
-    },
-    {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "price": 413.79,
@@ -318,6 +306,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"SPE: Discount Gets Even Deeper And More Attractive\""
+    },
+    {
+      "ticker": "META",
+      "name": "META",
+      "price": 643.17,
+      "change_pct": -0.44,
+      "volume_ratio": 0.59,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     },
     {
       "ticker": "XLRE",
@@ -357,8 +357,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 503.3,
-      "change_pct": 1.52,
+      "price": 503.15,
+      "change_pct": 1.49,
       "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,
@@ -381,8 +381,8 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 73.7,
-      "change_pct": 0.67,
+      "price": 73.65,
+      "change_pct": 0.6,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
@@ -393,8 +393,8 @@ window.theBriefMovers = {
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 125.17,
-      "change_pct": -0.46,
+      "price": 125.02,
+      "change_pct": -0.58,
       "volume_ratio": 0.54,
       "is_watchlist": true,
       "is_index": false,
@@ -405,8 +405,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1077.63,
-      "change_pct": 1.87,
+      "price": 1078.88,
+      "change_pct": 1.99,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
@@ -429,8 +429,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 187.41,
-      "change_pct": 5.46,
+      "price": 187.76,
+      "change_pct": 5.66,
       "volume_ratio": 0.76,
       "is_watchlist": true,
       "is_index": false,
@@ -477,8 +477,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 632.0,
-      "change_pct": 0.55,
+      "price": 631.92,
+      "change_pct": 0.54,
       "volume_ratio": 0.67,
       "is_watchlist": true,
       "is_index": false,
@@ -513,8 +513,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 58.03,
-      "change_pct": 0.61,
+      "price": 58.0,
+      "change_pct": 0.56,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
@@ -570,8 +570,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 58.03,
-      "change_pct": 0.61,
+      "price": 58.0,
+      "change_pct": 0.56,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
@@ -713,8 +713,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1077.63,
-      "change_pct": 1.87,
+      "price": 1078.88,
+      "change_pct": 1.99,
       "score": 6.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -737,8 +737,8 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 73.7,
-      "change_pct": 0.67,
+      "price": 73.65,
+      "change_pct": 0.6,
       "score": 6.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -767,8 +767,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 187.41,
-      "change_pct": 5.46,
+      "price": 187.76,
+      "change_pct": 5.66,
       "score": 5.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -863,8 +863,8 @@ window.theBriefMovers = {
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 125.17,
-      "change_pct": -0.46,
+      "price": 125.02,
+      "change_pct": -0.58,
       "score": 3.5,
       "signals": [
         "2 news items in the last 3 days",
@@ -919,8 +919,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 0.61,
-      "price": 58.03,
+      "change_pct": 0.56,
+      "price": 58.0,
       "watchlist_members": [
         "APA",
         "TPL",

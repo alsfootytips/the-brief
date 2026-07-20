@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-20T22:40:04.788922+00:00",
+  "generated_at": "2026-07-20T22:51:16.582730+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -44,13 +44,24 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 5.46,
-      "price": 187.41,
+      "change_pct": 5.66,
+      "price": 187.76,
       "is_watchlist": true,
-      "timestamp": "2026-07-20T22:40:04.785867+00:00",
+      "timestamp": "2026-07-20T22:51:16.450816+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nebius rises as Nvidia discloses 9.3% stake",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4615642-nebius-rises-as-nvidia-discloses-9_3-percent-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-20T22:47:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -240,6 +251,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "The 20-somethings betting big on tech stocks",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-20T22:00:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
@@ -344,17 +366,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Capital One Financial Q2 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4615378-capital-one-financial-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-20T21:35:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
@@ -419,6 +430,17 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-20T21:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jensen Huang's staggering $4 trillion bet shifts Nvidia",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-staggering-4-trillion-210300335.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-20T21:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -743,6 +765,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "NVIDIA Reports 9.3% Passive Stake In Nebius Group As Of July 13, 2026",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=05347b7ed7a068c4074541dea19cb284597bd42cd7f4a8a9af04271e25a45a50",
+      "is_watchlist": true,
+      "timestamp": "2026-07-20T17:24:50+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta Services: Pullback Offers Another Opportunity Ahead Of Q2",
       "source": "SeekingAlpha",
@@ -767,17 +801,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "West Africa signs off $25bn mega gas-pipeline plan",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr5rpglngo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-20T15:52:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Why Costco's Warehouse Growth Story Is Far From Over",
       "source": "Yahoo",
@@ -798,18 +821,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-20T15:22:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius vs. C3.ai: Which AI Growth Stock is the Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e83c44605ac15ad81bb629f3144557f149946fc665d016824e6b90a435b47e4",
-      "is_watchlist": true,
-      "timestamp": "2026-07-20T15:15:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1061,17 +1072,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A retiree has $1 million and a $100K pension \u2014 here's why waiting until 70 for Social Security could be the smart play",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/retiree-1-million-100k-pension-133000639.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-19T13:30:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
@@ -1257,23 +1257,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
-      "is_watchlist": false,
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Kalshi says it's not a sportsbook even as World Cup bets surge",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
       "is_watchlist": false,
       "timestamp": "2026-07-17T09:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+      "is_watchlist": false,
+      "timestamp": "2026-07-17T09:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
