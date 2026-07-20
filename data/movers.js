@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-19T23:57:55.525976+00:00",
+  "generated_at": "2026-07-20T03:37:32.972972+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Can Nebius Group Really 10X by 2030? The Math Says Yes\""
     },
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Gains As Market Dips: What You Should Know\""
+      "move_reason": "Tracking XLE sector (+1.32% today)"
     },
     {
       "ticker": "OXY",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"ExxonMobil Stock Offers a Different Kind of Fuel\""
+      "move_reason": "News: \"Western Midstream: High Single-Digit Growth Appears Likely In 2027\""
     },
     {
       "ticker": "GEV",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Big Tech earnings test tech's big rotation: What to watch this week\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead\""
     },
     {
       "ticker": "XLE",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why CoreWeave Stock Keeps Falling\""
+      "move_reason": "News: \"CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificia...\""
     },
     {
       "ticker": "OSCR",
@@ -109,7 +109,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Unity, The Trade Desk, and GoDaddy Stocks Trade Down, What You Need To Know\""
+      "move_reason": "Tracking XLK sector (-1.09% today)"
     },
     {
       "ticker": "NVDA",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix: Down Nearly 50% Over the Past Year, Is the Stock a Buy on This Latest Dip? Here's...\""
+      "move_reason": "News: \"Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Te...\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Even...\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead\""
     },
     {
       "ticker": "XLY",
@@ -248,7 +248,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Five Below Jumps 41% in a Year: Should You Still Buy the Stock?\""
+      "move_reason": "Tracking XLP sector (-0.72% today)"
     },
     {
       "ticker": "XLF",
@@ -273,7 +273,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Even...\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead\""
     },
     {
       "ticker": "APA",
@@ -285,7 +285,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Gains As Market Dips: What You Should Know\""
+      "move_reason": "Tracking XLE sector (+1.32% today)"
     },
     {
       "ticker": "CRWV",
@@ -297,7 +297,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why CoreWeave Stock Keeps Falling\""
+      "move_reason": "News: \"CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificia...\""
     },
     {
       "ticker": "DG",
@@ -309,7 +309,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Five Below Jumps 41% in a Year: Should You Still Buy the Stock?\""
+      "move_reason": "Tracking XLP sector (-0.72% today)"
     },
     {
       "ticker": "GEV",
@@ -321,7 +321,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Big Tech earnings test tech's big rotation: What to watch this week\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead\""
     },
     {
       "ticker": "IWM",
@@ -333,7 +333,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $90 Billion Liquidity Storm May Hit Markets This Week\""
+      "move_reason": "News: \"Stay Bullish Despite The Rough Week: Aerospace, Finance, Biotech, And AI\""
     },
     {
       "ticker": "NBIS",
@@ -345,7 +345,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Can Nebius Group Really 10X by 2030? The Math Says Yes\""
     },
     {
       "ticker": "NVDA",
@@ -357,7 +357,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix: Down Nearly 50% Over the Past Year, Is the Stock a Buy on This Latest Dip? Here's...\""
+      "move_reason": "News: \"Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Te...\""
     },
     {
       "ticker": "OSCR",
@@ -381,7 +381,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"ExxonMobil Stock Offers a Different Kind of Fuel\""
+      "move_reason": "News: \"Western Midstream: High Single-Digit Growth Appears Likely In 2027\""
     },
     {
       "ticker": "PWR",
@@ -417,7 +417,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Unity, The Trade Desk, and GoDaddy Stocks Trade Down, What You Need To Know\""
+      "move_reason": "Tracking XLK sector (-1.09% today)"
     },
     {
       "ticker": "XLE",
@@ -620,30 +620,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1058.2,
-      "change_pct": 2.12,
-      "score": 6.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "Earnings within 7 days",
-        "9 insider buys vs 1 sells (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "Earnings within 7 days",
-        "9 insider buys vs 1 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "earnings-soon",
-        "insider-buying"
-      ],
-      "narrative": "<strong>GEV</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
-      "sector_etf": "XLI"
-    },
-    {
       "ticker": "CRWV",
       "name": "CoreWeave",
       "price": 73.25,
@@ -774,25 +750,25 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 126.01,
-      "change_pct": -0.9,
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 1058.2,
+      "change_pct": 2.12,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
+        "9 insider buys vs 1 sells (last 90 days)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
+        "9 insider buys vs 1 sells (last 90 days)"
       ],
       "tags": [
         "news-flow",
         "insider-buying"
       ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
+      "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLI"
     }
   ],
   "sectors_radar": [
