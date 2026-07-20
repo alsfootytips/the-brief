@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-20T09:46:12.482639+00:00",
+  "generated_at": "2026-07-20T12:17:24.292928+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -37.44,
@@ -179,7 +179,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 100.41,
       "realized_vol_30d_pct": 2.72,
       "trailing_pe": 8.20979,
-      "forward_pe": 8.91693,
+      "forward_pe": 8.441711,
       "price_to_sales": null,
       "price_to_book": 1.9281726,
       "enterprise_to_ebitda": 3.384,
@@ -263,7 +263,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 42.28,
       "realized_vol_30d_pct": 2.25,
       "trailing_pe": 74.13513,
-      "forward_pe": 14.229614,
+      "forward_pe": 13.938576,
       "price_to_sales": 2.5837235,
       "price_to_book": 1.7744284,
       "enterprise_to_ebitda": 7.045,
@@ -397,7 +397,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 22.93,
       "realized_vol_30d_pct": 2.61,
       "trailing_pe": 31.058191,
-      "forward_pe": 15.80593,
+      "forward_pe": 15.790708,
       "price_to_sales": 19.378443,
       "price_to_book": 25.131351,
       "enterprise_to_ebitda": 29.409,
