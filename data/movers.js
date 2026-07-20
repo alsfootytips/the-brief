@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-20T03:37:32.972972+00:00",
+  "generated_at": "2026-07-20T06:35:34.004100+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Nebius Group Really 10X by 2030? The Math Says Yes\""
+      "move_reason": "News: \"MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebou...\""
     },
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+1.32% today)"
+      "move_reason": "News: \"Ariel Focus Fund Q2 2026 Portfolio Activity\""
     },
     {
       "ticker": "OXY",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
+      "move_reason": "News: \"2026 Midyear Outlook: Scarcity Vs. Abundance In The Age Of AI\""
     },
     {
       "ticker": "CRWV",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificia...\""
+      "move_reason": "News: \"MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebou...\""
     },
     {
       "ticker": "OSCR",
@@ -121,7 +121,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Te...\""
+      "move_reason": "News: \"Where Could Solana Be Headed Over the Next 3 Years?\""
     },
     {
       "ticker": "PLTR",
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead\""
+      "move_reason": "News: \"AMD Stock Rises Overnight: Is Anthropic A New Customer? What A GitHub Code File Reportedly...\""
     },
     {
       "ticker": "XLY",
@@ -223,7 +223,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -235,7 +234,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -273,7 +271,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead\""
+      "move_reason": "News: \"AMD Stock Rises Overnight: Is Anthropic A New Customer? What A GitHub Code File Reportedly...\""
     },
     {
       "ticker": "APA",
@@ -285,7 +283,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+1.32% today)"
+      "move_reason": "News: \"Ariel Focus Fund Q2 2026 Portfolio Activity\""
     },
     {
       "ticker": "CRWV",
@@ -297,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificia...\""
+      "move_reason": "News: \"MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebou...\""
     },
     {
       "ticker": "DG",
@@ -345,7 +343,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Nebius Group Really 10X by 2030? The Math Says Yes\""
+      "move_reason": "News: \"MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebou...\""
     },
     {
       "ticker": "NVDA",
@@ -357,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Te...\""
+      "move_reason": "News: \"Where Could Solana Be Headed Over the Next 3 Years?\""
     },
     {
       "ticker": "OSCR",
@@ -429,7 +427,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The U.S. Deficit Is Exploding: How I'm Positioning For What Comes Next\""
+      "move_reason": "News: \"2026 Midyear Outlook: Scarcity Vs. Abundance In The Age Of AI\""
     }
   ],
   "indices": [
@@ -657,13 +655,13 @@ window.theBriefMovers = {
       "score": 5.5,
       "signals": [
         "Moved +3.19% \u2014 a 1.2\u03c3 move",
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 8.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +3.19% \u2014 a 1.2\u03c3 move",
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 8.9 (cheap on absolute basis)"
       ],

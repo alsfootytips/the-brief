@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-07-20T03:37:33.051833+00:00",
+  "generated_at": "2026-07-20T06:35:34.080173+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -746,7 +746,7 @@ window.theBriefPicks = {
       "current_pct": 6.6,
       "change_pct_today": 3.19,
       "name": "APA Corp",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 31,
       "days_remaining": 4
     },
