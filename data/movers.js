@@ -1,17 +1,17 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-21T01:10:04.841929+00:00",
+  "generated_at": "2026-07-21T04:32:34.785740+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 189.48,
       "change_pct": 6.62,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.78,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Fell 40% From Its All-Time-High. Is This AI Stock Finally a Buy?\""
+      "move_reason": "News: \"NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside\""
     },
     {
       "ticker": "OSCR",
@@ -30,7 +30,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1080.38,
       "change_pct": 2.13,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.97,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -42,12 +42,12 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 505.0,
       "change_pct": 1.86,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on Broader M...\""
+      "move_reason": "News: \"Nvidia (NVDA) Faces Fresh Rack Server Pressure As AMD Launches Helios\""
     },
     {
       "ticker": "MSFT",
@@ -66,7 +66,7 @@ window.theBriefMovers = {
       "name": "PLTR",
       "price": 134.42,
       "change_pct": 1.54,
-      "volume_ratio": 0.9,
+      "volume_ratio": 0.91,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -78,19 +78,19 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 74.02,
       "change_pct": 1.11,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.85,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alpha Compute Moves to Revenue Generation; $21-23 Million Run Rate \u2013 Quarterly Update Repo...\""
+      "move_reason": "News: \"NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside\""
     },
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 18.79,
       "change_pct": 1.06,
-      "volume_ratio": 0.94,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -155,14 +155,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why XLK Investors Pay Twice for the Same Mega-Cap Exposure\""
+      "move_reason": "News: \"AI infrastructure stock surges after landing massive $2.8B win\""
     },
     {
       "ticker": "XLC",
       "name": "Communication Services Select",
       "price": 110.8,
       "change_pct": 0.14,
-      "volume_ratio": 0.66,
+      "volume_ratio": 0.7,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -173,7 +173,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 696.06,
       "change_pct": 0.1,
-      "volume_ratio": 0.79,
+      "volume_ratio": 0.8,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "name": "SOFI",
       "price": 16.99,
       "change_pct": -1.68,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.0,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 124.09,
       "change_pct": -1.32,
-      "volume_ratio": 0.54,
+      "volume_ratio": 0.77,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 159.25,
       "change_pct": -1.14,
-      "volume_ratio": 0.63,
+      "volume_ratio": 0.66,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -256,7 +256,7 @@ window.theBriefMovers = {
       "name": "Industrial Select Sector",
       "price": 178.12,
       "change_pct": -0.72,
-      "volume_ratio": 0.87,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -267,7 +267,7 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "price": 114.61,
       "change_pct": -0.72,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.98,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -278,7 +278,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 517.94,
       "change_pct": -0.55,
-      "volume_ratio": 0.66,
+      "volume_ratio": 0.68,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The $1.5 Trillion Warning Signal: Leverage Is Peaking, And History Is Unforgiving\""
+      "move_reason": "News: \"The Phillips Curve And Kevin Warsh's Task Forces\""
     },
     {
       "ticker": "XLU",
@@ -312,7 +312,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.23,
       "change_pct": -0.42,
-      "volume_ratio": 0.79,
+      "volume_ratio": 0.82,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 56.04,
       "change_pct": -0.39,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.95,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -334,7 +334,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.86,
       "change_pct": -0.39,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -345,7 +345,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 643.78,
       "change_pct": -0.35,
-      "volume_ratio": 0.59,
+      "volume_ratio": 0.61,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -359,12 +359,12 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 505.0,
       "change_pct": 1.86,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on Broader M...\""
+      "move_reason": "News: \"Nvidia (NVDA) Faces Fresh Rack Server Pressure As AMD Launches Helios\""
     },
     {
       "ticker": "APA",
@@ -383,19 +383,19 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 74.02,
       "change_pct": 1.11,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.85,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alpha Compute Moves to Revenue Generation; $21-23 Million Run Rate \u2013 Quarterly Update Repo...\""
+      "move_reason": "News: \"NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside\""
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 124.09,
       "change_pct": -1.32,
-      "volume_ratio": 0.54,
+      "volume_ratio": 0.77,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -407,7 +407,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1080.38,
       "change_pct": 2.13,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.97,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -424,19 +424,19 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The $1.5 Trillion Warning Signal: Leverage Is Peaking, And History Is Unforgiving\""
+      "move_reason": "News: \"The Phillips Curve And Kevin Warsh's Task Forces\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 189.48,
       "change_pct": 6.62,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.78,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Fell 40% From Its All-Time-High. Is This AI Stock Finally a Buy?\""
+      "move_reason": "News: \"NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside\""
     },
     {
       "ticker": "NVDA",
@@ -448,7 +448,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why XLK Investors Pay Twice for the Same Mega-Cap Exposure\""
+      "move_reason": "News: \"AI infrastructure stock surges after landing massive $2.8B win\""
     },
     {
       "ticker": "OSCR",
@@ -479,7 +479,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 628.9,
       "change_pct": 0.06,
-      "volume_ratio": 0.67,
+      "volume_ratio": 0.82,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -503,7 +503,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 18.79,
       "change_pct": 1.06,
-      "volume_ratio": 0.94,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -529,7 +529,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 517.94,
       "change_pct": -0.55,
-      "volume_ratio": 0.66,
+      "volume_ratio": 0.68,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -550,7 +550,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 696.06,
       "change_pct": 0.1,
-      "volume_ratio": 0.79,
+      "volume_ratio": 0.8,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -560,7 +560,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 742.09,
       "change_pct": -0.16,
-      "volume_ratio": 1.05,
+      "volume_ratio": 1.06,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -583,7 +583,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 110.8,
       "change_pct": 0.14,
-      "volume_ratio": 0.66,
+      "volume_ratio": 0.7,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -593,7 +593,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 175.71,
       "change_pct": 0.07,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -603,7 +603,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 56.04,
       "change_pct": -0.39,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.95,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -613,7 +613,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.86,
       "change_pct": -0.39,
-      "volume_ratio": 0.81,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -623,7 +623,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.23,
       "change_pct": -0.42,
-      "volume_ratio": 0.79,
+      "volume_ratio": 0.82,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -643,7 +643,7 @@ window.theBriefMovers = {
       "name": "Industrial Select Sector",
       "price": 178.12,
       "change_pct": -0.72,
-      "volume_ratio": 0.87,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -653,7 +653,7 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "price": 114.61,
       "change_pct": -0.72,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.98,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -673,7 +673,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 159.25,
       "change_pct": -1.14,
-      "volume_ratio": 0.63,
+      "volume_ratio": 0.66,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
