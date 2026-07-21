@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-21T04:32:34.785740+00:00",
+  "generated_at": "2026-07-21T07:21:21.850083+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -122,30 +122,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"If I Could Only Buy 2 Deeply Undervalued Real Asset Stocks Today\""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 139.62,
-      "change_pct": 0.42,
-      "volume_ratio": 1.29,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 107.7,
-      "change_pct": 0.35,
-      "volume_ratio": 1.08,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 203.09,
@@ -155,7 +131,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI infrastructure stock surges after landing massive $2.8B win\""
+      "move_reason": "News: \"Should You Buy SpaceX Stock 11% Below Its IPO Price?\""
     },
     {
       "ticker": "XLC",
@@ -169,6 +145,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 139.8,
+      "change_pct": 0.13,
+      "volume_ratio": 0.13,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "QQQ",
       "name": "Invesco QQQ Trust",
       "price": 696.06,
@@ -177,6 +165,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "price": 175.71,
+      "change_pct": 0.07,
+      "volume_ratio": 0.87,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -448,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI infrastructure stock surges after landing massive $2.8B win\""
+      "move_reason": "News: \"Should You Buy SpaceX Stock 11% Below Its IPO Price?\""
     },
     {
       "ticker": "OSCR",
