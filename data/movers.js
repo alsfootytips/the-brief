@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-22T04:35:01.732981+00:00",
+  "generated_at": "2026-07-22T07:22:26.066880+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -129,7 +129,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Elon Musk Says the Short Sellers Betting Against SpaceX Have a \"Very Low\" Survival Probabi...\""
+      "move_reason": "News: \"Why AppLovin Stock Fell 24% in the First Half of 2026\""
     },
     {
       "ticker": "IWM",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Leverage Everyone Fears Is Purging\""
+      "move_reason": "News: \"Credit And Business Applications Sit Strong\""
     },
     {
       "ticker": "PWR",
@@ -264,6 +264,30 @@ window.theBriefMovers = {
       "move_reason": "News: \"Dollar General (DG) Stock Drops Despite Market Gains: Important Facts to Note\""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 140.25,
+      "change_pct": -0.43,
+      "volume_ratio": 0.14,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 107.98,
+      "change_pct": -0.3,
+      "volume_ratio": 0.24,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLRE",
       "name": "Real Estate Select Sector",
       "price": 45.2,
@@ -357,7 +381,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Leverage Everyone Fears Is Purging\""
+      "move_reason": "News: \"Credit And Business Applications Sit Strong\""
     },
     {
       "ticker": "NBIS",
@@ -381,7 +405,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Elon Musk Says the Short Sellers Betting Against SpaceX Have a \"Very Low\" Survival Probabi...\""
+      "move_reason": "News: \"Why AppLovin Stock Fell 24% in the First Half of 2026\""
     },
     {
       "ticker": "OSCR",
