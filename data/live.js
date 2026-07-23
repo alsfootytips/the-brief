@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-23T22:33:10.116406+00:00",
+  "generated_at": "2026-07-23T22:49:11.845355+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -83,10 +83,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.39,
-      "price": 16.81,
+      "change_pct": -4.44,
+      "price": 16.8,
       "is_watchlist": true,
-      "timestamp": "2026-07-23T22:33:10.113337+00:00",
+      "timestamp": "2026-07-23T22:49:11.679147+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,10 +95,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 4.41,
-      "price": 1028.5,
+      "change_pct": 4.49,
+      "price": 1029.23,
       "is_watchlist": true,
-      "timestamp": "2026-07-23T22:33:10.113325+00:00",
+      "timestamp": "2026-07-23T22:49:11.679135+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -110,10 +110,120 @@ window.theBriefLive = {
       "change_pct": -4.22,
       "price": 115.16,
       "is_watchlist": true,
-      "timestamp": "2026-07-23T22:33:10.113316+00:00",
+      "timestamp": "2026-07-23T22:49:11.679127+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Strategy Inc For: 23 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-strategy-inc-for-23-july-93CH-4810237",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:34:37+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:34:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RingCentral Q2 2026 slides: AI drives 13% of ARR, margins expand",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/ringcentral-q2-2026-slides-ai-drives-13-of-arr-margins-expand-93CH-4810236",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:33:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strategy Inc director Jarrod Patten sells $125,000 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/strategy-inc-director-jarrod-patten-sells-125000-in-stock-93CH-4810235",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:31:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Columbia Banking Q2 2026 slides: margin gains, western expansion focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/columbia-banking-q2-2026-slides-margin-gains-western-expansion-focus-93CH-4810234",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:31:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/intel-sales-profit-forecast-beat-estimates-boosts-spending-plans-on-ai-boom-4809863",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:30:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Sallie Mae misses Q2 2026 profit view as shares fall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sallie-mae-misses-q2-2026-profit-view-as-shares-fall-93CH-4810233",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:30:40+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Newmont tops profit estimates on higher gold prices, sees steady output",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/gold-miner-newmont-beats-secondquarter-profit-estimates-4809939",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:30:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Paramount Skydance Corp For: 23 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-paramount-skydance-corp-for-23-july-93CH-4810232",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:30:30+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EnerSys awarded revised $150M DoE grant for lithium cell manufacturing plant",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4617852-enersys-awarded-revised-150m-doe-grant-for-lithium-cell-manufacturing-plant?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:28:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -140,100 +250,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Intel tops Q2 2026 estimates as shares rebound after hours",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-intel-tops-q2-2026-estimates-as-shares-rebound-after-hours-93CH-4810201",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:12:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Boston Beer Q2 2026 shares slip after mixed results",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-boston-beer-q2-2026-shares-slip-after-mixed-results-93CH-4810200",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:12:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US warns against excessive yen volatility, calls for BOJ rate hikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-warns-against-excessive-yen-volatility-calls-for-boj-rate-hikes-4810192",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:12:27+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: SAP Q2 2026 miss offsets strong cloud growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sap-q2-2026-miss-offsets-strong-cloud-growth-93CH-4810199",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:12:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The August stock-market slump is a myth \u2014 so why does Wall Street keep repeating it?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-23T22:12:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Betterware de M\u00e9xico posts huge Q2 2026 beat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-betterware-de-mexico-posts-huge-q2-2026-beat-93CH-4810198",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:11:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Associated Banc-Corp tops Q2 2026 estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-associated-banccorp-tops-q2-2026-estimates-93CH-4810197",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:10:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Robert Half slips after q2 2026 earnings beat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-robert-half-slips-after-q2-2026-earnings-beat-93CH-4810196",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:09:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Comstock posts strong Q2 2026 progress as shares slip",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-comstock-posts-strong-q2-2026-progress-as-shares-slip-93CH-4810195",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:08:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -362,17 +383,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "CAE wins $257.9M U.S. Army pilot training contract",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4617846-cae-wins-2579m-us-army-pilot-training-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:53:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The stock market\u2019s calm is cracking. Here\u2019s how to prepare for an August shock.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
@@ -392,17 +402,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US announces tariffs on dozens of countries over forced labour concerns",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:46:34+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -536,17 +535,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T20:45:13+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Google and Tesla shares plunge as AI spending rattles markets",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
@@ -591,6 +579,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T20:26:38+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/as-the-sp-500-sells-off-traders-eye-key-risk-pivot-level.html",
@@ -621,6 +620,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T20:06:50+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -689,18 +699,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Congress splits on war powers resolutions to force Trump to abandon Iran war",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/23/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T18:39:06+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1151,66 +1149,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Defends His Dell Stance as Investors Complain About Missing Out",
+      "headline": "IREN Limited (IREN) Lands $2.8 Billion in AI Contracts. Is This the Catalyst Its Stock Needed?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-defends-dell-stance-145543736.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/iren-limited-iren-lands-2-150619525.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T14:55:43+00:00",
+      "timestamp": "2026-07-22T15:06:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hyperliquid Price Forecast: HYPE Risks a 14% Drop If This Happens",
+      "headline": "Starbucks\u2019 Stock Down 17% In Five Years",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-price-forecast-hype-risks-145431016.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-stock-down-17-five-150508901.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T14:54:31+00:00",
+      "timestamp": "2026-07-22T15:05:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nike Continues a Troubled 2026 But Has Potential to Double According to Morningstar",
+      "headline": "Earnings Preview: What To Expect From Zimmer Biomet\u2019s Report",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-continues-troubled-2026-potential-145322250.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/earnings-preview-expect-zimmer-biomet-150406199.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T14:53:22+00:00",
+      "timestamp": "2026-07-22T15:04:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Google Earnings Due. Cloud Growth Could Shake Up Big Tech, AI Trade",
+      "headline": "What Makes KLA Corporation (KLAC) an Attractive Bet?",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/googl-stock-google-earnings-cloud-gowth-artificial-intelligence-hyperscalers/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-kla-corporation-klac-attractive-150228462.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T14:52:58+00:00",
+      "timestamp": "2026-07-22T15:02:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Investor\u2019s Skepticism Weighed on MercadoLibre (MELI)",
+      "headline": "A $19 Billion Reason to Buy Hut 8 Stock Here",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investor-skepticism-weighed-mercadolibre-meli-145244637.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/19-billion-reason-buy-hut-145939941.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T14:52:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FTAI Aviation Jumps On $1.5 Billion Deal For New Power Unit",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/ge-vernova-ftai-aviation-turbines-ai-energy-data-centers/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-22T14:52:01+00:00",
+      "timestamp": "2026-07-22T14:59:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1237,6 +1224,17 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GE Vernova stock drops despite surging AI-driven orders as wind segment drags",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/ge-vernova-stock-drops-despite-surging-ai-driven-orders-as-wind-segment-drags-131509298.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-22T13:15:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1284,17 +1282,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-21T22:30:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1417,6 +1404,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What is private mortgage insurance (PMI)? Definition, cost, and how to avoid it",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/what-is-pmi-private-mortgage-insurance-193818313.html",
+      "is_watchlist": false,
+      "timestamp": "2024-02-01T19:38:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };
