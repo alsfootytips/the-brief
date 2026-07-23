@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-23T07:19:20+00:00",
+  "generated_at": "2026-07-23T09:58:19+00:00",
   "by_date": {
     "2026-08-04": [
       {
@@ -9733,6 +9733,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "ACCO",
+        "date": "2026-07-30",
+        "hour": "",
+        "eps_estimate": 0.272,
+        "revenue_estimate": 410583996,
+        "is_watchlist": false
+      },
+      {
         "ticker": "ACCS",
         "date": "2026-07-30",
         "hour": "",
@@ -10058,14 +10066,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 1.2705,
         "revenue_estimate": 1568224893,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BCRX",
-        "date": "2026-07-30",
-        "hour": "bmo",
-        "eps_estimate": 0.125,
-        "revenue_estimate": 186255774,
         "is_watchlist": false
       }
     ],
