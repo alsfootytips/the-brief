@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-23T22:49:11.845355+00:00",
+  "generated_at": "2026-07-23T23:40:10.115452+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -86,7 +86,7 @@ window.theBriefLive = {
       "change_pct": -4.44,
       "price": 16.8,
       "is_watchlist": true,
-      "timestamp": "2026-07-23T22:49:11.679147+00:00",
+      "timestamp": "2026-07-23T23:40:10.112492+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,10 +95,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 4.49,
-      "price": 1029.23,
+      "change_pct": 4.53,
+      "price": 1029.64,
       "is_watchlist": true,
-      "timestamp": "2026-07-23T22:49:11.679135+00:00",
+      "timestamp": "2026-07-23T23:40:10.112481+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,10 +107,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "DG",
       "name": "Dollar General",
-      "change_pct": -4.22,
-      "price": 115.16,
+      "change_pct": -4.61,
+      "price": 114.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-23T22:49:11.679127+00:00",
+      "timestamp": "2026-07-23T23:40:10.112473+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -118,100 +118,199 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Strategy Inc For: 23 July",
+      "headline": "GBM at Noosa Mining Conference 2026: twin hills drives growth plan",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-strategy-inc-for-23-july-93CH-4810237",
+      "url": "https://www.investing.com/news/transcripts/gbm-at-noosa-mining-conference-2026-twin-hills-drives-growth-plan-93CH-4810295",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T22:34:37+00:00",
+      "timestamp": "2026-07-23T23:36:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan June core CPI rises 1.6% yr/yr",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/japan-june-core-cpi-rises-16-yryr-4810294",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:36:35+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Byrna Technologies Inc For: 23 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-byrna-technologies-inc-for-23-july-93CH-4810292",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:36:02+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+      "headline": "Byrna Technologies CEO Conn Davis buys $77,002 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/byrna-technologies-ceo-conn-davis-buys-77002-in-stock-93CH-4810291",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:32:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Popular outlines 8%-9% 2026 net interest income growth while raising ROTCE target to 14%-17%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4617860-popular-outlines-8-percentminus-9-percent-2026-net-interest-income-growth-while-raising-rotce?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:31:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Old Second projects net interest margin around 5.18% in Q3 and 5.15% in Q4 as buybacks continue",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4617859-old-second-projects-net-interest-margin-around-5_18-percent-in-q3-and-5_15-percent-in-q4-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:31:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Kinder Morgan Inc For: 23 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-kinder-morgan-inc-for-23-july-93CH-4810289",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:30:30+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two decades of mass protests in India",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/two-decades-of-mass-protests-in-india-4809205",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:30:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Kinder Morgan Inc For: 23 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-kinder-morgan-inc-for-23-july-93CH-4810288",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:30:28+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Purecycle Technologies Holdings Corp For: 23 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-purecycle-technologies-holdings-corp-for-23-july-93CH-4810287",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:30:26+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SS&C expects 2026 adjusted EPS of $6.93-$7.25 as it raises full-year revenue outlook to $6.672B-$6.832B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4617858-ss-and-c-expects-2026-adjusted-eps-of-6_93-7_25-as-it-raises-full-year-revenue-outlook-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:22:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pool projects 2026 diluted EPS of $10.66 to $10.96 as inbound freight pressures gross margin",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4617857-pool-projects-2026-diluted-eps-of-10_66-to-10_96-as-inbound-freight-pressures-gross-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:11:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Five Star Bancorp outlines Southern California expansion and plans another office later in 2026",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4617856-five-star-bancorp-outlines-southern-california-expansion-and-plans-another-office-later-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:11:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK complacent about war threat, warns defence boss",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:04:19+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T22:34:36+00:00",
+      "timestamp": "2026-07-23T23:03:29+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "RingCentral Q2 2026 slides: AI drives 13% of ARR, margins expand",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ringcentral-q2-2026-slides-ai-drives-13-of-arr-margins-expand-93CH-4810236",
+      "headline": "UK mortgage rates rise to highest level for a month",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T22:33:28+00:00",
+      "timestamp": "2026-07-23T23:02:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Strategy Inc director Jarrod Patten sells $125,000 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/strategy-inc-director-jarrod-patten-sells-125000-in-stock-93CH-4810235",
+      "headline": "We split bills equally even when one of us earned a lot more",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T22:31:22+00:00",
+      "timestamp": "2026-07-23T23:01:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Columbia Banking Q2 2026 slides: margin gains, western expansion focus",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/columbia-banking-q2-2026-slides-margin-gains-western-expansion-focus-93CH-4810234",
+      "headline": "AppFolio outlines 2026 revenue of $1.117B-$1.127B while raising non-GAAP operating margin to 26.5%-28.0%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4617855-appfolio-outlines-2026-revenue-of-1_117b-1_127b-while-raising-non-gaap-operating-margin-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T22:31:10+00:00",
+      "timestamp": "2026-07-23T22:51:29+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/intel-sales-profit-forecast-beat-estimates-boosts-spending-plans-on-ai-boom-4809863",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:30:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Sallie Mae misses Q2 2026 profit view as shares fall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sallie-mae-misses-q2-2026-profit-view-as-shares-fall-93CH-4810233",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:30:40+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Newmont tops profit estimates on higher gold prices, sees steady output",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/gold-miner-newmont-beats-secondquarter-profit-estimates-4809939",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:30:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Paramount Skydance Corp For: 23 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-paramount-skydance-corp-for-23-july-93CH-4810232",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:30:30+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -223,17 +322,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-23T22:28:49+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Community Health Systems forecasts 2026 adjusted EBITDA of $1.3B-$1.375B amid softer elective surgeries and higher uninsured volumes",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4617853-community-health-systems-forecasts-2026-adjusted-ebitda-of-1_3b-1_375b-amid-softer-elective?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:21:54+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -284,17 +372,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Galway Metals begins drilling at Estrades project under DOWA joint venture",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4617841-galway-metals-begins-drilling-at-estrades-project-under-dowa-joint-venture?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:04:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "S&P 500 flashes sell signals \u2014 options traders are bracing for wild swings in Apple, Meta and Microsoft",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
@@ -306,56 +383,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Market Technology acquisition prices $200M IPO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4617850-market-technology-acquisition-prices-200m-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:02:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-23T22:02:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Acme United outlines Med-Nap certification progress with goal to finish by year end as My Medic targets stronger profits beyond Q4",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4617851-acme-united-outlines-med-nap-certification-progress-with-goal-to-finish-by-year-end-as-my?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:01:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Friday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4617384-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T22:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oracle lands 10-year, $7B deal to provide software to US military",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4617844-oracle-lands-10-year-7b-deal-to-provide-software-to-us-military?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:59:32+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -535,17 +568,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Google and Tesla shares plunge as AI spending rattles markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T20:42:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5896481-e1/a-town-renamed-its-festival-ai-love-irondale-day-then-came-the-comments",
@@ -664,17 +686,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-23T19:52:25+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Burnham says 20% business rates cut for English pubs 'a first step'",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T19:33:09+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1069,17 +1080,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Big bosses reveal the secret to getting hired",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cvgxelx3y78o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T05:22:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The oil spike everyone feared never showed up",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
@@ -1149,55 +1149,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "IREN Limited (IREN) Lands $2.8 Billion in AI Contracts. Is This the Catalyst Its Stock Needed?",
+      "headline": "BWX Technologies (BWXT) Lagged Despite Strong Nuclear and Defense Growth Prospects",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/iren-limited-iren-lands-2-150619525.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-lagged-despite-161210492.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T15:06:19+00:00",
+      "timestamp": "2026-07-22T16:12:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Starbucks\u2019 Stock Down 17% In Five Years",
+      "headline": "Offense & Defense: The Infrastructure ETF Playbook",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-stock-down-17-five-150508901.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/offense-defense-infrastructure-etf-playbook-161117481.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T15:05:08+00:00",
+      "timestamp": "2026-07-22T16:11:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings Preview: What To Expect From Zimmer Biomet\u2019s Report",
+      "headline": "PulteGroup Q2 Earnings Call Highlights",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/earnings-preview-expect-zimmer-biomet-150406199.html",
+      "url": "https://finance.yahoo.com/real-estate/articles/pultegroup-q2-earnings-call-highlights-160631495.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T15:04:06+00:00",
+      "timestamp": "2026-07-22T16:06:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "What Makes KLA Corporation (KLAC) an Attractive Bet?",
+      "headline": "CVS Health Corporation (CVS) Rose on Improving Execution and Payer Margin Outlook",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-kla-corporation-klac-attractive-150228462.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/cvs-health-corporation-cvs-rose-160340793.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T15:02:28+00:00",
+      "timestamp": "2026-07-22T16:03:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "A $19 Billion Reason to Buy Hut 8 Stock Here",
+      "headline": "Micron Stock Sell-Off Presents A Strategy That Could Return 32% In Weeks",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/19-billion-reason-buy-hut-145939941.html",
+      "url": "https://www.investors.com/research/options/micron-stock-mu-chips-semiconductors-tech-options-trading-income-strategy-markets/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-07-22T14:59:39+00:00",
+      "timestamp": "2026-07-22T16:03:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AeroVironment Just Scored a New Army Contract. What It Means for AVAV Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-just-scored-army-contract-160028494.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-22T16:00:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RXO Stock Is Up 70% in the Past Year and Can Lead the Charge in Last-Mile Delivery",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-stock-70-past-lead-155502410.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-22T15:55:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1224,17 +1246,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GE Vernova stock drops despite surging AI-driven orders as wind segment drags",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/ge-vernova-stock-drops-despite-surging-ai-driven-orders-as-wind-segment-drags-131509298.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-22T13:15:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1404,17 +1415,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What is private mortgage insurance (PMI)? Definition, cost, and how to avoid it",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/what-is-pmi-private-mortgage-insurance-193818313.html",
-      "is_watchlist": false,
-      "timestamp": "2024-02-01T19:38:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     }
   ]
 };
