@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-23T04:36:55.833081+00:00",
+  "generated_at": "2026-07-23T07:19:20.259828+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave and Nebius Get Bullish Calls\""
+      "move_reason": "News: \"NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.\""
     },
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Meta Platforms Will Soar on July 29 When It Makes This Announcement\""
+      "move_reason": "News: \"Reo.Dev Bags $11.3M Series A to Scale Across the US\""
     },
     {
       "ticker": "OXY",
@@ -82,7 +82,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge,...\""
+      "move_reason": "News: \"Jim Cramer reveals 4 surging chip stocks he likes best\""
     },
     {
       "ticker": "APA",
@@ -140,30 +140,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 108.5,
-      "change_pct": 0.18,
-      "volume_ratio": 1.0,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 141.08,
-      "change_pct": 0.16,
-      "volume_ratio": 0.81,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -285,7 +261,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Market Valuation: Is The Market Still Overvalued?\""
+      "move_reason": "News: \"When Monetary Policy Surprises Stop Translating\""
     },
     {
       "ticker": "XLC",
@@ -343,14 +319,15 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "price": 180.27,
-      "change_pct": -0.28,
-      "volume_ratio": 0.65,
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.06,
+      "change_pct": -0.41,
+      "volume_ratio": 0.15,
       "is_watchlist": false,
       "is_index": false,
-      "is_sector": true,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -365,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge,...\""
+      "move_reason": "News: \"Jim Cramer reveals 4 surging chip stocks he likes best\""
     },
     {
       "ticker": "APA",
@@ -389,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave and Nebius Get Bullish Calls\""
+      "move_reason": "News: \"NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.\""
     },
     {
       "ticker": "DG",
@@ -425,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Market Valuation: Is The Market Still Overvalued?\""
+      "move_reason": "News: \"When Monetary Policy Surprises Stop Translating\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Meta Platforms Will Soar on July 29 When It Makes This Announcement\""
+      "move_reason": "News: \"Reo.Dev Bags $11.3M Series A to Scale Across the US\""
     },
     {
       "ticker": "OSCR",
