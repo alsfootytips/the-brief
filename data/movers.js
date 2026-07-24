@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-24T01:10:24.146884+00:00",
+  "generated_at": "2026-07-24T04:33:21.841285+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -64,7 +64,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 219.61,
       "change_pct": 0.66,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.77,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -99,7 +99,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 57.79,
       "change_pct": 0.5,
-      "volume_ratio": 1.12,
+      "volume_ratio": 1.13,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -136,7 +136,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 16.81,
       "change_pct": -4.38,
-      "volume_ratio": 1.28,
+      "volume_ratio": 1.29,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -207,7 +207,7 @@ window.theBriefMovers = {
       "name": "MSFT",
       "price": 382.43,
       "change_pct": -2.03,
-      "volume_ratio": 1.05,
+      "volume_ratio": 1.06,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -219,12 +219,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 207.99,
       "change_pct": -1.92,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Inves...\""
+      "move_reason": "News: \"Alphabet Just Revealed a $94 Billion Stake in SpaceX -- and It Can't Sell a Single Share Y...\""
     },
     {
       "ticker": "QQQ",
@@ -265,7 +265,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 738.18,
       "change_pct": -1.23,
-      "volume_ratio": 1.17,
+      "volume_ratio": 1.18,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Q2 Earnings Call Highlights\""
+      "move_reason": "News: \"AMD's customer list keeps growing, and Nvidia should notice\""
     },
     {
       "ticker": "APA",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 219.61,
       "change_pct": 0.66,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.77,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -374,12 +374,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 207.99,
       "change_pct": -1.92,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Inves...\""
+      "move_reason": "News: \"Alphabet Just Revealed a $94 Billion Stake in SpaceX -- and It Can't Sell a Single Share Y...\""
     },
     {
       "ticker": "OSCR",
@@ -398,7 +398,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 57.79,
       "change_pct": 0.5,
-      "volume_ratio": 1.12,
+      "volume_ratio": 1.13,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 16.81,
       "change_pct": -4.38,
-      "volume_ratio": 1.28,
+      "volume_ratio": 1.29,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -491,7 +491,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 738.18,
       "change_pct": -1.23,
-      "volume_ratio": 1.17,
+      "volume_ratio": 1.18,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
