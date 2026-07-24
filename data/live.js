@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-24T22:18:40.510455+00:00",
+  "generated_at": "2026-07-24T22:55:34.311942+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -81,24 +81,12 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "change_pct": -3.82,
-      "price": 628.8,
-      "is_watchlist": true,
-      "timestamp": "2026-07-24T22:18:40.507439+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -3.15,
-      "price": 28.01,
+      "change_pct": -3.87,
+      "price": 27.8,
       "is_watchlist": true,
-      "timestamp": "2026-07-24T22:18:40.507436+00:00",
+      "timestamp": "2026-07-24T22:55:34.098533+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,10 +95,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -14.59,
-      "price": 188.74,
+      "change_pct": -14.47,
+      "price": 189.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-24T22:18:40.507432+00:00",
+      "timestamp": "2026-07-24T22:55:34.098530+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,10 +107,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -10.94,
-      "price": 72.23,
+      "change_pct": -10.92,
+      "price": 72.24,
       "is_watchlist": true,
-      "timestamp": "2026-07-24T22:18:40.507421+00:00",
+      "timestamp": "2026-07-24T22:55:34.098522+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -131,13 +119,124 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.25,
-      "price": 522.15,
+      "change_pct": -3.32,
+      "price": 521.78,
       "is_watchlist": true,
-      "timestamp": "2026-07-24T22:18:40.507412+00:00",
+      "timestamp": "2026-07-24T22:55:34.098514+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UN assembly approves mandate extension for rights chief, despite US warning",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/un-assembly-approves-fouryear-extension-in-mandate-of-rights-chief-4812507",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:42:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zelenskiy says US, Ukraine moving forward on joint drone production",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/zelenskiy-says-us-ukraine-moving-forward-on-joint-drone-production-4812591",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:36:52+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-tech-rout-mideast-tariffs-in-focus-4810955",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:36:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Robinhood Ventures Fund I For: 24 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-robinhood-ventures-fund-i-for-24-july-93CH-4812590",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:30:21+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form S-1 INVO Fertility Inc For: 24 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-s1-invo-fertility-inc-for-24-july-93CH-4812589",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:30:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form S-3ASR BridgeBio Pharma Inc For: 24 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-s3asr-bridgebio-pharma-inc-for-24-july-93CH-4812587",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:30:12+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It\u2019s nothing personal\u2019: Should I tell my 96-year-old stepmother that I don\u2019t want her inheritance?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount says it will pause its Warner acquisition while legal challenges play out",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:26:21+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russian missile strike kills 10 at Ukrainian defence event",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/russian-missile-strike-kills-10-at-ukrainian-defence-event-4812453",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:24:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Farmers & Merchants Bancorp Inc For: 24 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-farmers--merchants-bancorp-inc-for-24-july-93CH-4812586",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T22:19:32+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -175,87 +274,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Eagle Point Credit Management sells $201,147 in Acres preferred stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/eagle-point-credit-management-sells-201147-in-acres-preferred-stock-93CH-4812570",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T22:01:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "United Rentals EVP, CFO William Grace sells $1.7m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/united-rentals-evp-cfo-william-grace-sells-17m-in-stock-93CH-4812569",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T22:01:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mink Brook Asset Management buys $2,396 in DLHC stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-buys-2396-in-dlhc-stock-93CH-4812568",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T22:01:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump orders signs outside history museum to correct what he calls \u2019inaccurate information\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trump-signs-executive-order-related-to-smithsonian-institution-white-house-says-4812426",
-      "is_watchlist": true,
-      "timestamp": "2026-07-24T22:00:29+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Southern Cross Acquisition I Corp. For: 24 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-southern-cross-acquisition-i-corp-for-24-july-93CH-4812567",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T22:00:19+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Udr For: 24 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-udr-for-24-july-93CH-4812566",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T22:00:13+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form S-1 Powerdyne\nInternational Inc. For: 24 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-s1-powerdyneinternational-inc-for-24-july-93CH-4812564",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T22:00:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
@@ -274,18 +292,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-24T21:57:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US missiles hit Iran as path towards de-escalation uncertain",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T21:54:54+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -353,6 +359,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-24T21:38:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave vs. Datadog: What Do the Revenue Trends of These High-Growth Tech Companies Tell Investors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17b062e22758111f315c66486b4ccde952bd5d856a0ca1ccfe78526e3b183606",
+      "is_watchlist": true,
+      "timestamp": "2026-07-24T21:36:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -430,17 +448,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-24T21:22:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T21:21:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -858,18 +865,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Why Is Nebius Stock Falling on Friday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4bcab994ff6afd7b614ffd251b6bef16b07b7f917e8f92047f9d59f7b0605924",
-      "is_watchlist": true,
-      "timestamp": "2026-07-24T14:25:11+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Why Is Nebius Stock Falling on Friday?",
       "source": "Benzinga",
@@ -1123,66 +1118,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Key Catalysts Behind Salesforce\u2019s (CRM) Compelling Outlook",
+      "headline": "Gold prices today, Thursday, July 23, 2026: Gold price opens below $4,100 as inflation worries clash with safe-haven demand",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/key-catalyst-behind-salesforce-crm-150523248.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-23-2026-gold-price-opens-below-4100-as-inflation-worries-clash-with-safe-haven-demand-153539220.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T15:05:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Does Mispricing Offer Opportunity in Mastercard (MA)?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-mispricing-offer-opportunity-mastercard-150317069.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T15:03:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Visa (V) an Overlooked Opportunity?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-overlooked-opportunity-150156430.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T15:01:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oklo Joins Trump\u2019s $200M Nuclear Push for AI. Here\u2019s What It Means for OKLO Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oklo-joins-trump-200m-nuclear-150131038.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T15:01:31+00:00",
+      "timestamp": "2026-07-23T15:35:39+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dollar Rises on Houthi Tanker Attack and Higher Oil Prices",
+      "headline": "Advanced Micro Devices\u2019 (AMD) Returns Validate the Investment Thesis",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-houthi-tanker-attack-145421920.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-returns-153448558.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T14:54:21+00:00",
+      "timestamp": "2026-07-23T15:34:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Highlights Strong Travel Numbers as Fuel for American Express",
+      "headline": "Blackstone CEO Stephen Schwarzman says firm is 'mindful' of 'excessive exuberance' in AI",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-strong-travel-143749098.html",
+      "url": "https://finance.yahoo.com/markets/article/blackstone-ceo-stephen-schwarzman-says-firm-is-mindful-of-excessive-exuberance-in-ai-153438757.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T14:37:49+00:00",
+      "timestamp": "2026-07-23T15:34:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Silver prices today, Thursday, July 23: Silver price hovers near $60, keeping the gold/silver ratio in line with historic averages",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-23-silver-price-hovers-near-60-keeping-the-goldsilver-ratio-in-line-with-historic-averages-153316952.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T15:33:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stocks Fall Sharply as Crude Oil Prices Soar and Alphabet Sparks AI Spending Concerns",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-sharply-crude-oil-153230276.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T15:32:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AMZN Stock Layoffs: What to Know as Amazon Cuts AI Jobs",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amzn-stock-layoffs-know-amazon-152847442.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T15:28:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1301,17 +1296,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-22T22:06:49+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "In South Dakota, public media endures a year after federal funding was wiped out",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out",
-      "is_watchlist": false,
-      "timestamp": "2026-07-22T21:21:35+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
