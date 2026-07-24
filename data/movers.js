@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-24T04:33:21.841285+00:00",
+  "generated_at": "2026-07-24T07:18:24.831489+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -105,6 +105,30 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Stock Market News for July 23, 2026\""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 107.48,
+      "change_pct": 0.15,
+      "volume_ratio": 0.23,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 139.72,
+      "change_pct": 0.09,
+      "volume_ratio": 0.14,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -141,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) is Attracting Investor Attention: Here is What You Should Know\""
+      "move_reason": "News: \"Have We Entered A Stealth Bear Market?\""
     },
     {
       "ticker": "XLC",
@@ -224,7 +248,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet Just Revealed a $94 Billion Stake in SpaceX -- and It Can't Sell a Single Share Y...\""
+      "move_reason": "News: \"Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close ...\""
     },
     {
       "ticker": "QQQ",
@@ -272,15 +296,14 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 107.32,
-      "change_pct": -1.09,
-      "volume_ratio": 0.82,
+      "ticker": "XLB",
+      "name": "Materials Select Sector",
+      "price": 50.29,
+      "change_pct": -1.04,
+      "volume_ratio": 1.11,
       "is_watchlist": false,
       "is_index": false,
-      "is_sector": false,
-      "market_state": null,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -379,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet Just Revealed a $94 Billion Stake in SpaceX -- and It Can't Sell a Single Share Y...\""
+      "move_reason": "News: \"Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close ...\""
     },
     {
       "ticker": "OSCR",
@@ -439,7 +462,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) is Attracting Investor Attention: Here is What You Should Know\""
+      "move_reason": "News: \"Have We Entered A Stealth Bear Market?\""
     },
     {
       "ticker": "XLE",
