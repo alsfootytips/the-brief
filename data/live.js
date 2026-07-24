@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-24T13:07:16.386247+00:00",
+  "generated_at": "2026-07-24T13:19:19.703772+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -83,10 +83,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -3.64,
-      "price": 16.94,
+      "change_pct": -3.58,
+      "price": 16.95,
       "is_watchlist": true,
-      "timestamp": "2026-07-24T13:07:16.383316+00:00",
+      "timestamp": "2026-07-24T13:19:16.525965+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,10 +95,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 4.5,
-      "price": 1029.36,
+      "change_pct": 4.36,
+      "price": 1028.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-24T13:07:16.383297+00:00",
+      "timestamp": "2026-07-24T13:19:16.525953+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,13 +107,194 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "DG",
       "name": "Dollar General",
-      "change_pct": -4.14,
-      "price": 115.26,
+      "change_pct": -3.86,
+      "price": 115.6,
       "is_watchlist": true,
-      "timestamp": "2026-07-24T13:07:16.383288+00:00",
+      "timestamp": "2026-07-24T13:19:16.525944+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Business First Bancshares declares $0.15 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618133-business-first-bancshares-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:16:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rising diesel prices and Middle East shipping reroutes put upward pressure on inflation",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618131-rising-diesel-prices-and-middle-east-shipping-reroutes-put-upward-pressure-on-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:16:10+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Texas A&M Engineering Experiment Station picks Dell to build AI platform for national research",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618126-texas-am-engineering-experiment-station-picks-dell-to-build-ai-platform-for-national-research?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:15:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Valvoline Inc For: 24 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-valvoline-inc-for-24-july-93CH-4811867",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:15:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Valvoline Inc For: 24 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-valvoline-inc-for-24-july-93CH-4811866",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:15:07+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Financial Institutions tops Q2 2026 estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-financial-institutions-tops-q2-2026-estimates-93CH-4811865",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:14:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Roche launches FDA-cleared PCR test; expands women's health portfolio",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618116-roche-launches-fda-cleared-pcr-test-expands-womens-health-portfolio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:13:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "1st Source raises dividend by 4.7% to $0.45",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618132-1st-source-raises-dividend-by-47-to-045?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:13:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump imposes new global tariffs, drawing protests from trading partners",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/trump-imposes-forced-labor-duties-on-60-trading-partners-as-10-us-tariffs-expire-4810447",
+      "is_watchlist": true,
+      "timestamp": "2026-07-24T13:12:30+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CBB Bancorp declares $0.125 quarterly dividend",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cbb-bancorp-declares-0125-quarterly-dividend-93CH-4811860",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:12:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock futures mostly flat as investors look to rebound from oil-driven wipeout",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-techfueled-wipeout-tariffs-iran-tensions-in-focus-4810435",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:12:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lamb Weston offsets geopolitical disruptions, inflation with higher production, cost savings",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618082-lamb-weston-offsets-geopolitical-disruptions-inflation-with-higher-production-cost-savings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:11:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HSBC starts SpaceX at Hold, sees execution risks tempering long-term AI ambitions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/hsbc-starts-spacex-at-hold-sees-execution-risks-tempering-longterm-ai-ambitions-4811859",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:11:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tenable slips on back of UBS downgrade",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618128-tenable-slips-on-back-of-ubs-downgrade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:10:59+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Truist raises United Rentals stock price target on strong demand",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/truist-raises-united-rentals-stock-price-target-on-strong-demand-93CH-4811858",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:10:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Club's top 10 things to watch in the stock market Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-24T13:06:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -124,84 +305,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-24T13:06:26+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corteva declares $0.18 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618129-corteva-declares-0_18-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T13:05:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Verizon signs over $1B agreement with Google for dark fiber connectivity",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618111-verizon-signs-over-1b-agreement-with-google-for-dark-fiber-connectivity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T13:05:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CBB Bancorp declares $0.125 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618127-cbb-bancorp-declares-0_125-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T13:05:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Franklin Financial Services declares $0.34 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618125-franklin-financial-services-declares-0_34-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T13:04:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ledyard Financial Group declares $0.21 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618122-ledyard-financial-group-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T13:03:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avidbank Holdings Non-GAAP EPS of $0.76 misses by $0.07, revenue of $29.73M beats by $1.12M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618121-avidbank-holdings-non-gaap-eps-of-0_76-misses-by-0_07-revenue-of-29_73m-beats-by-1_12m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T13:03:35+00:00",
-      "relevance_score": -1.0,
-      "relevance_tier": "low",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Simpson Manufacturing declares $0.30 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618120-simpson-manufacturing-declares-0_30-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T13:03:09+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -224,94 +327,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-24T12:53:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China\u2019s CATL tops quarterly profit forecasts on robust energy storage business",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-catl-sees-net-profit-rise-42-in-first-half-4811511",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:48:34+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mizuho cuts Tractor Supply stock price target on guidance concerns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-tractor-supply-stock-price-target-on-guidance-concerns-93CH-4811774",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:47:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RBC Capital raises Blackstone stock price target on strong results",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-blackstone-stock-price-target-on-strong-results-93CH-4811773",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:47:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BMO raises Southwest Airlines stock price target on margin gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-raises-southwest-airlines-stock-price-target-on-margin-gains-93CH-4811772",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:47:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RBC cuts Cognizant stock price target on IT spending headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/rbc-cuts-cognizant-stock-price-target-on-it-spending-headwinds-93CH-4811771",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:47:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BMO cuts FirstService stock price target to $192 on roofing weakness",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-cuts-firstservice-stock-price-target-to-192-on-roofing-weakness-93CH-4811770",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:47:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BMO raises SAP stock price target to $177 on cloud growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/bmo-raises-sap-stock-price-target-to-177-on-cloud-growth-93CH-4811769",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:46:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RBC Capital raises Popular stock price target on strong capital position",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-popular-stock-price-target-on-strong-capital-position-93CH-4811768",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T12:46:59+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -761,17 +776,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Add a month at sea and $2.5 million - what it costs oil tankers to flee Hormuz and Bab el-Mandeb - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlN1bTdzeXE4MGNNX3JUY0FhZVRPbXlMdXhWcnZuaXBJQnpjNEVJeGM2cnZJeExGWnN0YUZMaWxBN2xKdk04S0ItTnppcjM2aUJYaUZqdFpmWjFHNk54SjZsSXotUURVdzhCVzFac2FCRHhaZ28yMHkwbzVzQmNBZGk5TzRmVGo5M25FRmVDelN3UnotbDNmb3VjWFVJRkJfZnJITElmNzdtNExlam15a0hpUmJSYXk4Z3ZqOXRPZWh5WFVMRHZz?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T23:07:30+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "UK complacent about war threat, warns BAE boss",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
@@ -1133,6 +1137,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T02:29:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Regulatory cleanup fuels Knight-Swift\u2019s bullish outlook",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/policy/articles/regulatory-capacity-cleanup-fuels-knight-020928783.html",
@@ -1177,23 +1192,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Millennials Tell Boomers \u2018We Refuse to Take Care of You\u2019 After You Nuked the Housing Market \u2014 \u2018This Is a Consequence of Your Actions\u2019",
+      "headline": "What This Eagle Materials Filing Signals With Cement Up 10% and Wallboard Down 9%",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/millennials-tell-boomers-refuse-care-010106144.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eagle-materials-filing-signals-cement-010833057.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-23T01:01:06+00:00",
+      "timestamp": "2026-07-23T01:08:33+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NovaGold (NG) Jumps 10.3% on $4.2B Donlin Mine Takeover",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/novagold-ng-jumps-10-3-005830041.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T00:58:30+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
