@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T10:27:30.954717+00:00",
+  "generated_at": "2026-07-25T11:45:53.644889+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -115,6 +115,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "DIA",
+      "name": "SPDR Dow Jones Industrial",
+      "price": 518.76,
+      "change_pct": 0.48,
+      "volume_ratio": 1.01,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
       "price": 107.76,
@@ -158,17 +169,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPDR S&P 500 ETF",
-      "price": 738.93,
-      "change_pct": 0.1,
-      "volume_ratio": 1.03,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
       "move_reason": ""
     }
   ],
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1014.72,
       "change_pct": -1.6,
-      "volume_ratio": 0.98,
+      "volume_ratio": 0.73,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -304,17 +304,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "DIA",
-      "name": "SPDR Dow Jones Industrial",
-      "price": 516.26,
-      "change_pct": -1.0,
-      "volume_ratio": 1.32,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
-      "move_reason": ""
-    },
-    {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 36.08,
@@ -349,6 +338,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": ""
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 57.3,
+      "change_pct": -0.52,
+      "volume_ratio": 1.01,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"TotalEnergies Q2 Earnings & Sales Miss Estimates as Lower Volumes Hurt\""
     }
   ],
   "watchlist": [
@@ -405,7 +406,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1014.72,
       "change_pct": -1.6,
-      "volume_ratio": 0.98,
+      "volume_ratio": 0.73,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -525,9 +526,9 @@ window.theBriefMovers = {
     {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
-      "price": 516.26,
-      "change_pct": -1.0,
-      "volume_ratio": 1.32,
+      "price": 518.76,
+      "change_pct": 0.48,
+      "volume_ratio": 1.01,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
