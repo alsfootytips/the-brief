@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T11:45:53.644889+00:00",
+  "generated_at": "2026-07-25T12:48:25.558415+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -325,19 +325,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Forget SpaceX, Starlink, and Small Satellites? USAF Orders 2 Big Billion-Dollar...\""
-    },
-    {
-      "ticker": "PLTR",
-      "name": "PLTR",
-      "price": 122.51,
-      "change_pct": -0.7,
-      "volume_ratio": 0.74,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Micron\u2019s AI Repricing Is Real \u2014 But the Market Still Isn\u2019t Sure It Can Last\""
     },
     {
       "ticker": "OXY",
@@ -350,6 +338,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"TotalEnergies Q2 Earnings & Sales Miss Estimates as Lower Volumes Hurt\""
+    },
+    {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 291.4,
+      "change_pct": -0.24,
+      "volume_ratio": 0.94,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Weekly Indicators: Oil, Gas, And Interest Rates All Rose This Week\""
     }
   ],
   "watchlist": [
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Bond Yield Breakout\""
+      "move_reason": "News: \"Weekly Indicators: Oil, Gas, And Interest Rates All Rose This Week\""
     },
     {
       "ticker": "NBIS",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Forget SpaceX, Starlink, and Small Satellites? USAF Orders 2 Big Billion-Dollar...\""
+      "move_reason": "News: \"Micron\u2019s AI Repricing Is Real \u2014 But the Market Still Isn\u2019t Sure It Can Last\""
     },
     {
       "ticker": "OSCR",

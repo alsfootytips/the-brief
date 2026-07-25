@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-25T11:45:53.732174+00:00",
+  "generated_at": "2026-07-25T12:48:25.646644+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -28.75,
@@ -190,7 +190,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.285,
       "market_cap": 12777950208,
       "beta": 0.347,
-      "dividend_yield": 2.75,
+      "dividend_yield": 2.77,
       "short_ratio": 5.31,
       "short_percent_of_float": 0.12,
       "analyst_recs": {
@@ -356,7 +356,7 @@ window.theBriefFundamentals = {
       "realized_vol_30d_pct": 4.78,
       "trailing_pe": 175.15102,
       "forward_pe": 38.623997,
-      "price_to_sales": 22.72366,
+      "price_to_sales": null,
       "price_to_book": 13.19822,
       "enterprise_to_ebitda": 113.407,
       "profit_margin": 0.13374,
@@ -450,7 +450,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.133,
       "market_cap": 25859373056,
       "beta": 0.247,
-      "dividend_yield": 2.01,
+      "dividend_yield": 2.05,
       "short_ratio": 2.77,
       "short_percent_of_float": 0.041500002,
       "analyst_recs": {
