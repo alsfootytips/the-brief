@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T14:38:09.345398+00:00",
+  "generated_at": "2026-07-25T15:47:22.909130+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stop Counting Tariffs, Start Counting Hikes\""
+      "move_reason": "News: \"Thinking About The Semiconductor Pullback And Positioning\""
     },
     {
       "ticker": "NBIS",
