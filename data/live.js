@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-25T22:37:49.981203+00:00",
+  "generated_at": "2026-07-25T23:43:27.639206+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -86,7 +86,7 @@ window.theBriefLive = {
       "change_pct": -3.95,
       "price": 628.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T22:37:49.978213+00:00",
+      "timestamp": "2026-07-25T23:43:27.636145+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -98,7 +98,7 @@ window.theBriefLive = {
       "change_pct": -4.22,
       "price": 27.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T22:37:49.978210+00:00",
+      "timestamp": "2026-07-25T23:43:27.636142+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -110,7 +110,7 @@ window.theBriefLive = {
       "change_pct": -14.12,
       "price": 189.78,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T22:37:49.978207+00:00",
+      "timestamp": "2026-07-25T23:43:27.636139+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -122,7 +122,7 @@ window.theBriefLive = {
       "change_pct": -11.11,
       "price": 72.09,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T22:37:49.978196+00:00",
+      "timestamp": "2026-07-25T23:43:27.636129+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -134,10 +134,65 @@ window.theBriefLive = {
       "change_pct": -3.35,
       "price": 521.6,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T22:37:49.978188+00:00",
+      "timestamp": "2026-07-25T23:43:27.636120+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-vs-intel-232000073.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T23:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vehicle mows down crowd at Berlin Pride, killing one, police say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say-4812819",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T23:00:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-lifts-cybersecurity-stock-targets-to-reflect-longterm-growth-outlook-4812821",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T22:57:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Overnight Russian attack triggers fires in Ukrainian capital Kyiv",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/overnight-russian-attack-triggers-fires-in-ukrainian-capital-kyiv-4812820",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T22:54:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/maine-democrats-to-nominate-troy-jackson-to-replace-platner-in-us-senate-race-4812763",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T22:42:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -153,28 +208,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vehicle mows down crowd at Berlin Pride festival, injuring many, police say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say-4812819",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T22:24:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/maine-democrats-to-nominate-troy-jackson-to-replace-platner-in-us-senate-race-4812763",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T22:06:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
@@ -183,17 +216,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How a 67-Year-Old Built a $4,800 Monthly Paycheck Around SCHD, JEPQ, and O",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/67-old-built-4-800-214529574.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T21:45:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -341,31 +363,16 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. pauses Iran air strikes as Trump signals push for deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/usiran-talks-continue-as-trump-warns-forces-are-ready-4812721",
-      "is_watchlist": true,
-      "timestamp": "2026-07-25T20:45:56+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448",
+      "headline": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTJYU1ZqWjdXVXRveUJLd1BsbFVvd2s0RFJMQU1hd0xwOGxKWW90VmxNOUxkVnlsLTZMa1JEaXNtTE40ZWZaV0llNUx5SGhQY3RpeFBIMHRMRmJXQmZrNUFIdEg1TzhjQ196dTNqVFFVLVFWMVpBWjY3UVdpT29QZjBkSnpRNHJJbWwtdjdNZm9CeE51cm9McVpBZWxiMVlsQXdVSzFjQ1pmNzNhOXFQeE9SX3ZUR1JfZHA0UF9n?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-07-25T20:24:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "timestamp": "2026-07-25T20:21:29+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -580,17 +587,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cathie Wood Just Poured $18 Million Into Meta Stock. Here\u2019s Why.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-poured-18-153002939.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T15:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -992,17 +988,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi vessel sustains minor hull damage after Red Sea attack, state news agency says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZmVnQzBKdENLU1Y5aXhpcVVpZVNtbDJyUGhJNWdlMF9zaVBRSmc4a0FFLUN1QjRVcFNvZDNjZFQwcWx6YWRNWEFOaVZoS0ZjWjFoMXlwQjN0bGk3d1lZSnVTYUNQZl9YenZOUk1ZZXMxX1RxTGhzR3VrclI2YXY5OWRWNVRpNGthOVFackVyQUpwTFlQVzh4S1M2cDM2MjdKWjRJX2R2QXpPSWpwa2hJdFBNRjhXdjhoeXJBaTczMUVrckxiU2ZPZ0hBNGc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-24T19:50:49+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1422,6 +1407,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/21/tesla-shares-poised-for-biggest-earnings-move-in-a-year.html",
       "is_watchlist": false,
       "timestamp": "2026-07-21T18:25:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What is an add-on CD?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/add-on-cd-161023475.html",
+      "is_watchlist": false,
+      "timestamp": "2024-08-08T16:10:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
