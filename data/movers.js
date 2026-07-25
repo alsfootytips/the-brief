@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T15:47:22.909130+00:00",
+  "generated_at": "2026-07-25T16:58:01.549429+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: The Next Leg Higher\""
+      "move_reason": "News: \"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Buil...\""
     },
     {
       "ticker": "META",
@@ -282,7 +282,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: The Next Leg Higher\""
+      "move_reason": "News: \"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Buil...\""
     },
     {
       "ticker": "APA",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This ETF Has More Than Doubled the S&P 500's Returns This Year, but Be Aware of This One I...\""
+      "move_reason": "News: \"Billionaire Investor Seth Klarman\u2019s Top 5 Stocks: Would He Buy More Today?\""
     },
     {
       "ticker": "OSCR",
