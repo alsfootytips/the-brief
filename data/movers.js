@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T04:28:43.144047+00:00",
+  "generated_at": "2026-07-25T06:40:29.000579+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -130,7 +130,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 107.76,
       "change_pct": 0.41,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.93,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -153,7 +153,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 140.12,
       "change_pct": 0.37,
-      "volume_ratio": 0.92,
+      "volume_ratio": 0.94,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -325,7 +325,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Apple Stock Is Up Today\""
+      "move_reason": "News: \"Super Micro Just Delivered Fantastic News to Nvidia Investors\""
     },
     {
       "ticker": "PLTR",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Apple Stock Is Up Today\""
+      "move_reason": "News: \"Super Micro Just Delivered Fantastic News to Nvidia Investors\""
     },
     {
       "ticker": "OSCR",
@@ -713,36 +713,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 17.22,
-      "change_pct": 2.57,
-      "score": 6.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.1 (cheap on absolute basis)",
-        "Down -28.7% over 3 months \u2014 deep drawdown",
-        "-81.3% from 52-week high"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.1 (cheap on absolute basis)",
-        "Down -28.7% over 3 months \u2014 deep drawdown",
-        "-81.3% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap",
-        "drawdown",
-        "off-highs"
-      ],
-      "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova",
       "price": 1014.72,
@@ -765,6 +735,33 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 17.22,
+      "change_pct": 2.57,
+      "score": 5.5,
+      "signals": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.1 (cheap on absolute basis)",
+        "-80.7% from 52-week high"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.1 (cheap on absolute basis)",
+        "-80.7% from 52-week high"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "cheap",
+        "off-highs"
+      ],
+      "narrative": "<strong>TTD</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "NBIS",

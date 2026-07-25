@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-25T04:28:43.153637+00:00",
+  "generated_at": "2026-07-25T06:40:29.010624+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -86,7 +86,7 @@ window.theBriefLive = {
       "change_pct": -3.95,
       "price": 628.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T04:28:43.150744+00:00",
+      "timestamp": "2026-07-25T06:40:29.007702+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -98,7 +98,7 @@ window.theBriefLive = {
       "change_pct": -4.22,
       "price": 27.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T04:28:43.150741+00:00",
+      "timestamp": "2026-07-25T06:40:29.007700+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -110,7 +110,7 @@ window.theBriefLive = {
       "change_pct": -14.12,
       "price": 189.78,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T04:28:43.150738+00:00",
+      "timestamp": "2026-07-25T06:40:29.007696+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -122,7 +122,7 @@ window.theBriefLive = {
       "change_pct": -11.11,
       "price": 72.09,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T04:28:43.150728+00:00",
+      "timestamp": "2026-07-25T06:40:29.007686+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -134,113 +134,107 @@ window.theBriefLive = {
       "change_pct": -3.35,
       "price": 521.6,
       "is_watchlist": true,
-      "timestamp": "2026-07-25T04:28:43.150719+00:00",
+      "timestamp": "2026-07-25T06:40:29.007677+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "US-Iran talks continue as Trump warns forces are ready",
+      "headline": "Kuwait\u2019s KPC signs $16 billion lease and leaseback deal with Blackstone, KKR, Brookfield for oil pipeline network",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/usiran-talks-continue-as-trump-warns-forces-are-ready-4812721",
-      "is_watchlist": true,
-      "timestamp": "2026-07-25T04:09:59+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "url": "https://www.investing.com/news/stock-market-news/kuwaits-kpc-signs-16-billion-lease-and-leaseback-deal-with-blackstone-kkr-brookfield-for-oil-pipeline-network-4812747",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T06:18:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump mixes jokes with barbs at press freedom dinner",
+      "headline": "India\u2019s Modi under pressure as youth protest leaders set for more talks",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-returns-to-white-house-correspondents-dinner-after-april-attack-halted-gala-4810947",
+      "url": "https://www.investing.com/news/world-news/indias-modi-under-pressure-as-youth-protest-leaders-set-for-more-talks-4812746",
       "is_watchlist": false,
-      "timestamp": "2026-07-25T04:00:28+00:00",
+      "timestamp": "2026-07-25T06:18:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Heartbeam Inc For: 25 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-heartbeam-inc-for-25-july-93CH-4812745",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T06:15:17+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 BROWN FORMAN CORP For: 25 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-brown-forman-corp-for-25-july-93CH-4812744",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T06:15:13+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX Starship deploys upgraded Starlink satellites during 13th test flight",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/spacex-starship-deploys-upgraded-starlink-satellites-during-13th-test-flight-4812743",
+      "is_watchlist": false,
+      "timestamp": "2026-07-25T06:06:51+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Chronoscale Corp For: 25 July",
+      "headline": "Form 4 BROWN FORMAN CORP For: 25 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-chronoscale-corp-for-25-july-93CH-4812719",
+      "url": "https://www.investing.com/news/filings/form-4-brown-forman-corp-for-25-july-93CH-4812742",
       "is_watchlist": false,
-      "timestamp": "2026-07-25T04:00:11+00:00",
+      "timestamp": "2026-07-25T06:00:23+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Insmed Inc For: 24 July",
+      "headline": "Form 13D/A Stablecoin Development Corp For: 25 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-insmed-inc-for-24-july-93CH-4812718",
+      "url": "https://www.investing.com/news/filings/form-13da-stablecoin-development-corp-for-25-july-93CH-4812741",
       "is_watchlist": false,
-      "timestamp": "2026-07-25T03:50:03+00:00",
+      "timestamp": "2026-07-25T06:00:21+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Insmed chair and CEO William Lewis sells over $1.1m in company stock",
+      "headline": "Form 144 WESTAMERICA BANCORPORATION For: 25 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/insmed-chair-and-ceo-william-lewis-sells-over-11m-in-company-stock-93CH-4812717",
+      "url": "https://www.investing.com/news/filings/form-144-westamerica-bancorporation-for-25-july-93CH-4812740",
       "is_watchlist": false,
-      "timestamp": "2026-07-25T03:46:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US missiles hit Iran as path towards de-escalation uncertain",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T03:42:26+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Corpay Inc For: 24 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-corpay-inc-for-24-july-93CH-4812716",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T03:30:18+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 144 First American Financial Corp For: 24 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-144-first-american-financial-corp-for-24-july-93CH-4812715",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T03:30:13+00:00",
+      "timestamp": "2026-07-25T06:00:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Why Apple Stock Is Up Today",
+      "headline": "Super Micro Just Delivered Fantastic News to Nvidia Investors",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4d7a5e09347f733994f9065c4cb00b129eac9e514781f1a55b010d42c4d196f",
+      "url": "https://finnhub.io/api/news?id=020c1451074aef6c4cac65b4c2ffc9ab8873e47c2dfa2c512b91ea1ce13d5db1",
       "is_watchlist": true,
-      "timestamp": "2026-07-25T03:02:33+00:00",
+      "timestamp": "2026-07-25T05:20:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -248,11 +242,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Is Bitcoin Still a Millionaire Maker?",
+      "headline": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0188635dfd1bf98f75c1ecda58b98cae328723bad8954d9edcd5fc98c0d2c5d6",
+      "url": "https://finnhub.io/api/news?id=0d72dc144d7c33260667fe7cc810f7eaca08120e83c9c4c724c76409559782cd",
       "is_watchlist": true,
-      "timestamp": "2026-07-25T02:50:00+00:00",
+      "timestamp": "2026-07-25T05:10:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -260,11 +254,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Tech Hits a Wall & Netflix Plunges",
+      "headline": "NAVER, NVIDIA and Brookfield to Expand Korea\u2019s National AI Factory Infrastructure Buildout",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2402c479ba69721705212e8d76322675dfdc317d5d5d92d2d6eb38bccdefffc6",
+      "url": "https://finnhub.io/api/news?id=aef15003821335f75a456faffb8f2c9981417289036465ef2903bc535d5f10de",
       "is_watchlist": true,
-      "timestamp": "2026-07-25T02:17:37+00:00",
+      "timestamp": "2026-07-25T05:10:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -360,6 +354,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-24T23:11:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c9e386ecfa57bddc27bcd28cdd33da64128b80aee8e4c4256edd4369189162c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-24T23:00:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -619,18 +625,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "MRVL Has Momentum. The Question Is The Price",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6120d5ab14b1aa2b05ea68602aa178e15a0bd22d9e860b5b004081ce93b30b53",
-      "is_watchlist": true,
-      "timestamp": "2026-07-24T21:14:44+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1058,12 +1052,56 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Francisco Partners' $21B haul defies tech PE fundraising chill",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/francisco-partners-21b-haul-defies-233723433.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:37:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-vs-microsoft-cloud-empire-233500002.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CapEx Fears Eclipse Alphabet\u2019s Strong Q2, but GOOGL Stock Still Looks Attractive",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/capex-fears-eclipse-alphabet-strong-233002988.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T23:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "UK complacent about war threat, warns BAE boss",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-23T23:04:19+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn Holds onto Gains on Thursday with Drier Forecast Remaining",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-holds-onto-gains-thursday-223055516.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-23T22:30:55+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1088,72 +1126,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/intel-stock-intc-q2-2026-earnings/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:27:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lockheed Martin Corporation Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corporation-q2-2026-212644093.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:26:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Independent Bank Corporation Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/independent-bank-corporation-q2-2026-212214322.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:22:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ladder Capital Corp Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ladder-capital-corp-q2-2026-211843105.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:18:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Blackstone COO: AI boom is 'different' from previous investment cycles",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-coo-ai-boom-different-211843463.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:18:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Edwards Lifesciences Narrows Full-Year Sales Outlook After Second-Quarter Growth",
-      "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/business/earnings/edwards-lifesciences-narrows-full-year-sales-outlook-after-second-quarter-growth-8b767559?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-23T21:17:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1433,6 +1405,28 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
       "is_watchlist": false,
       "timestamp": "2026-07-19T12:46:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can your bank close your account, and what should you do if it happens?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/bank-account-closed-191714305.html",
+      "is_watchlist": false,
+      "timestamp": "2024-08-13T19:17:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How much cash should I have on hand?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-much-cash-should-i-have-on-hand-164855098.html",
+      "is_watchlist": false,
+      "timestamp": "2024-08-13T16:48:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
