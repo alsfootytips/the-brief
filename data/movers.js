@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T20:32:31.132266+00:00",
+  "generated_at": "2026-07-25T21:37:04.150998+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -48,11 +48,11 @@ window.theBriefMovers = {
       "move_reason": "News: \"Why China Could Become Costco's Next Membership Catalyst\""
     },
     {
-      "ticker": "XLV",
-      "name": "Health Care Select Sector",
-      "price": 161.44,
-      "change_pct": 1.26,
-      "volume_ratio": 1.02,
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 84.13,
+      "change_pct": 1.11,
+      "volume_ratio": 1.13,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -75,6 +75,17 @@ window.theBriefMovers = {
       "price": 56.31,
       "change_pct": 0.86,
       "volume_ratio": 1.1,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLV",
+      "name": "Health Care Select Sector",
+      "price": 162.57,
+      "change_pct": 0.7,
+      "volume_ratio": 1.16,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -159,17 +170,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPDR S&P 500 ETF",
-      "price": 738.93,
-      "change_pct": 0.1,
-      "volume_ratio": 1.03,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -214,7 +214,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 628.0,
       "change_pct": -3.95,
-      "volume_ratio": 1.21,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -226,7 +226,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 521.6,
       "change_pct": -3.35,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.03,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -258,26 +258,26 @@ window.theBriefMovers = {
       "move_reason": "News: \"Morgan Stanley strongly resets GE Vernova stock target\""
     },
     {
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "price": 175.88,
+      "change_pct": -1.44,
+      "volume_ratio": 1.09,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "price": 419.5,
       "change_pct": -1.42,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.75,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 83.21,
-      "change_pct": -1.39,
-      "volume_ratio": 1.26,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
       "move_reason": ""
     },
     {
@@ -304,17 +304,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "price": 178.45,
-      "change_pct": -1.01,
-      "volume_ratio": 1.04,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 36.08,
@@ -331,7 +320,7 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 206.8,
       "change_pct": -0.94,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -349,6 +338,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": ""
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 57.3,
+      "change_pct": -0.52,
+      "volume_ratio": 1.01,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Energy Transfer vs. Occidental Petroleum: The Better Energy Buy for the Second Half of 202...\""
     }
   ],
   "watchlist": [
@@ -357,7 +358,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 521.6,
       "change_pct": -3.35,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.03,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -441,7 +442,7 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 206.8,
       "change_pct": -0.94,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -477,7 +478,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 628.0,
       "change_pct": -3.95,
-      "volume_ratio": 1.21,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -489,7 +490,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 419.5,
       "change_pct": -1.42,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.75,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -586,11 +587,11 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLV",
-      "name": "Health Care Select Sector",
-      "price": 161.44,
-      "change_pct": 1.26,
-      "volume_ratio": 1.02,
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 84.13,
+      "change_pct": 1.11,
+      "volume_ratio": 1.13,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -611,6 +612,16 @@ window.theBriefMovers = {
       "price": 56.31,
       "change_pct": 0.86,
       "volume_ratio": 1.1,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLV",
+      "name": "Health Care Select Sector",
+      "price": 162.57,
+      "change_pct": 0.7,
+      "volume_ratio": 1.16,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -659,19 +670,9 @@ window.theBriefMovers = {
     {
       "ticker": "XLK",
       "name": "Technology Select Sector",
-      "price": 178.45,
-      "change_pct": -1.01,
-      "volume_ratio": 1.04,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 83.21,
-      "change_pct": -1.39,
-      "volume_ratio": 1.26,
+      "price": 175.88,
+      "change_pct": -1.44,
+      "volume_ratio": 1.09,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -896,34 +897,25 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "change_pct": -1.39,
-      "price": 83.21,
-      "watchlist_members": [
-        "DG"
-      ]
-    },
-    {
-      "ticker": "XLV",
-      "name": "Health Care Select Sector",
-      "change_pct": 1.26,
-      "price": 161.44,
-      "watchlist_members": [
-        "OSCR"
-      ]
-    },
-    {
       "ticker": "XLK",
       "name": "Technology Select Sector",
-      "change_pct": -1.01,
-      "price": 178.45,
+      "change_pct": -1.44,
+      "price": 175.88,
       "watchlist_members": [
         "CRWV",
         "NBIS",
         "TTD",
         "AMD",
         "NVDA"
+      ]
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "change_pct": 1.11,
+      "price": 84.13,
+      "watchlist_members": [
+        "DG"
       ]
     },
     {
@@ -939,6 +931,15 @@ window.theBriefMovers = {
       "change_pct": 0.86,
       "price": 56.31,
       "watchlist_members": []
+    },
+    {
+      "ticker": "XLV",
+      "name": "Health Care Select Sector",
+      "change_pct": 0.7,
+      "price": 162.57,
+      "watchlist_members": [
+        "OSCR"
+      ]
     },
     {
       "ticker": "XLE",
