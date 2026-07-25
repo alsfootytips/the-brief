@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T21:37:04.150998+00:00",
+  "generated_at": "2026-07-25T22:37:49.971009+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -183,7 +183,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Moved Markets This Week\""
+      "move_reason": "News: \"Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company a...\""
     },
     {
       "ticker": "CRWV",
@@ -195,7 +195,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Millionaire-Maker AI Stocks to Hold for the Next Decade\""
+      "move_reason": "News: \"CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What I...\""
     },
     {
       "ticker": "OSCR",
@@ -325,7 +325,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now\""
+      "move_reason": "News: \"CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What I...\""
     },
     {
       "ticker": "PLTR",
@@ -387,7 +387,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Millionaire-Maker AI Stocks to Hold for the Next Decade\""
+      "move_reason": "News: \"CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What I...\""
     },
     {
       "ticker": "DG",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Moved Markets This Week\""
+      "move_reason": "News: \"Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company a...\""
     },
     {
       "ticker": "NVDA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now\""
+      "move_reason": "News: \"CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What I...\""
     },
     {
       "ticker": "OSCR",
