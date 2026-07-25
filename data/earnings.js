@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-24T23:32:55+00:00",
+  "generated_at": "2026-07-25T01:11:02+00:00",
   "by_date": {
     "2026-08-04": [
       {
@@ -11675,22 +11675,6 @@ window.theBriefEarnings = {
         "eps_estimate": -0.6565,
         "revenue_estimate": 73427000,
         "is_watchlist": false
-      },
-      {
-        "ticker": "MMYT",
-        "date": "2026-08-03",
-        "hour": "",
-        "eps_estimate": 0.461,
-        "revenue_estimate": 298373123,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MRUS",
-        "date": "2026-08-03",
-        "hour": "",
-        "eps_estimate": -1.4034,
-        "revenue_estimate": 10781196,
-        "is_watchlist": false
       }
     ],
     "2026-08-07": [
@@ -12188,6 +12172,24 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.167,
         "revenue_estimate": 563107259,
+        "is_watchlist": false
+      }
+    ],
+    "2026-08-08": [
+      {
+        "ticker": "PFSB",
+        "date": "2026-08-08",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "STSR",
+        "date": "2026-08-08",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       }
     ]
