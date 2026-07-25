@@ -1,12 +1,12 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-25T01:11:02.821890+00:00",
+  "generated_at": "2026-07-25T04:28:43.144047+00:00",
   "gainers": [
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 17.22,
       "change_pct": 2.57,
-      "volume_ratio": 1.32,
+      "volume_ratio": 1.34,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -18,7 +18,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.95,
       "change_pct": 2.22,
-      "volume_ratio": 1.18,
+      "volume_ratio": 1.19,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -29,7 +29,7 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "price": 51.26,
       "change_pct": 1.93,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.16,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -74,7 +74,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 56.31,
       "change_pct": 0.86,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.1,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -119,7 +119,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 518.76,
       "change_pct": 0.48,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.01,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -178,7 +178,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 189.78,
       "change_pct": -14.12,
-      "volume_ratio": 1.19,
+      "volume_ratio": 1.21,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -190,7 +190,7 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 72.09,
       "change_pct": -11.11,
-      "volume_ratio": 1.1,
+      "volume_ratio": 1.11,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -202,12 +202,12 @@ window.theBriefMovers = {
       "name": "Oscar Health",
       "price": 27.7,
       "change_pct": -4.22,
-      "volume_ratio": 0.68,
+      "volume_ratio": 0.86,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+      "move_reason": "News: \"Oscar Health: Scale Is Finally Showing Up On The Bottom-Line\""
     },
     {
       "ticker": "PWR",
@@ -231,14 +231,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns\""
+      "move_reason": "News: \"Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?\""
     },
     {
       "ticker": "META",
       "name": "META",
       "price": 594.15,
       "change_pct": -1.97,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.0,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -250,7 +250,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1014.72,
       "change_pct": -1.6,
-      "volume_ratio": 0.64,
+      "volume_ratio": 0.73,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -285,7 +285,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 684.23,
       "change_pct": -1.12,
-      "volume_ratio": 1.16,
+      "volume_ratio": 1.23,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -320,19 +320,19 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 206.8,
       "change_pct": -0.94,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Sweetgreen Stock Plummeted by Nearly 15% This Week\""
+      "move_reason": "News: \"Why Apple Stock Is Up Today\""
     },
     {
       "ticker": "PLTR",
       "name": "PLTR",
       "price": 122.51,
       "change_pct": -0.7,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.74,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 57.3,
       "change_pct": -0.52,
-      "volume_ratio": 0.81,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns\""
+      "move_reason": "News: \"Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?\""
     },
     {
       "ticker": "APA",
@@ -382,7 +382,7 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 72.09,
       "change_pct": -11.11,
-      "volume_ratio": 1.1,
+      "volume_ratio": 1.11,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -406,7 +406,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1014.72,
       "change_pct": -1.6,
-      "volume_ratio": 0.64,
+      "volume_ratio": 0.73,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -418,19 +418,19 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 291.4,
       "change_pct": -0.24,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Fat Tail Risks Hiding In Plain Sight\""
+      "move_reason": "News: \"Chicago Fed National Activity Index: Economic Growth Increased In June\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 189.78,
       "change_pct": -14.12,
-      "volume_ratio": 1.19,
+      "volume_ratio": 1.21,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -442,31 +442,31 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 206.8,
       "change_pct": -0.94,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Sweetgreen Stock Plummeted by Nearly 15% This Week\""
+      "move_reason": "News: \"Why Apple Stock Is Up Today\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 27.7,
       "change_pct": -4.22,
-      "volume_ratio": 0.68,
+      "volume_ratio": 0.86,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+      "move_reason": "News: \"Oscar Health: Scale Is Finally Showing Up On The Bottom-Line\""
     },
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 57.3,
       "change_pct": -0.52,
-      "volume_ratio": 0.81,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -502,7 +502,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 17.22,
       "change_pct": 2.57,
-      "volume_ratio": 1.32,
+      "volume_ratio": 1.34,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -528,7 +528,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 518.76,
       "change_pct": 0.48,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.01,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -538,7 +538,7 @@ window.theBriefMovers = {
       "name": "iShares Russell 2000 ETF",
       "price": 291.4,
       "change_pct": -0.24,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
@@ -549,7 +549,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 684.23,
       "change_pct": -1.12,
-      "volume_ratio": 1.16,
+      "volume_ratio": 1.23,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -559,7 +559,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 738.93,
       "change_pct": 0.1,
-      "volume_ratio": 0.97,
+      "volume_ratio": 1.03,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -571,7 +571,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.95,
       "change_pct": 2.22,
-      "volume_ratio": 1.18,
+      "volume_ratio": 1.19,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -581,7 +581,7 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "price": 51.26,
       "change_pct": 1.93,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.16,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -611,7 +611,7 @@ window.theBriefMovers = {
       "name": "Financial Select Sector",
       "price": 56.31,
       "change_pct": 0.86,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.1,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -713,6 +713,36 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 17.22,
+      "change_pct": 2.57,
+      "score": 6.5,
+      "signals": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.1 (cheap on absolute basis)",
+        "Down -28.7% over 3 months \u2014 deep drawdown",
+        "-81.3% from 52-week high"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.1 (cheap on absolute basis)",
+        "Down -28.7% over 3 months \u2014 deep drawdown",
+        "-81.3% from 52-week high"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "cheap",
+        "drawdown",
+        "off-highs"
+      ],
+      "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLK"
+    },
+    {
       "ticker": "GEV",
       "name": "GE Vernova",
       "price": 1014.72,
@@ -735,33 +765,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 17.22,
-      "change_pct": 2.57,
-      "score": 5.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.1 (cheap on absolute basis)",
-        "-80.7% from 52-week high"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.1 (cheap on absolute basis)",
-        "-80.7% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap",
-        "off-highs"
-      ],
-      "narrative": "<strong>TTD</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLK"
     },
     {
       "ticker": "NBIS",
