@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-07-26T15:33:00+00:00",
+  "generated_at": "2026-07-26T16:36:23+00:00",
   "by_date": {
     "2026-08-04": [
       {
@@ -7859,6 +7859,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "EFC",
+        "date": "2026-08-06",
+        "hour": "amc",
+        "eps_estimate": 0.4663,
+        "revenue_estimate": 67579100,
+        "is_watchlist": false
+      },
+      {
         "ticker": "ELDN",
         "date": "2026-08-06",
         "hour": "",
@@ -11626,14 +11634,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.2015,
         "revenue_estimate": 225291225,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GNLX",
-        "date": "2026-08-03",
-        "hour": "",
-        "eps_estimate": -0.2006,
-        "revenue_estimate": 0,
         "is_watchlist": false
       }
     ],

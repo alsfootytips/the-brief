@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-26T15:33:00.068109+00:00",
+  "generated_at": "2026-07-26T16:36:23.508791+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -86,7 +86,7 @@ window.theBriefLive = {
       "change_pct": -3.95,
       "price": 628.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T15:33:00.065072+00:00",
+      "timestamp": "2026-07-26T16:36:23.505727+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -98,7 +98,7 @@ window.theBriefLive = {
       "change_pct": -4.22,
       "price": 27.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T15:33:00.065069+00:00",
+      "timestamp": "2026-07-26T16:36:23.505724+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -110,7 +110,7 @@ window.theBriefLive = {
       "change_pct": -14.12,
       "price": 189.78,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T15:33:00.065065+00:00",
+      "timestamp": "2026-07-26T16:36:23.505721+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -122,7 +122,7 @@ window.theBriefLive = {
       "change_pct": -11.11,
       "price": 72.09,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T15:33:00.065055+00:00",
+      "timestamp": "2026-07-26T16:36:23.505710+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -134,10 +134,77 @@ window.theBriefLive = {
       "change_pct": -3.35,
       "price": 521.6,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T15:33:00.065043+00:00",
+      "timestamp": "2026-07-26T16:36:23.505701+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. presses Mexico to match tariffs on Chinese steel, aluminum",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618447-u-s-presses-mexico-to-match-tariffs-on-chinese-steel-aluminum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T16:24:37+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Magic Number for a \"Comfortable\" Retirement is $1.2 Million. Here's How Much You Might Need to Invest Each Month to Be on Track for That",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/magic-number-comfortable-retirement-1-162000761.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T16:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/best-quantum-computing-pick-shovel-161400287.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T16:14:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T16:13:52+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Honduras ex-President Hernandez returns home after Trump pardon",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/honduras-expresident-hernandez-to-return-home-after-trump-pardon-4812857",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T16:06:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thailand\u2019s aging crisis offers a warning for emerging markets",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618438-thailand-s-aging-crisis-offers-a-warning-for-emerging-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T15:59:53+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -146,30 +213,80 @@ window.theBriefLive = {
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-07-26T15:29:29+00:00",
+      "timestamp": "2026-07-26T15:59:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Buffett"
+      ],
+      "ticker": "NVDA",
+      "headline": "Warren Buffett's \"Playing With Fire\" Warning Is Back: Here's What History Says Happens Next for Stocks, and What Investors Can Do About It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21779705e6ee6266948db711b43a3c81b9013cce08bae9dd1a812fe1d0527d5f",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T15:50:00+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "This AI Stock Has Tripled in 2026. It Could Still Double in 3 Years (Hint: It's Not Micron)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54ca25a339ec0fdf623fe661f6f8ed665ad84b7ad7d0998f4cc1c84ee7fdbe9e",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T15:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "4 Energy Stocks With 20+ Years of Consecutive Dividend Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0834d5a0cbd45cf22a9dd6d5db54a9621d427dc12d8063893f32307391ded8ad",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T15:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Germany hunts Islamist suspect after Berlin Pride crowd ramming",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T15:31:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-trade-broken-where-152430787.html",
+      "headline": "Cuban president accuses US of \u2019political genocide\u2019 on anniversary of revolution",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/cuban-president-accuses-us-of-political-genocide-on-anniversary-of-revolution-4812900",
       "is_watchlist": false,
-      "timestamp": "2026-07-26T15:24:30+00:00",
+      "timestamp": "2026-07-26T15:30:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "If I Could Only Own 1 ETF Heading Into the Coming Fed Meeting, It Would Be This One",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-only-own-1-etf-152200110.html",
+      "headline": "Anduril is said to seek $100B valuation in latest funding round",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618445-anduril-is-said-to-seek-100b-valuation-in-latest-funding-round?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-07-26T15:22:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-07-26T15:29:42+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -191,17 +308,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/world-news/overnight-russian-attack-triggers-fires-in-ukrainian-capital-kyiv-4812820",
       "is_watchlist": false,
       "timestamp": "2026-07-26T15:06:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Germany hunts Islamist suspect after Berlin Pride crowd ramming",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T15:06:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -283,6 +389,22 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T14:50:55+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
@@ -305,22 +427,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T14:48:33+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Barrick evacuates stranded workers after Chile storms",
@@ -338,12 +444,12 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Trump\u00a0is giving Iran talks \u2019a little bit of room,\u2019 US ambassador to UN says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/trumpis-giving-iran-talks-a-little-bit-of-room-us-ambassador-to-un-says-4812892",
+      "headline": "Trump is giving Iran talks 'a little bit of room,' US ambassador to UN says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0pLZTJjRGRTWW02bXNWZW9QdjlJV3JWbHkwR2tRNFMzR1ZPa0NLLVBhUGxUVzVKbTVfZ1RhTGs3Rk5vZVFYVHNaRnA4dU5melZIeEYta3Y4YlpUZUtxcTlpOU5oTWtybGlxUkVjMU9heUR6V0xhbVFaUWJTTXlVNmg2VW8zemJETEN4VUgwLWdxN0VyVjJjcGxoSTU1djBfR0pnbENheDhNdU16d2ZnZl8ycGZtNnYzdHVQVQ?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-07-26T14:42:24+00:00",
-      "relevance_score": 7.0,
+      "timestamp": "2026-07-26T14:42:04+00:00",
+      "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
@@ -367,17 +473,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-26T14:30:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shein reports profit decline ahead of Hong Kong IPO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618444-shein-reports-profit-decline-ahead-of-hong-kong-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T14:16:40+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -437,29 +532,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Latin America\u2019s ETF boom accelerates as investors embrace local funds",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618439-latin-america-s-etf-boom-accelerates-as-investors-embrace-local-funds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T13:59:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why GE Vernova Investors Should Ignore the Wind",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7c3cae71c1bf4aba4dd8f4ac33ea9bfc403f569ede3637ac4096c2dd06d127c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T13:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Why GE Vernova Investors Should Ignore the Wind",
       "source": "Yahoo",
@@ -469,33 +541,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Bloom Energy's Next Earnings Report on July 28 Could Send the Stock Soaring. Here's Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6060042eddddf58f170c08a847d4c3c9076ec9b2ed46db6acf30a2af42e323bb",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T13:45:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. pauses Iran strikes as diplomatic push gains momentum",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618442-u-s-pauses-iran-strikes-as-diplomatic-push-gains-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T13:43:42+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -518,18 +563,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-26T13:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0d3e71c44ee81336df4cb46d7ad31407bfdfa6e52158d7364be528d023c595ec",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T13:26:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -614,6 +647,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Main land crossing between Kuwait and Iraq reopens, Iraq's state news agency says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGRZN0lTUGJ5SmhKYWhGai1QM1RiZVM2X29OcFpJeHZrWk4wMlM1b1hXbUZhS29maFlydGZRc3lTUXNxRjJJcXRNUnN0Ri1RdEhxX01KMUhpdXlteFlpUVhMTjU0SlRSX2ZHVlZwUWphM08tTVgzZXFmdlZaNXVuRHA0dlY5c3AycngtM016WEFyRWtFbkR2eGEtNS0xY1p5Uzg2dnpyMjdLTVVGakpWOElldll1UExvSEVTQ0ltTFhtMnFGZFRlRw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T12:29:44+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
@@ -675,6 +719,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-26T11:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strike kills a top Hamas security official in Gaza, medics and police say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T10:56:32+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -907,66 +962,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Federal debt interest hits $857B in 9 months \u2014 that's $737/month for every U.S. household",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/federal-debt-interest-hits-857b-141000924.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T14:10:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How this 70-year-old honey bee farmer is keeping his family farm alive: 'We completely rely on Mother Nature'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T14:00:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Imax 70 mm screenings become the biggest star for Christopher Nolan\u2019s \u2018The Odyssey\u2019",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T12:46:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
       "is_watchlist": false,
       "timestamp": "2026-07-25T12:28:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thirty-five killed, 30 injured in Syria bus collision - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS25BNEpkNFFENTBkNHY0aDFHNGVDdVZGMzI5NzNTVXdoNXM5b1BwUEl5YlNQdTZZZDdTSk9YeWtUMjFLaENUTWVZZzRrR1p5Ql9XZkxvSnFncVN4enFwMWpIekZNRm5sdWs1MUMxZzNHMTAtdVdHSVRtY3J2YWhqb0x1ZEdaU2Zwd251TnprTjFPZkY1RUtRSnRuOEphYTUyUUQzZG01cE56WkdlX2FfOGQ0Zk1xalBiUWNDODUycC1zd3FWQkNmY0tnNks?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T12:23:39+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-25T12:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
