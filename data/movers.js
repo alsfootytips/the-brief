@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-26T07:39:03.692944+00:00",
+  "generated_at": "2026-07-26T09:47:15.990742+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Micron Stock Will Return to All-Time Highs Soon\""
+      "move_reason": "News: \"Which Is the Better Value Stock Right Now: Microsoft or Nvidia?\""
     },
     {
       "ticker": "OSCR",
@@ -542,6 +542,16 @@ window.theBriefMovers = {
       "price": 55.83,
       "change_pct": -0.39,
       "volume_ratio": 0.85,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "price": 178.45,
+      "change_pct": -1.01,
+      "volume_ratio": 1.04,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -839,6 +849,19 @@ window.theBriefMovers = {
       "change_pct": -1.04,
       "price": 50.29,
       "watchlist_members": []
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "change_pct": -1.01,
+      "price": 178.45,
+      "watchlist_members": [
+        "CRWV",
+        "NBIS",
+        "TTD",
+        "AMD",
+        "NVDA"
+      ]
     },
     {
       "ticker": "XLE",
