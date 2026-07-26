@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-26T01:16:59.596860+00:00",
+  "generated_at": "2026-07-26T04:57:51.063720+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -57,7 +57,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For July 24, 2026\""
+      "move_reason": "News: \"Multi-Asset Midyear Outlook: Expanding The Toolkit\""
     },
     {
       "ticker": "XLU",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 202...\""
+      "move_reason": "News: \"Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform\""
     },
     {
       "ticker": "META",
@@ -282,7 +282,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 202...\""
+      "move_reason": "News: \"Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform\""
     },
     {
       "ticker": "APA",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thinking About The Semiconductor Pullback And Positioning\""
+      "move_reason": "News: \"Figuring Out The Fed\""
     },
     {
       "ticker": "NBIS",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 202...\""
+      "move_reason": "News: \"Some Investors Have Dropped Alphabet Stock Over the Delayed Release of Its Gemini 3.5 Pro ...\""
     },
     {
       "ticker": "OSCR",
@@ -438,7 +438,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For July 24, 2026\""
+      "move_reason": "News: \"Multi-Asset Midyear Outlook: Expanding The Toolkit\""
     }
   ],
   "indices": [
