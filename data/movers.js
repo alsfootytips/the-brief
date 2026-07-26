@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-26T04:57:51.063720+00:00",
+  "generated_at": "2026-07-26T07:39:03.692944+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Figuring Out The Fed\""
+      "move_reason": "News: \"Flash PMIs Signal Faster Growth Across Major Developed Economies, But Supply Chain And Pri...\""
     },
     {
       "ticker": "NBIS",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Some Investors Have Dropped Alphabet Stock Over the Delayed Release of Its Gemini 3.5 Pro ...\""
+      "move_reason": "News: \"Prediction: Micron Stock Will Return to All-Time Highs Soon\""
     },
     {
       "ticker": "OSCR",
@@ -542,16 +542,6 @@ window.theBriefMovers = {
       "price": 55.83,
       "change_pct": -0.39,
       "volume_ratio": 0.85,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "price": 178.45,
-      "change_pct": -1.01,
-      "volume_ratio": 1.04,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -849,19 +839,6 @@ window.theBriefMovers = {
       "change_pct": -1.04,
       "price": 50.29,
       "watchlist_members": []
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "change_pct": -1.01,
-      "price": 178.45,
-      "watchlist_members": [
-        "CRWV",
-        "NBIS",
-        "TTD",
-        "AMD",
-        "NVDA"
-      ]
     },
     {
       "ticker": "XLE",
