@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-26T12:38:02.144453+00:00",
+  "generated_at": "2026-07-26T14:15:43.089919+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -202,7 +202,7 @@ window.theBriefMovers = {
       "name": "Oscar Health",
       "price": 27.7,
       "change_pct": -4.22,
-      "volume_ratio": 0.86,
+      "volume_ratio": 1.19,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -231,14 +231,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform\""
+      "move_reason": "News: \"UBS hurries to reset AMD stock target on key AI Day signals\""
     },
     {
       "ticker": "META",
       "name": "META",
       "price": 594.15,
       "change_pct": -1.97,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.35,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -255,7 +255,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Morgan Stanley strongly resets GE Vernova stock target\""
+      "move_reason": "News: \"Why GE Vernova Investors Should Ignore the Wind\""
     },
     {
       "ticker": "XLK",
@@ -325,7 +325,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Avoid Netflix Stock, Even at a 52-Week Low?\""
+      "move_reason": "News: \"Why GE Vernova Investors Should Ignore the Wind\""
     },
     {
       "ticker": "PLTR",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform\""
+      "move_reason": "News: \"UBS hurries to reset AMD stock target on key AI Day signals\""
     },
     {
       "ticker": "APA",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Morgan Stanley strongly resets GE Vernova stock target\""
+      "move_reason": "News: \"Why GE Vernova Investors Should Ignore the Wind\""
     },
     {
       "ticker": "IWM",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Second Largest Negative Signal Of 2026: Bubbles, Barrels, And Skew\""
+      "move_reason": "News: \"The Next Fed Rate Hike May Be Coming Soon\""
     },
     {
       "ticker": "NBIS",
@@ -447,14 +447,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Avoid Netflix Stock, Even at a 52-Week Low?\""
+      "move_reason": "News: \"Why GE Vernova Investors Should Ignore the Wind\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 27.7,
       "change_pct": -4.22,
-      "volume_ratio": 0.86,
+      "volume_ratio": 1.19,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
