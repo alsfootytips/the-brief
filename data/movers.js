@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-26T21:02:59.559436+00:00",
+  "generated_at": "2026-07-26T22:12:58.108668+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -219,7 +219,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Argan Rides the Data Center and Power Construction Demand Supercycle\""
+      "move_reason": "News: \"Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week\""
     },
     {
       "ticker": "AMD",
@@ -325,7 +325,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Absurdly Cheap Dividend Stocks to Buy Before August\""
+      "move_reason": "News: \"Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intell...\""
     },
     {
       "ticker": "PLTR",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Absurdly Cheap Dividend Stocks to Buy Before August\""
+      "move_reason": "News: \"Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intell...\""
     },
     {
       "ticker": "OSCR",
@@ -483,7 +483,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Argan Rides the Data Center and Power Construction Demand Supercycle\""
+      "move_reason": "News: \"Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week\""
     },
     {
       "ticker": "TPL",
