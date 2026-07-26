@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-26T09:47:15.990742+00:00",
+  "generated_at": "2026-07-26T11:19:34.557754+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Flash PMIs Signal Faster Growth Across Major Developed Economies, But Supply Chain And Pri...\""
+      "move_reason": "News: \"Second Largest Negative Signal Of 2026: Bubbles, Barrels, And Skew\""
     },
     {
       "ticker": "NBIS",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Which Is the Better Value Stock Right Now: Microsoft or Nvidia?\""
+      "move_reason": "News: \"Fed Chair Kevin Warsh Sends a Clear Signal on Where Interest Rates Are Headed\""
     },
     {
       "ticker": "OSCR",
