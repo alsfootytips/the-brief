@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-26T17:44:33.055940+00:00",
+  "generated_at": "2026-07-26T18:45:11.833704+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -86,7 +86,7 @@ window.theBriefLive = {
       "change_pct": -3.95,
       "price": 628.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T17:44:33.052363+00:00",
+      "timestamp": "2026-07-26T18:45:11.830687+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -98,7 +98,7 @@ window.theBriefLive = {
       "change_pct": -4.22,
       "price": 27.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T17:44:33.052359+00:00",
+      "timestamp": "2026-07-26T18:45:11.830684+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -110,7 +110,7 @@ window.theBriefLive = {
       "change_pct": -14.12,
       "price": 189.78,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T17:44:33.052354+00:00",
+      "timestamp": "2026-07-26T18:45:11.830680+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -122,7 +122,7 @@ window.theBriefLive = {
       "change_pct": -11.11,
       "price": 72.09,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T17:44:33.052340+00:00",
+      "timestamp": "2026-07-26T18:45:11.830669+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -134,10 +134,181 @@ window.theBriefLive = {
       "change_pct": -3.35,
       "price": 521.6,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T17:44:33.052316+00:00",
+      "timestamp": "2026-07-26T18:45:11.830659+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Water returning to Gatwick Airport after major outage",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:38:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:30:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prediction: Nvidia Stock Will Hit $800 Per Share by 2030",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-hit-800-181700224.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:07:19+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Suspect in Berlin Pride attack shot dead by police",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:06:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Down 40% on the Year, Is ServiceNow Stock a Buy as Its Subscription Revenue Surges 25%?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-40-servicenow-stock-buy-180500609.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Election betting faces fresh legal scrutiny as midterms approach",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618454-election-betting-faces-fresh-legal-scrutiny-as-midterms-approach?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:01:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arizona State launches degree on becoming an influencer \u2014 exactly the career more than half of Gen Z adults dream of",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/arizona-state-launches-degree-becoming-180000860.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yardeni asks: Which Inflation Rate Is Warsh Targeting?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/yardeni-asks-which-inflation-rate-is-warsh-targeting-4812906",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T17:57:37+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T17:54:26+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wildfires threaten Bordeaux as France, Spain battle blazes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/wildfires-threaten-bordeaux-as-france-spain-battle-blazes-4812858",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T17:48:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: Does Netflix need to make an acquisition?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618453-sa-asks-does-netflix-need-to-make-an-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T17:46:23+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T17:44:32+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa34d893a6a6719a9ec41342809c23aeb5e01ba8cf91d94376b19e9ed1ff525b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T17:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d698e37a3e5b1d45010feb9f3677e325326cd8f25ce74ef26c5ca79fd03bd65",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T17:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -147,17 +318,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4618452-cme-bets-retail-investors-will-embrace-single-stock-futures?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-26T17:29:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Which Is the Better Vanguard Short-Term Bond ETF, Corporate Bond-Focused VCSH or BSV's Treasury Emphasis?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/better-vanguard-short-term-bond-172801721.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:28:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -174,41 +334,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
       "headline": "Is It Really Safe to Invest in the Vanguard S&P 500 ETF Right Now? Here's What History Says.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/really-safe-invest-vanguard-p-172200087.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:22:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gatwick Airport left without running water after major outage",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:20:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1115aad204afc24903e96a618b2792f96178012b7dee8407ff0e137c346c63c9",
       "is_watchlist": true,
-      "timestamp": "2026-07-26T17:18:30+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "timestamp": "2026-07-26T17:22:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -280,28 +414,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wildfires threaten Bordeaux as France, Spain battle blazes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/wildfires-threaten-bordeaux-as-france-spain-battle-blazes-4812858",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:54:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Germany hunts Islamist suspect after Berlin Pride crowd ramming",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:36:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Goldman Sachs CEO backs U.S. crypto market structure bill",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4618448-goldman-sachs-ceo-backs-u-s-crypto-market-structure-bill?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -312,6 +424,30 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T16:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T16:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Kyiv hit with missiles; Russia and Ukraine both report civilians killed in strikes",
       "source": "Investing.com News",
@@ -319,17 +455,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-26T16:30:59+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brazil recalls ambassador to Argentina after Milei attacks Lula, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/brazil-recalls-ambassador-to-argentina-after-milei-attacks-lula-sources-say-4812903",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:30:28+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -357,84 +482,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:13:52+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Oil Market's Glut Narrative Just Blew Up",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/oil-markets-glut-narrative-just-160000237.html",
       "is_watchlist": false,
       "timestamp": "2026-07-26T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thailand\u2019s aging crisis offers a warning for emerging markets",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618438-thailand-s-aging-crisis-offers-a-warning-for-emerging-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T15:59:53+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Buffett"
-      ],
-      "ticker": "NVDA",
-      "headline": "Warren Buffett's \"Playing With Fire\" Warning Is Back: Here's What History Says Happens Next for Stocks, and What Investors Can Do About It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21779705e6ee6266948db711b43a3c81b9013cce08bae9dd1a812fe1d0527d5f",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T15:50:00+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "This AI Stock Has Tripled in 2026. It Could Still Double in 3 Years (Hint: It's Not Micron)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=54ca25a339ec0fdf623fe661f6f8ed665ad84b7ad7d0998f4cc1c84ee7fdbe9e",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T15:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "4 Energy Stocks With 20+ Years of Consecutive Dividend Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0834d5a0cbd45cf22a9dd6d5db54a9621d427dc12d8063893f32307391ded8ad",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T15:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anduril is said to seek $100B valuation in latest funding round",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618445-anduril-is-said-to-seek-100b-valuation-in-latest-funding-round?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T15:29:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -459,33 +511,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-26T15:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A judge rejected a DIY divorce after 30 years of marriage \u2014 why gray divorce without a lawyer can cost you millions",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/judge-rejected-diy-divorce-30-150000268.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-26T14:50:55+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -725,17 +750,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-26T11:33:11+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T11:00:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1011,18 +1025,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5b299511ee315e61628094b8a5d170b97f04fdd5483868220e92caec4318be4",
-      "is_watchlist": true,
-      "timestamp": "2026-07-25T09:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "What Moved Markets This Week",
       "source": "SeekingAlpha",
@@ -1053,18 +1055,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=c852fcdece7577193329f64c26a0ac68d0342b1da9a9215ca7197c89e8ae443b",
       "is_watchlist": true,
       "timestamp": "2026-07-25T06:55:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Is Turning Into The Open Source Anthropic",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7acd2455ad175c768208f115a9173bac981a51a672482d8b7b4ed780c4e1b0ef",
-      "is_watchlist": true,
-      "timestamp": "2026-07-25T03:50:32+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
