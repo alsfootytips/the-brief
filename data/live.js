@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-26T18:45:11.833704+00:00",
+  "generated_at": "2026-07-26T19:57:35.745704+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -86,7 +86,7 @@ window.theBriefLive = {
       "change_pct": -3.95,
       "price": 628.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T18:45:11.830687+00:00",
+      "timestamp": "2026-07-26T19:57:35.742749+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -98,7 +98,7 @@ window.theBriefLive = {
       "change_pct": -4.22,
       "price": 27.7,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T18:45:11.830684+00:00",
+      "timestamp": "2026-07-26T19:57:35.742746+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -110,7 +110,7 @@ window.theBriefLive = {
       "change_pct": -14.12,
       "price": 189.78,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T18:45:11.830680+00:00",
+      "timestamp": "2026-07-26T19:57:35.742742+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -122,7 +122,7 @@ window.theBriefLive = {
       "change_pct": -11.11,
       "price": 72.09,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T18:45:11.830669+00:00",
+      "timestamp": "2026-07-26T19:57:35.742732+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -134,10 +134,176 @@ window.theBriefLive = {
       "change_pct": -3.35,
       "price": 521.6,
       "is_watchlist": true,
-      "timestamp": "2026-07-26T18:45:11.830659+00:00",
+      "timestamp": "2026-07-26T19:57:35.742722+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berlin Pride attack suspect killed in police operation after daylong manhunt",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/general-news/berlin-pride-attack-suspect-killed-in-police-operation-after-daylong-manhunt-4812909",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:43:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wildfires threaten Bordeaux as France and Spain battle blazes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/wildfires-threaten-bordeaux-as-france-spain-battle-blazes-4812858",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:42:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top global stories this week: JD, Airbus among notable names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618503-top-global-stories-this-week-jd-airbus-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:39:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It\u2019s nothing personal\u2019: Should I tell my 96-year-old stepmother that I don\u2019t want her inheritance?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "United Airlines explored merger with Delta before talks ended: WSJ",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618501-united-airlines-explored-merger-with-delta-before-talks-ended-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:24:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Airbnb Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-spotlight-reasons-heres-why-192000836.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "There\u2019s a technical \u2018triple threat\u2019 for stocks, but also places investors can hide",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pirated copies of \u2018The Odyssey\u2019 spread on social media before takedowns",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618500-pirated-copies-of-the-odyssey-spread-on-social-media-before-takedowns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:14:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rising inflation turns July Fed meeting into rate-hike showdown",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/rising-inflation-turns-july-fed-191300692.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:13:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Exploration Company in talks to raise $300 million, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/the-exploration-company-in-talks-to-raise-300-million-ft-reports-93CH-4812908",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:04:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin squeezed at $64,730 in volatility coil: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-64k-range-doji-at-resistance-live-levels-93CH-4800901",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:02:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T19:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Suspect in Berlin Pride attack shot dead by police",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:54:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'The Odyssey' cruises to $87M second weekend as 'Hadestown' debuts strong",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618499-the-odyssey-cruises-to-87m-second-weekend-as-hadestown-debuts-strong?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:54:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-64000-as-traders-brace-for-upcoming-fed-decision-4812846",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:52:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -146,7 +312,18 @@ window.theBriefLive = {
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-07-26T18:38:26+00:00",
+      "timestamp": "2026-07-26T18:50:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European rival to SpaceX seeks $300 million at $2 billion valuation: FT",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618494-european-rival-to-spacex-seeks-300-million-at-2-billion-valuation-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T18:43:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -164,17 +341,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Prediction: Nvidia Stock Will Hit $800 Per Share by 2030",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-hit-800-181700224.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T18:17:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
@@ -183,28 +349,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Suspect in Berlin Pride attack shot dead by police",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/police-hunting-for-berlin-pride-attacker-name-islamist-suspect-4812844",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T18:06:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Down 40% on the Year, Is ServiceNow Stock a Buy as Its Subscription Revenue Surges 25%?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/down-40-servicenow-stock-buy-180500609.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T18:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -255,17 +399,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wildfires threaten Bordeaux as France, Spain battle blazes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/wildfires-threaten-bordeaux-as-france-spain-battle-blazes-4812858",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:48:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: Does Netflix need to make an acquisition?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4618453-sa-asks-does-netflix-need-to-make-an-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -285,6 +418,21 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran foreign minister says Ukraine's attack on Iranian vessel 'cannot go unanswered' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0dDdnVkOGdDUi10WVpzQ1FKWjNjcmRWaEl3ZFdZdXQ2cnNmY3JIbDNyN2ZiZ1ctd1YtOG1iOEZubEM4RzZ1djNiT3M1djhBRnROYTNKUVgwSGlUa1VFbUJ0ekJIWkhTVmRhZFJNbEVGTHhvc0daZXNmUzNEMWpZNlBmUy1QeEF3Y1o4SlBzcnRnd0ZXZnc5REROeGFGRzFrM2RKQXhVY3hmc3Y3RDl2bUdZazNXRF9iZkJURF9rcTVXQjMw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-07-26T17:43:43+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -312,28 +460,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "CME bets retail investors will embrace single-stock futures",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618452-cme-bets-retail-investors-will-embrace-single-stock-futures?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:29:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: Netflix hit a 52-week low this week. Is now the time to buy?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618451-sa-asks-netflix-hit-a-52-week-low-this-week-is-now-the-time-to-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:26:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Is It Really Safe to Invest in the Vanguard S&P 500 ETF Right Now? Here's What History Says.",
       "source": "Yahoo",
@@ -343,17 +469,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ETF assets in Brazil nearly triple in two years to $22.8bn",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/etf-assets-in-brazil-nearly-triple-in-two-years-to-228bn-93CH-4812905",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:12:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -369,56 +484,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/shein-reveals-key-financials-ahead-of-hong-kong-ipo-4812893",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:06:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/fomc-preview-fed-likely-to-hold-rates-despite-oil-spike-citi-sees-dovish-outcome-4812904",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T17:06:17+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A $25,000 home repair could wipe out her $27,000 emergency fund \u2014 experts say there's a smarter move",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/25-000-home-repair-could-170000821.html",
       "is_watchlist": false,
       "timestamp": "2026-07-26T17:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple is said to focus on privacy to ease smart glasses concerns",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618450-apple-is-said-to-focus-on-privacy-to-ease-smart-glasses-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:57:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman Sachs CEO backs U.S. crypto market structure bill",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618448-goldman-sachs-ceo-backs-u-s-crypto-market-structure-bill?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:36:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -449,34 +519,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kyiv hit with missiles; Russia and Ukraine both report civilians killed in strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/overnight-russian-attack-triggers-fires-in-ukrainian-capital-kyiv-4812820",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:30:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Google spent $490 million a day on AI and burned $5.9 billion in cash \u2014 its first negative quarter since going public",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/google-spent-490-million-day-163000234.html",
       "is_watchlist": false,
       "timestamp": "2026-07-26T16:30:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. presses Mexico to match tariffs on Chinese steel, aluminum",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618447-u-s-presses-mexico-to-match-tariffs-on-chinese-steel-aluminum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T16:24:37+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -644,17 +692,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "There\u2019s a technical \u2018triple threat\u2019 for stocks, but also places investors can hide",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Romania shoots down third Russian drone, as president calls breaches 'intolerable' - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5",
@@ -677,18 +714,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T12:30:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Main land crossing between Kuwait and Iraq reopens, Iraq's state news agency says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGRZN0lTUGJ5SmhKYWhGai1QM1RiZVM2X29OcFpJeHZrWk4wMlM1b1hXbUZhS29maFlydGZRc3lTUXNxRjJJcXRNUnN0Ri1RdEhxX01KMUhpdXlteFlpUVhMTjU0SlRSX2ZHVlZwUWphM08tTVgzZXFmdlZaNXVuRHA0dlY5c3AycngtM016WEFyRWtFbkR2eGEtNS0xY1p5Uzg2dnpyMjdLTVVGakpWOElldll1UExvSEVTQ0ltTFhtMnFGZFRlRw?oc=5",
@@ -706,17 +731,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-26T12:00:01+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I\u2019m still confused\u2019: I sold $80,000 in shares on June 30, so why didn\u2019t I receive my dividend?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T12:00:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -926,21 +940,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-07-25T21:10:19+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
