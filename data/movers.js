@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-26T23:13:46.448804+00:00",
+  "generated_at": "2026-07-27T00:14:23.271277+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Have We Entered A Stealth Bear Market?\""
+      "move_reason": ""
     },
     {
       "ticker": "DG",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health: Scale Is Finally Showing Up On The Bottom-Line\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "PWR",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Investors Should Ignore the Wind\""
+      "move_reason": "News: \"Tracking Philippe Laffont's Coatue Management Portfolio - Q1 2026 Update\""
     },
     {
       "ticker": "TPL",
@@ -330,7 +330,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Investors Should Ignore the Wind\""
+      "move_reason": "News: \"Tracking Philippe Laffont's Coatue Management Portfolio - Q1 2026 Update\""
     },
     {
       "ticker": "IWM",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intell...\""
+      "move_reason": "News: \"GE Aerospace has a Backlog Worth $210 Billion. Here's Why I'm Still Not Buying\""
     },
     {
       "ticker": "OSCR",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health: Scale Is Finally Showing Up On The Bottom-Line\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -426,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Have We Entered A Stealth Bear Market?\""
+      "move_reason": ""
     },
     {
       "ticker": "XLE",
@@ -632,36 +632,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 17.22,
-      "change_pct": 2.57,
-      "score": 6.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.1 (cheap on absolute basis)",
-        "Down -28.7% over 3 months \u2014 deep drawdown",
-        "-81.3% from 52-week high"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.1 (cheap on absolute basis)",
-        "Down -28.7% over 3 months \u2014 deep drawdown",
-        "-81.3% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap",
-        "drawdown",
-        "off-highs"
-      ],
-      "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova",
       "price": 1014.72,
@@ -710,28 +680,31 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 36.08,
-      "change_pct": -0.94,
-      "score": 4.5,
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 17.22,
+      "change_pct": 2.57,
+      "score": 5.0,
       "signals": [
-        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.8 (cheap on absolute basis)"
+        "Forward P/E 8.1 (cheap on absolute basis)",
+        "Down -28.7% over 3 months \u2014 deep drawdown",
+        "-81.3% from 52-week high"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.8 (cheap on absolute basis)"
+        "Forward P/E 8.1 (cheap on absolute basis)",
+        "Down -28.7% over 3 months \u2014 deep drawdown",
+        "-81.3% from 52-week high"
       ],
       "tags": [
-        "news-flow",
         "insider-buying",
-        "cheap"
+        "cheap",
+        "drawdown",
+        "off-highs"
       ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
+      "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "OXY",
@@ -755,6 +728,27 @@ window.theBriefMovers = {
         "cheap"
       ],
       "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 36.08,
+      "change_pct": -0.94,
+      "score": 3.0,
+      "signals": [
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.8 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 8.8 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
     },
     {
