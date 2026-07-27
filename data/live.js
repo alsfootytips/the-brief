@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-27T13:53:48.706952+00:00",
+  "generated_at": "2026-07-27T14:12:03.736204+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -81,39 +81,215 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "change_pct": 4.08,
-      "price": 18.0,
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "change_pct": -4.54,
+      "price": 968.63,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T13:53:48.704063+00:00",
+      "timestamp": "2026-07-27T14:12:03.733643+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
-      "ticker": "SOFI",
-      "name": "SOFI",
-      "change_pct": 5.29,
-      "price": 17.33,
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:53:48.704058+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low",
       "relevance_label": "Big Move"
     },
     {
       "type": "mover",
       "ticker": "DG",
       "name": "Dollar General",
-      "change_pct": 4.49,
-      "price": 122.49,
+      "change_pct": 5.28,
+      "price": 123.42,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T13:53:48.704027+00:00",
+      "timestamp": "2026-07-27T14:12:03.733638+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "change_pct": -4.5,
+      "price": 498.44,
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T14:12:03.733630+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.065 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618771-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_065-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:11:18+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X Enhanced Russell 2000 Covered Call ETF declares CAD 0.35 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618770-global-x-enhanced-russell-2000-covered-call-etf-declares-cad-0_35-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:10:55+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618769-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:10:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X Russell 2000 Covered Cll ETF declares CAD 0.21 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618768-global-x-russell-2000-covered-cll-etf-declares-cad-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:10:05+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "C3is prices $6M offering at $0.52 per unit with warrants set for price cuts",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618746-c3is-prices-6m-offering-at-052-per-unit-with-warrants-set-for-price-cuts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:09:44+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coca-Cola Q2 Preview: Consumer spending trend under spotlight",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618757-coca-cola-q2-preview-consumer-spending-trend-under-spotlight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:09:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global X Enhanced Eq Wght Can TelCvCl ETF Cl A declares CAD 0.235 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4618767-global-x-enhanced-eq-wght-can-telcvcl-etf-cl-a-declares-cad-0_235-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:09:32+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "COPT Defense earnings up next: Can security niche offset revenue dip?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/copt-defense-earnings-up-next-can-security-niche-offset-revenue-dip-93CH-4814492",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:07:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Northeast Bancorp earnings beat by $0.65, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/northeast-bancorp-earnings-beat-by-065-revenue-fell-short-of-estimates-4814491",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:07:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Keefe Bruyette raises RenaissanceRe stock price target on earnings",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/keefe-bruyette-raises-renaissancere-stock-price-target-on-earnings-93CH-4814490",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:06:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chipmaker CXMT vaults to top of China\u2019s valuation with 466% surge in Shanghai debut",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/china-memory-chipmaker-cxmt-set-for-shanghai-debut-after-asias-biggest-ipo-4812927",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:06:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS cuts Microsoft stock price target to $480 on Azure concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-cuts-microsoft-stock-price-target-to-480-on-azure-concerns-93CH-4814489",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:06:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla bear flag near $307 trapdoor: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-bear-flag-near-307-trapdoor-live-levels-93CH-4814488",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:06:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Innio earnings on deck: Can data center backlog deliver?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/innio-earnings-on-deck-can-data-center-backlog-deliver-93CH-4814487",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:06:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Porsche ramps up job cuts to 9,000 by 2035",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/porsche-to-cut-another-5000-jobs-4814148",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:06:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Policy uncertainty is muddling retirement planning \u2014 and advisers are just as confused",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/policy-uncertainty-is-muddling-retirement-planning-and-advisers-are-just-as-confused-3381f10e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -129,166 +305,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Saab wins $1B order for two GlobalEye surveillance aircraft",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618740-saab-wins-1b-order-for-two-globaleye-surveillance-aircraft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Catch-22: green priorities and grey portfolios",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/catch-22-green-priorities-grey-134934799.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-27T13:50:03+00:00",
+      "timestamp": "2026-07-27T13:49:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "MarineMax is in the M&A spotlight as the bidding war enters its final stage",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618700-marinemax-is-in-the-ma-spotlight-as-the-bidding-war-enters-its-final-stage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-27T13:49:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GoodHaven Fund adds BLDR, LEN; exits VTS among H1 moves",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618739-goodhaven-fund-adds-bldr-len-exits-vts-among-h1-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:45:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hormuz shipping optimism rises as oil drops over 5%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618736-hormuz-shipping-optimism-rises-as-oil-drops-over-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:42:16+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Germany's draft defense budget raises fresh questions for Rheinmetall",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618737-germanys-draft-defense-budget-raises-fresh-questions-for-rheinmetall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:42:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wells Fargo upgrades SiriusXM to Equal Weight, raises PT on spectrum value reassessment",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618725-wells-fargo-upgrades-siriusxm-to-equal-weight-raises-pt-on-spectrum-value-reassessment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:42:05+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "THL Partners completes sale of AMI to Lattice Semiconductor",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/thl-partners-completes-sale-of-ami-to-lattice-semiconductor-93CH-4814391",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:40:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cint expands Samba partnership for TV brand lift measurement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cint-expands-samba-partnership-for-tv-brand-lift-measurement-93CH-4814390",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:40:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brand Engagement Network acquisition adds $5.3m in revenue",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/brand-engagement-network-acquisition-adds-53m-in-revenue-93CH-4814389",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:40:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "C3is prices $6 million public offering at $0.52 per unit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/c3is-prices-6-million-public-offering-at-052-per-unit-93CH-4814388",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:40:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Merck stock hits 52-week high at $131.84",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/merck-stock-hits-52week-high-at-13184-93CH-4814387",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:40:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Revolution Medicines stock hits all-time high at $193.83",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/revolution-medicines-stock-hits-alltime-high-at-19383-93CH-4814386",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:40:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Community Bank System earnings on deck as lending rebounds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/community-bank-system-earnings-on-deck-as-lending-rebounds-93CH-4814385",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:39:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Strategy buys preferred stock in past week instead of bitcoin, hit to business model signaled",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618722-strategy-buys-preferred-stock-in-past-week-instead-of-bitcoin-hit-to-business-model-signaled?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:39:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Unifirst Corp stock hits all-time high at 295.89 USD",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/unifirst-corp-stock-hits-alltime-high-at-29589-usd-93CH-4814383",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:39:30+00:00",
+      "timestamp": "2026-07-27T13:46:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -316,14 +348,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Intel Is up 170% in 2026. Should You Buy the Artificial Intelligence (AI) Comeback or Take Profits Today?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-170-2026-buy-artificial-133500615.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "The Broadcom Trade Is A Bet On The Market You Already Own, Amplified",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7575bf353d1bf744e6c0354ab5efe78647d16b46be628c48ca58a15ed4fc48df",
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T13:34:54+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -349,14 +382,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Circle Buys Blockchain Patents From IBM",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-buys-blockchain-patents-ibm-133000539.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba43c2a4fc3b9bdc81c92ebac27dd673d75b4b18d64ce9b89828f1e210b2720b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T13:28:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -367,6 +401,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-27T13:27:00+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Daily \u2013 Vickers Top Buyers & Sellers for 07/27/2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_47738_TopBottomInsiderActivity_1785158816000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T13:26:56+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -394,6 +439,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "3 Market-Beating Stocks with Competitive Advantages",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cfc95ecb5aeb8e3572009d74ada96befd9042a952549f2bd098ec34ba325d92",
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T13:17:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Strategist\u2019s mathematical formula for Trump\u2019s \u2018TACOs\u2019 borne out by weekend ceasefire",
       "source": "MarketWatch",
@@ -412,6 +469,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
       "is_watchlist": false,
       "timestamp": "2026-07-27T13:00:29+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Europe wildfire in pictures: Gigantic fire cloud engulfing France, Spain regions",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/27/wildfire-pictures-spain-france-bordeaux-heatwave.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T12:59:37+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -531,17 +599,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "He brought AI to Wall Street in 1994 \u2014 but won\u2019t trust ChatGPT with his money",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T11:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Nvidia in talks to back OpenAI Ohio data center with $250 billion",
       "source": "Yahoo",
@@ -586,18 +643,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-27T11:32:45+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Daily Spotlight: Fed's Favorite Inflation Indicator",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47730_MarketOutlook_1785151709000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T11:28:29+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -659,18 +704,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Nvidia Eyes OpenAI, SK Hynix Deals\u2014Why the Stock Still Looks Like a Chip Laggard",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=627603ca0f53cb79adfaa097d7f945ecafcbba530432cabb1690f7f945f5824a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-27T10:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Markets Face Biggest Week of the Year\u2014What Could Make or Break Them",
       "source": "Yahoo",
@@ -684,18 +717,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "OXY",
-      "headline": "Sandisk, Marvell, Chevron, Broadcom, and More Stocks That Explain Today\u2019s Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=822bf27e51a5626b4f24c8e42ca40a928e7d2ea7944164d825e63c18deea045a",
-      "is_watchlist": true,
-      "timestamp": "2026-07-27T10:38:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "Sandisk, Marvell, Chevron, Broadcom, and More Stocks That Explain Today\u2019s Market",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=822bf27e51a5626b4f24c8e42ca40a928e7d2ea7944164d825e63c18deea045a",
@@ -800,18 +821,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Intel More Than Quadrupled In A Year, So Why Has It Cooled",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf56222e5aaca5a6cdcc2f6bb40d0a734fe9df5d4694f66b3c54ff2310997250",
-      "is_watchlist": true,
-      "timestamp": "2026-07-27T09:14:27+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "EIPI: A Reasonable Income Play, But May Underperform If Oil Prices Increase Further",
       "source": "SeekingAlpha",
@@ -831,17 +840,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-27T09:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Finland\u2019s radical answer to renewable energy\u2019s biggest headache: The world\u2019s largest sand battery",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T08:46:51+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {

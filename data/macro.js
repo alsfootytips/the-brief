@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-07-27T13:53:48.790172+00:00",
+  "generated_at": "2026-07-27T14:12:04.047155+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.65,
-      "change_pct_1d": -0.64,
-      "change_pct_1w": 0.45
+      "change_pct_1d": -0.51,
+      "change_pct_1w": 0.58
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.4,
-      "change_pct_1d": -0.5,
-      "change_pct_1w": 0.78
+      "value": 4.41,
+      "change_pct_1d": -0.34,
+      "change_pct_1w": 0.94
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -22,38 +22,38 @@ window.theBriefMacro = {
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 5.13,
-      "change_pct_1d": -0.66,
-      "change_pct_1w": -0.04
+      "change_pct_1d": -0.52,
+      "change_pct_1w": 0.1
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 17.72,
-      "change_pct_1d": -4.63,
-      "change_pct_1w": 3.93
+      "value": 18.31,
+      "change_pct_1d": -1.45,
+      "change_pct_1w": 7.39
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4088.1,
-      "change_pct_1d": 0.5,
-      "change_pct_1w": 0.42
+      "value": 4078.9,
+      "change_pct_1d": 0.28,
+      "change_pct_1w": 0.19
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 83.85,
-      "change_pct_1d": -6.11,
-      "change_pct_1w": -1.25
+      "value": 84.1,
+      "change_pct_1d": -5.83,
+      "change_pct_1w": -0.95
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 101.42,
-      "change_pct_1d": -0.05,
-      "change_pct_1w": 0.23
+      "value": 101.46,
+      "change_pct_1d": -0.0,
+      "change_pct_1w": 0.28
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 65404.0,
-      "change_pct_1d": 0.1,
-      "change_pct_1w": 0.55
+      "value": 65183.83,
+      "change_pct_1d": -0.24,
+      "change_pct_1w": 0.21
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 83,
