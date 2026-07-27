@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-27T22:18:38.119327+00:00",
+  "generated_at": "2026-07-27T22:54:32.615097+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -96,10 +96,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": 3.82,
-      "price": 17.95,
+      "change_pct": 3.59,
+      "price": 17.91,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T22:18:38.116384+00:00",
+      "timestamp": "2026-07-27T22:54:32.435724+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -108,10 +108,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "change_pct": -3.97,
-      "price": 402.8,
+      "change_pct": -5.35,
+      "price": 397.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T22:18:38.116382+00:00",
+      "timestamp": "2026-07-27T22:54:32.435722+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -120,10 +120,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PLTR",
       "name": "PLTR",
-      "change_pct": 6.45,
-      "price": 130.85,
+      "change_pct": 6.46,
+      "price": 130.86,
       "is_watchlist": false,
-      "timestamp": "2026-07-27T22:18:38.116378+00:00",
+      "timestamp": "2026-07-27T22:54:32.435718+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -132,10 +132,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "change_pct": -4.02,
+      "change_pct": -4.01,
       "price": 55.0,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T22:18:38.116375+00:00",
+      "timestamp": "2026-07-27T22:54:32.435715+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -144,10 +144,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": -4.93,
-      "price": 196.65,
+      "change_pct": -5.02,
+      "price": 196.46,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T22:18:38.116372+00:00",
+      "timestamp": "2026-07-27T22:54:32.435712+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -159,7 +159,7 @@ window.theBriefLive = {
       "change_pct": 4.97,
       "price": 123.05,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T22:18:38.116362+00:00",
+      "timestamp": "2026-07-27T22:54:32.435702+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -168,10 +168,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": -3.46,
-      "price": 34.9,
+      "change_pct": -3.51,
+      "price": 34.88,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T22:18:38.116357+00:00",
+      "timestamp": "2026-07-27T22:54:32.435698+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -181,12 +181,144 @@ window.theBriefLive = {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "change_pct": -5.74,
-      "price": 492.0,
+      "price": 491.99,
       "is_watchlist": true,
-      "timestamp": "2026-07-27T22:18:38.116347+00:00",
+      "timestamp": "2026-07-27T22:54:32.435689+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Charles Schwab Corp For: 27 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-charles-schwab-corp-for-27-july-93CH-4815242",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:37:46+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Ethos Technologies Inc For: 27 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-ethos-technologies-inc-for-27-july-93CH-4815241",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:37:09+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Metropolitan Bank Holding For: 27 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-metropolitan-bank-holding-for-27-july-93CH-4815240",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:37:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Senate votes to advance Trump nominee Clayton to be top US spy",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-senate-votes-to-advance-trump-nominee-clayton-to-be-top-us-spy-4815239",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:36:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Charles Schwab general counsel sells $709k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/charles-schwab-general-counsel-sells-709k-in-company-stock-93CH-4815238",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:34:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Metropolitan bank holding corp. EVP & CFO Daniel Dougherty buys $89,980 stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/metropolitan-bank-holding-corp-evp--cfo-daniel-dougherty-buys-89980-stock-93CH-4815237",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ethos Technologies 10% owner sells $1.65 million in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ethos-technologies-10-owner-sells-165-million-in-shares-93CH-4815236",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:32:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 144 American Airlines Group For: 27 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-144-american-airlines-group-for-27-july-93CH-4815235",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:31:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Champions Oncology outlines fiscal 2027 plan with Corellia fully funded as it reports $59.4M revenue and $1.6M adjusted EBITDA",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4619087-champions-oncology-outlines-fiscal-2027-plan-with-corellia-fully-funded-as-it-reports-59_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:29:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Talos Energy to buy 50% stake in Repsol offshore Mexico block",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4619086-talos-energy-to-buy-50-stake-in-repsol-offshore-mexico-block?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:27:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-27T22:23:50+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -213,99 +345,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Sanmina tops Q3 2026 estimates, shares slip after hours",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sanmina-tops-q3-2026-estimates-shares-slip-after-hours-93CH-4815205",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:06:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Porsche to axe one in five jobs by 2035 as China, EV woes bite",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/porsche-to-cut-another-5000-jobs-4814148",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:06:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Sempra to extend ECA LNG Phase 1 commissioning after finding compressor damage",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4619085-sempra-to-extend-eca-lng-phase-1-commissioning-after-finding-compressor-damage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-27T22:06:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "F5 Q3 FY26 slides: systems revenue surges 32%, outlook raised",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/f5-q3-fy26-slides-systems-revenue-surges-32-outlook-raised-93CH-4815204",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:06:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Rambus tops Q2 EPS forecast, stock rises after hours",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-rambus-tops-q2-eps-forecast-stock-rises-after-hours-93CH-4815203",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:04:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 BOK Financial Corporation For: 27 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-bok-financial-corporation-for-27-july-93CH-4815202",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:04:05+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 First Financial Bankshares Inc For: 27 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-first-financial-bankshares-inc-for-27-july-93CH-4815201",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:03:57+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BOK Financial CEO Stacy Kymes sells $1,191 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/bok-financial-ceo-stacy-kymes-sells-1191-in-company-stock-93CH-4815200",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:01:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "First Financial Bankshares director Nickles buys $24,423 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/first-financial-bankshares-director-nickles-buys-24423-in-stock-93CH-4815199",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T22:00:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -329,17 +373,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-27T22:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T21:56:00+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -413,33 +446,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Curium in talks to buy Lantheus Holdings for about $7B - Bloomberg",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4619079-curium-in-talks-to-buy-lantheus-holdings-for-about-7b---bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T21:37:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-27T21:37:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Manhattan Associates Q2 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4618925-manhattan-associates-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T21:35:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -568,17 +579,6 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "For 44 years, this investor held aces in the long-bond game. He just folded.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-27T20:52:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -595,6 +595,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32abef4444bec825369cbb4c2070a9ffa393206481cdc72bd597a4a05e2bd752",
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T20:46:38+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "OXY",
       "headline": "Oil Prices Slide as Trump Touts Possible Negotiations With Iran",
       "source": "Yahoo",
@@ -604,6 +616,18 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave Announces Date of Second Quarter 2026 Financial Results and Conference Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3788552773cc93a614b036d768bcd4eb0926c0f73a663ff1a380f42d1c279216",
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T20:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -698,6 +722,30 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Nvidia Funds AI Frenzy: Timeline of its Circular Financing Deals ... So Far",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2acf3620bdfe0b58d261f2449a5b49213eee98570334ea4fd378c53f2f837798",
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T18:34:23+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nvidia Funds AI Frenzy: Timeline of its Circular Financing Deals ... So Far",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2acf3620bdfe0b58d261f2449a5b49213eee98570334ea4fd378c53f2f837798",
+      "is_watchlist": true,
+      "timestamp": "2026-07-27T18:34:23+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
       "source": "CNBC Top",
@@ -741,18 +789,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-27T17:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Coreweave is $71 After Falling 43% in a Year: One Analyst Thinks It Can Rocket to $250",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9109c7fa89b54d8d5e8da285caa18ccc807632885fab0e37ae5a43f16d1e5ba1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-27T16:44:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -811,18 +847,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-27T16:00:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Why Google Cloud\u2019s Hot Sales Can\u2019t Save the Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17a61e40aa5d1808a7c925e2691c01dd57c3ef8ee9780ac42bca27e759a619bb",
-      "is_watchlist": true,
-      "timestamp": "2026-07-27T15:57:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -961,30 +985,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3ecd9b62e017b8a100a26c5c15e298f27afea96c90d87451d71a1bba582fe1f8",
       "is_watchlist": true,
       "timestamp": "2026-07-27T13:42:40+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave and Nebius gain after report links Nvidia to major OpenAI infrastructure financing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c14d2b615dbe503d959dd0bbf46af48977391e6c9aa6a3e383647e8b143a080b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-27T13:27:11+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "CoreWeave and Nebius gain after report links Nvidia to major OpenAI infrastructure financing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c14d2b615dbe503d959dd0bbf46af48977391e6c9aa6a3e383647e8b143a080b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-27T13:27:11+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1199,6 +1199,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Elizabeth Warren says House stock trading ban has 'major loopholes' \u2014 48% of Congress still owns individual stocks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T14:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom May Be the Biggest Winner From Alphabet's Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-may-biggest-winner-alphabets-141000577.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-26T14:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
@@ -1232,33 +1254,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Required Minimum Distributions Can Push Retirees Into a Higher Tax Bracket. Here\u2019s How to Plan Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/required-minimum-distributions-push-retirees-133701342.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T13:37:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Intel Corp Shows Strong Q2 Results and Free Cash Flow - Shorting INTC Puts is Still the Best Play",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-shows-strong-q2-133002161.html",
       "is_watchlist": false,
       "timestamp": "2026-07-26T13:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/major-anthropic-chip-deal-really-130002547.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-26T13:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
