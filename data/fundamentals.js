@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-07-28T20:44:13.829629+00:00",
+  "generated_at": "2026-07-28T21:48:02.939263+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -30.32,
@@ -277,6 +277,18 @@ window.theBriefFundamentals = {
       "dividend_yield": 1.89,
       "short_ratio": 0.01,
       "short_percent_of_float": 0.0001,
+      "analyst_recs": {
+        "strongBuy": 3,
+        "buy": 9,
+        "hold": 16,
+        "sell": 1,
+        "strongSell": 0,
+        "period": "2026-07-01"
+      },
+      "analyst_recs_change": {
+        "buy_delta": 0,
+        "sell_delta": 0
+      },
       "insider_recent_90d": {
         "buys": 7,
         "sells": 3,
@@ -525,6 +537,18 @@ window.theBriefFundamentals = {
       "dividend_yield": 0.2,
       "short_ratio": 3.35,
       "short_percent_of_float": 0.038,
+      "analyst_recs": {
+        "strongBuy": 9,
+        "buy": 25,
+        "hold": 8,
+        "sell": 0,
+        "strongSell": 0,
+        "period": "2026-07-01"
+      },
+      "analyst_recs_change": {
+        "buy_delta": 0,
+        "sell_delta": 0
+      },
       "insider_recent_90d": {
         "buys": 9,
         "sells": 1,
