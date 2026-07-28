@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-28T04:28:43.090755+00:00",
+  "generated_at": "2026-07-28T07:17:45.943554+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -18,7 +18,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 123.35,
       "change_pct": 5.22,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.21,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -50,28 +50,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "price": 85.36,
-      "change_pct": 2.58,
-      "volume_ratio": 1.34,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 107.66,
-      "change_pct": 2.16,
-      "volume_ratio": 0.98,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "MSFT",
       "name": "MSFT",
       "price": 389.5,
@@ -84,10 +62,21 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "price": 85.36,
+      "change_pct": 1.46,
+      "volume_ratio": 1.33,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLY",
       "name": "Consumer Discretionary Select",
       "price": 110.84,
-      "change_pct": 1.91,
+      "change_pct": 1.31,
       "volume_ratio": 0.84,
       "is_watchlist": false,
       "is_index": false,
@@ -95,11 +84,11 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 45.76,
-      "change_pct": 1.8,
-      "volume_ratio": 1.04,
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 107.66,
+      "change_pct": 1.28,
+      "volume_ratio": 1.0,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -126,7 +115,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Is Not A Normal Market Rotation\""
+      "move_reason": "News: \"Escalating Middle East Tensions Shift The Balance Of Risk\""
     },
     {
       "ticker": "XLV",
@@ -172,6 +161,17 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials Select Sector",
+      "price": 51.39,
+      "change_pct": 0.25,
+      "volume_ratio": 0.86,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -185,7 +185,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotat...\""
+      "move_reason": "News: \"AI Memory Stocks on Rocky Ground: 3 Reasons SK Hynix Fell 13%\""
     },
     {
       "ticker": "NVDA",
@@ -197,7 +197,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Nvidia Stock Fell Today\""
+      "move_reason": "News: \"Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.\""
     },
     {
       "ticker": "OXY",
@@ -216,7 +216,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 402.7,
       "change_pct": -3.99,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 620.0,
       "change_pct": -0.93,
-      "volume_ratio": 1.21,
+      "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -318,15 +318,14 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 107.4,
-      "change_pct": -0.33,
-      "volume_ratio": 0.96,
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 45.76,
+      "change_pct": -0.41,
+      "volume_ratio": 1.01,
       "is_watchlist": false,
       "is_index": false,
-      "is_sector": false,
-      "market_state": null,
+      "is_sector": true,
       "move_reason": ""
     },
     {
@@ -343,9 +342,9 @@ window.theBriefMovers = {
     {
       "ticker": "VWRP.L",
       "name": "VWRP.L",
-      "price": 139.7,
-      "change_pct": -0.3,
-      "volume_ratio": 1.01,
+      "price": 139.6,
+      "change_pct": -0.07,
+      "volume_ratio": 0.09,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -364,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotat...\""
+      "move_reason": "News: \"AI Memory Stocks on Rocky Ground: 3 Reasons SK Hynix Fell 13%\""
     },
     {
       "ticker": "APA",
@@ -395,7 +394,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 123.35,
       "change_pct": 5.22,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.21,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -424,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Is Not A Normal Market Rotation\""
+      "move_reason": "News: \"Escalating Middle East Tensions Shift The Balance Of Risk\""
     },
     {
       "ticker": "NBIS",
@@ -448,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Nvidia Stock Fell Today\""
+      "move_reason": "News: \"Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.\""
     },
     {
       "ticker": "OSCR",
@@ -479,7 +478,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 620.0,
       "change_pct": -0.93,
-      "volume_ratio": 1.21,
+      "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -491,7 +490,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 402.7,
       "change_pct": -3.99,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -571,18 +570,8 @@ window.theBriefMovers = {
       "ticker": "XLP",
       "name": "Consumer Staples Select",
       "price": 85.36,
-      "change_pct": 2.58,
-      "volume_ratio": 1.34,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 107.66,
-      "change_pct": 2.16,
-      "volume_ratio": 0.98,
+      "change_pct": 1.46,
+      "volume_ratio": 1.33,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -591,18 +580,18 @@ window.theBriefMovers = {
       "ticker": "XLY",
       "name": "Consumer Discretionary Select",
       "price": 110.84,
-      "change_pct": 1.91,
+      "change_pct": 1.31,
       "volume_ratio": 0.84,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 45.76,
-      "change_pct": 1.8,
-      "volume_ratio": 1.04,
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 107.66,
+      "change_pct": 1.28,
+      "volume_ratio": 1.0,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -643,6 +632,16 @@ window.theBriefMovers = {
       "price": 51.39,
       "change_pct": 0.25,
       "volume_ratio": 0.86,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 45.76,
+      "change_pct": -0.41,
+      "volume_ratio": 1.01,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -800,12 +799,12 @@ window.theBriefMovers = {
       "change_pct": 5.22,
       "score": 6.0,
       "signals": [
-        "Moved +5.22% \u2014 a 1.9\u03c3 move vs typical 2.8% daily vol",
+        "Moved +5.22% \u2014 a 2.0\u03c3 move vs typical 2.6% daily vol",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
       "reasons": [
-        "Moved +5.22% \u2014 a 1.9\u03c3 move vs typical 2.8% daily vol",
+        "Moved +5.22% \u2014 a 2.0\u03c3 move vs typical 2.6% daily vol",
         "3 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
@@ -938,22 +937,6 @@ window.theBriefMovers = {
   ],
   "sectors_radar": [
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples Select",
-      "change_pct": 2.58,
-      "price": 85.36,
-      "watchlist_members": [
-        "DG"
-      ]
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "change_pct": 2.16,
-      "price": 107.66,
-      "watchlist_members": []
-    },
-    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "change_pct": -2.06,
@@ -965,24 +948,33 @@ window.theBriefMovers = {
       ]
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "change_pct": 1.91,
-      "price": 110.84,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "change_pct": 1.8,
-      "price": 45.76,
-      "watchlist_members": []
+      "ticker": "XLP",
+      "name": "Consumer Staples Select",
+      "change_pct": 1.46,
+      "price": 85.36,
+      "watchlist_members": [
+        "DG"
+      ]
     },
     {
       "ticker": "XLU",
       "name": "Utilities Select Sector",
       "change_pct": -1.32,
       "price": 45.68,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "change_pct": 1.31,
+      "price": 110.84,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "change_pct": 1.28,
+      "price": 107.66,
       "watchlist_members": []
     },
     {
@@ -1013,6 +1005,13 @@ window.theBriefMovers = {
       "watchlist_members": [
         "OSCR"
       ]
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "change_pct": -0.41,
+      "price": 45.76,
+      "watchlist_members": []
     },
     {
       "ticker": "XLI",
