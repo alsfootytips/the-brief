@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-07-29T00:05:08.980997+00:00",
+  "generated_at": "2026-07-29T03:40:27.796782+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -95,9 +95,9 @@ window.theBriefPicks = {
       "status": "expired",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 294.35,
-      "current_pct": 4.25,
-      "change_pct_today": 0.49,
+      "current_price": 294.28,
+      "current_pct": 4.22,
+      "change_pct_today": 0.47,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 56,
@@ -712,9 +712,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 54.58,
-      "current_pct": 5.31,
-      "change_pct_today": -0.64,
+      "current_price": 54.73,
+      "current_pct": 5.6,
+      "change_pct_today": -0.36,
       "name": "Occidental Petroleum",
       "news_count": 3,
       "days_elapsed": 40,
@@ -810,7 +810,7 @@ window.theBriefPicks = {
       "current_pct": -7.08,
       "change_pct_today": 0.85,
       "name": "Texas Pacific Land",
-      "news_count": 1,
+      "news_count": 2,
       "days_elapsed": 28,
       "days_remaining": 28
     },

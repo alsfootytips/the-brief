@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-29T00:05:08.919221+00:00",
+  "generated_at": "2026-07-29T03:40:27.741264+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -35,7 +35,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple Reclaims the Crown as a China Chip Scare Sinks the Semis\""
+      "move_reason": "News: \"1 Mid-Cap Stock for Long-Term Investors and 2 We Find Risky\""
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 127.0,
+      "change_pct": 3.07,
+      "volume_ratio": 0.87,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Dollar General (DG) Laps the Stock Market: Here's Why\""
     },
     {
       "ticker": "XLV",
@@ -53,30 +65,18 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 87.06,
       "change_pct": 1.99,
-      "volume_ratio": 1.82,
+      "volume_ratio": 1.73,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
     },
     {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 125.63,
-      "change_pct": 1.96,
-      "volume_ratio": 0.92,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"ExchangeRight Fully Subscribes $15.38 Million Essential Income 8 DST as Investors Seek Def...\""
-    },
-    {
       "ticker": "XLC",
       "name": "Communication Services Select",
       "price": 109.67,
       "change_pct": 1.87,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.74,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -143,12 +143,12 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 400.0,
       "change_pct": 0.85,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.86,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"2 Energy Stocks to Own for Decades and 1 That Underwhelm\""
     },
     {
       "ticker": "META",
@@ -172,7 +172,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy\""
+      "move_reason": "News: \"SK hynix posts 1,200% net profit boost on AI chip boom\""
     }
   ],
   "losers": [
@@ -198,14 +198,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Market Strong Outside AI; Seagate, SK Hynix, KLA, Bloom Energy Earnings...\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings L...\""
     },
     {
       "ticker": "PWR",
       "name": "Quanta Services",
       "price": 585.0,
       "change_pct": -5.69,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.45,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -283,18 +283,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 54.58,
-      "change_pct": -0.64,
-      "volume_ratio": 0.8,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Apple Reclaims the Crown as a China Chip Scare Sinks the Semis\""
-    },
-    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 182.49,
@@ -304,6 +292,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 54.73,
+      "change_pct": -0.36,
+      "volume_ratio": 0.8,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"1 Energy Stock Worth Investigating and 2 We Brush Off\""
     },
     {
       "ticker": "XLU",
@@ -340,7 +340,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Market Strong Outside AI; Seagate, SK Hynix, KLA, Bloom Energy Earnings...\""
+      "move_reason": "News: \"Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings L...\""
     },
     {
       "ticker": "APA",
@@ -352,7 +352,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple Reclaims the Crown as a China Chip Scare Sinks the Semis\""
+      "move_reason": "News: \"1 Mid-Cap Stock for Long-Term Investors and 2 We Find Risky\""
     },
     {
       "ticker": "CRWV",
@@ -369,14 +369,14 @@ window.theBriefMovers = {
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 125.63,
-      "change_pct": 1.96,
-      "volume_ratio": 0.92,
+      "price": 127.0,
+      "change_pct": 3.07,
+      "volume_ratio": 0.87,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"ExchangeRight Fully Subscribes $15.38 Million Essential Income 8 DST as Investors Seek Def...\""
+      "move_reason": "News: \"Dollar General (DG) Laps the Stock Market: Here's Why\""
     },
     {
       "ticker": "GEV",
@@ -393,14 +393,14 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 294.35,
-      "change_pct": 0.49,
+      "price": 294.28,
+      "change_pct": 0.47,
       "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Market Is Emotional - You Should Profit From It\""
+      "move_reason": "News: \"The \"Wall Of Worry\" And This Correction\""
     },
     {
       "ticker": "NBIS",
@@ -424,7 +424,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy\""
+      "move_reason": "News: \"SK hynix posts 1,200% net profit boost on AI chip boom\""
     },
     {
       "ticker": "OSCR",
@@ -441,21 +441,21 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 54.58,
-      "change_pct": -0.64,
+      "price": 54.73,
+      "change_pct": -0.36,
       "volume_ratio": 0.8,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple Reclaims the Crown as a China Chip Scare Sinks the Semis\""
+      "move_reason": "News: \"1 Energy Stock Worth Investigating and 2 We Brush Off\""
     },
     {
       "ticker": "PWR",
       "name": "Quanta Services",
       "price": 585.0,
       "change_pct": -5.69,
-      "volume_ratio": 1.51,
+      "volume_ratio": 1.45,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -467,12 +467,12 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 400.0,
       "change_pct": 0.85,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.86,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"2 Energy Stocks to Own for Decades and 1 That Underwhelm\""
     },
     {
       "ticker": "TTD",
@@ -513,8 +513,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 294.35,
-      "change_pct": 0.49,
+      "price": 294.28,
+      "change_pct": 0.47,
       "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": true,
@@ -558,7 +558,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 87.06,
       "change_pct": 1.99,
-      "volume_ratio": 1.82,
+      "volume_ratio": 1.73,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -568,7 +568,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 109.67,
       "change_pct": 1.87,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.74,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -798,10 +798,34 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 400.0,
+      "change_pct": 0.85,
+      "score": 4.5,
+      "signals": [
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.3 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.3 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 54.58,
-      "change_pct": -0.64,
+      "price": 54.73,
+      "change_pct": -0.36,
       "score": 4.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -820,6 +844,29 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 127.0,
+      "change_pct": 3.07,
+      "score": 4.5,
+      "signals": [
+        "Moved +3.07% \u2014 a 1.1\u03c3 move",
+        "3 news items in the last 3 days",
+        "6 insider buys vs 0 sells (last 90 days)"
+      ],
+      "reasons": [
+        "Moved +3.07% \u2014 a 1.1\u03c3 move",
+        "3 news items in the last 3 days",
+        "6 insider buys vs 0 sells (last 90 days)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying"
+      ],
+      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLP"
     },
     {
       "ticker": "OSCR",
@@ -846,11 +893,11 @@ window.theBriefMovers = {
       "change_pct": -5.69,
       "score": 4.0,
       "signals": [
-        "Moved -5.69% \u2014 a 2.2\u03c3 move vs typical 2.6% daily vol",
+        "Moved -5.69% \u2014 a 2.0\u03c3 move vs typical 2.8% daily vol",
         "3 news items in the last 3 days"
       ],
       "reasons": [
-        "Moved -5.69% \u2014 a 2.2\u03c3 move vs typical 2.6% daily vol",
+        "Moved -5.69% \u2014 a 2.0\u03c3 move vs typical 2.8% daily vol",
         "3 news items in the last 3 days"
       ],
       "tags": [
@@ -882,48 +929,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>AMD</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 125.63,
-      "change_pct": 1.96,
-      "score": 3.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 400.0,
-      "change_pct": 0.85,
-      "score": 3.0,
-      "signals": [
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.3 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.3 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [
