@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-30T04:21:26.463244+00:00",
+  "generated_at": "2026-07-30T07:12:55.672963+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Top Oil Stocks In A Volatile Market With Over 45% Forward EPS Growth\""
+      "move_reason": "News: \"Energy Beyond The Crisis: 7 Themes To Watch\""
     },
     {
       "ticker": "TPL",
@@ -203,7 +203,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Generated $31.9 Billion in Operating Cash Flow Last Quarter and Kept Only $784 Millio...\""
+      "move_reason": "News: \"This Investment Could Turn $1,000 Into $6,700 Without Picking a Single Stock. Here's the M...\""
     },
     {
       "ticker": "XLK",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fed's Interest Rate Decision: July 29, 2026\""
+      "move_reason": "News: \"Stocks Tank, Long-Term Treasury Yields Jump After Warsh Starts Talking\""
     },
     {
       "ticker": "NBIS",
@@ -368,7 +368,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Generated $31.9 Billion in Operating Cash Flow Last Quarter and Kept Only $784 Millio...\""
+      "move_reason": "News: \"This Investment Could Turn $1,000 Into $6,700 Without Picking a Single Stock. Here's the M...\""
     },
     {
       "ticker": "OSCR",
@@ -440,7 +440,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Top Oil Stocks In A Volatile Market With Over 45% Forward EPS Growth\""
+      "move_reason": "News: \"Energy Beyond The Crisis: 7 Themes To Watch\""
     }
   ],
   "indices": [
