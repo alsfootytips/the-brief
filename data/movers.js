@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-07-31T00:02:18.795096+00:00",
+  "generated_at": "2026-07-31T03:50:23.954389+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius (NBIS) Stock Still Looks Reasonable Despite Fresh AI Partnership News\""
+      "move_reason": "News: \"IREN Ltd. (IREN) is Gaining Momentum. This Tech Giant May Be Playing a Big Role\""
     },
     {
       "ticker": "CRWV",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense\""
+      "move_reason": "News: \"Is AMD Stock Heading to $600 per Share?\""
     },
     {
       "ticker": "MSFT",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cullen/Frost Bankers, Inc. Q2 2026 Earnings Call Summary\""
+      "move_reason": "News: \"Did Ken Griffin Just Save the AI Trade With This $10 Billion Move?\""
     },
     {
       "ticker": "QQQ",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Booking vs. Shopify: Which Consumer Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"The Trade Desk (TTD) Stock Sinks As Market Gains: What You Should Know\""
     },
     {
       "ticker": "XLC",
@@ -320,14 +320,14 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 55.98,
-      "change_pct": -0.09,
+      "price": 56.0,
+      "change_pct": -0.05,
       "volume_ratio": 0.61,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"National Fuel Gas Q3 Earnings Surpass Estimates, Revenues Increase Y/Y\""
+      "move_reason": "News: \"Warren Buffett's Legacy Oil Bet Is Paying Off Under Greg Abel. Nobody's Talking About It.\""
     }
   ],
   "watchlist": [
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense\""
+      "move_reason": "News: \"Is AMD Stock Heading to $600 per Share?\""
     },
     {
       "ticker": "APA",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius (NBIS) Stock Still Looks Reasonable Despite Fresh AI Partnership News\""
+      "move_reason": "News: \"IREN Ltd. (IREN) is Gaining Momentum. This Tech Giant May Be Playing a Big Role\""
     },
     {
       "ticker": "NVDA",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cullen/Frost Bankers, Inc. Q2 2026 Earnings Call Summary\""
+      "move_reason": "News: \"Did Ken Griffin Just Save the AI Trade With This $10 Billion Move?\""
     },
     {
       "ticker": "OSCR",
@@ -442,14 +442,14 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 55.98,
-      "change_pct": -0.09,
+      "price": 56.0,
+      "change_pct": -0.05,
       "volume_ratio": 0.61,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"National Fuel Gas Q3 Earnings Surpass Estimates, Revenues Increase Y/Y\""
+      "move_reason": "News: \"Warren Buffett's Legacy Oil Bet Is Paying Off Under Greg Abel. Nobody's Talking About It.\""
     },
     {
       "ticker": "PWR",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Booking vs. Shopify: Which Consumer Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"The Trade Desk (TTD) Stock Sinks As Market Gains: What You Should Know\""
     },
     {
       "ticker": "XLE",
@@ -869,8 +869,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 55.98,
-      "change_pct": -0.09,
+      "price": 56.0,
+      "change_pct": -0.05,
       "score": 4.5,
       "signals": [
         "3 news items in the last 3 days",
