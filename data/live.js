@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-31T22:53:42.984142+00:00",
+  "generated_at": "2026-07-31T23:00:40.820872+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.11,
       "price": 57.69,
       "is_watchlist": true,
-      "timestamp": "2026-07-31T22:53:42.871847+00:00",
+      "timestamp": "2026-07-31T23:00:40.818118+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -3.5,
-      "price": 71.31,
+      "change_pct": -3.46,
+      "price": 71.34,
       "is_watchlist": true,
-      "timestamp": "2026-07-31T22:53:42.871838+00:00",
+      "timestamp": "2026-07-31T23:00:40.818107+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,10 +58,120 @@ window.theBriefLive = {
       "change_pct": 3.63,
       "price": 37.65,
       "is_watchlist": true,
-      "timestamp": "2026-07-31T22:53:42.871827+00:00",
+      "timestamp": "2026-07-31T23:00:40.818099+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clorox raises quarterly dividend by 0.8% to  $1.25/share",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623041-clorox-raises-quarterly-dividend-by-08-to-125share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:59:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Universal Logistics declares $0.105 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623040-universal-logistics-declares-0_105-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:58:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 DLH Holdings Corp For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829391",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:53:20+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 DLH Holdings Corp For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829390",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:53:09+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DLH Holdings director Mink Brook Asset Management buys $2,396 stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-2396-stock-93CH-4829389",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:50:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DLH Holdings: Mink Brook Asset Management, 10% owner, buys $77,534 stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dlh-holdings-mink-brook-asset-management-10-owner-buys-77534-stock-93CH-4829388",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:49:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 DLH Holdings Corp For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829387",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:49:36+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 DLH Holdings Corp For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829386",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:49:34+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Beyond Air Inc For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-beyond-air-inc-for-31-july-93CH-4829385",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:49:14+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Enphase Energy Inc For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-enphase-energy-inc-for-31-july-93CH-4829384",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:48:44+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -98,94 +208,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-31T22:35:23+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "El Pollo Loco director Sardar Biglari sells $119,588 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/el-pollo-loco-director-sardar-biglari-sells-119588-in-shares-93CH-4829372",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:35:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Seacor Marine Sr. VP Everett sells $592,521 of SMHI shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/seacor-marine-sr-vp-everett-sells-592521-of-smhi-shares-93CH-4829371",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:35:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Primoris Services Corporation For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-primoris-services-corporation-for-31-july-93CH-4829370",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:34:50+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Primoris Services Corporation For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-primoris-services-corporation-for-31-july-93CH-4829369",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:34:48+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 SEACOR Marine Holdings Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-seacor-marine-holdings-inc-for-31-july-93CH-4829368",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:34:42+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Primoris Services Corporation For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-primoris-services-corporation-for-31-july-93CH-4829367",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:34:40+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 ACADIA Pharmaceuticals Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-acadia-pharmaceuticals-inc-for-31-july-93CH-4829366",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:34:33+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Intuitive Surgical Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-intuitive-surgical-inc-for-31-july-93CH-4829365",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:34:19+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -301,17 +323,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Uni-Fuels receives Nasdaq minimum bid price deficiency notice",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623033-uni-fuels-receives-nasdaq-minimum-bid-price-deficiency-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T21:45:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Why CareDx Stock Jumped Today",
       "source": "Yahoo",
@@ -321,17 +332,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OceanFirst expects Q4 2026 net interest margin of 3.09%-3.14% following Flushing integration",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623032-oceanfirst-expects-q4-2026-net-interest-margin-of-3_09-percentminus-3_14-percent-following?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T21:44:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
