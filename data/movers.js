@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T19:57:50.629441+00:00",
+  "generated_at": "2026-08-01T21:00:15.056099+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Saylor Has Paused Strategy's Regular Bitcoin Buys. What Does That Mean for MSTR St...\""
+      "move_reason": "News: \"3 Stocks Smart Quantum Computing Investors Are Buying\""
     },
     {
       "ticker": "XLC",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Saylor Has Paused Strategy's Regular Bitcoin Buys. What Does That Mean for MSTR St...\""
+      "move_reason": "News: \"3 Stocks Smart Quantum Computing Investors Are Buying\""
     },
     {
       "ticker": "OSCR",
