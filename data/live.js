@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T17:43:24.492163+00:00",
+  "generated_at": "2026-08-01T18:42:50.694065+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T17:43:24.489306+00:00",
+      "timestamp": "2026-08-01T18:42:50.691298+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,149 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T17:43:24.489297+00:00",
+      "timestamp": "2026-08-01T18:42:50.691289+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings scoreboard: 88% of real estate names beat revenue estimates this week",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623025-earnings-scoreboard-88-of-real-estate-names-beat-revenue-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:30:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Let\u2019s elect candidates who will make the wealthy pay taxes",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:06:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump orders a new offensive against Iran as soon as this weekend: WSJ",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623114-trump-orders-new-offensive-against-iran?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T18:03:50+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Scoreboard: Apple slumps after Tim Cook's final earnings; Microsoft rallies in big-tech results week",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623049-earnings-scoreboard-apple-slumps-after-tim-cooks-final-earnings-microsoft-rallies-in-big-tech-results-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:00:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Michael Saylor Has Paused Strategy's Regular Bitcoin Buys. What Does That Mean for MSTR Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0ac183141e6c050502e25d162b6ccd09c871e87ef95434a12031e621cecbca5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T17:51:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Where Will Micron Stock Be in 2030?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38133f18ff2461727912304a186bcde6044a76e7f63bde4c3339ff0c6ceece37",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T17:51:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trending stocks this week as Big Tech earnings, Fed decision sway markets",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623113-trending-stocks-this-week-as-big-tech-earnings-fed-decision-sway-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:45:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:42:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clayton will take over as US intelligence chief on Monday, Pulte says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/clayton-set-to-take-over-as-top-us-spy-on-monday-pulte-says-4829640",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:42:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump disputes his own Justice Department\u2019s findings on Reflecting Pool",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/trump-disputes-his-own-justice-departments-findings-on-reflecting-pool-4829641",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:36:27+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -72,6 +211,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T17:30:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Grail (GRAL) Stock a Buy, Sell, or Hold at Under $70?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e15a660e4228b4a52af753a4c47bc796a1562e07330c5925e0bc5b64291531e",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T17:28:20+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -121,17 +272,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Clayton set to take over as top US spy on Monday, Pulte says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/clayton-set-to-take-over-as-top-us-spy-on-monday-pulte-says-4829640",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:18:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
@@ -165,55 +305,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Energy sector rallies in July as geopolitical risks drive oil higher",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622992-energy-sector-rallies-as-geopolitical-risks-drive-oil-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings scorecard: eight out of nine healthcare companies deliver EPS wins this week",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622809-earnings-scorecard-eight-out-of-nine-healthcare-companies-deliver-eps-wins-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:00:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings Scorecard: 85% of financial companies beat EPS estimates this week: Who missed?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622881-earnings-scorecard-85-of-financial-companies-beat-eps-estimates-this-week-who-missed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:45:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-01T16:41:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings Scoreboard: 84% of S&P 500 reporting firms top EPS estimates as 72% post Y/Y profit growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622425-earnings-scoreboard-84-of-sp-500-reporting-firms-top-eps-estimates-as-72-post-yy-profit-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:30:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -231,92 +327,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:15:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I\u2019ve seen families destroyed by this common estate-planning mistake. Here\u2019s how to protect yours.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:06:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Better eVTOL Stock: Joby Aviation vs. Archer Aviation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=019380db905b4d10c6a7a9f4b6513334be804c404c1e83b32d25fe328db3cd11",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T15:56:17+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-two-in-gaza-destroy-medicine-storage-warehouses-4829615",
       "is_watchlist": false,
       "timestamp": "2026-08-01T15:54:26+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "SoFi Just Reported Earnings. Is the Stock a Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=743f803842fb72cae3ea2cbd307f6b5f66f2d79f23b9db1dccd8cddcb08359f8",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T15:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Did Lucid Stock Rally Nearly 20% This Week?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4031b24ffa0237636973389ce837e64c7ff1cee30e9aeb0c5490681095e8f46e",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T15:46:45+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:42:29+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -338,17 +354,6 @@ window.theBriefLive = {
       "url": "https://www.investors.com/news/ge-aerospace-ai-play-netapp-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
       "timestamp": "2026-08-01T15:22:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Migrants say hunger and hostility drove them back from Spain\u2019s Ceuta to Morocco",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/migrants-say-hunger-and-hostility-drove-them-back-from-spains-ceuta-to-morocco-4829638",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:00:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -511,6 +516,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T12:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
@@ -519,17 +535,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

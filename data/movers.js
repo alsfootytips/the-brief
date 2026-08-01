@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T17:43:24.482385+00:00",
+  "generated_at": "2026-08-01T18:42:50.684399+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better eVTOL Stock: Joby Aviation vs. Archer Aviation\""
+      "move_reason": "News: \"Michael Saylor Has Paused Strategy's Regular Bitcoin Buys. What Does That Mean for MSTR St...\""
     },
     {
       "ticker": "XLC",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better eVTOL Stock: Joby Aviation vs. Archer Aviation\""
+      "move_reason": "News: \"Michael Saylor Has Paused Strategy's Regular Bitcoin Buys. What Does That Mean for MSTR St...\""
     },
     {
       "ticker": "OSCR",
