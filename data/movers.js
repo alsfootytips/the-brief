@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T06:29:53.538612+00:00",
+  "generated_at": "2026-08-01T08:54:56.677652+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profi...\""
+      "move_reason": "News: \"Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock B...\""
     },
     {
       "ticker": "XLC",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Swing And A Miss\""
+      "move_reason": "News: \"The Federal Reserve: A Question Of Credibility\""
     },
     {
       "ticker": "NBIS",
@@ -410,7 +410,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Cash-Heavy Stocks Worth Your Attention\""
+      "move_reason": "News: \"Scott Strazik's GE Vernova Has a $176 Billion Backlog. So Why Did Wall Street Sell the Sto...\""
     },
     {
       "ticker": "IWM",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Swing And A Miss\""
+      "move_reason": "News: \"The Federal Reserve: A Question Of Credibility\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profi...\""
+      "move_reason": "News: \"Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock B...\""
     },
     {
       "ticker": "OSCR",
