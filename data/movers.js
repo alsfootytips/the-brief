@@ -1,18 +1,6 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T13:20:41.318865+00:00",
+  "generated_at": "2026-08-01T14:45:16.737955+00:00",
   "gainers": [
-    {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 37.89,
-      "change_pct": 4.29,
-      "volume_ratio": 1.29,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"EnerCom Announces SM Energy as a Keynote Speaker at the 31st EnerCom Denver - The Energy I...\""
-    },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary Select",
@@ -106,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Chevron Just Crushed Earnings. Here's What It Means for the Dividend.\""
+      "move_reason": "News: \"Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does\""
     },
     {
       "ticker": "XLC",
@@ -173,6 +161,18 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "PLTR",
+      "name": "PLTR",
+      "price": 122.76,
+      "change_pct": 0.41,
+      "volume_ratio": 0.88,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: Rising Interest Rates Are Again The Main Attraction\""
+      "move_reason": "News: \"The Mag 7 Doesn't Exist Anymore: Pick The Winners, Sell The Losers\""
     },
     {
       "ticker": "NBIS",
@@ -365,18 +365,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)\""
     },
     {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 37.89,
-      "change_pct": 4.29,
-      "volume_ratio": 1.29,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"EnerCom Announces SM Energy as a Keynote Speaker at the 31st EnerCom Denver - The Energy I...\""
-    },
-    {
       "ticker": "CRWV",
       "name": "CoreWeave",
       "price": 71.28,
@@ -422,7 +410,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: Rising Interest Rates Are Again The Main Attraction\""
+      "move_reason": "News: \"The Mag 7 Doesn't Exist Anymore: Pick The Winners, Sell The Losers\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Chevron Just Crushed Earnings. Here's What It Means for the Dividend.\""
+      "move_reason": "News: \"Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does\""
     },
     {
       "ticker": "OSCR",
@@ -678,33 +666,6 @@ window.theBriefMovers = {
     }
   ],
   "watchlist_radar": [
-    {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 37.89,
-      "change_pct": 4.29,
-      "score": 7.0,
-      "signals": [
-        "Moved +4.29% \u2014 a 1.8\u03c3 move vs typical 2.5% daily vol",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 9.0 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +4.29% \u2014 a 1.8\u03c3 move vs typical 2.5% daily vol",
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 9.0 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "moderate-move",
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
