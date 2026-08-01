@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T00:08:49.736567+00:00",
+  "generated_at": "2026-08-01T03:50:38.853830+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -70,7 +70,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+2.15% today)"
+      "move_reason": "Tracking XLE sector (+2.14% today)"
     },
     {
       "ticker": "MSFT",
@@ -87,8 +87,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 60.23,
-      "change_pct": 2.15,
+      "price": 60.22,
+      "change_pct": 2.14,
       "volume_ratio": 0.82,
       "is_watchlist": true,
       "is_index": false,
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why CareDx Stock Jumped Today\""
+      "move_reason": "News: \"Roblox Guided Bookings Down as Much as 18% and Withdrew Its Full-Year Outlook. The Algorit...\""
     },
     {
       "ticker": "XLC",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave completes $2.6B term loan after raising the spread and yield\""
+      "move_reason": "News: \"The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenne...\""
     },
     {
       "ticker": "AMD",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility\""
+      "move_reason": "News: \"Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase\""
     },
     {
       "ticker": "XLB",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Software Stocks to Target This Week and 1 We Question\""
+      "move_reason": "News: \"Trade Desk (TTD) Stock Looks Undervalued Despite Fair Earnings And A 79% Fall\""
     },
     {
       "ticker": "SOFI",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Stocks Cracked In July, New S&P 500 Challenges Emerge In August\""
+      "move_reason": "News: \"Q2 GDP Advance Estimate: Real GDP At 1.5%, Lower Than Expected\""
     },
     {
       "ticker": "NBIS",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility\""
+      "move_reason": "News: \"Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase\""
     },
     {
       "ticker": "APA",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave completes $2.6B term loan after raising the spread and yield\""
+      "move_reason": "News: \"The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenne...\""
     },
     {
       "ticker": "DG",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Stocks Cracked In July, New S&P 500 Challenges Emerge In August\""
+      "move_reason": "News: \"Q2 GDP Advance Estimate: Real GDP At 1.5%, Lower Than Expected\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why CareDx Stock Jumped Today\""
+      "move_reason": "News: \"Roblox Guided Bookings Down as Much as 18% and Withdrew Its Full-Year Outlook. The Algorit...\""
     },
     {
       "ticker": "OSCR",
@@ -494,7 +494,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+2.15% today)"
+      "move_reason": "Tracking XLE sector (+2.14% today)"
     },
     {
       "ticker": "TTD",
@@ -506,13 +506,13 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Software Stocks to Target This Week and 1 We Question\""
+      "move_reason": "News: \"Trade Desk (TTD) Stock Looks Undervalued Despite Fair Earnings And A 79% Fall\""
     },
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 60.23,
-      "change_pct": 2.15,
+      "price": 60.22,
+      "change_pct": 2.14,
       "volume_ratio": 0.82,
       "is_watchlist": true,
       "is_index": false,
@@ -578,8 +578,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 60.23,
-      "change_pct": 2.15,
+      "price": 60.22,
+      "change_pct": 2.14,
       "volume_ratio": 0.82,
       "is_watchlist": true,
       "is_index": false,
@@ -839,15 +839,15 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 60.23,
-      "change_pct": 2.15,
+      "price": 60.22,
+      "change_pct": 2.14,
       "score": 4.0,
       "signals": [
-        "Moved +2.15% \u2014 a 1.7\u03c3 move vs typical 1.3% daily vol",
+        "Moved +2.14% \u2014 a 1.7\u03c3 move vs typical 1.3% daily vol",
         "3 news items in the last 3 days"
       ],
       "reasons": [
-        "Moved +2.15% \u2014 a 1.7\u03c3 move vs typical 1.3% daily vol",
+        "Moved +2.14% \u2014 a 1.7\u03c3 move vs typical 1.3% daily vol",
         "3 news items in the last 3 days"
       ],
       "tags": [
@@ -939,8 +939,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 2.15,
-      "price": 60.23,
+      "change_pct": 2.14,
+      "price": 60.22,
       "watchlist_members": [
         "APA",
         "TPL",

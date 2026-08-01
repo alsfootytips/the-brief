@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T00:08:49.745401+00:00",
+  "generated_at": "2026-08-01T03:50:38.861398+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T00:08:49.742692+00:00",
+      "timestamp": "2026-08-01T03:50:38.859134+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T00:08:49.742683+00:00",
+      "timestamp": "2026-08-01T03:50:38.859127+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,90 +54,206 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "FIFA scraps World Cup sell off plans, Infantino says",
+      "headline": "Form 4 Knight-Swift Transportation For: 31 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/fifa-scraps-world-cup-sell-off-plans-infantino-says-4829433",
+      "url": "https://www.investing.com/news/filings/form-4-knightswift-transportation-for-31-july-93CH-4829527",
       "is_watchlist": false,
-      "timestamp": "2026-07-31T23:54:27+00:00",
+      "timestamp": "2026-08-01T03:34:39+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Budget to be held in October, Healey announces",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T03:34:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Joint Stock Co Kaspi.kz For: 31 July",
+      "headline": "Knight-Swift director Reid Dove sells $3.5 million in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-joint-stock-co-kaspikz-for-31-july-93CH-4829432",
+      "url": "https://www.investing.com/news/insider-trading-news/knightswift-director-reid-dove-sells-35-million-in-stock-93CH-4829526",
       "is_watchlist": false,
-      "timestamp": "2026-07-31T23:45:06+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Business First Bancshares Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-business-first-bancshares-inc-for-31-july-93CH-4829431",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T23:39:18+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Business First Bancshares Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-business-first-bancshares-inc-for-31-july-93CH-4829430",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T23:39:18+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Business first bancshares EVP&COO sells $134,736 of company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/business-first-bancshares-evpcoo-sells-134736-of-company-stock-93CH-4829429",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T23:36:07+00:00",
+      "timestamp": "2026-08-01T03:31:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Business first bancshares director Cummings sells $635,800 in stock",
+      "headline": "Form 4 Block Inc For: 31 July",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/business-first-bancshares-director-cummings-sells-635800-in-stock-93CH-4829428",
+      "url": "https://www.investing.com/news/filings/form-4-block-inc-for-31-july-93CH-4829525",
       "is_watchlist": false,
-      "timestamp": "2026-07-31T23:36:00+00:00",
+      "timestamp": "2026-08-01T03:30:18+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form S-3ASR Paramount Skydance Corp For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-s3asr-paramount-skydance-corp-for-31-july-93CH-4829524",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T03:30:10+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Supernus Pharmaceuticals Inc For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-supernus-pharmaceuticals-inc-for-31-july-93CH-4829523",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T03:30:08+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 OneMain Holdings Inc For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-onemain-holdings-inc-for-31-july-93CH-4829521",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T03:19:10+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US to make visa bond program permanent for people from dozens of countries",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/us-to-make-visa-bond-program-permanent-for-people-from-dozens-of-countries-4829520",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T03:18:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Neptune Insurance Holdings Inc For: 31 July",
+      "headline": "Onemain Holdings SVP Michael Hedlund sells $160,000 in OMF stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-neptune-insurance-holdings-inc-for-31-july-93CH-4829427",
+      "url": "https://www.investing.com/news/insider-trading-news/onemain-holdings-svp-michael-hedlund-sells-160000-in-omf-stock-93CH-4829519",
       "is_watchlist": false,
-      "timestamp": "2026-07-31T23:35:15+00:00",
-      "relevance_score": -4.0,
+      "timestamp": "2026-08-01T03:16:03+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Cathay General Bancorp For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-cathay-general-bancorp-for-31-july-93CH-4829426",
+      "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
       "is_watchlist": false,
-      "timestamp": "2026-07-31T23:35:13+00:00",
-      "relevance_score": -4.0,
+      "timestamp": "2026-08-01T02:08:51+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Roblox Guided Bookings Down as Much as 18% and Withdrew Its Full-Year Outlook. The Algorithm Change Behind It Was Deliberate.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69180d42a6f2050b61766e07ab6c6c3d8ebeb13ccb38432036ad57d93fd4203c",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T01:42:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T01:06:58+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Alibaba (NYSE:BABA) Is Supplying Moonshot With A Major Nvidia AI Cluster",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14d54fa57fa728689f9cd4f67db68d5805f18c4a234517dbb4e9b65cc63a6a13",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T01:06:13+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Quanta Services Inc (PWR) (Q2 2026) Earnings Call Highlights: Record Backlog and Raised ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85708b5ea7150188dbb045fcc5ecb147dbe65224528aee6e8253536a55db0681",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T01:04:50+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T00:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Here Are 3 Things Every Successful Passive Income Investor Has in Common -- and They're Simpler Than You Might Think",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af7a64a1dfd631c406525dcba610b993006c5788d7a2007205abda3c460fab26",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T00:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T00:25:00+00:00",
+      "relevance_score": -2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Quanta Services Q2 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81f365dedd2aea703d65e3cee8cea990f44e6b67985a47c190c49ab529208ca6",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T00:03:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -171,6 +287,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-31T23:14:30+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "Trade Desk (TTD) Stock Looks Undervalued Despite Fair Earnings And A 79% Fall",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=154b475f0c88402bc714504a9682c6229e2be9d9e47079a38bf2792354322673",
+      "is_watchlist": true,
+      "timestamp": "2026-07-31T23:08:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -307,30 +435,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why CareDx Stock Jumped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c36158965215c0887cfc3e3c07e23830886d2225bc7412f8534889889290e104",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T21:44:23+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Fed Chair Kevin Warsh Plays the Hawk But May Have a Dove Up His Sleeve",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0290f9877eda30e842cdf85f35b089a1898a8f866b7cc4e6c9e3025bd5a73b1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T21:41:00+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility",
       "source": "Yahoo",
@@ -354,18 +458,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "AI trade is a combination of 'perception and reality': Bradley Tusk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09e3189c56b73156f3de9367010e2ff997c7c28bc8513b44413117469505f22b",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T21:21:36+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
       "source": "MarketWatch",
@@ -374,6 +466,30 @@ window.theBriefLive = {
       "timestamp": "2026-07-31T21:10:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Q2 GDP Advance Estimate: Real GDP At 1.5%, Lower Than Expected",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fc62ef3a9c05cf27cd5efe4e0d6312f287b5557752aa2fe995c44eb8e9e8f181",
+      "is_watchlist": true,
+      "timestamp": "2026-07-31T21:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenner\u2019s hedge fund nearly blew up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f25ed70e12a7a5ee512a8dbffd12d418968d6b24094a1cb1baa81bf4ab43672b",
+      "is_watchlist": true,
+      "timestamp": "2026-07-31T21:01:05+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -389,18 +505,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e4cb926bf0be07df6b11b28b6d49b9290ff6b95a6d81b8dfb9063c26a93be0aa",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T20:45:14+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
       "source": "MarketWatch",
@@ -408,17 +512,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-31T20:23:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T20:20:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -441,17 +534,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-31T20:17:54+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T20:00:00+00:00",
-      "relevance_score": -2.5,
       "relevance_tier": "low"
     },
     {
@@ -565,18 +647,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T18:16:18+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AI firms must answer for rogue bots, says boss of hacked company",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
@@ -668,18 +738,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Delivering Measurable AI Strategies: ICR CEO Anton Nicholas, Live at Nasdaq",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e320fab1ddf87d306e738d4ad77e102b5da9fd40245831e8add6145b1d9216c1",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T16:04:14+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "AI Stocks Cracked In July, New S&P 500 Challenges Emerge In August",
       "source": "SeekingAlpha",
@@ -704,25 +762,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Budget to be held in October, Healey announces",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+      "headline": "450,000 defrauded student loan borrowers are eligible for debt forgiveness \u2014 here's who qualifies",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
       "is_watchlist": false,
-      "timestamp": "2026-07-31T15:58:42+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-07-31T15:45:15+00:00",
+      "relevance_score": -3.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Data Center Builder Leaps 31% On Earnings As AI Trade Divides",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=502d8cd577b20648e5060337016fdf8bb52194328cb9c995b42eb5fff9c6c202",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T15:26:56+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -749,36 +795,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "PWR",
-      "headline": "Quanta Services Q2 Earnings Call Highlights Growth & Backlog Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72fdad16c1894ab8b899afd205405cf3f6251f19d0a2b81fcd1ec92d96e83e6e",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T14:24:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Occidental Petroleum Stock Outlook: Is Wall Street Bullish or Bearish?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1aa2ad7a5d09e9f68ba67ef07753fb491e6cd4630e9849877d5e43d25eacb42d",
       "is_watchlist": true,
       "timestamp": "2026-07-31T13:54:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=400c1e253059928ecd67705b55506f50b8f112b556e3bea7f2de09df91a3664f",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T13:42:45+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -982,15 +1004,69 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "The Trade Desk (TTD) Stock Sinks As Market Gains: What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=093813f3dbe5ad48bd3cda9551cb102a083887cb947fffcc50f0abed2427f188",
-      "is_watchlist": true,
-      "timestamp": "2026-07-30T21:45:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "CNX Resources Corporation Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cnx-resources-corporation-q2-2026-215143119.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T21:51:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Avery Dennison Corporation Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/avery-dennison-corporation-q2-2026-215106999.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T21:51:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jones Lang LaSalle Incorporated Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/jones-lang-lasalle-incorporated-q2-215028821.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T21:50:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cullen/Frost Bankers, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cullen-frost-bankers-inc-q2-214511609.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T21:45:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EMCOR Group, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-inc-q2-2026-214031583.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T21:40:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brunswick Corporation Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brunswick-corporation-q2-2026-earnings-213611407.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T21:36:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1053,39 +1129,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uks-ig-group-agrees-buy-164102084.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T16:41:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A meat snacks baron and his son turned a failing Wisconsin business into a $1.6 billion-a-year empire. Here's how",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/meat-snacks-baron-son-turned-163500199.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T16:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AMD Fell 8% as China Unveils New Technology \u2014 the Real Risk Is the Multiple, Not the Lithography",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-fell-8-china-unveils-163317303.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T16:33:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Fed interest-rate decision rocks Wall Street's inflation fears",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
@@ -1094,39 +1137,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saia\u2019s Q3 margin guidance disappoints investors",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/saia-q3-margin-guidance-disappoints-163232017.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T16:32:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intel Just Posted Its Best Revenue Growth in 15 Years. Here\u2019s What It Means for INTC Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-just-posted-best-revenue-163116612.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T16:31:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia (NVDA) Could Backstop $250 Billion for OpenAI. Where Does That Leave Microsoft (MSFT)?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-could-backstop-250-163019894.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T16:30:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1277,17 +1287,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
-      "is_watchlist": false,
-      "timestamp": "2026-07-28T23:04:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
