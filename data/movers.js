@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T11:47:28.165863+00:00",
+  "generated_at": "2026-08-01T13:20:41.318865+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?\""
+      "move_reason": "News: \"Chevron Just Crushed Earnings. Here's What It Means for the Dividend.\""
     },
     {
       "ticker": "XLC",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenne...\""
+      "move_reason": "News: \"ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify\""
     },
     {
       "ticker": "AMD",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TSMC is quietly borrowing a page from Intel's playbook\""
+      "move_reason": "News: \"Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)\""
     },
     {
       "ticker": "XLB",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Stocks Without The AI Price Tag\""
+      "move_reason": "News: \"Weekly Indicators: Rising Interest Rates Are Again The Main Attraction\""
     },
     {
       "ticker": "NBIS",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TSMC is quietly borrowing a page from Intel's playbook\""
+      "move_reason": "News: \"Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)\""
     },
     {
       "ticker": "APA",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenne...\""
+      "move_reason": "News: \"ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify\""
     },
     {
       "ticker": "DG",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Stocks Without The AI Price Tag\""
+      "move_reason": "News: \"Weekly Indicators: Rising Interest Rates Are Again The Main Attraction\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?\""
+      "move_reason": "News: \"Chevron Just Crushed Earnings. Here's What It Means for the Dividend.\""
     },
     {
       "ticker": "OSCR",
