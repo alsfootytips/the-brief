@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T10:40:09.396771+00:00",
+  "generated_at": "2026-08-01T11:47:28.165863+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Federal Reserve: A Question Of Credibility\""
+      "move_reason": "News: \"AI Stocks Without The AI Price Tag\""
     },
     {
       "ticker": "NBIS",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Federal Reserve: A Question Of Credibility\""
+      "move_reason": "News: \"AI Stocks Without The AI Price Tag\""
     },
     {
       "ticker": "NBIS",
