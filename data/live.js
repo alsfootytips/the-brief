@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T22:03:49.057301+00:00",
+  "generated_at": "2026-08-01T23:11:38.461397+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T22:03:49.055020+00:00",
+      "timestamp": "2026-08-01T23:11:38.458476+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,69 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T22:03:49.055014+00:00",
+      "timestamp": "2026-08-01T23:11:38.458468+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T22:48:05+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran threatens to strike other\u00a0nations\u2019 energy fields if US launches fresh attacks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T22:42:41+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T22:18:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T22:05:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T22:00:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -65,33 +124,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:58:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thirteen die in tourist plane crash over Peru\u2019s Nazca Lines",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thirteen-die-in-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-4829649",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:54:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
       "is_watchlist": false,
       "timestamp": "2026-08-01T21:36:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 High-Yield Energy Stocks to Buy With $1,000 Right Now and Hold Through 2030",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/3-high-yield-energy-stocks-213500144.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/xlv-vs-ibbq-broad-healthcare-213101526.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T21:31:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -118,6 +177,29 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/surinames-26-billion-oil-bet-210000202.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e5f4214f4495c914e2b160986a16dfd2ff6ebf8250aebd41f55513066c16343",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T20:58:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -134,14 +216,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Thirteen die in tourist plane crash over Peru\u2019s Nazca Lines",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/thirteen-die-in-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-4829649",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T20:36:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Prediction: Eli Lilly Will Be Worth $2 Trillion by 2031",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e0e414275d37967b0aeabb3dadba2900012395868b7036c1c46e3d6a51495d7",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T20:37:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia's CEO just pointed at the part of AI that worries him most",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3601a2fc2c0ce019f21c6bc6d4247d7012f04dfe3f3140d499842add0b055daf",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T20:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -201,52 +296,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Stocks Smart Quantum Computing Investors Are Buying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d4168f13e7cec40880440134f406b41b15f3010121c402eb284b977b0193e88",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T19:55:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI spending boom faces two key policy risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ai-spending-boom-faces-two-key-policy-risks-4829648",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T19:44:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why EPAM Systems Stock Rocketed Higher This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab1e87349696034a4426935f6c4c504dfb6966bead9f88086f2993f8f83dd014",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T19:29:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says-4829645",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T19:12:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Utilities sector slips in July; Constellation Energy leads gainers, Alliant Energy leads decliners",
       "source": "Seeking Alpha Market",
@@ -255,18 +304,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T19:05:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "History Says That Bitcoin Is an Unbelievable Bargain Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a975dbcbf184391a0998965876ecfa96f1c2308aa89f9937f114f2f5c5facbd1",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T19:03:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -386,6 +423,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Microsoft\u2019s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:09:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Visa Stock Looks Attractive After Layoffs, Strong Earnings",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-looks-attractive-layoffs-153510757.html",
@@ -413,39 +461,6 @@ window.theBriefLive = {
       "url": "https://www.investors.com/news/ge-aerospace-ai-play-netapp-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
       "timestamp": "2026-08-01T15:22:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hoping for Lower Prices at the Gas Pump? After Exxon Doubles Profits, CEO Darren Woods Says \u2018I Wouldn\u2019t Hold My Breath.\u2019",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/hoping-lower-prices-gas-pump-151502283.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Investors Shouldn\u2019t Sweat the Dip in Qualcomm\u2019s Handset Revenue, According to Experts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-shouldn-t-sweat-150002057.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why This High-Yield Stock Fund Should Replace Covered Call ETFs\u2026 At Least for a While",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-high-yield-stock-fund-150002183.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -506,17 +521,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:10:03+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
