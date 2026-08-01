@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T15:45:21.857466+00:00",
+  "generated_at": "2026-08-01T16:40:42.342312+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T15:45:21.855136+00:00",
+      "timestamp": "2026-08-01T16:40:42.339453+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,156 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T15:45:21.855129+00:00",
+      "timestamp": "2026-08-01T16:40:42.339442+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Scoreboard: 84% of S&P 500 reporting firms top EPS estimates as 72% post Y/Y profit growth",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622425-earnings-scoreboard-84-of-sp-500-reporting-firms-top-eps-estimates-as-72-post-yy-profit-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:30:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BYD's July sales jump for third straight month",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623110-byds-july-sales-jump-third-straight-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:25:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:15:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019ve seen families destroyed by this common estate-planning mistake. Here\u2019s how to protect yours.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:06:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Real estate stocks begin H2 on a positive note, outperform broader markets in July",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622960-real-estate-stocks-begin-h2-on-a-positive-note-outperform-broader-markets-in-july?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:00:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Better eVTOL Stock: Joby Aviation vs. Archer Aviation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=019380db905b4d10c6a7a9f4b6513334be804c404c1e83b32d25fe328db3cd11",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T15:56:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-two-in-gaza-destroy-medicine-storage-warehouses-4829615",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:54:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SoFi Just Reported Earnings. Is the Stock a Buy Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=743f803842fb72cae3ea2cbd307f6b5f66f2d79f23b9db1dccd8cddcb08359f8",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T15:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Did Lucid Stock Rally Nearly 20% This Week?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4031b24ffa0237636973389ce837e64c7ff1cee30e9aeb0c5490681095e8f46e",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T15:46:45+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:45:00+00:00",
+      "relevance_score": -2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:42:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -65,6 +211,40 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:38:21+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thousands-expected-in-amsterdam-for-boisterous-worldpride-in-shadow-of-berlin-attack-4829566",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:36:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:36:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
@@ -72,18 +252,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T15:29:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:27:27+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -154,13 +322,25 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SA Asks: Who else could make a bid for PayPal?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623039-sa-asks-who-else-could-make-a-bid-for-paypal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "The Bank of England Is Moving Away From Coal",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bank-england-moving-away-coal-150000057.html",
       "is_watchlist": false,
       "timestamp": "2026-08-01T15:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "$5,000 in GE Vernova at Its 2024 Low Would Be Worth This Much Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce1b3f5465c1c44090ec8ae4cae6d7cdd75e1ec33c4c7cee771c91522689c30d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T14:44:44+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -183,43 +363,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T14:41:54+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:36:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-two-in-gaza-destroy-medicine-storage-warehouses-4829615",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:36:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump Media\u2019s Truth API launches with early access to market-moving posts",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623107-trump-media-launches-truth-api-paid-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T14:32:14+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -272,17 +415,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Notable tech headlines for the week: Apple, Microsoft, Qualcomm in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622971-notable-tech-headlines-for-the-week-apple-microsoft-qualcomm-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:05:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
@@ -290,40 +422,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T14:04:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CTA Nasdaq de-risking appears largely complete: BofA",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/cta-nasdaq-derisking-appears-largely-complete-bofa-4829628",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T13:56:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a1fe5eac656755934a7ce2620c4603ee0090d0532bee77d03fb4534abaaacc9",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T13:45:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -349,30 +447,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 High-Yield Dividend Stocks Worth Buying Before 2026 Ends",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10960d60f5621c260a2e914d751721210c2a996daf2884d1186d7e83b70207e3",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T13:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "State Street\u2019s $5.7 Trillion Portfolio Chief Missed Bitcoin at $500. But She Saw Gold\u2019s $3,000 Run Coming Years Earlier",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f5960f6d8f8765e81eebe055a840b264cf50d4132545b124ffda21fd9db40af0",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T13:30:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Buying a condo with a mortgage may soon get more complicated. Here's why",
       "source": "CNBC Top",
@@ -380,17 +454,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-01T13:30:01+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T13:30:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -418,39 +481,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Scripps completes acquisition of ABC affiliate in Lexington",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/scripps-completes-acquisition-of-abc-affiliate-in-lexington-93CH-4829625",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T13:17:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s what\u2019s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T13:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to plan for the high cost of having your first kid in your 40s",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-plan-for-the-high-cost-of-having-your-first-kid-in-your-40s-bfe0c28a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
@@ -468,17 +498,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-01T12:30:01+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How much should an AI agent cost? No one can agree \u2014 and it\u2019s creating chaos.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-much-should-an-ai-agent-cost-no-one-can-agree-and-its-creating-chaos-288d741e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T12:30:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -515,6 +534,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T12:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "SpaceX's First Earnings Post IPO",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T11:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -618,6 +649,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b593a1a8b608a1e35c900bdb49b3e36d6bf3ab0704ceba01b073e6871a159a43",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T08:00:35+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "Weekly Indicators: Rising Interest Rates Are Again The Main Attraction",
       "source": "SeekingAlpha",
@@ -665,18 +708,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "TSMC is quietly borrowing a page from Intel's playbook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a27f5cb6c7d1181a6cce48ab315a3f4e4898a966f35fbdc94ccc4ef255b106d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T02:33:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
       "source": "NPR Business",
@@ -685,18 +716,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T02:08:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Corsair Gaming (CRSR) Could Be 20% Overvalued After Its AMD AI Conference Showcase",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T01:06:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -744,6 +763,18 @@ window.theBriefLive = {
       "timestamp": "2026-07-31T21:57:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Why some investors are wrong about GPU depreciation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d47540414b82fbc5d7798de19136556ccb7f4ab44aa7bebba58cfd81524bfe27",
+      "is_watchlist": true,
+      "timestamp": "2026-07-31T21:15:50+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -799,18 +830,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=9db42f5ebb0904451548b5344d931a3241771e0a92b07fd8405e6b6a6794b7aa",
       "is_watchlist": true,
       "timestamp": "2026-07-31T19:11:53+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave completes $2.6B term loan after raising the spread and yield",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c6aaac239f29f942a2113411122e72894099ed54f1ebfb92b301b98bf5b65d2",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T19:00:52+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1141,18 +1160,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Vernova vs. NuScale Power: Which Industrials Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96b52c313f954836785a791debfd7eaae7024e4de4e85473dcb5cfb816e1408c",
-      "is_watchlist": true,
-      "timestamp": "2026-07-30T20:11:17+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Are you choosing to stay single? We want to hear from you",
       "source": "NPR Business",
@@ -1344,17 +1351,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "10 best free checking accounts for August 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-free-checking-accounts-195709452.html",
-      "is_watchlist": false,
-      "timestamp": "2024-04-11T19:57:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     }
   ]
 };

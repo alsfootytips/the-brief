@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T15:45:21.849813+00:00",
+  "generated_at": "2026-08-01T16:40:42.332185+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does\""
+      "move_reason": "News: \"Better eVTOL Stock: Joby Aviation vs. Archer Aviation\""
     },
     {
       "ticker": "XLC",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)\""
+      "move_reason": "News: \"SpaceX's First Earnings Post IPO\""
     },
     {
       "ticker": "XLB",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)\""
+      "move_reason": "News: \"SpaceX's First Earnings Post IPO\""
     },
     {
       "ticker": "APA",
@@ -410,7 +410,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Scott Strazik's GE Vernova Has a $176 Billion Backlog. So Why Did Wall Street Sell the Sto...\""
+      "move_reason": "News: \"$5,000 in GE Vernova at Its 2024 Low Would Be Worth This Much Now\""
     },
     {
       "ticker": "IWM",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does\""
+      "move_reason": "News: \"Better eVTOL Stock: Joby Aviation vs. Archer Aviation\""
     },
     {
       "ticker": "OSCR",
