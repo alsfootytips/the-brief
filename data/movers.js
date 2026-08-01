@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T08:54:56.677652+00:00",
+  "generated_at": "2026-08-01T10:40:09.396771+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock B...\""
+      "move_reason": "News: \"Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?\""
     },
     {
       "ticker": "XLC",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock B...\""
+      "move_reason": "News: \"Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?\""
     },
     {
       "ticker": "OSCR",
