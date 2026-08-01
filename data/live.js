@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T21:00:15.065732+00:00",
+  "generated_at": "2026-08-01T22:03:49.057301+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T21:00:15.063021+00:00",
+      "timestamp": "2026-08-01T22:03:49.055020+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,76 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T21:00:15.063013+00:00",
+      "timestamp": "2026-08-01T22:03:49.055014+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T22:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:36:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3 High-Yield Energy Stocks to Buy With $1,000 Right Now and Hold Through 2030",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/3-high-yield-energy-stocks-213500144.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/xlv-vs-ibbq-broad-healthcare-213101526.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:31:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:15:00+00:00",
+      "relevance_score": -2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T21:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -65,28 +131,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley's Amazon earnings verdict has a blind spot",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-amazon-earnings-verdict-204610573.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T20:46:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prediction: Eli Lilly Will Be Worth $2 Trillion by 2031",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/prediction-eli-lilly-worth-2-203700691.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T20:37:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -166,17 +210,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Restaurant explosion in central Moscow kills three, injures 15, police say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T19:54:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -353,33 +386,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "headline": "Visa Stock Looks Attractive After Layoffs, Strong Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-looks-attractive-layoffs-153510757.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-01T17:09:00+00:00",
+      "timestamp": "2026-08-01T15:35:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+      "headline": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-01T16:41:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:30:00+00:00",
+      "timestamp": "2026-08-01T15:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -397,11 +419,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The Bank of England Is Moving Away From Coal",
+      "headline": "Hoping for Lower Prices at the Gas Pump? After Exxon Doubles Profits, CEO Darren Woods Says \u2018I Wouldn\u2019t Hold My Breath.\u2019",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bank-england-moving-away-coal-150000057.html",
+      "url": "https://finance.yahoo.com/energy/articles/hoping-lower-prices-gas-pump-151502283.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-01T15:00:00+00:00",
+      "timestamp": "2026-08-01T15:15:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Investors Shouldn\u2019t Sweat the Dip in Qualcomm\u2019s Handset Revenue, According to Experts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-shouldn-t-sweat-150002057.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why This High-Yield Stock Fund Should Replace Covered Call ETFs\u2026 At Least for a While",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-high-yield-stock-fund-150002183.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -453,17 +497,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "1 in 5 new car buyers are stuck in a $1,000-a-month nightmare \u2014 and it\u2019s ruining their long-term wealth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-5-car-buyers-stuck-142500536.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:25:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
       "source": "Benzinga",
@@ -488,17 +521,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A $2 Billion Reason to Buy Arm Holdings Stock Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-billion-reason-buy-arm-140002670.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Looking at just the odds isn\u2019t enough. How traders gain an edge on prediction markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
@@ -516,17 +538,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-01T13:44:04+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why BlackRock Is Betting Big on Ondas Stock Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-blackrock-betting-big-ondas-133002844.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T13:30:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -632,17 +643,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Saturday, August 1, 2026: Best CD account earns 4.10% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-1-2026-best-cd-account-earns-410-apy-100000014.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
