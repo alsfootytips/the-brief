@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T16:40:42.332185+00:00",
+  "generated_at": "2026-08-01T17:43:24.482385+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy vs. NextEra Energy: Is a Fuel Cell Upstart or Renewable Energy Titan the Bett...\""
+      "move_reason": "News: \"Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX\""
     },
     {
       "ticker": "OSCR",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy vs. NextEra Energy: Is a Fuel Cell Upstart or Renewable Energy Titan the Bett...\""
+      "move_reason": "News: \"Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX\""
     },
     {
       "ticker": "NVDA",

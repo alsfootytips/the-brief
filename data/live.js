@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T16:40:42.342312+00:00",
+  "generated_at": "2026-08-01T17:43:24.492163+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T16:40:42.339453+00:00",
+      "timestamp": "2026-08-01T17:43:24.489306+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,165 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T16:40:42.339442+00:00",
+      "timestamp": "2026-08-01T17:43:24.489297+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:32:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Scorecard: 27 of 29 Industrial companies top EPS expectations",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622915-earnings-scorecard-27-of-29-industrial-companies-top-eps-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:30:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "10 out of 13 S&P 500 materials stocks beat EPS estimates this week: Earnings Scorecard",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623112-10-out-of-13-sp-500-materials-stocks-beat-eps-estimates-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:25:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thousands-expected-in-amsterdam-for-boisterous-worldpride-in-shadow-of-berlin-attack-4829566",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:24:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Spain installs floating barrier in Ceuta after deadly migrant rush",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/spain-installs-floating-barrier-in-ceuta-after-calm-night-following-border-rush-4829586",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:24:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:19:32+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clayton set to take over as top US spy on Monday, Pulte says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/clayton-set-to-take-over-as-top-us-spy-on-monday-pulte-says-4829640",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:18:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Treasury said to have made a historic move to stabilize yen market",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623111-us-treasury-makes-historic-move-pop-yen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:09:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:09:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Energy sector rallies in July as geopolitical risks drive oil higher",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622992-energy-sector-rallies-as-geopolitical-risks-drive-oil-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings scorecard: eight out of nine healthcare companies deliver EPS wins this week",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622809-earnings-scorecard-eight-out-of-nine-healthcare-companies-deliver-eps-wins-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T17:00:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Scorecard: 85% of financial companies beat EPS estimates this week: Who missed?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622881-earnings-scorecard-85-of-financial-companies-beat-eps-estimates-this-week-who-missed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:45:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T16:41:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -76,17 +231,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BYD's July sales jump for third straight month",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623110-byds-july-sales-jump-third-straight-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:25:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
@@ -103,17 +247,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-01T16:06:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Real estate stocks begin H2 on a positive note, outperform broader markets in July",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622960-real-estate-stocks-begin-h2-on-a-positive-note-outperform-broader-markets-in-july?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T16:00:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -178,56 +311,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:45:00+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
       "is_watchlist": false,
       "timestamp": "2026-08-01T15:42:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Buy $5B-$10B worth of Japanese yen, Bessent's 'to do' list shows: Reuters",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623109-buy-5b-10b-japanese-yen-bessents-do-list?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:40:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:38:21+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/thousands-expected-in-amsterdam-for-boisterous-worldpride-in-shadow-of-berlin-attack-4829566",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:36:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -245,66 +333,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:29:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "GE Aerospace, AI Play Lead Five Stocks Near Buy Points",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/news/ge-aerospace-ai-play-netapp-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
       "timestamp": "2026-08-01T15:22:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "McDonald's: Earnings headwinds, innovation tailwinds, and a REIT wildcard?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623108-mcdonalds-earnings-headwinds-innovation-tailwinds-and-a-reit-wildcard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:12:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:12:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "July healthcare recap: Regeneron, DexCom shine as Moderna, managed-care stocks retreat",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622570-july-healthcare-recap-regeneron-dexcom-shine-as-moderna-managed-care-stocks-retreat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:05:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insider trades: Adobe, Visa, PepsiCo among notable names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623106-insider-trades-adobe-visa-pepsico-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:03:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -378,49 +411,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US bars imports from 43 more companies over China\u2019s alleged forced labor involving Uyghurs",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-bars-imports-from-43-more-companies-over-chinas-alleged-forced-labor-involving-uyghurs-4829635",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:24:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
       "is_watchlist": false,
       "timestamp": "2026-08-01T14:10:03+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump threatens to keep Blanche as acting attorney general, revive \u2019anti-weaponization\u2019 fund",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-threatens-to-keep-blanche-as-acting-attorney-general-revive-antiweaponization-fund-4829634",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T14:06:26+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T14:04:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -645,6 +641,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T08:18:08+00:00",
       "relevance_score": 3.5,
       "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b593a1a8b608a1e35c900bdb49b3e36d6bf3ab0704ceba01b073e6871a159a43",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T08:00:35+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
@@ -1013,18 +1021,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=18e7808950302532729fcbb9a201ead9cee9d8fadc2c36c19964947aeaf9dce4",
       "is_watchlist": true,
       "timestamp": "2026-07-31T13:00:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Why Nebius Stock Popped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5be27bd0543ee1302ec5bd7237f912e4056721cf4525764ace9b7c7749859c89",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T12:50:20+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
