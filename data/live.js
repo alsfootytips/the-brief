@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T03:50:38.861398+00:00",
+  "generated_at": "2026-08-01T06:29:53.547866+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T03:50:38.859134+00:00",
+      "timestamp": "2026-08-01T06:29:53.545057+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T03:50:38.859127+00:00",
+      "timestamp": "2026-08-01T06:29:53.545047+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,12 +54,137 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 Knight-Swift Transportation For: 31 July",
+      "headline": "Houthis deny Red Sea fee plan as Trump prepares new Iran strikes",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-knightswift-transportation-for-31-july-93CH-4829527",
+      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
       "is_watchlist": false,
-      "timestamp": "2026-08-01T03:34:39+00:00",
+      "timestamp": "2026-08-01T06:13:30+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK PM Burnham uses policy blitz to buy time for tougher decisions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-uses-policy-blitz-to-buy-time-for-tougher-decisions-4829567",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T06:07:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thousands expected in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thousands-expected-in-amsterdam-for-boisterous-worldpride-in-shadow-of-berlin-attack-4829566",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T06:06:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IRB Infrastructure Q1 FY27 slides: profit surges 51% on InvIT growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/irb-infrastructure-q1-fy27-slides-profit-surges-51-on-invit-growth-93CH-4829565",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T05:52:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Oceaneering International Inc For: 1 August",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-oceaneering-international-inc-for-1-august-93CH-4829564",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T05:49:16+00:00",
       "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Oceaneering International Inc For: 1 August",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-oceaneering-international-inc-for-1-august-93CH-4829563",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T05:48:58+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oceaneering International director sells $143,775 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/oceaneering-international-director-sells-143775-in-stock-93CH-4829562",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T05:46:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oceaneering International SVP Earl Childress sells $593k in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/oceaneering-international-svp-earl-childress-sells-593k-in-stock-93CH-4829561",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T05:45:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profit Lever a Signal to Buy the Elon Musk-Led Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=877aa37dbb0be6b0d0c441170d7027fc392bd8f181f2da9fd956fc54b83826c3",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T05:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If a Recession Is Coming, Here's How I'm Preparing My Portfolio",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d127c061558f2fc7305bff625b7de2404f9569327b2edea7a31f5d0942ef57f8",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T05:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If You'd Invested $10,000 in Microsoft the Day Satya Nadella Became CEO, Here's What You'd Have Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8154f1d59ebba1ff31bb2950efa2357fa9b88eb64252b7380e4c8193297179ac",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T04:58:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Patria targets $225M-$245M 2026 FRE while expecting 2026 FRE margin modestly below 58%-60%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623047-patria-targets-225m-245m-2026-fre-while-expecting-2026-fre-margin-modestly-below-58?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T04:24:50+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -75,80 +200,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Knight-Swift director Reid Dove sells $3.5 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/knightswift-director-reid-dove-sells-35-million-in-stock-93CH-4829526",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T03:31:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Block Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-block-inc-for-31-july-93CH-4829525",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T03:30:18+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form S-3ASR Paramount Skydance Corp For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-s3asr-paramount-skydance-corp-for-31-july-93CH-4829524",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T03:30:10+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Supernus Pharmaceuticals Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-supernus-pharmaceuticals-inc-for-31-july-93CH-4829523",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T03:30:08+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 OneMain Holdings Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-onemain-holdings-inc-for-31-july-93CH-4829521",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T03:19:10+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US to make visa bond program permanent for people from dozens of countries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/us-to-make-visa-bond-program-permanent-for-people-from-dozens-of-countries-4829520",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T03:18:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Onemain Holdings SVP Michael Hedlund sells $160,000 in OMF stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/onemain-holdings-svp-michael-hedlund-sells-160000-in-omf-stock-93CH-4829519",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T03:16:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "TSMC is quietly borrowing a page from Intel's playbook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a27f5cb6c7d1181a6cce48ab315a3f4e4898a966f35fbdc94ccc4ef255b106d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T02:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -163,12 +223,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Roblox Guided Bookings Down as Much as 18% and Withdrew Its Full-Year Outlook. The Algorithm Change Behind It Was Deliberate.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69180d42a6f2050b61766e07ab6c6c3d8ebeb13ccb38432036ad57d93fd4203c",
+      "ticker": "IWM",
+      "headline": "A Swing And A Miss",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a75210d9a6e05454ee6621d1811a13638645333eeba059179f90b363cdbb5f19",
       "is_watchlist": true,
-      "timestamp": "2026-08-01T01:42:00+00:00",
+      "timestamp": "2026-08-01T01:40:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -181,18 +241,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=069d20dff6dad1bfc5fd006b7fddbef15c59908c91850a9dc2f738b6b2e88f9d",
       "is_watchlist": true,
       "timestamp": "2026-08-01T01:06:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Alibaba (NYSE:BABA) Is Supplying Moonshot With A Major Nvidia AI Cluster",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14d54fa57fa728689f9cd4f67db68d5805f18c4a234517dbb4e9b65cc63a6a13",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T01:06:13+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -219,18 +267,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T00:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Here Are 3 Things Every Successful Passive Income Investor Has in Common -- and They're Simpler Than You Might Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af7a64a1dfd631c406525dcba610b993006c5788d7a2007205abda3c460fab26",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T00:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -341,17 +377,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4623041-clorox-raises-quarterly-dividend-by-08-to-125share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-07-31T22:59:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Universal Logistics declares $0.105 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623040-universal-logistics-declares-0_105-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:58:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -487,18 +512,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=f25ed70e12a7a5ee512a8dbffd12d418968d6b24094a1cb1baa81bf4ab43672b",
       "is_watchlist": true,
       "timestamp": "2026-07-31T21:01:05+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a94eb2201e3abbd3656b840f134ff2b4adcbb19f38c716c72b5b9b7f5d47385",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T20:53:08+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -783,18 +796,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Why Markets May Be Second-Guessing The U.S. Fed",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=502d34b8c1b6bf225c936448372aed72d9e224bb08d752ec63abd6203df4e56f",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T14:27:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Occidental Petroleum Stock Outlook: Is Wall Street Bullish or Bearish?",
       "source": "Yahoo",
@@ -983,6 +984,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Jersey Mike's shares slip in debut after $1 billion IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jersey-mikes-shares-slip-debut-233124610.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T23:31:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ripple (XRP) Price Prediction: Analyst Predicts XRP Will Reach $1,000",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-xrp-price-prediction-analyst-233024662.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T23:30:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s Why Verizon Stock Is a Buy for Income Investors in August",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-verizon-stock-buy-income-233002143.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T23:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "'I pay \u00a3580 a month to live in a disused care home': Property guardians show us around",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
@@ -994,77 +1028,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "How China Became the Ultimate Swing Oil Buyer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/china-became-ultimate-swing-oil-230000808.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T23:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Huntington Ingalls Industries, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-inc-q2-223533628.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T22:35:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Group 1 Automotive, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/group-1-automotive-inc-q2-223528374.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T22:35:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "India wants to join the strawberry superpowers",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-07-30T22:04:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CNX Resources Corporation Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cnx-resources-corporation-q2-2026-215143119.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T21:51:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avery Dennison Corporation Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/avery-dennison-corporation-q2-2026-215106999.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T21:51:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jones Lang LaSalle Incorporated Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/jones-lang-lasalle-incorporated-q2-215028821.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T21:50:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cullen/Frost Bankers, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cullen-frost-bankers-inc-q2-214511609.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T21:45:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EMCOR Group, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-inc-q2-2026-214031583.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T21:40:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brunswick Corporation Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/brunswick-corporation-q2-2026-earnings-213611407.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T21:36:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1125,18 +1126,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-30T17:38:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed interest-rate decision rocks Wall Street's inflation fears",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T16:33:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1343,6 +1332,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The 20 best Chase Sapphire Preferred Card benefits",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/20-best-chase-sapphire-preferred-card-benefits-172954435.html",
+      "is_watchlist": false,
+      "timestamp": "2025-04-08T17:29:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };
