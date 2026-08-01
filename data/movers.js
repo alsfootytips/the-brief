@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T18:42:50.684399+00:00",
+  "generated_at": "2026-08-01T19:57:50.629441+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX's First Earnings Post IPO\""
+      "move_reason": "News: \"Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb\""
     },
     {
       "ticker": "XLB",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX's First Earnings Post IPO\""
+      "move_reason": "News: \"Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb\""
     },
     {
       "ticker": "APA",

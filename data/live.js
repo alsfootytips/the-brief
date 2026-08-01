@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-01T18:42:50.694065+00:00",
+  "generated_at": "2026-08-01T19:57:50.639428+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T18:42:50.691298+00:00",
+      "timestamp": "2026-08-01T19:57:50.636486+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,154 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-01T18:42:50.691289+00:00",
+      "timestamp": "2026-08-01T19:57:50.636476+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Restaurant explosion in central Moscow kills three, injures 15, police say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:54:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thirteen die in tourist plane crash over Peru\u2019s Nazca Lines, TVPeru says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/thirteen-die-in-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-4829649",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:54:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI spending boom faces two key policy risks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/ai-spending-boom-faces-two-key-policy-risks-4829648",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:44:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vertiv CEO makes critical comment as stock crashes",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-ceo-makes-critical-stock-193736314.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:37:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why EPAM Systems Stock Rocketed Higher This Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-epam-systems-stock-rocketed-192926598.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:29:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says-4829645",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:12:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:08:49+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Utilities sector slips in July; Constellation Energy leads gainers, Alliant Energy leads decliners",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623011-utilities-sector-slips-in-july-constellation-energy-leads-gainers-alliant-energy-leads-decliners?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:05:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin breaks below $63,139 SMA: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:02:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Data center power boom in focus as 12 of 16 utility stocks beat EPS estimates this week: Earnings Scorecard",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623050-12-out-of-16-utility-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T19:00:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "WestJet begins flight cancellations ahead of strike",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/westjet-begins-flight-cancellations-ahead-of-strike-4829644",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:54:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: What's next for Boeing after its Q2 revenue beat?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623115-sa-asks-whats-next-for-boeing-after-its-q2-revenue-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:51:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NIO, Xpeng, and Li Auto record July vehicle deliveries",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623116-nio-xpeng-li-auto-record-july-vehicle-deliveries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T18:38:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -149,17 +293,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trending stocks this week as Big Tech earnings, Fed decision sway markets",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623113-trending-stocks-this-week-as-big-tech-earnings-fed-decision-sway-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:45:34+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/world-news/soccerfifa-faces-fresh-transparency-calls-after-retreat-on-world-cup-selloff-plan-4829573",
@@ -171,44 +304,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Clayton will take over as US intelligence chief on Monday, Pulte says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/clayton-set-to-take-over-as-top-us-spy-on-monday-pulte-says-4829640",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:42:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump disputes his own Justice Department\u2019s findings on Reflecting Pool",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/trump-disputes-his-own-justice-departments-findings-on-reflecting-pool-4829641",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:36:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-01T17:32:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings Scorecard: 27 of 29 Industrial companies top EPS expectations",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622915-earnings-scorecard-27-of-29-industrial-companies-top-eps-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:30:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -227,67 +327,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "10 out of 13 S&P 500 materials stocks beat EPS estimates this week: Earnings Scorecard",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623112-10-out-of-13-sp-500-materials-stocks-beat-eps-estimates-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:25:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/thousands-expected-in-amsterdam-for-boisterous-worldpride-in-shadow-of-berlin-attack-4829566",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:24:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Spain installs floating barrier in Ceuta after deadly migrant rush",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/spain-installs-floating-barrier-in-ceuta-after-calm-night-following-border-rush-4829586",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:24:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-approves-new-iran-strikes-that-could-begin-this-weekend--wsj-4829375",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:19:32+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-01T17:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Treasury said to have made a historic move to stabilize yen market",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623111-us-treasury-makes-historic-move-pop-yen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:09:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -321,28 +365,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-01T16:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-two-in-gaza-destroy-medicine-storage-warehouses-4829615",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:54:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T15:36:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -404,6 +426,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T14:25:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "1 in 5 new car buyers are stuck in a $1,000-a-month nightmare \u2014 and it\u2019s ruining their long-term wealth",
       "source": "Yahoo Finance",
@@ -412,6 +446,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-01T14:25:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-01T14:15:18+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -449,6 +495,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Why BlackRock Is Betting Big on Ondas Stock Now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-blackrock-betting-big-ondas-133002844.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T13:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Buying a condo with a mortgage may soon get more complicated. Here's why",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
@@ -465,17 +522,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/currencies/articles/2-irs-rules-allow-continue-133000736.html",
       "is_watchlist": false,
       "timestamp": "2026-08-01T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T13:17:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -638,31 +684,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2a4c8278a66bbc9cefdc3f4ce4edf030e3fd2bfaa84c001735ad32a8ca17fb2c",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T08:18:08+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
-      "headline": "Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b593a1a8b608a1e35c900bdb49b3e36d6bf3ab0704ceba01b073e6871a159a43",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T08:00:35+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=b593a1a8b608a1e35c900bdb49b3e36d6bf3ab0704ceba01b073e6871a159a43",
@@ -706,18 +728,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "J.P. Morgan drops Fed rate bombshell over Warsh, inflation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-drops-fed-060300978.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T06:03:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -810,17 +820,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-31T20:28:38+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T19:45:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
