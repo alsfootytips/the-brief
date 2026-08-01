@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-07-31T23:00:40.820872+00:00",
+  "generated_at": "2026-08-01T00:08:49.745401+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -29,24 +29,12 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "change_pct": 3.11,
-      "price": 57.69,
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T23:00:40.818118+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -3.46,
-      "price": 71.34,
+      "change_pct": -3.55,
+      "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-07-31T23:00:40.818107+00:00",
+      "timestamp": "2026-08-01T00:08:49.742692+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,13 +43,167 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": 3.63,
-      "price": 37.65,
+      "change_pct": 4.29,
+      "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-07-31T23:00:40.818099+00:00",
+      "timestamp": "2026-08-01T00:08:49.742683+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FIFA scraps World Cup sell off plans, Infantino says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/fifa-scraps-world-cup-sell-off-plans-infantino-says-4829433",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:54:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Joint Stock Co Kaspi.kz For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-joint-stock-co-kaspikz-for-31-july-93CH-4829432",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:45:06+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Business First Bancshares Inc For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-business-first-bancshares-inc-for-31-july-93CH-4829431",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:39:18+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Business First Bancshares Inc For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-business-first-bancshares-inc-for-31-july-93CH-4829430",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:39:18+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Business first bancshares EVP&COO sells $134,736 of company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/business-first-bancshares-evpcoo-sells-134736-of-company-stock-93CH-4829429",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:36:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Business first bancshares director Cummings sells $635,800 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/business-first-bancshares-director-cummings-sells-635800-in-stock-93CH-4829428",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:36:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Neptune Insurance Holdings Inc For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-neptune-insurance-holdings-inc-for-31-july-93CH-4829427",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:35:15+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Form 4 Cathay General Bancorp For: 31 July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/filings/form-4-cathay-general-bancorp-for-31-july-93CH-4829426",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:35:13+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cubesmart signals 2026 same-store revenue growth of 0.5% to 1.25% as it outlines Heitman JV and buybacks",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623046-cubesmart-signals-2026-same-store-revenue-growth-of-0_5-percent-to-1_25-percent-as-it?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:24:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:19:16+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chevron targets 2%-3% annual production growth as Project Kilby moves toward FID later this year",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623045-chevron-targets-2-percentminus-3-percent-annual-production-growth-as-project-kilby-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:14:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oak Ridge Financial Services declares $0.16 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623044-oak-ridge-financial-services-declares-0_16-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:02:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TWC Enterprises declares CAD 0.10 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623043-twc-enterprises-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T23:02:20+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Leidos declares $0.43 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623042-leidos-declares-0_43-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-07-31T22:59:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -88,120 +230,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Form 4 DLH Holdings Corp For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829391",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:53:20+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 DLH Holdings Corp For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829390",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:53:09+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DLH Holdings director Mink Brook Asset Management buys $2,396 stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-2396-stock-93CH-4829389",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:50:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DLH Holdings: Mink Brook Asset Management, 10% owner, buys $77,534 stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dlh-holdings-mink-brook-asset-management-10-owner-buys-77534-stock-93CH-4829388",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:49:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 DLH Holdings Corp For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829387",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:49:36+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 DLH Holdings Corp For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-dlh-holdings-corp-for-31-july-93CH-4829386",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:49:34+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Beyond Air Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-beyond-air-inc-for-31-july-93CH-4829385",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:49:14+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Form 4 Enphase Energy Inc For: 31 July",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/filings/form-4-enphase-energy-inc-for-31-july-93CH-4829384",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:48:44+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:46:46+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S., Israel said to be planning heaviest bombing so far on Iran energy infrastructure targets",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623037-us-israel-said-to-be-planning-heaviest-bombing-so-far-on-iran-energy-infrastructure-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T22:46:15+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The CFTC orders ex-GOP Rep. George Santos to pay $35,000 over trades on Kalshi",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/31/the-cftc-orders-ex-gop-rep-george-santos-to-pay-35000-over-trades-on-kalshi.html",
@@ -218,17 +246,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-31T22:21:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cavco signals 7- to 9-week backlog range as Q1 revenue tops $600M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623038-cavco-signals-7-to-9-week-backlog-range-as-q1-revenue-tops-600m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T22:14:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -258,17 +275,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ferguson Enterprises set to join S&P 500, ADI Global Distribution to join S&P SmallCap 600",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623035-ferguson-enterprises-set-to-join-sp-500-adi-global-distribution-to-join-sp-smallcap-600?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T21:58:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Snapchat joins other popular platforms in fight against 'AI slop'",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
@@ -280,33 +286,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "MSA Safety forecasts low double-digit 2026 revenue growth while guiding adjusted gross margin to 47.5%-48.5%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623036-msa-safety-forecasts-low-double-digit-2026-revenue-growth-while-guiding-adjusted-gross-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T21:55:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The S&P 500 is making a change by adding this little-known industrial stock",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-07-31T21:53:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Core AI Holdings receives Nasdaq minimum bid price notice",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623034-core-ai-holdings-receives-nasdaq-minimum-bid-price-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-07-31T21:48:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1069,6 +1053,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uks-ig-group-agrees-buy-164102084.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T16:41:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A meat snacks baron and his son turned a failing Wisconsin business into a $1.6 billion-a-year empire. Here's how",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/meat-snacks-baron-son-turned-163500199.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T16:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AMD Fell 8% as China Unveils New Technology \u2014 the Real Risk Is the Multiple, Not the Lithography",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-fell-8-china-unveils-163317303.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T16:33:17+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Fed interest-rate decision rocks Wall Street's inflation fears",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
@@ -1077,6 +1094,39 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Saia\u2019s Q3 margin guidance disappoints investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/saia-q3-margin-guidance-disappoints-163232017.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T16:32:32+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Intel Just Posted Its Best Revenue Growth in 15 Years. Here\u2019s What It Means for INTC Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-just-posted-best-revenue-163116612.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T16:31:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia (NVDA) Could Backstop $250 Billion for OpenAI. Where Does That Leave Microsoft (MSFT)?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-could-backstop-250-163019894.html",
+      "is_watchlist": false,
+      "timestamp": "2026-07-30T16:30:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1089,72 +1139,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crude Oil Prices Slip on Ongoing US-Iran Negotiations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-slip-ongoing-154412651.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T15:44:12+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron vs SanDisk: Which Chipmaker Stands Out After the Pullback",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-chipmaker-stands-154114021.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T15:41:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Employees Reveal That Blue Origin Stock Is Worthless Just Weeks After SpaceX IPO Turned Employees Into Millionaires",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/employees-reveal-blue-origin-stock-153744758.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T15:37:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cheap life insurance: How to get coverage",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/cheap-life-insurance-153738210.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T15:37:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shell Turns Volatility Into a Cash Machine",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/shell-turns-volatility-cash-machine-153721224.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T15:37:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hog Prices Are Falling. How to Trade Them Now.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/hog-prices-falling-trade-them-152851869.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T15:28:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
