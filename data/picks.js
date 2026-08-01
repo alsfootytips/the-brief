@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-01T14:45:16.832761+00:00",
+  "generated_at": "2026-08-01T15:45:21.927687+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -746,9 +746,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 36.23,
-      "current_pct": 9.19,
-      "change_pct_today": -1.28,
+      "current_price": 37.89,
+      "current_pct": 14.2,
+      "change_pct_today": 4.29,
       "name": "APA Corp",
       "news_count": 3,
       "days_elapsed": 35,
