@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T20:55:49.047581+00:00",
+  "generated_at": "2026-08-02T21:56:58.738446+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T20:55:49.044658+00:00",
+      "timestamp": "2026-08-02T21:56:58.735622+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T20:55:49.044649+00:00",
+      "timestamp": "2026-08-02T21:56:58.735614+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,22 +54,176 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "GlobalFoundries Stock Has Slid Below $50. What an Insider Filing Does and Doesn't Tell You",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-stock-slid-below-50-203152763.html",
+      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T20:31:52+00:00",
+      "timestamp": "2026-08-02T21:48:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Snap Q2 preview\u2014revenue likely higher as ad recovery remains in focus",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622957-snap-q2-preview---revenue-likely-higher-as-ad-recovery-remains-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:35:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Google pulls AI feature after users create fake satellite images",
+      "headline": "Advanced Energy Q2 2026 Earnings Preview",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623153-google-pulls-ai-feature-after-users-create-fake-satellite-images?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4622827-advanced-energy-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T20:12:54+00:00",
+      "timestamp": "2026-08-02T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New Jersey Resources Q3 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622830-new-jersey-resources-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ameresco Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622833-ameresco-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cabot Q3 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622836-cabot-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "V2X Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622838-v2x-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ethos Technologies Inc. Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622840-ethos-technologies-inc-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan to vow coordination with US on weak yen in historic battle",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-to-vow-coordination-with-us-on-weak-yen-in-historic-battle-4829714",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:30:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan to vow coordination with US on weak yen in historic battle",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/japan-vow-coordination-us-weak-210127634.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:28:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks higher at close of trade; MOEX Russia Index up 0.75%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-075-4829716",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:20:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukrainian drone kills one child, injures two in playground in Russia\u2019s Belgorod region",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/ukrainian-drone-kills-one-child-injures-two-in-playground-in-russias-belgorod-region-4829715",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:18:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/death-toll-from-migrant-rush-into-ceuta-rises-to-72-4829701",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:18:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin holds above $63,000 as Coldcard losses near $89 million",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-coldcard-losses-near-89-million-4829683",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:07:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cboe completes sale of Australian exchange to TMX Group",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cboe-completes-sale-of-australian-exchange-to-tmx-group-93CH-4829713",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:04:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Idaho mass shooter died from self-inflicted gunshot, police say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/world-news/idaho-mass-shooter-died-from-selfinflicted-gunshot-police-say-4829711",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T21:00:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -86,50 +240,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Japan to announce Tokyo, Washington took joint action on yen, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/exclusivejapan-to-announce-tokyo-washington-took-joint-action-on-yen-sources-say-4829661",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T20:00:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prysmian is said to near $2.5 billion deal for Atkore",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623152-prysmian-is-said-to-near-2_5-billion-deal-for-atkore?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:58:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "These 4 topics are central to the success of SpaceX valuation: Bernstein",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/these-4-topics-are-central-to-the-success-of-spacex-valuation-bernstein-4829709",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:56:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/astrazeneca-holds-talks-with-bristol-myers-squibb-on-400-billion-megadeal-ft-reports-4829708",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:54:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Is Green Thumb the Safest Cannabis Stock to Own Right Now?",
       "source": "Yahoo",
@@ -139,17 +249,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US lawmaker Kaptur injured in car crash, her office says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-lawmaker-kaptur-injured-in-car-crash-her-office-says-4829707",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:36:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -166,45 +265,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AstraZeneca, Bristol Myers held merger talks, Financial Times reports",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623151-astrazeneca-bristol-myers-held-merger-talks-financial-times-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:23:49+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T19:13:47+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WestJet flight attendants go on strike after talks fall through, grounding flights",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:06:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Financial sector tops the S&P 500 in July, led by PayPal's 30% rally",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622714-financial-sector-tops-the-sp-500-in-july-led-by-paypals-30-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:05:30+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -220,28 +286,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin trapped $62,280-$65,000 in tight range: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:01:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: How big of a threat is China's CXMT to memory chipmakers?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623119-sa-asks-how-big-of-a-threat-is-chinas-cxmt-to-memory-chipmakers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:00:12+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -255,55 +299,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran denies agreement to reopen Strait of Hormuz, says policy unchanged \u2013 Report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T18:29:50+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top global market stories from this week as earnings drive sentiment",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623148-top-global-market-dtories-from-this-week-as-earnings-drive-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T18:27:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This country\u2019s stock market may do better than most if AI bubble pops: Analyst",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/this-countrys-stock-market-may-do-better-than-most-if-ai-bubble-pops-analyst-4829705",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T18:13:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Markets face choppier ride as Fed uncertainty, AI credit risks lift volatility",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623147-markets-face-choppier-ride-as-fed-uncertainty-ai-credit-risks-lift-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T18:03:59+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -363,6 +358,17 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood sells $5.5 million of surging tech stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T16:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -461,28 +467,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-02T14:30:01+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to Play Jersey Mike\u2019s Subs Stock After the JMKE IPO",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/play-jersey-mike-subs-stock-141448797.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:14:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear Teva Pharmaceutical Stock Fans, Mark Your Calendars for September 14",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/dear-teva-pharmaceutical-stock-fans-141402893.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:14:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -654,6 +638,17 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Sunday, August 2, 2026: Rates a bit lower than last week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-2-2026-rates-a-bit-lower-than-last-week-100000673.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
