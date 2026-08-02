@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T19:46:10.883643+00:00",
+  "generated_at": "2026-08-02T20:55:49.047581+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T19:46:10.880876+00:00",
+      "timestamp": "2026-08-02T20:55:49.044658+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,122 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T19:46:10.880868+00:00",
+      "timestamp": "2026-08-02T20:55:49.044649+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GlobalFoundries Stock Has Slid Below $50. What an Insider Filing Does and Doesn't Tell You",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-stock-slid-below-50-203152763.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T20:31:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Google pulls AI feature after users create fake satellite images",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623153-google-pulls-ai-feature-after-users-create-fake-satellite-images?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T20:12:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T20:12:41+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan to announce Tokyo, Washington took joint action on yen, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/exclusivejapan-to-announce-tokyo-washington-took-joint-action-on-yen-sources-say-4829661",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T20:00:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prysmian is said to near $2.5 billion deal for Atkore",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623152-prysmian-is-said-to-near-2_5-billion-deal-for-atkore?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:58:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These 4 topics are central to the success of SpaceX valuation: Bernstein",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/these-4-topics-are-central-to-the-success-of-spacex-valuation-bernstein-4829709",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:56:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/astrazeneca-holds-talks-with-bristol-myers-squibb-on-400-billion-megadeal-ft-reports-4829708",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:54:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Green Thumb the Safest Cannabis Stock to Own Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be6ca3338245e244abcd10240090ce3090ef1fc52dc3abc382636718cdcccde8",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T19:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US lawmaker Kaptur injured in car crash, her office says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-lawmaker-kaptur-injured-in-car-crash-her-office-says-4829707",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:36:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Arm Holdings Stock a Buy on the Bullish CPU Outlook?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=adf787ae50ece003a442a2b0f3d3f0fde7602dd32a541649ea88ad0d1148b3d1",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T19:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -76,17 +188,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-won-t-191300518.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T19:13:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "WestJet flight attendants go on strike after talks fall through, grounding flights",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
@@ -105,6 +206,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T19:05:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Dividend Stocks That Are No-Brainer Buys for the Second Half of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff17a12937b465c62b9ffdbfeafbfe8bcbb3519c118fb10cc656d891a14897d5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T19:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -183,17 +296,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T18:06:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Markets face choppier ride as Fed uncertainty, AI credit risks lift volatility",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4623147-markets-face-choppier-ride-as-fed-uncertainty-ai-credit-risks-lift-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -205,74 +307,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US Senator Moreno says Ohio\u2019s Miller should not serve in Congress, citing abuse allegations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-senator-moreno-says-ohios-miller-should-not-serve-in-congress-citing-abuse-allegations-4829704",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T18:00:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says US will hold off on fresh Iran attack in hope of quick deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T17:54:21+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T17:48:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip",
+      "ticker": "AMD",
+      "headline": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cea82195479b39b3cb085da4353092b0b8dfeaaca45cf6e2f2550daec11520a",
+      "url": "https://finnhub.io/api/news?id=3f8727d0954fad695567eb16f68ec5e7fe7d41f5b4a4c5ebe2490ea343301f49",
       "is_watchlist": true,
-      "timestamp": "2026-08-02T17:45:00+00:00",
+      "timestamp": "2026-08-02T18:00:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "What if I Have $2 Million Saved for Retirement? Is It Really Enough to Stop Working?",
+      "ticker": "AMD",
+      "headline": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d68a0ab2331d87ee665d90d00e9c1e607f05b7dad80e0c9381a057fe5f69e889",
+      "url": "https://finnhub.io/api/news?id=1c0c718a2ab587d9a773d1c7696c1638665284879bebd02900267ed236b83d31",
       "is_watchlist": true,
-      "timestamp": "2026-08-02T17:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3299fe009e8a2fc471efdc5c645e126f4308c7bbd13e16b6753d8e97e2925b27",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T17:24:00+00:00",
+      "timestamp": "2026-08-02T18:00:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -292,33 +344,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tesla drags consumer discretionary sector in July; Ross Stores leads",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623048-tesla-drags-consumer-discretionary-sector-in-july-ross-stores-leads?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T17:05:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "We\u2019re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-02T17:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Spider-Man: Brand New Day' spins record $927M global opening",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623146-spider-man-brand-new-day-spins-record-927m-global-opening?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:57:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -436,6 +466,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "How to Play Jersey Mike\u2019s Subs Stock After the JMKE IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/play-jersey-mike-subs-stock-141448797.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T14:14:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dear Teva Pharmaceutical Stock Fans, Mark Your Calendars for September 14",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/dear-teva-pharmaceutical-stock-fans-141402893.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T14:14:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
@@ -450,28 +502,6 @@ window.theBriefLive = {
       "headline": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Carmelo Anthony breaks down how a $100M contract shrinks to under $50M \u2014 and where the rest goes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/carmelo-anthony-breaks-down-100m-140000809.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-debt-nearly-doubled-129-140000968.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T14:00:00+00:00",
       "relevance_score": 0.0,
@@ -553,18 +583,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=fd26ba31d6073b9bce46686abc6a88939cf9281c19a471aa47fa091cfe97352e",
       "is_watchlist": true,
       "timestamp": "2026-08-02T12:50:11+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c610e329289aad1a5d8051660ec3f9d7cfb358fd2ac7304e16c3a3fc7bd39764",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T12:50:01+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -687,18 +705,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6a9e8400d7341f9a25b45a9c8952c859d2f92fe0d0bc5c12a951ccc2c8e93cbf",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T07:19:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Loan Investors Are Pushing Back as Fear Rises",
       "source": "Yahoo",
@@ -763,17 +769,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-01T12:41:17+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T12:30:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {

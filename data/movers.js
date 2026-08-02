@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T19:46:10.873861+00:00",
+  "generated_at": "2026-08-02T20:55:49.037489+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip\""
+      "move_reason": "News: \"Is Green Thumb the Safest Cannabis Stock to Own Right Now?\""
     },
     {
       "ticker": "XLC",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Ear...\""
+      "move_reason": "News: \"Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week\""
     },
     {
       "ticker": "XLB",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Ear...\""
+      "move_reason": "News: \"Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week\""
     },
     {
       "ticker": "APA",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip\""
+      "move_reason": "News: \"Is Green Thumb the Safest Cannabis Stock to Own Right Now?\""
     },
     {
       "ticker": "OSCR",
