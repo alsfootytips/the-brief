@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T13:55:09.641000+00:00",
+  "generated_at": "2026-08-02T15:02:29.390111+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -34,7 +34,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Names Brad Pollack Senior Vice President and General Counsel\""
+      "move_reason": "News: \"Plug Power vs. Occidental Petroleum: Which Energy Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "PWR",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Passed on This Stock for Over 7 Years. Greg Abel May Not Wait Any Longer.\""
+      "move_reason": "News: \"Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now...\""
     },
     {
       "ticker": "XLC",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Ear...\""
     },
     {
       "ticker": "XLB",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Momentum Crash: Is It Over?\""
+      "move_reason": "News: \"Warsh Wants Fewer Fed Meetings: Markets May Pay The Price\""
     },
     {
       "ticker": "NBIS",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Ear...\""
     },
     {
       "ticker": "APA",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Momentum Crash: Is It Over?\""
+      "move_reason": "News: \"Warsh Wants Fewer Fed Meetings: Markets May Pay The Price\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Passed on This Stock for Over 7 Years. Greg Abel May Not Wait Any Longer.\""
+      "move_reason": "News: \"Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now...\""
     },
     {
       "ticker": "OSCR",
@@ -470,7 +470,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Names Brad Pollack Senior Vice President and General Counsel\""
+      "move_reason": "News: \"Plug Power vs. Occidental Petroleum: Which Energy Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "PWR",
