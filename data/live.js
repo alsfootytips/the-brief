@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T18:30:04.446375+00:00",
+  "generated_at": "2026-08-02T19:46:10.883643+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T18:30:04.443616+00:00",
+      "timestamp": "2026-08-02T19:46:10.880876+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T18:30:04.443608+00:00",
+      "timestamp": "2026-08-02T19:46:10.880868+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,22 +54,129 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "IonQ vs. Rigetti: Which Quantum Computing Stock Is a Better Buy in 2026?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-quantum-computing-181231714.html",
+      "headline": "AstraZeneca, Bristol Myers held merger talks, Financial Times reports",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623151-astrazeneca-bristol-myers-held-merger-talks-financial-times-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T18:12:31+00:00",
+      "timestamp": "2026-08-02T19:23:49+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-split-changes-nothing-stocks-180700611.html",
+      "headline": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T18:07:00+00:00",
+      "timestamp": "2026-08-02T19:13:47+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-won-t-191300518.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:13:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:06:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Financial sector tops the S&P 500 in July, led by PayPal's 30% rally",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622714-financial-sector-tops-the-sp-500-in-july-led-by-paypals-30-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:05:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin trapped $62,280-$65,000 in tight range: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-85-complete-at-65414-live-levels-93CH-4813067",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:01:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: How big of a threat is China's CXMT to memory chipmakers?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623119-sa-asks-how-big-of-a-threat-is-chinas-cxmt-to-memory-chipmakers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T19:00:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T18:31:34+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran denies agreement to reopen Strait of Hormuz, says policy unchanged \u2013 Report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T18:29:50+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top global market stories from this week as earnings drive sentiment",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623148-top-global-market-dtories-from-this-week-as-earnings-drive-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T18:27:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This country\u2019s stock market may do better than most if AI bubble pops: Analyst",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/this-countrys-stock-market-may-do-better-than-most-if-ai-bubble-pops-analyst-4829705",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T18:13:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -185,17 +292,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analysis-China draws \u2019red lines\u2019 around its economic model ahead of EU, US trade talks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/analysischina-draws-red-lines-around-its-economic-model-ahead-of-eu-us-trade-talks-4829703",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T17:12:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Tesla drags consumer discretionary sector in July; Ross Stores leads",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4623048-tesla-drags-consumer-discretionary-sector-in-july-ross-stores-leads?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -241,56 +337,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Emirates NBD to buy HSBC Egypt's retail banking business",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623145-emirates-nbd-to-buy-hsbc-egypts-retail-banking-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Warren Buffett keeps pointing at the same ETF for a reason",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T16:52:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jefferies reviews Radiant World exposure after trade finance concerns",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623142-jefferies-reviews-radiant-world-exposure-after-trade-finance-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:51:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Momentum trade echoes past bubbles - BTIG",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623144-momentum-trade-echoes-past-bubbles---btig?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:49:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australia expands Big Tech media levy to include professional networks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623141-australia-expands-big-tech-media-levy-to-include-professional-networks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:26:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WestJet flight attendants go on strike after talks fall through, grounding flights",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:24:27+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-02T16:03:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -340,17 +392,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What is the Anna Karenina Principle of Monetary Policy?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/what-is-the-anna-karenina-principle-of-monetary-policy-4829702",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T15:21:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s what\u2019s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
@@ -378,17 +419,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/real-estate/articles/us-retirees-blow-nearly-1-143500205.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T14:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Death toll from migrant rush into Ceuta rises to 72",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/death-toll-from-migrant-rush-into-ceuta-rises-to-72-4829701",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:30:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -428,9 +458,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree",
+      "headline": "Carmelo Anthony breaks down how a $100M contract shrinks to under $50M \u2014 and where the rest goes",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-debt-nearly-doubled-129-140000968.html",
+      "url": "https://finance.yahoo.com/small-business/articles/carmelo-anthony-breaks-down-100m-140000809.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T14:00:00+00:00",
       "relevance_score": 0.0,
@@ -439,9 +469,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Carmelo Anthony breaks down how a $100M contract shrinks to under $50M \u2014 and where the rest goes",
+      "headline": "Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/carmelo-anthony-breaks-down-100m-140000809.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-debt-nearly-doubled-129-140000968.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T14:00:00+00:00",
       "relevance_score": 0.0,
@@ -666,17 +696,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T05:18:21+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1209,17 +1228,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/07/30/the-oil-majors-are-about-to-report-booming-profits-these-smaller-stocks-may-be-better-buys.html",
       "is_watchlist": false,
       "timestamp": "2026-07-30T14:58:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The economy slowed a bit -- but Americans continued to spend",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T14:47:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
