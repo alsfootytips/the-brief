@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T10:46:29.439633+00:00",
+  "generated_at": "2026-08-02T12:03:03.307233+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T10:46:29.436781+00:00",
+      "timestamp": "2026-08-02T12:03:03.304414+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,109 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T10:46:29.436772+00:00",
+      "timestamp": "2026-08-02T12:03:03.304404+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T12:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why flights are so expensive and will likely stay that way",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T12:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Greece battles wildfires, Hungary shuts nuclear power plant due to drought",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T11:42:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why every tech giant wants to look like a cybersecurity company in the AI era",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T11:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro\u2019s Fair Value spotted 64% gain in Ziff Davis stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-64-gain-in-ziff-davis-stock-93CH-4829686",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T11:09:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "For GLP-1 users, the in-store clothes shopping trip is back",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/for-glp1-users-the-instore-clothes-shopping-trip-is-back-4829685",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T11:06:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro\u2019s Fair Value predicted 46% drop in CytomX stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-predicted-46-drop-in-cytomx-stock-93CH-4829684",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T11:02:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "C-stores 2.0: Dolly Parton enters the age of mega travel stops",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622886-c-stores-20-dolly-parton-enters-the-age-of-mega-travel-stops?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T11:00:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tim Cook\u2019s lasting legacy: Keeping Apple\u2019s eye on the ball",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -126,17 +225,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin holds above $63,000 as Coldcard losses near $89 million",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-coldcard-losses-near-89-million-4829683",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T09:46:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "If You'd Invested $10,000 in Bitcoin 10 Years Ago, Here's How Much You Would Have Today",
       "source": "Yahoo",
@@ -196,39 +284,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T09:18:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: AI rally to resume but S&P 500 faces pullback by end-2027",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-ai-rally-to-resume-but-sp-500-faces-pullback-by-end2027-4829636",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China\u2019s central bank pledges timely policy tool adjustment",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/chinas-central-bank-pledges-timely-policy-tool-adjustment-4829682",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T08:48:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -243,6 +298,18 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6a9e8400d7341f9a25b45a9c8952c859d2f92fe0d0bc5c12a951ccc2c8e93cbf",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T07:19:04+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -266,17 +333,6 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T01:35:50+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -375,17 +431,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Data center power boom in focus as 12 of 16 utility stocks beat EPS estimates this week: Earnings Scorecard",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623050-12-out-of-16-utility-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T19:00:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Let\u2019s elect candidates who will make the wealthy pay taxes",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
@@ -413,28 +458,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-01T18:06:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:32:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T17:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -469,18 +492,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a",
       "is_watchlist": true,
       "timestamp": "2026-08-01T14:25:17+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T14:15:18+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -579,6 +590,62 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Gold crashes from $5,500 to $4,160 since the Iran conflict began, but experts see a massive buying opportunity",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-crashes-5-500-4-110500568.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T11:05:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Mortgage Rates Hit Highest Level in a Year as Fed Uncertainty and Iran Tensions Loom",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/us-mortgage-rates-hit-highest-104515091.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T10:45:15+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jersey Mike\u2019s employees may see a 200% bonus post-IPO \u2014 how majority shareholder Blackstone is sharing profits",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-employees-may-see-104500764.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T10:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "76% of American retirees have big savings regrets \u2014 and younger workers now plan to put off retirement to avoid them",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/76-american-retirees-big-savings-104000693.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T10:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Americans lost billions to fraud in 2025 \u2014 these free bank alerts most people never activate could help protect you",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/americans-lost-billions-fraud-2025-103000144.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T10:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Early retirement is a reality for 56% of caregivers, with 34% holding less than $10,000 in savings, new report finds",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/early-retirement-reality-56-caregivers-101000442.html",
@@ -612,28 +679,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 1, 2026: Rates higher than Friday",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-1-2026-rates-higher-than-friday-100000052.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Treasury intervenes to support yen after Japan steps in, FT reports",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-treasury-undertakes-intervention-yen-003009552.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T09:20:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify",
       "source": "Yahoo",
@@ -662,34 +707,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Suze Orman says couples are losing as much as $14,000 in 'free money' by failing to save smart as a team",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/suze-orman-says-couples-losing-090000551.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why did OpenAI's and Anthropic's AI models hack other companies?",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
       "is_watchlist": false,
       "timestamp": "2026-08-01T09:00:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is TerraPower the Next Oklo? Inside Bill Gates' Nuclear Bet.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/terrapower-next-oklo-inside-bill-082000748.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T08:20:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1291,17 +1314,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
-      "is_watchlist": false,
-      "timestamp": "2026-07-28T14:05:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "filing",
       "ticker": "NBIS",
       "form": "6-K",
@@ -1312,17 +1324,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to refinance a mortgage: A step-by-step guide for homeowners",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/refinance-mortgage-162831396.html",
-      "is_watchlist": false,
-      "timestamp": "2024-01-26T22:45:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     }
   ]
 };

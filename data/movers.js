@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T10:46:29.429617+00:00",
+  "generated_at": "2026-08-02T12:03:03.297147+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings ...\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "XLB",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings ...\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "APA",
