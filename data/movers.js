@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T12:03:03.297147+00:00",
+  "generated_at": "2026-08-02T13:55:09.641000+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If You'd Invested $10,000 in Bitcoin 10 Years Ago, Here's How Much You Would Have Today\""
+      "move_reason": "News: \"Warren Buffett Passed on This Stock for Over 7 Years. Greg Abel May Not Wait Any Longer.\""
     },
     {
       "ticker": "XLC",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 ...\""
+      "move_reason": "News: \"The Momentum Crash: Is It Over?\""
     },
     {
       "ticker": "NBIS",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 ...\""
+      "move_reason": "News: \"The Momentum Crash: Is It Over?\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If You'd Invested $10,000 in Bitcoin 10 Years Ago, Here's How Much You Would Have Today\""
+      "move_reason": "News: \"Warren Buffett Passed on This Stock for Over 7 Years. Greg Abel May Not Wait Any Longer.\""
     },
     {
       "ticker": "OSCR",
