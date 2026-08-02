@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-01T23:11:38.451450+00:00",
+  "generated_at": "2026-08-02T00:13:14.913889+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -46,7 +46,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Quanta Services Inc (PWR) (Q2 2026) Earnings Call Highlights: Record Backlog and Raised .....\""
     },
     {
       "ticker": "META",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.\""
+      "move_reason": "News: \"Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?\""
     },
     {
       "ticker": "XLC",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.\""
+      "move_reason": "News: \"Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?\""
     },
     {
       "ticker": "OSCR",
@@ -482,7 +482,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Quanta Services Inc (PWR) (Q2 2026) Earnings Call Highlights: Record Backlog and Raised .....\""
     },
     {
       "ticker": "TPL",
@@ -813,30 +813,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 404.25,
-      "change_pct": 2.54,
-      "score": 4.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.5 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.5 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 60.22,
@@ -885,11 +861,11 @@ window.theBriefMovers = {
       "change_pct": -0.38,
       "score": 3.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
       "tags": [
@@ -919,6 +895,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 404.25,
+      "change_pct": 2.54,
+      "score": 3.0,
+      "signals": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.5 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.5 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [
