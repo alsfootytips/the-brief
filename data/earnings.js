@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-02T08:59:40+00:00",
+  "generated_at": "2026-08-02T10:46:29+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -7641,30 +7641,6 @@ window.theBriefEarnings = {
         "eps_estimate": 0.969,
         "revenue_estimate": 67830000,
         "is_watchlist": false
-      },
-      {
-        "ticker": "KITL",
-        "date": "2026-08-06",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KOP",
-        "date": "2026-08-06",
-        "hour": "bmo",
-        "eps_estimate": 1.1312,
-        "revenue_estimate": 511161000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KPRX",
-        "date": "2026-08-06",
-        "hour": "",
-        "eps_estimate": -0.6324,
-        "revenue_estimate": 0,
-        "is_watchlist": false
       }
     ],
     "2026-08-07": [
@@ -8990,6 +8966,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.5202,
         "revenue_estimate": 17131920,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "EROK",
+        "date": "2026-08-10",
+        "hour": "",
+        "eps_estimate": 0.1258,
+        "revenue_estimate": 44045130,
         "is_watchlist": false
       },
       {
@@ -10979,6 +10963,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CWD",
+        "date": "2026-08-13",
+        "hour": "",
+        "eps_estimate": -0.1818,
+        "revenue_estimate": 4774270,
+        "is_watchlist": false
+      },
+      {
         "ticker": "CYCU",
         "date": "2026-08-13",
         "hour": "",
@@ -11680,6 +11672,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 2.4558,
         "revenue_estimate": 3736698600,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SWMR",
+        "date": "2026-08-13",
+        "hour": "",
+        "eps_estimate": -0.1224,
+        "revenue_estimate": 1020000,
         "is_watchlist": false
       },
       {

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T08:59:40.637238+00:00",
+  "generated_at": "2026-08-02T10:46:29.429617+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Nvidia Stock Will Skyrocket on Aug. 26\""
+      "move_reason": "News: \"If You'd Invested $10,000 in Bitcoin 10 Years Ago, Here's How Much You Would Have Today\""
     },
     {
       "ticker": "XLC",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify\""
+      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
     },
     {
       "ticker": "AMD",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX\""
+      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
     },
     {
       "ticker": "OSCR",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify\""
+      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
     },
     {
       "ticker": "DG",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX\""
+      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
     },
     {
       "ticker": "NVDA",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Nvidia Stock Will Skyrocket on Aug. 26\""
+      "move_reason": "News: \"If You'd Invested $10,000 in Bitcoin 10 Years Ago, Here's How Much You Would Have Today\""
     },
     {
       "ticker": "OSCR",
