@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T00:13:14.913889+00:00",
+  "generated_at": "2026-08-02T03:55:13.188525+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?\""
+      "move_reason": "News: \"Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intellig...\""
     },
     {
       "ticker": "XLC",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?\""
+      "move_reason": "News: \"Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intellig...\""
     },
     {
       "ticker": "OSCR",
