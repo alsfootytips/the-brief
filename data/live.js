@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T15:02:29.400118+00:00",
+  "generated_at": "2026-08-02T16:13:02.983050+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T15:02:29.397298+00:00",
+      "timestamp": "2026-08-02T16:13:02.980339+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,189 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T15:02:29.397289+00:00",
+      "timestamp": "2026-08-02T16:13:02.980331+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman Sachs sees AI trade stabilizing as strong earnings keep bull market intact",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623138-goldman-sachs-sees-ai-trade-stabilizing-as-strong-earnings-keep-bull-market-intact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T16:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: Should Verizon pursue an M&A deal?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623118-sa-asks-should-verizon-pursue-an-m-and-a-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T16:00:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T16:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:54:05+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prediction: Vanguard's S&P 500 ETF Will Be Back Above $1 Trillion in Assets Before the Year Is Out. Here's the Math.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-vanguards-p-500-etf-155400319.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:54:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coinbase CEO Brian Armstrong Continues to Advocate for the Clarity Act. Here's the Most Likely Scenario For the Crypto Market.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-continues-155000500.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is a 53% Decline a Stopping Point for the SpaceX Stock Price? History Offers This Answer.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c913582788384e871271e9bf7aea9919f31688fec236a4933fcd2a47575d6332",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T15:46:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:42:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Emerging markets lose momentum as AI volatility, oil prices test investors",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623139-emerging-markets-lose-momentum-as-ai-volatility-oil-prices-test-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:33:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: Costco Will Become a Trillion Dollar Company on This Date",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b90ff5634a25b4ede73a39380f66a126ffe381b97fdab26124885b8ed73cfc04",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T15:30:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shoppers made 158 million chargeback disputes in 2025 as 'friendly fraud' surged 29% \u2014 and businesses pay the price",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/shoppers-made-158-million-chargeback-153000950.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What is the Anna Karenina Principle of Monetary Policy?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/what-is-the-anna-karenina-principle-of-monetary-policy-4829702",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:21:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is It Too Late to Buy Bloom Energy? My Honest Take.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cb9fffa9a2209e657ac1c80241801c3ab555613b90f927a5a8336cc5adfe598",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T15:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s what\u2019s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:19:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Discount retailers lift consumer staples in July as alcohol, tobacco lag",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4622994-discount-retailers-lift-consumer-staples-in-july-as-alcohol-tobacco-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T15:05:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/tesla-rival-byd-sales-overseas-demand-flash-charging/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T14:59:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -60,28 +239,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-02T14:59:39+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Uber\u2019s $1 Trillion Opportunity That Wall Street Is Completely Ignoring",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-1-trillion-opportunity-wall-145422411.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:54:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Warren Buffett Stepped Back From Berkshire Hathaway With a Bang; Its Investment in 1 AI Stock Now Tops $30 Billion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-stepped-back-berkshire-144100533.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:41:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -179,17 +336,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI hackers escape the lab, fueling calls for tougher safeguards",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623136-ai-hackers-escape-the-lab-fueling-calls-for-tougher-safeguards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:01:37+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
@@ -233,30 +379,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da7090d455e47b100e2fce8eb087df4515660312fc7625283bceca6d8b7200e2",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T13:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Your 12-Months-Till-Retirement Countdown: 5 Crucial Moves to Make.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b558d5d43939c26a667e9537068c2759344ae4b3bee61b7b2cddeabddd3d6a8",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T13:38:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Douglas Dynamics earnings on deck: Can summer momentum last?",
       "source": "Investing.com News",
@@ -265,18 +387,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T13:35:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: Western Digital Gets Back to Its High Before Sandisk Gets Back to Its Own.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=37c5d1f2e5144c89aaf3289e57f8c73524c716ecba97dab132dc81ad698d727b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T13:34:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -304,30 +414,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:32:52+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OPEC+ completes planned output hike, eyes bigger supply increase after Iran conflict",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623134-opec-completes-planned-output-hike-eyes-bigger-supply-increase-after-iran-conflict?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:31:59+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "States expand student loan options as new federal borrowing caps take effect \u2014 but they come with trade-offs",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
@@ -345,61 +431,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-02T13:30:00+00:00",
       "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ramit Sethi helps newlyweds tackle $165,000 in debt \u2014 including the $30,000 he hid before their wedding",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/ramit-sethi-helps-newlyweds-tackle-133000103.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Key deals this week: Ambarella, MarketAxess, argenx SE, TransDigm, and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623122-key-deals-this-week-ambarella-marketaxess-argenx-se-transdigm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:15:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: Curium, Bristol-Myers Squibb, and Johnson & Johnson in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622999-notable-healthcare-headlines-for-the-week-curium-bristol-myers-squibb-and-johnson-and-johnson?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:05:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is now the time to buy European equities?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/is-now-the-time-to-buy-european-equities-4829697",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:02:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Teetering US stock market faces jobs report, big earnings week",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/teetering-us-stock-market-faces-jobs-report-big-earnings-week-4829696",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:00:36+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -485,17 +516,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T12:01:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why flights are so expensive and will likely stay that way",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
@@ -524,28 +544,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-02T12:00:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Financial stocks are crushing it. These charts show why the \u2018breakout\u2019 rally may have just begun.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why every tech giant wants to look like a cybersecurity company in the AI era",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T11:30:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

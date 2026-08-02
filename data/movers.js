@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T15:02:29.390111+00:00",
+  "generated_at": "2026-08-02T16:13:02.973120+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now...\""
+      "move_reason": "News: \"Is a 53% Decline a Stopping Point for the SpaceX Stock Price? History Offers This Answer.\""
     },
     {
       "ticker": "XLC",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now...\""
+      "move_reason": "News: \"Is a 53% Decline a Stopping Point for the SpaceX Stock Price? History Offers This Answer.\""
     },
     {
       "ticker": "OSCR",
