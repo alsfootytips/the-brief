@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T21:56:58.728660+00:00",
+  "generated_at": "2026-08-02T22:58:53.062421+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Green Thumb the Safest Cannabis Stock to Own Right Now?\""
+      "move_reason": "News: \"I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.\""
     },
     {
       "ticker": "XLC",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
+      "move_reason": "News: \"CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.\""
     },
     {
       "ticker": "AMD",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
+      "move_reason": "News: \"CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.\""
     },
     {
       "ticker": "DG",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Green Thumb the Safest Cannabis Stock to Own Right Now?\""
+      "move_reason": "News: \"I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.\""
     },
     {
       "ticker": "OSCR",

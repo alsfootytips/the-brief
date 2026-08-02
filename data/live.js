@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T21:56:58.738446+00:00",
+  "generated_at": "2026-08-02T22:58:53.072297+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T21:56:58.735622+00:00",
+      "timestamp": "2026-08-02T22:58:53.069509+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,89 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T21:56:58.735614+00:00",
+      "timestamp": "2026-08-02T22:58:53.069500+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Senator Moreno says Ohio\u2019s Miller should not serve in Congress, citing abuse allegations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-senator-moreno-says-ohios-miller-should-not-serve-in-congress-citing-abuse-allegations-4829704",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:36:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan to vow coordination with US on weak yen in historic battle",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-to-vow-coordination-with-us-on-weak-yen-in-historic-battle-4829714",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:30:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/astrazeneca-holds-talks-with-bristol-myers-squibb-on-400-billion-megadeal-ft-reports-4829708",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:24:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:17:47+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:17:33+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oman, mediators in final stages of negotiations with Iran on Hormuz - Report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:07:32+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Monday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623149-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:00:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -61,6 +140,42 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T21:48:34+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f105d120b24dbcf21df42b2bac18a8d9eea1062a0b3551f5a1342713795c1eb6",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T21:47:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ce9f941a43a1607f2bec183ffc7844ac1f77a0aada4f3869ebde96c442c7556",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T21:45:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9eba97e0f64778590c0b74df706d14b0c758022d0162f1981303a46bb72a45d5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T21:39:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -131,39 +246,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ethos Technologies Inc. Q2 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4622840-ethos-technologies-inc-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan to vow coordination with US on weak yen in historic battle",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japan-to-vow-coordination-with-us-on-weak-yen-in-historic-battle-4829714",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:30:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan to vow coordination with US on weak yen in historic battle",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/japan-vow-coordination-us-weak-210127634.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:28:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Russia stocks higher at close of trade; MOEX Russia Index up 0.75%",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-075-4829716",
@@ -197,70 +279,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin holds above $63,000 as Coldcard losses near $89 million",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-coldcard-losses-near-89-million-4829683",
+      "headline": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T21:07:35+00:00",
+      "timestamp": "2026-08-02T20:27:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cboe completes sale of Australian exchange to TMX Group",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cboe-completes-sale-of-australian-exchange-to-tmx-group-93CH-4829713",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:04:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Idaho mass shooter died from self-inflicted gunshot, police say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/idaho-mass-shooter-died-from-selfinflicted-gunshot-police-say-4829711",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:00:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T20:12:41+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Green Thumb the Safest Cannabis Stock to Own Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be6ca3338245e244abcd10240090ce3090ef1fc52dc3abc382636718cdcccde8",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T19:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Arm Holdings Stock a Buy on the Bullish CPU Outlook?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adf787ae50ece003a442a2b0f3d3f0fde7602dd32a541649ea88ad0d1148b3d1",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T19:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -272,18 +297,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T19:13:47+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Dividend Stocks That Are No-Brainer Buys for the Second Half of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff17a12937b465c62b9ffdbfeafbfe8bcbb3519c118fb10cc656d891a14897d5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T19:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -346,18 +359,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T17:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Due As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:56:50+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -439,28 +440,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/tesla-rival-byd-sales-overseas-demand-flash-charging/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:59:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US retirees blow nearly $1 of every $3 on a single expense \u2014 here's what it costs you each year",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/us-retirees-blow-nearly-1-143500205.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
@@ -468,6 +447,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T14:30:01+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc60c9993e494ebb5903cd35c49e06bb62358a9fee952e62664c39901ded0eb2",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T14:12:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -642,6 +633,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Best CD rates today, Sunday, August 2, 2026: Lock in up to 4.10% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-2-2026-lock-in-up-to-410-apy-100000506.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Mortgage and refinance interest rates today, Sunday, August 2, 2026: Rates a bit lower than last week",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-2-2026-rates-a-bit-lower-than-last-week-100000673.html",
@@ -780,15 +782,14 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bdd1b3f536b6c27c1fb3868262545ffa1f050f9dd7c6a6eb75fa760bb31eda6f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-01T09:04:40+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "Best CD rates today, Saturday, August 1, 2026: Best CD account earns 4.10% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-1-2026-best-cd-account-earns-410-apy-100000014.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-01T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -881,17 +882,6 @@ window.theBriefLive = {
       "url": "https://www.bloomberg.com/news/articles/2026-07-31/dollar-heads-for-worst-week-in-three-months-as-fed-doubts-grow",
       "is_watchlist": false,
       "timestamp": "2026-08-01T04:32:54+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Indian companies plan for fresh price hikes, testing inflation outlook",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
-      "is_watchlist": false,
-      "timestamp": "2026-08-01T04:27:14+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -1311,6 +1301,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "10 best money market accounts and rates for August 2026: Rates up to 3.9% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-accounts-rates-160154089.html",
+      "is_watchlist": false,
+      "timestamp": "2025-04-15T16:01:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     }
   ]
 };
