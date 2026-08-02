@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T03:55:13.188525+00:00",
+  "generated_at": "2026-08-02T06:33:35.012997+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intellig...\""
+      "move_reason": "News: \"An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven A...\""
     },
     {
       "ticker": "XLC",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb\""
+      "move_reason": "News: \"Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings ...\""
     },
     {
       "ticker": "XLB",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, August 1, 2026\""
+      "move_reason": "News: \"Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 ...\""
     },
     {
       "ticker": "NBIS",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb\""
+      "move_reason": "News: \"Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings ...\""
     },
     {
       "ticker": "APA",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, August 1, 2026\""
+      "move_reason": "News: \"Red-Hot Inflation And (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 ...\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intellig...\""
+      "move_reason": "News: \"An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven A...\""
     },
     {
       "ticker": "OSCR",
