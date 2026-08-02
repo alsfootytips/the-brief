@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T17:17:38.732368+00:00",
+  "generated_at": "2026-08-02T18:30:04.446375+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T17:17:38.729487+00:00",
+      "timestamp": "2026-08-02T18:30:04.443616+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,10 +46,141 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T17:17:38.729478+00:00",
+      "timestamp": "2026-08-02T18:30:04.443608+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IonQ vs. Rigetti: Which Quantum Computing Stock Is a Better Buy in 2026?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-quantum-computing-181231714.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T18:12:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A Stock Split Changes Nothing About the Stock's Long-Term Prospects. So Why Does Monster Beverage's Aug. 11 Split Matter?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-split-changes-nothing-stocks-180700611.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T18:07:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T18:06:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Markets face choppier ride as Fed uncertainty, AI credit risks lift volatility",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4623147-markets-face-choppier-ride-as-fed-uncertainty-ai-credit-risks-lift-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T18:03:59+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Senator Moreno says Ohio\u2019s Miller should not serve in Congress, citing abuse allegations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-senator-moreno-says-ohios-miller-should-not-serve-in-congress-citing-abuse-allegations-4829704",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T18:00:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says US will hold off on fresh Iran attack in hope of quick deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T17:54:21+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T17:48:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cea82195479b39b3cb085da4353092b0b8dfeaaca45cf6e2f2550daec11520a",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T17:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "What if I Have $2 Million Saved for Retirement? Is It Really Enough to Stop Working?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d68a0ab2331d87ee665d90d00e9c1e607f05b7dad80e0c9381a057fe5f69e889",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T17:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3299fe009e8a2fc471efdc5c645e126f4308c7bbd13e16b6753d8e97e2925b27",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T17:24:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Bloom Energy vs. Oklo: Which Power Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0c774f1e87d91fe6b7d49953e658f4acdba4cbb7614f989eabbde1a3281a2a7",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T17:20:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -132,44 +263,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "3 Reasons Why Berkshire Hathaway Owns $29 Billion of Alphabet Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-berkshire-hathaway-165000908.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Momentum trade echoes past bubbles - BTIG",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4623144-momentum-trade-echoes-past-bubbles---btig?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-02T16:49:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:48:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-revenue-soars-time-buy-163500803.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:35:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -198,17 +296,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Goldman Sachs sees AI trade stabilizing as strong earnings keep bull market intact",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4623138-goldman-sachs-sees-ai-trade-stabilizing-as-strong-earnings-keep-bull-market-intact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T16:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
@@ -230,18 +317,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is a 53% Decline a Stopping Point for the SpaceX Stock Price? History Offers This Answer.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c913582788384e871271e9bf7aea9919f31688fec236a4933fcd2a47575d6332",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T15:46:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Here are the 2 big things we're watching in the stock market in the week ahead",
       "source": "CNBC",
@@ -250,18 +325,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T15:36:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: Costco Will Become a Trillion Dollar Company on This Date",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b90ff5634a25b4ede73a39380f66a126ffe381b97fdab26124885b8ed73cfc04",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T15:30:16+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -284,18 +347,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T15:21:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is It Too Late to Buy Bloom Energy? My Honest Take.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5cb9fffa9a2209e657ac1c80241801c3ab555613b90f927a5a8336cc5adfe598",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T15:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -350,43 +401,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-02T14:30:01+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:18:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran denies agreement to reopen Strait of Hormuz, says policy unchanged \u2013 Report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
-      "is_watchlist": true,
-      "timestamp": "2026-08-02T14:12:57+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australia\u2019s home price retreat gathers pace in July, Cotality data shows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/australias-home-price-retreat-gathers-pace-in-july-cotality-data-shows-4829700",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T14:06:32+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -949,18 +963,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=84260bb86ce66db796e93fe42fb7361ec7c0c1d4760d75ae32676d2406c59e17",
       "is_watchlist": true,
       "timestamp": "2026-07-31T19:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Bloom Energy vs. NextEra Energy: Is a Fuel Cell Upstart or Renewable Energy Titan the Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9db42f5ebb0904451548b5344d931a3241771e0a92b07fd8405e6b6a6794b7aa",
-      "is_watchlist": true,
-      "timestamp": "2026-07-31T19:11:53+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

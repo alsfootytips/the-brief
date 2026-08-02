@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T17:17:38.722445+00:00",
+  "generated_at": "2026-08-02T18:30:04.436506+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is a 53% Decline a Stopping Point for the SpaceX Stock Price? History Offers This Answer.\""
+      "move_reason": "News: \"Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip\""
     },
     {
       "ticker": "XLC",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
+      "move_reason": "News: \"Bloom Energy vs. Oklo: Which Power Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "OSCR",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?\""
+      "move_reason": "News: \"Bloom Energy vs. Oklo: Which Power Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "NVDA",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is a 53% Decline a Stopping Point for the SpaceX Stock Price? History Offers This Answer.\""
+      "move_reason": "News: \"Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip\""
     },
     {
       "ticker": "OSCR",
