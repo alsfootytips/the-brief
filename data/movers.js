@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T06:33:35.012997+00:00",
+  "generated_at": "2026-08-02T08:59:40.637238+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven A...\""
+      "move_reason": "News: \"Prediction: Nvidia Stock Will Skyrocket on Aug. 26\""
     },
     {
       "ticker": "XLC",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven A...\""
+      "move_reason": "News: \"Prediction: Nvidia Stock Will Skyrocket on Aug. 26\""
     },
     {
       "ticker": "OSCR",
