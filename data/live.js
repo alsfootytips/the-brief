@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-02T22:58:53.072297+00:00",
+  "generated_at": "2026-08-03T00:05:10.257411+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.55,
       "price": 71.28,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T22:58:53.069509+00:00",
+      "timestamp": "2026-08-03T00:05:10.254723+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 4.29,
       "price": 37.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-02T22:58:53.069500+00:00",
+      "timestamp": "2026-08-03T00:05:10.254714+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -54,22 +54,85 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Senator Moreno says Ohio\u2019s Miller should not serve in Congress, citing abuse allegations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/politics-news/us-senator-moreno-says-ohios-miller-should-not-serve-in-congress-citing-abuse-allegations-4829704",
+      "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T22:36:24+00:00",
+      "timestamp": "2026-08-02T23:49:40+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil drops over 4% after Trump calls off planned strike on Iran",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T23:33:07+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan confirms joint yen intervention with US, signals readiness for more action",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-to-vow-coordination-with-us-on-weak-yen-in-historic-battle-4829714",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T23:30:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Japan to vow coordination with US on weak yen in historic battle",
+      "headline": "UK faces recession if Strait of Hormuz stays closed, forecaster warns",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japan-to-vow-coordination-with-us-on-weak-yen-in-historic-battle-4829714",
+      "url": "https://www.investing.com/news/economy-news/uk-faces-recession-if-strait-of-hormuz-stays-closed-forecaster-warns-4829721",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T22:30:24+00:00",
+      "timestamp": "2026-08-02T23:25:29+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan confirms joint FX intervention with U.S., says won\u2019t hesitate for more",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-confirms-joint-fx-intervention-with-us-says-wont-hesitate-for-more-4829720",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T23:24:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Iran talks to take place on Monday, sets no deadline for deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal-4829719",
+      "is_watchlist": true,
+      "timestamp": "2026-08-02T23:24:35+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The change that may help you get a mortgage as a first-time buyer",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T23:16:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -80,7 +143,40 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/astrazeneca-holds-talks-with-bristol-myers-squibb-on-400-billion-megadeal-ft-reports-4829708",
       "is_watchlist": false,
-      "timestamp": "2026-08-02T22:24:47+00:00",
+      "timestamp": "2026-08-02T23:07:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Toyota expected to post fifth straight profit drop, investors weigh Japan quake fallout",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/toyota-expected-to-post-fifth-straight-profit-drop-investors-weigh-japan-quake-fallout-4829718",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T23:07:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK hiring falls but demand for AI skills jumps, job site Indeed says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/uk-hiring-falls-but-demand-for-ai-skills-jumps-job-site-indeed-says-4829717",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T23:06:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Senator Moreno says Ohio\u2019s Miller should not serve in Congress, citing abuse allegations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/politics-news/us-senator-moreno-says-ohios-miller-should-not-serve-in-congress-citing-abuse-allegations-4829704",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T22:36:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -98,47 +194,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T22:17:33+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oman, mediators in final stages of negotiations with Iran on Hormuz - Report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T22:07:32+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here are the major earnings before the open Monday",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4623149-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-02T22:00:10+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:48:34+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -246,39 +307,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia stocks higher at close of trade; MOEX Russia Index up 0.75%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-075-4829716",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukrainian drone kills one child, injures two in playground in Russia\u2019s Belgorod region",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/ukrainian-drone-kills-one-child-injures-two-in-playground-in-russias-belgorod-region-4829715",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:18:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/world-news/death-toll-from-migrant-rush-into-ceuta-rises-to-72-4829701",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T21:18:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
@@ -339,6 +367,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-microsoft-stock-soared-173002074.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T17:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Bloom Energy vs. Oklo: Which Power Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -348,6 +387,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings, PMI and Other Key Things to Watch this Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-pmi-other-key-things-170002166.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-02T17:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -412,17 +462,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/02/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T15:36:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shoppers made 158 million chargeback disputes in 2025 as 'friendly fraud' surged 29% \u2014 and businesses pay the price",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/shoppers-made-158-million-chargeback-153000950.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T15:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -515,18 +554,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-02T13:30:00+00:00",
       "relevance_score": -2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-02T13:00:01+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -633,9 +660,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Best CD rates today, Sunday, August 2, 2026: Lock in up to 4.10% APY",
+      "headline": "Mortgage and refinance interest rates today, Sunday, August 2, 2026: Rates a bit lower than last week",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-2-2026-lock-in-up-to-410-apy-100000506.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-2-2026-rates-a-bit-lower-than-last-week-100000673.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -644,9 +671,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Sunday, August 2, 2026: Rates a bit lower than last week",
+      "headline": "Best CD rates today, Sunday, August 2, 2026: Lock in up to 4.10% APY",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-2-2026-rates-a-bit-lower-than-last-week-100000673.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-2-2026-lock-in-up-to-410-apy-100000506.html",
       "is_watchlist": false,
       "timestamp": "2026-08-02T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -1146,17 +1173,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "'I pay \u00a3580 a month to live in a disused care home': Property guardians show us around",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-07-30T23:05:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
@@ -1190,18 +1206,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "APA",
-      "headline": "APA Corp Gears Up to Report Q2 Earnings: Here's How It Will Fare",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32bd55e387300c4512a230e04507b5b5274726a29548a73c3f51bfe3a0036d67",
-      "is_watchlist": true,
-      "timestamp": "2026-07-30T16:28:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "The oil majors are about to report booming profits. These smaller stocks may be better buys",
       "source": "CNBC Markets",
@@ -1210,18 +1214,6 @@ window.theBriefLive = {
       "timestamp": "2026-07-30T14:58:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Dollar General Corporation Announces Webcast of its Second Quarter 2026 Earnings Conference Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b08dd05bca47147f914c10147d650c9220e74dce2887ff957de7c2012bba0d73",
-      "is_watchlist": true,
-      "timestamp": "2026-07-30T10:55:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",
@@ -1301,17 +1293,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "10 best money market accounts and rates for August 2026: Rates up to 3.9% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-accounts-rates-160154089.html",
-      "is_watchlist": false,
-      "timestamp": "2025-04-15T16:01:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     }
   ]
 };

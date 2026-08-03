@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-02T22:58:53.062421+00:00",
+  "generated_at": "2026-08-03T00:05:10.247797+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"EnerCom Announces SM Energy as a Keynote Speaker at the 31st EnerCom Denver - The Energy I...\""
+      "move_reason": "Tracking XLE sector (+2.14% today)"
     },
     {
       "ticker": "XLY",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Antero Resources: Engineering Alpha At The Crossroads Of Hard Assets And Blowout Q2 Earnin...\""
+      "move_reason": ""
     },
     {
       "ticker": "NVDA",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trade Desk (TTD) Stock Looks Undervalued Despite Fair Earnings And A 79% Fall\""
+      "move_reason": ""
     },
     {
       "ticker": "SOFI",
@@ -326,7 +326,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Retail Earnings Season Could Be the Messiest Yet\""
+      "move_reason": ""
     },
     {
       "ticker": "XLK",
@@ -374,7 +374,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"EnerCom Announces SM Energy as a Keynote Speaker at the 31st EnerCom Denver - The Energy I...\""
+      "move_reason": "Tracking XLE sector (+2.14% today)"
     },
     {
       "ticker": "CRWV",
@@ -398,7 +398,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Retail Earnings Season Could Be the Messiest Yet\""
+      "move_reason": ""
     },
     {
       "ticker": "GEV",
@@ -506,7 +506,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trade Desk (TTD) Stock Looks Undervalued Despite Fair Earnings And A 79% Fall\""
+      "move_reason": ""
     },
     {
       "ticker": "XLE",
@@ -518,7 +518,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Antero Resources: Engineering Alpha At The Crossroads Of Hard Assets And Blowout Q2 Earnin...\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -686,13 +686,13 @@ window.theBriefMovers = {
       "score": 7.0,
       "signals": [
         "Moved +4.29% \u2014 a 1.8\u03c3 move vs typical 2.5% daily vol",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 9.0 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +4.29% \u2014 a 1.8\u03c3 move vs typical 2.5% daily vol",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 9.0 (cheap on absolute basis)"
       ],
@@ -853,27 +853,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>PWR</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 127.01,
-      "change_pct": -0.38,
-      "score": 3.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
     },
     {
       "ticker": "GEV",
