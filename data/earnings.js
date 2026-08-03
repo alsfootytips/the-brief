@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-03T18:06:22+00:00",
+  "generated_at": "2026-08-03T22:18:22+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -8,7 +8,37 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -1.2221,
         "revenue_estimate": 2612061308,
-        "is_watchlist": true
+        "is_watchlist": true,
+        "history": [
+          {
+            "period": "2026-03-31",
+            "actual": -1.12,
+            "estimate": -0.9157,
+            "beat": false,
+            "surprise_pct": -22.3108
+          },
+          {
+            "period": "2025-12-31",
+            "actual": -0.56,
+            "estimate": -0.5036,
+            "beat": false,
+            "surprise_pct": -11.1994
+          },
+          {
+            "period": "2025-09-30",
+            "actual": -0.08,
+            "estimate": -0.376,
+            "beat": true,
+            "surprise_pct": 78.7234
+          },
+          {
+            "period": "2025-06-30",
+            "actual": -0.27,
+            "estimate": -0.2148,
+            "beat": false,
+            "surprise_pct": -25.6983
+          }
+        ]
       },
       {
         "ticker": "ABCP",
@@ -2130,7 +2160,37 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.7082,
         "revenue_estimate": 592351821,
-        "is_watchlist": true
+        "is_watchlist": true,
+        "history": [
+          {
+            "period": "2026-03-31",
+            "actual": -0.32,
+            "estimate": -0.7831,
+            "beat": true,
+            "surprise_pct": 59.1368
+          },
+          {
+            "period": "2025-12-31",
+            "actual": -0.7,
+            "estimate": -1.1648,
+            "beat": true,
+            "surprise_pct": 39.9038
+          },
+          {
+            "period": "2025-09-30",
+            "actual": -0.4,
+            "estimate": -0.5406,
+            "beat": true,
+            "surprise_pct": 26.0081
+          },
+          {
+            "period": "2025-06-30",
+            "actual": -0.38,
+            "estimate": -0.476,
+            "beat": true,
+            "surprise_pct": 20.1681
+          }
+        ]
       },
       {
         "ticker": "AADX",
