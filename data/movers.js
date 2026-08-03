@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-03T00:05:10.247797+00:00",
+  "generated_at": "2026-08-03T03:54:51.103790+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.\""
+      "move_reason": "News: \"Greg Abel's Berkshire Hathaway: What the Next Decade Could Look Like\""
     },
     {
       "ticker": "XLC",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week\""
+      "move_reason": "News: \"Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli...\""
     },
     {
       "ticker": "XLB",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warsh Wants Fewer Fed Meetings: Markets May Pay The Price\""
+      "move_reason": "News: \"Buy The Situational Awareness' Selloff, Here's Why And What\""
     },
     {
       "ticker": "NBIS",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week\""
+      "move_reason": "News: \"Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli...\""
     },
     {
       "ticker": "APA",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warsh Wants Fewer Fed Meetings: Markets May Pay The Price\""
+      "move_reason": "News: \"Buy The Situational Awareness' Selloff, Here's Why And What\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.\""
+      "move_reason": "News: \"Greg Abel's Berkshire Hathaway: What the Next Decade Could Look Like\""
     },
     {
       "ticker": "OSCR",
