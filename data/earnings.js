@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-03T07:26:35+00:00",
+  "generated_at": "2026-08-03T14:18:47+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -8,37 +8,7 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -1.2221,
         "revenue_estimate": 2612061308,
-        "is_watchlist": true,
-        "history": [
-          {
-            "period": "2026-03-31",
-            "actual": -1.12,
-            "estimate": -0.9157,
-            "beat": false,
-            "surprise_pct": -22.3108
-          },
-          {
-            "period": "2025-12-31",
-            "actual": -0.56,
-            "estimate": -0.5036,
-            "beat": false,
-            "surprise_pct": -11.1994
-          },
-          {
-            "period": "2025-09-30",
-            "actual": -0.08,
-            "estimate": -0.376,
-            "beat": true,
-            "surprise_pct": 78.7234
-          },
-          {
-            "period": "2025-06-30",
-            "actual": -0.27,
-            "estimate": -0.2148,
-            "beat": false,
-            "surprise_pct": -25.6983
-          }
-        ]
+        "is_watchlist": true
       },
       {
         "ticker": "ABCP",
@@ -410,14 +380,6 @@ window.theBriefEarnings = {
       },
       {
         "ticker": "BYSD",
-        "date": "2026-08-11",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BYSI",
         "date": "2026-08-11",
         "hour": "",
         "eps_estimate": null,
@@ -6529,6 +6491,22 @@ window.theBriefEarnings = {
         "eps_estimate": 0.7009,
         "revenue_estimate": 1957036600,
         "is_watchlist": false
+      },
+      {
+        "ticker": "DBX",
+        "date": "2026-08-06",
+        "hour": "amc",
+        "eps_estimate": 0.7449,
+        "revenue_estimate": 632995421,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DC",
+        "date": "2026-08-06",
+        "hour": "",
+        "eps_estimate": -0.0618,
+        "revenue_estimate": 0,
+        "is_watchlist": false
       }
     ],
     "2026-08-07": [
@@ -6618,14 +6596,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BTDR",
-        "date": "2026-08-07",
-        "hour": "",
-        "eps_estimate": -0.3701,
-        "revenue_estimate": 238964988,
         "is_watchlist": false
       },
       {
@@ -7526,6 +7496,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.5236,
         "revenue_estimate": 261803,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BTDR",
+        "date": "2026-08-10",
+        "hour": "",
+        "eps_estimate": -0.3701,
+        "revenue_estimate": 238964988,
         "is_watchlist": false
       },
       {
@@ -10487,7 +10465,7 @@ window.theBriefEarnings = {
         "date": "2026-08-13",
         "hour": "",
         "eps_estimate": 0.0051,
-        "revenue_estimate": 11225100,
+        "revenue_estimate": 15067103,
         "is_watchlist": false
       },
       {
@@ -10495,7 +10473,7 @@ window.theBriefEarnings = {
         "date": "2026-08-13",
         "hour": "",
         "eps_estimate": 0.0051,
-        "revenue_estimate": 15067103,
+        "revenue_estimate": 11225100,
         "is_watchlist": false
       },
       {
@@ -11566,14 +11544,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MDT",
-        "date": "2026-08-17",
-        "hour": "",
-        "eps_estimate": 1.4017,
-        "revenue_estimate": 9643429853,
         "is_watchlist": false
       },
       {
