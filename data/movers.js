@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-03T03:54:51.103790+00:00",
+  "generated_at": "2026-08-03T07:26:35.119549+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -106,7 +106,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Greg Abel's Berkshire Hathaway: What the Next Decade Could Look Like\""
+      "move_reason": "News: \"Greg Abel Is Spending Berkshire Hathaway's Cash on Whole Companies Instead of Stocks. Here...\""
     },
     {
       "ticker": "XLC",
@@ -117,6 +117,30 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.06,
+      "change_pct": 1.31,
+      "volume_ratio": 0.43,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 140.84,
+      "change_pct": 1.21,
+      "volume_ratio": 0.28,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     },
     {
@@ -151,29 +175,6 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 106.66,
-      "change_pct": 0.55,
-      "volume_ratio": 1.08,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "DIA",
-      "name": "SPDR Dow Jones Industrial",
-      "price": 524.32,
-      "change_pct": 0.54,
-      "volume_ratio": 0.86,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -199,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli...\""
+      "move_reason": "News: \"Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, ...\""
     },
     {
       "ticker": "XLB",
@@ -246,7 +247,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy The Situational Awareness' Selloff, Here's Why And What\""
+      "move_reason": "News: \"Despite The Headwinds, Earnings Are Exploding To The Upside\""
     },
     {
       "ticker": "NBIS",
@@ -362,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli...\""
+      "move_reason": "News: \"Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, ...\""
     },
     {
       "ticker": "APA",
@@ -410,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$5,000 in GE Vernova at Its 2024 Low Would Be Worth This Much Now\""
+      "move_reason": "News: \"Elon Musk's AI Data Centers Need So Much Power He's Buying Gas Turbine Companies -- Who El...\""
     },
     {
       "ticker": "IWM",
@@ -422,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy The Situational Awareness' Selloff, Here's Why And What\""
+      "move_reason": "News: \"Despite The Headwinds, Earnings Are Exploding To The Upside\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Greg Abel's Berkshire Hathaway: What the Next Decade Could Look Like\""
+      "move_reason": "News: \"Greg Abel Is Spending Berkshire Hathaway's Cash on Whole Companies Instead of Stocks. Here...\""
     },
     {
       "ticker": "OSCR",
