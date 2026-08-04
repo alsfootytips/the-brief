@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-03T23:36:20.794730+00:00",
+  "generated_at": "2026-08-04T01:07:17.042054+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 4.91,
@@ -27,11 +27,11 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.21440001,
       "analyst_recs": {
         "strongBuy": 10,
-        "buy": 19,
-        "hold": 13,
+        "buy": 21,
+        "hold": 12,
         "sell": 1,
         "strongSell": 1,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
         "buy_delta": 2,
@@ -68,15 +68,15 @@ window.theBriefFundamentals = {
       "short_ratio": 3.42,
       "short_percent_of_float": 0.28,
       "analyst_recs": {
-        "strongBuy": 6,
-        "buy": 10,
-        "hold": 7,
+        "strongBuy": 7,
+        "buy": 11,
+        "hold": 6,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": 1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -95,7 +95,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 8.99,
       "realized_vol_30d_pct": 3.0,
       "trailing_pe": 20.795454,
-      "forward_pe": 8.520187,
+      "forward_pe": 8.449806,
       "price_to_sales": 2.8974855,
       "price_to_book": 3.51315,
       "enterprise_to_ebitda": 10.565,
@@ -112,14 +112,14 @@ window.theBriefFundamentals = {
       "analyst_recs": {
         "strongBuy": 5,
         "buy": 13,
-        "hold": 20,
-        "sell": 4,
+        "hold": 21,
+        "sell": 3,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
-        "sell_delta": 1
+        "sell_delta": -1
       },
       "insider_recent_90d": {
         "buys": 9,
@@ -157,11 +157,11 @@ window.theBriefFundamentals = {
         "hold": 9,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 1,
-        "sell_delta": -1
+        "buy_delta": 0,
+        "sell_delta": 0
       },
       "insider_recent_90d": {
         "buys": 4,
@@ -199,10 +199,10 @@ window.theBriefFundamentals = {
         "hold": 17,
         "sell": 3,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 1,
+        "buy_delta": 0,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -241,7 +241,7 @@ window.theBriefFundamentals = {
         "hold": 1,
         "sell": 0,
         "strongSell": 1,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -279,15 +279,15 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0001,
       "analyst_recs": {
         "strongBuy": 3,
-        "buy": 9,
+        "buy": 10,
         "hold": 16,
-        "sell": 1,
+        "sell": 0,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
+        "buy_delta": 1,
+        "sell_delta": -1
       },
       "insider_recent_90d": {
         "buys": 7,
@@ -370,15 +370,15 @@ window.theBriefFundamentals = {
       "short_ratio": 1.36,
       "short_percent_of_float": 0.024500001,
       "analyst_recs": {
-        "strongBuy": 15,
-        "buy": 33,
-        "hold": 9,
+        "strongBuy": 16,
+        "buy": 32,
+        "hold": 10,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 1,
+        "buy_delta": -1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -412,12 +412,12 @@ window.theBriefFundamentals = {
       "short_ratio": 2.24,
       "short_percent_of_float": 0.0139,
       "analyst_recs": {
-        "strongBuy": 24,
-        "buy": 40,
-        "hold": 4,
+        "strongBuy": 23,
+        "buy": 41,
+        "hold": 3,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
         "buy_delta": 1,
@@ -459,7 +459,7 @@ window.theBriefFundamentals = {
         "hold": 21,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -496,12 +496,12 @@ window.theBriefFundamentals = {
       "short_ratio": 2.22,
       "short_percent_of_float": 0.0242,
       "analyst_recs": {
-        "strongBuy": 10,
-        "buy": 16,
+        "strongBuy": 11,
+        "buy": 15,
         "hold": 10,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
         "buy_delta": -1,
@@ -538,15 +538,15 @@ window.theBriefFundamentals = {
       "short_ratio": 3.35,
       "short_percent_of_float": 0.038,
       "analyst_recs": {
-        "strongBuy": 9,
-        "buy": 25,
+        "strongBuy": 11,
+        "buy": 24,
         "hold": 8,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-07-01"
+        "period": "2026-08-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": -1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
