@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-04T04:31:11.409582+00:00",
+  "generated_at": "2026-08-04T07:24:28.328042+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Billionaire Ken Griffin Just Saved Situational Awareness, But Here\u2019s What a Rescue Call Fr...\""
+      "move_reason": "News: \"Backblaze Inc (BLZE) (Q2 2026) Earnings Call Highlights: Record $335M Coreweave Deal and 3...\""
     },
     {
       "ticker": "PLTR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius (NBIS): The Neocloud Leader\""
+      "move_reason": "News: \"Better Neocloud Stock: CoreWeave vs. Nebius\""
     },
     {
       "ticker": "SOFI",
@@ -78,7 +78,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 494.6,
       "change_pct": 3.87,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -101,12 +101,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 206.8,
       "change_pct": 3.02,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Newell Brands Stock Keeps Rising\""
+      "move_reason": "News: \"Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Sup...\""
     },
     {
       "ticker": "PWR",
@@ -133,18 +133,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"FLNC Stock Plummets 52% in 6 Months: Should You Buy in the Dip?\""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 109.0,
-      "change_pct": 2.19,
-      "volume_ratio": 1.11,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
       "price": 296.8,
@@ -154,7 +142,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dead Cat Bounce > Last Chance - Weekly Blog # 952\""
+      "move_reason": "News: \"AI Investment Boosted U.S. Q2 Growth - But The Import Offset Runs Far Wider Than AI\""
     },
     {
       "ticker": "TTD",
@@ -178,6 +166,17 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 108.24,
+      "change_pct": 1.56,
+      "volume_ratio": 0.73,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -227,7 +226,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Sinks 6%, Nasdaq 100 Rallies On Iran Talks: Stock Market Today\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     },
     {
       "ticker": "XLU",
@@ -245,7 +244,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 162.55,
       "change_pct": -0.59,
-      "volume_ratio": 0.82,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -314,7 +313,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 494.6,
       "change_pct": 3.87,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -343,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Billionaire Ken Griffin Just Saved Situational Awareness, But Here\u2019s What a Rescue Call Fr...\""
+      "move_reason": "News: \"Backblaze Inc (BLZE) (Q2 2026) Earnings Call Highlights: Record $335M Coreweave Deal and 3...\""
     },
     {
       "ticker": "DG",
@@ -379,7 +378,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dead Cat Bounce > Last Chance - Weekly Blog # 952\""
+      "move_reason": "News: \"AI Investment Boosted U.S. Q2 Growth - But The Import Offset Runs Far Wider Than AI\""
     },
     {
       "ticker": "NBIS",
@@ -391,19 +390,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius (NBIS): The Neocloud Leader\""
+      "move_reason": "News: \"Better Neocloud Stock: CoreWeave vs. Nebius\""
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 206.8,
       "change_pct": 3.02,
-      "volume_ratio": 1.01,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Newell Brands Stock Keeps Rising\""
+      "move_reason": "News: \"Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Sup...\""
     },
     {
       "ticker": "OSCR",
@@ -475,7 +474,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Sinks 6%, Nasdaq 100 Rallies On Iran Talks: Stock Market Today\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     }
   ],
   "indices": [
@@ -597,7 +596,7 @@ window.theBriefMovers = {
       "name": "Health Care Select Sector",
       "price": 162.55,
       "change_pct": -0.59,
-      "volume_ratio": 0.82,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
