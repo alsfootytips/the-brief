@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-08-04T15:01:12.494921+00:00",
+  "generated_at": "2026-08-04T17:03:46.038097+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
-      "value": 4.64,
-      "change_pct_1d": -0.96,
-      "change_pct_1w": 0.41
+      "value": 4.63,
+      "change_pct_1d": -1.22,
+      "change_pct_1w": 0.15
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.34,
-      "change_pct_1d": -1.3,
-      "change_pct_1w": -0.21
+      "value": 4.33,
+      "change_pct_1d": -1.52,
+      "change_pct_1w": -0.44
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -21,42 +21,42 @@ window.theBriefMacro = {
     },
     "^TYX": {
       "name": "30Y Treasury yield",
-      "value": 5.2,
-      "change_pct_1d": -0.57,
-      "change_pct_1w": 1.13
+      "value": 5.19,
+      "change_pct_1d": -0.75,
+      "change_pct_1w": 0.95
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 15.86,
-      "change_pct_1d": 0.0,
-      "change_pct_1w": -23.23
+      "value": 16.22,
+      "change_pct_1d": 2.27,
+      "change_pct_1w": -21.49
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4140.0,
-      "change_pct_1d": 2.64,
-      "change_pct_1w": 2.61
+      "value": 4148.3,
+      "change_pct_1d": 2.84,
+      "change_pct_1w": 2.82
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 76.75,
-      "change_pct_1d": -4.47,
-      "change_pct_1w": -9.13
+      "value": 76.24,
+      "change_pct_1d": -5.1,
+      "change_pct_1w": -9.73
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 99.92,
-      "change_pct_1d": -0.04,
-      "change_pct_1w": -0.87
+      "value": 99.95,
+      "change_pct_1d": -0.01,
+      "change_pct_1w": -0.84
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 64078.6,
-      "change_pct_1d": 0.97,
-      "change_pct_1w": 2.01
+      "value": 63993.75,
+      "change_pct_1d": 0.84,
+      "change_pct_1w": 1.88
     },
     "_yield_curve": {
-      "spread_10y_13w_bps": 91,
+      "spread_10y_13w_bps": 90,
       "inverted": false
     }
   }
