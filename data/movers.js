@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-05T00:15:09.696577+00:00",
+  "generated_at": "2026-08-05T03:37:54.142671+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Enters Indonesia With Three New AI Data Centers\""
+      "move_reason": "News: \"CoreWeave (CRWV) Enters Indonesia As Its Valuation Story Faces A Fresh Test\""
     },
     {
       "ticker": "NBIS",
@@ -70,7 +70,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Parker-Hannifin a Buy Before It Reports Earnings Aug. 6?\""
+      "move_reason": "News: \"Why Microsoft Stock Surged 24.6% in July While the Market Was Flat\""
     },
     {
       "ticker": "QQQ",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Enters Indonesia With Three New AI Data Centers\""
+      "move_reason": "News: \"CoreWeave (CRWV) Enters Indonesia As Its Valuation Story Faces A Fresh Test\""
     },
     {
       "ticker": "DG",
@@ -359,8 +359,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1018.0,
-      "change_pct": 1.12,
+      "price": 1020.0,
+      "change_pct": 1.32,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Parker-Hannifin a Buy Before It Reports Earnings Aug. 6?\""
+      "move_reason": "News: \"Why Microsoft Stock Surged 24.6% in July While the Market Was Flat\""
     },
     {
       "ticker": "OSCR",
@@ -861,8 +861,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 1018.0,
-      "change_pct": 1.12,
+      "price": 1020.0,
+      "change_pct": 1.32,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",

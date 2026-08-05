@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-05T00:15:09.794597+00:00",
+  "generated_at": "2026-08-05T03:37:54.244020+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -506,9 +506,9 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 1018.0,
-      "current_pct": -3.23,
-      "change_pct_today": 1.12,
+      "current_price": 1020.0,
+      "current_pct": -3.04,
+      "change_pct_today": 1.32,
       "name": "GE Vernova",
       "news_count": 3,
       "days_elapsed": 84,
