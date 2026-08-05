@@ -1,47 +1,47 @@
 window.theBriefMacro = {
-  "generated_at": "2026-08-05T11:29:53.835456+00:00",
+  "generated_at": "2026-08-05T13:14:40.540122+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.63,
-      "change_pct_1d": -1.26,
-      "change_pct_1w": 0.11
+      "change_pct_1d": 0.0,
+      "change_pct_1w": -0.77
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.33,
-      "change_pct_1d": -1.52,
-      "change_pct_1w": -0.44
+      "value": 4.35,
+      "change_pct_1d": 0.28,
+      "change_pct_1w": -0.69
     },
     "^IRX": {
       "name": "13W T-Bill yield",
       "value": 3.73,
-      "change_pct_1d": 0.81,
-      "change_pct_1w": 1.97
+      "change_pct_1d": 0.0,
+      "change_pct_1w": 1.5
     },
     "^TYX": {
       "name": "30Y Treasury yield",
-      "value": 5.19,
-      "change_pct_1d": -0.78,
-      "change_pct_1w": 0.91
+      "value": 5.18,
+      "change_pct_1d": -0.29,
+      "change_pct_1w": -0.63
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 16.6,
-      "change_pct_1d": 0.61,
-      "change_pct_1w": -2.87
+      "value": 16.86,
+      "change_pct_1d": 2.18,
+      "change_pct_1w": -1.35
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4231.7,
-      "change_pct_1d": 3.33,
-      "change_pct_1w": 3.21
+      "value": 4254.1,
+      "change_pct_1d": 3.88,
+      "change_pct_1w": 3.76
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 76.09,
-      "change_pct_1d": 0.42,
-      "change_pct_1w": -8.97
+      "value": 75.86,
+      "change_pct_1d": 0.12,
+      "change_pct_1w": -9.25
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
@@ -51,9 +51,9 @@ window.theBriefMacro = {
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 64028.33,
-      "change_pct_1d": -0.04,
-      "change_pct_1w": 2.02
+      "value": 64066.01,
+      "change_pct_1d": 0.02,
+      "change_pct_1w": 2.08
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 90,
