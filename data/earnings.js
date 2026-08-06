@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-06T09:10:47+00:00",
+  "generated_at": "2026-08-06T11:33:37+00:00",
   "by_date": {
     "2026-08-11": [
       {
