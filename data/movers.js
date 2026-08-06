@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-06T00:05:50.216646+00:00",
+  "generated_at": "2026-08-06T03:37:02.299454+00:00",
   "gainers": [
     {
       "ticker": "NVDA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Walt Disney Company Q3 2026 Earnings Call Summary\""
+      "move_reason": "News: \"This Stock Keeps Raising Its Dividend No Matter What the Market Does -- and Wall Street Th...\""
     },
     {
       "ticker": "XLV",
@@ -154,18 +154,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Nebius Group (NBIS) Appoints Lindsey Irvine As CMO During Global Expansion\""
     },
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 381.01,
-      "change_pct": -3.67,
-      "volume_ratio": 1.0,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
-    },
-    {
       "ticker": "PLTR",
       "name": "PLTR",
       "price": 156.98,
@@ -202,6 +190,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 385.0,
+      "change_pct": -2.66,
+      "volume_ratio": 1.0,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+    },
+    {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 34.89,
@@ -235,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Booking vs. Carvana: Which Consumer Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"DoorDash, Inc. (DASH) Q2 Earnings Miss Estimates\""
     },
     {
       "ticker": "MSFT",
@@ -371,8 +371,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 299.99,
-      "change_pct": -0.57,
+      "price": 300.07,
+      "change_pct": -0.54,
       "volume_ratio": 0.79,
       "is_watchlist": true,
       "is_index": true,
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Walt Disney Company Q3 2026 Earnings Call Summary\""
+      "move_reason": "News: \"This Stock Keeps Raising Its Dividend No Matter What the Market Does -- and Wall Street Th...\""
     },
     {
       "ticker": "OSCR",
@@ -443,8 +443,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 381.01,
-      "change_pct": -3.67,
+      "price": 385.0,
+      "change_pct": -2.66,
       "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
@@ -462,7 +462,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Booking vs. Carvana: Which Consumer Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"DoorDash, Inc. (DASH) Q2 Earnings Miss Estimates\""
     },
     {
       "ticker": "XLE",
@@ -491,8 +491,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 299.99,
-      "change_pct": -0.57,
+      "price": 300.07,
+      "change_pct": -0.54,
       "volume_ratio": 0.79,
       "is_watchlist": true,
       "is_index": true,
@@ -696,18 +696,16 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 381.01,
-      "change_pct": -3.67,
-      "score": 8.0,
+      "price": 385.0,
+      "change_pct": -2.66,
+      "score": 7.0,
       "signals": [
-        "Moved -3.67% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 5.2 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved -3.67% \u2014 a 1.3\u03c3 move",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",

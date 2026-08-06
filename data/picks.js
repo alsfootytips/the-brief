@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-06T00:05:50.314650+00:00",
+  "generated_at": "2026-08-06T03:37:02.394940+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -95,9 +95,9 @@ window.theBriefPicks = {
       "status": "expired",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 299.99,
-      "current_pct": 6.24,
-      "change_pct_today": -0.57,
+      "current_price": 300.07,
+      "current_pct": 6.27,
+      "change_pct_today": -0.54,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 56,
@@ -810,9 +810,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 381.01,
-      "current_pct": -11.49,
-      "change_pct_today": -3.67,
+      "current_price": 385.0,
+      "current_pct": -10.57,
+      "change_pct_today": -2.66,
       "name": "Texas Pacific Land",
       "news_count": 3,
       "days_elapsed": 36,
