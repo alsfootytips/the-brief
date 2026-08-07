@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-07T05:24:06.138747+00:00",
+  "generated_at": "2026-08-07T06:46:15.537723+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later\""
+      "move_reason": "News: \"Is Broadcom the Best Chip Stock to Own Now? Maybe\""
     },
     {
       "ticker": "XLE",
@@ -105,7 +105,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Belo...\""
+      "move_reason": "News: \"SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans\""
     },
     {
       "ticker": "META",
@@ -155,7 +155,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Overlooked Stocks Poised to Follow Nebius Higher\""
+      "move_reason": "News: \"Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This...\""
     },
     {
       "ticker": "CRWV",
@@ -167,7 +167,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Overlooked Stocks Poised to Follow Nebius Higher\""
+      "move_reason": "News: \"Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither.\""
     },
     {
       "ticker": "TPL",
@@ -285,15 +285,16 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "price": 118.1,
-      "change_pct": -0.46,
-      "volume_ratio": 0.54,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 298.23,
+      "change_pct": -0.51,
+      "volume_ratio": 0.77,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Credit Says The Capital Goods Recession Story Doesn't Hold Up\""
     }
   ],
   "watchlist": [
@@ -307,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later\""
+      "move_reason": "News: \"Is Broadcom the Best Chip Stock to Own Now? Maybe\""
     },
     {
       "ticker": "APA",
@@ -331,7 +332,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Overlooked Stocks Poised to Follow Nebius Higher\""
+      "move_reason": "News: \"Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither.\""
     },
     {
       "ticker": "DG",
@@ -358,6 +359,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"GE Vernova (GEV) Signs Up 43 India Wind Turbines Under Make In India\""
     },
     {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 298.23,
+      "change_pct": -0.51,
+      "volume_ratio": 0.77,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Credit Says The Capital Goods Recession Story Doesn't Hold Up\""
+    },
+    {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 195.0,
@@ -367,7 +380,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Overlooked Stocks Poised to Follow Nebius Higher\""
+      "move_reason": "News: \"Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This...\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +392,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Belo...\""
+      "move_reason": "News: \"SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans\""
     },
     {
       "ticker": "OSCR",
@@ -464,6 +477,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
+    },
+    {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 298.23,
+      "change_pct": -0.51,
+      "volume_ratio": 0.77,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null
     },
     {
       "ticker": "QQQ",
@@ -611,7 +635,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.2 (cheap on absolute basis)",
+        "Forward P/E 8.1 (cheap on absolute basis)",
         "Down -26.4% over 3 months \u2014 deep drawdown",
         "-80.0% from 52-week high"
       ],
@@ -620,7 +644,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.2 (cheap on absolute basis)",
+        "Forward P/E 8.1 (cheap on absolute basis)",
         "Down -26.4% over 3 months \u2014 deep drawdown",
         "-80.0% from 52-week high"
       ],
