@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-07T00:40:35.071499+00:00",
+  "generated_at": "2026-08-07T03:39:17.847084+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia dominates AI chips, but BofA sees AMD closing in\""
+      "move_reason": "News: \"AMD Buys Toronto AI Chip Startup Taalas \u2014 Retail Says It\u2019s A Move To \u2018Compete More Directl...\""
     },
     {
       "ticker": "XLE",
@@ -105,7 +105,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Occidental Stock Is Up Today\""
+      "move_reason": "News: \"Virginia and Texas Are About to Become Cannabis Battlegrounds. Here's Which Stocks Are Pos...\""
     },
     {
       "ticker": "META",
@@ -308,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia dominates AI chips, but BofA sees AMD closing in\""
+      "move_reason": "News: \"AMD Buys Toronto AI Chip Startup Taalas \u2014 Retail Says It\u2019s A Move To \u2018Compete More Directl...\""
     },
     {
       "ticker": "APA",
@@ -392,7 +392,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Occidental Stock Is Up Today\""
+      "move_reason": "News: \"Virginia and Texas Are About to Become Cannabis Battlegrounds. Here's Which Stocks Are Pos...\""
     },
     {
       "ticker": "OSCR",
