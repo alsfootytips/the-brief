@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T19:54:32.084823+00:00",
+  "generated_at": "2026-08-08T20:30:57.551154+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?\""
+      "move_reason": "News: \"Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is AMD Stock a Buy on the Dip as AI Revenue Surges?\""
+      "move_reason": "News: \"AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?\""
     },
     {
       "ticker": "GEV",
@@ -223,6 +223,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"General Electric (GE) Sits 21% Above Fair Value Following Its Recent Pullback\""
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 57.6,
+      "change_pct": -0.96,
+      "volume_ratio": 0.74,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null,
+      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
     },
     {
       "ticker": "DG",
@@ -283,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is AMD Stock a Buy on the Dip as AI Revenue Surges?\""
+      "move_reason": "News: \"AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?\""
     },
     {
       "ticker": "APA",
@@ -367,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?\""
+      "move_reason": "News: \"Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?\""
     },
     {
       "ticker": "OSCR",
@@ -428,6 +440,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 57.6,
+      "change_pct": -0.96,
+      "volume_ratio": 0.74,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null,
+      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
     }
   ],
   "indices": [
@@ -573,6 +597,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 57.6,
+      "change_pct": -0.96,
+      "volume_ratio": 0.74,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null
     }
   ],
   "watchlist_radar": [
@@ -889,6 +924,17 @@ window.theBriefMovers = {
       "change_pct": 1.32,
       "price": 52.86,
       "watchlist_members": []
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "change_pct": -0.96,
+      "price": 57.6,
+      "watchlist_members": [
+        "APA",
+        "TPL",
+        "OXY"
+      ]
     },
     {
       "ticker": "XLV",

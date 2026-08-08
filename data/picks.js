@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-08T19:54:32.161928+00:00",
+  "generated_at": "2026-08-08T20:30:57.632837+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -165,9 +165,9 @@ window.theBriefPicks = {
       "status": "expired",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 58.3,
-      "current_pct": 1.0,
-      "change_pct_today": 1.73,
+      "current_price": 57.6,
+      "current_pct": -0.21,
+      "change_pct_today": -0.96,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 28,
