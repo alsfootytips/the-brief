@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T11:06:29.417147+00:00",
+  "generated_at": "2026-08-08T11:43:09.532735+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:06:29.414166+00:00",
+      "timestamp": "2026-08-08T11:43:09.529860+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:06:29.414163+00:00",
+      "timestamp": "2026-08-08T11:43:09.529857+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T11:06:29.414159+00:00",
+      "timestamp": "2026-08-08T11:43:09.529854+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:06:29.414155+00:00",
+      "timestamp": "2026-08-08T11:43:09.529850+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:06:29.414143+00:00",
+      "timestamp": "2026-08-08T11:43:09.529839+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,32 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:06:29.414135+00:00",
+      "timestamp": "2026-08-08T11:43:09.529830+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s why Wendy\u2019s is losing the burger wars",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paycom stock delivers 71% return after Fair Value signal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/paycom-stock-delivers-71-return-after-fair-value-signal-93CH-4847647",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:09:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -232,17 +254,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citadel Securities\u2019 Rubner says it\u2019s time to start buying gold again",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T09:30:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -649,17 +660,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:30:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Here\u2019s How Much Traders See CoreWeave Stock Moving After Earnings",
       "source": "Yahoo",
@@ -995,9 +995,64 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "US equity funds see outflows as investors take profits ahead of jobs data",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-see-outflows-101228432.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:12:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'The market has voted': Michael Burry says Big Tech's AI spending is dragging down the S&P 500 \u2014 while Apple wins",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-voted-michael-burry-says-101000304.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Allianz Posts Lower Net Profit Amid Portfolio Reshuffle",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/business/earnings/allianz-operating-profit-hits-record-high-on-asset-management-growth-fd9a0931?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:04:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Best CD rates today, Friday, August 7, 2026: Up to 4.15% APY return available to boost savings",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-7-2026-up-to-415-apy-return-available-to-boost-savings-100000286.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Friday, August 7, 2026: Rates fall ahead of jobs report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-7-2026-rates-fall-ahead-of-jobs-report-100000207.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -1011,17 +1066,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
       "is_watchlist": false,
       "timestamp": "2026-08-07T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wendy\u2019s CEO moving with \u2018urgency\u2019 to revamp brand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/wendy-ceo-moving-urgency-revamp-093411025.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T09:34:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1063,55 +1107,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I'm 58 With $1.7 Million in My 401(k). Should I Convert 10% Annually to a Roth to Reduce Taxes and RMDs?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/im-58-1-7-million-145319148.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Amid cost of living stress, many parents are supporting children well into adulthood",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
       "is_watchlist": false,
       "timestamp": "2026-08-07T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-081652466.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T08:16:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What\u2019s Next For Caris Life Sciences (CAI) After 21% Jump?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/next-caris-life-sciences-cai-080320099.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T08:03:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Wall Street Analysts Bullish on Walt Disney Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-walt-075314479.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T07:53:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
