@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T09:49:24.257689+00:00",
+  "generated_at": "2026-08-08T10:33:13.360022+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business\""
+      "move_reason": "News: \"$10,000 in Axon Stock a Decade Ago Would Be Worth About $329,000 Today. The Stock Is Down ...\""
     },
     {
       "ticker": "PWR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"U.S. Government Borrows $800B In 3 Months\""
+      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
     },
     {
       "ticker": "QQQ",
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Hits Record As Jobs Shock Sinks Rate-Hike Bets: Stock Market Today\""
+      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
     },
     {
       "ticker": "DG",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"U.S. Government Borrows $800B In 3 Months\""
+      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
     },
     {
       "ticker": "NBIS",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business\""
+      "move_reason": "News: \"$10,000 in Axon Stock a Decade Ago Would Be Worth About $329,000 Today. The Stock Is Down ...\""
     },
     {
       "ticker": "OSCR",
@@ -451,7 +451,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Hits Record As Jobs Shock Sinks Rate-Hike Bets: Stock Market Today\""
+      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
     }
   ],
   "indices": [
