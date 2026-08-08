@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T07:16:00.683728+00:00",
+  "generated_at": "2026-08-08T08:03:12.001137+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T07:16:00.680711+00:00",
+      "timestamp": "2026-08-08T08:03:11.998341+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T07:16:00.680709+00:00",
+      "timestamp": "2026-08-08T08:03:11.998338+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T07:16:00.680705+00:00",
+      "timestamp": "2026-08-08T08:03:11.998335+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T07:16:00.680702+00:00",
+      "timestamp": "2026-08-08T08:03:11.998331+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T07:16:00.680690+00:00",
+      "timestamp": "2026-08-08T08:03:11.998320+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,65 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T07:16:00.680681+00:00",
+      "timestamp": "2026-08-08T08:03:11.998311+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T07:36:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kyiv hit as Ukraine targets Russian refineries and shadow fleet",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/kyiv-hit-as-ukraine-targets-russian-refineries-and-shadow-fleet-4847621",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T07:19:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin stalls at $65,156 resistance as ADX warns of bull trap: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T07:02:11+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "J&J CEO Duato sells $12.5m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/jj-ceo-duato-sells-125m-in-company-stock-93CH-4847620",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T07:01:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Farmers & Merchants Bancorp director sells $204,960 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/farmers--merchants-bancorp-director-sells-204960-in-stock-93CH-4847619",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T07:01:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -130,61 +185,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T06:12:20+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Kaynes Technology posts strong Q1 2027 growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kaynes-technology-posts-strong-q1-2027-growth-93CH-4847615",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T06:04:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK officials fear Burnham\u2019s fiscal flexibility could unsettle bond markets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/uk-officials-fear-burnhams-fiscal-flexibility-could-unsettle-bond-markets-4847614",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T06:02:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Acadia CFO Mark Schneyer sells $587k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/acadia-cfo-mark-schneyer-sells-587k-in-company-stock-93CH-4847613",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T06:01:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SentinelOne CEO Tomer Weingarten sells $1.08 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sentinelone-ceo-tomer-weingarten-sells-108-million-in-stock-93CH-4847612",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T06:01:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BJ\u2019s restaurants EVP & general counsel Miller sells $916k shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/bjs-restaurants-evp--general-counsel-miller-sells-916k-shares-93CH-4847611",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T05:46:08+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -650,6 +650,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:05:14+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
@@ -808,17 +820,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A huge day and week for Corning as the S&P 500 approaches another record high",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T16:59:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1052,33 +1053,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Petrobras Q2 Profit Nearly Doubles as Oil Production Hits Record",
+      "headline": "Collegium Pharmaceutical, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/petrobras-q2-profit-nearly-doubles-024500571.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/collegium-pharmaceutical-inc-q2-2026-032750728.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T02:45:00+00:00",
+      "timestamp": "2026-08-07T03:27:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "First Advantage Corporation Q2 2026 Earnings Call Summary",
+      "headline": "Century Aluminum Company Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-advantage-corporation-q2-2026-023625790.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/century-aluminum-company-q2-2026-032510853.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T02:36:25+00:00",
+      "timestamp": "2026-08-07T03:25:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "ESAB Corporation Q2 2026 Earnings Call Summary",
+      "headline": "Instacart (Maplebear Inc.) Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/esab-corporation-q2-2026-earnings-023539237.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/instacart-maplebear-inc-q2-2026-031553514.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T02:35:39+00:00",
+      "timestamp": "2026-08-07T03:15:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BlackSky Technology Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blacksky-technology-inc-q2-2026-030438354.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T03:04:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Where to Invest in AI in 2026: A Guide for Advisors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/where-invest-ai-2026-guide-030049481.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T03:00:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1090,28 +1113,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T02:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BP to Take Full Control of Trinidad\u2019s Calypso Gas Project",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/bp-full-control-trinidad-calypso-020000557.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T02:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insmed (INSM) Soars 33.86% as Brinsupri Drives Fourfold Growth. Here\u2019s What to Watch Next",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/insmed-insm-soars-33-86-014950291.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T01:49:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
