@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T15:05:01.093192+00:00",
+  "generated_at": "2026-08-08T15:46:26.608851+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Berkshire Hathaway earnings, CPI inflation data, & more: What to Watch\""
+      "move_reason": "News: \"Cisco, Tencent Headline Muted Earnings Week\""
     },
     {
       "ticker": "OSCR",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Berkshire Hathaway earnings, CPI inflation data, & more: What to Watch\""
+      "move_reason": "News: \"Cisco, Tencent Headline Muted Earnings Week\""
     },
     {
       "ticker": "DG",
