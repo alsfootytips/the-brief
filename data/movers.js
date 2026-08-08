@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T06:07:51.159762+00:00",
+  "generated_at": "2026-08-08T07:16:00.675116+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year\""
+      "move_reason": "News: \"Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expe...\""
+      "move_reason": "News: \"Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expe...\""
+      "move_reason": "News: \"Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.\""
     },
     {
       "ticker": "APA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year\""
+      "move_reason": "News: \"Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.\""
     },
     {
       "ticker": "OSCR",

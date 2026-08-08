@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T06:07:51.167699+00:00",
+  "generated_at": "2026-08-08T07:16:00.683728+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T06:07:51.164793+00:00",
+      "timestamp": "2026-08-08T07:16:00.680711+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T06:07:51.164790+00:00",
+      "timestamp": "2026-08-08T07:16:00.680709+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T06:07:51.164787+00:00",
+      "timestamp": "2026-08-08T07:16:00.680705+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T06:07:51.164784+00:00",
+      "timestamp": "2026-08-08T07:16:00.680702+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T06:07:51.164773+00:00",
+      "timestamp": "2026-08-08T07:16:00.680690+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,87 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T06:07:51.164764+00:00",
+      "timestamp": "2026-08-08T07:16:00.680681+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Klesch becomes Germany\u2019s second-largest oil refiner after BP deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/klesch-becomes-germanys-secondlargest-oil-refiner-after-bp-deal-4847618",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T06:51:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kaynes Q1 FY27 slides: 40% revenue growth, margin pressure mounts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/kaynes-q1-fy27-slides-40-revenue-growth-margin-pressure-mounts-93CH-4847617",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T06:20:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Cera Sanitaryware Q1 2027 revenue rises 19.5% as margins slip",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cera-sanitaryware-q1-2027-revenue-rises-195-as-margins-slip-93CH-4847616",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T06:12:20+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Kaynes Technology posts strong Q1 2027 growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kaynes-technology-posts-strong-q1-2027-growth-93CH-4847615",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T06:04:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK officials fear Burnham\u2019s fiscal flexibility could unsettle bond markets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-officials-fear-burnhams-fiscal-flexibility-could-unsettle-bond-markets-4847614",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T06:02:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Acadia CFO Mark Schneyer sells $587k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/acadia-cfo-mark-schneyer-sells-587k-in-company-stock-93CH-4847613",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T06:01:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SentinelOne CEO Tomer Weingarten sells $1.08 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sentinelone-ceo-tomer-weingarten-sells-108-million-in-stock-93CH-4847612",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T06:01:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -113,79 +190,25 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Arista Networks CEO Jayshree Ullal sells $66.7 million in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-667-million-in-common-stock-93CH-4847610",
+      "headline": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T05:31:10+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-08T05:21:12+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Delaware court blocks Verisk\u2019s exit from $2.35 billion AccuLynx deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/delaware-court-blocks-verisks-exit-from-235-billion-acculynx-deal-4847609",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T05:19:35+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dianthus Therapeutics CEO Marino Garcia sells $17.9m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dianthus-therapeutics-ceo-marino-garcia-sells-179m-in-shares-93CH-4847608",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T05:16:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australia unions push on with strike at BHP\u2019s Port Hedland iron ore operations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/twoday-strike-begins-at-bhps-port-hedland-iron-ore-operations-4847364",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T04:54:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Situational Awareness invested $500 million in chip startup Source Foundry",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/situational-awareness-invested-500-million-in-chip-startup-source-foundry-4847607",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T04:53:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T04:36:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Terreno earnings beat by $0.17, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/terreno-earnings-beat-by-017-revenue-fell-short-of-estimates-4847605",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T04:16:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ab9497c3799555b2d3641f7fca734cbac3fdf3c4635262aaa992411f8783341",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T05:20:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -232,18 +255,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T01:44:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5eff1867626215c2aaac9e392c2cb9aa22f6624b97a796ca7be766df246bb647",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T01:42:11+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -334,6 +345,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-07T23:02:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6288fadf5aeb7b3e2fd27973a4574bb402e12cb6f2a5ca1105a143af2d4c59b",
+      "is_watchlist": true,
+      "timestamp": "2026-08-07T23:00:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -684,17 +707,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T19:21:22+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkZHc1FWRXNSWG5BdjNhZ0dqOEdNUFUtUl80NTNFYkFrM2RrLVBiSXlOOFdaek5hcEhIMl84OVJLZnVDMzNodFBScmliaFdNYUpaN21uQ3V3VmQ2V1p3MGZ0QUozdTJQb09EcTJ1VERWc3E0d1Z5dkNvalFEcEVSQzRQejkwZmdybVJTVDJPbk4wMS1hWFBOaXJKaTE4MUxHNS1STUFxTzN4S0ZDSmtZOXFhdUZaa0d1?oc=5",
@@ -738,18 +750,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-07T18:34:17+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)\u2019s Shares Are Finally Rising",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51f970c0bb3502d4e9e32836ebc0af363e9a7146efc85c552430f629dcb32633",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T18:24:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1050,6 +1050,72 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Petrobras Q2 Profit Nearly Doubles as Oil Production Hits Record",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/petrobras-q2-profit-nearly-doubles-024500571.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T02:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Advantage Corporation Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/first-advantage-corporation-q2-2026-023625790.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T02:36:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ESAB Corporation Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/esab-corporation-q2-2026-earnings-023539237.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T02:35:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Veteran manager buys 2 ETFs as market shifts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T02:03:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BP to Take Full Control of Trinidad\u2019s Calypso Gas Project",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/bp-full-control-trinidad-calypso-020000557.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T02:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Insmed (INSM) Soars 33.86% as Brinsupri Drives Fourfold Growth. Here\u2019s What to Watch Next",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/insmed-insm-soars-33-86-014950291.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T01:49:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -1121,72 +1187,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gas Shortages and High Prices Derail Southeast Asia\u2019s Power Buildout",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/gas-shortages-high-prices-derail-230000735.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T23:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuveen Churchill Direct Lending Corp. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nuveen-churchill-direct-lending-corp-225357646.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T22:53:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bankrupt Mexican fast-food chain operator closes 47 locations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/bankrupt-mexican-restaurant-chain-franchisee-224800587.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T22:48:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Haemonetics Corporation Q1 2027 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/haemonetics-corporation-q1-2027-earnings-224637345.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T22:46:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ligand Pharmaceuticals Incorporated Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/ligand-pharmaceuticals-incorporated-q2-2026-224040448.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T22:40:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Acushnet Holdings Corp. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/acushnet-holdings-corp-q2-2026-223830339.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T22:38:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
