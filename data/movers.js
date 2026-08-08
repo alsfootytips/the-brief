@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T08:03:11.992858+00:00",
+  "generated_at": "2026-08-08T09:00:50.012132+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.\""
+      "move_reason": "News: \"CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business\""
     },
     {
       "ticker": "PWR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Employment\""
+      "move_reason": "News: \"Weekly Commentary: Bessent's Gambit\""
     },
     {
       "ticker": "QQQ",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Employment\""
+      "move_reason": "News: \"Weekly Commentary: Bessent's Gambit\""
     },
     {
       "ticker": "NBIS",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.\""
+      "move_reason": "News: \"CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business\""
     },
     {
       "ticker": "OSCR",
@@ -622,7 +622,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.5 (cheap on absolute basis)",
+        "Forward P/E 10.2 (cheap on absolute basis)",
         "Down -41.2% over 3 months \u2014 deep drawdown",
         "-75.1% from 52-week high"
       ],
@@ -631,7 +631,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 8.5 (cheap on absolute basis)",
+        "Forward P/E 10.2 (cheap on absolute basis)",
         "Down -41.2% over 3 months \u2014 deep drawdown",
         "-75.1% from 52-week high"
       ],

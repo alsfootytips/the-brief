@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T08:03:12.001137+00:00",
+  "generated_at": "2026-08-08T09:00:50.017506+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T08:03:11.998341+00:00",
+      "timestamp": "2026-08-08T09:00:50.015361+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T08:03:11.998338+00:00",
+      "timestamp": "2026-08-08T09:00:50.015359+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T08:03:11.998335+00:00",
+      "timestamp": "2026-08-08T09:00:50.015357+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T08:03:11.998331+00:00",
+      "timestamp": "2026-08-08T09:00:50.015355+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T08:03:11.998320+00:00",
+      "timestamp": "2026-08-08T09:00:50.015347+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T08:03:11.998311+00:00",
+      "timestamp": "2026-08-08T09:00:50.015340+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -106,9 +106,68 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T07:36:28+00:00",
+      "timestamp": "2026-08-08T08:30:30+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-senate-passes-shortterm-funding-bill-to-avert-federal-shutdown-before-election-4847626",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T08:06:45+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Agilysys CEO Ramesh Srinivasan sells $21.3m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/agilysys-ceo-ramesh-srinivasan-sells-213m-in-company-stock-93CH-4847625",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T08:01:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA expects Gulf states to back Bahrain amid geopolitical uncertainty",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bofa-expects-gulf-states-to-back-bahrain-amid-geopolitical-uncertainty-4847623",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T07:59:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Peoples Bancorp director Abernethy sells $40,211 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/peoples-bancorp-director-abernethy-sells-40211-in-common-stock-93CH-4847622",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T07:47:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": "NVDA",
+      "headline": "CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c046524d9a637926249df7db759998a0ea6e769bff6a8a656eab6372394e155",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T07:25:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -145,47 +204,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Farmers & Merchants Bancorp director sells $204,960 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/farmers--merchants-bancorp-director-sells-204960-in-stock-93CH-4847619",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T07:01:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Klesch becomes Germany\u2019s second-largest oil refiner after BP deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/klesch-becomes-germanys-secondlargest-oil-refiner-after-bp-deal-4847618",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T06:51:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kaynes Q1 FY27 slides: 40% revenue growth, margin pressure mounts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/kaynes-q1-fy27-slides-40-revenue-growth-margin-pressure-mounts-93CH-4847617",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T06:20:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Cera Sanitaryware Q1 2027 revenue rises 19.5% as margins slip",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cera-sanitaryware-q1-2027-revenue-rises-195-as-margins-slip-93CH-4847616",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T06:12:20+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Situational Awareness invested $500 million in chip startup Source Foundry",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f4075162f60e6e3789b813b99f5ce96fb58dbedaf9219a7dfca2a8163e533e8",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T05:23:25+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -212,12 +239,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26bf896f4a970341a871ecea8e27b876757aa125a00b5b60aa11df304669b3ae",
+      "ticker": "IWM",
+      "headline": "Weekly Commentary: Bessent's Gambit",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8291333cd2234a62a8664ae452b99d91ce8abe685b7c91e6daef98a454b01d7",
       "is_watchlist": true,
-      "timestamp": "2026-08-08T03:45:59+00:00",
+      "timestamp": "2026-08-08T04:30:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Household Survey Shows 1.8M Jobs Lost In 2026 So Far",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1bcb8de7a4181ddf01a1bca638fb769890f1a338ae3d029aecdb4e41f18c5e2",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T04:10:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -232,18 +271,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T02:24:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Airbnb Just Hit a Four-Year High. Is It a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=356da43fd75650c017ed6dc1fae9cdf611c0a0a6c82fe9d6b45cca146c2e36c0",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T02:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -453,6 +480,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Houthis strike Marib again as UN warns Yemen nearing wider conflict - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlRnMTdUcUhvNmFDVTdUd2JoQzVrRGZ5SHpDNTB1VGNzd0h1dnpCNUszSEJWRlRlbWpUQmtKOUM2WklINTcwcGh6M0NucGU2d19yaUlRZDdPcDZCcG91RE9oYWl6U3ZGTWV3dlpJa3IwNll2blJUMXBVTjRUbkwwU2NVUmVpbkw2XzRpV0RMUDlMQy1JM3dpNVEwcEJkMVlrR1BxVVhlM3JIQ05YVDJaR0lVQWpUYkYybEE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:14:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "AMD",
       "headline": "A Volatile Week for Tech Revealed New Stock Narratives\u2014and 1 Bargain",
       "source": "Yahoo",
@@ -506,18 +544,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6c9ea2e1a17921403a3c80370ec720c7aef132c0fbd33970957a3acbe9c0312a",
       "is_watchlist": true,
       "timestamp": "2026-08-07T20:53:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Employment Report: 23K Jobs Shed In July, Worse Than Expected",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=50af67297f7778befdd11fe2e687fa62ce92a85b243cbf59ebe6ac75452f9846",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T20:45:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -646,18 +672,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:05:14+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -824,23 +838,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Falling long-term unemployment isn't good news, economists say \u2014 what it means for jobseekers",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/07/long-term-unemployment-job-market-workers-labor-force.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T17:48:28+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T16:55:42+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chesky says Airbnb will spend \u2018a lot more\u2019 on AI as earnings beat and stock surges 15%",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T16:28:54+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -876,18 +890,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-07T16:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "I've Never Had Such A Low Conviction In A Bull Run",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2da45380418bcb55d765119a57b66fbf4f107515de13cdd251eb79445c3a6f87",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T16:02:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1053,66 +1055,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Collegium Pharmaceutical, Inc. Q2 2026 Earnings Call Summary",
+      "headline": "INmune Bio, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/collegium-pharmaceutical-inc-q2-2026-032750728.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/inmune-bio-inc-q2-2026-043719931.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T03:27:50+00:00",
+      "timestamp": "2026-08-07T04:37:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Century Aluminum Company Q2 2026 Earnings Call Summary",
+      "headline": "Howmet Aerospace Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/century-aluminum-company-q2-2026-032510853.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-inc-q2-2026-043159358.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T03:25:10+00:00",
+      "timestamp": "2026-08-07T04:31:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Instacart (Maplebear Inc.) Q2 2026 Earnings Call Summary",
+      "headline": "Earnings Have Been Excellent. Why Stocks Aren\u2019t Showing It.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/instacart-maplebear-inc-q2-2026-031553514.html",
+      "url": "https://www.barrons.com/articles/earnings-report-stock-price-sp500-643a3249?siteid=yhoof2&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T03:15:53+00:00",
+      "timestamp": "2026-08-07T04:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "BlackSky Technology Inc. Q2 2026 Earnings Call Summary",
+      "headline": "BlackRock TCP Capital Corp. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blacksky-technology-inc-q2-2026-030438354.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-tcp-capital-corp-q2-042036301.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T03:04:38+00:00",
+      "timestamp": "2026-08-07T04:20:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Where to Invest in AI in 2026: A Guide for Advisors",
+      "headline": "TIC Solutions, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/where-invest-ai-2026-guide-030049481.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tic-solutions-inc-q2-2026-042031139.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T03:00:49+00:00",
+      "timestamp": "2026-08-07T04:20:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Veteran manager buys 2 ETFs as market shifts",
+      "headline": "Ginkgo Bioworks Holdings, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/ginkgo-bioworks-holdings-inc-q2-041956739.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T02:03:00+00:00",
+      "timestamp": "2026-08-07T04:19:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
