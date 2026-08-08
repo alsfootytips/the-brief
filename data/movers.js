@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T12:04:31.995027+00:00",
+  "generated_at": "2026-08-08T13:12:58.598476+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
+      "move_reason": "News: \"Global Outlook Marred By Further Slide In Emerging Market Business Confidence\""
     },
     {
       "ticker": "QQQ",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.\""
+      "move_reason": "News: \"AMD's Data Center Business Is Skyrocketing. The Stock Is Falling. Here's Why.\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.\""
+      "move_reason": "News: \"AMD's Data Center Business Is Skyrocketing. The Stock Is Falling. Here's Why.\""
     },
     {
       "ticker": "APA",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
+      "move_reason": "News: \"Global Outlook Marred By Further Slide In Emerging Market Business Confidence\""
     },
     {
       "ticker": "NBIS",
