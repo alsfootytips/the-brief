@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T09:00:50.012132+00:00",
+  "generated_at": "2026-08-08T09:49:24.257689+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Bessent's Gambit\""
+      "move_reason": "News: \"U.S. Government Borrows $800B In 3 Months\""
     },
     {
       "ticker": "QQQ",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Bessent's Gambit\""
+      "move_reason": "News: \"U.S. Government Borrows $800B In 3 Months\""
     },
     {
       "ticker": "NBIS",

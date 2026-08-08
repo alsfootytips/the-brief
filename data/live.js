@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T09:00:50.017506+00:00",
+  "generated_at": "2026-08-08T09:49:24.266330+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T09:00:50.015361+00:00",
+      "timestamp": "2026-08-08T09:49:24.263263+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T09:00:50.015359+00:00",
+      "timestamp": "2026-08-08T09:49:24.263260+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T09:00:50.015357+00:00",
+      "timestamp": "2026-08-08T09:49:24.263257+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T09:00:50.015355+00:00",
+      "timestamp": "2026-08-08T09:49:24.263253+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T09:00:50.015347+00:00",
+      "timestamp": "2026-08-08T09:49:24.263240+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,76 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T09:00:50.015340+00:00",
+      "timestamp": "2026-08-08T09:49:24.263232+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citadel Securities\u2019 Rubner says it\u2019s time to start buying gold again",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T09:30:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Maharashtra Seamless Q1 FY27 slides: profit surges on treasury gains",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/maharashtra-seamless-q1-fy27-slides-profit-surges-on-treasury-gains-93CH-4847632",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T09:17:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "India warned Diageo that its whisky\u2019s \u2019matured in American oak casks\u2019 claim was misleading",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/india-warned-diageo-that-its-whiskys-matured-in-american-oak-casks-claim-was-misleading-4847630",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T09:06:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Maharashtra Seamless Q1 2027 profit rises on treasury gains",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-maharashtra-seamless-q1-2027-profit-rises-on-treasury-gains-93CH-4847629",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T09:03:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin rises toward $65,000 as fresh security risks hit infrastructure",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T08:51:16+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Senate Republicans narrowly confirm Todd Blanche as attorney general",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/senate-republicans-narrowly-confirm-todd-blanche-as-attorney-general-4847627",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T08:48:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -122,39 +188,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Agilysys CEO Ramesh Srinivasan sells $21.3m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/agilysys-ceo-ramesh-srinivasan-sells-213m-in-company-stock-93CH-4847625",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T08:01:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BofA expects Gulf states to back Bahrain amid geopolitical uncertainty",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bofa-expects-gulf-states-to-back-bahrain-amid-geopolitical-uncertainty-4847623",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T07:59:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Peoples Bancorp director Abernethy sells $40,211 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/peoples-bancorp-director-abernethy-sells-40211-in-common-stock-93CH-4847622",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T07:47:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Musk"
@@ -168,39 +201,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kyiv hit as Ukraine targets Russian refineries and shadow fleet",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/kyiv-hit-as-ukraine-targets-russian-refineries-and-shadow-fleet-4847621",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T07:19:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin stalls at $65,156 resistance as ADX warns of bull trap: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T07:02:11+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "J&J CEO Duato sells $12.5m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/jj-ceo-duato-sells-125m-in-company-stock-93CH-4847620",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T07:01:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -235,6 +235,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T05:20:00+00:00",
       "relevance_score": 3.5,
       "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "U.S. Government Borrows $800B In 3 Months",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8447d08f0a574e1a4b10a8d74795610c99d531298a181817a04175d1d24086e",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T05:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
@@ -293,18 +305,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T00:54:52+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The Big Four Recession Indicators: Employment",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b9a8bf6c0a7eee1659d9a81386ef1053737cd820ff4775df96b2e4b80b680315",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T00:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1055,68 +1055,58 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "INmune Bio, Inc. Q2 2026 Earnings Call Summary",
+      "headline": "I Have $2.2 Million Invested and Pay a 1% Advisor Fee. Is That Too High?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/inmune-bio-inc-q2-2026-043719931.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-2-million-invested-advisor-134203276.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T04:37:19+00:00",
+      "timestamp": "2026-08-07T07:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Howmet Aerospace Inc. Q2 2026 Earnings Call Summary",
+      "headline": "If You Buy Gold to Protect Against Inflation, You\u2019re Doing It Wrong",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-inc-q2-2026-043159358.html",
+      "url": "https://www.barrons.com/articles/gold-protect-against-inflation-wrong-05b55487?siteid=yhoof2&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T04:31:59+00:00",
+      "timestamp": "2026-08-07T06:45:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-us-stocks-062902244.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T06:29:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lee Enterprises, Incorporated Q3 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lee-enterprises-incorporated-q3-2026-052441836.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T05:24:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings Have Been Excellent. Why Stocks Aren\u2019t Showing It.",
+      "headline": "Analysis-Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance",
       "source": "Yahoo Finance",
-      "url": "https://www.barrons.com/articles/earnings-report-stock-price-sp500-643a3249?siteid=yhoof2&yptr=yahoo",
+      "url": "https://finance.yahoo.com/economy/policy/articles/analysis-jobs-report-offer-fresh-050406143.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T04:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BlackRock TCP Capital Corp. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-tcp-capital-corp-q2-042036301.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T04:20:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TIC Solutions, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tic-solutions-inc-q2-2026-042031139.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T04:20:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ginkgo Bioworks Holdings, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/ginkgo-bioworks-holdings-inc-q2-041956739.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T04:19:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-08-07T05:11:06+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -1193,17 +1183,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Goldman Sachs sees 168% upside in this controversial power stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/goldman-sachs-sees-168-upside-213300285.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T21:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
       "source": "ChartMill",
@@ -1225,6 +1204,21 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Dimon"
+      ],
+      "ticker": null,
+      "headline": "Jamie Dimon says AI build-out could help unleash 'skunk at the party' for the world economy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/jamie-dimon-says-ai-build-out-could-help-unleash-skunk-at-the-party-for-the-world-economy-131707272.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-06T13:17:07+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1261,6 +1255,17 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX stock got cut in half, but retail investors keep piling in: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-got-cut-in-half-but-retail-investors-keep-piling-in-chart-of-the-day-100000031.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "filing",
