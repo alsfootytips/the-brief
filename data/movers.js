@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T15:46:26.608851+00:00",
+  "generated_at": "2026-08-08T16:33:36.647488+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -...\""
+      "move_reason": "News: \"Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth...\""
+      "move_reason": "News: \"Is AMD Stock a Buy on the Dip as AI Revenue Surges?\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth...\""
+      "move_reason": "News: \"Is AMD Stock a Buy on the Dip as AI Revenue Surges?\""
     },
     {
       "ticker": "APA",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett, Cisco, Lumentum Due\""
+      "move_reason": "News: \"Nebius Stock Plunged 31% Last Month. Is It Time to Buy?\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -...\""
+      "move_reason": "News: \"Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock\""
     },
     {
       "ticker": "OSCR",
