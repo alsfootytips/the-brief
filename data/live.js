@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T16:33:36.652902+00:00",
+  "generated_at": "2026-08-08T17:12:15.324737+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T16:33:36.650860+00:00",
+      "timestamp": "2026-08-08T17:12:15.321745+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T16:33:36.650859+00:00",
+      "timestamp": "2026-08-08T17:12:15.321743+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T16:33:36.650857+00:00",
+      "timestamp": "2026-08-08T17:12:15.321739+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T16:33:36.650854+00:00",
+      "timestamp": "2026-08-08T17:12:15.321735+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T16:33:36.650846+00:00",
+      "timestamp": "2026-08-08T17:12:15.321724+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T16:33:36.650840+00:00",
+      "timestamp": "2026-08-08T17:12:15.321716+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -102,11 +102,99 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A Live Nation Insider's Latest Transaction With Shares Up 22%: Here's What to Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/live-nation-insiders-latest-transaction-161619519.html",
+      "headline": "Social Security\u2019s funding crisis is the elephant in the room. But don\u2019t ignore the mouse.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T16:16:19+00:00",
+      "timestamp": "2026-08-08T17:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s when Elon Musk\u2019s Starlink internet is worth the steep monthly price \u2014 and $350 startup cost",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:56:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alerian MLP ETF vs First Trust Energy Infrastructure Fund: Which Energy ETF is the Better Buy in 2026?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/alerian-mlp-etf-vs-first-165101730.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:51:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "8 out of 12 S&P 500 utilities stocks beat EPS estimates this week: Earnings Scorecard",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629245-8-out-of-12-sp-500-utilities-stocks-beat-eps-estimates-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing \u2013 Quarterly Update Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:41:43+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests \u2013 Quarterly Update Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:39:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Performance raises are back for 2027, but increases will be modest",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:35:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My adult kids are big earners. Should I do a Roth conversion now so they aren\u2019t taxed as much on their inheritance?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-adult-kids-are-big-earners-should-i-do-a-roth-conversion-now-so-they-arent-taxed-as-much-on-their-inheritance-c136adae?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:34:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -364,17 +452,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia eyeing up to $3B investment in Blackstone-backed power firm: The Information",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629648-nvidia-to-fund-3b-in-blackstone-backed-power-firm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:52:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/news/berkshire-hathaway-earnings-buybacks-cash-hoard-warren-buffett/?src=A00220&yptr=yahoo",
@@ -398,28 +475,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:48:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paying for pricey daycare? Here\u2019s how to keep saving for retirement at the same time.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-parents-can-keep-saving-for-retirement-during-the-expensive-childcare-years-e06b3abe?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:46:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
@@ -437,17 +492,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T14:33:50+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:30:00+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -475,28 +519,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Changing how Medicare pays for hospice care could save the U.S. $7.6 billion a year \u2014 but at what cost to patients?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/changing-how-medicare-pays-for-hospice-care-could-save-7-6-billion-a-year-but-at-what-cost-to-patients-270eb608?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Favors Fortinet (FTNT) Alongside CrowdStrike (CRWD) and Palo Alto (PANW)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-favors-fortinet-ftnt-135021351.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:50:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
@@ -514,17 +536,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T13:28:00+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nike (NKE) Is Betting Big on Basketball\u2019s Next Generation. Will It Pay Off?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-betting-big-basketball-132534474.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:25:34+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -558,17 +569,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T13:06:31+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street Is Losing Confidence in GoDaddy\u2019s (GDDY) AI Strategy. Should Investors?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-losing-confidence-godaddy-130611903.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:06:11+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
