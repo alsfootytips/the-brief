@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T19:16:29.347467+00:00",
+  "generated_at": "2026-08-08T19:54:32.084823+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -225,18 +225,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"General Electric (GE) Sits 21% Above Fair Value Following Its Recent Pullback\""
     },
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 57.6,
-      "change_pct": -0.96,
-      "volume_ratio": 0.74,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null,
-      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
-    },
-    {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 126.93,
@@ -440,18 +428,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 57.6,
-      "change_pct": -0.96,
-      "volume_ratio": 0.74,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null,
-      "move_reason": "News: \"Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)\""
     }
   ],
   "indices": [
@@ -597,17 +573,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 57.6,
-      "change_pct": -0.96,
-      "volume_ratio": 0.74,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null
     }
   ],
   "watchlist_radar": [
@@ -924,17 +889,6 @@ window.theBriefMovers = {
       "change_pct": 1.32,
       "price": 52.86,
       "watchlist_members": []
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "change_pct": -0.96,
-      "price": 57.6,
-      "watchlist_members": [
-        "APA",
-        "TPL",
-        "OXY"
-      ]
     },
     {
       "ticker": "XLV",
