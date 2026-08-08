@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T02:09:26.422719+00:00",
+  "generated_at": "2026-08-08T03:43:34.293528+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why QuinStreet Stock Crushed it on Friday\""
+      "move_reason": "News: \"Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case...\""
     },
     {
       "ticker": "PWR",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: As Stock Market Ramps Up, Here's What To Do; Warren Buffett, Cisco, Lum...\""
+      "move_reason": "News: \"Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett, Cisco, Lumentum Due\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why QuinStreet Stock Crushed it on Friday\""
+      "move_reason": "News: \"Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case...\""
     },
     {
       "ticker": "OSCR",

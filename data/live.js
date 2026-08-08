@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T02:09:26.430949+00:00",
+  "generated_at": "2026-08-08T03:43:34.301981+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T02:09:26.428148+00:00",
+      "timestamp": "2026-08-08T03:43:34.299193+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T02:09:26.428145+00:00",
+      "timestamp": "2026-08-08T03:43:34.299191+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T02:09:26.428141+00:00",
+      "timestamp": "2026-08-08T03:43:34.299187+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T02:09:26.428137+00:00",
+      "timestamp": "2026-08-08T03:43:34.299183+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T02:09:26.428126+00:00",
+      "timestamp": "2026-08-08T03:43:34.299172+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T02:09:26.428118+00:00",
+      "timestamp": "2026-08-08T03:43:34.299163+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -102,22 +102,99 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Landmark Bancorp director Mark Kohlrus buys $31,767 in company stock",
+      "headline": "Delaware judge orders Verisk to proceed with $2.35 billion AccuLynx deal",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-mark-kohlrus-buys-31767-in-company-stock-93CH-4847577",
+      "url": "https://www.investing.com/news/stock-market-news/delaware-judge-orders-verisk-to-proceed-with-235-billion-acculynx-deal-4847598",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T01:51:27+00:00",
+      "timestamp": "2026-08-08T03:12:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trump-to-host-mining-ceos-as-administration-seeks-minerals-for-defense-supply-chains-4845588",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T02:55:15+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scholastic director Kaya Henderson sells $130,812 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/scholastic-director-kaya-henderson-sells-130812-in-company-stock-93CH-4847595",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T02:53:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SentinelOne CAO Robin Tomasello sells $109,799 in shares",
+      "headline": "SharkNinja CCO Neil Shah sells $5.5 million in ordinary shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sentinelone-cao-robin-tomasello-sells-109799-in-shares-93CH-4847576",
+      "url": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55-million-in-ordinary-shares-93CH-4847594",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T01:46:34+00:00",
+      "timestamp": "2026-08-08T02:53:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scholastic EVP, pres. CBG Quinton sells $1.2m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-quinton-sells-12m-in-stock-93CH-4847593",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T02:53:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Linkhome Holdings CEO Qin Zhen sells $1 million in private share transfers",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/linkhome-holdings-ceo-qin-zhen-sells-1-million-in-private-share-transfers-93CH-4847592",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T02:48:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Savers value village CPO Melinda Geisser sells $766,200 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/savers-value-village-cpo-melinda-geisser-sells-766200-in-stock-93CH-4847590",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T02:47:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PubMatic CEO Rajeev Goel sells $3.75m in PUBM stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-375m-in-pubm-stock-93CH-4847591",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T02:47:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AIXC targets August 2026 RoboShare rentals in Los Angeles as liquidity remains constrained",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629638-aixc-targets-august-2026-roboshare-rentals-in-los-angeles-as-liquidity-remains-constrained?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T02:24:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -135,72 +212,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Paysign CEO Mark Newcomer sells $1.78m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-178m-in-company-stock-93CH-4847575",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T01:35:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Snap CTO Robert Murphy sells $21.6m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/snap-cto-robert-murphy-sells-216m-in-shares-93CH-4847574",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T01:31:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apogee Therapeutics CMO Carl Dambkowski sells $737,934 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/apogee-therapeutics-cmo-carl-dambkowski-sells-737934-in-shares-93CH-4847573",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T01:31:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tenet Healthcare director Roy Blunt sells $157,608 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/tenet-healthcare-director-roy-blunt-sells-157608-in-shares-93CH-4847572",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T01:31:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. expects Strait of Hormuz deal soon as Sunni powers sign defense pact",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T01:28:42+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coastal Financial CEO Eric Sprink buys $444,500 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coastal-financial-ceo-eric-sprink-buys-444500-in-company-stock-93CH-4847570",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T01:16:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Nutex outlines 3 hospital openings in H2 2026 while maintaining 3 to 5 openings per year",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4629636-nutex-outlines-3-hospital-openings-in-h2-2026-while-maintaining-3-to-5-openings-per-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -208,6 +219,30 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T00:54:52+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case Changed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fb0514de0642026c805a1c6bab7bc473b253422b79bf4c21b358823394276b9",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T00:17:23+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Genius Sports Popped by Almost 10% This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cc2c1e0fd155b93bc7a546095413ef2bfe9f4ca9884a2da6fbdaf97a2112c12",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T00:14:58+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -245,6 +280,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett, Cisco, Lumentum Due",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdbffaf4ea2dbe87049f8e1753abc628014aef7d8a456bfb107405ba8d9edb41",
+      "is_watchlist": true,
+      "timestamp": "2026-08-07T23:41:13+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Oil futures end down week on high note as Strait of Hormuz deal turns more uncertain",
       "source": "Seeking Alpha Market",
@@ -262,41 +309,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4629631-i3-verticals-signals-fy2027-mid-single-digit-growth-while-targeting-100-to-200-bps-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-07T23:24:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Corsair Gaming Stock Skyrocketed by 35% Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0f38ce7fd1965ca0463dce2736116d238460160451f136db89d00b338d47c7c",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T23:24:30+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Sweetgreen Stumbles Again. Are the Turnaround Chances Gone?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32ddee4fee0263fa1d22fc9cbd8d1f3abc27fb9d06c87cd06ffd39bc89a7490d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T23:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RGA targets 8%-10% EPS growth as it plans $400M debt paydown in September",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629630-rga-targets-8-percentminus-10-percent-eps-growth-as-it-plans-400m-debt-paydown-in-september?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T23:16:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -356,17 +368,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ondo Perps hits $7 billion in volume weeks after launch",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-perps-hits-7-billion-215819332.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:58:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -591,6 +592,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Dollar drops as weak US jobs data pushes out Fed hike expectations - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:16:31+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
@@ -624,6 +636,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "US Senate confirms dozens of Trump nominees, filling gaps in diplomatic corps - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVFVVXl3ZF9BaXRrU2lhbFhMNjZtZS1xaGtSWGNEbFZOMFdQR3BfeHBYUkJlSW80NTVpQVlYTHdQRWx4RDlZQTBsLWRjNnA3TlA0Y3RUSy1DOWx6WkRjd3ZHdndaTjZXT1lNRTFQV0JTVVkxSWNxWHRTZlM4MVl5eHQ2S3VpS3djanNlNkR5T2JucGlDSzRvUVlDNFhvWGRoNFJJc2FEWkNVQVg2Y05ULWNpQjZ4M0lSRHB4QjJB?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T19:55:43+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Michael Burry Sounds Alarm on Major AI Stocks",
       "source": "Yahoo",
@@ -644,18 +667,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-07T19:41:34+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Michael Burry issues blunt warning as he bets against 2 AI favorites",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e74856535b7cfd6f0b870513e35bd5268cf03f567140e369c0a6c8e079ab0f31",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T19:37:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -800,17 +811,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A huge day and week for Corning as the S&P 500 approaches another record high",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T16:59:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
@@ -856,14 +856,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
+      "headline": "Palantir CEO drops 11-word bombshell for stock market investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T16:08:43+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-08-07T16:03:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1051,17 +1050,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Veteran manager buys 2 ETFs as market shifts",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T02:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -1137,55 +1125,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The Father of the 4% Rule Has New Ideas About Retirement Income",
+      "headline": "RTX (RTX) vs. Lockheed Martin (LMT): How Street Is Pricing Two Defense Giants",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/father-4-rule-ideas-retirement-192109799.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-vs-lockheed-martin-214357572.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T19:21:09+00:00",
+      "timestamp": "2026-08-06T21:43:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analyst Sees Trouble Brewing Beneath Disney (DIS) Numbers; Is Warner Bros (WBD) Any Better?",
+      "headline": "CareCloud, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-sees-trouble-brewing-beneath-191620216.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/carecloud-inc-q2-2026-earnings-213927400.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T19:16:20+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-06T21:39:27+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Crude Prices Finish Sharply Higher on Doubts About Strait of Hormuz Reopening",
+      "headline": "The GEO Group, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/crude-prices-finish-sharply-higher-191358291.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/geo-group-inc-q2-2026-213550900.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T19:13:58+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-06T21:35:50+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Furious pace of AI investment on some Fed officials' radar now",
+      "headline": "Goldman Sachs sees 168% upside in this controversial power stock",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/furious-pace-ai-investment-fed-174224019.html",
+      "url": "https://finance.yahoo.com/energy/articles/goldman-sachs-sees-168-upside-213300285.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T19:13:03+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-06T21:33:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nat-Gas Prices Tumble on a Larger-Than-Expected Storage Build",
+      "headline": "AT&T (T) Bulks Up Its Spectrum As SpaceX Fears Ease",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-tumble-larger-191218939.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-t-bulks-spectrum-spacex-212838405.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T19:12:18+00:00",
+      "timestamp": "2026-08-06T21:28:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Celsius Holdings, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/celsius-holdings-inc-q2-2026-212353089.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T21:23:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UWM Holdings Corporation Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-corporation-q2-2026-212317090.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T21:23:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1200,17 +1210,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Datadog Plunges On Revenue Outlook. Is OpenAI Behind Guidance?",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/datadog-stock-ddog-datadog-earnings-q22026/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T18:59:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
