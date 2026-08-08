@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T21:46:15.135312+00:00",
+  "generated_at": "2026-08-08T22:29:02.091993+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:46:15.132926+00:00",
+      "timestamp": "2026-08-08T22:29:02.089157+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:46:15.132924+00:00",
+      "timestamp": "2026-08-08T22:29:02.089155+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T21:46:15.132922+00:00",
+      "timestamp": "2026-08-08T22:29:02.089151+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:46:15.132919+00:00",
+      "timestamp": "2026-08-08T22:29:02.089147+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:46:15.132910+00:00",
+      "timestamp": "2026-08-08T22:29:02.089136+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:46:15.132903+00:00",
+      "timestamp": "2026-08-08T22:29:02.089128+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -102,13 +102,37 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here\u2019s How You Can Retire to the Beaches of Florida\u2019s Gulf Coast at 59",
+      "headline": "Owens Corning Q2 Earnings Call Highlights",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/retire-beaches-florida-gulf-coast-212932409.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/owens-corning-q2-earnings-call-220353694.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T21:29:32+00:00",
+      "timestamp": "2026-08-08T22:03:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "When Leverage Goes Wrong on Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T21:45:37+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Home Depot Has Raised Its Dividend for 17 Consecutive Years and Reports Earnings Aug. 18. Is It the Smarter Dow Stock to Buy Over Walmart?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c02b183780351c137f70407acd9a86887fea92817351c175f9c809bb8c42a5c",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T21:40:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -120,6 +144,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T21:20:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Medtronic vs. Intuitive Surgical: Which MedTech Stock Is the Better Buy Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c5b80e1d6367d6c3134d7ed2dbab5b1d0b0d318b656d268af63da5b1b6a3785",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -135,6 +171,33 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T21:15:33+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Does AirJoule Technologies (AIRJ) Using GE Vernova\u2019s Campus Showcase Reframe Its Industrial Water Strategy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d88951ac6066dd305522d678ffd349dec999cc22ad8dd0af0c1545ff651c0dd",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T21:15:08+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -259,18 +322,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=660ae6a5fba8ae4a565df26d348846c1f256aac28066aa0e4dccd016185b45da",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T19:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Delta flight makes emergency landing in Atlanta, no injuries reported",
       "source": "Investing.com News",
@@ -294,18 +345,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e9ac7f4479af1057e966f8a6679617b4aefd89ef388d5a76313d01aba2d2dc0",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T19:46:09+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
       "source": "Yahoo Finance",
@@ -314,18 +353,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T19:46:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nokia\u2019s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e2af10409d1f94da3597f9369b101a0aadfe9720dd52c8e324aca948ec90d75f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T19:39:32+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -521,21 +548,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T16:45:44+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "8 out of 12 S&P 500 utilities stocks beat EPS estimates this week: Earnings Scorecard",
@@ -571,14 +583,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:29:19+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f048c217128d902c47c64f63cc716c4951c96e5eea64598e4893c7fb5b9720c",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T15:15:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -599,18 +612,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
       "is_watchlist": true,
       "timestamp": "2026-08-08T14:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD Just Reported Its Data Center Revenue More Than Doubled Year-Over-Year. What Comes Next.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3e966c0c80174d0d432ba10a8e1c1375f7aae91b4f451a6c600c2f353eef478",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T13:45:02+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -659,6 +660,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -953,18 +965,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=f0935a49d503a7a7a36bc89b60b457a3ee6d39aef49078c15fe89c84d5d5ea49",
       "is_watchlist": true,
       "timestamp": "2026-08-07T20:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "AirJoule Technologies (AIRJ) Lands GE Vernova Showcase As Investors Weigh Its Undervalued Narrative",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e7053dfb4ca559a6487fff0d5e219b43f4a2442fb01acbdf91b938526aec8c2",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T20:12:19+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

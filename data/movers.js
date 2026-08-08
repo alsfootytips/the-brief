@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T21:46:15.128443+00:00",
+  "generated_at": "2026-08-08T22:29:02.083515+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?\""
+      "move_reason": "News: \"When Leverage Goes Wrong on Wall Street\""
     },
     {
       "ticker": "PWR",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"General Electric (GE) Sits 21% Above Fair Value Following Its Recent Pullback\""
+      "move_reason": "News: \"Does AirJoule Technologies (AIRJ) Using GE Vernova\u2019s Campus Showcase Reframe Its Industria...\""
     },
     {
       "ticker": "XLE",
@@ -343,7 +343,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"General Electric (GE) Sits 21% Above Fair Value Following Its Recent Pullback\""
+      "move_reason": "News: \"Does AirJoule Technologies (AIRJ) Using GE Vernova\u2019s Campus Showcase Reframe Its Industria...\""
     },
     {
       "ticker": "IWM",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?\""
+      "move_reason": "News: \"When Leverage Goes Wrong on Wall Street\""
     },
     {
       "ticker": "OSCR",
