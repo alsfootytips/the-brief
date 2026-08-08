@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T21:01:38.279676+00:00",
+  "generated_at": "2026-08-08T21:46:15.135312+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:01:38.276861+00:00",
+      "timestamp": "2026-08-08T21:46:15.132926+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:01:38.276859+00:00",
+      "timestamp": "2026-08-08T21:46:15.132924+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T21:01:38.276855+00:00",
+      "timestamp": "2026-08-08T21:46:15.132922+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:01:38.276851+00:00",
+      "timestamp": "2026-08-08T21:46:15.132919+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:01:38.276839+00:00",
+      "timestamp": "2026-08-08T21:46:15.132910+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,47 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T21:01:38.276819+00:00",
+      "timestamp": "2026-08-08T21:46:15.132903+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here\u2019s How You Can Retire to the Beaches of Florida\u2019s Gulf Coast at 59",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/retire-beaches-florida-gulf-coast-212932409.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T21:29:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847688",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T21:18:29+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -108,17 +145,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T20:42:34+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SentinelOne's Chief Accountant Sold Shares. Here's What Investors Should Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sentinelones-chief-accountant-sold-shares-203843953.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T20:38:43+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -196,6 +222,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T20:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T19:53:53+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -326,17 +363,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin squeezed at $65,300 resistance: Hourly levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T19:01:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
@@ -375,17 +401,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-08T18:37:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/press-releases/casx-token-presale-marks-the-next-milestone-for-the-cashelix-payment-ecosystem-4847677",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T18:31:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -941,17 +956,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018SaaSpocalypse\u2019 debate intensifies as software stocks swing wildly",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:22:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
