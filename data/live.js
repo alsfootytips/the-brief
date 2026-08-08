@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T03:43:34.301981+00:00",
+  "generated_at": "2026-08-08T04:40:26.416668+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T03:43:34.299193+00:00",
+      "timestamp": "2026-08-08T04:40:26.413810+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T03:43:34.299191+00:00",
+      "timestamp": "2026-08-08T04:40:26.413808+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T03:43:34.299187+00:00",
+      "timestamp": "2026-08-08T04:40:26.413804+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T03:43:34.299183+00:00",
+      "timestamp": "2026-08-08T04:40:26.413801+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T03:43:34.299172+00:00",
+      "timestamp": "2026-08-08T04:40:26.413789+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,99 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T03:43:34.299163+00:00",
+      "timestamp": "2026-08-08T04:40:26.413781+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Terreno earnings beat by $0.17, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/terreno-earnings-beat-by-017-revenue-fell-short-of-estimates-4847605",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T04:16:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BHP workers begin rolling strikes at Port Hedland iron ore hub",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/bhp-workers-begin-rolling-strikes-at-port-hedland-iron-ore-hub-4847604",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T04:08:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26bf896f4a970341a871ecea8e27b876757aa125a00b5b60aa11df304669b3ae",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T03:45:59+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Palantir director Lauren Stat sells $500,280 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/palantir-director-lauren-stat-sells-500280-in-stock-93CH-4847603",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T03:45:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kinetik Holdings director ISQ Global Fund II GP LLC sells $13.3m shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kinetik-holdings-director-isq-global-fund-ii-gp-llc-sells-133m-shares-93CH-4847602",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T03:31:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphatec Holdings general counsel sells $78,821 in ATEC shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/alphatec-holdings-general-counsel-sells-78821-in-atec-shares-93CH-4847601",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T03:31:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netlist EVP and CFO Gail Sasaki sells $99,750 in NLST shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/netlist-evp-and-cfo-gail-sasaki-sells-99750-in-nlst-shares-93CH-4847600",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T03:30:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. plans $1 billion security aid package for Colombia",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-plans-1-billion-security-aid-package-for-colombia-4847599",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T03:22:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -113,83 +202,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-to-host-mining-ceos-as-administration-seeks-minerals-for-defense-supply-chains-4845588",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:55:15+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Scholastic director Kaya Henderson sells $130,812 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/scholastic-director-kaya-henderson-sells-130812-in-company-stock-93CH-4847595",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:53:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SharkNinja CCO Neil Shah sells $5.5 million in ordinary shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55-million-in-ordinary-shares-93CH-4847594",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:53:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Scholastic EVP, pres. CBG Quinton sells $1.2m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-quinton-sells-12m-in-stock-93CH-4847593",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:53:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Linkhome Holdings CEO Qin Zhen sells $1 million in private share transfers",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/linkhome-holdings-ceo-qin-zhen-sells-1-million-in-private-share-transfers-93CH-4847592",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:48:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Savers value village CPO Melinda Geisser sells $766,200 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/savers-value-village-cpo-melinda-geisser-sells-766200-in-stock-93CH-4847590",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:47:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PubMatic CEO Rajeev Goel sells $3.75m in PUBM stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-375m-in-pubm-stock-93CH-4847591",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:47:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AIXC targets August 2026 RoboShare rentals in Los Angeles as liquidity remains constrained",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4629638-aixc-targets-august-2026-roboshare-rentals-in-los-angeles-as-liquidity-remains-constrained?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -197,6 +209,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T02:24:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Airbnb Just Hit a Four-Year High. Is It a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=356da43fd75650c017ed6dc1fae9cdf611c0a0a6c82fe9d6b45cca146c2e36c0",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T02:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -211,6 +235,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5eff1867626215c2aaac9e392c2cb9aa22f6624b97a796ca7be766df246bb647",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T01:42:11+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Nutex outlines 3 hospital openings in H2 2026 while maintaining 3 to 5 openings per year",
       "source": "Seeking Alpha Market",
@@ -219,30 +255,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T00:54:52+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case Changed?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2fb0514de0642026c805a1c6bab7bc473b253422b79bf4c21b358823394276b9",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T00:17:23+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Genius Sports Popped by Almost 10% This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cc2c1e0fd155b93bc7a546095413ef2bfe9f4ca9884a2da6fbdaf97a2112c12",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T00:14:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -265,18 +277,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-07T23:44:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why QuinStreet Stock Crushed it on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6866425647ad4ac321b4e6bbd9869fc2c57ae91d7dc538e56b95676a4e0791e9",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T23:43:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1125,6 +1125,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Ducommun Incorporated Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ducommun-incorporated-q2-2026-earnings-215121109.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T21:51:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "D-Wave Quantum Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-inc-q2-215053410.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T21:50:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "RTX (RTX) vs. Lockheed Martin (LMT): How Street Is Pricing Two Defense Giants",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-vs-lockheed-martin-214357572.html",
@@ -1158,44 +1180,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Wells Fargo Names Anthony Giuliano Head of Beauty and Wellness",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/wells-fargo-names-anthony-giuliano-213544678.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T21:35:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Goldman Sachs sees 168% upside in this controversial power stock",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/goldman-sachs-sees-168-upside-213300285.html",
       "is_watchlist": false,
       "timestamp": "2026-08-06T21:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AT&T (T) Bulks Up Its Spectrum As SpaceX Fears Ease",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-t-bulks-spectrum-spacex-212838405.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T21:28:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Celsius Holdings, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/celsius-holdings-inc-q2-2026-212353089.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T21:23:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UWM Holdings Corporation Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-corporation-q2-2026-212317090.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T21:23:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
