@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T13:58:17.188661+00:00",
+  "generated_at": "2026-08-08T14:38:41.848739+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:58:17.185681+00:00",
+      "timestamp": "2026-08-08T14:38:41.845734+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:58:17.185678+00:00",
+      "timestamp": "2026-08-08T14:38:41.845732+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T13:58:17.185674+00:00",
+      "timestamp": "2026-08-08T14:38:41.845728+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:58:17.185671+00:00",
+      "timestamp": "2026-08-08T14:38:41.845724+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:58:17.185659+00:00",
+      "timestamp": "2026-08-08T14:38:41.845713+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,98 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:58:17.185651+00:00",
+      "timestamp": "2026-08-08T14:38:41.845705+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Delhivery Q1 FY27 slides: volumes surge 55% as margins compress",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/delhivery-q1-fy27-slides-volumes-surge-55-as-margins-compress-93CH-4847668",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:33:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:30:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Delhivery Q1 2026 revenue rises 28% as volumes jump",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-delhivery-q1-2026-revenue-rises-28-as-volumes-jump-93CH-4847665",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:23:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings scorecard: 9 out of 10 Communication Services companies deliver EPS wins this week",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629482-earnings-scorecard-9-out-of-10-communication-services-companies-deliver-eps-wins-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:15:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Changing how Medicare pays for hospice care could save the U.S. $7.6 billion a year \u2014 but at what cost to patients?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/changing-how-medicare-pays-for-hospice-care-could-save-7-6-billion-a-year-but-at-what-cost-to-patients-270eb608?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:04:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Santander, Berkshire Hathaway among gainers; HSBC, Sezzle in losers: week's financials wrap",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629398-santander-berkshire-hathaway-among-gainers-hsbc-sezzle-in-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:00:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Todd Blanche confirmed as next U.S. attorney general",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629647-todd-blanche-confirmed-next-attorney-general?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:59:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Favors Fortinet (FTNT) Alongside CrowdStrike (CRWD) and Palo Alto (PANW)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-favors-fortinet-ftnt-135021351.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:50:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -171,6 +259,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -- His Prophecy May Still Come True",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f53c7bfddb0489bc2141af69452abbedaaf7df959e7f9d1ce69cc68a6f683eac",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T13:26:00+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Nike (NKE) Is Betting Big on Basketball\u2019s Next Generation. Will It Pay Off?",
       "source": "Yahoo Finance",
@@ -182,6 +282,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f2531d37356716c585f7cbfa668a42ae18a6b126f6de7b5a1b9b673511605b4",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T13:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
       "source": "Investing.com News",
@@ -190,6 +302,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T13:22:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Should You Buy SpaceX Stock Below $125 per Share? Here's What History Says.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09819a8ac7b809c37ee35e2d09697d7e6720d1ff88bf4a7f2c1f39c1d8fbfc05",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T13:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -289,6 +413,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=472c30143e27f764aa8b18f3bdadf9787317785fb717e894d06027778b9ef95a",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T13:00:11+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett's Berkshire Beats Views",
       "source": "Yahoo Finance",
@@ -307,17 +443,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html",
       "is_watchlist": false,
       "timestamp": "2026-08-08T12:55:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ted Benna built the 401(k) 40 years ago \u2014 now he says it fails lower-income workers and is pushing a simpler alternative",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/ted-benna-built-401-k-125500076.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:55:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -353,28 +478,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Apple says Mac users in China can connect to Alibaba\u2019s Qwen AI service",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service-4847655",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:36:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire says operating profit rises, conducts stock buybacks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-says-operating-profit-rises-conducts-stock-buybacks-4847654",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:30:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Keybanc Upgrades Quanta Services (PWR)",
       "source": "Fintel",
@@ -398,6 +501,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d6b5a6048b6ec0f42b833d816015dbb21a1beb75d20f656c020f82eea1395a5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T12:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "How cleaning up space debris could grow to become a big business",
       "source": "CNBC Top",
@@ -409,14 +524,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Cloud capex forecast calls for 29% jump in 2027 as compute demand exceeds capacity: MS",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629570-cloud-capex-forecast-calls-for-29-jump-in-2027-as-compute-demand-exceeds-capacity-ms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:00:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "PWR",
+      "headline": "Nucor, ASML Lead Five Stocks Near Buy Points Without This Big Risk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fed305c3a89920c105aa35b1077d63db7c53657569da944b973d5a04eb5d57f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T12:00:21+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -535,17 +651,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "One Whopper of a win: Burger King takes market share from McDonald's",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629476-one-whopper-of-a-win-burger-king-takes-market-share-from-mcdonalds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T11:00:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
@@ -588,42 +693,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=58d9108cdec3d92f6d2c41c3d4e0014bfefdc5e220b6be31ec905eea45dd9e68",
       "is_watchlist": true,
       "timestamp": "2026-08-08T10:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "$10,000 in Axon Stock a Decade Ago Would Be Worth About $329,000 Today. The Stock Is Down Over the Past Year.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49a089785d65e4e5b073af0613fe59824a7ba20ef12efd5766ff41645abfb797",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T09:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction for Tesla Stock in 3 Years: The Bear Case",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=049067c1d8c5004b930360aea4b9c396d28dde0801beb294ea0a3fba7391ec49",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T09:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Micron Stock Too Cheap to Ignore?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7935a107260dce5bb81f1abcb7744e118ee7ebac4812720b2c5e40519124bf42",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T09:21:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -689,17 +758,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "AIXC targets August 2026 RoboShare rentals in Los Angeles as liquidity remains constrained",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629638-aixc-targets-august-2026-roboshare-rentals-in-los-angeles-as-liquidity-remains-constrained?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T02:24:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett, Cisco, Lumentum Due",
       "source": "Yahoo",
@@ -720,18 +778,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-07T23:02:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c6288fadf5aeb7b3e2fd27973a4574bb402e12cb6f2a5ca1105a143af2d4c59b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T23:00:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -759,34 +805,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T22:05:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Ondo Perps hits $7 billion in volume weeks after launch",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-perps-hits-7-billion-215819332.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T21:58:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The smart way to invest in gold right now as the dollar slips",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:58:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -798,18 +821,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=09072960e777fcbd5b991631cef6582a10d944a16c31492deee6492a619de82d",
       "is_watchlist": true,
       "timestamp": "2026-08-07T21:38:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expectations, short-term investing and more",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99752a1bf07990a200e8f29b76ff96da399e59e6330f48948b6a142f31b29033",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T21:27:38+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -998,18 +1009,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=d75e05af01afd44aea9d49a5e6a27e821286ae5c99b879e011429aad730ef1a7",
       "is_watchlist": true,
       "timestamp": "2026-08-07T18:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Innodata Q2 Earnings Beat on AI Growth and Margin Expansion, Stock Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3cf56ad2dbd1df6fb880943717b886734f95095c041e854a8eaba468b7ef388",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T16:25:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

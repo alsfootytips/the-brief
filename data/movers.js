@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T13:58:17.180036+00:00",
+  "generated_at": "2026-08-08T14:38:41.840106+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$10,000 in Axon Stock a Decade Ago Would Be Worth About $329,000 Today. The Stock Is Down ...\""
+      "move_reason": "News: \"President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -...\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD's Data Center Business Is Skyrocketing. The Stock Is Falling. Here's Why.\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth...\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD's Data Center Business Is Skyrocketing. The Stock Is Falling. Here's Why.\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth...\""
     },
     {
       "ticker": "APA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$10,000 in Axon Stock a Decade Ago Would Be Worth About $329,000 Today. The Stock Is Down ...\""
+      "move_reason": "News: \"President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -...\""
     },
     {
       "ticker": "OSCR",
