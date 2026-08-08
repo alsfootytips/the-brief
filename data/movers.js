@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T17:46:49.275340+00:00",
+  "generated_at": "2026-08-08T18:37:02.069050+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock\""
+      "move_reason": "News: \"Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?\""
     },
     {
       "ticker": "PWR",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Plunged 31% Last Month. Is It Time to Buy?\""
+      "move_reason": "News: \"Nebius Is Worth 55 Times Its Revenue. What Does That Price Assume?\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock\""
+      "move_reason": "News: \"Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?\""
     },
     {
       "ticker": "OSCR",

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T17:46:49.283670+00:00",
+  "generated_at": "2026-08-08T18:37:02.077636+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T17:46:49.280803+00:00",
+      "timestamp": "2026-08-08T18:37:02.074503+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T17:46:49.280800+00:00",
+      "timestamp": "2026-08-08T18:37:02.074500+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T17:46:49.280796+00:00",
+      "timestamp": "2026-08-08T18:37:02.074497+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T17:46:49.280793+00:00",
+      "timestamp": "2026-08-08T18:37:02.074493+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T17:46:49.280781+00:00",
+      "timestamp": "2026-08-08T18:37:02.074481+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,88 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T17:46:49.280773+00:00",
+      "timestamp": "2026-08-08T18:37:02.074473+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BJ's Wholesale CEO Sells $7.3 Million Stock After Option Exercise",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-ceo-sells-7-181702751.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:17:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran sets tough terms for U.S. to reopen Strait of Hormuz despite progress in Oman",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:11:21+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T17:58:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lumen (LUMN) Extends AWS Push While Its CEO Doubles Down",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/lumen-lumn-extends-aws-push-175314099.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T17:53:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -113,6 +191,30 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91aca5cb4998ce0bff81500fe9630d528ab91e5fc21132eec54717361dc3d2fe",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T17:30:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Doximity Stock Skyrocketed on Friday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99b2c080cb92453447950becd87eedcd88dde499cefe1e9ba8eed2dc11303ce4",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T17:26:57+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -138,14 +240,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "NVDA",
       "headline": "My Top Dividend Stock to Buy in August (and It's Not Even Close)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-dividend-stock-buy-august-172500531.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c563fdd2ad709da00a039737d8df8015f001f1e57b66257445a515bcb63ba73d",
+      "is_watchlist": true,
       "timestamp": "2026-08-08T17:25:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -191,6 +294,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T17:12:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nebius Is Worth 55 Times Its Revenue. What Does That Price Assume?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee798e3314a60b1249ea1443723f25830905cdacbe12dc6c57f547a1c5a41ae7",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T17:12:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -287,17 +402,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "My adult kids are big earners. Should I do a Roth conversion now so they aren\u2019t taxed as much on their inheritance?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-adult-kids-are-big-earners-should-i-do-a-roth-conversion-now-so-they-arent-taxed-as-much-on-their-inheritance-c136adae?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T16:34:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Earnings Scorecard: All 12 S&P 500 Energy stocks beat EPS estimates this week",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4629188-earnings-scorecard-all-12-sp-500-energy-stocks-beat-eps-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -334,53 +438,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T15:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
-      "headline": "Nebius Stock Plunged 31% Last Month. Is It Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=483cd7dae88004f4b6fe66ca7b34e2e155e7e3c089b31978335fd6545e1a143d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T15:49:27+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "Nebius Stock Plunged 31% Last Month. Is It Time to Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=483cd7dae88004f4b6fe66ca7b34e2e155e7e3c089b31978335fd6545e1a143d",
@@ -398,28 +456,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4629254-16-out-of-16-technology-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-08T15:45:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:43:23+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The size of the American workforce has fallen by over 1 million people in the past year. Here\u2019s what\u2019s going on.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:43:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -448,18 +484,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: This Will Be the Cryptocurrency XRP's Price by Late 2027 (Hint: It's a Big Move)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1384de3d22f7e1c4b30567b8e58638f8af8066f5d5043daa3d0b9535cee7898d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T15:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -542,23 +566,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:20:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-08T13:41:32+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says \u2014 here's how to get started",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:30:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -592,17 +616,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T13:06:48+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/michigan-salad-warnings-ease-but-cyclospora-keeps-shoppers-and-grocers-on-edge-4847658",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:06:31+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -890,18 +903,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-07T21:14:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Dow Jones Futures: As Stock Market Ramps Up, Here's What To Do; Warren Buffett, Cisco, Lumentum Due",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b1bd1e6523b9ebbe2e8c7dca387412fb96eeafecf1b22904f0f3c5962b91891",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T20:58:40+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
