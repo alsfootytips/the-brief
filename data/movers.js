@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T18:37:02.069050+00:00",
+  "generated_at": "2026-08-08T19:16:29.347467+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -622,7 +622,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.2 (cheap on absolute basis)",
+        "Forward P/E 12.2 (cheap on absolute basis)",
         "Down -41.2% over 3 months \u2014 deep drawdown",
         "-75.1% from 52-week high"
       ],
@@ -631,7 +631,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.2 (cheap on absolute basis)",
+        "Forward P/E 12.2 (cheap on absolute basis)",
         "Down -41.2% over 3 months \u2014 deep drawdown",
         "-75.1% from 52-week high"
       ],
@@ -745,13 +745,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.1 (cheap on absolute basis)"
+        "Forward P/E 14.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.1 (cheap on absolute basis)"
+        "Forward P/E 14.2 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",

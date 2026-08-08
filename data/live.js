@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T18:37:02.077636+00:00",
+  "generated_at": "2026-08-08T19:16:29.355954+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T18:37:02.074503+00:00",
+      "timestamp": "2026-08-08T19:16:29.352920+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T18:37:02.074500+00:00",
+      "timestamp": "2026-08-08T19:16:29.352917+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T18:37:02.074497+00:00",
+      "timestamp": "2026-08-08T19:16:29.352914+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T18:37:02.074493+00:00",
+      "timestamp": "2026-08-08T19:16:29.352910+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T18:37:02.074481+00:00",
+      "timestamp": "2026-08-08T19:16:29.352897+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,131 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T18:37:02.074473+00:00",
+      "timestamp": "2026-08-08T19:16:29.352889+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T19:02:19+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin squeezed at $65,300 resistance: Hourly levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T19:01:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Senate advances landmark crypto bill before heading on August recess",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T19:00:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T19:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How can we minimize taxes in retirement with a $2.3 million nest egg \u2014 while buying homes in Florida and New England?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T19:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tenable-tenb-widens-ai-security-185944892.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:59:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Four Savers Value Village Insiders Sold This Week. Here's What to Make of It",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/four-savers-value-village-insiders-184642972.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:46:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple brings Alibaba's Qwen AI model to Mac users in China",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629651-apple-lets-mac-link-alibabas-ai-model-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:46:22+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Don\u2019t worry about what other people have saved for retirement. Here\u2019s how to find your perfect number.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:37:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/press-releases/casx-token-presale-marks-the-next-milestone-for-the-cashelix-payment-ecosystem-4847677",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:31:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T18:30:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -135,22 +256,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BJ's Wholesale CEO Sells $7.3 Million Stock After Option Exercise",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-ceo-sells-7-181702751.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T18:17:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iran sets tough terms for U.S. to reopen Strait of Hormuz despite progress in Oman",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T18:11:21+00:00",
+      "timestamp": "2026-08-08T18:14:33+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -308,28 +418,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Social Security\u2019s funding crisis is the elephant in the room. But don\u2019t ignore the mouse.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T17:00:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s when Elon Musk\u2019s Starlink internet is worth the steep monthly price \u2014 and $350 startup cost",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T16:56:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -343,17 +431,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T16:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -451,17 +528,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "16 out of 16 technology stocks deliver EPS wins this week: Earnings Scorecard",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629254-16-out-of-16-technology-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:45:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
@@ -498,28 +564,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Google's AI claimed Flock cameras hold $650 in gold and 23 pounds of copper \u2014 It was duped by meme",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-claimed-flock-cameras-150000005.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/berkshire-hathaway-earnings-buybacks-cash-hoard-warren-buffett/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:52:35+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
       "source": "Yahoo",
@@ -538,28 +582,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
       "is_watchlist": false,
       "timestamp": "2026-08-08T14:45:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Delhivery Q1 FY27 slides: volumes surge 55% as margins compress",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/delhivery-q1-fy27-slides-volumes-surge-55-as-margins-compress-93CH-4847668",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:33:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Delhivery Q1 2026 revenue rises 28% as volumes jump",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-delhivery-q1-2026-revenue-rises-28-as-volumes-jump-93CH-4847665",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:23:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -594,28 +616,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T13:28:00+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/what-happens-to-stocks-when-the-fed-starts-hiking-barclays-weighs-in-4847660",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:22:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-lowers-cash-stake-as-buybacks-accelerate-reports-higher-profit-4847659",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:06:48+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
