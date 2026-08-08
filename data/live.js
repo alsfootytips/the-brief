@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T05:27:33.306541+00:00",
+  "generated_at": "2026-08-08T06:07:51.167699+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T05:27:33.303622+00:00",
+      "timestamp": "2026-08-08T06:07:51.164793+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T05:27:33.303620+00:00",
+      "timestamp": "2026-08-08T06:07:51.164790+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T05:27:33.303616+00:00",
+      "timestamp": "2026-08-08T06:07:51.164787+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T05:27:33.303613+00:00",
+      "timestamp": "2026-08-08T06:07:51.164784+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T05:27:33.303601+00:00",
+      "timestamp": "2026-08-08T06:07:51.164773+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,54 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T05:27:33.303593+00:00",
+      "timestamp": "2026-08-08T06:07:51.164764+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BJ\u2019s restaurants EVP & general counsel Miller sells $916k shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/bjs-restaurants-evp--general-counsel-miller-sells-916k-shares-93CH-4847611",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T05:46:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arista Networks CEO Jayshree Ullal sells $66.7 million in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-667-million-in-common-stock-93CH-4847610",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T05:31:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Delaware court blocks Verisk\u2019s exit from $2.35 billion AccuLynx deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/delaware-court-blocks-verisks-exit-from-235-billion-acculynx-deal-4847609",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T05:19:35+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dianthus Therapeutics CEO Marino Garcia sells $17.9m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dianthus-therapeutics-ceo-marino-garcia-sells-179m-in-shares-93CH-4847608",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T05:16:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -145,17 +189,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "BHP workers begin rolling strikes at Port Hedland iron ore hub",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/bhp-workers-begin-rolling-strikes-at-port-hedland-iron-ore-hub-4847604",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T04:08:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
       "source": "Yahoo",
@@ -165,39 +198,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir director Lauren Stat sells $500,280 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/palantir-director-lauren-stat-sells-500280-in-stock-93CH-4847603",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T03:45:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kinetik Holdings director ISQ Global Fund II GP LLC sells $13.3m shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kinetik-holdings-director-isq-global-fund-ii-gp-llc-sells-133m-shares-93CH-4847602",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T03:31:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alphatec Holdings general counsel sells $78,821 in ATEC shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/alphatec-holdings-general-counsel-sells-78821-in-atec-shares-93CH-4847601",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T03:31:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -604,17 +604,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dollar drops as weak US jobs data pushes out Fed hike expectations - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:16:31+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
@@ -819,6 +808,17 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A huge day and week for Corning as the S&P 500 approaches another record high",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T16:59:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1125,58 +1125,68 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Evergy, Inc. Q2 2026 Earnings Call Summary",
+      "headline": "Gas Shortages and High Prices Derail Southeast Asia\u2019s Power Buildout",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/evergy-inc-q2-2026-earnings-222607418.html",
+      "url": "https://finance.yahoo.com/energy/articles/gas-shortages-high-prices-derail-230000735.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T22:26:07+00:00",
+      "timestamp": "2026-08-06T23:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "CPI Card Group Inc. Q2 2026 Earnings Call Summary",
+      "headline": "Nuveen Churchill Direct Lending Corp. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cpi-card-group-inc-q2-222547591.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nuveen-churchill-direct-lending-corp-225357646.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T22:25:47+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mastercard (MA) vs. Visa (V): Stablecoins or AI Fraud Defense?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-vs-visa-v-222246965.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T22:22:46+00:00",
+      "timestamp": "2026-08-06T22:53:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why D-Wave Quantum Stock Just Fell",
+      "headline": "Bankrupt Mexican fast-food chain operator closes 47 locations",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-d-wave-quantum-stock-221939061.html",
+      "url": "https://finance.yahoo.com/small-business/articles/bankrupt-mexican-restaurant-chain-franchisee-224800587.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T22:19:39+00:00",
+      "timestamp": "2026-08-06T22:48:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Visa (V) vs. Mastercard (MA): $2.4B BioCatch Acquisition Escalates the Payments Security War",
+      "headline": "Haemonetics Corporation Q1 2027 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-vs-mastercard-ma-221521206.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/haemonetics-corporation-q1-2027-earnings-224637345.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T22:15:21+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-08-06T22:46:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ligand Pharmaceuticals Incorporated Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/ligand-pharmaceuticals-incorporated-q2-2026-224040448.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T22:40:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Acushnet Holdings Corp. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acushnet-holdings-corp-q2-2026-223830339.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T22:38:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1488,17 +1498,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-29T23:36:34+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are money market accounts safe?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/are-money-market-accounts-safe-212035384.html",
-      "is_watchlist": false,
-      "timestamp": "2024-08-20T21:20:35+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     }
   ]
