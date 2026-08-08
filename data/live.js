@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T14:38:41.848739+00:00",
+  "generated_at": "2026-08-08T15:05:01.101919+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T14:38:41.845734+00:00",
+      "timestamp": "2026-08-08T15:05:01.098833+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T14:38:41.845732+00:00",
+      "timestamp": "2026-08-08T15:05:01.098830+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T14:38:41.845728+00:00",
+      "timestamp": "2026-08-08T15:05:01.098826+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T14:38:41.845724+00:00",
+      "timestamp": "2026-08-08T15:05:01.098823+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T14:38:41.845713+00:00",
+      "timestamp": "2026-08-08T15:05:01.098810+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,87 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T14:38:41.845705+00:00",
+      "timestamp": "2026-08-08T15:05:01.098802+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T15:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia eyeing up to $3B investment in Blackstone-backed power firm: The Information",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629648-nvidia-to-fund-3b-in-blackstone-backed-power-firm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:52:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:48:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paying for pricey daycare? Here\u2019s how to keep saving for retirement at the same time.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-parents-can-keep-saving-for-retirement-during-the-expensive-childcare-years-e06b3abe?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:46:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Consumer Staples Earnings Scorecard: Profit holds up despite mixed revenue",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629212-consumer-staples-earnings-scorecard-profit-holds-up-despite-mixed-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:45:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:45:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -129,6 +206,17 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-delhivery-q1-2026-revenue-rises-28-as-volumes-jump-93CH-4847665",
       "is_watchlist": false,
       "timestamp": "2026-08-08T14:23:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:20:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -221,17 +309,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says \u2014 here's how to get started",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:30:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -314,28 +391,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:14:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway cash pile drops in Q2 amid stock buybacks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629645-berkshire-hathaway-q2-cash-drops-amid-buybacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:10:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -436,17 +491,6 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:55:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -490,17 +534,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway Q2 operating earnings +16% Y/Y, cash at $365.5B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629644-berkshire-hathaway-q2-operating-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:09:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%?",
       "source": "Yahoo",
@@ -510,17 +543,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How cleaning up space debris could grow to become a big business",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:04:15+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -638,39 +660,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s why Wendy\u2019s is losing the burger wars",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T11:30:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T11:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX\u2019s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T11:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -693,6 +682,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=58d9108cdec3d92f6d2c41c3d4e0014bfefdc5e220b6be31ec905eea45dd9e68",
       "is_watchlist": true,
       "timestamp": "2026-08-08T10:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "Benzinga Bulls And Bears: Palantir, Marvell, AppLovin",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d0f9c67598ffdbade8934d2501626965b8caaa3bd05f9a909949b5b01099fec8",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T08:30:25+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -886,18 +887,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "Update: S&P 500 Hits Record High as Jobs Report Eases Rate Hike Bets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b03aba1a6d07e7cbf4acde462cc09f8986920ba928e22f58a1f4cee3ddc5d2dd",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T20:41:31+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here\u2019s why",
       "source": "CNBC Markets",
@@ -1000,6 +989,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T18:19:39+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
