@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T23:00:04.483229+00:00",
+  "generated_at": "2026-08-08T23:38:05.861220+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cisco, Tencent Headline Muted Earnings Week\""
+      "move_reason": "News: \"CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings\""
     },
     {
       "ticker": "OSCR",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cisco, Tencent Headline Muted Earnings Week\""
+      "move_reason": "News: \"CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings\""
     },
     {
       "ticker": "DG",
