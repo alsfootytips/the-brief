@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T13:12:58.606954+00:00",
+  "generated_at": "2026-08-08T13:58:17.188661+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:12:58.604019+00:00",
+      "timestamp": "2026-08-08T13:58:17.185681+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:12:58.604016+00:00",
+      "timestamp": "2026-08-08T13:58:17.185678+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T13:12:58.604013+00:00",
+      "timestamp": "2026-08-08T13:58:17.185674+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:12:58.604008+00:00",
+      "timestamp": "2026-08-08T13:58:17.185671+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:12:58.603997+00:00",
+      "timestamp": "2026-08-08T13:58:17.185659+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,139 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T13:12:58.603988+00:00",
+      "timestamp": "2026-08-08T13:58:17.185651+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-profit-doubles-fueled-by-a-near-13-billion-investment-gain-26982ecf?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:43:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:41:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Scoreboard: 86% of S&P 500 reporting firms top EPS estimates as 79% post Y/Y profit growth",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4628903-earnings-scoreboard-86-of-sp-500-reporting-firms-top-eps-estimates-as-79-post-yy-profit-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:30:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says \u2014 here's how to get started",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:30:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Michael Burry says it\u2019s 'Trump's market' where price doesn't matter",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629646-michael-burry-says-its-trumps-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T13:29:30+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:28:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nike (NKE) Is Betting Big on Basketball\u2019s Next Generation. Will It Pay Off?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-betting-big-basketball-132534474.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:25:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/what-happens-to-stocks-when-the-fed-starts-hiking-barclays-weighs-in-4847660",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:22:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:14:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire Hathaway cash pile drops in Q2 amid stock buybacks",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629645-berkshire-hathaway-q2-cash-drops-amid-buybacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:10:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T13:08:46+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -139,11 +268,56 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
+      "headline": "Wall Street Is Losing Confidence in GoDaddy\u2019s (GDDY) AI Strategy. Should Investors?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-losing-confidence-godaddy-130611903.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T12:50:43+00:00",
+      "timestamp": "2026-08-08T13:06:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Silicon Motion\u2019s (SIMO) Next Chapter: Can Diversification Outrun the NAND Cycle?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/silicon-motion-simo-next-chapter-130310117.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T13:03:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett's Berkshire Beats Views",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T12:58:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T12:55:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ted Benna built the 401(k) 40 years ago \u2014 now he says it fails lower-income workers and is pushing a simpler alternative",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/ted-benna-built-401-k-125500076.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T12:55:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -191,17 +365,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:36:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire says operating profit rises, conducts stock buybacks",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/berkshire-says-operating-profit-rises-conducts-stock-buybacks-4847654",
@@ -242,17 +405,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T12:04:15+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gevo CEO Paul Bloom sells $48,068 in company shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/gevo-ceo-paul-bloom-sells-48068-in-company-shares-93CH-4847652",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:01:03+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -548,39 +700,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Vaxart outlines Phase IIb COVID-19 top line data in first half of 2027 backed by BARDA funding",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629637-vaxart-outlines-phase-iib-covidminus-19-top-line-data-in-first-half-of-2027-backed-by-barda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T01:44:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nutex outlines 3 hospital openings in H2 2026 while maintaining 3 to 5 openings per year",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629636-nutex-outlines-3-hospital-openings-in-h2-2026-while-maintaining-3-to-5-openings-per-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T00:54:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gladstone Investment aims to deploy at least $116M in first 6 months as SFEG exit advances",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629633-gladstone-investment-aims-to-deploy-at-least-116m-in-first-6-months-as-sfeg-exit-advances?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T23:47:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett, Cisco, Lumentum Due",
       "source": "Yahoo",
@@ -613,17 +732,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T22:22:44+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -721,7 +829,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Houthis strike Marib again as UN warns Yemen nearing wider conflict - reuters.com",
+      "headline": "Houthis strike Marib again as UN warns Yemen nearing wider conflict - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlRnMTdUcUhvNmFDVTdUd2JoQzVrRGZ5SHpDNTB1VGNzd0h1dnpCNUszSEJWRlRlbWpUQmtKOUM2WklINTcwcGh6M0NucGU2d19yaUlRZDdPcDZCcG91RE9oYWl6U3ZGTWV3dlpJa3IwNll2blJUMXBVTjRUbkwwU2NVUmVpbkw2XzRpV0RMUDlMQy1JM3dpNVEwcEJkMVlrR1BxVVhlM3JIQ05YVDJaR0lVQWpUYkYybEE?oc=5",
       "is_watchlist": false,
@@ -752,17 +860,6 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir\u2019s stock stages best week since 2024 \u2014 showing it\u2019s no longer an \u2018AI loser\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:54:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -836,17 +933,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "\u2018SaaSpocalypse\u2019 debate intensifies as software stocks swing wildly",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:22:17+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "AirJoule Technologies (AIRJ) Lands GE Vernova Showcase As Investors Weigh Its Undervalued Narrative",
       "source": "Yahoo",
@@ -915,18 +1001,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump teased an Iran deal that didn't come, but markets soared. Here\u2019s why it keeps happening",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T17:50:12+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1053,72 +1127,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s The Real Reason Wall Street Cut ON Semiconductor Stock\u2019s Price Target",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/real-reason-wall-street-cut-113002187.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T11:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Charlie Munger said $100K was where net worth 'explodes' \u2014 but in 2026, the real magic number is $200K",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/charlie-munger-said-100k-where-113000166.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T11:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Wall Street Analysts Predicting PepsiCo Stock Will Climb or Sink?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-pepsico-110527623.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T11:05:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 Social Security changes are headed for boomers in 2027 \u2014 and Trump's promises won't stop them",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/3-social-security-changes-headed-110500371.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T11:05:00+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple Among Three Stocks In Voracious Demand. Funds Also Feast On 14 Others.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-devour-apple-stock-marvell-santander-palo-alto-networks-and-more/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T11:00:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Want to give a stuffed boar to charity? It may be more curse than gift, as the IRS cracks down on non-cash donations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/want-stuffed-boar-charity-may-110000284.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T11:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
