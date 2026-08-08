@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T20:30:57.557901+00:00",
+  "generated_at": "2026-08-08T21:01:38.279676+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T20:30:57.555593+00:00",
+      "timestamp": "2026-08-08T21:01:38.276861+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T20:30:57.555591+00:00",
+      "timestamp": "2026-08-08T21:01:38.276859+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T20:30:57.555588+00:00",
+      "timestamp": "2026-08-08T21:01:38.276855+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T20:30:57.555586+00:00",
+      "timestamp": "2026-08-08T21:01:38.276851+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T20:30:57.555576+00:00",
+      "timestamp": "2026-08-08T21:01:38.276839+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,54 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T20:30:57.555570+00:00",
+      "timestamp": "2026-08-08T21:01:38.276819+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T20:42:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SentinelOne's Chief Accountant Sold Shares. Here's What Investors Should Know",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sentinelones-chief-accountant-sold-shares-203843953.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T20:38:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/what-would-it-take-for-mercedes-benz-stock-to-rerate-higher-citi-weighs-in-4847687",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T20:33:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Telecom Argentina ADR earnings missed by $0.05, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/telecom-argentina-adr-earnings-missed-by-005-revenue-fell-short-of-estimates-4847686",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T20:24:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -113,12 +157,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Caterpillar tariffs send major signal on margins",
+      "headline": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-tariffs-send-major-signal-200700895.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sentinelone-deepens-aws-ties-growth-200954951.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T20:07:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-08T20:09:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Praises Exchange Duopoly CME Group (CME) and Cboe (CBOE)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/jim-cramer-praises-exchange-duopoly-200924789.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T20:09:24+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -238,17 +293,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nokia\u2019s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T19:39:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: What's the outlook for Big Pharma M&A?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4629652-sa-asks-whats-the-outlook-for-big-pharma-ma?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -266,17 +310,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T19:24:30+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T19:03:50+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -321,17 +354,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T19:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T19:00:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -403,18 +425,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran sets tough terms for U.S. to reopen Strait of Hormuz despite progress in Oman",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T18:14:33+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
@@ -458,17 +468,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T17:25:25+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia\u2019s valuation is lowest in 10 years despite mind-blowing AI demand, BofA say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidias-valuation-is-lowest-in-10-years-despite-mindblowing-ai-demand-bofa-say-4847675",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T17:22:56+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
