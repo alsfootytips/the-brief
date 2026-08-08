@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T10:33:13.368504+00:00",
+  "generated_at": "2026-08-08T11:06:29.417147+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T10:33:13.365609+00:00",
+      "timestamp": "2026-08-08T11:06:29.414166+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T10:33:13.365606+00:00",
+      "timestamp": "2026-08-08T11:06:29.414163+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T10:33:13.365602+00:00",
+      "timestamp": "2026-08-08T11:06:29.414159+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T10:33:13.365598+00:00",
+      "timestamp": "2026-08-08T11:06:29.414155+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T10:33:13.365587+00:00",
+      "timestamp": "2026-08-08T11:06:29.414143+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,76 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T10:33:13.365578+00:00",
+      "timestamp": "2026-08-08T11:06:29.414135+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Fair Value spotted Avis Budget\u2019s 52% plunge four months early",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/how-fair-value-spotted-avis-budgets-52-plunge-four-months-early-93CH-4847646",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:02:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "One Whopper of a win: Burger King takes market share from McDonald's",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629476-one-whopper-of-a-win-burger-king-takes-market-share-from-mcdonalds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:00:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX\u2019s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:30:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Porch group CFO Shawn Tabak sells $405k in PRCH stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/porch-group-cfo-shawn-tabak-sells-405k-in-prch-stock-93CH-4847644",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:16:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -189,39 +255,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Maharashtra Seamless Q1 FY27 slides: profit surges on treasury gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/maharashtra-seamless-q1-fy27-slides-profit-surges-on-treasury-gains-93CH-4847632",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T09:17:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "India warned Diageo that its whisky\u2019s \u2019matured in American oak casks\u2019 claim was misleading",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/india-warned-diageo-that-its-whiskys-matured-in-american-oak-casks-claim-was-misleading-4847630",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T09:06:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Maharashtra Seamless Q1 2027 profit rises on treasury gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-maharashtra-seamless-q1-2027-profit-rises-on-treasury-gains-93CH-4847629",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T09:03:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -358,17 +391,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-07T23:25:29+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I3 Verticals signals FY2027 mid-single-digit growth while targeting 100 to 200 bps margin expansion",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629631-i3-verticals-signals-fy2027-mid-single-digit-growth-while-targeting-100-to-200-bps-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T23:24:48+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -672,17 +694,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "AirJoule Technologies (AIRJ) Lands GE Vernova Showcase As Investors Weigh Its Undervalued Narrative",
       "source": "Yahoo",
@@ -692,17 +703,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -995,11 +995,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Best CD rates today, Friday, August 7, 2026: Up to 4.15% APY return available to boost savings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-7-2026-up-to-415-apy-return-available-to-boost-savings-100000286.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
       "is_watchlist": false,
       "timestamp": "2026-08-07T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wendy\u2019s CEO moving with \u2018urgency\u2019 to revamp brand",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/wendy-ceo-moving-urgency-revamp-093411025.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T09:34:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1037,17 +1059,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How faster-growing US retailers are winning market share",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/faster-growing-us-retailers-winning-090635991.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T09:06:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1101,28 +1112,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-walt-075314479.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T07:53:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Global equity funds draw inflows for 11th week as upbeat earnings lift sentiment",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/global-equity-funds-draw-inflows-072641363.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T07:26:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I Have $2.2 Million Invested and Pay a 1% Advisor Fee. Is That Too High?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-2-million-invested-advisor-134203276.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T07:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1465,6 +1454,17 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best high-yield savings interest rates today, Friday, August 7, 2026: Earn up to 4.15% APY to maximize savings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-august-7-2026-earn-up-to-415-apy-to-maximize-savings-100000400.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-03T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
