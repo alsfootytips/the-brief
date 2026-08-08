@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T04:40:26.416668+00:00",
+  "generated_at": "2026-08-08T05:27:33.306541+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T04:40:26.413810+00:00",
+      "timestamp": "2026-08-08T05:27:33.303622+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T04:40:26.413808+00:00",
+      "timestamp": "2026-08-08T05:27:33.303620+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T04:40:26.413804+00:00",
+      "timestamp": "2026-08-08T05:27:33.303616+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T04:40:26.413801+00:00",
+      "timestamp": "2026-08-08T05:27:33.303613+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T04:40:26.413789+00:00",
+      "timestamp": "2026-08-08T05:27:33.303601+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,43 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T04:40:26.413781+00:00",
+      "timestamp": "2026-08-08T05:27:33.303593+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australia unions push on with strike at BHP\u2019s Port Hedland iron ore operations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/twoday-strike-begins-at-bhps-port-hedland-iron-ore-operations-4847364",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T04:54:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Situational Awareness invested $500 million in chip startup Source Foundry",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/situational-awareness-invested-500-million-in-chip-startup-source-foundry-4847607",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T04:53:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T04:36:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -169,39 +202,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Netlist EVP and CFO Gail Sasaki sells $99,750 in NLST shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/netlist-evp-and-cfo-gail-sasaki-sells-99750-in-nlst-shares-93CH-4847600",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T03:30:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. plans $1 billion security aid package for Colombia",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-plans-1-billion-security-aid-package-for-colombia-4847599",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T03:22:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Delaware judge orders Verisk to proceed with $2.35 billion AccuLynx deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/delaware-judge-orders-verisk-to-proceed-with-235-billion-acculynx-deal-4847598",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T03:12:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AIXC targets August 2026 RoboShare rentals in Los Angeles as liquidity remains constrained",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4629638-aixc-targets-august-2026-roboshare-rentals-in-los-angeles-as-liquidity-remains-constrained?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -255,6 +255,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T00:54:52+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "The Big Four Recession Indicators: Employment",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b9a8bf6c0a7eee1659d9a81386ef1053737cd820ff4775df96b2e4b80b680315",
+      "is_watchlist": true,
+      "timestamp": "2026-08-08T00:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -878,18 +890,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Caution Ahead: Average 3-Month\u00a0Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=eafaba9ef156c810e38f6394f0d1c1f87f49b6e15d9b3fe7d25ef4126ead3802",
-      "is_watchlist": true,
-      "timestamp": "2026-08-07T15:46:51+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Goodwin considers selling part of defence business",
       "source": "BBC Business",
@@ -1125,68 +1125,58 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ducommun Incorporated Q2 2026 Earnings Call Summary",
+      "headline": "Evergy, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ducommun-incorporated-q2-2026-earnings-215121109.html",
+      "url": "https://finance.yahoo.com/energy/articles/evergy-inc-q2-2026-earnings-222607418.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T21:51:21+00:00",
+      "timestamp": "2026-08-06T22:26:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "D-Wave Quantum Inc. Q2 2026 Earnings Call Summary",
+      "headline": "CPI Card Group Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-inc-q2-215053410.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cpi-card-group-inc-q2-222547591.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T21:50:53+00:00",
+      "timestamp": "2026-08-06T22:25:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mastercard (MA) vs. Visa (V): Stablecoins or AI Fraud Defense?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-vs-visa-v-222246965.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T22:22:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "RTX (RTX) vs. Lockheed Martin (LMT): How Street Is Pricing Two Defense Giants",
+      "headline": "Why D-Wave Quantum Stock Just Fell",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-vs-lockheed-martin-214357572.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-d-wave-quantum-stock-221939061.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T21:43:57+00:00",
+      "timestamp": "2026-08-06T22:19:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "CareCloud, Inc. Q2 2026 Earnings Call Summary",
+      "headline": "Visa (V) vs. Mastercard (MA): $2.4B BioCatch Acquisition Escalates the Payments Security War",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/carecloud-inc-q2-2026-earnings-213927400.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-vs-mastercard-ma-221521206.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-06T21:39:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The GEO Group, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/geo-group-inc-q2-2026-213550900.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T21:35:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wells Fargo Names Anthony Giuliano Head of Beauty and Wellness",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/wells-fargo-names-anthony-giuliano-213544678.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-06T21:35:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-08-06T22:15:21+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1498,6 +1488,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-29T23:36:34+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are money market accounts safe?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/are-money-market-accounts-safe-212035384.html",
+      "is_watchlist": false,
+      "timestamp": "2024-08-20T21:20:35+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     }
   ]

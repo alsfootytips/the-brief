@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T04:40:26.408299+00:00",
+  "generated_at": "2026-08-08T05:27:33.298070+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Employment Report: 23K Jobs Shed In July, Worse Than Expected\""
+      "move_reason": "News: \"The Big Four Recession Indicators: Employment\""
     },
     {
       "ticker": "QQQ",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Employment Report: 23K Jobs Shed In July, Worse Than Expected\""
+      "move_reason": "News: \"The Big Four Recession Indicators: Employment\""
     },
     {
       "ticker": "NBIS",
