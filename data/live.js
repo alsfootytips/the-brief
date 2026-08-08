@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T11:43:09.532735+00:00",
+  "generated_at": "2026-08-08T12:04:32.003461+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:43:09.529860+00:00",
+      "timestamp": "2026-08-08T12:04:32.000609+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:43:09.529857+00:00",
+      "timestamp": "2026-08-08T12:04:32.000607+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T11:43:09.529854+00:00",
+      "timestamp": "2026-08-08T12:04:32.000603+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:43:09.529850+00:00",
+      "timestamp": "2026-08-08T12:04:32.000599+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:43:09.529839+00:00",
+      "timestamp": "2026-08-08T12:04:32.000587+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,76 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T11:43:09.529830+00:00",
+      "timestamp": "2026-08-08T12:04:32.000579+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T12:00:01+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T12:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T12:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How can we minimize taxes in retirement with a $2.3 million nest egg \u2014 while buying homes in Florida and New England?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T12:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:49:22+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Selling experiences, not things: Services overtake physical goods in downtown retail",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5825813/selling-experiences-not-things-services-overtake-physical-goods-in-downtown-retail",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:43:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -107,6 +173,17 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-08T11:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:24:28+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -163,17 +240,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T11:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall-4847606",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T10:30:31+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -476,23 +542,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The smart way to invest in gold right now as the dollar slips",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
+      "headline": "Ondo Perps hits $7 billion in volume weeks after launch",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-perps-hits-7-billion-215819332.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T21:58:00+00:00",
+      "timestamp": "2026-08-07T21:58:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Prediction markets take center stage in latest round of quarterly earnings reports",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/07/prediction-markets-take-center-stage-in-latest-quarterly-earnings.html",
+      "headline": "The smart way to invest in gold right now as the dollar slips",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T21:38:57+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-08-07T21:58:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -612,28 +678,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Two reasons why Nvidia\u2019s stock saw its biggest weekly surge in more than a year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:41:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX\u2019s stock just had one of its best days ever \u2014 with the first lockup expiration now behind it",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:38:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -788,17 +832,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T18:19:39+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkNKX1cxNjJBMmFrZ2tXYVNiMmxxWGJ4R1ZBb1FhNHZDTndjZVR5YW5GMzFNcWs1dnFDMGRTc0c1bFB0cnB1ZEJYek5Kb0FtcVNXSDRWZ3UtRmdrVUJYSDZBR0dVYWlaWkh4Q3lDLU9hMzc5QzVPZVNjRng0cEJxcHdsRWRqWGoyNERWbzBFVnlRN1FxeGhDbEZSMGxqQmQtTlhheUE4cFpGdlJRYXp3SThPaEJmcEl4czViLW9PZ3BGSkZId3FFRGF3OA?oc=5",
@@ -842,17 +875,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Falling long-term unemployment isn't good news, economists say \u2014 what it means for jobseekers",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/07/long-term-unemployment-job-market-workers-labor-force.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T17:48:28+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -995,6 +1017,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Warren Buffett shares the \u2018secret sauce\u2019 to Berkshire Hathaway's dominance. Use his strategy to grow your own wealth now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-shares-secret-sauce-103500180.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:35:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK VC bets big on AI, leaving other sectors starved for cash",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uk-vc-bets-big-ai-103220903.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:32:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Salad chain Sweetgreen shares slide as cyclosporiasis fears prompt forecast cut",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/salad-chain-sweetgreen-shares-slide-102748668.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:27:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Index Futures Gain With All Eyes on Key U.S. Jobs Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-eyes-102644539.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T10:26:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "US equity funds see outflows as investors take profits ahead of jobs data",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-see-outflows-101228432.html",
@@ -1011,50 +1077,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-voted-michael-burry-says-101000304.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T10:10:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Allianz Posts Lower Net Profit Amid Portfolio Reshuffle",
-      "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/business/earnings/allianz-operating-profit-hits-record-high-on-asset-management-growth-fd9a0931?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T10:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Friday, August 7, 2026: Up to 4.15% APY return available to boost savings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-7-2026-up-to-415-apy-return-available-to-boost-savings-100000286.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Friday, August 7, 2026: Rates fall ahead of jobs report",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-7-2026-rates-fall-ahead-of-jobs-report-100000207.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1421,17 +1443,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple will invest tariff refund into U.S. manufacturing",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918538/apple-will-invest-tariff-refund-into-u-s-manufacturing",
-      "is_watchlist": false,
-      "timestamp": "2026-08-04T08:40:57+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "filing",
       "ticker": "AMD",
       "form": "8-K",
@@ -1454,17 +1465,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best high-yield savings interest rates today, Friday, August 7, 2026: Earn up to 4.15% APY to maximize savings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-august-7-2026-earn-up-to-415-apy-to-maximize-savings-100000400.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-03T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
