@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T17:51:13.686156+00:00",
+  "generated_at": "2026-08-09T18:40:19.853730+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's How Many Shares of PepsiCo You'd Need for $20,000 in Yearly Dividends\""
+      "move_reason": "News: \"Micron Has Surged 207% This Year. Brace for a Steep Pullback.\""
     },
     {
       "ticker": "PWR",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's How Many Shares of PepsiCo You'd Need for $20,000 in Yearly Dividends\""
+      "move_reason": "News: \"Micron Has Surged 207% This Year. Brace for a Steep Pullback.\""
     },
     {
       "ticker": "OSCR",
