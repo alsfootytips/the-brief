@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T15:10:23.978791+00:00",
+  "generated_at": "2026-08-09T15:47:03.771399+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -176,18 +176,6 @@ window.theBriefMovers = {
     }
   ],
   "losers": [
-    {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 13.82,
-      "change_pct": -21.79,
-      "volume_ratio": 2.39,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Benzinga Bulls And Bears: Palantir, Marvell, AppLovin\""
-    },
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
@@ -430,18 +418,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Texas Pacific Land Q2 Earnings Call Highlights\""
     },
     {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 13.82,
-      "change_pct": -21.79,
-      "volume_ratio": 2.39,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Benzinga Bulls And Bears: Palantir, Marvell, AppLovin\""
-    },
-    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 57.6,
@@ -611,42 +587,6 @@ window.theBriefMovers = {
     }
   ],
   "watchlist_radar": [
-    {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 13.82,
-      "change_pct": -21.79,
-      "score": 13.0,
-      "signals": [
-        "Moved -21.79% \u2014 a 4.2\u03c3 move vs typical 5.2% daily vol",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 12.2 (cheap on absolute basis)",
-        "Down -41.2% over 3 months \u2014 deep drawdown",
-        "-75.1% from 52-week high"
-      ],
-      "reasons": [
-        "Moved -21.79% \u2014 a 4.2\u03c3 move vs typical 5.2% daily vol",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 12.2 (cheap on absolute basis)",
-        "Down -41.2% over 3 months \u2014 deep drawdown",
-        "-75.1% from 52-week high"
-      ],
-      "tags": [
-        "big-move",
-        "news-flow",
-        "filing",
-        "insider-buying",
-        "cheap",
-        "drawdown",
-        "off-highs"
-      ],
-      "narrative": "<strong>TTD</strong> made a statistically significant decline (-21.79%) on the same week as a new SEC filing \u2014 likely material event.",
-      "sector_etf": "XLK"
-    },
     {
       "ticker": "CRWV",
       "name": "CoreWeave",

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T15:10:23.986852+00:00",
+  "generated_at": "2026-08-09T15:47:03.780706+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -29,24 +29,12 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "change_pct": -21.79,
-      "price": 13.82,
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T15:10:23.983991+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T15:10:23.983989+00:00",
+      "timestamp": "2026-08-09T15:47:03.777696+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T15:10:23.983986+00:00",
+      "timestamp": "2026-08-09T15:47:03.777693+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T15:10:23.983982+00:00",
+      "timestamp": "2026-08-09T15:47:03.777688+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T15:10:23.983971+00:00",
+      "timestamp": "2026-08-09T15:47:03.777677+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +82,76 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T15:10:23.983963+00:00",
+      "timestamp": "2026-08-09T15:47:03.777668+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hassett says fuel prices could fall sharply after Gulf crisis is resolved",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629667-hassett-says-fuel-prices-could-fall-sharply-after-gulf-crisis-is-resolved?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T15:34:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T15:25:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rocket Lab Is Down 57% From Its Peak While Analysts See 49% Upside. Who Has It Right?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-down-57-peak-152500671.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T15:25:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/130-million-hack-coldcard-money-151200491.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T15:12:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock funds slipped in July as AI volatility rattled tech investors",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629662-stock-funds-slipped-in-july-as-ai-volatility-rattled-tech-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T15:09:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A SpaceX investor thought he had $300,000 in shares \u2014 then discovered his firm sold them without notice",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-thought-had-300-150000689.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -157,6 +211,17 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scott Galloway warned the US stock market could crash within 24 months thanks to AI. Protect your nest egg while you can",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warned-us-stock-142000770.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T14:20:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -337,34 +402,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Quant snapshot: Lenovo Group and Lumentum Holdings lead top-rated names as Cannae Holdings and Crescent Capital BDC Payments lag",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629487-quant-snapshot-lenovo-group-and-lumentum-holdings-lead-top-rated-names-as-cannae-holdings-and-crescent-capital-bdc-payments-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T13:30:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-09T13:30:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple tests China\u2019s CXMT memory chips as AI boom squeezes supplies: WSJ",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629660-apple-tests-china-s-cxmt-memory-chips-as-ai-boom-squeezes-supplies-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T13:29:23+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -823,6 +866,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:20:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX Stock Looks Likely to Rally as All Operating Segments Drive Growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-looks-likely-rally-140002580.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Leveraged ETFs Turned South Korea\u2019s Stock Market Into a Casino and Why the U.S. Might Be Next",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/leveraged-etfs-turned-south-korea-140002821.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T14:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
@@ -851,95 +927,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T13:28:00+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -- His Prophecy May Still Come True",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/president-donald-trump-expected-iran-132600497.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:26:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nike (NKE) Is Betting Big on Basketball\u2019s Next Generation. Will It Pay Off?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-betting-big-basketball-132534474.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:25:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-sees-multitrillion-dollar-132500494.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:25:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear Nebius Stock Fans, Mark Your Calendars for August 12",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-nebius-stock-fans-mark-131501982.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:15:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street Is Losing Confidence in GoDaddy\u2019s (GDDY) AI Strategy. Should Investors?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-losing-confidence-godaddy-130611903.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:06:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Silicon Motion\u2019s (SIMO) Next Chapter: Can Diversification Outrun the NAND Cycle?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/silicon-motion-simo-next-chapter-130310117.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:03:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SanDisk Just Unveiled the First High-Bandwidth Flash Standard. What That Means for SNDK Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-unveiled-first-high-130002017.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear Home Depot Stock Fans, Mark Your Calendars for August 18",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-home-depot-stock-fans-130002400.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:00:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
