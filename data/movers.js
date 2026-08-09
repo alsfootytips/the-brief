@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T04:01:31.224847+00:00",
+  "generated_at": "2026-08-09T05:18:25.843711+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Global Outlook Marred By Further Slide In Emerging Market Business Confidence\""
+      "move_reason": "News: \"Crestmont P/E And Market Valuation: July 2026\""
     },
     {
       "ticker": "QQQ",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Global Outlook Marred By Further Slide In Emerging Market Business Confidence\""
+      "move_reason": "News: \"Crestmont P/E And Market Valuation: July 2026\""
     },
     {
       "ticker": "NBIS",

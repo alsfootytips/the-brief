@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T04:01:31.234436+00:00",
+  "generated_at": "2026-08-09T05:18:25.852907+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T04:01:31.231471+00:00",
+      "timestamp": "2026-08-09T05:18:25.850079+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T04:01:31.231468+00:00",
+      "timestamp": "2026-08-09T05:18:25.850076+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T04:01:31.231465+00:00",
+      "timestamp": "2026-08-09T05:18:25.850072+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T04:01:31.231460+00:00",
+      "timestamp": "2026-08-09T05:18:25.850068+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T04:01:31.231449+00:00",
+      "timestamp": "2026-08-09T05:18:25.850057+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,76 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T04:01:31.231439+00:00",
+      "timestamp": "2026-08-09T05:18:25.850049+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Myspace eyes comeback as an an 'antidote' to social media fatigue \u2014 but it may be a long shot",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T05:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "More workers join strike at BHP\u2019s Port Hedland iron ore operations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/more-workers-join-strike-at-bhps-port-hedland-iron-ore-operations-4847699",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T04:48:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "More workers join BHP strike at Port Hedland iron ore hub",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/more-workers-join-bhp-strike-at-port-hedland-iron-ore-hub-4847706",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T04:47:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lyell Immunopharma earnings beat by $0.22, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/lyell-immunopharma-earnings-beat-by-022-revenue-fell-short-of-estimates-4847705",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T04:31:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Talkspace earnings missed by $0.04, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/talkspace-earnings-missed-by-004-revenue-fell-short-of-estimates-4847704",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T04:20:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fire at Saudi Aramco\u2019s Jazan refinery extinguished, no injuries reported",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T04:03:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -125,17 +191,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "More workers join strike at BHP\u2019s Port Hedland iron ore operations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/more-workers-join-strike-at-bhps-port-hedland-iron-ore-operations-4847699",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T02:18:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Paramount offers cinema chains written pledge for 30 annual movie releases",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/company-news/paramount-offers-cinema-chains-written-pledge-for-30-annual-movie-releases-4847697",
@@ -143,18 +198,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-09T01:57:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China\u2019s producer inflation eases in July, below expectations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/chinas-producer-inflation-eases-in-july-below-expectations-4847696",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T01:48:35+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -167,28 +210,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/former-sk-hynix-employee-jailed-for-leaking-information-to-a-chinese-firm-yonhap-reports-4847695",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T01:24:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "South Korea stock volatility eases as leveraged trades unwind",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/south-korea-stock-volatility-eases-as-leveraged-trades-unwind-4847694",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T01:19:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -217,17 +238,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pentagon asks defence firms to accelerate weapons production",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/pentagon-asks-defence-firms-to-accelerate-weapons-production-4847693",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T00:38:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
@@ -235,6 +245,30 @@ window.theBriefLive = {
       "timestamp": "2026-08-09T00:36:19+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Crestmont P/E And Market Valuation: July 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d319fbdaee33182d5c6dd778caf1577b9ac50de89d36512a5f867328acf1dd77",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T00:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Market Valuation: Is The Market Still Overvalued?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=172ee529c04d02301059b2f64c0ffc06ed469b364cdcc73259093c4336db716f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T00:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -631,17 +665,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Keybanc Upgrades Quanta Services (PWR)",
       "source": "Fintel",
@@ -787,30 +810,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Revisiting My Most Read Article: Revenge Of The Baby Boomers",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f34c14c59019b86841e7c874227622d1ba4242ecfcceabc01dbc12e20f2fe174",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T08:19:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The AI Capex Waterfall Is Raining Future Dividends",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2148a17570865a5320b3d6234e4aad136b5969c80e086c34aea2ca62969c3dff",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T08:15:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)",
       "source": "SeekingAlpha",
@@ -868,6 +867,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Ground control to private equity: has AI landed on the factory floor?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ground-control-private-equity-ai-213905036.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:39:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "Stock Market Today, Aug. 7: Markets Rally on Jobs Shock and Atlassian Surges 35%",
       "source": "Yahoo",
@@ -880,6 +890,72 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Essent Group Ltd. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/essent-group-ltd-q2-2026-213608975.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:36:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How to open a checking account for a minor",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-open-a-checking-account-for-a-minor-213416031.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:34:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How a 58-Year-Old Couple Built an $11,000 Monthly Paycheck Around DGRO, SPYI, and VYM",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/58-old-couple-built-11-213328350.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:33:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "360 Energy Pulse: What mattered this week in energy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-213043744.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:30:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Art Of The Exit: Dodging Panic When Dell Stock Breached Stop",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/swing-trading/the-art-of-the-exit-dodging-panic-when-dell-stock-breached-stop/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:26:17+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oklo Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oklo-inc-q2-2026-earnings-212453604.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:24:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
       "source": "Yahoo",
@@ -889,72 +965,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Google Cloud\u2019s Taiwan Launch Hints at Alphabet\u2019s (GOOGL) Next Growth Phase",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-cloud-taiwan-launch-hints-205939823.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:59:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Okta, IBD Stock Of The Day, Is Targeting 'Nonhuman' Identity Opportunity",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/okta-stock-cybersecurity-stocks-artificial-intelligence-news/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:58:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia ends week up more than 10% as AI chip fears ease",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/nvidia-ends-week-up-more-than-10-as-ai-chip-fears-ease-205751147.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:57:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gray Media, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/gray-media-inc-q2-2026-205622226.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:56:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Atmus Filtration Technologies Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atmus-filtration-technologies-inc-q2-205031084.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:50:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arko Corp. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arko-corp-q2-2026-earnings-205019755.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:50:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1035,17 +1045,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-07T16:11:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir CEO drops 11-word bombshell for stock market investors",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T16:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
