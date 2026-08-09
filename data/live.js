@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T05:18:25.852907+00:00",
+  "generated_at": "2026-08-09T06:08:38.001698+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T05:18:25.850079+00:00",
+      "timestamp": "2026-08-09T06:08:37.998866+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T05:18:25.850076+00:00",
+      "timestamp": "2026-08-09T06:08:37.998863+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T05:18:25.850072+00:00",
+      "timestamp": "2026-08-09T06:08:37.998860+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T05:18:25.850068+00:00",
+      "timestamp": "2026-08-09T06:08:37.998857+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T05:18:25.850057+00:00",
+      "timestamp": "2026-08-09T06:08:37.998846+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T05:18:25.850049+00:00",
+      "timestamp": "2026-08-09T06:08:37.998836+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -322,7 +322,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
+      "headline": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
       "is_watchlist": true,
@@ -369,7 +369,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters",
+      "headline": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5",
       "is_watchlist": false,
@@ -737,7 +737,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
+      "headline": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
       "is_watchlist": true,
@@ -775,7 +775,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Iran's Revolutionary Guard says re-opening Strait of Hormuz does not depend on talks with Oman - Reuters",
+      "headline": "Iran's Revolutionary Guard says re-opening Strait of Hormuz does not depend on talks with Oman - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2lHbkI1OWxqUXdmZjN1SmEyTGFVSXVWTmowOFdFTzdWdTh2dVhIZFA1dF9IVy1fQ0dEZ2RtR0kxdkVOdDIzRFZVVkhaNXhyRjN2T292Q2d2UV9hUC15ZC00V0pFa1FoWUpfLWg0YTh1c2V6aUgwblZwTVhtX2dQZHFXN3N3X3hFNHI0bWViZUhXR3kyc0VxVzlnY2Z4RnhuN3dSeEUySjRBZks0cVlnSkk0X1NPNG03MGJCZTgwSU1UeWtqVDZfLUNwSQ?oc=5",
       "is_watchlist": true,
@@ -823,23 +823,34 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters",
+      "headline": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T23:02:00+00:00",
+      "timestamp": "2026-08-08T00:06:30+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
+      "headline": "US Senate passes Russia sanctions championed by Graham; US House next - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-07T22:20:38+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why 2021 vintage funds shouldn't panic yet",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/why-2021-vintage-funds-shouldnt-221313637.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T22:13:13+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -857,11 +868,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-hit-coldcard-221100213.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T22:11:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "More Than Half of Cloudflare's Network Traffic Is No Longer Human. The Stock Broke to a Record on It.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/more-half-cloudflares-network-traffic-220800969.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T22:08:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Billionaire Ken Griffin Once Said 'If You Don't Like to Sell, Get Over It' - Here's What That Means for Traders Today",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ken-griffin-once-said-220002972.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T22:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Ondo Perps hits $7 billion in volume weeks after launch",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-perps-hits-7-billion-215819332.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T21:58:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PPL Corporation Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-corporation-q2-2026-earnings-215639400.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:56:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Construction Partners, Inc. Q3 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/construction-partners-inc-q3-2026-214808220.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T21:48:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -887,72 +953,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Essent Group Ltd. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/essent-group-ltd-q2-2026-213608975.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:36:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to open a checking account for a minor",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-open-a-checking-account-for-a-minor-213416031.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:34:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How a 58-Year-Old Couple Built an $11,000 Monthly Paycheck Around DGRO, SPYI, and VYM",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/58-old-couple-built-11-213328350.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:33:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "360 Energy Pulse: What mattered this week in energy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-213043744.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:30:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Art Of The Exit: Dodging Panic When Dell Stock Breached Stop",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/swing-trading/the-art-of-the-exit-dodging-panic-when-dell-stock-breached-stop/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:26:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oklo Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oklo-inc-q2-2026-earnings-212453604.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:24:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
