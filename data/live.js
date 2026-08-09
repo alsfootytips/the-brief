@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T08:08:22.459583+00:00",
+  "generated_at": "2026-08-09T09:02:25.426982+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T08:08:22.456779+00:00",
+      "timestamp": "2026-08-09T09:02:25.424199+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T08:08:22.456776+00:00",
+      "timestamp": "2026-08-09T09:02:25.424197+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T08:08:22.456773+00:00",
+      "timestamp": "2026-08-09T09:02:25.424194+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T08:08:22.456769+00:00",
+      "timestamp": "2026-08-09T09:02:25.424190+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T08:08:22.456757+00:00",
+      "timestamp": "2026-08-09T09:02:25.424180+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,58 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T08:08:22.456748+00:00",
+      "timestamp": "2026-08-09T09:02:25.424173+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Spain checks 200 Italy arrivals in border controls after migration row",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row-4847719",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T08:54:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Talks with US won\u2019t happen while interim deal is breached, Iranian minister says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/talks-with-us-wont-happen-while-interim-deal-is-breached-iranian-minister-says-4847717",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T08:36:34+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Houthis claim drone attack on Saudi Aramco\u2019s Jazan refinery",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T08:15:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European laggards are rebounding - how far can they go?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/european-laggards-are-rebounding--how-far-can-they-go-4847715",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T07:59:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -106,9 +154,33 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
       "is_watchlist": false,
-      "timestamp": "2026-08-09T07:48:25+00:00",
+      "timestamp": "2026-08-09T07:54:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f58e416babd91f4eb5d6a6c962a41e285b256fb1df9f6cc44eb8b7953cda7ff4",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T07:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why the 20% Sell-Off in Dutch Bros Stock Is a Massive Opportunity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=008cd969e4230c038e33e544ed3597b6202543e3d2771a75b83c2b7bde1f078d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T07:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -120,6 +192,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-09T07:26:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b1726157377750a4797940cd017afe771de19d96b52f4583de49ae40cfe45cc",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T07:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -146,93 +230,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "German trade deficit with China grows as Beijing relies less on European industry",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/german-trade-deficit-with-china-grows-as-beijing-relies-less-on-european-industry-4847711",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T06:36:30+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Humanoids are as much a compute story as a robotics one",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/humanoids-are-as-much-a-compute-story-as-a-robotics-one-4847709",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T06:00:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is the Worst Finally Over for Palantir Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f815733acf70c7a31bac16167b222c022344d6d774450f570bf9b90d916d73bb",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T05:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T05:20:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Myspace eyes comeback as an an 'antidote' to social media fatigue \u2014 but it may be a long shot",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
       "is_watchlist": false,
       "timestamp": "2026-08-09T05:00:01+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Tariff Wave Ahead: Should You Make Shifts to Your Portfolio?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e8c72299a095cf30ea7d9c4505aa9b6207b360797909a94cd44107e73a1e8bd",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T04:50:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "More workers join strike at BHP\u2019s Port Hedland iron ore operations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/more-workers-join-strike-at-bhps-port-hedland-iron-ore-operations-4847699",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T04:48:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "More workers join BHP strike at Port Hedland iron ore hub",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/more-workers-join-bhp-strike-at-port-hedland-iron-ore-hub-4847706",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T04:47:16+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -798,28 +801,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 8, 2026: Rates mixed this weekend",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-8-2026-rates-mixed-this-weekend-100000461.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "Benzinga Bulls And Bears: Palantir, Marvell, AppLovin",
       "source": "Benzinga",
@@ -857,6 +838,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "China Yuchai International Limited Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-yuchai-international-limited-q2-034042772.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T03:40:42+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Your 5% CD Is Gone and the Bank\u2019s Renewal Offer Is Insulting. These 3 ETFs Keep Paying After the Fed Stops",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/5-cd-gone-bank-renewal-033545945.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T03:35:45+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Interface, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/interface-inc-q2-2026-earnings-025203752.html",
@@ -868,11 +871,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Banks Lead a Bonus Boom",
+      "headline": "SEC drops insider trading suit against ex-healthcare executive pardoned by Trump",
       "source": "Yahoo Finance",
-      "url": "https://www.barrons.com/articles/banks-lead-a-bonus-boom-36140195?siteid=yhoof2&yptr=yahoo",
+      "url": "https://finance.yahoo.com/news/sec-drops-insider-trading-suit-021049395.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-07T23:46:00+00:00",
+      "timestamp": "2026-08-08T02:10:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn Hold Steady on Friday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-hold-steady-friday-002205181.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T00:22:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wheat Hold Higher on Friday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-hold-higher-friday-002205136.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T00:22:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cotton Rallies into the Weekend",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-rallies-weekend-002205474.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T00:22:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -921,17 +957,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to open a checking account for a minor",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-open-a-checking-account-for-a-minor-213416031.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:34:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1462,28 +1487,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-29T23:36:34+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What is a regional bank?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/regional-bank-171021816.html",
-      "is_watchlist": false,
-      "timestamp": "2024-08-16T17:10:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What is universal life insurance?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-universal-life-insurance-185454508.html",
-      "is_watchlist": false,
-      "timestamp": "2023-12-15T22:16:42+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     }
   ]

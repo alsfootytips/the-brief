@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T08:08:22.450497+00:00",
+  "generated_at": "2026-08-09T09:02:25.419202+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is the Worst Finally Over for Palantir Stock?\""
+      "move_reason": "News: \"Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?\""
     },
     {
       "ticker": "PWR",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is the Worst Finally Over for Palantir Stock?\""
+      "move_reason": "News: \"Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?\""
     },
     {
       "ticker": "OSCR",
