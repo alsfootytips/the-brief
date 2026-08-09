@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-09T15:47:03.879958+00:00",
+  "generated_at": "2026-08-09T16:35:15.656245+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -780,9 +780,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 13.38,
-      "current_pct": -27.83,
-      "change_pct_today": -29.43,
+      "current_price": 13.82,
+      "current_pct": -25.46,
+      "change_pct_today": -21.79,
       "name": "The Trade Desk",
       "news_count": 3,
       "days_elapsed": 49,
