@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-08T23:38:05.861220+00:00",
+  "generated_at": "2026-08-09T00:03:26.555767+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"UBS Maintains Neutral on Oscar Health, Raises Price Target to $26\""
     },
     {
       "ticker": "APA",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Keybanc Upgrades Quanta Services (PWR)\""
     },
     {
       "ticker": "XLY",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Benzinga Bulls And Bears: Palantir, Marvell, AppLovin\""
     },
     {
       "ticker": "TPL",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"UBS Maintains Neutral on Oscar Health, Raises Price Target to $26\""
     },
     {
       "ticker": "OXY",
@@ -415,7 +415,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Keybanc Upgrades Quanta Services (PWR)\""
     },
     {
       "ticker": "TPL",
@@ -439,7 +439,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Benzinga Bulls And Bears: Palantir, Marvell, AppLovin\""
     },
     {
       "ticker": "XLE",
@@ -853,27 +853,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>PWR</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 126.93,
-      "change_pct": -0.41,
-      "score": 3.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "6 insider buys vs 0 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
     },
     {
       "ticker": "GEV",

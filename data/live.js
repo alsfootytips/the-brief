@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-08T23:38:05.870148+00:00",
+  "generated_at": "2026-08-09T00:03:26.565051+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T23:38:05.867044+00:00",
+      "timestamp": "2026-08-09T00:03:26.562240+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T23:38:05.867041+00:00",
+      "timestamp": "2026-08-09T00:03:26.562238+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-08T23:38:05.867037+00:00",
+      "timestamp": "2026-08-09T00:03:26.562234+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T23:38:05.867034+00:00",
+      "timestamp": "2026-08-09T00:03:26.562230+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T23:38:05.867021+00:00",
+      "timestamp": "2026-08-09T00:03:26.562219+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,21 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-08T23:38:05.867012+00:00",
+      "timestamp": "2026-08-09T00:03:26.562210+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "$400,000 in Employer Stock Inside Your 401(k)? This Tax Rule Could Save You $65,000 Before You Retire",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/400-000-employer-stock-inside-233905732.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T23:39:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -124,12 +135,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Three Griffon Executives Sold Into an Earnings Pop. Here's What to Know",
+      "headline": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/three-griffon-executives-sold-earnings-231030854.html",
+      "url": "https://finance.yahoo.com/energy/articles/u-energy-helps-cushion-global-230000293.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T23:10:30+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-08T23:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -375,17 +386,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T19:46:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1328,30 +1328,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-05T19:18:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "From Classrooms To Wall Street: Why Back-To-School Matters More This Year",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f79187f8f2236805eeeabc94cc100a48261547c0546655ef23f19da4152a911c",
-      "is_watchlist": true,
-      "timestamp": "2026-08-05T09:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Is Dollar General (DG) Still Trading At A Discount To Fair Value?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=117da549dd5e06fe8b2f69b7fa9379a0ffabcbb44c06b300d45f4137274a8d4b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-05T07:15:17+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",
