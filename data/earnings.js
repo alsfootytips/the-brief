@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-09T09:02:25+00:00",
+  "generated_at": "2026-08-09T09:56:29+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -4273,14 +4273,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MSGM",
-        "date": "2026-08-12",
-        "hour": "",
-        "eps_estimate": 0.0612,
-        "revenue_estimate": 2961060,
-        "is_watchlist": false
-      },
-      {
         "ticker": "MSN",
         "date": "2026-08-12",
         "hour": "",
@@ -8017,14 +8009,6 @@ window.theBriefEarnings = {
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
-      },
-      {
-        "ticker": "SPG",
-        "date": "2026-08-10",
-        "hour": "amc",
-        "eps_estimate": 1.6907,
-        "revenue_estimate": 1628124595,
-        "is_watchlist": false
       }
     ],
     "2026-08-13": [
@@ -9463,6 +9447,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "ELWT",
+        "date": "2026-08-14",
+        "hour": "",
+        "eps_estimate": -0.2448,
+        "revenue_estimate": 4824600,
+        "is_watchlist": false
+      },
+      {
         "ticker": "EWCZ",
         "date": "2026-08-14",
         "hour": "",
@@ -9540,6 +9532,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MSGM",
+        "date": "2026-08-14",
+        "hour": "",
+        "eps_estimate": 0.0612,
+        "revenue_estimate": 2961060,
         "is_watchlist": false
       },
       {
