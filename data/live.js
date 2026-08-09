@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T10:36:40.210702+00:00",
+  "generated_at": "2026-08-09T11:12:50.232773+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T10:36:40.207883+00:00",
+      "timestamp": "2026-08-09T11:12:50.229821+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T10:36:40.207880+00:00",
+      "timestamp": "2026-08-09T11:12:50.229818+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T10:36:40.207877+00:00",
+      "timestamp": "2026-08-09T11:12:50.229815+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T10:36:40.207873+00:00",
+      "timestamp": "2026-08-09T11:12:50.229812+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T10:36:40.207861+00:00",
+      "timestamp": "2026-08-09T11:12:50.229801+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,54 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T10:36:40.207853+00:00",
+      "timestamp": "2026-08-09T11:12:50.229791+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro\u2019s Fair Value flagged SSII as overvalued before 55% drop",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-flagged-ssii-as-overvalued-before-55-drop-93CH-4847726",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T11:02:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yemen\u2019s Houthis attack Saudi refinery after kingdom signs defence pact",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T10:36:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MEXC Lists New Ondo Tokenized Stock Pairs Spanning AI Infrastructure, Semiconductor and Rare Earth Sectors",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/press-releases/mexc-lists-new-ondo-tokenized-stock-pairs-spanning-ai-infrastructure-semiconductor-and-rare-earth-sectors-4847725",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T10:30:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What happens when the Strait reopens? Key factors to watch",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/what-happens-when-the-strait-reopens-key-factors-to-watch-4847724",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T10:29:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -118,17 +162,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4847676",
       "is_watchlist": false,
       "timestamp": "2026-08-09T10:05:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-9-2026-lock-in-up-to-435-apy-100000411.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -192,50 +225,6 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "India\u2019s Maruti sees passenger vehicle market rising to up to 6.3 million units by 2031",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/indias-maruti-sees-passenger-vehicle-market-rising-to-up-to-63-million-units-by-2031-4847721",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T09:12:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Taiwan\u2019s 2027 defence spending to rise 16%, official media reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/taiwans-2027-defence-spending-to-rise-16-official-media-reports-4847720",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T09:06:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: Pullback in this stock is an \u2019enhanced buying opportunity\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T09:05:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Spain checks 200 Italy arrivals in border controls after migration row",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row-4847719",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T08:54:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -276,7 +265,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Yemen's Houthis say they attacked Saudi Aramco Jazan refinery, fire extinguished - Reuters",
+      "headline": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBVeVBiZENRc3B0WldHbXZqbXBjLU5ucDVuODRNY3pIWFRKaWlES0lzRDVoWEFjOFBLQVkxeGVHd0pHWWV6Y0V0OFphUk81YksyX3BHQ0I2MVY2RHdfNDY1dE9XdGozaVQ0RWsyaXNieWlRT2RYdHNRNEp4ZHptOHBBTVFST2pfZXVIbkJZUlIteElMRTlQWEt5eGZ6RU9JMjRtUmdCYWVXUUM0TUE?oc=5",
       "is_watchlist": false,
@@ -819,6 +808,39 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "The AI boom is creating jobs far from Silicon Valley: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/the-ai-boom-is-creating-jobs-far-from-silicon-valley-chart-of-the-day-112914747.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:29:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Elon Musk issues red flag warning to group of SpaceX traders \u2014 but they keep doubling down. Are you making the same bet?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-issues-red-flag-111500261.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T11:15:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US wages plummet to 43% of national income \u2014 lowest since the Great Depression. Did Nixon\u2019s gold breakup kill paychecks?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/us-wages-plummet-43-national-104500200.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -832,6 +854,28 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global Payments Q2 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/global-payments-q2-earnings-call-100349946.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:03:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-better-ai-100300904.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:03:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -881,28 +925,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "fuboTV Q3 Earnings Call Highlights",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/fubotv-q3-earnings-call-highlights-080401998.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T08:04:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Takeover saga pushes The Telegraph to a loss",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/takeover-saga-pushes-telegraph-loss-080000956.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T08:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)",
       "source": "SeekingAlpha",
@@ -936,17 +958,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to open a checking account for a minor",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-open-a-checking-account-for-a-minor-213416031.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T21:34:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1477,17 +1488,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-07-29T23:36:34+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What is a regional bank?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/regional-bank-171021816.html",
-      "is_watchlist": false,
-      "timestamp": "2024-08-16T17:10:21+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     }
   ]
