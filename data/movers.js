@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T21:50:39.343403+00:00",
+  "generated_at": "2026-08-09T22:31:50.565817+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profi...\""
+      "move_reason": "News: \"Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?\""
     },
     {
       "ticker": "OSCR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
+      "move_reason": "News: \"Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 B...\""
     },
     {
       "ticker": "PWR",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land Q2 Earnings Call Highlights\""
+      "move_reason": "News: \"3 Growth Stocks Set to Flourish\""
     },
     {
       "ticker": "AMD",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
+      "move_reason": "News: \"5-star analyst resets AMD stock price target\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
+      "move_reason": "News: \"5-star analyst resets AMD stock price target\""
     },
     {
       "ticker": "APA",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profi...\""
+      "move_reason": "News: \"Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?\""
     },
     {
       "ticker": "DG",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
+      "move_reason": "News: \"Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 B...\""
     },
     {
       "ticker": "OSCR",
@@ -427,7 +427,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land Q2 Earnings Call Highlights\""
+      "move_reason": "News: \"3 Growth Stocks Set to Flourish\""
     },
     {
       "ticker": "TTD",
