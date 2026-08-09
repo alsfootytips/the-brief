@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T19:57:52.902781+00:00",
+  "generated_at": "2026-08-09T20:39:51.605995+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T19:57:52.899692+00:00",
+      "timestamp": "2026-08-09T20:39:51.603223+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T19:57:52.899690+00:00",
+      "timestamp": "2026-08-09T20:39:51.603220+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T19:57:52.899686+00:00",
+      "timestamp": "2026-08-09T20:39:51.603216+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T19:57:52.899682+00:00",
+      "timestamp": "2026-08-09T20:39:51.603212+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T19:57:52.899670+00:00",
+      "timestamp": "2026-08-09T20:39:51.603201+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,34 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T19:57:52.899661+00:00",
+      "timestamp": "2026-08-09T20:39:51.603192+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T19:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T19:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -107,6 +131,17 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
       "is_watchlist": false,
       "timestamp": "2026-08-09T19:42:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire breaks 14-quarter selling streak with $23.5B of stock buys \u2014 $10B went to 1 company at a private price",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-breaks-14-quarter-selling-194000465.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T19:40:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -123,6 +158,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold Forever.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=582b05f0d569ee51c6b0bf6250a46451d2c42e0cdfa41d6823ef058dd06ca5e1",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T19:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Comcast (CMCSA) Pushes Private Wireless Into The Office Market",
       "source": "Yahoo Finance",
@@ -131,6 +178,33 @@ window.theBriefLive = {
       "timestamp": "2026-08-09T19:32:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Jim Cramer Just Reminded Everyone About the Most Important Aspect of Investing in SpaceX",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bedf2297e16d9ebaa60990700695598c92d572a3bfa964fe5eaf66135ddd5aed",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T19:31:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Netanyahu says Trump's new Gaza plan is unacceptable - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T19:24:40+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -252,23 +326,36 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d3f99908919450edf69d6450b5da48d034167da9e80ac744efab75fd58af913",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T18:24:31+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d3f99908919450edf69d6450b5da48d034167da9e80ac744efab75fd58af913",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T18:24:31+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html",
       "is_watchlist": false,
       "timestamp": "2026-08-09T18:24:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T18:19:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -294,42 +381,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-09T18:02:43+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Micron Has Surged 207% This Year. Brace for a Steep Pullback.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94308ef42d235b245bc7e10b205a677f62304b920cc33bc7c3c10feb84fe4105",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T17:45:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f47db17e08576a99d5ee61bb26ce69bec10ecf0f4e174c192439193bad82a0b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T17:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Long-Term Dividend ETF Built to Outlast Any Market Cycle Over 20 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9822a76f186cb3e1139a44068d488ed8c9e3c86bf8404323e36ef2be4e5f2e4",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T17:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -396,17 +447,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T16:05:54+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -556,6 +596,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Advanced Micro Devices Reported Record Revenue. AMD Stock Sank Anyway.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed5256c247acb858a154c4f40fb3e74060878ce81198be66c0e0d67fa89e1e8d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T13:15:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Here are the 2 big things we're watching in the stock market in the week ahead",
       "source": "CNBC",
@@ -585,6 +637,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-09T13:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Most Gulf bourses subdued as investors await Strait of Hormuz deal clarity - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXFfQ0YybkFMMlYyUVVIbDBSazRGN19SeDlzRTZFWklTek93NlY2S3MyNThpalc0aGFJQkg1c1NTWW1VUWstUGRhVzZ3LTIzaWdWbTZ3aV9MU21Td3l5NzhmaHZlZ1E1cGdRbDJ0WXlFOXhvSHZveFNQVjgxVkRxV3NXNkUwSEhFVXBpaUdXUjZLdzE3aS10dEZpRGhBRTZFczdIUkQ4bkw1TmtNMFJycFhTSkc4VmEzcEs0VHVFSQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T12:55:43+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -778,18 +841,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD: Lisa Su's Magic Appears To Be Fading",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a36fa8e754b6a540eb2ce4f8550a8827de75ca5614f91c5f493a7436ce3b9a38",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T09:24:51+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
       "source": "SeekingAlpha",
@@ -799,17 +850,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia says it hit fuel storage facilities in Ukrainian ports overnight - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmJnek5pZHJ3UUNSeXFwWXg1cXd0WWpIZUd5a2lHVTBnVE0tZDNmLVU4a2NzbEd0NGsteXFZYW93RXJwci1tSjhYNzdKQi1UcGJ6VnpxWjZZaUYzOUxHX3Utd2dGdUdnT0dHVTZna3hxMkVxSGM4Q29JMlpwZjVucmwxcHRSZ3ZZd3gzWnhjRmxaZUhteFZNR3ZjVmdkbnBCbk4yR0FqcC1xQ2t5MlFz?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T06:56:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -871,18 +911,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD just made bold move to challenge Nvidia",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00b002fdee659b9d63f0d5ec45210daa64c6ef2fe6807310576cd32e6ca2dc9d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T22:07:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Does AirJoule Technologies (AIRJ) Using GE Vernova\u2019s Campus Showcase Reframe Its Industrial Water Strategy?",
       "source": "Yahoo",
@@ -903,30 +931,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-08T19:00:00+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Is Worth 55 Times Its Revenue. What Does That Price Assume?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ee798e3314a60b1249ea1443723f25830905cdacbe12dc6c57f547a1c5a41ae7",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T17:12:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=fc970b99dc9e8ceba41a4dd19027adc5d37e81fea343b824a16f3f64a1cb81a4",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T15:45:48+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

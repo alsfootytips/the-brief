@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T19:57:52.893113+00:00",
+  "generated_at": "2026-08-09T20:39:51.596778+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profi...\""
     },
     {
       "ticker": "OSCR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Has Surged 207% This Year. Brace for a Steep Pullback.\""
+      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge\""
+      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge\""
+      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
     },
     {
       "ticker": "APA",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profi...\""
     },
     {
       "ticker": "DG",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alger Dynamic Opportunities Fund Q2 2026 Portfolio Update\""
+      "move_reason": "News: \"IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profi...\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Has Surged 207% This Year. Brace for a Steep Pullback.\""
+      "move_reason": "News: \"A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028\""
     },
     {
       "ticker": "OSCR",
