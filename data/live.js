@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T23:05:58.432407+00:00",
+  "generated_at": "2026-08-09T23:47:07.725426+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T23:05:58.429604+00:00",
+      "timestamp": "2026-08-09T23:47:07.722709+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T23:05:58.429599+00:00",
+      "timestamp": "2026-08-09T23:47:07.722706+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T23:05:58.429595+00:00",
+      "timestamp": "2026-08-09T23:47:07.722702+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T23:05:58.429591+00:00",
+      "timestamp": "2026-08-09T23:47:07.722698+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T23:05:58.429579+00:00",
+      "timestamp": "2026-08-09T23:47:07.722687+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T23:05:58.429571+00:00",
+      "timestamp": "2026-08-09T23:47:07.722679+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -102,22 +102,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "If a Stock Market Crash Is Coming, History Says This Investing Strategy Has Never Once Failed",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-225000580.html",
+      "headline": "Earnings call transcript: Imricor posts tiny Q2 2026 revenue as U.S. launch begins",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-imricor-posts-tiny-q2-2026-revenue-as-us-launch-begins-93CH-4847768",
       "is_watchlist": false,
-      "timestamp": "2026-08-09T22:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T22:46:24+00:00",
+      "timestamp": "2026-08-09T23:44:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -128,7 +117,7 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-09T22:46:00+00:00",
+      "timestamp": "2026-08-09T23:40:00+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -136,34 +125,116 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil rises as uncertainty continues over reopening of Strait",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759",
+      "headline": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-09T22:18:26+00:00",
+      "timestamp": "2026-08-09T23:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "We told you first: these AI-picked stocks are up +48% and +28% already",
+      "headline": "Westpac Q3 2026 slides: steady growth masks looming margin pressure",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-stocks-are-up-48-and-28-already-4847758",
+      "url": "https://www.investing.com/news/company-news/westpac-q3-2026-slides-steady-growth-masks-looming-margin-pressure-93CH-4847766",
       "is_watchlist": false,
-      "timestamp": "2026-08-09T22:17:09+00:00",
+      "timestamp": "2026-08-09T23:27:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump names Will Scharf as White House counsel",
+      "headline": "Westpac Q3 2026 slides: steady profit growth as margin pressure looms",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-names-will-scharf-as-white-house-counsel-4847757",
+      "url": "https://www.investing.com/news/company-news/westpac-q3-2026-slides-steady-profit-growth-as-margin-pressure-looms-93CH-4847765",
       "is_watchlist": false,
-      "timestamp": "2026-08-09T22:06:31+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-09T23:26:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why QXO, Inc. Fell Over 20% in July",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qxo-inc-fell-over-232000273.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T23:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Treasury Wine announces $395 million charge tied to US supply chain revamp",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/treasury-wine-announces-395-million-charge-tied-to-us-supply-chain-revamp-4847764",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T23:19:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK\u2019s jobs market shows signs of stabilisation, REC/KPMG say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/uks-jobs-market-shows-signs-of-stabilisation-reckpmg-say-4847763",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T23:18:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Westpac posts steady Q3 2026 growth as margin pressure looms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-westpac-posts-steady-q3-2026-growth-as-margin-pressure-looms-93CH-4847762",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T23:14:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shein finds there\u2019s no place like China after Vietnam warehouse experiment disappoints",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/shein-finds-theres-no-place-like-china-after-vietnam-warehouse-experiment-disappoints-4847761",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T23:12:27+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran ties Hormuz reopening to US concessions on several demands",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands-4847760",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T23:06:27+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T22:56:31+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -293,17 +364,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847756",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "5-star analyst resets AMD stock price target",
       "source": "Yahoo",
@@ -386,17 +446,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Yemen\u2019s Houthis attack Saudi refinery after kingdom signs defence pact",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T19:42:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire breaks 14-quarter selling streak with $23.5B of stock buys \u2014 $10B went to 1 company at a private price",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-breaks-14-quarter-selling-194000465.html",
@@ -454,17 +503,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin hits overbought MFI at $65,500 resistance: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T19:02:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -476,21 +514,6 @@ window.theBriefLive = {
       "is_watchlist": true,
       "timestamp": "2026-08-09T18:55:32+00:00",
       "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Oman deal is in \u2019final stages\u2019 but US must act to open Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T18:48:30+00:00",
-      "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
@@ -540,22 +563,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says U.S. is \u2019low-keying it\u2019 with Iran as its economy struggles",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T17:22:16+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -725,17 +732,6 @@ window.theBriefLive = {
       "headline": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T12:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Her bank accounts were stripped bare by Medicaid\u2019: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-09T12:30:00+00:00",
       "relevance_score": 0.0,
@@ -937,17 +933,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-08T13:41:32+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says \u2014 here's how to get started",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T13:30:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1297,6 +1282,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-07T09:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-06T23:42:20+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
