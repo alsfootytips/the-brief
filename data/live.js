@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T11:12:50.232773+00:00",
+  "generated_at": "2026-08-09T11:46:27.666999+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T11:12:50.229821+00:00",
+      "timestamp": "2026-08-09T11:46:27.664108+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T11:12:50.229818+00:00",
+      "timestamp": "2026-08-09T11:46:27.664105+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T11:12:50.229815+00:00",
+      "timestamp": "2026-08-09T11:46:27.664102+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T11:12:50.229812+00:00",
+      "timestamp": "2026-08-09T11:46:27.664098+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T11:12:50.229801+00:00",
+      "timestamp": "2026-08-09T11:46:27.664087+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,65 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T11:12:50.229791+00:00",
+      "timestamp": "2026-08-09T11:46:27.664079+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI-driven tech volatility reaches dot-com era extremes: UBS",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/aidriven-tech-volatility-reaches-dotcom-era-extremes-ubs-4847730",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T11:35:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T11:31:42+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T11:23:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple tests memory chips from China\u2019s CXMT to ease AI-driven supply crunch - WSJ",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/apple-tests-memory-chips-from-chinas-cxmt-to-ease-aidriven-supply-crunch--wsj-4847728",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T11:10:53+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Columbus McKinnon delivers 66% return after Fair Value call",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/columbus-mckinnon-delivers-66-return-after-fair-value-call-93CH-4847727",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T11:09:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -156,28 +211,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Street Calls of the Week",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4847676",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T10:05:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "European stocks draw investors as earnings and growth strengthen",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-draw-investors-as-earnings-and-growth-strengthen-4847722",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T09:58:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30",
       "source": "Yahoo",
@@ -211,18 +244,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran sets sweeping U.S. conditions for reopening Strait of Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T09:21:05+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -550,21 +571,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-08T17:41:31+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Hunter Biden says Joe Biden\u2019s cancer has spread further and is \u2018very painful\u2019",
@@ -762,17 +768,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T12:00:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
@@ -810,11 +805,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The AI boom is creating jobs far from Silicon Valley: Chart of the Day",
+      "headline": "The AI boom ripples into regional banks as lending picks up",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/the-ai-boom-is-creating-jobs-far-from-silicon-valley-chart-of-the-day-112914747.html",
+      "url": "https://finance.yahoo.com/markets/article/the-ai-boom-ripples-into-regional-banks-as-lending-picks-up-112917906.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T11:29:14+00:00",
+      "timestamp": "2026-08-08T11:29:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -841,6 +836,28 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Widows With $1.6 Million 401(k)s Face Thousands in Unexpected Taxes on Lower Income",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/why-widows-1-6-million-103856558.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:38:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Warren Buffett Has Recommended the Same Investment for Decades -- and the Long-Term Results Have Been Extraordinary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-recommended-same-investment-103500446.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:35:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -858,22 +875,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Global Payments Q2 Earnings Call Highlights",
+      "headline": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/global-payments-q2-earnings-call-100349946.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T10:03:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-better-ai-100300904.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T10:03:00+00:00",
+      "timestamp": "2026-08-08T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -883,17 +889,6 @@ window.theBriefLive = {
       "headline": "Mortgage and refinance interest rates today, Saturday, August 8, 2026: Rates mixed this weekend",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-8-2026-rates-mixed-this-weekend-100000461.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html",
       "is_watchlist": false,
       "timestamp": "2026-08-08T10:00:00+00:00",
       "relevance_score": 0.0,
