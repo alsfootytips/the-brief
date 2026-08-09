@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T09:56:29.631936+00:00",
+  "generated_at": "2026-08-09T10:36:40.201586+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?\""
+      "move_reason": "News: \"Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30\""
     },
     {
       "ticker": "PWR",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron's Stock Price Has Corrected 30% From Its All-Time High. Is It Time to Buy?\""
+      "move_reason": "News: \"Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30\""
     },
     {
       "ticker": "OSCR",
