@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T00:03:26.555767+00:00",
+  "generated_at": "2026-08-09T02:28:58.410131+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings\""
+      "move_reason": "News: \"CoreWeave (CRWV) Wins Bigger AI Trading Capacity Deal As Finance Demand Deepens\""
     },
     {
       "ticker": "OSCR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"When Leverage Goes Wrong on Wall Street\""
+      "move_reason": "News: \"Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record Hi...\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?\""
+      "move_reason": "News: \"AMD just made bold move to challenge Nvidia\""
     },
     {
       "ticker": "GEV",
@@ -269,7 +269,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OXY Q2 Earnings Call Maps $4B Cash Flow Path to 2030\""
+      "move_reason": "News: \"Occidental Petroleum Q2 Earnings Call Highlights\""
     },
     {
       "ticker": "MSFT",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?\""
+      "move_reason": "News: \"AMD just made bold move to challenge Nvidia\""
     },
     {
       "ticker": "APA",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings\""
+      "move_reason": "News: \"CoreWeave (CRWV) Wins Bigger AI Trading Capacity Deal As Finance Demand Deepens\""
     },
     {
       "ticker": "DG",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"When Leverage Goes Wrong on Wall Street\""
+      "move_reason": "News: \"Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record Hi...\""
     },
     {
       "ticker": "OSCR",
@@ -403,7 +403,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OXY Q2 Earnings Call Maps $4B Cash Flow Path to 2030\""
+      "move_reason": "News: \"Occidental Petroleum Q2 Earnings Call Highlights\""
     },
     {
       "ticker": "PWR",
