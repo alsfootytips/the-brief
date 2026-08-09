@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T12:50:42.825740+00:00",
+  "generated_at": "2026-08-09T13:50:12.469126+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Narrative Risk: The Hyperscaler Story Changes Again\""
+      "move_reason": "News: \"The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead\""
     },
     {
       "ticker": "QQQ",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Narrative Risk: The Hyperscaler Story Changes Again\""
+      "move_reason": "News: \"The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead\""
     },
     {
       "ticker": "NBIS",
