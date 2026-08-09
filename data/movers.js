@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T11:46:27.657775+00:00",
+  "generated_at": "2026-08-09T12:50:42.825740+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30\""
+      "move_reason": "News: \"The Stock Market Is Sending a Chilling Warning, and History Isn't Reassuring\""
     },
     {
       "ticker": "PWR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Crestmont P/E And Market Valuation: July 2026\""
+      "move_reason": "News: \"AI Narrative Risk: The Hyperscaler Story Changes Again\""
     },
     {
       "ticker": "QQQ",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Which S&P500 stocks are moving before the opening bell on Friday?\""
+      "move_reason": "News: \"Texas Pacific Land Q2 Earnings Call Highlights\""
     },
     {
       "ticker": "AMD",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD just made bold move to challenge Nvidia\""
+      "move_reason": "News: \"AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD just made bold move to challenge Nvidia\""
+      "move_reason": "News: \"AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge\""
     },
     {
       "ticker": "APA",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Crestmont P/E And Market Valuation: July 2026\""
+      "move_reason": "News: \"AI Narrative Risk: The Hyperscaler Story Changes Again\""
     },
     {
       "ticker": "NBIS",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30\""
+      "move_reason": "News: \"The Stock Market Is Sending a Chilling Warning, and History Isn't Reassuring\""
     },
     {
       "ticker": "OSCR",
@@ -427,7 +427,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Which S&P500 stocks are moving before the opening bell on Friday?\""
+      "move_reason": "News: \"Texas Pacific Land Q2 Earnings Call Highlights\""
     },
     {
       "ticker": "TTD",
