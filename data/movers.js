@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T18:40:19.853730+00:00",
+  "generated_at": "2026-08-09T19:20:37.500399+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
+      "move_reason": "News: \"Alger Dynamic Opportunities Fund Q2 2026 Portfolio Update\""
     },
     {
       "ticker": "NVDA",
