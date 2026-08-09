@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T16:35:15.550019+00:00",
+  "generated_at": "2026-08-09T17:15:13.379046+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The July CPI Report May Reveal Why Rates Are Headed Even Higher\""
+      "move_reason": "News: \"Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Divid...\""
     },
     {
       "ticker": "QQQ",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The July CPI Report May Reveal Why Rates Are Headed Even Higher\""
+      "move_reason": "News: \"Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Divid...\""
     },
     {
       "ticker": "NBIS",

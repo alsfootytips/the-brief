@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T16:35:15.559712+00:00",
+  "generated_at": "2026-08-09T17:15:13.384819+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T16:35:15.556788+00:00",
+      "timestamp": "2026-08-09T17:15:13.382720+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T16:35:15.556785+00:00",
+      "timestamp": "2026-08-09T17:15:13.382718+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T16:35:15.556782+00:00",
+      "timestamp": "2026-08-09T17:15:13.382716+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T16:35:15.556777+00:00",
+      "timestamp": "2026-08-09T17:15:13.382714+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T16:35:15.556766+00:00",
+      "timestamp": "2026-08-09T17:15:13.382706+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,88 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T16:35:15.556755+00:00",
+      "timestamp": "2026-08-09T17:15:13.382700+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Maruti Suzuki sees India auto market reaching 6.3M vehicles by 2031",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629670-maruti-suzuki-sees-india-auto-market-reaching-6_3m-vehicles-by-2031?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T17:02:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What to Know When a Magnite Director Sells Into a 36% Growth Quarter",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-magnite-director-sells-36-165217523.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T16:52:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Usana Health Sciences Stock Plummeted This Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-usana-health-sciences-stock-164851585.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T16:48:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How caregiving can blow a hole in retirement savings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/how-caregiving-can-blow-a-hole-in-retirement-savings-164639249.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T16:46:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Seek more context when you hear these popular words and phrases about markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/seek-more-context-when-you-hear-these-popular-words-and-phrases-about-markets-163746764.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T16:37:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China inflation cools more than expected as domestic demand stays weak",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629668-china-inflation-cools-more-than-expected-as-domestic-demand-stays-weak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T16:31:34+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T16:25:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -119,28 +197,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4629659-nearly-half-of-auto-liability-medical-insurance-claims-close-without-payment-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-09T16:06:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-zoox-prepares-launch-160500178.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T16:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway Owns More Than 20% of American Express. Here's What That Means for Individual Investors.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-owns-more-20-160500777.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T16:05:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -226,17 +282,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T15:25:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Rocket Lab Is Down 57% From Its Peak While Analysts See 49% Upside. Who Has It Right?",
       "source": "Yahoo",
@@ -283,34 +328,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Key deals this week: Bending Spoons, Advanced Micro Devices, Visa, Prologis, and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629666-key-deals-this-week-bending-spoons-advanced-micro-devices-visa-prologis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T14:46:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
       "is_watchlist": false,
       "timestamp": "2026-08-09T14:45:17+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Leveraged ETFs fuel tech volatility, creating opportunities for momentum traders",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629663-leveraged-etfs-fuel-tech-volatility-creating-opportunities-for-momentum-traders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T14:31:06+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -523,6 +546,29 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "You saved $1.5M in your 401(k) \u2014 now the IRS wants $56,603 a year, and that's just the start",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/saved-1-5m-401-k-130000096.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T13:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=396633687c22d92d4cf0aae0b298a1b29b2e118bbb5073323926f4dd8539bc69",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T12:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
@@ -723,18 +769,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "AI Narrative Risk: The Hyperscaler Story Changes Again",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=687f14822590b289e574d7bdfe28cc67c3adea10c57db04be681184034d84d75",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T08:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Russia says it hit fuel storage facilities in Ukrainian ports overnight - Reuters",
       "source": "Reuters",
@@ -872,39 +906,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-tops-q2-estimates-investors-151502222.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear SanDisk Stock Fans, Mark Your Calendars for a Fresh Catalyst on August 13",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-sandisk-stock-fans-mark-151502073.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why This ETF Might Be Ready to Make a Quantum Leap",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-etf-might-ready-quantum-150002485.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
