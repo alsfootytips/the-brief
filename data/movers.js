@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T07:16:37.349483+00:00",
+  "generated_at": "2026-08-09T08:08:22.450497+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Wins Bigger AI Trading Capacity Deal As Finance Demand Deepens\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "OSCR",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Wins Bigger AI Trading Capacity Deal As Finance Demand Deepens\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "DG",
