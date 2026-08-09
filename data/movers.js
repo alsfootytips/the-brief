@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T06:08:37.993130+00:00",
+  "generated_at": "2026-08-09T07:16:37.349483+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record Hi...\""
+      "move_reason": "News: \"Is the Worst Finally Over for Palantir Stock?\""
     },
     {
       "ticker": "PWR",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record Hi...\""
+      "move_reason": "News: \"Is the Worst Finally Over for Palantir Stock?\""
     },
     {
       "ticker": "OSCR",
