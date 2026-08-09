@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T17:15:13.384819+00:00",
+  "generated_at": "2026-08-09T17:51:13.695393+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T17:15:13.382720+00:00",
+      "timestamp": "2026-08-09T17:51:13.692597+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T17:15:13.382718+00:00",
+      "timestamp": "2026-08-09T17:51:13.692595+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T17:15:13.382716+00:00",
+      "timestamp": "2026-08-09T17:51:13.692591+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T17:15:13.382714+00:00",
+      "timestamp": "2026-08-09T17:51:13.692588+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T17:15:13.382706+00:00",
+      "timestamp": "2026-08-09T17:51:13.692576+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,59 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T17:15:13.382700+00:00",
+      "timestamp": "2026-08-09T17:51:13.692568+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "1 Long-Term Dividend ETF Built to Outlast Any Market Cycle Over 20 Years",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-long-term-dividend-etf-173500542.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T17:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pentagon presses defense contractors to ramp up weapons production",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4629671-pentagon-presses-defense-contractors-to-ramp-up-weapons-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T17:26:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A Victory Capital Insider's Shares Vested as the Stock Climbed to Records. Here's What to Know",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/victory-capital-insiders-shares-vested-172604359.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T17:26:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says U.S. is \u2019low-keying it\u2019 with Iran as its economy struggles",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
+      "is_watchlist": true,
+      "timestamp": "2026-08-09T17:22:16+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -107,28 +156,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4629670-maruti-suzuki-sees-india-auto-market-reaching-6_3m-vehicles-by-2031?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-09T17:02:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What to Know When a Magnite Director Sells Into a 36% Growth Quarter",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-magnite-director-sells-36-165217523.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T16:52:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Usana Health Sciences Stock Plummeted This Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-usana-health-sciences-stock-164851585.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T16:48:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -198,6 +225,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-09T16:06:16+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T16:05:54+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -317,17 +355,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI investment will fuel more equity issuance, while buybacks cushion effects: Goldman Sachs",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4629661-ai-investment-will-fuel-more-equity-issuance-but-buybacks-will-cushion-effects-goldman-sachs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T14:51:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
@@ -435,17 +462,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hub Group earnings ahead: Can execution match freight rebound?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/hub-group-earnings-ahead-can-execution-match-freight-rebound-93CH-4847743",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T13:37:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "5 \u2018rules\u2019 your parents taught you that are sabotaging your career, says expert\u2014like \u2018always be grateful\u2019",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
@@ -513,17 +529,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T13:09:15+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
@@ -538,17 +543,6 @@ window.theBriefLive = {
       "headline": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-09T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "You saved $1.5M in your 401(k) \u2014 now the IRS wants $56,603 a year, and that's just the start",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/saved-1-5m-401-k-130000096.html",
       "is_watchlist": false,
       "timestamp": "2026-08-09T13:00:00+00:00",
       "relevance_score": 0.0,
@@ -972,6 +966,17 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/08/08/nx-s1-5825813/selling-experiences-not-things-services-overtake-physical-goods-in-downtown-retail",
       "is_watchlist": false,
       "timestamp": "2026-08-08T11:43:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
