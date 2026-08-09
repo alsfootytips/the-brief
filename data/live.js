@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-09T02:28:58.419483+00:00",
+  "generated_at": "2026-08-09T04:01:31.234436+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T02:28:58.416576+00:00",
+      "timestamp": "2026-08-09T04:01:31.231471+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T02:28:58.416574+00:00",
+      "timestamp": "2026-08-09T04:01:31.231468+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-09T02:28:58.416570+00:00",
+      "timestamp": "2026-08-09T04:01:31.231465+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T02:28:58.416566+00:00",
+      "timestamp": "2026-08-09T04:01:31.231460+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T02:28:58.416554+00:00",
+      "timestamp": "2026-08-09T04:01:31.231449+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,10 +94,33 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-09T02:28:58.416545+00:00",
+      "timestamp": "2026-08-09T04:01:31.231439+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How coordinated currency buying interventions work",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/how-coordinated-currency-buying-interventions-work-4847702",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T03:22:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China factory-gate inflation slows more than expected in July",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/china-factorygate-inflation-slows-more-than-expected-in-july-4847700",
+      "is_watchlist": false,
+      "timestamp": "2026-08-09T02:41:15+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -251,33 +274,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Germany warns of constant hybrid attack threats after drone incident",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/germany-warns-of-constant-hybrid-attack-threats-after-drone-incident-4847692",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T23:56:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
       "is_watchlist": false,
       "timestamp": "2026-08-08T23:14:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Strategist explains why U.S. yen support is built to fail",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/strategist-explains-why-us-yen-support-is-built-to-fail-4847690",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T22:56:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -892,6 +893,72 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Google Cloud\u2019s Taiwan Launch Hints at Alphabet\u2019s (GOOGL) Next Growth Phase",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-cloud-taiwan-launch-hints-205939823.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:59:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Okta, IBD Stock Of The Day, Is Targeting 'Nonhuman' Identity Opportunity",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/okta-stock-cybersecurity-stocks-artificial-intelligence-news/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:58:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia ends week up more than 10% as AI chip fears ease",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/nvidia-ends-week-up-more-than-10-as-ai-chip-fears-ease-205751147.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:57:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gray Media, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/gray-media-inc-q2-2026-205622226.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:56:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Atmus Filtration Technologies Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/atmus-filtration-technologies-inc-q2-205031084.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:50:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arko Corp. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arko-corp-q2-2026-earnings-205019755.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-07T20:50:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here\u2019s why",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
@@ -914,40 +981,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Brent climbs $1 on uncertainty over end to Iran war",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oil-rises-concerns-over-strait-004641480.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:04:54+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia\u2019s (NVDA) Alpamayo Launch and the Robotaxi Bet",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-alpamayo-launch-robotaxi-200324206.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:03:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/ibd-stock-analysis/dell-stock-rises-ai-collaboration-with-nvidia-microsoft-amd/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:01:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OSCR",
       "headline": "UBS Maintains Neutral on Oscar Health, Raises Price Target to $26",
       "source": "Benzinga",
@@ -957,28 +990,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The 20 Most Actively Traded ETFs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/20-most-actively-traded-etfs-194609809.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T19:46:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CargoNet reports $304.6M in losses, Scott Cornell says Q2 theft drop is no trend yet",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/cargonet-reports-304-6m-losses-194434765.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T19:44:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1118,17 +1129,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX's big week: Stock jumps despite earnings storm, lock-up expiration in crucial test for investors",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacexs-big-week-stock-jumps-despite-earnings-storm-lock-up-expiration-in-crucial-test-for-investors-131828277.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T13:18:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
