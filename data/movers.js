@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T13:50:12.469126+00:00",
+  "generated_at": "2026-08-09T14:34:22.320864+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market Is Sending a Chilling Warning, and History Isn't Reassuring\""
+      "move_reason": "News: \"3 High-Yield Dividend Stocks to Load Up On Before 2026 Ends\""
     },
     {
       "ticker": "PWR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead\""
+      "move_reason": "News: \"The July CPI Report May Reveal Why Rates Are Headed Even Higher\""
     },
     {
       "ticker": "QQQ",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead\""
+      "move_reason": "News: \"The July CPI Report May Reveal Why Rates Are Headed Even Higher\""
     },
     {
       "ticker": "NBIS",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Is Worth 55 Times Its Revenue. What Does That Price Assume?\""
+      "move_reason": "News: \"Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market Is Sending a Chilling Warning, and History Isn't Reassuring\""
+      "move_reason": "News: \"3 High-Yield Dividend Stocks to Load Up On Before 2026 Ends\""
     },
     {
       "ticker": "OSCR",
