@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-10T01:47:35.655908+00:00",
+  "generated_at": "2026-08-10T03:55:13.944384+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -21.79,
       "price": 13.82,
       "is_watchlist": true,
-      "timestamp": "2026-08-10T01:47:35.653623+00:00",
+      "timestamp": "2026-08-10T03:55:13.941474+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -3.36,
       "price": 343.69,
       "is_watchlist": true,
-      "timestamp": "2026-08-10T01:47:35.653621+00:00",
+      "timestamp": "2026-08-10T03:55:13.941471+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.19,
       "price": 171.81,
       "is_watchlist": false,
-      "timestamp": "2026-08-10T01:47:35.653619+00:00",
+      "timestamp": "2026-08-10T03:55:13.941468+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.2,
       "price": 27.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-10T01:47:35.653616+00:00",
+      "timestamp": "2026-08-10T03:55:13.941465+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 7.07,
       "price": 91.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-10T01:47:35.653607+00:00",
+      "timestamp": "2026-08-10T03:55:13.941454+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": 3.25,
       "price": 37.72,
       "is_watchlist": true,
-      "timestamp": "2026-08-10T01:47:35.653600+00:00",
+      "timestamp": "2026-08-10T03:55:13.941444+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -102,11 +102,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+      "headline": "Why is Westpac Banking stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-westpac-banking-stock-sliding-today-93CH-4847809",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T03:44:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Treasury Wine Estates stock rallying today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-treasury-wine-estates-stock-rallying-today-93CH-4847808",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T03:40:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/sony-tsmc-to-spend-63-billion-to-jointly-make-image-sensors-nikkei-says-4847807",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T03:24:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Treasury Wine shares soar as US supply overhaul eases inventory concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/treasury-wine-shares-soar-as-us-supply-overhaul-eases-inventory-concerns-4847806",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T03:21:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asia stocks gain, oil up amid Gulf confusion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-higher-oil-up-amid-gulf-confusion-4847777",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T03:12:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-10T01:30:00+00:00",
+      "timestamp": "2026-08-10T03:02:00+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -114,11 +169,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taylor Farms recalls salsa and guacamole over salmonella risk",
+      "headline": "Earnings call transcript: Globe Telecom posts record H1 2026 revenue, stock rises 0.99%",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk-4847775",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-globe-telecom-posts-record-h1-2026-revenue-stock-rises-099-93CH-4847805",
       "is_watchlist": false,
-      "timestamp": "2026-08-10T01:24:26+00:00",
+      "timestamp": "2026-08-10T03:01:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BOJ\u2019s debate on faster hikes bolsters September rate move odds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/boj-debated-scope-to-hasten-ratehike-pace-in-july-summary-shows-4847786",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T03:00:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan\u2019s Recruit shares surge, hit daily limit on guidance hike",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/japans-recruit-shares-surge-hit-daily-limit-on-guidance-hike-4847804",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T02:48:37+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -129,90 +206,56 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-10T01:23:35+00:00",
+      "timestamp": "2026-08-10T02:32:43+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Japan\u2019s executives call for FX stability as weak yen intensify import-cost pressure",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/japans-executives-call-for-fx-stability-as-weak-yen-intensify-importcost-pressure-4847792",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T01:12:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Oman deal is in \u2019final stages\u2019 but US must act to open Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
+      "ticker": "NVDA",
+      "headline": "SpaceX Just Reported Earnings. Here's What History Says Happens Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16505aefd87a2f0f8825f7638ba002e4636e30ae77cf389593e10e6af1c147b4",
       "is_watchlist": true,
-      "timestamp": "2026-08-10T01:06:43+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "timestamp": "2026-08-10T01:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54e528fc6353b326fae9f348ae4935f21675c7b18c61d012b829b1cfa35add4d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-10T01:41:53+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Micron Technology Just Bounced 10% Off Its Lows. History Reveals What a $5,000 Investment Will Be Worth by Mid-2027.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97097a4fad7f0e42946c58358c13b71dedbecee921b566e580d5451691115764",
+      "is_watchlist": true,
+      "timestamp": "2026-08-10T01:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SK Hynix bear flag 80% done, tests Fibonacci support: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-bear-flag-80-done-tests-fibonacci-support-live-levels-93CH-4847791",
+      "headline": "China is balancing Asia's crude oil demand by itself - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-10T01:04:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nikkei 225 stalls below 200 SMA near 67,000: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-stalls-below-200-sma-near-67000-live-levels-93CH-4847790",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T01:04:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I Squared Capital to buy Australia\u2019s oOh!media for $634 mln",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/i-squared-capital-to-buy-australias-oohmedia-for-634-mln-4847789",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T01:03:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil rises on uncertainty over reopening of Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T01:00:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil gains as Hormuz reopening remains elusive, Houthi attacks stoke supply risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-gains-as-hormuz-reopening-remains-elusive-houthi-attacks-stoke-supply-risks-4847788",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T00:55:57+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-10T01:16:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -240,30 +283,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d07f539f863aae63e4ea985f4d3f429c7359be8cae6e4688105987cce16db8df",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T23:56:38+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "SK Hynix and Samsung Just Sent a Major Warning to Micron Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d29b776e04105275fd12381ac14d663ecdb04988ac3d5d8e52a78db5d7e4d6ae",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T23:50:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "You could be missing out on \u00a3150 off your energy bill - here's how to check",
       "source": "BBC Business",
@@ -283,18 +302,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-09T23:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e5563acfa8d52a700e45a7db0158248742249b2b70a953f12e7c71514beb6c5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T23:28:24+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -485,11 +492,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Houthis resume attacks on Yemen's Mocha port city, Yemeni military spokesperson says - Reuters",
+      "headline": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30 - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1pLdDR5UUhyOFl0d1dQNFFWV3lPV1RkNVg0TFgtSjVidElQVlpTcmt1cFQ0QmI4bTNsOXdjNlozM1RWLU9DUThrNmNjTURRZV9sSjJPbTVIYTR2ZUZQYzQ2NGdFbVRsSVlzeno5NWhiajhucW8ySmYwc1B6cENtOHg1RVhBY0pKUUFHSENiM0w5dU1lNkNJNTB0S0FLSFNKZnpZRHJLaGZHSVk2OFg1X3B0TEUyT0R4V2EtWHoxY2pjVF9IOHl4ZEpZZGF3QQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-09T20:24:10+00:00",
+      "timestamp": "2026-08-09T20:18:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -530,21 +537,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-09T19:11:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-09T18:55:32+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -873,77 +865,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why This ETF Might Be Ready to Make a Quantum Leap",
+      "headline": "Why Warren Buffett Called This Investment His \u2018Most Gruesome\u2019 Mistake \u2014 \u2018Deserves a Spot in the Guinness Book\u2019",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-etf-might-ready-quantum-150002485.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-called-investment-180002956.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T15:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Google's AI claimed Flock cameras hold $650 in gold and 23 pounds of copper \u2014 It was duped by meme",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-claimed-flock-cameras-150000005.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/berkshire-hathaway-earnings-buybacks-cash-hoard-warren-buffett/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-08T14:52:35+00:00",
+      "timestamp": "2026-08-08T18:00:02+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
+      "headline": "Lumen (LUMN) Extends AWS Push While Its CEO Doubles Down",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-buy-dip-ai-145000422.html",
+      "url": "https://finance.yahoo.com/technology/articles/lumen-lumn-extends-aws-push-175314099.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T14:50:00+00:00",
+      "timestamp": "2026-08-08T17:53:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dear Analog Devices Stock Fans, Mark Your Calendars for August 19",
+      "headline": "As the Market Crashed in 1987, Paul Tudor Jones Made $100 Million in a Single Day: \u2018The Most Important Rule of Trading Is to Play Great Defense, Not Great Offense\u2019",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-analog-devices-stock-fans-144501896.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-crashed-1987-paul-tudor-173002488.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T14:45:01+00:00",
+      "timestamp": "2026-08-08T17:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
+      "headline": "Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-camecos-ugly-earnings-miss-165000440.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T14:20:55+00:00",
+      "timestamp": "2026-08-08T16:50:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SpaceX Stock Looks Likely to Rally as All Operating Segments Drive Growth",
+      "headline": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing \u2013 Quarterly Update Report",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-looks-likely-rally-140002580.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-08T14:00:02+00:00",
+      "timestamp": "2026-08-08T16:41:43+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests \u2013 Quarterly Update Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:39:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Performance raises are back for 2027, but increases will be modest",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-08T16:35:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

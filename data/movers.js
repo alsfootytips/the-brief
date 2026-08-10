@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-10T01:47:35.648609+00:00",
+  "generated_at": "2026-08-10T03:55:13.935786+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
+      "move_reason": "News: \"SpaceX Just Reported Earnings. Here's What History Says Happens Next.\""
     },
     {
       "ticker": "PWR",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
+      "move_reason": "News: \"SpaceX Just Reported Earnings. Here's What History Says Happens Next.\""
     },
     {
       "ticker": "OSCR",
