@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-10T05:26:41.542601+00:00",
+  "generated_at": "2026-08-10T06:52:13.249524+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Solana Could Boost Its Token Burns by 14X. Would That Make It a Better Buy?\""
+      "move_reason": "News: \"Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: CapEx Is Fueling The Next Leg\""
+      "move_reason": "News: \"Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: CapEx Is Fueling The Next Leg\""
+      "move_reason": "News: \"Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs\""
     },
     {
       "ticker": "APA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Solana Could Boost Its Token Burns by 14X. Would That Make It a Better Buy?\""
+      "move_reason": "News: \"Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks\""
     },
     {
       "ticker": "OSCR",
