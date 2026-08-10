@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-09T23:47:07.817835+00:00",
+  "generated_at": "2026-08-10T01:47:35.729442+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,7 +27,7 @@ window.theBriefPicks = {
       "current_pct": 24.48,
       "change_pct_today": 5.2,
       "name": "Oscar Health",
-      "news_count": 3,
+      "news_count": 2,
       "days_elapsed": 22,
       "days_remaining": 34,
       "pick_type": "strategic",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": -1.03,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 88,
+      "days_elapsed": 89,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": 1.51,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 88,
+      "days_elapsed": 89,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": 10.19,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 88,
+      "days_elapsed": 89,
       "days_remaining": null
     },
     {
@@ -750,7 +750,7 @@ window.theBriefPicks = {
       "current_pct": 13.68,
       "change_pct_today": 3.25,
       "name": "APA Corp",
-      "news_count": 3,
+      "news_count": 2,
       "days_elapsed": 35,
       "days_remaining": 0,
       "closed_at": "2026-07-24",
@@ -852,7 +852,7 @@ window.theBriefPicks = {
       "current_pct": -7.43,
       "change_pct_today": 5.2,
       "name": "Oscar Health",
-      "news_count": 3,
+      "news_count": 2,
       "days_elapsed": 28,
       "days_remaining": 0,
       "closed_at": "2026-07-29",

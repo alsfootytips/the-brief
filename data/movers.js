@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-09T23:47:07.716472+00:00",
+  "generated_at": "2026-08-10T01:47:35.648609+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "OSCR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"UBS Maintains Neutral on Oscar Health, Raises Price Target to $26\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "NVDA",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 B...\""
+      "move_reason": "News: \"Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
     },
     {
       "ticker": "PWR",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Divid...\""
+      "move_reason": "News: \"It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly\""
     },
     {
       "ticker": "QQQ",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"3 S&P 500 Stocks We Approach with Caution\""
     },
     {
       "ticker": "XLF",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "CRWV",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "DG",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"3 S&P 500 Stocks We Approach with Caution\""
     },
     {
       "ticker": "GEV",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Divid...\""
+      "move_reason": "News: \"It's A Near-Perfect Bullish Setup, But Time Is Short, Act Accordingly\""
     },
     {
       "ticker": "NBIS",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profi...\""
+      "move_reason": "News: \"Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 B...\""
+      "move_reason": "News: \"Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
     },
     {
       "ticker": "OSCR",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"UBS Maintains Neutral on Oscar Health, Raises Price Target to $26\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -685,14 +685,14 @@ window.theBriefMovers = {
       "score": 8.0,
       "signals": [
         "Moved +3.25% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 9.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +3.25% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 9.2 (cheap on absolute basis)"
@@ -794,12 +794,12 @@ window.theBriefMovers = {
       "score": 5.0,
       "signals": [
         "Moved +5.20% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days"
       ],
       "reasons": [
         "Moved +5.20% \u2014 a 1.2\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days"
       ],
       "tags": [
