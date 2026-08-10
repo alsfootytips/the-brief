@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-10T20:24:45+00:00",
+  "generated_at": "2026-08-10T21:12:43+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -5805,7 +5805,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AMTM",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.6233,
         "revenue_estimate": 3643760167,
         "is_watchlist": false
@@ -6037,7 +6037,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BHVN",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.7479,
         "revenue_estimate": 546169,
         "is_watchlist": false
@@ -6101,7 +6101,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BW",
         "date": "2026-08-10",
-        "hour": "bmo",
+        "hour": "amc",
         "eps_estimate": 0.0258,
         "revenue_estimate": 202875670,
         "is_watchlist": false
@@ -6517,7 +6517,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ENTA",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.5202,
         "revenue_estimate": 17131920,
         "is_watchlist": false
@@ -7445,7 +7445,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NKTX",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.3835,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -7533,7 +7533,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OBIO",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.3998,
         "revenue_estimate": 123828,
         "is_watchlist": false
@@ -7541,7 +7541,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OLMA",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.5554,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -7589,7 +7589,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PALI",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0533,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -7965,7 +7965,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SEPN",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.4345,
         "revenue_estimate": 18232500,
         "is_watchlist": false
