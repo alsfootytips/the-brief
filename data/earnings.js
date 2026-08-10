@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-10T11:15:11+00:00",
+  "generated_at": "2026-08-10T12:02:52+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -5661,7 +5661,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AAON",
         "date": "2026-08-10",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.5182,
         "revenue_estimate": 501358896,
         "is_watchlist": false
@@ -5845,7 +5845,7 @@ window.theBriefEarnings = {
       {
         "ticker": "APGE",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -1.0921,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -6005,7 +6005,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BBIO",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.5951,
         "revenue_estimate": 223117676,
         "is_watchlist": false
@@ -6109,7 +6109,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BWMN",
         "date": "2026-08-10",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.3337,
         "revenue_estimate": 141411953,
         "is_watchlist": false
@@ -7573,7 +7573,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ORKA",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.5257,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -7605,7 +7605,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PASG",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -2.6996,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -8005,7 +8005,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SLNCF",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
