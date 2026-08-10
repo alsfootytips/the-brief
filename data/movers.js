@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-10T03:55:13.935786+00:00",
+  "generated_at": "2026-08-10T05:26:41.542601+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Just Reported Earnings. Here's What History Says Happens Next.\""
+      "move_reason": "News: \"Solana Could Boost Its Token Burns by 14X. Would That Make It a Better Buy?\""
     },
     {
       "ticker": "PWR",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5-star analyst resets AMD stock price target\""
+      "move_reason": "News: \"AMD: CapEx Is Fueling The Next Leg\""
     },
     {
       "ticker": "GEV",
@@ -295,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5-star analyst resets AMD stock price target\""
+      "move_reason": "News: \"AMD: CapEx Is Fueling The Next Leg\""
     },
     {
       "ticker": "APA",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\""
+      "move_reason": "News: \"Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Just Reported Earnings. Here's What History Says Happens Next.\""
+      "move_reason": "News: \"Solana Could Boost Its Token Burns by 14X. Would That Make It a Better Buy?\""
     },
     {
       "ticker": "OSCR",
