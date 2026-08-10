@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-10T09:58:26+00:00",
+  "generated_at": "2026-08-10T11:15:11+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -5885,7 +5885,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ARKR",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -6205,7 +6205,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CHMI",
         "date": "2026-08-10",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.1326,
         "revenue_estimate": 3366000,
         "is_watchlist": false
@@ -6253,7 +6253,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CODI",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0938,
         "revenue_estimate": 433857000,
         "is_watchlist": false
@@ -6645,7 +6645,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GAME",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0255,
         "revenue_estimate": 17493000,
         "is_watchlist": false
@@ -7173,7 +7173,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LIF",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.016,
         "revenue_estimate": 157687371,
         "is_watchlist": false
@@ -7269,7 +7269,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MG",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2446,
         "revenue_estimate": 195352632,
         "is_watchlist": false
@@ -7477,7 +7477,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NOTE",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.3638,
         "revenue_estimate": 20249040,
         "is_watchlist": false
@@ -7717,7 +7717,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PRPL",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -1.7001,
         "revenue_estimate": 107800403,
         "is_watchlist": false
@@ -8077,7 +8077,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SOHU",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
