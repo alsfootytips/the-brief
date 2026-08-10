@@ -1,5 +1,5 @@
 window.theBriefMacro = {
-  "generated_at": "2026-08-10T15:43:15.299680+00:00",
+  "generated_at": "2026-08-10T16:35:21.523265+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
@@ -10,50 +10,50 @@ window.theBriefMacro = {
     "^FVX": {
       "name": "5Y Treasury yield",
       "value": 4.4,
-      "change_pct_1d": 0.83,
-      "change_pct_1w": 1.5
+      "change_pct_1d": 0.89,
+      "change_pct_1w": 1.57
     },
     "^IRX": {
       "name": "13W T-Bill yield",
       "value": 3.72,
-      "change_pct_1d": 0.22,
-      "change_pct_1w": -0.32
+      "change_pct_1d": 0.27,
+      "change_pct_1w": -0.27
     },
     "^TYX": {
       "name": "30Y Treasury yield",
-      "value": 5.24,
-      "change_pct_1d": 0.54,
-      "change_pct_1w": 0.94
+      "value": 5.23,
+      "change_pct_1d": 0.44,
+      "change_pct_1w": 0.85
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 15.26,
-      "change_pct_1d": 2.42,
-      "change_pct_1w": -7.52
+      "value": 15.14,
+      "change_pct_1d": 1.61,
+      "change_pct_1w": -8.24
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4410.0,
-      "change_pct_1d": 1.6,
-      "change_pct_1w": 7.68
+      "value": 4422.6,
+      "change_pct_1d": 1.89,
+      "change_pct_1w": 7.99
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 81.18,
-      "change_pct_1d": 3.84,
-      "change_pct_1w": 7.14
+      "value": 81.15,
+      "change_pct_1d": 3.8,
+      "change_pct_1w": 7.1
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 99.74,
-      "change_pct_1d": 0.14,
-      "change_pct_1w": -0.16
+      "value": 99.72,
+      "change_pct_1d": 0.12,
+      "change_pct_1w": -0.17
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 64269.98,
-      "change_pct_1d": -0.89,
-      "change_pct_1w": 0.01
+      "value": 64014.8,
+      "change_pct_1d": -1.28,
+      "change_pct_1w": -0.38
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 97,
