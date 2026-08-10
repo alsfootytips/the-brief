@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-10T12:02:52+00:00",
+  "generated_at": "2026-08-10T13:43:58+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -5733,7 +5733,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AERT",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -6613,7 +6613,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FFBW",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -7205,7 +7205,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MAIA",
         "date": "2026-08-10",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1122,
         "revenue_estimate": 0,
         "is_watchlist": false
