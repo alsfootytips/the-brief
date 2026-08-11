@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-11T22:21:33.051453+00:00",
+  "generated_at": "2026-08-11T22:33:46.147504+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -19,9 +19,9 @@ window.theBriefLive = {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "change_pct": 4.15,
-      "price": 364.97,
+      "price": 365.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-11T22:21:33.048606+00:00",
+      "timestamp": "2026-08-11T22:33:45.999465+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +30,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 11.23,
-      "price": 204.79,
+      "change_pct": 11.29,
+      "price": 204.9,
       "is_watchlist": true,
-      "timestamp": "2026-08-11T22:21:33.048601+00:00",
+      "timestamp": "2026-08-11T22:33:45.999460+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -42,13 +42,145 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 15.99,
-      "price": 102.29,
+      "change_pct": 16.03,
+      "price": 102.33,
       "is_watchlist": true,
-      "timestamp": "2026-08-11T22:21:33.048586+00:00",
+      "timestamp": "2026-08-11T22:33:45.999445+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kemper Corp director Gerald Laderman buys $105,960 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kemper-corp-director-gerald-laderman-buys-105960-in-shares-93CH-4852947",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:30:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global youth unemployment rises amid sluggish job creation and looming AI risk, UN labour agency says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/global-youth-unemployment-rises-amid-sluggish-job-creation-and-looming-ai-risk-un-labour-agency-says-4852946",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:30:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cogent Communications at TD Cowen summit: debt, growth and margins",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/cogent-communications-at-td-cowen-summit-debt-growth-and-margins-93CH-4852944",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:29:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lumentum Q4 FY26 slides: AI demand drives record margins above 50%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/lumentum-q4-fy26-slides-ai-demand-drives-record-margins-above-50-93CH-4852943",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:29:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "National CineMedia acquires Captivate digital advertising network",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/national-cinemedia-acquires-captivate-digital-advertising-network-93CH-4852942",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:28:35+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TTEC revises 2026 Engage outlook to (-8%) revenue decline and 10.1% adjusted EBITDA margin midpoint while initiating strategic alternatives review for Digital",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4631163-ttec-revises-2026-engage-outlook-to-minus-8-percent-revenue-decline-and-10_1-percent-adjusted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:27:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Vinci Compass tops Q2 2026 estimates on strong growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vinci-compass-tops-q2-2026-estimates-on-strong-growth-93CH-4852941",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:27:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Firefly Aerospace posts record Q2 2026 revenue",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-firefly-aerospace-posts-record-q2-2026-revenue-93CH-4852940",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:25:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Quantinuum lifts 2026 outlook as loss weighs on shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-quantinuum-lifts-2026-outlook-as-loss-weighs-on-shares-93CH-4852938",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:22:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lumentum sees sales more than double as AI demand swells",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:22:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fermi rises on deal to add 2.6 GW power capacity at Texas AI campus",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4631162-fermi-rises-on-deal-to-add-2_6-gw-power-capacity-at-texas-ai-campus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T22:21:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -130,116 +262,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "PagSeguro GAAP EPS of R$1.96, revenue of R$5.08B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631158-pagseguro-gaap-eps-of-r196-revenue-of-r508b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:55:17+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Energy Vault Q2 2026 slides: backlog doubles, AI wins accelerate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/energy-vault-q2-2026-slides-backlog-doubles-ai-wins-accelerate-93CH-4852913",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:54:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: SES Q2 2026 revenue miss tempers margin gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ses-q2-2026-revenue-miss-tempers-margin-gains-93CH-4852912",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:54:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: ESS Tech Q2 2026 loss widens as Bridge ramps",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ess-tech-q2-2026-loss-widens-as-bridge-ramps-93CH-4852911",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:53:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Polar Power issues convertible preferred stock and warrants in $999,700 private placement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/polar-power-issues-convertible-preferred-stock-and-warrants-in-999700-private-placement-93CH-4852910",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:52:53+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Air Canada sells 25% stake in Aeroplan for $2.5 billion",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/air-canada-sells-25-stake-in-aeroplan-for-25-billion-93CH-4852909",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:52:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SEC clears JFB-XTEND merger, closing set for September 1",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/sec-clears-jfbxtend-merger-closing-set-for-september-1-93CH-4852908",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:52:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Velo3D jumps on Q2 2026 revenue growth and raised outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-velo3d-jumps-on-q2-2026-revenue-growth-and-raised-outlook-93CH-4852907",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:52:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Firm Capital Property Trust reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631157-firm-capital-property-trust-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:52:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "H&R Block FY26 slides: conversion gains drive 13.9% EPS growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/hr-block-fy26-slides-conversion-gains-drive-139-eps-growth-93CH-4852906",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:51:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Super Micro\u2019s earnings report brings more good news, and the stock is climbing",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
@@ -295,17 +317,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lumentum sees sales more than double as AI demand swells",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T21:12:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
@@ -351,12 +362,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cava reports sales growth even as some customers steer clear of lettuce",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
+      "headline": "Zelenskiy: Ukraine has given US negotiators proposals for ending the war with Russia - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUctM2tDd2gxSEhzQk9QV2dud0d0ajdkR0U2TmdlZ2VpQm44U1BhclBHQ184WVFFS1ZnX2l4c1dlb3FiMG9Ld0hSeUNJU0dFSTl6VHFzTVlRSXQ4Z3BUQWtvLW5oTFZJTGJiOG1Sb0dTSGN2V1lzcGJWemhYZjloZnI2YmtvcnZ3dHRGMkpSOGExM3RZTVFxeGFfWkNoXzhpUk5iX0QxVHVWYmpnT05rTnhFM25MeHNnek85UFlLdS15QQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-11T20:41:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-11T20:47:44+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -657,22 +668,6 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcFUwQU11ZTNtdlg0Zm1iSlQ0QlBkaFhUSzI2ZkdPY2M2anViX2l3R2xsUkxXdmszWlVDZU91ckpmeUZFOTlJUzB3T1NXZ3VNZm81R19hX25kdldEcUNZYlh0RDZYUlFYY05hVkM4dkdOUi1IMlVyak96OVphU0U5T3RwYkpqZlpQcVk4cThFM3M5U1dEcS13TDBIamk5OW5TcmEwaDY2d1JRbU80bzVFRGVSbnJTOUItdlhfNFgxRVpnTnRnNHVRRzJZOA?oc=5",
       "is_watchlist": true,
       "timestamp": "2026-08-11T16:09:56+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUNwdDR2X2Z6TlJ2NDZ5VVVESGN1bHdOU3RHSVY5aGJSdmJldVZ6YVh5ZDVNNUxJMFpValdCa0dKSFJBLUZzeTdEU1pmcmhMVjAtQzBFdm91QW1JZERManNpTlMtbzBEaVhnZTRybjF1YkxVVVBtLWE0Vk4xOW9NWWhJU19yUUdLYy1MNHpDTTFjb3F0ajMtZHl1THdCSG00NjFNQTgtUzZpNG1DN0cwWi1lR2VNdWJvQjBkNHYtSy1GcVRLQ3hYTXJVQ2ZZZW8?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-11T16:04:54+00:00",
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -1196,6 +1191,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Stocks Pressured as Higher Crude Price Boosts T-Note Yields",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-higher-crude-price-140442483.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T14:04:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bullish Oil Bets Shrink for a Second Week Running, COT Data Show",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bullish-oil-bets-shrink-second-140000926.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "EUR/USD, GBP/USD, and USD/CAD \u2013 Short-Term Forecast for 10/8/2026",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/currencies/articles/eur-usd-gbp-usd-usd-135647672.html",
@@ -1223,28 +1240,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-adoption-driving-stronger-demand-135203323.html",
       "is_watchlist": false,
       "timestamp": "2026-08-10T13:52:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir Technologies (PLTR) Turning AI Demand\u00a0into\u00a0Profitable Growth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-turning-ai-demand-134658026.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T13:46:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Seagate Technology (STX) Could Keep Surging as Storage Prices Rise",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-stx-could-keep-134359983.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T13:43:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
