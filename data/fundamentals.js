@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-11T10:04:50.869943+00:00",
+  "generated_at": "2026-08-11T11:05:36.865155+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -0.78,
@@ -136,11 +136,11 @@ window.theBriefFundamentals = {
       "return_52w_high": -14.01,
       "return_52w_low": 155.02,
       "realized_vol_30d_pct": 4.4,
-      "trailing_pe": 21.449614,
+      "trailing_pe": 21.284616,
       "forward_pe": 16.127434,
       "price_to_sales": 0.5575045,
       "price_to_book": 4.157151,
-      "enterprise_to_ebitda": 0.7,
+      "enterprise_to_ebitda": 0.701,
       "profit_margin": 0.03595,
       "gross_margin": 0.20158,
       "operating_margin": 0.079629995,
@@ -190,7 +190,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.239,
       "market_cap": 14371419136,
       "beta": 0.348,
-      "dividend_yield": 2.66,
+      "dividend_yield": 2.44,
       "short_ratio": 5.31,
       "short_percent_of_float": 0.12,
       "analyst_recs": {
@@ -232,7 +232,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.325,
       "market_cap": 24171487232,
       "beta": 0.633,
-      "dividend_yield": 0.7,
+      "dividend_yield": 0.68,
       "short_ratio": 10.02,
       "short_percent_of_float": 0.0907,
       "analyst_recs": {
@@ -262,7 +262,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -11.05,
       "return_52w_low": 52.11,
       "realized_vol_30d_pct": 2.5,
-      "trailing_pe": 16.521128,
+      "trailing_pe": 17.300884,
       "forward_pe": 14.817342,
       "price_to_sales": 2.4504194,
       "price_to_book": 1.7523679,
@@ -396,7 +396,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -7.61,
       "return_52w_low": 31.87,
       "realized_vol_30d_pct": 2.51,
-      "trailing_pe": 34.259842,
+      "trailing_pe": 33.315468,
       "forward_pe": 16.876862,
       "price_to_sales": 20.786846,
       "price_to_book": 26.95787,
@@ -408,7 +408,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 2.106,
       "market_cap": 5269278425088,
       "beta": 2.215,
-      "dividend_yield": 0.45,
+      "dividend_yield": 0.46,
       "short_ratio": 2.24,
       "short_percent_of_float": 0.0139,
       "analyst_recs": {
