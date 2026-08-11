@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-11T11:05:36+00:00",
+  "generated_at": "2026-08-11T11:56:48+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -355,7 +355,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BRN",
         "date": "2026-08-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
