@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-11T04:20:17.383887+00:00",
+  "generated_at": "2026-08-11T05:35:57.140439+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -107,17 +107,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "price": 57.81,
-      "change_pct": 0.36,
-      "volume_ratio": 0.93,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "META",
       "name": "META",
       "price": 594.2,
@@ -141,7 +130,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why The Trade Desk (TTD) Shares Are Plunging Today\""
+      "move_reason": "News: \"Why Did TTD, PZZA, EBS Stocks Plummet To 52 Week Lows?\""
     },
     {
       "ticker": "CRWV",
@@ -462,7 +451,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why The Trade Desk (TTD) Shares Are Plunging Today\""
+      "move_reason": "News: \"Why Did TTD, PZZA, EBS Stocks Plummet To 52 Week Lows?\""
     },
     {
       "ticker": "XLE",
@@ -563,16 +552,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "price": 57.81,
-      "change_pct": 0.36,
-      "volume_ratio": 0.93,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary Select",
       "price": 119.67,
@@ -635,36 +614,6 @@ window.theBriefMovers = {
   ],
   "watchlist_radar": [
     {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 41.05,
-      "change_pct": 9.09,
-      "score": 11.0,
-      "signals": [
-        "Moved +9.09% \u2014 a 3.0\u03c3 move vs typical 3.1% daily vol",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 9.7 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +9.09% \u2014 a 3.0\u03c3 move vs typical 3.1% daily vol",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 9.7 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "big-move",
-        "news-flow",
-        "filing",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> made a statistically significant rally (+9.09%) on the same week as a new SEC filing \u2014 likely material event.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "CRWV",
       "name": "CoreWeave",
       "price": 87.64,
@@ -698,31 +647,55 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 41.05,
+      "change_pct": 9.09,
+      "score": 10.0,
+      "signals": [
+        "Moved +9.09% \u2014 a 3.0\u03c3 move vs typical 3.1% daily vol",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "9 insider buys vs 1 sells (last 90 days)"
+      ],
+      "reasons": [
+        "Moved +9.09% \u2014 a 3.0\u03c3 move vs typical 3.1% daily vol",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "9 insider buys vs 1 sells (last 90 days)"
+      ],
+      "tags": [
+        "big-move",
+        "news-flow",
+        "filing",
+        "insider-buying"
+      ],
+      "narrative": "<strong>APA</strong> made a statistically significant rally (+9.09%) on the same week as a new SEC filing \u2014 likely material event.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 58.56,
       "change_pct": 4.74,
-      "score": 9.5,
+      "score": 8.5,
       "signals": [
         "Moved +4.74% \u2014 a 1.9\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.8 (cheap on absolute basis)"
+        "7 insider buys vs 3 sells (last 90 days)"
       ],
       "reasons": [
         "Moved +4.74% \u2014 a 1.9\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 14.8 (cheap on absolute basis)"
+        "7 insider buys vs 3 sells (last 90 days)"
       ],
       "tags": [
         "moderate-move",
         "news-flow",
         "filing",
-        "insider-buying",
-        "cheap"
+        "insider-buying"
       ],
       "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
@@ -732,12 +705,11 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 13.29,
       "change_pct": -3.68,
-      "score": 9.0,
+      "score": 8.0,
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 13.5 (cheap on absolute basis)",
         "Down -42.0% over 3 months \u2014 deep drawdown",
         "-75.8% from 52-week high"
       ],
@@ -745,7 +717,6 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 13.5 (cheap on absolute basis)",
         "Down -42.0% over 3 months \u2014 deep drawdown",
         "-75.8% from 52-week high"
       ],
@@ -753,7 +724,6 @@ window.theBriefMovers = {
         "news-flow",
         "filing",
         "insider-buying",
-        "cheap",
         "drawdown",
         "off-highs"
       ],
@@ -765,24 +735,21 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 350.0,
       "change_pct": 2.74,
-      "score": 7.0,
+      "score": 6.0,
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 4.8 (cheap on absolute basis)"
+        "10 insider buys vs 0 sells (last 90 days)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 4.8 (cheap on absolute basis)"
+        "10 insider buys vs 0 sells (last 90 days)"
       ],
       "tags": [
         "news-flow",
         "filing",
-        "insider-buying",
-        "cheap"
+        "insider-buying"
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
@@ -1005,13 +972,6 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "change_pct": 0.52,
       "price": 111.83,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "change_pct": 0.36,
-      "price": 57.81,
       "watchlist_members": []
     },
     {
