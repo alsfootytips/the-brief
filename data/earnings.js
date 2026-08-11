@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-11T19:46:56+00:00",
+  "generated_at": "2026-08-11T20:43:05+00:00",
   "by_date": {
     "2026-08-11": [
       {
@@ -10,6 +10,13 @@ window.theBriefEarnings = {
         "revenue_estimate": 2611110688,
         "is_watchlist": true,
         "history": [
+          {
+            "period": "2026-06-30",
+            "actual": -1.03,
+            "estimate": -1.24,
+            "beat": true,
+            "surprise_pct": 16.9355
+          },
           {
             "period": "2026-03-31",
             "actual": -1.12,
@@ -30,13 +37,6 @@ window.theBriefEarnings = {
             "estimate": -0.376,
             "beat": true,
             "surprise_pct": 78.7234
-          },
-          {
-            "period": "2025-06-30",
-            "actual": -0.27,
-            "estimate": -0.2148,
-            "beat": false,
-            "surprise_pct": -25.6983
           }
         ]
       },
@@ -1715,7 +1715,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SND",
         "date": "2026-08-11",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
