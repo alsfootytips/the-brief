@@ -1,5 +1,5 @@
 window.theBriefDaily = {
-  "generated_at": "2026-08-03T22:54:37.844864+00:00",
+  "generated_at": "2026-08-11T12:48:37.548161+00:00",
   "by_issue": {
     "2": [
       {
@@ -16,6 +16,12 @@ window.theBriefDaily = {
       }
     ],
     "3": [
+      {
+        "date": "2026-08-11",
+        "headline": "Energy printed its thesis; tech printed its question",
+        "body": "<p><span class=\"confidence confidence-fact\">Fact</span> <span class=\"ticker\" data-ticker=\"XLE\">XLE</span> rallied 4.5% today, <span class=\"ticker\" data-ticker=\"APA\">APA</span> +8.5%, <span class=\"ticker\" data-ticker=\"OXY\">OXY</span> +4.5%, on news that Gulf of Hormuz shipping traffic fell to six vessels and US-Iran diplomacy appears stalled. <span class=\"confidence confidence-interp\">Interp</span> WTI crude is now +9.5% over one week \u2014 not a spike being faded, but a repricing. The market is starting to treat $82 oil as a floor rather than resistance. <span class=\"confidence confidence-interp\">Interp</span> Energy was the only sector that mattered today; everything else was noise around flat.</p><p><span class=\"confidence confidence-fact\">Fact</span> <span class=\"ticker\" data-ticker=\"TTD\">TTD</span> fell another 3.8% to $13.28, now down 76% from highs, on no news. <span class=\"confidence confidence-fact\">Fact</span> <span class=\"ticker\" data-ticker=\"CRWV\">CRWV</span> reports after the bell today with consensus at -$1.24 EPS and $2.6B revenue. <span class=\"ticker\" data-ticker=\"NBIS\">NBIS</span> reports tomorrow morning. <span class=\"confidence confidence-speculation\">Spec</span> These two prints will either validate or refute last quarter's AI-cloud capex worry. If both guide in line or better, the CoreWeave miss looks idiosyncratic. If either softens guidance, the sector reprices lower.</p><p><span class=\"confidence confidence-interp\">Interp</span> Indices were flat \u2014 <span class=\"ticker\" data-ticker=\"SPY\">SPY</span> -0.03%, <span class=\"ticker\" data-ticker=\"QQQ\">QQQ</span> -0.30% \u2014 but that masks the only rotation that mattered: energy up sharply, tech slightly down, everything else waiting on tomorrow's data.</p>",
+        "generated_by": "claude-sonnet-4-5 \u00b7 2026-08-11T12:44:23.455269+00:00"
+      },
       {
         "date": "2026-07-01",
         "headline": "CoreWeave and Nebius both down double digits on no news",
