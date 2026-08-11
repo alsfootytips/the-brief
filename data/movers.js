@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-11T06:38:49.670336+00:00",
+  "generated_at": "2026-08-11T07:56:19.387229+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Jumps 3%, Yields Climb as Hormuz Hopes Fade: Stock Market Today\""
+      "move_reason": "News: \"Beyond American Hyperscalers: Uncovering AI's Global Layers\""
     },
     {
       "ticker": "TPL",
@@ -123,6 +123,30 @@ window.theBriefMovers = {
       "price": 594.2,
       "change_pct": 0.35,
       "volume_ratio": 1.05,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 144.02,
+      "change_pct": 0.14,
+      "volume_ratio": 0.22,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 110.96,
+      "change_pct": 0.11,
+      "volume_ratio": 0.22,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -270,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cumberland's Monday Memo\""
+      "move_reason": "News: \"The Yardstick That Ate The Market - Part 1\""
     },
     {
       "ticker": "OSCR",
@@ -378,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cumberland's Monday Memo\""
+      "move_reason": "News: \"The Yardstick That Ate The Market - Part 1\""
     },
     {
       "ticker": "NBIS",
@@ -474,7 +498,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Jumps 3%, Yields Climb as Hormuz Hopes Fade: Stock Market Today\""
+      "move_reason": "News: \"Beyond American Hyperscalers: Uncovering AI's Global Layers\""
     }
   ],
   "indices": [
