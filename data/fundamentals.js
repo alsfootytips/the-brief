@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-11T22:33:46.524267+00:00",
+  "generated_at": "2026-08-11T23:13:07.996444+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 8.41,
@@ -224,7 +224,7 @@ window.theBriefFundamentals = {
       "forward_pe": 4.991384,
       "price_to_sales": 28.047398,
       "price_to_book": 16.179182,
-      "enterprise_to_ebitda": 32.283,
+      "enterprise_to_ebitda": 33.635,
       "profit_margin": 0.60322,
       "gross_margin": 0.93336,
       "operating_margin": 0.78177,
@@ -526,7 +526,7 @@ window.theBriefFundamentals = {
       "forward_pe": 40.64629,
       "price_to_sales": 6.5147977,
       "price_to_book": 22.538813,
-      "enterprise_to_ebitda": 65.204,
+      "enterprise_to_ebitda": 66.63,
       "profit_margin": 0.23035,
       "gross_margin": 0.2057,
       "operating_margin": 0.07466,
