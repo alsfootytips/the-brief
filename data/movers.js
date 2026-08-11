@@ -1,12 +1,12 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-11T00:33:49.871460+00:00",
+  "generated_at": "2026-08-11T02:52:38.867965+00:00",
   "gainers": [
     {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 41.05,
       "change_pct": 9.09,
-      "volume_ratio": 1.09,
+      "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started\""
+      "move_reason": "News: \"XOM Charges A Premium Its Peers Do Not\""
     },
     {
       "ticker": "XLE",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Discover which S&P500 stocks are making waves on Monday.\""
+      "move_reason": "News: \"Why The Trade Desk (TTD) Shares Are Plunging Today\""
     },
     {
       "ticker": "CRWV",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Did FRMI Stock Rise As Much As 35% After-Hours?\""
+      "move_reason": "News: \"Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat\""
     },
     {
       "ticker": "NVDA",
@@ -189,14 +189,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Nvidia Stock Still a Good Buy at $220?\""
+      "move_reason": "News: \"Nvidia's CEO just sent strong signal to stock market investors\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 184.61,
       "change_pct": -1.79,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.72,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -318,14 +318,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Did FRMI Stock Rise As Much As 35% After-Hours?\""
+      "move_reason": "News: \"Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat\""
     },
     {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 41.05,
       "change_pct": 9.09,
-      "volume_ratio": 1.09,
+      "volume_ratio": 1.08,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -385,7 +385,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 184.61,
       "change_pct": -1.79,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.72,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Nvidia Stock Still a Good Buy at $220?\""
+      "move_reason": "News: \"Nvidia's CEO just sent strong signal to stock market investors\""
     },
     {
       "ticker": "OSCR",
@@ -426,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started\""
+      "move_reason": "News: \"XOM Charges A Premium Its Peers Do Not\""
     },
     {
       "ticker": "PWR",
@@ -462,7 +462,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Discover which S&P500 stocks are making waves on Monday.\""
+      "move_reason": "News: \"Why The Trade Desk (TTD) Shares Are Plunging Today\""
     },
     {
       "ticker": "XLE",
