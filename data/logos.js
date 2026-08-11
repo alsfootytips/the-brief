@@ -1,15 +1,6 @@
 window.theBriefLogos = {
-  "generated_at": "2026-08-11T05:35:57+00:00",
+  "generated_at": "2026-08-11T06:38:49+00:00",
   "logos": {
-    "AMD": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMD.png",
-    "APA": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/APA.png",
-    "CRWV": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950683281286.png",
-    "CVX": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CVX.png",
-    "DG": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DG.png",
-    "FRO": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950837122466.png",
-    "GEV": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950867201126.png",
-    "META": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FB.png",
-    "MSFT": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png",
     "NBIS": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942983351666.png",
     "NVDA": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NVDA.png",
     "OSCR": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950402494166.png",
