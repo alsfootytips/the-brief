@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-12T22:32:35+00:00",
+  "generated_at": "2026-08-12T23:10:35+00:00",
   "by_date": {
     "2026-08-12": [
       {
@@ -99,7 +99,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AIRI",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0714,
         "revenue_estimate": 12750000,
         "is_watchlist": false
@@ -219,7 +219,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ARTL",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -579,7 +579,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CDT",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1003,7 +1003,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FBRX",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.8961,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -1251,7 +1251,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HDRN",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1259,7 +1259,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HIND",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.1938,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -1539,7 +1539,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KLRA",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.765,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -1827,7 +1827,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MIRA",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1875,7 +1875,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MRMD",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0102,
         "revenue_estimate": 40596000,
         "is_watchlist": false
@@ -2435,7 +2435,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RHEP",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -2459,7 +2459,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RNGE",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -3163,7 +3163,7 @@ window.theBriefEarnings = {
       {
         "ticker": "WATT",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.2142,
         "revenue_estimate": 3468000,
         "is_watchlist": false
@@ -3725,7 +3725,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AIRJ",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0765,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -4005,7 +4005,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BZAI",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.1556,
         "revenue_estimate": 13957884,
         "is_watchlist": false
@@ -4205,7 +4205,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ESEA",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 4.3268,
         "revenue_estimate": 57219276,
         "is_watchlist": false
@@ -4541,7 +4541,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LFT",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0657,
         "revenue_estimate": 21080720,
         "is_watchlist": false
@@ -5351,7 +5351,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AMSS",
         "date": "2026-08-14",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2958,
         "revenue_estimate": 6000660,
         "is_watchlist": false
@@ -6043,7 +6043,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FUFU",
         "date": "2026-08-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0272,
         "revenue_estimate": 92997143,
         "is_watchlist": false
@@ -6203,7 +6203,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NSPR",
         "date": "2026-08-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.204,
         "revenue_estimate": 1411680,
         "is_watchlist": false
@@ -6685,7 +6685,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ELTK",
         "date": "2026-08-18",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -7119,7 +7119,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BULL",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.034,
         "revenue_estimate": 187267583,
         "is_watchlist": false
@@ -7143,7 +7143,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CCIF",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0915,
         "revenue_estimate": 5499503,
         "is_watchlist": false
@@ -7159,7 +7159,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CLIR",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.255,
         "revenue_estimate": 624750,
         "is_watchlist": false
@@ -7191,7 +7191,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DVLT",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0255,
         "revenue_estimate": 30855000,
         "is_watchlist": false
@@ -7199,7 +7199,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EL",
         "date": "2026-08-19",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.3295,
         "revenue_estimate": 3649958006,
         "is_watchlist": false
@@ -7495,7 +7495,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TGT",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.3095,
         "revenue_estimate": 26324568724,
         "is_watchlist": false
@@ -7503,7 +7503,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TJX",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.2036,
         "revenue_estimate": 15344410860,
         "is_watchlist": false
@@ -7519,7 +7519,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VIK",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.2712,
         "revenue_estimate": 2165925375,
         "is_watchlist": false
@@ -7551,7 +7551,7 @@ window.theBriefEarnings = {
       {
         "ticker": "YMM",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.2409,
         "revenue_estimate": 3171904666,
         "is_watchlist": false
