@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-12T04:28:38.451014+00:00",
+  "generated_at": "2026-08-12T05:59:54.767167+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Payroll Revisions Reveal About The Economy\""
+      "move_reason": "News: \"The Old World's Bill\""
     },
     {
       "ticker": "NVDA",
@@ -256,7 +256,7 @@ window.theBriefMovers = {
       "name": "PLTR",
       "price": 174.41,
       "change_pct": -0.47,
-      "volume_ratio": 0.96,
+      "volume_ratio": 0.76,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -424,7 +424,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Payroll Revisions Reveal About The Economy\""
+      "move_reason": "News: \"The Old World's Bill\""
     },
     {
       "ticker": "NBIS",
@@ -810,13 +810,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 15.0 (cheap on absolute basis)"
+        "Forward P/E 14.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "7 insider buys vs 3 sells (last 90 days)",
-        "Forward P/E 15.0 (cheap on absolute basis)"
+        "Forward P/E 14.9 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
