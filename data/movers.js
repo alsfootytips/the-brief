@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-12T05:59:54.767167+00:00",
+  "generated_at": "2026-08-12T07:44:37.015157+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -343,9 +343,9 @@ window.theBriefMovers = {
     {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
-      "price": 110.74,
+      "price": 110.64,
       "change_pct": -0.09,
-      "volume_ratio": 1.08,
+      "volume_ratio": 0.2,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
