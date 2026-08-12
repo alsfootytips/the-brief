@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-12T20:43:54+00:00",
+  "generated_at": "2026-08-12T21:30:11+00:00",
   "by_date": {
     "2026-08-12": [
       {
@@ -299,7 +299,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BATL",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -819,7 +819,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DJCO",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
