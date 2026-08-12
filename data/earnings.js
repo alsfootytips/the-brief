@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-12T13:26:44+00:00",
+  "generated_at": "2026-08-12T14:36:34+00:00",
   "by_date": {
     "2026-08-12": [
       {
@@ -1971,7 +1971,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NEON",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1122,
         "revenue_estimate": 893520,
         "is_watchlist": false
@@ -2755,7 +2755,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SPRB",
         "date": "2026-08-12",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -5.9177,
         "revenue_estimate": 0,
         "is_watchlist": false
