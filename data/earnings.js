@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-12T11:58:34+00:00",
+  "generated_at": "2026-08-12T12:46:42+00:00",
   "by_date": {
     "2026-08-12": [
       {
@@ -10,6 +10,13 @@ window.theBriefEarnings = {
         "revenue_estimate": 584202307,
         "is_watchlist": true,
         "history": [
+          {
+            "period": "2026-06-30",
+            "actual": -0.12,
+            "estimate": -0.693,
+            "beat": true,
+            "surprise_pct": 82.684
+          },
           {
             "period": "2026-03-31",
             "actual": -0.32,
@@ -30,13 +37,6 @@ window.theBriefEarnings = {
             "estimate": -0.5406,
             "beat": true,
             "surprise_pct": 26.0081
-          },
-          {
-            "period": "2025-06-30",
-            "actual": -0.38,
-            "estimate": -0.476,
-            "beat": true,
-            "surprise_pct": 20.1681
           }
         ]
       },
@@ -667,7 +667,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CNSP",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.2448,
         "revenue_estimate": 0,
         "is_watchlist": false
