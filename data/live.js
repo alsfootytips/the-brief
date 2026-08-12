@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-12T02:44:23.029091+00:00",
+  "generated_at": "2026-08-12T04:28:38.459091+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 4.44,
       "price": 366.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-12T02:44:23.026267+00:00",
+      "timestamp": "2026-08-12T04:28:38.456150+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 13.25,
       "price": 208.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-12T02:44:23.026262+00:00",
+      "timestamp": "2026-08-12T04:28:38.456144+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 18.52,
       "price": 104.52,
       "is_watchlist": true,
-      "timestamp": "2026-08-12T02:44:23.026247+00:00",
+      "timestamp": "2026-08-12T04:28:38.456128+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -53,77 +53,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Thrivent Financial, a 10% owner, sells $53,178 of Gloo stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/thrivent-financial-a-10-owner-sells-53178-of-gloo-stock-93CH-4853605",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T02:31:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Femasys COO John Canning buys $14,000 in FEMY stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/femasys-coo-john-canning-buys-14000-in-femy-stock-93CH-4853606",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T02:31:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Femasys CFO Dov Elefant buys $50,000 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/femasys-cfo-dov-elefant-buys-50000-in-company-stock-93CH-4853607",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T02:31:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analysis-Australia promised 1.2 million new homes, but builders are at their limits",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/analysisaustralia-promised-12-million-new-homes-but-builders-are-at-their-limits-4853559",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T02:30:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SES AI reaffirms 2026 revenue guidance of $30M-$35M as it targets 1M NDAA-compliant cells per year starting Q4",
+      "headline": "Pason Systems declares CAD 0.13 dividend",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631197-ses-ai-reaffirms-2026-revenue-guidance-of-30m-35m-as-it-targets-1m-ndaa-compliant-cells-per?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4631209-pason-systems-declares-cad-013-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-12T02:30:27+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-12T04:23:37+00:00",
+      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/oil-gold-prices-rise-as-geopolitical-tensions-mount-before-cpi-4853603",
+      "headline": "'Avoid disaster': Sanders urges Meta, OpenAI, and Anthropic to freeze AI development",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4631202-avoid-disaster-sanders-urges-meta-openai-and-anthropic-to-freeze-ai-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-12T02:24:33+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-12T04:23:33+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gold rises near $4,400 as Hormuz doubts, CPI keep Fed path in focus",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-hormuz-doubts-cpi-keep-fed-path-in-focus-4853602",
+      "headline": "Resources Connection declares $0.07 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4631208-resources-connection-declares-007-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-12T02:22:45+00:00",
+      "timestamp": "2026-08-12T04:21:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "WaFd declares $0.27 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4631207-wafd-declares-027-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T04:20:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Black Rock Coffee Bar signals 2026 adjusted EBITDA of $34M-$35M while raising new store target to at least 38",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4631206-black-rock-coffee-bar-signals-2026-adjusted-ebitda-of-34m-35m-while-raising-new-store-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T04:18:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inspire medical systems chief mfg. officer Kelly sells $57,346 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/inspire-medical-systems-chief-mfg-officer-kelly-sells-57346-in-stock-93CH-4853642",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T04:15:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asian stocks rise as KOSPI surges; CPI, Hormuz risks temper tech rally",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T04:13:49+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -131,89 +131,122 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AGL Energy shares rise after upbeat FY earnings, dividend outlook",
+      "headline": "US consumer prices likely increased moderately in July as gasoline prices eased",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/agl-energy-shares-rise-after-upbeat-fy-earnings-dividend-outlook-4853601",
+      "url": "https://www.investing.com/news/economy-news/us-consumer-prices-likely-increased-moderately-in-july-as-gasoline-prices-eased-4853640",
       "is_watchlist": false,
-      "timestamp": "2026-08-12T02:19:22+00:00",
+      "timestamp": "2026-08-12T04:06:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Worksport outlines 2026 cash flow breakeven focus while targeting $12M-$12.9M quarterly revenue sensitivity at 35% gross margin",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631196-worksport-outlines-2026-cash-flow-breakeven-focus-while-targeting-12m-12_9m-quarterly-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T02:18:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vestis forecasts $160M-$170M fiscal 2026 free cash flow while outlining network \u201cquadrant\u201d focus for 2027",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631195-vestis-forecasts-160m-170m-fiscal-2026-free-cash-flow-while-outlining-network-quadrant-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T02:17:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Savers Value Village prices 20 million share secondary offering",
+      "headline": "Gift Nifty 50 consolidates at key support: Hourly levels",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/savers-value-village-prices-20-million-share-secondary-offering-93CH-4853600",
+      "url": "https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-in-2455024668-battle-zone-live-levels-93CH-4847812",
       "is_watchlist": false,
-      "timestamp": "2026-08-12T02:16:49+00:00",
+      "timestamp": "2026-08-12T04:02:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Super Micro targets $65B-$72B FY 2027 revenue as it guides Q1 sales of $14.5B-$15.5B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631194-super-micro-targets-65b-72b-fy-2027-revenue-as-it-guides-q1-sales-of-14_5b-15_5b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Consumer portfolio services\u2019 Sr. VP Ralston sells $13,138 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/consumer-portfolio-services-sr-vp-ralston-sells-13138-in-stock-93CH-4853639",
       "is_watchlist": false,
-      "timestamp": "2026-08-12T01:47:53+00:00",
+      "timestamp": "2026-08-12T04:01:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jury in Luigi Mangione\u2019s insurance CEO murder trial to be anonymous",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/luigi-mangione-due-in-court-ahead-of-insurance-ceo-murder-trial-4851069",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T04:00:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wednesday\u2019s Economic Calendar",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4630705-wednesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T04:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung, SK Hynix shares rally as Temasek reportedly considers investment",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-rally-on-report-of-temasek-investment-4853637",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T03:56:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Londian Wason prices IPO at $22 per ADS, raising $94.3 million",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/londian-wason-prices-ipo-at-22-per-ads-raising-943-million-432SI-4853632",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T03:53:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lumentum anticipates $1.225B-$1.275B Q1 FY2027 revenue as it guides 39.5%-40.5% operating margin",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4631201-lumentum-anticipates-1_225b-1_275b-q1-fy2027-revenue-as-it-guides-39_5-percentminus-40_5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T03:48:20+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ncmi outlines Captivate deal financing with ~3.9x net leverage at close and pauses dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631193-ncmi-outlines-captivate-deal-financing-with-3_9x-net-leverage-at-close-and-pauses-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T01:47:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Taysha outlines REVEAL 6-month interim analysis and FDA feedback in H1 2027 while targeting PPQ completion in Q4 2026",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631192-taysha-outlines-reveal-6-month-interim-analysis-and-fda-feedback-in-h1-2027-while-targeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T01:38:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+      "headline": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-12T01:26:46+00:00",
+      "timestamp": "2026-08-12T03:37:00+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T02:58:04+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-12T02:19:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -225,17 +258,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-12T01:20:13+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Snail outlines Q3 2026 recognition of approximately $11M of deferred revenue as July ARK DLC launches shift into second half",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4631191-snail-outlines-q3-2026-recognition-of-approximately-11m-of-deferred-revenue-as-july-ark-dlc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T01:17:53+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -319,6 +341,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "What Payroll Revisions Reveal About The Economy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=94e6ee18781c8bcf8aa6a7e85c3ceff157d3cc5411c665490dd95d5c0121857b",
+      "is_watchlist": true,
+      "timestamp": "2026-08-11T23:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Tokenomics: Why making AI pay is tricky",
       "source": "BBC Business",
@@ -358,17 +392,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
       "is_watchlist": false,
       "timestamp": "2026-08-11T22:51:06+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T22:42:10+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -706,29 +729,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-11T16:54:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Small\u2011Cap Stocks Got a Payrolls Boost \u2014 But CPI Is the Real Test",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f279ac1ee39ea4a5cc35c275eb24c8f36a762b9c0a97bf24be1a9eca52f01bdb",
-      "is_watchlist": true,
-      "timestamp": "2026-08-11T16:33:46+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Coherent Could Swing By $9.54 Billion After Earnings",
       "source": "Benzinga",
@@ -809,6 +809,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Another grocery chain quietly shuts down more stores",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/another-grocery-chain-quietly-shuts-140700813.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-11T14:07:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1093,6 +1104,39 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Here's how SpaceX hits this $100 billion number in under 5 months",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/heres-how-spacex-hits-this-100-billion-number-in-under-5-months-163945554.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T16:39:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The ONE Group: A Restaurant Stock With Rising Traffic, Expanding Margins \u2013 Quarterly Update Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/one-group-restaurant-stock-rising-163726049.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T16:37:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T16:35:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "APA",
       "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
       "source": "ChartMill",
@@ -1102,6 +1146,28 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-giants-partner-nvidia-163441421.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T16:34:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Dollar Moves Higher As Oil Rallies 5%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/u-dollar-moves-higher-oil-163435131.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T16:34:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1116,50 +1182,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Is Netflix\u2019s (NFLX) Long-Term Dominance Under Threat?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/netflix-nflx-long-term-dominance-145700986.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T14:57:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s Why Sands Capital Technology Innovators Fund Sold Roblox Corporation\u00a0(RBLX)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-sands-capital-technology-innovators-145606840.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T14:56:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Space Exploration Technologies Corp. (SPCX) is an Idiosyncratic Growth Play?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-space-exploration-technologies-corp-145350023.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T14:53:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron Technology Stock Surged On A Shortage The Company Had Already Described",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-surged-shortage-145332333.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T14:53:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Is Sterling's 192% E-Infrastructure Growth Just Getting Started Now?",
       "source": "Yahoo",
@@ -1169,28 +1191,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brazil central bank eyes expansion for Pix payment system as US trade scrutiny intensifies",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/brazil-central-bank-eyes-expansion-144953798.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T14:49:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/retail-investors-end-spacex-buying-spree-as-stock-reclaims-ipo-price-alphacheck-144858062.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T14:48:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
