@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-12T11:11:09+00:00",
+  "generated_at": "2026-08-12T11:58:34+00:00",
   "by_date": {
     "2026-08-12": [
       {
@@ -2171,7 +2171,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PESI",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.3162,
         "revenue_estimate": 13158000,
         "is_watchlist": false
@@ -2643,7 +2643,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SKYX",
         "date": "2026-08-12",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0561,
         "revenue_estimate": 24768996,
         "is_watchlist": false
