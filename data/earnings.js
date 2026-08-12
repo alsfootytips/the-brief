@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-12T12:46:42+00:00",
+  "generated_at": "2026-08-12T13:26:44+00:00",
   "by_date": {
     "2026-08-12": [
       {
@@ -867,7 +867,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DYAI",
         "date": "2026-08-12",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.0374,
         "revenue_estimate": 1013196,
         "is_watchlist": false
