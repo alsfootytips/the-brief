@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-12T00:01:29.939647+00:00",
+  "generated_at": "2026-08-12T02:44:23.021185+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -28,8 +28,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 363.2,
-      "change_pct": 3.64,
+      "price": 366.0,
+      "change_pct": 4.44,
       "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": false,
@@ -60,18 +60,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"MasTec Stock Up 26% YTD: Is the Rally Still Worth Chasing?\""
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 60.93,
-      "change_pct": 1.25,
-      "volume_ratio": 0.82,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null,
-      "move_reason": "News: \"A 200-Day Divide\""
     },
     {
       "ticker": "TTD",
@@ -109,6 +97,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ\""
     },
     {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 60.85,
+      "change_pct": 1.11,
+      "volume_ratio": 0.82,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null,
+      "move_reason": "News: \"A 200-Day Divide\""
+    },
+    {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 27.92,
@@ -133,6 +133,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 59.02,
+      "change_pct": 0.63,
+      "volume_ratio": 0.61,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Susquehanna Maintains Positive on Occidental Petroleum, Raises Price Target to $70\""
+    },
+    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 185.7,
@@ -146,14 +158,14 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 301.03,
-      "change_pct": 0.35,
+      "price": 301.06,
+      "change_pct": 0.36,
       "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Is Repackaging The AI Bubble\""
+      "move_reason": "News: \"Rates Spark: The Fiscal Number Can Eclipse CPI\""
     },
     {
       "ticker": "NVDA",
@@ -166,17 +178,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Explore the S&P500 index on Tuesday and find out which stocks are the most active in today...\""
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "price": 53.24,
-      "change_pct": 0.11,
-      "volume_ratio": 0.99,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -416,14 +417,14 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 301.03,
-      "change_pct": 0.35,
+      "price": 301.06,
+      "change_pct": 0.36,
       "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Is Repackaging The AI Bubble\""
+      "move_reason": "News: \"Rates Spark: The Fiscal Number Can Eclipse CPI\""
     },
     {
       "ticker": "NBIS",
@@ -462,6 +463,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 59.02,
+      "change_pct": 0.63,
+      "volume_ratio": 0.61,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Susquehanna Maintains Positive on Occidental Petroleum, Raises Price Target to $70\""
+    },
+    {
       "ticker": "PWR",
       "name": "Quanta Services",
       "price": 674.73,
@@ -476,8 +489,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 363.2,
-      "change_pct": 3.64,
+      "price": 366.0,
+      "change_pct": 4.44,
       "volume_ratio": 0.89,
       "is_watchlist": true,
       "is_index": false,
@@ -500,8 +513,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 60.93,
-      "change_pct": 1.25,
+      "price": 60.85,
+      "change_pct": 1.11,
       "volume_ratio": 0.82,
       "is_watchlist": true,
       "is_index": false,
@@ -524,8 +537,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 301.03,
-      "change_pct": 0.35,
+      "price": 301.06,
+      "change_pct": 0.36,
       "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": true,
@@ -555,17 +568,6 @@ window.theBriefMovers = {
   ],
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 60.93,
-      "change_pct": 1.25,
-      "volume_ratio": 0.82,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null
-    },
-    {
       "ticker": "XLU",
       "name": "Utilities Select Sector",
       "price": 43.63,
@@ -574,6 +576,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 60.85,
+      "change_pct": 1.11,
+      "volume_ratio": 0.82,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null
     },
     {
       "ticker": "XLI",
@@ -668,6 +681,36 @@ window.theBriefMovers = {
   ],
   "watchlist_radar": [
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 366.0,
+      "change_pct": 4.44,
+      "score": 9.5,
+      "signals": [
+        "Moved +4.44% \u2014 a 1.5\u03c3 move vs typical 2.9% daily vol",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.0 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "Moved +4.44% \u2014 a 1.5\u03c3 move vs typical 2.9% daily vol",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.0 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "moderate-move",
+        "news-flow",
+        "filing",
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "CRWV",
       "name": "CoreWeave",
       "price": 104.52,
@@ -731,35 +774,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 363.2,
-      "change_pct": 3.64,
-      "score": 8.0,
-      "signals": [
-        "Moved +3.64% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.0 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +3.64% \u2014 a 1.3\u03c3 move",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.0 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 40.35,
@@ -769,13 +783,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 9.6 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 9.6 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -784,6 +798,33 @@ window.theBriefMovers = {
         "cheap"
       ],
       "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 59.02,
+      "change_pct": 0.63,
+      "score": 7.0,
+      "signals": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 15.0 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "7 insider buys vs 3 sells (last 90 days)",
+        "Forward P/E 15.0 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "news-flow",
+        "filing",
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
     },
     {
@@ -881,22 +922,22 @@ window.theBriefMovers = {
   ],
   "sectors_radar": [
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "change_pct": 1.25,
-      "price": 60.93,
-      "watchlist_members": [
-        "APA",
-        "TPL",
-        "OXY"
-      ]
-    },
-    {
       "ticker": "XLU",
       "name": "Utilities Select Sector",
       "change_pct": 1.16,
       "price": 43.63,
       "watchlist_members": []
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "change_pct": 1.11,
+      "price": 60.85,
+      "watchlist_members": [
+        "APA",
+        "TPL",
+        "OXY"
+      ]
     },
     {
       "ticker": "XLRE",
