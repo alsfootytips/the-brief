@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-13T05:58:59.694804+00:00",
+  "generated_at": "2026-08-13T07:46:28.516897+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Changed?\""
+      "move_reason": "News: \"July CPI Report: Another Benign Report, But Risks Persist\""
     },
     {
       "ticker": "XLU",
@@ -153,6 +153,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 111.12,
+      "change_pct": 0.34,
+      "volume_ratio": 0.17,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 61.12,
@@ -163,17 +175,6 @@ window.theBriefMovers = {
       "is_sector": true,
       "market_state": null,
       "move_reason": "News: \"FOF: Reasonable Diversity And Yield, But A Fund-Of-Funds Has High Expenses\""
-    },
-    {
-      "ticker": "XLV",
-      "name": "Health Care Select Sector",
-      "price": 168.44,
-      "change_pct": 0.26,
-      "volume_ratio": 0.93,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -401,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Changed?\""
+      "move_reason": "News: \"July CPI Report: Another Benign Report, But Risks Persist\""
     },
     {
       "ticker": "NBIS",
