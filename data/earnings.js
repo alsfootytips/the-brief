@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-13T12:09:59+00:00",
+  "generated_at": "2026-08-13T12:47:47+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1989,7 +1989,7 @@ window.theBriefEarnings = {
       {
         "ticker": "REKR",
         "date": "2026-08-13",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.0306,
         "revenue_estimate": 12864240,
         "is_watchlist": false
