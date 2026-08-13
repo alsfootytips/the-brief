@@ -1,5 +1,5 @@
 window.theBriefMacro = {
-  "generated_at": "2026-08-13T20:04:12.167262+00:00",
+  "generated_at": "2026-08-13T21:03:28.068721+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
@@ -27,33 +27,33 @@ window.theBriefMacro = {
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 14.64,
-      "change_pct_1d": 0.62,
-      "change_pct_1w": -1.74
+      "value": 14.63,
+      "change_pct_1d": 0.55,
+      "change_pct_1w": -1.81
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4405.8,
-      "change_pct_1d": -0.07,
-      "change_pct_1w": 1.5
+      "value": 4405.2,
+      "change_pct_1d": -0.08,
+      "change_pct_1w": 1.49
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 81.18,
-      "change_pct_1d": -2.51,
-      "change_pct_1w": 3.84
+      "value": 81.2,
+      "change_pct_1d": -2.49,
+      "change_pct_1w": 3.86
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
       "value": 99.96,
       "change_pct_1d": -0.05,
-      "change_pct_1w": 0.37
+      "change_pct_1w": 0.36
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 63304.96,
-      "change_pct_1d": -0.15,
-      "change_pct_1w": -2.37
+      "value": 63398.23,
+      "change_pct_1d": -0.01,
+      "change_pct_1w": -2.23
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 94,

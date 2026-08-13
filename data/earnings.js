@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-13T20:04:12+00:00",
+  "generated_at": "2026-08-13T21:03:27+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1133,7 +1133,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CRBU",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.3232,
         "revenue_estimate": 2324580,
         "is_watchlist": false
