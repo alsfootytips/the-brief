@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-13T11:23:28+00:00",
+  "generated_at": "2026-08-13T12:09:59+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -989,7 +989,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BLIN",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0,
         "revenue_estimate": 4794000,
         "is_watchlist": false
@@ -1341,7 +1341,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FTLF",
         "date": "2026-08-13",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.1989,
         "revenue_estimate": 26522040,
         "is_watchlist": false
@@ -1357,7 +1357,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GLNG",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.494,
         "revenue_estimate": 143719152,
         "is_watchlist": false
@@ -1461,7 +1461,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ICCC",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1557,7 +1557,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KLNG",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1845,7 +1845,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NXXT",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0612,
         "revenue_estimate": 23978160,
         "is_watchlist": false
