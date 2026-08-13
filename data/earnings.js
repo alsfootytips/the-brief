@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-13T12:47:47+00:00",
+  "generated_at": "2026-08-13T13:47:27+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1293,7 +1293,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FATE",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.2732,
         "revenue_estimate": 1393146,
         "is_watchlist": false
@@ -1797,7 +1797,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NMTC",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.221,
         "revenue_estimate": 2598276,
         "is_watchlist": false
@@ -1901,7 +1901,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PDSB",
         "date": "2026-08-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1326,
         "revenue_estimate": 0,
         "is_watchlist": false
