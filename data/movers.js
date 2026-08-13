@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-13T04:27:14.861342+00:00",
+  "generated_at": "2026-08-13T05:58:59.694804+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rates Spark: Inflation Is And Isn't The Issue\""
+      "move_reason": "News: \"What Changed?\""
     },
     {
       "ticker": "XLU",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rates Spark: Inflation Is And Isn't The Issue\""
+      "move_reason": "News: \"What Changed?\""
     },
     {
       "ticker": "NBIS",
@@ -754,13 +754,13 @@ window.theBriefMovers = {
       "change_pct": -5.49,
       "score": 7.0,
       "signals": [
-        "Moved -5.49% \u2014 a 1.6\u03c3 move vs typical 3.3% daily vol",
+        "Moved -5.49% \u2014 a 1.9\u03c3 move vs typical 3.0% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.7 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved -5.49% \u2014 a 1.6\u03c3 move vs typical 3.3% daily vol",
+        "Moved -5.49% \u2014 a 1.9\u03c3 move vs typical 3.0% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.7 (cheap on absolute basis)"
