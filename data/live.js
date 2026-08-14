@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-14T23:00:25.365326+00:00",
+  "generated_at": "2026-08-14T23:30:01.521712+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 5.03,
       "price": 364.49,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T23:00:25.362398+00:00",
+      "timestamp": "2026-08-14T23:30:01.518668+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": 6.17,
-      "price": 32.68,
+      "change_pct": 5.95,
+      "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T23:00:25.362395+00:00",
+      "timestamp": "2026-08-14T23:30:01.518659+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 8.71,
-      "price": 277.25,
+      "change_pct": 8.8,
+      "price": 277.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T23:00:25.362390+00:00",
+      "timestamp": "2026-08-14T23:30:01.518655+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,13 +67,101 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 6.59,
-      "price": 514.82,
+      "change_pct": 6.63,
+      "price": 515.05,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T23:00:25.362374+00:00",
+      "timestamp": "2026-08-14T23:30:01.518638+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dutch Bros director Todd Penegor buys $103,120 in Bros stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dutch-bros-director-todd-penegor-buys-103120-in-bros-stock-93CH-4861628",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:15:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Krystal Biotech (NASDAQ:KRYS) director Dino Rossi sells $8.2m shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/krystal-biotech-nasdaqkrys-director-dino-rossi-sells-82m-shares-93CH-4861627",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:15:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corsair gaming director Sarah Kim sells $121,486 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/corsair-gaming-director-sarah-kim-sells-121486-in-shares-93CH-4861626",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:15:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why AI is unlikely to be an apocalypse for jobs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/why-ai-is-unlikely-to-be-an-apocalypse-for-jobs-4861625",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:12:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Beta Technologies president and CEO Kyle Clark sells $1.11m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/beta-technologies-president-and-ceo-kyle-clark-sells-111m-in-stock-93CH-4861624",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:01:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AppFolio director Maurice Duca sells $1.33m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/appfolio-director-maurice-duca-sells-133m-in-shares-93CH-4861623",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:01:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arista Networks CEO Jayshree Ullal sells $119.3m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-jayshree-ullal-sells-1193m-in-shares-93CH-4861621",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:01:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AppFolio director Maurice Duca sells $2.9m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/appfolio-director-maurice-duca-sells-29m-in-stock-93CH-4861622",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:01:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -100,67 +188,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "CoreWeave COO Sachin Jain sells $110 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweave-coo-sachin-jain-sells-110-in-company-stock-93CH-4861618",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:45:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oruka Therapeutics senior vice president Arjun Agarwal sells $1.06m",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-senior-vice-president-arjun-agarwal-sells-106m-93CH-4861617",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:45:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon reinstates binding arbitration, bars class-action lawsuits",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-reinstates-binding-arbitration-bars-classaction-lawsuits-4861616",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:43:10+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-4861601",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:42:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Unusual Machines leads rally in dronemakers\u2019 stocks after U.S. imposes tariffs on systems",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633565-unusual-machines-leads-rally-in-dronemakers-stocks-after-us-imposes-tariffs-on-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-14T22:42:46+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alphabet becomes Berkshire Hathaway\u2019s third-largest investment",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-buys-more-alphabet-which-becomes-its-thirdlargest-stock-investment-4861495",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:36:51+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -175,37 +208,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "8 Rivers Capital sells $1.4m in Net Power (NASDAQ:NPWR) stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/8-rivers-capital-sells-14m-in-net-power-nasdaqnpwr-stock-93CH-4861615",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:31:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NPEH, LLC, Net Power director, sells $1.39m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/npeh-llc-net-power-director-sells-139m-in-stock-93CH-4861614",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: PetVivo lifts revenue in Q1 2026, but stock stays flat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-petvivo-lifts-revenue-in-q1-2026-but-stock-stays-flat-93CH-4861613",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:31:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-14T22:36:06+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -258,7 +273,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric - Reuters",
+      "headline": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
       "is_watchlist": true,
@@ -358,7 +373,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
+      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
       "is_watchlist": false,
@@ -562,7 +577,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
       "is_watchlist": false,
@@ -719,21 +734,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T14:27:38+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1093,55 +1093,78 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The Strategy Holds Firm on L3Harris Technologies (LHX)",
+      "headline": "IREN\u2019s $100 Bull Case Hinges on a 5-10x AI Cloud Advantage",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-holds-firm-l3harris-technologies-154059875.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/iren-100-bull-case-hinges-162631786.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T15:40:59+00:00",
+      "timestamp": "2026-08-13T16:26:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Can GE Stock Compound Its Way Higher?",
+      "headline": "Swissquote Gets Mugged by Crypto Winter",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-compound-way-higher-153513130.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/swissquote-gets-mugged-crypto-winter-162003960.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T15:35:13+00:00",
+      "timestamp": "2026-08-13T16:20:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin Price Forecast: BTC Could Resume Its Rally as Rate Hike Odds Drop to 30%",
+      "headline": "How To Give A Bull Wings While Trading This Hot Energy Stock",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-forecast-btc-could-153349928.html",
+      "url": "https://www.investors.com/research/options/valero-energy-vlo-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T15:33:49+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Claude AI Just Sold ServiceNow and Inter & Co \u2014 Should You Too?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/claude-ai-just-sold-servicenow-153139629.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T15:31:39+00:00",
+      "timestamp": "2026-08-13T16:19:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mark Cuban Says If You Win The Lottery, Don\u2019t Take The Lump Sum \u2014 And Tell People Who Ask for Money No, But \u2018Be Nice. No One Likes a Mean Billionaire\u2019",
+      "headline": "Acertus expands with Fisher Shipping acquisition",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/mark-cuban-says-win-lottery-153104442.html",
+      "url": "https://finance.yahoo.com/small-business/articles/acertus-expands-fisher-shipping-acquisition-161813336.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T15:31:04+00:00",
+      "timestamp": "2026-08-13T16:18:13+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mastech Digital (MHH) Q2 2026 Earnings Call Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mastech-digital-mhh-q2-2026-161540496.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T16:15:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dave Ramsey calls out the 3 \u2018Dumb! Really dumb!\u2019 money mistakes his callers make. Avoid these financial pitfalls now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-calls-3-dumb-161500078.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T16:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crude Prices Undercut as Persian Gulf Tensions Ease Slightly",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/crude-prices-undercut-persian-gulf-160516645.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T16:05:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1156,28 +1179,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta (META) Deletes 756,000 Teen Accounts, But Is It Enough?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/meta-meta-deletes-756-000-152146698.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T15:21:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Billionaire Bill Ackman Thinks Netflix (NFLX) Will Rebound Despite Slowdown Trends. Is He Right?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-thinks-netflix-152138158.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T15:21:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
