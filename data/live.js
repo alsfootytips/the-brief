@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-14T22:14:54.468965+00:00",
+  "generated_at": "2026-08-14T22:33:15.294766+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.3,
       "price": 358.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T22:14:54.307169+00:00",
+      "timestamp": "2026-08-14T22:33:15.291952+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": 6.14,
-      "price": 32.67,
+      "change_pct": 6.17,
+      "price": 32.68,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T22:14:54.307165+00:00",
+      "timestamp": "2026-08-14T22:33:15.291948+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 8.77,
-      "price": 277.4,
+      "change_pct": 8.72,
+      "price": 277.29,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T22:14:54.307161+00:00",
+      "timestamp": "2026-08-14T22:33:15.291944+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,13 +67,57 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 6.74,
-      "price": 515.56,
+      "change_pct": 6.62,
+      "price": 514.99,
       "is_watchlist": true,
-      "timestamp": "2026-08-14T22:14:54.307145+00:00",
+      "timestamp": "2026-08-14T22:33:15.291927+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Star Equity outlines $10M cost savings plan in Harte Hanks deal targeting ~$30M adjusted EBITDA",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633567-star-equity-outlines-10m-cost-savings-plan-in-harte-hanks-deal-targeting-30m-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:17:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tudor Investment adds Oracle, Intuit, exits Applied Materials among Q2 moves",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633564-tudor-invesment-adds-oracle-intuit-exits-appllied-materials-among-q2-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:17:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-4861601",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:12:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet becomes Berkshire Hathaway\u2019s third-largest investment",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/berkshire-buys-more-alphabet-which-becomes-its-thirdlargest-stock-investment-4861495",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:07:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -98,20 +142,70 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
+      "headline": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T21:54:29+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "url": "https://www.investing.com/news/economy-news/us-regulator-approves-bank-charter-for-trumpbacked-crypto-company-world-liberty-financial-4861461",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:06:32+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KinderCare Learning Companies amends master lease agreements for 545 center sites",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/kindercare-learning-companies-amends-master-lease-agreements-for-545-center-sites-93CH-4861604",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:04:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PBF Energy SVP & general counsel Trecia Canty sells $9.96m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pbf-energy-svp--general-counsel-trecia-canty-sells-996m-in-stock-93CH-4861603",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:01:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jack in the box exec chairman King sells $104,977 of stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/jack-in-the-box-exec-chairman-king-sells-104977-of-stock-93CH-4861602",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:00:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Plum Acquisition Corp. III announces resignation of independent auditor Marcum LLP",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/plum-acquisition-corp-iii-announces-resignation-of-independent-auditor-marcum-llp-93CH-4861600",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:00:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OceanLight Acquisition completes $100 million IPO on Nasdaq",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/oceanlight-acquisition-completes-100-million-ipo-on-nasdaq-93CH-4861599",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:56:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -121,17 +215,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633561-pershing-squares-revamped-portfolios-biggest-bets-are-in-uber-brookfield-and-microsoft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:54:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Nuvve Q2 2026 revenue jumps 268% as losses narrow",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nuvve-q2-2026-revenue-jumps-268-as-losses-narrow-93CH-4861598",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:53:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -149,88 +232,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Vivos Therapeutics posts strong Q2 2026 revenue growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vivos-therapeutics-posts-strong-q2-2026-revenue-growth-93CH-4861596",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:52:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Motorsport Games Q2 2026 slides: revenue surges 74%, margins hit 85%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/motorsport-games-q2-2026-slides-revenue-surges-74-margins-hit-85-93CH-4861597",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:52:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jane Street takes $15 billion hit following tech sell-off, FT reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/jane-street-takes-15-billion-hit-following-tech-selloff-ft-reports-4861595",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:51:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "InnSuites Hospitality Trust shareholders approve board member and auditor at annual meeting",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/innsuites-hospitality-trust-shareholders-approve-board-member-and-auditor-at-annual-meeting-93CH-4861594",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:51:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Lument Finance Trust outlines 10-for-1 reverse stock split effective September 9 as it targets full capital deployment in 2027",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633563-lument-finance-trust-outlines-10-forminus-1-reverse-stock-split-effective-september-9-as-it?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:50:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alphabet becomes Berkshire Hathaway\u2019s third-largest investment",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-buys-more-alphabet-which-becomes-its-thirdlargest-stock-investment-4861495",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:49:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-regulator-approves-bank-charter-for-trumpbacked-crypto-company-world-liberty-financial-4861461",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:48:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AMD adds significant positions in SpaceX and Nutanix",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633553-amd-adds-significant-positions-in-spacex-and-nutanix?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:47:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -243,17 +249,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:45:19+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ValueAct Capital adds PAYP, boosts AMZN, SPOT and exits DIS in Q2",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633560-valueact-capital-adds-payp-boosts-amzn-spot-and-exit-dis-in-q2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:41:54+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1110,6 +1105,61 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Dollar is Undercut by Dovish US PPI Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-undercut-dovish-us-ppi-151741601.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T15:17:41+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "If a Stock Market Crash Is Coming, History Says This 1 Investing Move Is Crucial",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-151500923.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T15:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are Wall Street Analysts Predicting Clorox Stock Will Climb or Sink?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-clorox-150756816.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T15:07:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Things are looking up for AI infrastructure companies, for now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/things-are-looking-up-for-ai-infrastructure-companies-for-now-150730483.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T15:07:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Beyond SpaceX: 4 IPO Stocks Quietly Crushing The Market",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/spacex-ipo-bending-spoons-dpc-sinda-lime-neutron-holdings-stock-market/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T15:05:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Relay Therapeutics Stock Is Up Nearly 500% Over the Past Year",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/relay-therapeutics-stock-nearly-500-150003130.html",
@@ -1127,61 +1177,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-13T15:00:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lower Capex Outlook and Leadership Change Weighed on Expand Energy Corp. (EXE)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/lower-capex-outlook-leadership-change-145810733.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T14:58:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cerebras Stock Tumbles After the AI Chip Designer\u2019s Second Earnings Report Since Its IPO",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-tumbles-ai-chip-145549497.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T14:55:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Devon Energy Corp. (DVN) Slipped Post-Acquisition",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corp-dvn-slipped-145027877.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T14:50:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soft Outlook Overshadows Trimble\u2019s (TRMB) Strong Results",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soft-outlook-overshadows-trimble-trmb-144409470.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T14:44:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kalshi In Talks To Raise Money At $40 Billion Valuation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kalshi-talks-raise-money-40-144000532.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T14:40:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
