@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-14T05:59:36.749661+00:00",
+  "generated_at": "2026-08-14T07:43:56.665574+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"New York Fed: No Reserve Management Purchases In The Month To Mid-September\""
+      "move_reason": "News: \"As Older Workers Retire, Labor Costs Ease\""
     },
     {
       "ticker": "NBIS",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market Just Made a Move That Warren Buffett Has Warned About. History Says Inves...\""
+      "move_reason": "News: \"Goldman in talks with investors on Nvidia financing deal after landing prized role, source...\""
     },
     {
       "ticker": "OSCR",
