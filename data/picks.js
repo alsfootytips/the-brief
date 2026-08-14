@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-13T23:59:24.813254+00:00",
+  "generated_at": "2026-08-14T02:35:17.222790+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -59,9 +59,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 260.91,
-      "current_pct": 46.2,
-      "change_pct_today": 0.66,
+      "current_price": 261.0,
+      "current_pct": 46.25,
+      "change_pct_today": 0.69,
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,
@@ -130,9 +130,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 486.5,
-      "current_pct": 10.07,
-      "change_pct_today": 0.74,
+      "current_price": 486.85,
+      "current_pct": 10.15,
+      "change_pct_today": 0.81,
       "name": "Advanced Micro Devices",
       "news_count": 3,
       "days_elapsed": 14,
@@ -506,12 +506,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 1051.9,
-      "current_pct": -0.01,
-      "change_pct_today": 1.15,
+      "current_price": 1050.3,
+      "current_pct": -0.16,
+      "change_pct_today": 1.0,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 92,
+      "days_elapsed": 93,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": -0.3,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 92,
+      "days_elapsed": 93,
       "days_remaining": null
     },
     {
@@ -572,12 +572,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 178.26,
+      "current_price": 178.25,
       "current_pct": 36.28,
       "change_pct_today": 4.22,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 92,
+      "days_elapsed": 93,
       "days_remaining": null
     },
     {
@@ -604,9 +604,9 @@ window.theBriefPicks = {
       "horizon_label": "Short-term",
       "direction": "long",
       "pick_type": "tactical",
-      "current_price": 225.55,
-      "current_pct": 0.1,
-      "change_pct_today": 0.65,
+      "current_price": 225.43,
+      "current_pct": 0.05,
+      "change_pct_today": 0.6,
       "name": "NVIDIA",
       "news_count": 3,
       "days_elapsed": 14,
@@ -712,9 +712,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 57.75,
-      "current_pct": 11.42,
-      "change_pct_today": -1.37,
+      "current_price": 57.76,
+      "current_pct": 11.44,
+      "change_pct_today": -1.35,
       "name": "Occidental Petroleum",
       "news_count": 3,
       "days_elapsed": 42,
@@ -882,9 +882,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 106.9,
-      "current_pct": 20.37,
-      "change_pct_today": -0.77,
+      "current_price": 106.97,
+      "current_pct": 20.45,
+      "change_pct_today": -0.7,
       "name": "CoreWeave",
       "news_count": 3,
       "days_elapsed": 13,
@@ -921,8 +921,8 @@ window.theBriefPicks = {
       "change_pct_today": 7.64,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 2,
-      "days_remaining": 40
+      "days_elapsed": 3,
+      "days_remaining": 39
     },
     {
       "id": "2026-08-11-APA-auto",
@@ -951,8 +951,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.83,
       "name": "APA Corp",
       "news_count": 3,
-      "days_elapsed": 2,
-      "days_remaining": 47
+      "days_elapsed": 3,
+      "days_remaining": 46
     }
   ],
   "summary": {
