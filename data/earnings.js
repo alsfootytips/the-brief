@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-14T11:57:43+00:00",
+  "generated_at": "2026-08-14T12:43:29+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -853,7 +853,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HURA",
         "date": "2026-08-14",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1479,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -869,7 +869,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LEAT",
         "date": "2026-08-14",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
