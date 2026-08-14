@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-14T12:43:29+00:00",
+  "generated_at": "2026-08-14T13:17:54+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -965,7 +965,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ONVC",
         "date": "2026-08-14",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1085,7 +1085,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TOMZ",
         "date": "2026-08-14",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.1122,
         "revenue_estimate": 1878840,
         "is_watchlist": false
