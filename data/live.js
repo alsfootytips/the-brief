@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T16:35:00.030575+00:00",
+  "generated_at": "2026-08-15T17:01:07.221706+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:35:00.027707+00:00",
+      "timestamp": "2026-08-15T17:01:07.218779+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:35:00.027703+00:00",
+      "timestamp": "2026-08-15T17:01:07.218776+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:35:00.027699+00:00",
+      "timestamp": "2026-08-15T17:01:07.218772+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:35:00.027683+00:00",
+      "timestamp": "2026-08-15T17:01:07.218754+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:52:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HRT Financial LP sells $6,103 of Maison Solutions stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-lp-sells-6103-of-maison-solutions-stock-93CH-4861813",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:31:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -86,6 +108,17 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Peru\u2019s economic growth slows to 1.75% in June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/perus-economic-growth-slows-to-175-in-june-4861809",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:18:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -211,17 +244,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Twilio director Erika Rottenberg sells $881k in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/twilio-director-erika-rottenberg-sells-881k-in-stock-93CH-4861802",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "How value, viral marketing, and better operations helped Chili's turn the tables on fast food",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633338-how-value-viral-marketing-and-better-operations-helped-chilis-turn-the-tables-on-fast-food?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -293,17 +315,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:07:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corcept therapeutics chief development officer sells $1.8m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-chief-development-officer-sells-18m-in-stock-93CH-4861799",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:01:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -448,17 +459,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:04:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:01:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

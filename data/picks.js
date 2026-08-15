@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-15T16:35:00.134281+00:00",
+  "generated_at": "2026-08-15T17:01:07.321745+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -539,12 +539,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 665.0,
-      "current_pct": -11.93,
-      "change_pct_today": -1.02,
+      "current_price": 687.8,
+      "current_pct": -8.91,
+      "change_pct_today": 2.23,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 90,
+      "days_elapsed": 94,
       "days_remaining": null
     },
     {
