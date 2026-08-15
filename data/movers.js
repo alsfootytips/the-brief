@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T07:59:47.218802+00:00",
+  "generated_at": "2026-08-15T08:39:04.796787+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -142,7 +142,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Is The Economy Really Telling Us?\""
+      "move_reason": "News: \"Weekly Commentary: Expect Trouble\""
     },
     {
       "ticker": "XLB",
@@ -343,14 +343,14 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "price": 58.16,
-      "change_pct": -0.17,
-      "volume_ratio": 1.22,
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "price": 731.07,
+      "change_pct": -0.14,
+      "volume_ratio": 0.85,
       "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
+      "is_index": true,
+      "is_sector": false,
       "move_reason": ""
     }
   ],
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Is The Economy Really Telling Us?\""
+      "move_reason": "News: \"Weekly Commentary: Expect Trouble\""
     },
     {
       "ticker": "NBIS",
@@ -640,16 +640,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "price": 58.16,
-      "change_pct": -0.17,
-      "volume_ratio": 1.22,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary Select",
       "price": 118.2,
@@ -688,13 +678,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
@@ -980,13 +970,6 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "change_pct": -0.21,
       "price": 118.2,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "change_pct": -0.17,
-      "price": 58.16,
       "watchlist_members": []
     },
     {

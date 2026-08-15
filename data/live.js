@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T07:59:47.225174+00:00",
+  "generated_at": "2026-08-15T08:39:04.802953+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:59:47.222287+00:00",
+      "timestamp": "2026-08-15T08:39:04.800044+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:59:47.222283+00:00",
+      "timestamp": "2026-08-15T08:39:04.800040+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:59:47.222279+00:00",
+      "timestamp": "2026-08-15T08:39:04.800035+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:59:47.222263+00:00",
+      "timestamp": "2026-08-15T08:39:04.800019+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ubs-lists-4-reasons-why-it-may-be-a-good-time-to-look-at-infrastructure-now-4861756",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T08:16:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Empery Asset Management acquires $4.07m in Empery Digital stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/empery-asset-management-acquires-407m-in-empery-digital-stock-93CH-4861754",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T08:01:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -146,28 +168,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Horace Mann director Reece sells $70,018 of HMN stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/horace-mann-director-reece-sells-70018-of-hmn-stock-93CH-4861747",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:46:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Horace Mann director Thomas Bradley sells $258,623 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/horace-mann-director-thomas-bradley-sells-258623-in-stock-93CH-4861746",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:46:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
@@ -197,6 +197,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T03:58:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Weekly Commentary: Expect Trouble",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad74f34ef9780b7023a434b2683bf7ab476112c0fb1f189d26e29f530ee3932f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T03:45:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -302,7 +314,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
+      "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
       "is_watchlist": false,
@@ -313,7 +325,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters",
+      "headline": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
       "is_watchlist": false,
@@ -327,7 +339,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
       "is_watchlist": true,
@@ -376,7 +388,7 @@ window.theBriefLive = {
         "Trump"
       ],
       "ticker": null,
-      "headline": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - Reuters",
+      "headline": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzNsYmMxbVMzTEd5RnlEOUdmcmlRM1ZiaG1xTm93dXJUQ2otQ2trbUswV3hXeS16cldCbVNXeTFmV21PNlFrZXM3UmVoSHZRc01uNmJwWFZYeHB6RzhYYjFCWl90MXN1dzBUNnBCelhkSGF1bm1XTWZUdW91bElvVmFxYnhETTlWOGlrangzYzl6aDVNd1VsUUNNNEtwMUtlOWFlaVU5Q09CcWE2WUE?oc=5",
       "is_watchlist": true,
@@ -410,7 +422,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil prices rally, US data dents chances of Fed rate hike - Reuters",
+      "headline": "Oil prices rally, US data dents chances of Fed rate hike - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
       "is_watchlist": false,
@@ -444,7 +456,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters",
+      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
       "is_watchlist": false,
@@ -456,7 +468,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
+      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
       "is_watchlist": false,
@@ -478,7 +490,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
+      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
       "is_watchlist": false,
@@ -489,7 +501,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Yemen government says Houthi missiles kill four civilians in port city - Reuters",
+      "headline": "Yemen government says Houthi missiles kill four civilians in port city - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmNkVEYyamJfdmxCeFdRYUZjWXg5MS10VUNDdFdZcXpsZFM0UjBSRXowMGxMRnZkV3ZXX29JUzlXbkkyaGFENWlCdWREMGJnblktd1Rza2dHQ04zQTVJcjNxOG1qWnVuLUtiRHRWSDZFTk5yTzVac1VXSkx5ODFkOS1GXzFFREJXa3pmMlVoT3ZVT0NLU3ZDdmliSVBMQVVPMFZIcWpaSWpfcDJqcFlhdGJJZmZxa2hieFdnTHBtQTNKdkx4eGc?oc=5",
       "is_watchlist": false,
@@ -860,18 +872,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "July Inflation Rises, But Weakening Labor Complicates Fed's Choice",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=69e6e267645de8d8d4ec1f7e3611aa055de339bd642a12aabc5b68fc80a56982",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T13:10:00+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "APA Corp (NASDAQ:APA): A Decent Value Stock with Solid Fundamentals",
       "source": "ChartMill",
@@ -958,33 +958,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "An Al coding startup just can't stop raising money",
+      "headline": "Medicare Advantage or Traditional Plus Supplemental? Choose Wisely",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/al-coding-startup-just-cant-031700210.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/medicare-advantage-traditional-plus-supplemental-040300003.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T03:17:00+00:00",
+      "timestamp": "2026-08-14T04:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "headline": "Treasury, IRS Propose Streamlining Rollovers From 401(ks) to IRAs",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
+      "url": "https://finance.yahoo.com/markets/options/articles/treasury-irs-propose-streamlining-rollovers-040200151.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T03:09:34+00:00",
+      "timestamp": "2026-08-14T04:02:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "BP Secures Venezuela Offshore Gas License With ADNOC-Backed XRG",
+      "headline": "How Retirement Savers Can Profit from Big IPOs",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/bp-secures-venezuela-offshore-gas-023843268.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/retirement-savers-profit-big-ipos-040100382.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T02:38:43+00:00",
+      "timestamp": "2026-08-14T04:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Growth at Fast Food Joints Like Wendy\u2019s Looks Soggy Next to Casual-Dining Chains",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/growth-fast-food-joints-wendy-040100086.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T04:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ackman\u2019s Pershing Touts Value Investing Amid Bid to Stir Demand for Funds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ackman-pershing-touts-value-investing-040100723.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T04:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic\u2019s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-6-billion-deal-talks-040100013.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T04:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fabrinet's COO Sells Nearly 7,000 Shares for $3.6 Million. Here's What That Means for Investors.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinets-coo-sells-nearly-7-035924604.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T03:59:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1003,17 +1047,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lucid Diagnostics Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-diagnostics-inc-q2-2026-020743264.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T02:07:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Feds probe 'mention markets' amid White House Kalshi controversy",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
@@ -1025,44 +1058,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Protalix BioTherapeutics, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/protalix-biotherapeutics-inc-q2-2026-020106348.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T02:01:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PetMed Express, Inc. Q1 2027 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/petmed-express-inc-q1-2027-015538357.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T01:55:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T01:53:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yen's slide to weekly loss prompts bets for another intervention",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/yens-slide-weekly-loss-prompts-014746575.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T01:47:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
