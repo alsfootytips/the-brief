@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T06:58:14.832840+00:00",
+  "generated_at": "2026-08-15T07:36:04.230226+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:58:14.829945+00:00",
+      "timestamp": "2026-08-15T07:36:04.227331+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:58:14.829941+00:00",
+      "timestamp": "2026-08-15T07:36:04.227327+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:58:14.829937+00:00",
+      "timestamp": "2026-08-15T07:36:04.227322+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,55 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:58:14.829920+00:00",
+      "timestamp": "2026-08-15T07:36:04.227305+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T07:24:32+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/crusading-india-state-food-safety-chief-targets-eternal-swiggy-zepto-in-sweeping-crackdown-4861750",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T07:12:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin bear flag 80% complete near $62,500: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T07:02:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fund managers chase \u20ac500 billion German pension overhaul",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/fund-managers-chase-500-billion-german-pension-overhaul-4861749",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T06:38:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -119,51 +164,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T05:30:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What happens if USD/JPY goes above 160? \u2018Credibility falls further\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/what-happens-if-usdjpy-goes-above-160-credibility-falls-further-4861744",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:28:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "American Assets Trust executive chairman Rady acquires $3.4m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/american-assets-trust-executive-chairman-rady-acquires-34m-in-shares-93CH-4861743",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:16:03+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Global self storage director Russell Burke buys $8,458 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/global-self-storage-director-russell-burke-buys-8458-in-stock-93CH-4861742",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:15:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:06:28+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -297,6 +297,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T23:27:45+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:18:44+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -659,17 +670,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T17:26:57+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Third Point Dissolves Share Stake In NVIDIA",
       "source": "Benzinga",
@@ -957,6 +957,39 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T03:09:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arrive AI (ARAI) Q2 2026 Earnings Call Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arrive-ai-arai-q2-2026-024325158.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T02:43:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BP Secures Venezuela Offshore Gas License With ADNOC-Backed XRG",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/bp-secures-venezuela-offshore-gas-023843268.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T02:38:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "APA",
       "headline": "APA (APA) Stock Fair Value Edges Higher After Q2 Analyst Revisions",
       "source": "Yahoo",
@@ -970,12 +1003,45 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Lucid Diagnostics Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-diagnostics-inc-q2-2026-020743264.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T02:07:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Feds probe 'mention markets' amid White House Kalshi controversy",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
       "is_watchlist": false,
       "timestamp": "2026-08-14T02:06:10+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Protalix BioTherapeutics, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/protalix-biotherapeutics-inc-q2-2026-020106348.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T02:01:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PetMed Express, Inc. Q1 2027 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/petmed-express-inc-q1-2027-015538357.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T01:55:38+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -992,45 +1058,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Incyte Corporation (INCY) has the Bigger Revenue Base, but Could Halozyme Therapeutics, Inc. (HALO) have the Better Economics?",
+      "headline": "Yen's slide to weekly loss prompts bets for another intervention",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/incyte-corporation-incy-bigger-revenue-000444398.html",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/yens-slide-weekly-loss-prompts-014746575.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T00:04:44+00:00",
+      "timestamp": "2026-08-14T01:47:46+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could Arcus Biosciences (RCUS) and Summit Therapeutics (SMMT)\u2019s Cancer Drug Partnership Create a New Treatment Standard?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-arcus-biosciences-rcus-summit-000349349.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T00:03:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Twilio (TWLO) Q2 2026 Earnings Call Transcript",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-twlo-q2-2026-earnings-000103509.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T00:01:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump Is Spending Billions On The Minerals That Power EVs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/trump-spending-billions-minerals-power-000000585.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T00:00:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1044,39 +1077,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI Data Centers Are Running Out of Water. This $6 Stock Has a Fix",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-running-water-233940990.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T23:39:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could AbbVie Inc. (ABBV) Win as Genmab A/S (GMAB) Faces a New Regulatory Test for Epcoritamab?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-abbvie-inc-abbv-win-233835472.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T23:38:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Doximity Doubled, Then Gave Most of It Back. Here\u2019s Why the Market Doesn\u2019t Trust the Rally",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/doximity-doubled-then-gave-most-233528723.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T23:35:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
