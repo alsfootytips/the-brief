@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T20:23:42.300948+00:00",
+  "generated_at": "2026-08-15T20:48:51.373146+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T20:23:42.297945+00:00",
+      "timestamp": "2026-08-15T20:48:51.369681+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T20:23:42.297941+00:00",
+      "timestamp": "2026-08-15T20:48:51.369677+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T20:23:42.297937+00:00",
+      "timestamp": "2026-08-15T20:48:51.369672+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,55 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T20:23:42.297920+00:00",
+      "timestamp": "2026-08-15T20:48:51.369654+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:38:29+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Atmos Energy director William Ware buys $50,278 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/atmos-energy-director-william-ware-buys-50278-in-company-stock-93CH-4861854",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:31:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Home Bancshares director Jim Rankin sells $462,966 in HOMB stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/home-bancshares-director-jim-rankin-sells-462966-in-homb-stock-93CH-4861853",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:30:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -149,28 +194,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-3-billion-in-sb-energy-as-part-of-openai-data-center-deal-the-information-reports-4861844",
       "is_watchlist": false,
       "timestamp": "2026-08-15T19:42:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:34:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kestra Medical Technologies officer Traci Umberger sells $512,791",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-officer-traci-umberger-sells-512791-93CH-4861843",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:31:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -368,17 +391,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bill Gates\u2019 Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
@@ -522,6 +534,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:13:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Warren Buffett named these 3 stocks as favorites for a reason",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-named-3-stocks-140400163.html",
@@ -533,9 +556,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nebius Just Gave Bloom Energy a Big Boost. What It Means for BE Stock.",
+      "headline": "Buying Bonds Could Be the Single Most Important Investing Decision You Make for 10 Years",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-just-gave-bloom-energy-140002956.html",
+      "url": "https://finance.yahoo.com/markets/options/articles/buying-bonds-could-single-most-140002365.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:00:02+00:00",
       "relevance_score": 0.0,
@@ -585,18 +608,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:00:36+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -824,21 +835,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T22:01:00+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
