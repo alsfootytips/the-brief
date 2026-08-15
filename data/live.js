@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T02:20:39.054099+00:00",
+  "generated_at": "2026-08-15T03:12:36.299260+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T02:20:39.051760+00:00",
+      "timestamp": "2026-08-15T03:12:36.296325+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T02:20:39.051757+00:00",
+      "timestamp": "2026-08-15T03:12:36.296322+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T02:20:39.051754+00:00",
+      "timestamp": "2026-08-15T03:12:36.296318+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T02:20:39.051740+00:00",
+      "timestamp": "2026-08-15T03:12:36.296300+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,88 +78,121 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BioRestorative Therapies suspends shipments of ExoCR and BioX products for review",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/biorestorative-therapies-suspends-shipments-of-exocr-and-biox-products-for-review-93CH-4861704",
+      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T02:08:44+00:00",
+      "timestamp": "2026-08-15T02:51:26+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Barfresh outlines $23M-$26M FY2026 revenue outlook while targeting partial commissioning of Defiance plant by end of 2026",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633576-barfresh-outlines-23m-26m-fy2026-revenue-outlook-while-targeting-partial-commissioning-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T02:47:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
+      "headline": "AeroVironment SVP, chief accounting officer sells $41,381 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/vici-properties-lp-completes-175-billion-notes-offering-to-refinance-debt-93CH-4861703",
+      "url": "https://www.investing.com/news/insider-trading-news/aerovironment-svp-chief-accounting-officer-sells-41381-in-stock-93CH-4861714",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T02:03:55+00:00",
+      "timestamp": "2026-08-15T02:46:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Warner Bros. Discovery CEO David Zaslav sells $27.1m in company stock",
+      "headline": "How fast can the U.S. build data centers amid labour concerns?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/warner-bros-discovery-ceo-david-zaslav-sells-271m-in-company-stock-93CH-4861702",
+      "url": "https://www.investing.com/news/economy-news/how-fast-can-the-us-build-data-centers-amid-labour-concerns-4861712",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T02:01:03+00:00",
+      "timestamp": "2026-08-15T02:42:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lifeward earnings missed by $0.07, revenue topped estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/lifeward-earnings-missed-by-007-revenue-topped-estimates-4861711",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T02:37:36+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Natera director Jonathan Sheena sells $1.95m in common stock",
+      "headline": "Magnetar Financial, CoreWeave 10% owner, sells $33.4m stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/natera-director-jonathan-sheena-sells-195m-in-common-stock-93CH-4861701",
+      "url": "https://www.investing.com/news/insider-trading-news/magnetar-financial-coreweave-10-owner-sells-334m-stock-93CH-4861710",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T02:00:56+00:00",
+      "timestamp": "2026-08-15T02:31:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bally\u2019s warns of going-concern risk as it seeks fresh funding",
+      "headline": "AJB Investment Fund II buys $49,299 in Jewett Cameron shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ballys-warns-of-goingconcern-risk-as-it-seeks-fresh-funding-4861699",
+      "url": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-49299-in-jewett-cameron-shares-93CH-4861709",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T01:59:57+00:00",
+      "timestamp": "2026-08-15T02:31:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Solana Company expects first validator-related rewards in Q3 2026 as 0.5 million SOL stake commitment supports Tokyo cluster",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633575-solana-company-expects-first-validator-related-rewards-in-q3-2026-as-0_5-million-sol-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T02:28:22+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Centerspace completes sale of 14 apartment communities for $318.8 million",
+      "headline": "Clene earnings missed by $0.75, revenue topped estimates",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/centerspace-completes-sale-of-14-apartment-communities-for-3188-million-93CH-4861698",
+      "url": "https://www.investing.com/news/earnings/clene-earnings-missed-by-075-revenue-topped-estimates-4861708",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T01:59:31+00:00",
+      "timestamp": "2026-08-15T02:22:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
+      "headline": "CoreWeave (CRWV) 10% owner Magnetar Financial sells $213.8 million in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/vici-properties-lp-completes-175-billion-notes-offering-to-refinance-debt-93CH-4861697",
+      "url": "https://www.investing.com/news/insider-trading-news/coreweave-crwv-10-owner-magnetar-financial-sells-2138-million-in-stock-93CH-4861706",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T01:55:15+00:00",
+      "timestamp": "2026-08-15T02:16:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bruker declares $0.05 quarterly dividend for common shareholders",
+      "headline": "Magnetar Financial sells $231.6m in CoreWeave stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/bruker-declares-005-quarterly-dividend-for-common-shareholders-93CH-4861696",
+      "url": "https://www.investing.com/news/insider-trading-news/magnetar-financial-sells-2316m-in-coreweave-stock-93CH-4861705",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T01:51:17+00:00",
+      "timestamp": "2026-08-15T02:16:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -172,17 +205,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T01:27:36+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T00:43:29+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -250,28 +272,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T23:13:47+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Leatt outlines Q3 2026 bike care launch and continues $750,000 buyback amid cleared supply delays",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633568-leatt-outlines-q3-2026-bike-care-launch-and-continues-750000-buyback-amid-cleared-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:47:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuvve targets a senior-market return 'in months' while moving Europe batteries onto its balance sheet",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633569-nuvve-targets-a-senior-market-return-in-months-while-moving-europe-batteries-onto-its-balance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:47:46+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -436,6 +436,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T19:17:16+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yemen government says Houthi missiles kill four civilians in port city - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmNkVEYyamJfdmxCeFdRYUZjWXg5MS10VUNDdFdZcXpsZFM0UjBSRXowMGxMRnZkV3ZXX29JUzlXbkkyaGFENWlCdWREMGJnblktd1Rza2dHQ04zQTVJcjNxOG1qWnVuLUtiRHRWSDZFTk5yTzVac1VXSkx5ODFkOS1GXzFFREJXa3pmMlVoT3ZVT0NLU3ZDdmliSVBMQVVPMFZIcWpaSWpfcDJqcFlhdGJJZmZxa2hieFdnTHBtQTNKdkx4eGc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:17:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -722,17 +733,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-14T15:58:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T15:22:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1035,34 +1035,79 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ahead of Sigma Lithium Earnings, Here's What Barchart Data Says Comes Next for SGML Stock",
+      "headline": "Pelthos Therapeutics Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-sigma-lithium-earnings-heres-204020213.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/pelthos-therapeutics-inc-q2-2026-210546098.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T20:40:20+00:00",
+      "timestamp": "2026-08-13T21:05:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Two AI Security Winners to Own Now",
+      "headline": "Legence Corp. Class A Common stock Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-ai-security-winners-own-202732394.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/legence-corp-class-common-stock-210545360.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T20:27:32+00:00",
+      "timestamp": "2026-08-13T21:05:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stocks Hit New Highs on Inflation Relief",
+      "headline": "Macquarie, Westpac to testify in KPMG Australia audit scandal probe",
       "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/finance/stocks/stocks-hit-new-highs-on-inflation-relief-2049c5d4?siteid=yhoof2&yptr=yahoo",
+      "url": "https://finance.yahoo.com/news/macquarie-westpac-testify-kpmg-australia-210332909.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T20:23:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-13T21:03:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Intuitive Machines, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-inc-q2-2026-210059915.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:00:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "After Its Popular Repetto Collab, Birkenstock Is Going Bigger With Ballet Fashion",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/popular-repetto-collab-birkenstock-going-205921008.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T20:59:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn Belt Weather and an Upcoming Trump-Xi Summit Are Driving Grains Prices Now",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-belt-weather-upcoming-trump-205822855.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T20:58:22+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "American Shared Hospital Services Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/american-shared-hospital-services-q2-205728109.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T20:57:28+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1074,28 +1119,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-13T20:21:51+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Radian\u2019s (RDN) Revenue Jumped 93%, So Why Are Shares So Cheap?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/radian-rdn-revenue-jumped-93-201942527.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T20:18:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar Ends Little Changed Despite Dovish US PPI Report",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-ends-little-changed-despite-201012786.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T20:10:12+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1425,28 +1448,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
       "is_watchlist": false,
       "timestamp": "2026-08-05T19:18:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Capital One Venture X vs. Chase Sapphire Reserve: The overall winner might surprise you",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/capital-one-venture-x-vs-chase-sapphire-reserve-203312837.html",
-      "is_watchlist": false,
-      "timestamp": "2025-11-14T20:33:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How do travel credit cards work?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-do-travel-credit-cards-work-172432075.html",
-      "is_watchlist": false,
-      "timestamp": "2024-01-26T22:25:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
