@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T10:30:49.203298+00:00",
+  "generated_at": "2026-08-15T10:58:53.443910+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T10:30:49.200436+00:00",
+      "timestamp": "2026-08-15T10:58:53.440929+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T10:30:49.200432+00:00",
+      "timestamp": "2026-08-15T10:58:53.440925+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T10:30:49.200428+00:00",
+      "timestamp": "2026-08-15T10:58:53.440920+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,65 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T10:30:49.200412+00:00",
+      "timestamp": "2026-08-15T10:58:53.440900+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trend followers could keep buying Nasdaq, BofA says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trend-followers-could-keep-buying-nasdaq-bofa-says-4861768",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:46:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Univest financial director Turner sells $344,280 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/univest-financial-director-turner-sells-344280-in-shares-93CH-4861767",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:46:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Horizon Kinetics Asset Management buys $2,192 of RENN Fund stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-buys-2192-of-renn-fund-stock-93CH-4861766",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:31:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:12:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump\u2019s 2024 grocery photo op now haunts Republicans in the midterms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/trumps-2024-grocery-photo-op-now-haunts-republicans-in-the-midterms-4861765",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:12:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -83,17 +138,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-343-93CH-4861763",
       "is_watchlist": false,
       "timestamp": "2026-08-15T09:46:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T09:41:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -121,48 +165,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ubs-lists-4-reasons-why-it-may-be-a-good-time-to-look-at-infrastructure-now-4861756",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T08:16:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Empery Asset Management acquires $4.07m in Empery Digital stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/empery-asset-management-acquires-407m-in-empery-digital-stock-93CH-4861754",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T08:01:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.K. steps up defense supply-chain checks after naval drones signal China",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/uk-steps-up-defense-supplychain-checks-after-naval-drones-signal-china-4861752",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T07:29:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T07:24:32+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "ticker": "CRWV",
+      "headline": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a5a4dcd16687a68ff6555e7af6d47067d3d338031982fd23c90f5451b7d2b420",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T06:37:52+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -858,18 +869,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4ce3c10265cab9c90514ca3a5d75c3c02b385b12adc19b2dedb50ca4479d5f07",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T13:35:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
       "source": "Benzinga",
@@ -929,6 +928,28 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "How Big Tech Is Inflating Each Other\u2019s Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T09:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IonQ (IONQ) Just Posted Record Results, So Why Is The Stock Still Down?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-just-posted-record-092352107.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T09:23:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "XLE",
       "headline": "Leading And Lagging Sectors For August 14, 2026",
       "source": "Benzinga",
@@ -942,12 +963,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tecogen Q2 Earnings Call Highlights",
+      "headline": "Can I Retire at 67 With $500k in an IRA and $2,000 Monthly Social Security Income?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tecogen-q2-earnings-call-highlights-090408760.html",
+      "url": "https://finance.yahoo.com/news/500k-ira-receive-2-000-110000997.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T09:04:08+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-14T09:00:00+00:00",
+      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -959,17 +980,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T09:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can I Retire at 67 With $500k in an IRA and $2,000 Monthly Social Security Income?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/500k-ira-receive-2-000-110000997.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T09:00:00+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -995,17 +1005,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "e.l.f. Beauty (ELF) Just Logged Its 30th Growth Quarter. Can The Streak Hold?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-elf-084557866.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T08:45:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -1023,12 +1022,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. TerraPower, South Korea's SK Innovation sign preliminary deal on global SMR projects",
+      "headline": "Why Is Nutrien (NTR) Raising Guidance While Nitrogen Volumes Slide?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/u-terrapower-south-koreas-sk-080937803.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutrien-ntr-raising-guidance-083605403.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T08:09:37+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-14T08:36:05+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
