@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T06:01:14.678393+00:00",
+  "generated_at": "2026-08-15T06:58:14.832840+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:01:14.675541+00:00",
+      "timestamp": "2026-08-15T06:58:14.829945+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:01:14.675537+00:00",
+      "timestamp": "2026-08-15T06:58:14.829941+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:01:14.675533+00:00",
+      "timestamp": "2026-08-15T06:58:14.829937+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,22 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T06:01:14.675517+00:00",
+      "timestamp": "2026-08-15T06:58:14.829920+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ADNOC vessel attacked in Hormuz as Trump defends extended carrier deployment",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T06:06:56+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -156,12 +168,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Angel Studios CEO Neal Harmon buys $125k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/angel-studios-ceo-neal-harmon-buys-125k-in-company-stock-93CH-4861740",
+      "headline": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T05:01:04+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-15T05:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:00:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -196,6 +219,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T02:28:22+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "What Is The Economy Really Telling Us?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f51faad8e79b129e8e7b0dea9ea4c162b95ce9c01bffd18b96adf190271400d1",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T02:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -410,17 +445,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:50:11+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
@@ -460,17 +484,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T19:17:00+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:10:18+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -871,18 +884,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Getting Inflation Down To 2% Just Got Harder",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bc402a52dda28fafd1bde89b21d6bc5854da877358f0f18d5048261560b3b4b8",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T12:36:09+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Selena Gomez sued for alleged fraud over mental health company",
       "source": "BBC Business",
@@ -990,6 +991,50 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Incyte Corporation (INCY) has the Bigger Revenue Base, but Could Halozyme Therapeutics, Inc. (HALO) have the Better Economics?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/incyte-corporation-incy-bigger-revenue-000444398.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T00:04:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could Arcus Biosciences (RCUS) and Summit Therapeutics (SMMT)\u2019s Cancer Drug Partnership Create a New Treatment Standard?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-arcus-biosciences-rcus-summit-000349349.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T00:03:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Twilio (TWLO) Q2 2026 Earnings Call Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-twlo-q2-2026-earnings-000103509.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T00:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump Is Spending Billions On The Minerals That Power EVs",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/trump-spending-billions-minerals-power-000000585.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T00:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "AI Data Centers Are Running Out of Water. This $6 Stock Has a Fix",
       "source": "Yahoo",
@@ -1003,66 +1048,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Johnson & Johnson (JNJ)\u2019s $5.5B Talc Settlement: Turning Point or Temporary Relief?",
+      "headline": "AI Data Centers Are Running Out of Water. This $6 Stock Has a Fix",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-5-5b-230726728.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-running-water-233940990.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T23:07:26+00:00",
+      "timestamp": "2026-08-13T23:39:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Viatris (VTRS) is Selling Tyrvaya, but Could Harrow (HROW) Turn it Into a Growth Engine?",
+      "headline": "Could AbbVie Inc. (ABBV) Win as Genmab A/S (GMAB) Faces a New Regulatory Test for Epcoritamab?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/viatris-vtrs-selling-tyrvaya-could-230317847.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-abbvie-inc-abbv-win-233835472.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T23:03:17+00:00",
+      "timestamp": "2026-08-13T23:38:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mexico Has More Refining Capacity. So Why Are Fuel Imports Rising?",
+      "headline": "Doximity Doubled, Then Gave Most of It Back. Here\u2019s Why the Market Doesn\u2019t Trust the Rally",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/mexico-more-refining-capacity-why-230000074.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doximity-doubled-then-gave-most-233528723.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T23:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-winning-price-racing-own-225233177.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:52:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could Alcon (ALC) and RxSight (RXST)\u2019s Partnership Reshape the Future of Cataract Surgery?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-alcon-alc-rxsight-rxst-224910777.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:49:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/sandisk-stock-jumps-bullish-outlook-memory-names-follow/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:39:33+00:00",
+      "timestamp": "2026-08-13T23:35:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1438,17 +1450,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
       "is_watchlist": false,
       "timestamp": "2026-08-05T19:18:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Current balance vs. available balance: What's the difference?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/current-balance-vs-available-balance-215236321.html",
-      "is_watchlist": false,
-      "timestamp": "2024-08-21T21:52:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
