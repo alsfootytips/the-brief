@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T08:39:04.802953+00:00",
+  "generated_at": "2026-08-15T09:03:13.131885+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T08:39:04.800044+00:00",
+      "timestamp": "2026-08-15T09:03:13.129003+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T08:39:04.800040+00:00",
+      "timestamp": "2026-08-15T09:03:13.128999+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T08:39:04.800035+00:00",
+      "timestamp": "2026-08-15T09:03:13.128995+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T08:39:04.800019+00:00",
+      "timestamp": "2026-08-15T09:03:13.128979+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Knight-Swift CEO Reid Dove sells $12.3m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/knightswift-ceo-reid-dove-sells-123m-in-company-stock-93CH-4861757",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T08:46:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -152,18 +163,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T06:38:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ADNOC vessel attacked in Hormuz as Trump defends extended carrier deployment",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T06:06:56+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -958,6 +957,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Bank of Japan Hike Odds Triple on Polymarket as Yen Intervention Fades",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/bank-japan-hike-odds-triple-042503671.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T04:25:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-AI-driven surge in bond yields could be next risk for markets and growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-ai-driven-surge-bond-040956476.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T04:09:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-talks-investors-nvidia-financing-040352701.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T04:03:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Medicare Advantage or Traditional Plus Supplemental? Choose Wisely",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/medicare-advantage-traditional-plus-supplemental-040300003.html",
@@ -991,44 +1023,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Growth at Fast Food Joints Like Wendy\u2019s Looks Soggy Next to Casual-Dining Chains",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/growth-fast-food-joints-wendy-040100086.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ackman\u2019s Pershing Touts Value Investing Amid Bid to Stir Demand for Funds",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ackman-pershing-touts-value-investing-040100723.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Anthropic\u2019s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-6-billion-deal-talks-040100013.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T04:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fabrinet's COO Sells Nearly 7,000 Shares for $3.6 Million. Here's What That Means for Investors.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinets-coo-sells-nearly-7-035924604.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T03:59:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
