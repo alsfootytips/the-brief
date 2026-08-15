@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T19:03:29.321860+00:00",
+  "generated_at": "2026-08-15T19:34:44.083153+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:03:29.318891+00:00",
+      "timestamp": "2026-08-15T19:34:44.080272+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:03:29.318888+00:00",
+      "timestamp": "2026-08-15T19:34:44.080269+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:03:29.318884+00:00",
+      "timestamp": "2026-08-15T19:34:44.080264+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,76 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:03:29.318870+00:00",
+      "timestamp": "2026-08-15T19:34:44.080248+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:15:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin MACD crossover at $63K, bear flag looms: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:02:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thrivent Financial sells $93,387 in Gloo Holdings stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/thrivent-financial-sells-93387-in-gloo-holdings-stock-93CH-4861837",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:01:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AJB investment fund II, LP, 10% owner, buys $9,880 in Jewett Cameron Trading Co Ltd",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-10-owner-buys-9880-in-jewett-cameron-trading-co-ltd-93CH-4861836",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:01:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kestra Medical CBO Timothy Moran sells $348,310 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-cbo-timothy-moran-sells-348310-in-shares-93CH-4861835",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AppFolio director Maurice Duca sells $1.6 million in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/appfolio-director-maurice-duca-sells-16-million-in-shares-93CH-4861834",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:01:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -122,23 +188,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:33:50+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Jane Street lost $15B in July after Situational Awareness meltdown: report",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633589-jane-street-lost-15b-post-situational-awareness-meltdown?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T18:33:26+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CompX director Ann Manix sells $44,395 in class A shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/compx-director-ann-manix-sells-44395-in-class-a-shares-93CH-4861828",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:31:19+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -154,14 +220,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "H.B. Fuller exec VP Nathan Weaver sells $593k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/hb-fuller-exec-vp-nathan-weaver-sells-593k-in-company-stock-93CH-4861826",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06ee74d265a0bb77590f79394eb0d293a79e06593c6c9612d2e3604d328fc044",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T18:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Iren Won't Have to Raise Capital for Much Longer After the Horizon 1 Delivery",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd43b191a9417f18312accd23c0414768a3f063a21b70acd588ee77fa7c80475",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T18:15:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -172,17 +251,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T18:05:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Park Aerospace board chairman & CEO Brian Shore sells $2.84m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/park-aerospace-board-chairman--ceo-brian-shore-sells-284m-in-shares-93CH-4861825",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:46:14+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -199,34 +267,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nuveen AMT-free municipal fund portfolio manager sells $62,250 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/nuveen-amtfree-municipal-fund-portfolio-manager-sells-62250-in-shares-93CH-4861824",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:30:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T17:23:09+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Beneath the S&P 500 rally: Where performance and fundamentals diverge",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/beneath-the-sp-500-rally-where-performance-and-fundamentals-diverge-4861823",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:16:30+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -239,6 +285,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T17:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac5ae008cd1c7b76d6138106b448ed1cf2fd03311b8b1548a08fd4ef4d7a8048",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T17:11:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -354,17 +412,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israeli strikes kill 11 in south Lebanon, health ministry says\u200b - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:26:26+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Anthropic\u2019s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633585-anthropics-ipo-valuation-tied-2028-revenue-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -381,17 +428,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/healthcare/article/why-medicare-advantage-providers-are-cutting-plans--and-what-to-do-if-your-coverage-is-affected-150759090.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:07:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable trades: Netflix, Coca-Cola, Pfizer among notable names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633449-notable-trades-netflix-coca-cola-pfizer-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:00:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -486,6 +522,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "NVDA Stock Alert: Nvidia CEO Jensen Huang Says Chips Are \u2018Investable Asset Class\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-alert-nvidia-ceo-130002278.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T13:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
@@ -493,18 +540,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T13:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T12:51:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -526,17 +561,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:50:41+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:35:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -625,18 +649,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T09:51:55+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius: I'm Still Not Selling After 10x",
       "source": "SeekingAlpha",
@@ -693,18 +705,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T09:00:00+00:00",
       "relevance_score": 3.5,
       "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T08:10:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
