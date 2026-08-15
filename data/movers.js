@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T15:20:24.695664+00:00",
+  "generated_at": "2026-08-15T15:45:46.921005+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: I'm Still Not Selling After 10x\""
+      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
     },
     {
       "ticker": "AMD",
@@ -171,7 +171,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.65,
+      "volume_ratio": 0.69,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -213,7 +213,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Strong Momentum And Short Covering At Work\""
+      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
     },
     {
       "ticker": "META",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Strong Momentum And Short Covering At Work\""
+      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
     },
     {
       "ticker": "DG",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: I'm Still Not Selling After 10x\""
+      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
     },
     {
       "ticker": "NVDA",
@@ -614,7 +614,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.65,
+      "volume_ratio": 0.69,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -624,7 +624,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.27,
       "change_pct": 0.33,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
