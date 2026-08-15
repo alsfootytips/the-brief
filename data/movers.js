@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T13:51:50.865114+00:00",
+  "generated_at": "2026-08-15T14:22:15.962882+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Strong Momentum And Short Covering At Work\""
+      "move_reason": "News: \"Nebius: I'm Still Not Selling After 10x\""
     },
     {
       "ticker": "AMD",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Strong Momentum And Short Covering At Work\""
+      "move_reason": "News: \"Nebius: I'm Still Not Selling After 10x\""
     },
     {
       "ticker": "NVDA",
