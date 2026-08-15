@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T03:55:59.849503+00:00",
+  "generated_at": "2026-08-15T04:31:08.701187+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:55:59.846571+00:00",
+      "timestamp": "2026-08-15T04:31:08.698324+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:55:59.846568+00:00",
+      "timestamp": "2026-08-15T04:31:08.698320+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:55:59.846545+00:00",
+      "timestamp": "2026-08-15T04:31:08.698316+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:55:59.846528+00:00",
+      "timestamp": "2026-08-15T04:31:08.698299+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,34 +78,100 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hartree Partners buys $28,589 in Hudson Technologies stock",
+      "headline": "Edgewise Therapeutics CMO Joanne Donovan sells $412,703 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/hartree-partners-buys-28589-in-hudson-technologies-stock-93CH-4861718",
+      "url": "https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-cmo-joanne-donovan-sells-412703-in-stock-93CH-4861728",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T03:31:05+00:00",
+      "timestamp": "2026-08-15T04:05:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US, Canada face sticking points before 50% tariff deadline",
+      "headline": "Azz COO Bryan Stovall sells $401,726 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-canada-face-sticking-points-before-50-tariff-deadline-4861716",
+      "url": "https://www.investing.com/news/insider-trading-news/azz-coo-bryan-stovall-sells-401726-in-company-stock-93CH-4861727",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T03:19:34+00:00",
+      "timestamp": "2026-08-15T04:05:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Edgewise Therapeutics CSO Alan Russell sells $258k in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-cso-alan-russell-sells-258k-in-stock-93CH-4861726",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T04:04:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Edgewise Therapeutics general counsel Moore sells $219,822 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-general-counsel-moore-sells-219822-in-shares-93CH-4861724",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T04:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Edgewise Therapeutics CEO Kevin Koch sells $785,042 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-ceo-kevin-koch-sells-785042-in-stock-93CH-4861725",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T04:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Edgewise Therapeutics CBO sells $223k in shares for tax obligations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/edgewise-therapeutics-cbo-sells-223k-in-shares-for-tax-obligations-93CH-4861723",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T04:01:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Warner Bros. Discovery director sells $1.98m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/warner-bros-discovery-director-sells-198m-in-stock-93CH-4861722",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T04:00:54+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
+      "headline": "Chinese drone maker DJI gets fresh chance to escape Pentagon\u2019s blacklist",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/chinese-drone-maker-dji-gets-fresh-chance-to-escape-pentagons-blacklist-4861356",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T02:51:26+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-08-15T04:00:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T03:58:31+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -122,78 +188,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AeroVironment SVP, chief accounting officer sells $41,381 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/aerovironment-svp-chief-accounting-officer-sells-41381-in-stock-93CH-4861714",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:46:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How fast can the U.S. build data centers amid labour concerns?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/how-fast-can-the-us-build-data-centers-amid-labour-concerns-4861712",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:42:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lifeward earnings missed by $0.07, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/lifeward-earnings-missed-by-007-revenue-topped-estimates-4861711",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:37:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Magnetar Financial, CoreWeave 10% owner, sells $33.4m stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/magnetar-financial-coreweave-10-owner-sells-334m-stock-93CH-4861710",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:31:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AJB Investment Fund II buys $49,299 in Jewett Cameron shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-49299-in-jewett-cameron-shares-93CH-4861709",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Solana Company expects first validator-related rewards in Q3 2026 as 0.5 million SOL stake commitment supports Tokyo cluster",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633575-solana-company-expects-first-validator-related-rewards-in-q3-2026-as-0_5-million-sol-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T02:28:22+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Clene earnings missed by $0.75, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/clene-earnings-missed-by-075-revenue-topped-estimates-4861708",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:22:31+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -408,6 +408,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:42:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Regulators and banks step up scrutiny of prediction markets",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
@@ -425,17 +436,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T19:21:47+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Temporary ban on sale of disposable BBQs over wildfire risk",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:17:16+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1012,66 +1012,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US securities regulator cancels meeting to vote on crypto rules",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/us-securities-regulator-cancels-meeting-214845828.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:48:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could Merck & Co., Inc. (MRK) and Gilead Sciences, Inc. (GILD)\u2019s Partnership Create the Next Big Pharma Growth Engine",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-merck-co-inc-mrk-214608790.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:46:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-13T21:43:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stock Market Today, Aug. 13: Accelerant Holdings Surges 43% on All-Cash Buyout Offer",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-13-214146513.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:41:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "From Courtroom Rivals to Corporate Partners: Archer Buys Its Way Into Boeing\u2019s Orbit",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/courtroom-rivals-corporate-partners-archer-213733752.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:37:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could AbbVie Inc. (ABBV)\u2019s Post-Humira Transformation Drive the Next Phase of Growth?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-abbvie-inc-abbv-post-213306053.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:33:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1094,6 +1039,50 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/eagle-point-income-company-inc-212425345.html",
       "is_watchlist": false,
       "timestamp": "2026-08-13T21:24:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:24:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX\u2019s Most Loyal Buyers Blinked",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-most-loyal-buyers-blinked-212319498.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:23:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-just-signed-secret-212000496.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bragg Gaming Group Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bragg-gaming-group-inc-q2-211918043.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:19:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1447,6 +1436,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
       "is_watchlist": false,
       "timestamp": "2026-08-05T19:18:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "When will mortgage rates go down from close to a one-year high?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-from-close-to-a-one-year-high-190610094.html",
+      "is_watchlist": false,
+      "timestamp": "2025-04-22T19:06:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
