@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T09:41:14.965661+00:00",
+  "generated_at": "2026-08-15T09:59:21.613388+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:41:14.962787+00:00",
+      "timestamp": "2026-08-15T09:59:21.610451+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:41:14.962783+00:00",
+      "timestamp": "2026-08-15T09:59:21.610447+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:41:14.962780+00:00",
+      "timestamp": "2026-08-15T09:59:21.610443+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:41:14.962763+00:00",
+      "timestamp": "2026-08-15T09:59:21.610425+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T09:41:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -150,17 +161,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/crusading-india-state-food-safety-chief-targets-eternal-swiggy-zepto-in-sweeping-crackdown-4861750",
       "is_watchlist": false,
       "timestamp": "2026-08-15T07:12:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin bear flag 80% complete near $62,500: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T07:02:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -957,6 +957,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Why Is Nutrien (NTR) Raising Guidance While Nitrogen Volumes Slide?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutrien-ntr-raising-guidance-083605403.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T08:36:05+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
@@ -980,17 +991,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia Captures Record Share of India\u2019s Oil Market",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/russia-captures-record-share-india-070000787.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T07:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Ask an Advisor: Should We Move Our Retirement Assets Into a Target Date Fund or an Annuity?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-1-6m-401-120000377.html",
@@ -1002,11 +1002,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "London BTC Company targets antimony potential across Nevada exploration portfolio",
+      "headline": "Russia Captures Record Share of India\u2019s Oil Market",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/london-btc-company-targets-antimony-063600159.html",
+      "url": "https://finance.yahoo.com/energy/articles/russia-captures-record-share-india-070000787.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T06:36:00+00:00",
+      "timestamp": "2026-08-14T07:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Equity Perp Volume Surges 17x as Chip Stocks Draw Crypto Traders",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/equity-perp-volume-surges-17x-065426849.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T06:54:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1018,17 +1029,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-amphenol-stock-063019189.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T06:30:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street slips from its record following the latest weak update on the US economy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-fall-us-055846864.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T05:58:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
