@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T13:19:00.166294+00:00",
+  "generated_at": "2026-08-15T13:51:50.865114+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -142,7 +142,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields\""
+      "move_reason": "News: \"If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady\""
     },
     {
       "ticker": "XLB",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top S&P500 movers in Friday's session\""
+      "move_reason": "News: \"AppLovin: One Of The Most Impressive Businesses I Have Ever Seen\""
     },
     {
       "ticker": "PLTR",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields\""
+      "move_reason": "News: \"If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady\""
     },
     {
       "ticker": "NBIS",
@@ -509,7 +509,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top S&P500 movers in Friday's session\""
+      "move_reason": "News: \"AppLovin: One Of The Most Impressive Businesses I Have Ever Seen\""
     },
     {
       "ticker": "XLE",
