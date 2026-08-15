@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T14:49:11.866952+00:00",
+  "generated_at": "2026-08-15T15:20:24.700525+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:49:11.864109+00:00",
+      "timestamp": "2026-08-15T15:20:24.698209+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:49:11.864105+00:00",
+      "timestamp": "2026-08-15T15:20:24.698206+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:49:11.864101+00:00",
+      "timestamp": "2026-08-15T15:20:24.698203+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:49:11.864086+00:00",
+      "timestamp": "2026-08-15T15:20:24.698189+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:07:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Notable trades: Netflix, Coca-Cola, Pfizer among notable names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633449-notable-trades-netflix-coca-cola-pfizer-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:00:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-joins-p-500-tuesday-145400275.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:54:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -127,28 +160,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/tactile-systems-ceo-sheri-dodd-sells-323242-in-company-stock-93CH-4861793",
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CMCT (CMCT) Q2 2026 Earnings Call Transcript",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cmct-cmct-q2-2026-earnings-142946227.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:29:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CSP Inc. (CSPI) Q3 2026 Earnings Call Transcript",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/csp-inc-cspi-q3-2026-142616183.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:26:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -299,6 +310,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "American Gen Z takes radical path to wealth creation",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/american-gen-z-takes-radical-140000776.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state\u2019s case.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
@@ -324,17 +346,6 @@ window.theBriefLive = {
       "headline": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T13:30:00+00:00",
       "relevance_score": 0.0,
@@ -386,17 +397,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/qnity-electronics-director-karin-de-bondt-buys-138136-in-stock-93CH-4861783",
       "is_watchlist": false,
       "timestamp": "2026-08-15T13:01:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Workday could be acquired by private equity. Should it though?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633440-workday-could-be-acquired-by-private-equity-should-it-though?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:00:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
