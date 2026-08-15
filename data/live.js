@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T09:59:21.613388+00:00",
+  "generated_at": "2026-08-15T10:30:49.203298+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:59:21.610451+00:00",
+      "timestamp": "2026-08-15T10:30:49.200436+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:59:21.610447+00:00",
+      "timestamp": "2026-08-15T10:30:49.200432+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:59:21.610443+00:00",
+      "timestamp": "2026-08-15T10:30:49.200428+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:59:21.610425+00:00",
+      "timestamp": "2026-08-15T10:30:49.200412+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Horizon Kinetics buys Texas Pacific Land stock for $343",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-343-93CH-4861763",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T09:46:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -152,17 +163,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/crusading-india-state-food-safety-chief-targets-eternal-swiggy-zepto-in-sweeping-crackdown-4861750",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T07:12:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -346,17 +346,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:13:47+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -370,6 +359,17 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UAE says ADNOC vessel attacked in Hormuz, vows to defend navigation rights - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:01:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -940,6 +940,72 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tecogen Q2 Earnings Call Highlights",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tecogen-q2-earnings-call-highlights-090408760.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T09:04:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The US dollar is caught between 2 competing forces",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/article/the-us-dollar-is-caught-between-2-competing-forces-090000679.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T09:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can I Retire at 67 With $500k in an IRA and $2,000 Monthly Social Security Income?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/500k-ira-receive-2-000-110000997.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T09:00:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is CF Industries\u2019 (CF) Earnings Boom Built To Last Without Iran?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-cf-earnings-boom-085902108.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T08:59:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Applied Materials slips as investors seek faster growth after stellar run",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-slips-investors-seek-085840731.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T08:58:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "e.l.f. Beauty (ELF) Just Logged Its 30th Growth Quarter. Can The Streak Hold?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-elf-084557866.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T08:45:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -957,12 +1023,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Is Nutrien (NTR) Raising Guidance While Nitrogen Volumes Slide?",
+      "headline": "U.S. TerraPower, South Korea's SK Innovation sign preliminary deal on global SMR projects",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutrien-ntr-raising-guidance-083605403.html",
+      "url": "https://finance.yahoo.com/news/u-terrapower-south-koreas-sk-080937803.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T08:36:05+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-14T08:09:37+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -973,73 +1039,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-14T07:45:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Dollar Price Forecast: Softer PPI Boosts Fed Cut Bets \u2013 Can EUR/USD and GBP/USD Rally?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-softer-070021827.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T07:00:21+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ask an Advisor: Should We Move Our Retirement Assets Into a Target Date Fund or an Annuity?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-1-6m-401-120000377.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T07:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia Captures Record Share of India\u2019s Oil Market",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/russia-captures-record-share-india-070000787.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T07:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Equity Perp Volume Surges 17x as Chip Stocks Draw Crypto Traders",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/equity-perp-volume-surges-17x-065426849.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T06:54:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Do Wall Street Analysts Like Amphenol Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-amphenol-stock-063019189.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T06:30:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-humanoid-robot-maker-unitree-055455077.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T05:54:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
