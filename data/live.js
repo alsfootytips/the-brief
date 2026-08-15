@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T15:45:46.927295+00:00",
+  "generated_at": "2026-08-15T16:00:36.662808+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T15:45:46.924347+00:00",
+      "timestamp": "2026-08-15T16:00:36.659747+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T15:45:46.924343+00:00",
+      "timestamp": "2026-08-15T16:00:36.659743+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T15:45:46.924339+00:00",
+      "timestamp": "2026-08-15T16:00:36.659738+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,76 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T15:45:46.924321+00:00",
+      "timestamp": "2026-08-15T16:00:36.659722+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Merck EVP DeLuca sells $5.9m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/merck-evp-deluca-sells-59m-in-stock-93CH-4861806",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:46:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Celanese SVP Murray buys $98,004 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/celanese-svp-murray-buys-98004-in-common-stock-93CH-4861805",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:46:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bill Gates\u2019 Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:40:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Avalo Therapeutics CMO Mittie Doyle sells $13,580 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/avalo-therapeutics-cmo-mittie-doyle-sells-13580-in-stock-93CH-4861804",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:31:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Avalo Therapeutics CSO Jennifer Riley sells $52,012 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/avalo-therapeutics-cso-jennifer-riley-sells-52012-in-stock-93CH-4861803",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:31:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Twilio director Erika Rottenberg sells $881k in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/twilio-director-erika-rottenberg-sells-881k-in-stock-93CH-4861802",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -83,6 +149,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633338-how-value-viral-marketing-and-better-operations-helped-chilis-turn-the-tables-on-fast-food?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:30:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/1-hour-delay-replying-recruiter-153000153.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -160,28 +237,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/a10-networks-general-counsel-sells-392435-in-stock-93CH-4861797",
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:01:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Biote Corp. executive chairman Marc Beer buys over $202k in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/biote-corp-executive-chairman-marc-beer-buys-over-202k-in-shares-93CH-4861796",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:01:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/prediction-market-operator-kalshi-hits-back-at-nevada-regulator-over-geofencing-fine-4861795",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:00:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -276,28 +331,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Q2 holdings chief people officer Rutledge sells $630,700 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/q2-holdings-chief-people-officer-rutledge-sells-630700-in-shares-93CH-4861794",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:31:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tactile systems CEO Sheri Dodd sells $323,242 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/tactile-systems-ceo-sheri-dodd-sells-323242-in-company-stock-93CH-4861793",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
@@ -315,17 +348,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:19:35+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sysco EVP Ronald Phillips sells $558k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sysco-evp-ronald-phillips-sells-558k-in-company-stock-93CH-4861791",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:16:20+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -495,25 +517,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Real estate lawyers reveal why calling police won't help when a previous owner refuses to leave your new home",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/real-estate-lawyers-reveal-why-123000978.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alphabet Counts the Ka-Ching With SpaceX Returns",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-counts-ka-ching-spacex-123000680.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "The 1-Minute Market Report, August 15, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce73862075831bb9109582c2f118856aaf6c0b283d85d12d68227b9ac2efaba9",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T11:30:34+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -553,6 +565,54 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T09:51:55+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T09:51:55+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T09:51:55+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T09:51:55+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius: I'm Still Not Selling After 10x",
       "source": "SeekingAlpha",
@@ -589,6 +649,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Earnings Volatility Watch: Wolfspeed and 9 Other Stocks Could Swing Up to 17% this Week",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6621d7a6f2e502cc585b4583099dd84b3870a370c139660c191600c400a6be5b",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T09:00:51+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "Waiting For The August 18 Fed Print",
       "source": "SeekingAlpha",
@@ -601,60 +673,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Nebius: Strong Momentum And Short Covering At Work",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=deb8778a9de262ed259791d4c12500a65cb3489ceb5fba63a5c44c753a4bdaeb",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T08:36:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius: Strong Momentum And Short Covering At Work",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=deb8778a9de262ed259791d4c12500a65cb3489ceb5fba63a5c44c753a4bdaeb",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T08:36:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
       "is_watchlist": true,
       "timestamp": "2026-08-15T08:10:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f9b6a73c716768db8603c8c1ec66fbf1bd1132c8b76b183b302f1439262fc49e",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T08:00:00+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T07:54:49+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -691,6 +715,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=079ee98925bd30511c1edd4f95f6fa72b7e8abe3ca2301f67f91bc8e2e0c0414",
       "is_watchlist": true,
       "timestamp": "2026-08-15T05:15:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Stanley Druckenmiller Bets Big on AMZN, AMD \u2014 Dumps AVGO, INTC and MU in Q2",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T04:44:40+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -890,30 +926,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Friday's session: most active stock in the S&P500 index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T18:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Friday's session: most active stock in the S&P500 index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T18:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
       "source": "Benzinga",
@@ -938,18 +950,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=da6443ff5ba21116375d4e51d8835f2bbdc74c0b20357273716ae91713afea7f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T16:35:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
       "source": "SeekingAlpha",
@@ -958,6 +958,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-14T16:33:00+00:00",
       "relevance_score": 3.5,
       "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TPL",
+      "headline": "$100 Invested In Texas Pacific Land 15 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7dd8b5d4926424fc562bb828b28905bbe0100e760eb3eec8c50e2bd9d967f294",
+      "is_watchlist": true,
+      "timestamp": "2026-08-14T16:00:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
@@ -1251,18 +1263,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=f9d69fc3a0f39f388e501d68d84b3f0c18ab6eb507856172b35a7852e9f835b8",
       "is_watchlist": true,
       "timestamp": "2026-08-13T09:00:27+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "Virtus Silvant Mid-Cap Growth Fund Q2 2026 Portfolio Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=742a92860e4a55cf011c33e3438b28c8463ed52dc0f16c3874ce37cf62f4bb80",
-      "is_watchlist": true,
-      "timestamp": "2026-08-13T06:45:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

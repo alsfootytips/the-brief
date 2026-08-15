@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T15:45:46.921005+00:00",
+  "generated_at": "2026-08-15T16:00:36.656452+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top S&P500 movers in Friday's session\""
+      "move_reason": "News: \"Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Mode...\""
     },
     {
       "ticker": "OSCR",
@@ -142,7 +142,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady\""
+      "move_reason": "News: \"The 1-Minute Market Report, August 15, 2026\""
     },
     {
       "ticker": "XLB",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How To Invest $100,000 In A Retiree's SWAN Income Portfolio\""
+      "move_reason": "News: \"Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Mode...\""
     },
     {
       "ticker": "DIA",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top S&P500 movers in Friday's session\""
+      "move_reason": "News: \"Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Mode...\""
     },
     {
       "ticker": "APA",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If Iran Wins The Strait Of Hormuz, The U.S. Economy Stays Steady\""
+      "move_reason": "News: \"The 1-Minute Market Report, August 15, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How To Invest $100,000 In A Retiree's SWAN Income Portfolio\""
+      "move_reason": "News: \"Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Mode...\""
     },
     {
       "ticker": "OSCR",
@@ -545,16 +545,6 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null
-    },
-    {
-      "ticker": "QQQ",
-      "name": "Invesco QQQ Trust",
-      "price": 731.07,
-      "change_pct": -0.14,
-      "volume_ratio": 0.85,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false
     },
     {
       "ticker": "SPY",
@@ -688,13 +678,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
