@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T03:12:36.299260+00:00",
+  "generated_at": "2026-08-15T03:55:59.849503+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:12:36.296325+00:00",
+      "timestamp": "2026-08-15T03:55:59.846571+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:12:36.296322+00:00",
+      "timestamp": "2026-08-15T03:55:59.846568+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:12:36.296318+00:00",
+      "timestamp": "2026-08-15T03:55:59.846545+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T03:12:36.296300+00:00",
+      "timestamp": "2026-08-15T03:55:59.846528+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hartree Partners buys $28,589 in Hudson Technologies stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hartree-partners-buys-28589-in-hudson-technologies-stock-93CH-4861718",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T03:31:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Canada face sticking points before 50% tariff deadline",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-canada-face-sticking-points-before-50-tariff-deadline-4861716",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T03:19:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -171,28 +193,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/earnings/clene-earnings-missed-by-075-revenue-topped-estimates-4861708",
       "is_watchlist": false,
       "timestamp": "2026-08-15T02:22:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave (CRWV) 10% owner Magnetar Financial sells $213.8 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweave-crwv-10-owner-magnetar-financial-sells-2138-million-in-stock-93CH-4861706",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:16:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Magnetar Financial sells $231.6m in CoreWeave stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/magnetar-financial-sells-2316m-in-coreweave-stock-93CH-4861705",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T02:16:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1012,11 +1012,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "US securities regulator cancels meeting to vote on crypto rules",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/us-securities-regulator-cancels-meeting-214845828.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:48:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could Merck & Co., Inc. (MRK) and Gilead Sciences, Inc. (GILD)\u2019s Partnership Create the Next Big Pharma Growth Engine",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-merck-co-inc-mrk-214608790.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:46:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-13T21:43:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Market Today, Aug. 13: Accelerant Holdings Surges 43% on All-Cash Buyout Offer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-13-214146513.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:41:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "From Courtroom Rivals to Corporate Partners: Archer Buys Its Way Into Boeing\u2019s Orbit",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/courtroom-rivals-corporate-partners-archer-213733752.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:37:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could AbbVie Inc. (ABBV)\u2019s Post-Humira Transformation Drive the Next Phase of Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-abbvie-inc-abbv-post-213306053.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:33:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Creative Realities, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/creative-realities-inc-q2-2026-212528287.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:25:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eagle Point Income Company Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eagle-point-income-company-inc-212425345.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T21:24:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1031,84 +1108,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pelthos Therapeutics Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/pelthos-therapeutics-inc-q2-2026-210546098.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:05:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Legence Corp. Class A Common stock Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/legence-corp-class-common-stock-210545360.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:05:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Macquarie, Westpac to testify in KPMG Australia audit scandal probe",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/macquarie-westpac-testify-kpmg-australia-210332909.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:03:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intuitive Machines, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-inc-q2-2026-210059915.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:00:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "After Its Popular Repetto Collab, Birkenstock Is Going Bigger With Ballet Fashion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/popular-repetto-collab-birkenstock-going-205921008.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T20:59:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corn Belt Weather and an Upcoming Trump-Xi Summit Are Driving Grains Prices Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-belt-weather-upcoming-trump-205822855.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T20:58:22+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "American Shared Hospital Services Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/american-shared-hospital-services-q2-205728109.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T20:57:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
