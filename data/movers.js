@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T16:00:36.656452+00:00",
+  "generated_at": "2026-08-15T16:35:00.024537+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -48,18 +48,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Top S&P500 movers in Friday's session\""
-    },
-    {
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "price": 687.8,
-      "change_pct": 2.23,
-      "volume_ratio": 0.83,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade\""
     },
     {
       "ticker": "XLE",
@@ -172,6 +160,17 @@ window.theBriefMovers = {
       "price": 112.95,
       "change_pct": 0.36,
       "volume_ratio": 0.69,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 45.27,
+      "change_pct": 0.33,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -476,18 +475,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Tracking Berkshire Hathaway Portfolio - Q2 2026 Update\""
     },
     {
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "price": 687.8,
-      "change_pct": 2.23,
-      "volume_ratio": 0.83,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade\""
-    },
-    {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "price": 364.0,
@@ -545,6 +532,16 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "price": 731.07,
+      "change_pct": -0.14,
+      "volume_ratio": 0.85,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false
     },
     {
       "ticker": "SPY",
@@ -678,13 +675,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T16:00:36.662808+00:00",
+  "generated_at": "2026-08-15T16:35:00.030575+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:00:36.659747+00:00",
+      "timestamp": "2026-08-15T16:35:00.027707+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:00:36.659743+00:00",
+      "timestamp": "2026-08-15T16:35:00.027703+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:00:36.659738+00:00",
+      "timestamp": "2026-08-15T16:35:00.027699+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,88 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T16:00:36.659722+00:00",
+      "timestamp": "2026-08-15T16:35:00.027683+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple gets U.S. warning not to buy memory chips from China: WSJ",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633586-apple-gets-us-warning-not-to-buy-memory-chips-from-china-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:26:50+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:16:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Axogen director Amy Wendell sells $646k in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/axogen-director-amy-wendell-sells-646k-in-shares-93CH-4861808",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Finance of America CIO Prahm sells $130,402 in FOA shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/finance-of-america-cio-prahm-sells-130402-in-foa-shares-93CH-4861807",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:00:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Real estate stocks show mixed performance; data center REITs gain, health care REITs lose",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633485-real-estate-stocks-show-mixed-performance-data-center-reits-gain-health-care-reits-lose?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:00:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -177,6 +255,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:26:52+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Anthropic\u2019s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633585-anthropics-ipo-valuation-tied-2028-revenue-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -215,28 +304,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-chief-development-officer-sells-18m-in-stock-93CH-4861799",
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:01:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Patricia Mulroy sells $37,415 of Bowman Consulting stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/patricia-mulroy-sells-37415-of-bowman-consulting-stock-93CH-4861798",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:01:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A10 Networks general counsel sells $392,435 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/a10-networks-general-counsel-sells-392435-in-stock-93CH-4861797",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:01:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -320,17 +387,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:32:32+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
@@ -375,17 +431,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Notable analyst calls this week: Sandisk, Apple and Salesforce among top picks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633486-notable-analyst-calls-this-week-sandisk-apple-and-salesforce-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:05:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
@@ -414,50 +459,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:01:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi, KKR, Apollo among gainers; Berkshire Hathaway, eToro in losers: week's financials wrap",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633419-citi-kkr-apollo-among-gainers-berkshire-hathaway-etoro-in-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:00:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:00:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 expensive surprises new homeowners face \u2014 and how to avoid them",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/5-expensive-surprises-new-homeowners-face-and-how-to-avoid-them-5bf2a8b0?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state\u2019s case.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:51:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
