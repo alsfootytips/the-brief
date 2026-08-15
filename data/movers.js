@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T21:21:19.209320+00:00",
+  "generated_at": "2026-08-15T21:46:15.153380+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -255,7 +255,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 144.34,
       "change_pct": -0.43,
-      "volume_ratio": 0.91,
+      "volume_ratio": 1.08,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -267,7 +267,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 110.98,
       "change_pct": -0.41,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.93,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,

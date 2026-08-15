@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T21:21:19.215820+00:00",
+  "generated_at": "2026-08-15T21:46:15.159496+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T21:21:19.212640+00:00",
+      "timestamp": "2026-08-15T21:46:15.156630+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T21:21:19.212637+00:00",
+      "timestamp": "2026-08-15T21:46:15.156626+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T21:21:19.212632+00:00",
+      "timestamp": "2026-08-15T21:46:15.156622+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T21:21:19.212609+00:00",
+      "timestamp": "2026-08-15T21:46:15.156606+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T21:29:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Was Happy The Market \u201cCared\u201d About D-Wave Quantum \u2013 But Not How You Think",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T21:28:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -472,22 +494,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Suze Orman says AI could force you out of your job before 65 \u2014 and retiring early costs you each year",
+      "headline": "NOW Stock Has Rebounded Over 54% \u2014 Why ServiceNow\u2019s Rally Could Have Further Room to Run",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/suze-orman-says-ai-could-150000538.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/now-stock-rebounded-over-54-150002323.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-market-operator-kalshi-hits-145839600.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:58:39+00:00",
+      "timestamp": "2026-08-15T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -566,17 +577,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:04:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Buying Bonds Could Be the Single Most Important Investing Decision You Make for 10 Years",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/buying-bonds-could-single-most-140002365.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:00:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
