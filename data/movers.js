@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T11:27:49.280866+00:00",
+  "generated_at": "2026-08-15T11:47:23.837747+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -142,7 +142,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Expect Trouble\""
+      "move_reason": "News: \"The One Chart Investors Can't Ignore As America's Debt Approaches $50 Trillion\""
     },
     {
       "ticker": "XLB",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Expect Trouble\""
+      "move_reason": "News: \"The One Chart Investors Can't Ignore As America's Debt Approaches $50 Trillion\""
     },
     {
       "ticker": "NBIS",
@@ -688,13 +688,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"

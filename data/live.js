@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T11:27:49.287155+00:00",
+  "generated_at": "2026-08-15T11:47:23.844054+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T11:27:49.284191+00:00",
+      "timestamp": "2026-08-15T11:47:23.841068+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T11:27:49.284187+00:00",
+      "timestamp": "2026-08-15T11:47:23.841065+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T11:27:49.284183+00:00",
+      "timestamp": "2026-08-15T11:47:23.841060+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T11:27:49.284166+00:00",
+      "timestamp": "2026-08-15T11:47:23.841044+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clean Harbors co-CEO Gerstenberg sells $699,650 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/clean-harbors-coceo-gerstenberg-sells-699650-in-stock-93CH-4861774",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T11:31:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Winnebago president & CEO Happe sells $393,630 in WGO shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/winnebago-president--ceo-happe-sells-393630-in-wgo-shares-93CH-4861773",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T11:31:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic Q2 revenue said to have topped $11.5B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633581-anthropic-q2-revenue-tops-115b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T11:30:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This old-school way of investing money is better than ever \u2014 even in the age of AI and mega-IPOs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T11:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -177,25 +221,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T10:12:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump\u2019s 2024 grocery photo op now haunts Republicans in the midterms",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/trumps-2024-grocery-photo-op-now-haunts-republicans-in-the-midterms-4861765",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T10:12:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "The One Chart Investors Can't Ignore As America's Debt Approaches $50 Trillion",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5e864e566844cba3f7654233e625788dc1f43c8c4f44951bdc678f5d94398fcb",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T07:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -357,17 +391,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil wraps up strong weekly gain with no progress toward Middle East peace",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633570-oil-wraps-up-strong-weekly-gain-with-no-progress-toward-middle-east-peace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:47:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -659,17 +682,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Sandisk\u2019s stock has rebounded nearly 35% this week. This is the latest catalyst.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T18:24:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius: The AI Infrastructure Bottleneck Is Becoming A Profit Engine",
       "source": "SeekingAlpha",
@@ -883,18 +895,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=99e33aa2065a591256fc272de51c843a3fdf258e72db683b16e06da81ba91bb0",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T13:22:50+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "APA Corp (NASDAQ:APA): A Decent Value Stock with Solid Fundamentals",
       "source": "ChartMill",
@@ -931,55 +931,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Best CD rates today, Friday, August 14, 2026: Up to 4.30% APY return available",
+      "headline": "Birkenstock Shares Fall as Discounted Secondary Offering Pressures Stock",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-14-2026-up-to-430-apy-return-available-100000037.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-shares-fall-discounted-secondary-101555038.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T10:00:00+00:00",
+      "timestamp": "2026-08-14T10:15:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+      "headline": "TTM Technologies (TTMI) Just Broke $1B, So What\u2019s Next?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/the-next-ai-winners-may-look-nothing-like-nvidia-or-micron-one-big-investment-idea-095700607.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-just-broke-101407060.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T09:57:00+00:00",
+      "timestamp": "2026-08-14T10:14:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "What Are Wall Street Analysts' Target Price for Coherent Stock?",
+      "headline": "Are Wall Street Analysts Bullish on Solventum Stock?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-095258188.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-solventum-100747769.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T09:52:58+00:00",
+      "timestamp": "2026-08-14T10:07:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Agility\u2019s CEO on What It Takes to Break Ideas Out of the Lab",
+      "headline": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion",
       "source": "Yahoo Finance",
-      "url": "https://www.wsj.com/tech/agilitys-ceo-on-what-it-takes-to-break-ideas-out-of-the-lab-cf3c1a3f?siteid=yhoof2&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabets-spacex-bet-grows-100-100519929.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T09:50:00+00:00",
+      "timestamp": "2026-08-14T10:05:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "American Water Works Stock: Is Wall Street Bullish or Bearish?",
+      "headline": "Think you're middle-class in America? Think again \u2014 5 signs you've made it, and how to keep climbing while you can",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-stock-wall-094124870.html",
+      "url": "https://finance.yahoo.com/small-business/articles/think-youre-middle-class-america-100500628.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T09:41:24+00:00",
+      "timestamp": "2026-08-14T10:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Reddit surges on S&P 500 inclusion, set to replace AvalonBay",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-surges-p-500-inclusion-100042606.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T10:00:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1380,17 +1391,6 @@ window.theBriefLive = {
       "headline": "HELOC and home equity loan rates today, Friday, August 14, 2026: Why understanding how rates work matters",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-august-14-2026-why-understanding-how-rates-work-matters-100000351.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best high-yield savings interest rates today, Friday, August 14, 2026: Earn up to 4.15% APY with Forbright Bank",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-august-14-2026-earn-up-to-415-apy-with-forbright-bank-100000399.html",
       "is_watchlist": false,
       "timestamp": "2026-08-10T10:00:00+00:00",
       "relevance_score": 0.0,
