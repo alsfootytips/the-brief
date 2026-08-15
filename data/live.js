@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T22:21:25.637277+00:00",
+  "generated_at": "2026-08-15T22:48:14.242161+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:21:25.634860+00:00",
+      "timestamp": "2026-08-15T22:48:14.239236+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:21:25.634857+00:00",
+      "timestamp": "2026-08-15T22:48:14.239232+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:21:25.634854+00:00",
+      "timestamp": "2026-08-15T22:48:14.239228+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,87 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:21:25.634840+00:00",
+      "timestamp": "2026-08-15T22:48:14.239212+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Magnolia Oil & Gas director Khani buys $200,000 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/magnolia-oil--gas-director-khani-buys-200000-in-stock-93CH-4861865",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:30:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Huntington Ingalls CEO Kastner sells $4.25m in HII stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/huntington-ingalls-ceo-kastner-sells-425m-in-hii-stock-93CH-4861863",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:30:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Koppers CAO Bradley Pearce sells $102,020 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/koppers-cao-bradley-pearce-sells-102020-in-shares-93CH-4861864",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:30:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trex SVP Amy Fernandez sells $52,572 in company shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/trex-svp-amy-fernandez-sells-52572-in-company-shares-93CH-4861862",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:30:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-bets-big-growth-221741258.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:17:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sotera Health president Rutz sells $2.83m in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sotera-health-president-rutz-sells-283m-in-common-stock-93CH-4861861",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:16:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Huntington Ingalls director Victoria Harker sells $240,878 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/huntington-ingalls-director-victoria-harker-sells-240878-in-stock-93CH-4861860",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:16:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -133,17 +210,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Was Worried About Potential Impact On Salesforce Inc. (NYSE:CRM)\u2019s Dreamforce Conference",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-worried-potential-impact-213039883.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T21:30:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why Nvidia\u2019s $500bn investment mobilization is a positive for the stock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855",
@@ -178,17 +244,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Home Bancshares director Jim Rankin sells $462,966 in HOMB stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/home-bancshares-director-jim-rankin-sells-462966-in-homb-stock-93CH-4861853",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T20:30:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
@@ -200,66 +255,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T20:07:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kestra Medical Technologies CEO Brian Webster sells $692,214 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-brian-webster-sells-692214-in-stock-93CH-4861849",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T20:02:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Equinix director Christopher Paisley sells $4.08m in EQIX stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/equinix-director-christopher-paisley-sells-408m-in-eqix-stock-93CH-4861848",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T20:01:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cactus CEO Scott Bender sells $4.99m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cactus-ceo-scott-bender-sells-499m-in-company-stock-93CH-4861847",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T20:01:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T20:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli strikes in southern Lebanon kill at least 11",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/israeli-strikes-in-southern-lebanon-kill-at-least-11-4861845",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:50:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
