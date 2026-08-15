@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T12:36:42.187827+00:00",
+  "generated_at": "2026-08-15T13:19:00.172304+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T12:36:42.185465+00:00",
+      "timestamp": "2026-08-15T13:19:00.169538+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T12:36:42.185462+00:00",
+      "timestamp": "2026-08-15T13:19:00.169534+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T12:36:42.185459+00:00",
+      "timestamp": "2026-08-15T13:19:00.169529+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,132 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T12:36:42.185446+00:00",
+      "timestamp": "2026-08-15T13:19:00.169513+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Qnity Electronics director Karin de Bondt buys $138,136 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/qnity-electronics-director-karin-de-bondt-buys-138136-in-stock-93CH-4861783",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T13:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Workday could be acquired by private equity. Should it though?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633440-workday-could-be-acquired-by-private-equity-should-it-though?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T13:00:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T13:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-inflation-is-putting-even-more-pressure-on-the-fed-could-higher-interest-rates-be-next-557db399?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T13:00:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire adds $17 billion to Alphabet stake",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:50:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Berkshire adds $17 billion to Alphabet stake",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:50:41+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CEO Lip Bu-Tan Just Gave Intel a $10 Million Vote of Confidence",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-lip-bu-tan-just-125039590.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:50:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Via transportation director Arnon Dinur buys $998,984 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/via-transportation-director-arnon-dinur-buys-998984-in-stock-93CH-4861782",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:46:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ameriprise Financial\u2019s Dawn Brockman sells $263,815 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ameriprise-financials-dawn-brockman-sells-263815-in-stock-93CH-4861780",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:46:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Magnite chief accounting officer Gephart sells $307k in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/magnite-chief-accounting-officer-gephart-sells-307k-in-shares-93CH-4861781",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:46:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -100,11 +222,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Real estate lawyers reveal why calling police won't help when a previous owner refuses to leave your new home",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/real-estate-lawyers-reveal-why-123000978.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet Counts the Ka-Ching With SpaceX Returns",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-counts-ka-ching-spacex-123000680.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Alibaba Qwen AI downloads hit 3B, surpassing Meta, Google: Bloomberg",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633582-alibaba-ai-downloads-top-3b-beating-meta-google?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:25:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukraine says it hit Russian rocket centre linked to Starlink-style network",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/ukraine-says-it-hit-russian-rocket-centre-linked-to-starlinkstyle-network-4861779",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:24:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -133,6 +288,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:00:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Nvidia's neocloud funding structure might unlock significant revenue stream: Morgan Stanley",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633530-nvidias-neocloud-funding-structure-might-unlock-significant-revenue-stream-morgan-stanley?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -150,6 +316,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:00:01+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/nvidia-stock-asml-avnet-cve-nue-buy-points-bulls-take-charge/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:00:01+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -210,39 +387,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Valvoline chief accounting officer Jordan M. Denny buys $49,999 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/valvoline-chief-accounting-officer-jordan-m-denny-buys-49999-in-shares-93CH-4861775",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:45:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Clean Harbors co-CEO Gerstenberg sells $699,650 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/clean-harbors-coceo-gerstenberg-sells-699650-in-stock-93CH-4861774",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:31:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Winnebago president & CEO Happe sells $393,630 in WGO shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/winnebago-president--ceo-happe-sells-393630-in-wgo-shares-93CH-4861773",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:31:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Anthropic Q2 revenue said to have topped $11.5B",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633581-anthropic-q2-revenue-tops-115b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -259,28 +403,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T11:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Winnebago SVP-CHRO Woodson sells $78,841 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/winnebago-svpchro-woodson-sells-78841-in-stock-93CH-4861771",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:15:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "how InvestingPro\u2019s Fair Value spotted Organon\u2019s 69% gain potential",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-organons-69-gain-potential-93CH-4861770",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:09:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -317,6 +439,41 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T11:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strike kills seven in south Lebanon, state news reports\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:41:08+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Nebius: Strong Momentum And Short Covering At Work",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=deb8778a9de262ed259791d4c12500a65cb3489ceb5fba63a5c44c753a4bdaeb",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T08:36:41+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nebius: Strong Momentum And Short Covering At Work",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=deb8778a9de262ed259791d4c12500a65cb3489ceb5fba63a5c44c753a4bdaeb",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T08:36:41+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -497,17 +654,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sidus outlines early 2027 Fortis VPX commercial availability, backed by $158.5M Q2 capital raises",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633574-sidus-outlines-early-2027-fortis-vpx-commercial-availability-backed-by-158_5m-q2-capital?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T01:27:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
@@ -577,17 +723,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:34:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -622,17 +757,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:20:19+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:06:48+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -678,17 +802,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T19:17:00+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "16 beaten-down AI stocks that are beloved by BofA analysts",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:09:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -776,17 +889,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T17:26:57+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
       "source": "Benzinga",
@@ -869,30 +971,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Citigroup Maintains Buy on Nebius Group, Raises Price Target to $324",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=97376f2cedb6ec03e65eab1cafed9339811c26a1a7d3075961da3e08f5fdad95",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T14:05:59+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "The Neoclouds Are A Trade, Not An Investment",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a9e81c324c3f61ac42ff168f7a48252c9335b359a1b91ddae5afe398b9ac271b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T13:49:07+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
       "source": "Benzinga",
@@ -923,72 +1001,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-14T11:32:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Found a great mortgage rate? Beware \u2014 expert says a low rate \u2018blinds\u2019 buyers to a catch that could cost them thousands",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/found-great-mortgage-rate-beware-110000007.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T11:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How a Retired Couple Collects $11,500 a Month and Never Pays an IRMAA Surcharge",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/retired-couple-collects-11-500-105907950.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T10:59:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Suze Orman warns retirees 'everything can go down' \u2014 urges keeping cash reserves, but do you really have enough banked?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/suze-orman-warns-retirees-everything-105500422.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T10:55:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coeur Mining (CDE) Just Topped $1B in Quarterly Revenue. Can It Last?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-cde-just-topped-105322513.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T10:53:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Wall Street Analysts Predicting Builders FirstSource Stock Will Climb or Sink?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-builders-105257152.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T10:52:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Wall Street Analysts Bullish on Zimmer Biomet Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-zimmer-104849810.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T10:48:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1437,17 +1449,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
       "is_watchlist": false,
       "timestamp": "2026-08-07T20:33:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street's 'fear gauge' is doing something unusual as stocks hit record highs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-05T19:18:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
