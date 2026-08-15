@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T22:48:14.242161+00:00",
+  "generated_at": "2026-08-15T23:20:13.313765+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:48:14.239236+00:00",
+      "timestamp": "2026-08-15T23:20:13.310905+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:48:14.239232+00:00",
+      "timestamp": "2026-08-15T23:20:13.310900+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:48:14.239228+00:00",
+      "timestamp": "2026-08-15T23:20:13.310896+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,76 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T22:48:14.239212+00:00",
+      "timestamp": "2026-08-15T23:20:13.310879+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CarGurus CEO Jason Trevisan sells $45,166 in Class A common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cargurus-ceo-jason-trevisan-sells-45166-in-class-a-common-stock-93CH-4861869",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T23:01:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zebra Technologies CSO Michael Cho sells $1.31m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/zebra-technologies-cso-michael-cho-sells-131m-in-stock-93CH-4861868",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T23:01:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corpay (CPAY) Just Posted A Record Quarter, So Why The Caution?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corpay-cpay-just-posted-record-225148418.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:51:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cdw chief commercial officer Connelly sells $3.67m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cdw-chief-commercial-officer-connelly-sells-367m-in-stock-93CH-4861866",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:46:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-just-posted-86-224242758.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:42:42+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Royal Gold\u2019s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -144,17 +210,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Huntington Ingalls director Victoria Harker sells $240,878 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/huntington-ingalls-director-victoria-harker-sells-240878-in-stock-93CH-4861860",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T22:16:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
@@ -177,50 +232,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Said Domino\u2019s Was Better Than Papa John\u2019s International, Inc. (NASDAQ:PZZA) \u2013 But Is He Right?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T21:35:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Diageo (DEO) Vs Constellation (STZ): Hedge Funds Appear To Mirror Jim Cramer\u2019s Sentiment",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/diageo-deo-vs-constellation-stz-213214804.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T21:32:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Continued To Keep The Faith In Ralph Lauren Corporation (NYSE:RL) CEO",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-continued-keep-faith-213135510.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T21:31:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Nvidia\u2019s $500bn investment mobilization is a positive for the stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T21:07:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
@@ -229,17 +240,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Atmos Energy director William Ware buys $50,278 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/atmos-energy-director-william-ware-buys-50278-in-company-stock-93CH-4861854",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T20:31:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -366,17 +366,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T18:05:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:35:09+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -620,6 +609,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:30:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
