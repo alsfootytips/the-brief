@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T17:01:07.221706+00:00",
+  "generated_at": "2026-08-15T17:35:18.133627+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:01:07.218779+00:00",
+      "timestamp": "2026-08-15T17:35:18.130755+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:01:07.218776+00:00",
+      "timestamp": "2026-08-15T17:35:18.130752+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:01:07.218772+00:00",
+      "timestamp": "2026-08-15T17:35:18.130747+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,98 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:01:07.218754+00:00",
+      "timestamp": "2026-08-15T17:35:18.130731+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:23:09+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Beneath the S&P 500 rally: Where performance and fundamentals diverge",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/beneath-the-sp-500-rally-where-performance-and-fundamentals-diverge-4861823",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:16:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "General Dynamics director Peter Wall sells $788,897 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/general-dynamics-director-peter-wall-sells-788897-in-stock-93CH-4861822",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:16:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:08:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citizens, Inc. president & CEO Jon Stenberg buys $43,795 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/citizens-inc-president--ceo-jon-stenberg-buys-43795-in-stock-93CH-4861821",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:01:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wesbanco EVP & CCO Robert Friend sells $252k in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/wesbanco-evp--cco-robert-friend-sells-252k-in-shares-93CH-4861820",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:01:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Horizon Kinetics, 10% owner, buys $2,260 of RENN Fund stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-10-owner-buys-2260-of-renn-fund-stock-93CH-4861819",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:00:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -89,11 +177,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "HRT Financial LP sells $6,103 of Maison Solutions stock",
+      "headline": "HRT Financial sells $2,211 in Profusa (PFSA) shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-lp-sells-6103-of-maison-solutions-stock-93CH-4861813",
+      "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-sells-2211-in-profusa-pfsa-shares-93CH-4861816",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T16:31:03+00:00",
+      "timestamp": "2026-08-15T16:46:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HRT Financial LP, a 10% owner, sells $36,816 of Kidz AI stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-lp-a-10-owner-sells-36816-of-kidz-ai-stock-93CH-4861815",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:46:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bank of the James president buys $2,705 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/bank-of-the-james-president-buys-2705-in-company-stock-93CH-4861814",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:45:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -112,44 +222,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Peru\u2019s economic growth slows to 1.75% in June",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/perus-economic-growth-slows-to-175-in-june-4861809",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:18:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T16:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Axogen director Amy Wendell sells $646k in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/axogen-director-amy-wendell-sells-646k-in-shares-93CH-4861808",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Finance of America CIO Prahm sells $130,402 in FOA shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/finance-of-america-cio-prahm-sells-130402-in-foa-shares-93CH-4861807",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:00:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -189,55 +266,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Merck EVP DeLuca sells $5.9m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/merck-evp-deluca-sells-59m-in-stock-93CH-4861806",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:46:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Celanese SVP Murray buys $98,004 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/celanese-svp-murray-buys-98004-in-common-stock-93CH-4861805",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:46:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bill Gates\u2019 Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:40:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avalo Therapeutics CMO Mittie Doyle sells $13,580 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/avalo-therapeutics-cmo-mittie-doyle-sells-13580-in-stock-93CH-4861804",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:31:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avalo Therapeutics CSO Jennifer Riley sells $52,012 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/avalo-therapeutics-cso-jennifer-riley-sells-52012-in-stock-93CH-4861803",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:31:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -387,17 +420,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I have $10 million and pay two advisers for financial help, but still have questions",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-10-million-and-pay-two-advisers-for-financial-help-but-still-have-questions-7c29b83f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:34:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
@@ -426,28 +448,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:15:02+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable tech headlines for the week: Super Micro, Intel, Workday in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633548-notable-tech-headlines-for-the-week-super-micro-intel-workday-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:10:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:04:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
