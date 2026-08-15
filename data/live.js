@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T14:22:15.969256+00:00",
+  "generated_at": "2026-08-15T14:49:11.866952+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:22:15.966277+00:00",
+      "timestamp": "2026-08-15T14:49:11.864109+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:22:15.966273+00:00",
+      "timestamp": "2026-08-15T14:49:11.864105+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:22:15.966269+00:00",
+      "timestamp": "2026-08-15T14:49:11.864101+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,98 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T14:22:15.966253+00:00",
+      "timestamp": "2026-08-15T14:49:11.864086+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:46:43+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:45:31+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I have $10 million and pay two advisers for financial help, but still have questions",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-10-million-and-pay-two-advisers-for-financial-help-but-still-have-questions-7c29b83f?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:34:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Q2 holdings chief people officer Rutledge sells $630,700 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/q2-holdings-chief-people-officer-rutledge-sells-630700-in-shares-93CH-4861794",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:31:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tactile systems CEO Sheri Dodd sells $323,242 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/tactile-systems-ceo-sheri-dodd-sells-323242-in-company-stock-93CH-4861793",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:31:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CMCT (CMCT) Q2 2026 Earnings Call Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cmct-cmct-q2-2026-earnings-142946227.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:29:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CSP Inc. (CSPI) Q3 2026 Earnings Call Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/csp-inc-cspi-q3-2026-142616183.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:26:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:22:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -178,17 +266,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-says-oil-could-140051332.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:00:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Citi, KKR, Apollo among gainers; Berkshire Hathaway, eToro in losers: week's financials wrap",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633419-citi-kkr-apollo-among-gainers-berkshire-hathaway-etoro-in-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -214,17 +291,6 @@ window.theBriefLive = {
       "headline": "5 expensive surprises new homeowners face \u2014 and how to avoid them",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/5-expensive-surprises-new-homeowners-face-and-how-to-avoid-them-5bf2a8b0?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "American Gen Z takes radical path to wealth creation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/american-gen-z-takes-radical-140000776.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:00:00+00:00",
       "relevance_score": 0.0,
@@ -272,17 +338,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T13:30:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s who could pay higher Social Security taxes under proposals to shore up the program",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:26:00+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -392,45 +447,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Via transportation director Arnon Dinur buys $998,984 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/via-transportation-director-arnon-dinur-buys-998984-in-stock-93CH-4861782",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:46:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ameriprise Financial\u2019s Dawn Brockman sells $263,815 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ameriprise-financials-dawn-brockman-sells-263815-in-stock-93CH-4861780",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:46:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:35:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:30:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -475,17 +497,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:00:32+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:00:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -739,15 +750,19 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "UAE says ADNOC vessel attacked in Hormuz, vows to defend navigation rights - Reuters",
+      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "is_watchlist": false,
+      "is_watchlist": true,
       "timestamp": "2026-08-14T22:01:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -840,17 +855,6 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-14T19:21:47+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yemen government says Houthi missiles kill four civilians in port city - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmNkVEYyamJfdmxCeFdRYUZjWXg5MS10VUNDdFdZcXpsZFM0UjBSRXowMGxMRnZkV3ZXX29JUzlXbkkyaGFENWlCdWREMGJnblktd1Rza2dHQ04zQTVJcjNxOG1qWnVuLUtiRHRWSDZFTk5yTzVac1VXSkx5ODFkOS1GXzFFREJXa3pmMlVoT3ZVT0NLU3ZDdmliSVBMQVVPMFZIcWpaSWpfcDJqcFlhdGJJZmZxa2hieFdnTHBtQTNKdkx4eGc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:17:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
