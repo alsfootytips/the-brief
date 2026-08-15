@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T19:34:44.083153+00:00",
+  "generated_at": "2026-08-15T19:56:34.142643+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:34:44.080272+00:00",
+      "timestamp": "2026-08-15T19:56:34.139712+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:34:44.080269+00:00",
+      "timestamp": "2026-08-15T19:56:34.139708+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:34:44.080264+00:00",
+      "timestamp": "2026-08-15T19:56:34.139704+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:34:44.080248+00:00",
+      "timestamp": "2026-08-15T19:56:34.139687+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kestra Medical Technologies officer Traci Umberger sells $512,791",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-officer-traci-umberger-sells-512791-93CH-4861843",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:31:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kestra Medical Technologies CCO sells $642k in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-cco-sells-642k-in-shares-93CH-4861842",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:30:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cactus president Joel Bender sells $4.99m of company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cactus-president-joel-bender-sells-499m-of-company-stock-93CH-4861841",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:30:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kestra Medical CFO Vaseem Mahboob sells $418,217 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-cfo-vaseem-mahboob-sells-418217-in-shares-93CH-4861839",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:16:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -83,6 +127,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T19:15:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cavco Industries director Lisa Daniels sells $17,098 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cavco-industries-director-lisa-daniels-sells-17098-in-stock-93CH-4861838",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:15:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -122,66 +177,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kestra Medical CBO Timothy Moran sells $348,310 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-cbo-timothy-moran-sells-348310-in-shares-93CH-4861835",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:01:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AppFolio director Maurice Duca sells $1.6 million in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/appfolio-director-maurice-duca-sells-16-million-in-shares-93CH-4861834",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:01:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Think interest rates are high now? These charts offer a different perspective.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T19:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sanjit Biswas, Samsara CEO, sells $10.1m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sanjit-biswas-samsara-ceo-sells-101m-in-stock-93CH-4861831",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:46:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Curbline Properties director Alexander Otto sells $5.2m stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/curbline-properties-director-alexander-otto-sells-52m-stock-93CH-4861830",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:46:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Otter Tail VP, human resources Paul Knutson sells $68,159 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/otter-tail-vp-human-resources-paul-knutson-sells-68159-in-stock-93CH-4861829",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:46:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -522,11 +522,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "NVDA Stock Alert: Nvidia CEO Jensen Huang Says Chips Are \u2018Investable Asset Class\u2019",
+      "headline": "Piper Sandler Is Bullish on Unusual Machines Stock. Here's Why.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-alert-nvidia-ceo-130002278.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-bullish-unusual-machines-133002502.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T13:00:02+00:00",
+      "timestamp": "2026-08-15T13:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
