@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T18:37:02.564506+00:00",
+  "generated_at": "2026-08-15T19:03:29.321860+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T18:37:02.561504+00:00",
+      "timestamp": "2026-08-15T19:03:29.318891+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T18:37:02.561501+00:00",
+      "timestamp": "2026-08-15T19:03:29.318888+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T18:37:02.561496+00:00",
+      "timestamp": "2026-08-15T19:03:29.318884+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T18:37:02.561478+00:00",
+      "timestamp": "2026-08-15T19:03:29.318870+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Think interest rates are high now? These charts offer a different perspective.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sanjit Biswas, Samsara CEO, sells $10.1m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sanjit-biswas-samsara-ceo-sells-101m-in-stock-93CH-4861831",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:46:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Curbline Properties director Alexander Otto sells $5.2m stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/curbline-properties-director-alexander-otto-sells-52m-stock-93CH-4861830",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:46:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Otter Tail VP, human resources Paul Knutson sells $68,159 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/otter-tail-vp-human-resources-paul-knutson-sells-68159-in-stock-93CH-4861829",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:46:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -84,6 +128,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T18:33:26+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CompX director Ann Manix sells $44,395 in class A shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/compx-director-ann-manix-sells-44395-in-class-a-shares-93CH-4861828",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:31:19+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -177,17 +232,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "General Dynamics director Peter Wall sells $788,897 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/general-dynamics-director-peter-wall-sells-788897-in-stock-93CH-4861822",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:16:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
@@ -204,39 +248,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T17:08:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citizens, Inc. president & CEO Jon Stenberg buys $43,795 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/citizens-inc-president--ceo-jon-stenberg-buys-43795-in-stock-93CH-4861821",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:01:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wesbanco EVP & CCO Robert Friend sells $252k in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/wesbanco-evp--cco-robert-friend-sells-252k-in-shares-93CH-4861820",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:01:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Horizon Kinetics, 10% owner, buys $2,260 of RENN Fund stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-10-owner-buys-2260-of-renn-fund-stock-93CH-4861819",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:00:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -291,17 +302,6 @@ window.theBriefLive = {
       "headline": "Is $1 million enough for a household to retire? The answer keeps changing.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-15T16:00:00+00:00",
       "relevance_score": 0.0,
