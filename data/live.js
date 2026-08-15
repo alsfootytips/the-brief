@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T05:03:12.153903+00:00",
+  "generated_at": "2026-08-15T05:41:44.091481+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:03:12.150836+00:00",
+      "timestamp": "2026-08-15T05:41:44.088643+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:03:12.150832+00:00",
+      "timestamp": "2026-08-15T05:41:44.088640+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:03:12.150829+00:00",
+      "timestamp": "2026-08-15T05:41:44.088635+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,66 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:03:12.150811+00:00",
+      "timestamp": "2026-08-15T05:41:44.088618+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:13:30+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:06:28+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Angel Studios CEO Neal Harmon buys $125k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/angel-studios-ceo-neal-harmon-buys-125k-in-company-stock-93CH-4861740",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Live Oak Bancshares CEO James Mahan sells $858k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/live-oak-bancshares-ceo-james-mahan-sells-858k-in-company-stock-93CH-4861739",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Winmill & Co. Inc buys $60,787 of Global Self Storage (SELF)",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/winmill--co-inc-buys-60787-of-global-self-storage-self-93CH-4861738",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:01:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -116,50 +172,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/ofg-bancorp-director-nestor-de-jesus-sells-212000-in-common-stock-93CH-4861734",
       "is_watchlist": false,
       "timestamp": "2026-08-15T04:30:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cboe Global Markets director sells $261,376 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cboe-global-markets-director-sells-261376-in-shares-93CH-4861733",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:30:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Venture global SVP Sarah Blake sells $14 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/venture-global-svp-sarah-blake-sells-14-million-in-stock-93CH-4861732",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:30:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic IPO valuation rests on up to $200 billion 2028 revenue target - Reuters",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-ipo-valuation-rests-on-up-to-200-billion-2028-revenue-target--reuters-4861731",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:19:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Park Aerospace COO Mark Esquivel sells $1.48m in PKE shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/park-aerospace-coo-mark-esquivel-sells-148m-in-pke-shares-93CH-4861730",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:16:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -363,6 +375,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Oil prices rally, US data dents chances of Fed rate hike - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:12:56+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
@@ -403,17 +427,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T19:50:11+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:42:00+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -717,17 +730,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "European shares snap 4-week rally as higher oil prices temper strong earnings - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3JRTDJxWjQ5cXhiMXUwMkJSb2FrXzg0S3FvMkV0Z1VYRFV1a0dKcHEwaG9yWG1hb0RyWF9qQzFlek0zT2hXOGl0b2pSTHVTZ1lhclRuY1FsUm00alVhUkYzVEtVN1BTRUVzdmZHVXdVX2g5emE2NGRWN1ZyMXFMTnFVdmhvbVhVclFHajE5LUtGU0VnS2hJTVJTZGJHWDgzMDNhcmlWNHhtVm5MWXZz?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T16:27:21+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Electric vehicle sales targets could be cut after pressure from car makers",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
@@ -1001,23 +1003,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Corn Reverts Back Lower on Thursday",
+      "headline": "Mexico Has More Refining Capacity. So Why Are Fuel Imports Rising?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-reverts-back-lower-thursday-221057478.html",
+      "url": "https://finance.yahoo.com/energy/articles/mexico-more-refining-capacity-why-230000074.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T22:10:57+00:00",
+      "timestamp": "2026-08-13T23:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Could GSK plc (GSK)\u2019s Pipeline Acceleration Unlock a New Growth Era?",
+      "headline": "Could Alcon (ALC) and RxSight (RXST)\u2019s Partnership Reshape the Future of Cataract Surgery?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-gsk-plc-gsk-pipeline-220109388.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-alcon-alc-rxsight-rxst-224910777.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-13T22:01:09+00:00",
+      "timestamp": "2026-08-13T22:49:10+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/sandisk-stock-jumps-bullish-outlook-memory-names-follow/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T22:39:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Major gold holder with $20B in reserves clears first full audit",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/major-gold-holder-20b-reserves-223916121.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T22:39:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Royalty Pharma plc (RPRX) vs. AstraZeneca PLC (AZN): Which Biopharma Model Offers the Better Growth Story?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/royalty-pharma-plc-rprx-vs-222710878.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T22:27:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-inc-hca-221733771.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T22:17:33+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1028,61 +1074,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-13T22:00:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best banks in Texas for 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/best-banks-texas-182649316.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best banks in California in 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/best-banks-california-2024-132412708.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tyson Foods says it will close beef plants amid cattle shortage",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/tyson-foods-says-close-beef-215810122.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:58:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CEO Steve Huffman Once Said of Creating Reddit, \u2018I Just Didn't Want To Look Stupid In Front Of My Parents\u2019 \u2014 Now RDDT Stock is Joining the S&P 500 Index",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-steve-huffman-once-said-215704227.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:57:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nubank's profit crosses $1 billion, beating estimates; shares jump",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nubank-quarterly-net-profit-beats-215704395.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:57:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1447,6 +1438,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
       "is_watchlist": false,
       "timestamp": "2026-08-05T19:18:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Current balance vs. available balance: What's the difference?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/current-balance-vs-available-balance-215236321.html",
+      "is_watchlist": false,
+      "timestamp": "2024-08-21T21:52:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
