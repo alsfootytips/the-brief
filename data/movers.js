@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T09:03:13.125737+00:00",
+  "generated_at": "2026-08-15T09:41:14.959708+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Allspring Large Cap Growth Fund Q2 2026 Performance Update\""
+      "move_reason": "News: \"Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade\""
     },
     {
       "ticker": "XLE",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Data Centers Are Running Out of Water. This $6 Stock Has a Fix\""
+      "move_reason": "News: \"Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade\""
     },
     {
       "ticker": "APA",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Data Centers Are Running Out of Water. This $6 Stock Has a Fix\""
+      "move_reason": "News: \"Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade\""
     },
     {
       "ticker": "IWM",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Allspring Large Cap Growth Fund Q2 2026 Performance Update\""
+      "move_reason": "News: \"Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade\""
     },
     {
       "ticker": "TPL",

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T09:03:13.131885+00:00",
+  "generated_at": "2026-08-15T09:41:14.965661+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:03:13.129003+00:00",
+      "timestamp": "2026-08-15T09:41:14.962787+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:03:13.128999+00:00",
+      "timestamp": "2026-08-15T09:41:14.962783+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:03:13.128995+00:00",
+      "timestamp": "2026-08-15T09:41:14.962780+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T09:03:13.128979+00:00",
+      "timestamp": "2026-08-15T09:41:14.962763+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-presses-apple-to-avoid-chinese-memory-chips-amid-shortage--wsj-reports-4861759",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T08:55:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -155,14 +166,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Fund managers chase \u20ac500 billion German pension overhaul",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/fund-managers-chase-500-billion-german-pension-overhaul-4861749",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T06:38:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "PWR",
+      "headline": "Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=079ee98925bd30511c1edd4f95f6fa72b7e8abe3ca2301f67f91bc8e2e0c0414",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T05:15:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Which Stocks Will Rise With The AI Boom? Part II: Electricity May Be The Longer Trade",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=079ee98925bd30511c1edd4f95f6fa72b7e8abe3ca2301f67f91bc8e2e0c0414",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T05:15:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -313,7 +337,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - reuters.com",
+      "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
       "is_watchlist": false,
@@ -324,7 +348,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - reuters.com",
+      "headline": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
       "is_watchlist": false,
@@ -338,7 +362,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
+      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
       "is_watchlist": true,
@@ -387,7 +411,7 @@ window.theBriefLive = {
         "Trump"
       ],
       "ticker": null,
-      "headline": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - reuters.com",
+      "headline": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzNsYmMxbVMzTEd5RnlEOUdmcmlRM1ZiaG1xTm93dXJUQ2otQ2trbUswV3hXeS16cldCbVNXeTFmV21PNlFrZXM3UmVoSHZRc01uNmJwWFZYeHB6RzhYYjFCWl90MXN1dzBUNnBCelhkSGF1bm1XTWZUdW91bElvVmFxYnhETTlWOGlrangzYzl6aDVNd1VsUUNNNEtwMUtlOWFlaVU5Q09CcWE2WUE?oc=5",
       "is_watchlist": true,
@@ -421,18 +445,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil prices rally, US data dents chances of Fed rate hike - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:12:56+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
@@ -455,7 +467,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices - reuters.com",
+      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
       "is_watchlist": false,
@@ -467,7 +479,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - reuters.com",
+      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
       "is_watchlist": false,
@@ -489,7 +501,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace - reuters.com",
+      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
       "is_watchlist": false,
@@ -500,7 +512,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Yemen government says Houthi missiles kill four civilians in port city - reuters.com",
+      "headline": "Yemen government says Houthi missiles kill four civilians in port city - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmNkVEYyamJfdmxCeFdRYUZjWXg5MS10VUNDdFdZcXpsZFM0UjBSRXowMGxMRnZkV3ZXX29JUzlXbkkyaGFENWlCdWREMGJnblktd1Rza2dHQ04zQTVJcjNxOG1qWnVuLUtiRHRWSDZFTk5yTzVac1VXSkx5ODFkOS1GXzFFREJXa3pmMlVoT3ZVT0NLU3ZDdmliSVBMQVVPMFZIcWpaSWpfcDJqcFlhdGJJZmZxa2hieFdnTHBtQTNKdkx4eGc?oc=5",
       "is_watchlist": false,
@@ -677,6 +689,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T18:01:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T17:26:57+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -944,6 +967,84 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "US Dollar Price Forecast: Softer PPI Boosts Fed Cut Bets \u2013 Can EUR/USD and GBP/USD Rally?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-softer-070021827.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T07:00:21+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia Captures Record Share of India\u2019s Oil Market",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/russia-captures-record-share-india-070000787.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T07:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ask an Advisor: Should We Move Our Retirement Assets Into a Target Date Fund or an Annuity?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-1-6m-401-120000377.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T07:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "London BTC Company targets antimony potential across Nevada exploration portfolio",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/london-btc-company-targets-antimony-063600159.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T06:36:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Do Wall Street Analysts Like Amphenol Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-amphenol-stock-063019189.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T06:30:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street slips from its record following the latest weak update on the US economy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-fall-us-055846864.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T05:58:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-humanoid-robot-maker-unitree-055455077.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T05:54:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Allspring Large Cap Growth Fund Q2 2026 Performance Update",
       "source": "SeekingAlpha",
@@ -953,83 +1054,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bank of Japan Hike Odds Triple on Polymarket as Yen Intervention Fades",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/bank-japan-hike-odds-triple-042503671.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:25:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analysis-AI-driven surge in bond yields could be next risk for markets and growth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-ai-driven-surge-bond-040956476.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:09:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-talks-investors-nvidia-financing-040352701.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:03:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Medicare Advantage or Traditional Plus Supplemental? Choose Wisely",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/medicare-advantage-traditional-plus-supplemental-040300003.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Treasury, IRS Propose Streamlining Rollovers From 401(ks) to IRAs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/treasury-irs-propose-streamlining-rollovers-040200151.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:02:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Retirement Savers Can Profit from Big IPOs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/retirement-savers-profit-big-ipos-040100382.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic\u2019s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-6-billion-deal-talks-040100013.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T04:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1148,36 +1172,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Terrestrial Energy\u2019s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program \u2013 Quarterly Update Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9ae7556e06f8d3e2df664eb238c61731b908fb9938e3752b179764da99a64bc",
-      "is_watchlist": true,
-      "timestamp": "2026-08-13T17:17:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "How To Bank 17% A Year On FIX Stock Without Selling A Share",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d0fcf416916816fad29c8359205df89f5dc8de6c0108ed5b99dd285cf168ca35",
       "is_watchlist": true,
       "timestamp": "2026-08-13T16:42:42+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Can Record Backlog Strengthen Comfort Systems' Revenue Visibility?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93370bb4f69093e41e5a9c07326bcec287679491a36480700ef7f08edb035ba6",
-      "is_watchlist": true,
-      "timestamp": "2026-08-13T15:23:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

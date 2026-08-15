@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-15T09:03:13+00:00",
+  "generated_at": "2026-08-15T09:41:14+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -193,14 +193,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "IREN",
-        "date": "2026-08-26",
-        "hour": "amc",
-        "eps_estimate": -0.5042,
-        "revenue_estimate": 145165930,
-        "is_watchlist": false
-      },
-      {
         "ticker": "KAYS",
         "date": "2026-08-26",
         "hour": "",
@@ -302,6 +294,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SFL",
+        "date": "2026-08-26",
+        "hour": "",
+        "eps_estimate": 0.0859,
+        "revenue_estimate": 175053200,
         "is_watchlist": false
       },
       {
@@ -593,6 +593,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "IREN",
+        "date": "2026-08-27",
+        "hour": "amc",
+        "eps_estimate": -0.5042,
+        "revenue_estimate": 145165930,
+        "is_watchlist": false
+      },
+      {
         "ticker": "KEN",
         "date": "2026-08-27",
         "hour": "",
@@ -606,6 +614,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LFVN",
+        "date": "2026-08-27",
+        "hour": "amc",
+        "eps_estimate": 0.1292,
+        "revenue_estimate": 46867980,
         "is_watchlist": false
       },
       {
@@ -1735,6 +1751,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "ELWT",
+        "date": "2026-08-18",
+        "hour": "bmo",
+        "eps_estimate": -0.2448,
+        "revenue_estimate": 4824600,
+        "is_watchlist": false
+      },
+      {
         "ticker": "EP",
         "date": "2026-08-18",
         "hour": "",
@@ -2529,14 +2553,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "SFL",
-        "date": "2026-08-19",
-        "hour": "",
-        "eps_estimate": 0.0859,
-        "revenue_estimate": 175053200,
-        "is_watchlist": false
-      },
-      {
         "ticker": "SGMT",
         "date": "2026-08-19",
         "hour": "bmo",
@@ -2556,16 +2572,16 @@ window.theBriefEarnings = {
         "ticker": "TGT",
         "date": "2026-08-19",
         "hour": "bmo",
-        "eps_estimate": 2.3095,
-        "revenue_estimate": 26324568724,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "TGT",
         "date": "2026-08-19",
         "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": 2.3095,
+        "revenue_estimate": 26324568724,
         "is_watchlist": false
       },
       {
@@ -3369,14 +3385,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "LFVN",
-        "date": "2026-08-25",
-        "hour": "amc",
-        "eps_estimate": 0.1292,
-        "revenue_estimate": 46867980,
-        "is_watchlist": false
-      },
-      {
         "ticker": "MYND",
         "date": "2026-08-25",
         "hour": "",
@@ -3390,6 +3398,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 1.4229,
         "revenue_estimate": 486504504,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NCNO",
+        "date": "2026-08-25",
+        "hour": "",
+        "eps_estimate": 0.2605,
+        "revenue_estimate": 162333397,
         "is_watchlist": false
       },
       {
