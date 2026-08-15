@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T19:56:34.142643+00:00",
+  "generated_at": "2026-08-15T20:23:42.300948+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:56:34.139712+00:00",
+      "timestamp": "2026-08-15T20:23:42.297945+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:56:34.139708+00:00",
+      "timestamp": "2026-08-15T20:23:42.297941+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:56:34.139704+00:00",
+      "timestamp": "2026-08-15T20:23:42.297937+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,98 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T19:56:34.139687+00:00",
+      "timestamp": "2026-08-15T20:23:42.297920+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:07:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kestra Medical Technologies CEO Brian Webster sells $692,214 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-brian-webster-sells-692214-in-stock-93CH-4861849",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:02:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Equinix director Christopher Paisley sells $4.08m in EQIX stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/equinix-director-christopher-paisley-sells-408m-in-eqix-stock-93CH-4861848",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:01:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cactus CEO Scott Bender sells $4.99m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cactus-ceo-scott-bender-sells-499m-in-company-stock-93CH-4861847",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:01:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strikes in southern Lebanon kill at least 11",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/israeli-strikes-in-southern-lebanon-kill-at-least-11-4861845",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:50:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-3-billion-in-sb-energy-as-part-of-openai-data-center-deal-the-information-reports-4861844",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:42:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:34:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -89,88 +177,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kestra Medical Technologies CCO sells $642k in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-cco-sells-642k-in-shares-93CH-4861842",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:30:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cactus president Joel Bender sells $4.99m of company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cactus-president-joel-bender-sells-499m-of-company-stock-93CH-4861841",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:30:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kestra Medical CFO Vaseem Mahboob sells $418,217 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kestra-medical-cfo-vaseem-mahboob-sells-418217-in-shares-93CH-4861839",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:16:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T19:15:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cavco Industries director Lisa Daniels sells $17,098 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cavco-industries-director-lisa-daniels-sells-17098-in-stock-93CH-4861838",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:15:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin MACD crossover at $63K, bear flag looms: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:02:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thrivent Financial sells $93,387 in Gloo Holdings stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/thrivent-financial-sells-93387-in-gloo-holdings-stock-93CH-4861837",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:01:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AJB investment fund II, LP, 10% owner, buys $9,880 in Jewett Cameron Trading Co Ltd",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-10-owner-buys-9880-in-jewett-cameron-trading-co-ltd-93CH-4861836",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:01:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -267,23 +278,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:30:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-15T17:23:09+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:15:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -522,11 +533,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Piper Sandler Is Bullish on Unusual Machines Stock. Here's Why.",
+      "headline": "Nebius Just Gave Bloom Energy a Big Boost. What It Means for BE Stock.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-bullish-unusual-machines-133002502.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-just-gave-bloom-energy-140002956.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T13:30:02+00:00",
+      "timestamp": "2026-08-15T14:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -851,21 +862,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzNsYmMxbVMzTEd5RnlEOUdmcmlRM1ZiaG1xTm93dXJUQ2otQ2trbUswV3hXeS16cldCbVNXeTFmV21PNlFrZXM3UmVoSHZRc01uNmJwWFZYeHB6RzhYYjFCWl90MXN1dzBUNnBCelhkSGF1bm1XTWZUdW91bElvVmFxYnhETTlWOGlrangzYzl6aDVNd1VsUUNNNEtwMUtlOWFlaVU5Q09CcWE2WUE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T21:23:22+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
