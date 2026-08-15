@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T05:41:44.091481+00:00",
+  "generated_at": "2026-08-15T06:01:14.678393+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:41:44.088643+00:00",
+      "timestamp": "2026-08-15T06:01:14.675541+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:41:44.088640+00:00",
+      "timestamp": "2026-08-15T06:01:14.675537+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:41:44.088635+00:00",
+      "timestamp": "2026-08-15T06:01:14.675533+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T05:41:44.088618+00:00",
+      "timestamp": "2026-08-15T06:01:14.675517+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,12 +78,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
+      "headline": "Horace Mann director Reece sells $70,018 of HMN stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/horace-mann-director-reece-sells-70018-of-hmn-stock-93CH-4861747",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T05:13:30+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-08-15T05:46:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Horace Mann director Thomas Bradley sells $258,623 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/horace-mann-director-thomas-bradley-sells-258623-in-stock-93CH-4861746",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:46:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/avidbank-holdings-evp-wasson-sells-331400-in-company-stock-93CH-4861745",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:30:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What happens if USD/JPY goes above 160? \u2018Credibility falls further\u2019",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/what-happens-if-usdjpy-goes-above-160-credibility-falls-further-4861744",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:28:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "American Assets Trust executive chairman Rady acquires $3.4m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/american-assets-trust-executive-chairman-rady-acquires-34m-in-shares-93CH-4861743",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:16:03+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global self storage director Russell Burke buys $8,458 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/global-self-storage-director-russell-burke-buys-8458-in-stock-93CH-4861742",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:15:45+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -106,72 +161,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/angel-studios-ceo-neal-harmon-buys-125k-in-company-stock-93CH-4861740",
       "is_watchlist": false,
       "timestamp": "2026-08-15T05:01:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Live Oak Bancshares CEO James Mahan sells $858k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/live-oak-bancshares-ceo-james-mahan-sells-858k-in-company-stock-93CH-4861739",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:01:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Winmill & Co. Inc buys $60,787 of Global Self Storage (SELF)",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/winmill--co-inc-buys-60787-of-global-self-storage-self-93CH-4861738",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:01:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "United Therapeutics CEO Martine Rothblatt sells $4.79m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-479m-in-stock-93CH-4861737",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:46:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Abacus global CEO Jay Jackson sells $1.7m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/abacus-global-ceo-jay-jackson-sells-17m-in-company-stock-93CH-4861736",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:45:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - WSJ",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/nvidia-cuts-planned-openai-data-center-guarantee-to-below-120-billion--wsj-4861735",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:38:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OFG Bancorp director Nestor De Jesus sells $212,000 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ofg-bancorp-director-nestor-de-jesus-sells-212000-in-common-stock-93CH-4861734",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T04:30:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -427,6 +416,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T19:50:11+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVotZUg4bXg1RnZJYmNLTlg2UTJKRjY0MHBoWm9Xd2VYeWM5SUhEckRXNzF3THI4dE9tZm4taDd4N2pMZzdLTmhmM0RRRi1yeGc0blpBYlhlSlVIVGh3MThZQnFkLWhaVWtHcDdhb2wxSGtXTlVMMFdHbnVmV1hiWWtXVHczeHJEQS1zUGZUbVRZX3NwZ1E4bG1kX2VUbUpOQURUd2pidEtwd2M?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:42:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1003,11 +1003,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Johnson & Johnson (JNJ)\u2019s $5.5B Talc Settlement: Turning Point or Temporary Relief?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-5-5b-230726728.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T23:07:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Viatris (VTRS) is Selling Tyrvaya, but Could Harrow (HROW) Turn it Into a Growth Engine?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/viatris-vtrs-selling-tyrvaya-could-230317847.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T23:03:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Mexico Has More Refining Capacity. So Why Are Fuel Imports Rising?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/mexico-more-refining-capacity-why-230000074.html",
       "is_watchlist": false,
       "timestamp": "2026-08-13T23:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-winning-price-racing-own-225233177.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-13T22:52:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1031,39 +1064,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-13T22:39:33+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Major gold holder with $20B in reserves clears first full audit",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/major-gold-holder-20b-reserves-223916121.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:39:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Royalty Pharma plc (RPRX) vs. AstraZeneca PLC (AZN): Which Biopharma Model Offers the Better Growth Story?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/royalty-pharma-plc-rprx-vs-222710878.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:27:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-inc-hca-221733771.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:17:33+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
