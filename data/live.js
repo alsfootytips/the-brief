@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T17:35:18.133627+00:00",
+  "generated_at": "2026-08-15T17:58:03.523785+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:35:18.130755+00:00",
+      "timestamp": "2026-08-15T17:58:03.520758+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:35:18.130752+00:00",
+      "timestamp": "2026-08-15T17:58:03.520755+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:35:18.130747+00:00",
+      "timestamp": "2026-08-15T17:58:03.520751+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T17:35:18.130731+00:00",
+      "timestamp": "2026-08-15T17:58:03.520733+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Park Aerospace board chairman & CEO Brian Shore sells $2.84m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/park-aerospace-board-chairman--ceo-brian-shore-sells-284m-in-shares-93CH-4861825",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:46:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:35:09+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nuveen AMT-free municipal fund portfolio manager sells $62,250 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/nuveen-amtfree-municipal-fund-portfolio-manager-sells-62250-in-shares-93CH-4861824",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:30:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -182,28 +215,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-sells-2211-in-profusa-pfsa-shares-93CH-4861816",
       "is_watchlist": false,
       "timestamp": "2026-08-15T16:46:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HRT Financial LP, a 10% owner, sells $36,816 of Kidz AI stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-lp-a-10-owner-sells-36816-of-kidz-ai-stock-93CH-4861815",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:46:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bank of the James president buys $2,705 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/bank-of-the-james-president-buys-2705-in-company-stock-93CH-4861814",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:45:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -474,14 +485,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T12:51:20+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -680,18 +692,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=378bd32677ead84815eb5c03e6e3830b56b7b1e398114ef6ed1b456b3a5bcb95",
       "is_watchlist": true,
       "timestamp": "2026-08-15T08:10:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Market Is Taking The AI Bubble Naysayers For A Ride",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=85367708773a724ca107c57bfef0b2f4e512dbb821aec9e77c23850ebbecea1f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T07:54:49+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
