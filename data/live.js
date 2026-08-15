@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T07:36:04.230226+00:00",
+  "generated_at": "2026-08-15T07:59:47.225174+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:36:04.227331+00:00",
+      "timestamp": "2026-08-15T07:59:47.222287+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:36:04.227327+00:00",
+      "timestamp": "2026-08-15T07:59:47.222283+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:36:04.227322+00:00",
+      "timestamp": "2026-08-15T07:59:47.222279+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T07:36:04.227305+00:00",
+      "timestamp": "2026-08-15T07:59:47.222263+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.K. steps up defense supply-chain checks after naval drones signal China",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-steps-up-defense-supplychain-checks-after-naval-drones-signal-china-4861752",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T07:29:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -151,17 +162,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/horace-mann-director-thomas-bradley-sells-258623-in-stock-93CH-4861746",
       "is_watchlist": false,
       "timestamp": "2026-08-15T05:46:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/avidbank-holdings-evp-wasson-sells-331400-in-company-stock-93CH-4861745",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T05:30:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -958,22 +958,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "headline": "An Al coding startup just can't stop raising money",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/al-coding-startup-just-cant-031700210.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T03:09:34+00:00",
+      "timestamp": "2026-08-14T03:17:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Arrive AI (ARAI) Q2 2026 Earnings Call Transcript",
+      "headline": "Chinese chipmaker SMIC increases prices on strong AI demand",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arrive-ai-arai-q2-2026-024325158.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T02:43:25+00:00",
+      "timestamp": "2026-08-14T03:09:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
