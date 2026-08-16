@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T00:00:34.910163+00:00",
+  "generated_at": "2026-08-16T01:52:32.903134+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T00:00:34.907351+00:00",
+      "timestamp": "2026-08-16T01:52:32.900068+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T00:00:34.907344+00:00",
+      "timestamp": "2026-08-16T01:52:32.900065+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T00:00:34.907337+00:00",
+      "timestamp": "2026-08-16T01:52:32.900060+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,78 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T00:00:34.907312+00:00",
+      "timestamp": "2026-08-16T01:52:32.900043+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How can Disney get back its narrative momentum?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/how-can-disney-get-back-its-narrative-momentum-4861890",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T00:46:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amalgamated Financial director Mark Finser sells $39,880 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/amalgamated-financial-director-mark-finser-sells-39880-in-shares-93CH-4861889",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T00:45:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UFP Technologies executive chairman Bailly sells $4.1m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ufp-technologies-executive-chairman-bailly-sells-41m-in-shares-93CH-4861888",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T00:31:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump asks Americans to accept high pump prices as Iran standoff drags on",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633590-trump-asks-americans-to-accept-high-pump-prices-as-iran-standoff-drags-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T00:25:46+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arlo technologies director Amy Rothstein sells $149,218 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arlo-technologies-director-amy-rothstein-sells-149218-in-stock-93CH-4861887",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T00:15:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/iran-war-commander-visits-uss-abraham-lincoln-as-carrier-prepares-to-return-home-4861886",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T00:01:12+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -111,133 +179,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Consumers Bancorp director David Bickerton buys $6,205 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/consumers-bancorp-director-david-bickerton-buys-6205-in-shares-93CH-4861881",
+      "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T23:45:56+00:00",
+      "timestamp": "2026-08-15T23:45:44+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stanley Black & Decker CAO Scot Greulach sells $105,164 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/stanley-black--decker-cao-scot-greulach-sells-105164-in-stock-93CH-4861880",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:45:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avis Budget Group EVP sells $652,574 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/avis-budget-group-evp-sells-652574-in-company-stock-93CH-4861879",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Allstate president John Dugenske sells $8.89m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/allstate-president-john-dugenske-sells-889m-in-company-stock-93CH-4861878",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:30:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How could open-weight models impact GenAI ROIC?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/how-could-openweight-models-impact-genai-roic-4861877",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:22:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Block\u2019s (XYZ) EPS Surged 65%, So Why Did the Stock Drop?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/block-xyz-eps-surged-65-231807424.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:18:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Curtiss-Wright (CW) Just Raised Guidance Again, So What\u2019s The Catch?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-just-raised-230318763.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:03:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corpay (CPAY) Just Posted A Record Quarter, So Why The Caution?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/corpay-cpay-just-posted-record-225148418.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T22:51:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-just-posted-86-224242758.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T22:42:42+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Royal Gold\u2019s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T22:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-bets-big-growth-221741258.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T22:17:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Historic retailer gets lifeline after warning it could collapse",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T22:07:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -500,17 +447,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:26:52+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic\u2019s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633585-anthropics-ipo-valuation-tied-2028-revenue-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:18:39+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -816,6 +752,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T01:37:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
@@ -881,6 +828,72 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:20:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:27:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Applied Materials Stock Is Down on Earnings. Here\u2019s What Barchart Options Data Says Could Come Next for AMAT.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-stock-down-earnings-192729110.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:27:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Embraer (EMBJ) Raised Its Cash Flow Floor to $400M. How Much Is Repeatable?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/embraer-embj-raised-cash-flow-192652786.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:26:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nat-Gas Prices Move Higher on Warm US Forecasts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-move-higher-192600415.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:26:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-set-weekly-gains-us-110155136.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:21:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IPO Stock Of The Week: Marex Attempts Breakout With Rally To Record Highs",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/stock-lists/ipo-analysis/marex-stock-mrx-new-buy-point/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T19:18:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1121,17 +1134,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T22:00:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
