@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T19:03:33.369095+00:00",
+  "generated_at": "2026-08-16T19:33:52.900224+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:03:33.366784+00:00",
+      "timestamp": "2026-08-16T19:33:52.897301+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:03:33.366781+00:00",
+      "timestamp": "2026-08-16T19:33:52.897297+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:03:33.366778+00:00",
+      "timestamp": "2026-08-16T19:33:52.897293+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,58 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:03:33.366765+00:00",
+      "timestamp": "2026-08-16T19:33:52.897275+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts\u200b",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/massachusetts-antihunger-advocate-fasts-to-protest-trump-food-stamp-cuts-4861967",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T19:06:26+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. air-conditioner shipments jump in June as H1 growth remains modest",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633613-u-s-air-conditioner-shipments-jump-in-june-as-h1-growth-remains-modest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:05:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin coils below $64K resistance: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:01:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -89,11 +137,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Savers value village CEO Mark Walsh sells over $2.4m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/savers-value-village-ceo-mark-walsh-sells-over-24m-in-shares-93CH-4862005",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T18:46:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Chief people services officer Melinda Geisser sells $766k Savers Value Village stock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/insider-trading-news/chief-people-services-officer-melinda-geisser-sells-766k-savers-value-village-stock-93CH-4862004",
       "is_watchlist": false,
       "timestamp": "2026-08-16T18:46:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Savers value village CFO Michael Maher sells $613,417 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/savers-value-village-cfo-michael-maher-sells-613417-in-shares-93CH-4862002",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T18:46:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -254,17 +324,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "J.P. Morgan ended Polymarket banking relationship over regulatory concerns",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633606-j-p-morgan-ended-polymarket-banking-relationship-over-regulatory-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:33:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Search teams comb rubble in Colombia nearly a week after quake as aid effort expands",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/search-teams-comb-rubble-in-colombia-nearly-a-week-after-quake-as-aid-effort-expands-4861998",
@@ -309,28 +368,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SentinelOne chief accounting officer Robin Tomasello sells $109,799 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sentinelone-chief-accounting-officer-robin-tomasello-sells-109799-in-stock-93CH-4861996",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:01:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Roku president Fuchsberg sells $1.6m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/roku-president-fuchsberg-sells-16m-in-shares-93CH-4861995",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:01:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bending Spoons Beats on Earnings in Its Public Market Debut Quarter. Investors Focus on the Fine Print Instead",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-beats-earnings-public-155821044.html",
@@ -353,33 +390,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Share price reactions increasingly disconnected amid historic Q2 earnings season",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/share-price-reactions-increasingly-disconnected-amid-historic-q2-earnings-season-4861994",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:28:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Changing pubs into homes to be made harder under new rules",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-16T15:04:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "We told you first: these AI-picked small-cap stocks are up +39% and +34% MTD",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-smallcap-stocks-are-up-39-and-34-mtd-4861993",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:01:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1406,17 +1421,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
       "is_watchlist": false,
       "timestamp": "2026-08-09T12:00:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX stock volatility: What to do next if you own shares",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html",
-      "is_watchlist": false,
-      "timestamp": "2026-06-17T14:17:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
