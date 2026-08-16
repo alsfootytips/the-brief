@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T05:43:38.804839+00:00",
+  "generated_at": "2026-08-16T06:03:39.428718+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:43:38.801885+00:00",
+      "timestamp": "2026-08-16T06:03:39.425697+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:43:38.801881+00:00",
+      "timestamp": "2026-08-16T06:03:39.425693+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:43:38.801877+00:00",
+      "timestamp": "2026-08-16T06:03:39.425689+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:43:38.801860+00:00",
+      "timestamp": "2026-08-16T06:03:39.425671+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Packaging Corp president Hassfurther sells $1.79 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/packaging-corp-president-hassfurther-sells-179-million-in-stock-93CH-4861916",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T05:46:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -149,17 +160,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/earnings/nexalin-technology-earnings-missed-revenue-fell-short-of-estimates-4861909",
       "is_watchlist": false,
       "timestamp": "2026-08-16T04:23:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can SpaceX Leap to the AI Frontier?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/can-spacex-leap-to-the-ai-frontier-4861908",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T04:11:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -788,6 +788,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Is Biohaven (BHVN)\u2019s Latest Regeneron Pharmaceuticals (REGN) Deal a Major Catalyst for its Pipeline?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/biohaven-bhvn-latest-regeneron-pharmaceuticals-222352923.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:23:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Could a Tesla (TSLA)-Space Exploration Technologies (SPCX) Merger Help Elon Musk Unlock his Massive Tesla Pay Package?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-space-exploration-220616552.html",
@@ -826,17 +837,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:54:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cotton Heads into the Weekend with Strength",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-heads-weekend-strength-215344056.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:53:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
