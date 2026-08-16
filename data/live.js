@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T06:59:42.106065+00:00",
+  "generated_at": "2026-08-16T07:38:33.730980+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:59:42.103065+00:00",
+      "timestamp": "2026-08-16T07:38:33.728896+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:59:42.103062+00:00",
+      "timestamp": "2026-08-16T07:38:33.728892+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:59:42.103058+00:00",
+      "timestamp": "2026-08-16T07:38:33.728888+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:59:42.103043+00:00",
+      "timestamp": "2026-08-16T07:38:33.728873+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ameriprise EVP Deirdre McGraw sells $1.34 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ameriprise-evp-deirdre-mcgraw-sells-134-million-in-stock-93CH-4861932",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:16:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Equitable Holdings director Charles Stonehill sells $386k in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/equitable-holdings-director-charles-stonehill-sells-386k-in-shares-93CH-4861931",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:16:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -82,7 +104,51 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economic-indicators/german-companies-cut-us-investment-to-threeyear-low-data-show-4861926",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T06:36:30+00:00",
+      "timestamp": "2026-08-16T07:07:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Central bank market backstops risk fuelling leverage and future crises",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/central-bank-market-backstops-risk-fuelling-leverage-and-future-crises-4861929",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:05:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin trapped in $62,500-$64,000 chop zone: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:02:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scotts Miracle-Gro director Kingdon sells $51,226 in common shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-kingdon-sells-51226-in-common-shares-93CH-4861928",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:01:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NVR director George Oliver buys $405,185 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/nvr-director-george-oliver-buys-405185-in-company-stock-93CH-4861927",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:01:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -94,72 +160,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/msa-safety-chairman-nishan-vartanian-sells-388m-in-shares-93CH-4861925",
       "is_watchlist": false,
       "timestamp": "2026-08-16T06:31:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China plans faster rollout of renewable-energy recycling rules - CCTV",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/china-plans-faster-rollout-of-renewableenergy-recycling-rules--cctv-4861924",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T06:26:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Aehr VP Alistair Sporck sells $201,916 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/aehr-vp-alistair-sporck-sells-201916-in-company-stock-93CH-4861923",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T06:18:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "StoneX Group director John Fowler sells $118,770 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/stonex-group-director-john-fowler-sells-118770-in-company-stock-93CH-4861922",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T06:18:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Richardson Electronics director Belin disposes of $107,300 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/richardson-electronics-director-belin-disposes-of-107300-in-shares-93CH-4861921",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T06:05:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netflix co-CEO Gregory Peters sells $2m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/netflix-coceo-gregory-peters-sells-2m-in-shares-93CH-4861920",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T06:01:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netflix director Richard Barton sells $162,216 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/netflix-director-richard-barton-sells-162216-in-stock-93CH-4861918",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T06:01:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -440,7 +440,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taliban mark five years in power as aid groups warn of crisis - reuters.com",
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
       "is_watchlist": false,
@@ -751,6 +751,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-lumentum-lite-233522087.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:35:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "2 charts: SpaceX closes $60B acquisition of Cursor",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/2-charts-spacex-closes-60b-231946293.html",
@@ -811,17 +822,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/turbotax-maker-intuit-leads-3-230002537.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T23:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can AbCellera Biologics (ABCL)\u2019s Vertex Pharmaceuticals Incorporated (VRTX) Deal Turn its TCE Platform Into a Breakthrough?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/abcellera-biologics-abcl-vertex-pharmaceuticals-225359394.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:53:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
