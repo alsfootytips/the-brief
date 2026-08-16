@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T23:45:06.923050+00:00",
+  "generated_at": "2026-08-16T23:59:25.105307+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T23:45:06.920168+00:00",
+      "timestamp": "2026-08-16T23:59:25.102386+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T23:45:06.920164+00:00",
+      "timestamp": "2026-08-16T23:59:25.102382+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T23:45:06.920159+00:00",
+      "timestamp": "2026-08-16T23:59:25.102378+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T23:45:06.920143+00:00",
+      "timestamp": "2026-08-16T23:59:25.102361+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -83,6 +83,17 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
       "is_watchlist": false,
       "timestamp": "2026-08-16T23:03:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/middle-east-oil-flows-rebounded-230000187.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T23:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -362,17 +373,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
       "is_watchlist": false,
       "timestamp": "2026-08-16T19:31:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T19:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
