@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T20:21:39.701329+00:00",
+  "generated_at": "2026-08-16T20:48:32.915526+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:21:39.698893+00:00",
+      "timestamp": "2026-08-16T20:48:32.913187+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:21:39.698890+00:00",
+      "timestamp": "2026-08-16T20:48:32.913184+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:21:39.698888+00:00",
+      "timestamp": "2026-08-16T20:48:32.913181+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:21:39.698875+00:00",
+      "timestamp": "2026-08-16T20:48:32.913167+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NVIDIA\u2019s $3 Billion Bet on the Power Behind AI",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T20:23:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stellantis\u2019 (STLA) Big Turnaround Bet Hits A North American Snag",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-big-turnaround-bet-200858626.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T20:08:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -95,6 +117,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T19:58:32+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:56:03+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -270,17 +303,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T18:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale sees more room for KOSPI recovery despite rebuilding leverage",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633610-societe-generale-sees-more-room-for-kospi-recovery-despite-rebuilding-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -325,34 +347,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:39:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-16T17:30:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:27:30+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
