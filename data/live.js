@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T21:59:20.122315+00:00",
+  "generated_at": "2026-08-16T22:30:08.064925+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:59:20.119995+00:00",
+      "timestamp": "2026-08-16T22:30:08.061981+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:59:20.119992+00:00",
+      "timestamp": "2026-08-16T22:30:08.061977+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:59:20.119989+00:00",
+      "timestamp": "2026-08-16T22:30:08.061972+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,80 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:59:20.119976+00:00",
+      "timestamp": "2026-08-16T22:30:08.061955+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T22:23:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin hovers around $63k as Strategy\u2019s Saylor calls it \u2018digital monetary energy\u2019",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T22:20:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New AI financing backstops allows compute buyers more control over business models",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/new-ai-financing-backstops-allows-compute-buyers-more-control-over-business-models-4862016",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T22:10:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T22:04:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Monday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633602-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T22:00:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump orders reduction in U.S.-South Korea military exercises",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633617-trump-orders-reduction-in-u-s-south-korea-military-exercises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T21:58:26+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -84,6 +154,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T21:51:31+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New Zealand\u2019s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T21:48:22+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -138,17 +219,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-429-4862013",
       "is_watchlist": false,
       "timestamp": "2026-08-16T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New Zealand\u2019s a2 Milk posts 44% fall in full-year profit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T21:06:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -285,21 +355,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts\u200b",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/massachusetts-antihunger-advocate-fasts-to-protest-trump-food-stamp-cuts-4861967",
-      "is_watchlist": true,
-      "timestamp": "2026-08-16T19:06:26+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "U.S. air-conditioner shipments jump in June as H1 growth remains modest",
@@ -307,51 +362,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633613-u-s-air-conditioner-shipments-jump-in-june-as-h1-growth-remains-modest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-16T19:05:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin coils below $64K resistance: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T19:01:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil Majors Reap $93 Billion Windfall From the Iran War",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T19:00:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rocket Lab-built satellites for MDA Space begin operations in orbit",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633612-rocket-lab-built-satellites-for-mda-space-begin-operations-in-orbit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T18:52:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale sees more room for KOSPI recovery despite rebuilding leverage",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633610-societe-generale-sees-more-room-for-kospi-recovery-despite-rebuilding-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T18:29:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -700,33 +710,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "headline": "Morgan Stanley sends a blunt Tesla message to investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T23:45:44+00:00",
+      "timestamp": "2026-08-16T01:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Historic retailer gets lifeline after warning it could collapse",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html",
+      "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T22:07:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Think interest rates are high now? These charts offer a different perspective.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T19:01:00+00:00",
+      "timestamp": "2026-08-15T23:45:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -780,17 +779,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:45:31+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
@@ -829,6 +817,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:30:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
