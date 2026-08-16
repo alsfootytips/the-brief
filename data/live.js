@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T17:19:13.256720+00:00",
+  "generated_at": "2026-08-16T17:45:51.598860+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:19:13.253829+00:00",
+      "timestamp": "2026-08-16T17:45:51.595914+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:19:13.253825+00:00",
+      "timestamp": "2026-08-16T17:45:51.595911+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:19:13.253821+00:00",
+      "timestamp": "2026-08-16T17:45:51.595906+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:19:13.253802+00:00",
+      "timestamp": "2026-08-16T17:45:51.595890+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T17:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -95,6 +106,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T17:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morgan Stanley says disinflation is here, but risks to 2027 rate outlook remain",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/morgan-stanley-says-disinflation-is-here-but-risks-to-2027-rate-outlook-remain-4862000",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T16:59:30+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -347,17 +369,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-375-million-in-company-stock-93CH-4861991",
       "is_watchlist": false,
       "timestamp": "2026-08-16T14:31:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Savers value village general counsel Medway sells $648,900 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/savers-value-village-general-counsel-medway-sells-648900-in-shares-93CH-4861989",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T14:18:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -715,17 +726,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "An active fund holding a whopping 800 stocks is beating major indexes. Here\u2019s how.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:05:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
