@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T05:06:06.710729+00:00",
+  "generated_at": "2026-08-16T05:43:38.804839+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:06:06.707935+00:00",
+      "timestamp": "2026-08-16T05:43:38.801885+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:06:06.707932+00:00",
+      "timestamp": "2026-08-16T05:43:38.801881+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:06:06.707929+00:00",
+      "timestamp": "2026-08-16T05:43:38.801877+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T05:06:06.707914+00:00",
+      "timestamp": "2026-08-16T05:43:38.801860+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada\u2019s Zimar to build $1.9 billion refinery complex in Niger",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/canadas-zimar-to-build-19-billion-refinery-complex-in-niger-4861915",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T05:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-Europe\u2019s heatwaves expose insurance gap as business losses mount",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/analysiseuropes-heatwaves-expose-insurance-gap-as-business-losses-mount-4861914",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T05:18:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Horizon Kinetics buys $345 of Texas Pacific Land (NYSE:TPL)",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-345-of-texas-pacific-land-nysetpl-93CH-4861913",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T05:00:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -127,39 +160,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/can-spacex-leap-to-the-ai-frontier-4861908",
       "is_watchlist": false,
       "timestamp": "2026-08-16T04:11:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crocs CEO Andrew Rees sells over $4.1m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/crocs-ceo-andrew-rees-sells-over-41m-in-stock-93CH-4861906",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T04:01:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chinese refiner Hengli accused of funding Iran through sanctioned oil purchases",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/chinese-refiner-hengli-accused-of-funding-iran-through-sanctioned-oil-purchases-4861903",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T03:22:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Popular EVP Lidio Soriano sells $523,515 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/popular-evp-lidio-soriano-sells-523515-in-company-stock-93CH-4861902",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T03:00:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -788,9 +788,53 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Corn Following Wheat Higher on Friday",
+      "headline": "Could a Tesla (TSLA)-Space Exploration Technologies (SPCX) Merger Help Elon Musk Unlock his Massive Tesla Pay Package?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-following-wheat-higher-friday-215344115.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-space-exploration-220616552.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:06:16+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/us-regulator-approves-bank-charter-200528955.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:05:45+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Bank Triple Cash Rewards Visa Business Card review: A solid option for everyday business costs",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-triple-cash-rewards-visa-business-card-220252786.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:02:52+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:54:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cotton Heads into the Weekend with Strength",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-heads-weekend-strength-215344056.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:53:44+00:00",
       "relevance_score": 0.0,
@@ -810,45 +854,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cotton Heads into the Weekend with Strength",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-heads-weekend-strength-215344056.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:53:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:45:19+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The $120 billion market for coveted pre-IPO stock enters its scaling era",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/120-billion-market-coveted-pre-214440693.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:44:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Fiserv (FISV)\u2019s Turnaround Close the Gap With Mastercard Incorporated (MA)\u2019s Growth Machine?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-turnaround-close-gap-214403779.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:44:03+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -862,17 +873,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "World Liberty Gets Conditional OCC Approval to Issue USD1 Through National Trust Bank",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/world-liberty-gets-conditional-occ-213500065.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
