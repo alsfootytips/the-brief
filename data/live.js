@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T09:27:19.449961+00:00",
+  "generated_at": "2026-08-16T09:52:49.048793+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:27:19.447142+00:00",
+      "timestamp": "2026-08-16T09:52:49.045774+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:27:19.447138+00:00",
+      "timestamp": "2026-08-16T09:52:49.045771+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:27:19.447134+00:00",
+      "timestamp": "2026-08-16T09:52:49.045767+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:27:19.447117+00:00",
+      "timestamp": "2026-08-16T09:52:49.045749+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:45:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "German companies cut US investment to three-year low, data show",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/german-companies-cut-us-investment-to-threeyear-low-data-show-4861926",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:42:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EVP Lee Lyon sells $536,580 in First Commonwealth stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/evp-lee-lyon-sells-536580-in-first-commonwealth-stock-93CH-4861955",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:30:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -144,28 +177,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iron Mountain president & CEO William Meaney sells $4.68m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/iron-mountain-president--ceo-william-meaney-sells-468m-in-stock-93CH-4861947",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T08:31:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ametek president David Hermance sells $1.68 million in AME shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ametek-president-david-hermance-sells-168-million-in-ame-shares-93CH-4861946",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T08:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
@@ -173,6 +184,30 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T07:38:25+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2468e9cada0486bc48735eb09ab7f1e12c655d6272a0a9762e0db8bb0b6f3bf1",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T05:36:20+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2468e9cada0486bc48735eb09ab7f1e12c655d6272a0a9762e0db8bb0b6f3bf1",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T05:36:20+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -562,17 +597,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:30:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
@@ -619,6 +643,39 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Americans added $21B to credit cards \u2014 now 20%+ interest is crushing budgets. Time to use Dave Ramsey\u2019s escape hatch?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/americans-added-21b-credit-cards-101500667.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-15-2026-best-cd-account-earns-430-apy-100000412.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "CRWV",
       "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
       "source": "Benzinga",
@@ -655,15 +712,14 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius: I'm Still Not Selling After 10x",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d9ab532ef7dfc7fe43f90cbc0f0a4950ad20249daad57e292030a7e3fad042f7",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T09:36:31+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "Magnitude 7.7 quake kills 38 on Indonesia\u2019s Flores island",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/powerful-7-7-magnitude-earthquake-strikes-near-indonesia",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T09:36:27+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -696,18 +752,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=50fb6eaa370573b32509b0fcba9621fd9418c753bbf993f054c912092112a24a",
       "is_watchlist": true,
       "timestamp": "2026-08-15T09:01:30+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Earnings Volatility Watch: Wolfspeed and 9 Other Stocks Could Swing Up to 17% this Week",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6621d7a6f2e502cc585b4583099dd84b3870a370c139660c191600c400a6be5b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T09:00:51+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -796,56 +840,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Scholar Rock Holding Corporation (SRRK) Better Positioned than Novo Nordisk A/S (NVO) After Recent Setbacks?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/scholar-rock-holding-corporation-srrk-014606520.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T01:46:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T01:37:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Veeva Systems Inc. (VEEV)\u2019s AI Platform Keep Pace With Eli Lilly and Company (LLY)\u2019s Explosive Growth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/veeva-systems-inc-veev-ai-012836351.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T01:28:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analysts Are Bullish on Heartflow (HTFL) Stock. Here\u2019s Why",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-bullish-heartflow-htfl-stock-011800814.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T01:18:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:18:44+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {

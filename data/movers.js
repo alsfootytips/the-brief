@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-16T09:27:19.443703+00:00",
+  "generated_at": "2026-08-16T09:52:49.042848+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
+      "move_reason": "News: \"Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)\""
     },
     {
       "ticker": "AMD",
@@ -171,7 +171,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.65,
+      "volume_ratio": 0.69,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -213,7 +213,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
+      "move_reason": "News: \"Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)\""
     },
     {
       "ticker": "META",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
+      "move_reason": "News: \"Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)\""
     },
     {
       "ticker": "DG",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated\""
+      "move_reason": "News: \"Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)\""
     },
     {
       "ticker": "NVDA",
@@ -614,7 +614,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.65,
+      "volume_ratio": 0.69,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -624,7 +624,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.27,
       "change_pct": 0.33,
-      "volume_ratio": 0.89,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -688,13 +688,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
