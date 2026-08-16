@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T20:48:32.915526+00:00",
+  "generated_at": "2026-08-16T21:20:07.573907+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:48:32.913187+00:00",
+      "timestamp": "2026-08-16T21:20:07.571095+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:48:32.913184+00:00",
+      "timestamp": "2026-08-16T21:20:07.571091+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:48:32.913181+00:00",
+      "timestamp": "2026-08-16T21:20:07.571087+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T20:48:32.913167+00:00",
+      "timestamp": "2026-08-16T21:20:07.571071+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ferrari\u2019s electric car Luce sells for $40 million at charity auction",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/ferraris-electric-car-luce-sells-for-40-million-at-charity-auction-4862011",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T20:51:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -292,17 +303,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Natera executive chairman Matthew Rabinowitz sells $641,800 stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-641800-stock-93CH-4862003",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T18:46:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale sees more room for KOSPI recovery despite rebuilding leverage",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633610-societe-generale-sees-more-room-for-kospi-recovery-despite-rebuilding-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -498,17 +498,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T11:58:15+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T11:58:15+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -722,6 +711,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Historic retailer gets lifeline after warning it could collapse",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T22:07:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Think interest rates are high now? These charts offer a different perspective.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
@@ -769,17 +769,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
@@ -796,6 +785,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:45:31+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:35:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
