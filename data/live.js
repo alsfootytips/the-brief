@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T08:47:15.948122+00:00",
+  "generated_at": "2026-08-16T09:27:19.449961+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:47:15.945221+00:00",
+      "timestamp": "2026-08-16T09:27:19.447142+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:47:15.945217+00:00",
+      "timestamp": "2026-08-16T09:27:19.447138+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:47:15.945213+00:00",
+      "timestamp": "2026-08-16T09:27:19.447134+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,76 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:47:15.945196+00:00",
+      "timestamp": "2026-08-16T09:27:19.447117+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin price trades above $63,000 as Saylor calls it \u2018digital monetary energy\u2019",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:22:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pennant group EVP Kirk Cheney sells $53,661 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pennant-group-evp-kirk-cheney-sells-53661-in-company-stock-93CH-4861951",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:01:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pennant group CEO Brent Guerisoli sells $165,066 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pennant-group-ceo-brent-guerisoli-sells-165066-in-shares-93CH-4861950",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:01:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pennant group chief clinical officer sells $53,699 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pennant-group-chief-clinical-officer-sells-53699-in-stock-93CH-4861948",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:01:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Commonwealth Financial director Grebenc sells $325,453 of stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-director-grebenc-sells-325453-of-stock-93CH-4861949",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:01:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-bullish-on-memory-names-apple-and-cisco-downgraded-4861817",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:00:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -94,73 +160,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/ametek-president-david-hermance-sells-168-million-in-ame-shares-93CH-4861946",
       "is_watchlist": false,
       "timestamp": "2026-08-16T08:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Origin Bancorp director Cecil Jones buys $199,282 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/origin-bancorp-director-cecil-jones-buys-199282-in-stock-93CH-4861945",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T08:31:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-war-commander-visits-uss-abraham-lincoln-as-carrier-prepares-to-return-home-4861886",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T08:14:04+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Immunome director Isaac Barchas sells $940,453 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/immunome-director-isaac-barchas-sells-940453-in-common-stock-93CH-4861943",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T08:01:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paylocity director Steven Sarowitz sells $1.68m of stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-168m-of-stock-93CH-4861942",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T08:01:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "India opens tax amnesty scheme for small taxpayers with undisclosed foreign assets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/india-opens-tax-amnesty-scheme-for-small-taxpayers-with-undisclosed-foreign-assets-4861941",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T08:00:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Velocity Financial CFO sells $36,320 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/velocity-financial-cfo-sells-36320-in-company-stock-93CH-4861938",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T07:45:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -680,6 +679,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "'You have absolutely no expenses': Suze Orman says the perks your job quietly covers could blow up your retirement math",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/absolutely-no-expenses-suze-orman-093000555.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T09:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "AppLovin: One Of The Most Impressive Businesses I Have Ever Seen",
       "source": "SeekingAlpha",
@@ -713,6 +723,17 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Reddit (RDDT) Is Joining the S&P 500 \u2014What\u2019s Next for the Company?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-joining-p-500-054742571.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T05:47:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -808,33 +829,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Says Palantir (PLTR) Deserves a \u201cLittle Bit More Love\u201d After a Massive Surge",
+      "headline": "Analysts Are Bullish on Heartflow (HTFL) Stock. Here\u2019s Why",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-pltr-000702429.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-bullish-heartflow-htfl-stock-011800814.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T00:07:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Calls Post-Earnings Pullback in Ferguson Enterprises (FERG) a \u201cGift\u201d",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-post-earnings-000301430.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T00:03:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:58:46+00:00",
+      "timestamp": "2026-08-15T01:18:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
