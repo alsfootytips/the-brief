@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-15T23:45:36.488910+00:00",
+  "generated_at": "2026-08-16T00:00:34.910163+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T23:45:36.486191+00:00",
+      "timestamp": "2026-08-16T00:00:34.907351+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T23:45:36.486188+00:00",
+      "timestamp": "2026-08-16T00:00:34.907344+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T23:45:36.486184+00:00",
+      "timestamp": "2026-08-16T00:00:34.907337+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,65 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-15T23:45:36.486165+00:00",
+      "timestamp": "2026-08-16T00:00:34.907312+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Extreme Networks director Raj Khanna sells $363,001 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/extreme-networks-director-raj-khanna-sells-363001-in-stock-93CH-4861884",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T23:49:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Phillips 66 SVP and controller Kluppel sells $1.65m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/phillips-66-svp-and-controller-kluppel-sells-165m-in-stock-93CH-4861883",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T23:45:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Viasat SVP Robert Blair sells $2.15m in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/viasat-svp-robert-blair-sells-215m-in-common-stock-93CH-4861882",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T23:45:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Consumers Bancorp director David Bickerton buys $6,205 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/consumers-bancorp-director-david-bickerton-buys-6205-in-shares-93CH-4861881",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T23:45:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stanley Black & Decker CAO Scot Greulach sells $105,164 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/stanley-black--decker-cao-scot-greulach-sells-105164-in-stock-93CH-4861880",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T23:45:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -111,66 +166,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tidewater EVP Daniel Hudson sells $445,050 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/tidewater-evp-daniel-hudson-sells-445050-in-common-stock-93CH-4861876",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:19:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chemours co president Michael Foley buys $29,999 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/chemours-co-president-michael-foley-buys-29999-in-stock-93CH-4861875",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:19:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Block\u2019s (XYZ) EPS Surged 65%, So Why Did the Stock Drop?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/block-xyz-eps-surged-65-231807424.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T23:18:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chemours director Mary B Cranston acquires $94,950 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/chemours-director-mary-b-cranston-acquires-94950-in-stock-93CH-4861874",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:16:05+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Magnolia Oil & Gas director Ropp buys $123,125 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/magnolia-oil--gas-director-ropp-buys-123125-in-stock-93CH-4861873",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:15:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chemours president Martinko buys $30,008 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/chemours-president-martinko-buys-30008-in-company-stock-93CH-4861872",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:15:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -275,6 +275,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T19:28:45+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
@@ -294,6 +309,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T19:01:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:33:50+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -351,6 +377,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T18:05:00+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:30:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -457,6 +494,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:26:52+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Anthropic\u2019s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633585-anthropics-ipo-valuation-tied-2028-revenue-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -490,12 +538,56 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Israeli strike kills seven in south Lebanon, state news reports\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:43:31+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:22:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:19:35+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:13:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T13:00:01+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -720,6 +812,32 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T03:58:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:18:44+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-14T22:36:06+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1192,30 +1310,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-12T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Best Growth Stocks to Buy for August 12th",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=049b15adc794e98b42a46f333f055911f55a649a7d7044cb43114294827f18bc",
-      "is_watchlist": true,
-      "timestamp": "2026-08-12T08:19:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Oscar Health (NYSE:OSCR) Displays Accelerating Growth and Improving Fundamentals",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5486c0077f1fb23d0f26059dcd76f7e9d87ca1fab0e64ac3671f6154747a6974",
-      "is_watchlist": true,
-      "timestamp": "2026-08-12T08:11:45+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",

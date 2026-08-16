@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-15T23:45:36.482921+00:00",
+  "generated_at": "2026-08-16T00:00:34.903946+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wells Fargo Maintains Equal-Weight on Oscar Health, Raises Price Target to $27\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "TPL",
@@ -119,7 +119,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Walmart Stock Slides About 12% in 3 Months: Is WMT Still Too Pricey?\""
+      "move_reason": ""
     },
     {
       "ticker": "XLU",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Walmart Stock Slides About 12% in 3 Months: Is WMT Still Too Pricey?\""
+      "move_reason": ""
     },
     {
       "ticker": "GEV",
@@ -461,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wells Fargo Maintains Equal-Weight on Oscar Health, Raises Price Target to $27\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -688,13 +688,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"

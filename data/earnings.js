@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-15T23:45:36+00:00",
+  "generated_at": "2026-08-16T00:00:34+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -734,24 +734,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 2.6605,
         "revenue_estimate": 2688693480,
-        "is_watchlist": false
-      }
-    ],
-    "2026-08-15": [
-      {
-        "ticker": "ALLR",
-        "date": "2026-08-15",
-        "hour": "",
-        "eps_estimate": -0.255,
-        "revenue_estimate": 0,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ATHR",
-        "date": "2026-08-15",
-        "hour": "",
-        "eps_estimate": -0.1224,
-        "revenue_estimate": 357000,
         "is_watchlist": false
       }
     ],
