@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T17:59:53.278022+00:00",
+  "generated_at": "2026-08-16T18:40:18.974662+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:59:53.275115+00:00",
+      "timestamp": "2026-08-16T18:40:18.971891+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:59:53.275112+00:00",
+      "timestamp": "2026-08-16T18:40:18.971887+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:59:53.275107+00:00",
+      "timestamp": "2026-08-16T18:40:18.971883+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:59:53.275090+00:00",
+      "timestamp": "2026-08-16T18:40:18.971866+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale sees more room for KOSPI recovery despite rebuilding leverage",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633610-societe-generale-sees-more-room-for-kospi-recovery-despite-rebuilding-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T18:29:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T18:15:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "States rethink AI data-center incentives as power costs, public backlash grow",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633608-states-rethink-ai-data-center-incentives-as-power-costs-public-backlash-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T17:59:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -83,6 +116,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633611-top-global-stories-last-week-jdcom-sk-hynix-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-16T17:46:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T17:39:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -188,17 +232,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here are the 2 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:04:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Calm markets mask risk of sudden S&P 500 swings",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633605-calm-markets-mask-risk-of-sudden-s-and-p-500-swings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -254,33 +287,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BofA favors value, biotech and commodities as AI productivity lags",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633604-bofa-favors-value-biotech-and-commodities-as-ai-productivity-lags?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:42:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Share price reactions increasingly disconnected amid historic Q2 earnings season",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/share-price-reactions-increasingly-disconnected-amid-historic-q2-earnings-season-4861994",
       "is_watchlist": false,
       "timestamp": "2026-08-16T15:28:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Space is becoming an institutional asset class, Goldman says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633601-space-is-becoming-an-institutional-asset-class-goldman-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:26:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -331,39 +342,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Moneywise staff confesses worst money mistakes \u2014 from ignoring subscriptions to sacrificing first home 'must-haves'",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump's envoys in Middle East to push for Gaza peace plan - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T14:35:19+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iranian parliament advances bill to curb foreign influence - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T14:33:43+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "PubMatic CEO Rajeev Goel sells $3.75 million in company stock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-375-million-in-company-stock-93CH-4861991",
@@ -386,35 +364,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:17:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s the real reason oil prices aren\u2019t moving higher",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-16T13:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pope calls for an end to West Bank violence against Palestinians - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGQ4SWdqSHFLZE1qOUNXWDhnLVlQa09TeGtURVpuZC1BWjFPNE1CalBpTU5NM3c2Uy1qSi1mSnlmRjB6UTlab1hMd19Zd2tubTFLNUZoSWZqUWdyN2V3UFZXWlY3c3d6RGlNbGduMjRWMlZ5cDcyU3U4R3VfXzVUZlZ3T3A0TnBHdnZmWHQ2VmxLdmdSVFBBQVdrckZULUFJNEEyc0Q2cko1WmprZVdNeA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:23:43+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -476,57 +431,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T11:34:57+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T11:27:57+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukrainian drones strike Moscow region, killing one - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T11:21:14+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Walmart and Target are about to reveal the health of the U.S. consumer",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-16T11:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran executes man convicted of running over police during January protests - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVdhVzI2TzFiQUNlclh3TzduWm5TYmRQbVY5bE0zQ3ZMbEVFQ1ZqUWRGN24tQjFRT1dfaUMxSHd1VHVFQURUVXdDOWJlNWhBeU56eHlYX0l3bkJST0JsVmY4RWVwcmNpZTVLdHpXV2lhRFMxc1RoQV8tRHpPUEpHZXhXeXJ2WG84QWwwWndlZ3BDMG51c3o3bE8xRFhLdEpaQ19NLVF4QXBUNTVFUk0yX1U5N3VQVjV3am1GdEJCWE85N00?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T10:50:26+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -540,17 +450,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "India sets targets for oil companies to boost cooking gas output amid Middle East war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:51:44+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -670,6 +569,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T22:16:49+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
@@ -680,6 +594,32 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Democrats pick South Carolina as first 2028 primary state\u200b\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUdUWnZta0dqWnVmdERxVEg1ay1leG1IZWQyUVJ2U1Y2cVJSNjg2X1BZWHRBOV9ZemJnT1pVeGpoRUt4ekFaTER1NUhVcEtObFd2X1doR2x2SnpGaDNGTEFOaUNDdUpZOVJPQ1Z5Q1d0YkQ3YlE0NGl4a0xrZ2VrdjBOdlpfdnN3aEsxZHJCcFd5M1lOZHRmWnVrd0NiaUYt?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:07:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T19:28:45+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -695,12 +635,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Owning a home is overrated. Renting is now often a much better money move.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T18:23:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-15T18:33:50+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -729,6 +669,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:30:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
       "source": "Yahoo",
@@ -742,12 +693,57 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Palestinians in Qusra say they have faced militant settler attacks for months - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVIzMUNoVC03bVZyb0I2ckIyY3JhMWpNMm56VFBHSk1jUG1kOTdxbkNrZ2p1NWdoYTA5SGxraWpBTUExbnVoeWwxQU5IOW5mYzEtNTh5bExJZ01VUHZjdS1QRWVyNHBodDU3RGdnUV9ldl9SYTVFLWljMWZta3VvZTliRWg5Mm9xVXFVOUNUSXBNRG1WNlRDbXdLMlNEbVFRNW1tVW9OQ2FvUDh2ZUdMeXhQMFBpS0dPd1pUVEMtNm5IUQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:18:41+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jane Street faces first monthly loss in a decade after AI fund setback",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/jane-street-took-15-billion-loss-in-july-as-ai-stocks-slumped",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T16:01:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:49:27+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T15:33:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:26:52+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -769,6 +765,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:45:31+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strike kills seven in south Lebanon, state news reports\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:43:31+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -797,11 +804,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+      "headline": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T12:00:01+00:00",
+      "timestamp": "2026-08-15T12:30:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
