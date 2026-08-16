@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T21:45:02.086148+00:00",
+  "generated_at": "2026-08-16T21:59:20.122315+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:45:02.083325+00:00",
+      "timestamp": "2026-08-16T21:59:20.119995+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:45:02.083321+00:00",
+      "timestamp": "2026-08-16T21:59:20.119992+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:45:02.083317+00:00",
+      "timestamp": "2026-08-16T21:59:20.119989+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T21:45:02.083300+00:00",
+      "timestamp": "2026-08-16T21:59:20.119976+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stripe is said to agree to buy OpenRouter for more than $7B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633616-stripe-is-said-to-agree-to-buy-openrouter-for-more-than-7b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T21:51:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -94,6 +105,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633330-flexsteel-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-16T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Believe the unbelievable in this market \u2014 things can be different this time",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T21:32:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -347,17 +369,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "States rethink AI data-center incentives as power costs, public backlash grow",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633608-states-rethink-ai-data-center-incentives-as-power-costs-public-backlash-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:59:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
@@ -566,17 +577,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T11:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran executes man convicted of running over police during January protests - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVdhVzI2TzFiQUNlclh3TzduWm5TYmRQbVY5bE0zQ3ZMbEVFQ1ZqUWRGN24tQjFRT1dfaUMxSHd1VHVFQURUVXdDOWJlNWhBeU56eHlYX0l3bkJST0JsVmY4RWVwcmNpZTVLdHpXV2lhRFMxc1RoQV8tRHpPUEpHZXhXeXJ2WG84QWwwWndlZ3BDMG51c3o3bE8xRFhLdEpaQ19NLVF4QXBUNTVFUk0yX1U5N3VQVjV3am1GdEJCWE85N00?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T10:50:26+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
