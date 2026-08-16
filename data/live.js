@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T14:59:37.427678+00:00",
+  "generated_at": "2026-08-16T15:29:54.362526+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T14:59:37.425235+00:00",
+      "timestamp": "2026-08-16T15:29:54.359711+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T14:59:37.425232+00:00",
+      "timestamp": "2026-08-16T15:29:54.359708+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T14:59:37.425228+00:00",
+      "timestamp": "2026-08-16T15:29:54.359703+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T14:59:37.425215+00:00",
+      "timestamp": "2026-08-16T15:29:54.359687+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Spending is leading to earnings': Wall Street strategists see payoff from Big Tech's AI investment",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:16:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Changing pubs into homes to be made harder under new rules",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:04:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scholastic director Kaya Henderson sells $130,812 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/scholastic-director-kaya-henderson-sells-130812-in-stock-93CH-4861992",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:01:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Moneywise staff confesses worst money mistakes \u2014 from ignoring subscriptions to sacrificing first home 'must-haves'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -84,6 +128,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T14:49:58+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iranian parliament advances bill to curb foreign influence - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T14:33:43+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -127,6 +182,50 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/natera-director-jonathan-sheena-sells-289m-in-stock-93CH-4861988",
       "is_watchlist": false,
       "timestamp": "2026-08-16T14:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars \u2014 and high fees aren't helping",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-5-billion-fund-140000634.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta to face massive social media addiction trial Tuesday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:51:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Tells Caller to Average Down on Netflix (NFLX)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:51:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wendy\u2019s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-jumps-report-nelson-peltz-134908532.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:49:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -182,17 +281,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/earnings/liberty-live-earnings-up-next-can-revenue-surge-narrow-losses-93CH-4861983",
       "is_watchlist": false,
       "timestamp": "2026-08-16T13:36:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Liberty Live earnings ahead as investors eye return to profit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/liberty-live-earnings-ahead-as-investors-eye-return-to-profit-93CH-4861982",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:35:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -260,17 +348,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T12:23:43+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iranian parliament votes to further criminalise interviews with 'hostile media' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:18:32+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -526,21 +603,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T22:16:49+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Historic retailer gets lifeline after warning it could collapse",
@@ -670,6 +732,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:30:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
       "source": "Yahoo",
@@ -727,77 +800,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nelson Peltz May Be Preparing to Take Wendy\u2019s Private. What It Means for WEN Stock Investors.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nelson-peltz-may-preparing-wendy-133002577.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Piper Sandler Is Bullish on Unusual Machines Stock. Here's Why.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-bullish-unusual-machines-133002502.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NVDA Stock Alert: Nvidia CEO Jensen Huang Says Chips Are \u2018Investable Asset Class\u2019",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-alert-nvidia-ceo-130002278.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fancy Footwork: How to Play Birkenstock Stock After a Revenue Beat",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fancy-footwork-play-birkenstock-stock-130002576.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bank Stock Merger Mania Might Not Happen. This ETF Explains Why.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-stock-merger-mania-might-130002725.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:00:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire adds $17 billion to Alphabet stake",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:50:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:35:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1190,17 +1197,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T21:43:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
