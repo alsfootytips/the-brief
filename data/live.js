@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T22:50:39.749836+00:00",
+  "generated_at": "2026-08-16T23:19:57.521711+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T22:50:39.746990+00:00",
+      "timestamp": "2026-08-16T23:19:57.518747+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T22:50:39.746987+00:00",
+      "timestamp": "2026-08-16T23:19:57.518741+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T22:50:39.746983+00:00",
+      "timestamp": "2026-08-16T23:19:57.518734+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T22:50:39.746966+00:00",
+      "timestamp": "2026-08-16T23:19:57.518711+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Freightways posts strong H2 2026 results as fuel costs bite",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T23:03:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T22:52:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -94,17 +116,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633618-a2-milk-profit-tumbles-44-percent-after-china-formula-shortage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-16T22:30:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T22:23:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -346,17 +357,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55m-in-company-stock-93CH-4862007",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T19:32:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
@@ -396,17 +396,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T17:30:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:08:04+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -710,23 +699,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "headline": "Morgan Stanley sends a blunt Tesla message to investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T23:45:44+00:00",
+      "timestamp": "2026-08-16T01:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Historic retailer gets lifeline after warning it could collapse",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html",
+      "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T22:07:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-15T23:45:44+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1184,6 +1173,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T02:06:10+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T00:09:11+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
