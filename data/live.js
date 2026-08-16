@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T15:29:54.362526+00:00",
+  "generated_at": "2026-08-16T15:50:21.051260+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:29:54.359711+00:00",
+      "timestamp": "2026-08-16T15:50:21.048341+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:29:54.359708+00:00",
+      "timestamp": "2026-08-16T15:50:21.048338+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:29:54.359703+00:00",
+      "timestamp": "2026-08-16T15:50:21.048334+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:29:54.359687+00:00",
+      "timestamp": "2026-08-16T15:50:21.048317+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA favors value, biotech and commodities as AI productivity lags",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633604-bofa-favors-value-biotech-and-commodities-as-ai-productivity-lags?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:42:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Share price reactions increasingly disconnected amid historic Q2 earnings season",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/share-price-reactions-increasingly-disconnected-amid-historic-q2-earnings-season-4861994",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:28:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Space is becoming an institutional asset class, Goldman says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633601-space-is-becoming-an-institutional-asset-class-goldman-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:26:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -94,6 +127,17 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-16T15:04:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "We told you first: these AI-picked small-cap stocks are up +39% and +34% MTD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-smallcap-stocks-are-up-39-and-34-mtd-4861993",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:01:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -221,17 +265,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wendy\u2019s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-jumps-report-nelson-peltz-134908532.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:49:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Lear Corp director Conrad Mallett Jr. sells $199,742 in stock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/insider-trading-news/lear-corp-director-conrad-mallett-jr-sells-199742-in-stock-93CH-4861986",
@@ -265,28 +298,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. equity inflows triple week-on-week as Wall Street hovers near record levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-equity-inflows-triple-weekonweek-as-wall-street-hovers-near-record-levels-4861984",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:41:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Liberty Live earnings up next: Can revenue surge narrow losses?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/liberty-live-earnings-up-next-can-revenue-surge-narrow-losses-93CH-4861983",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:36:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "What the results of a Connecticut congressional primary race may mean for Social Security",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
@@ -294,6 +305,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T13:30:01+00:00",
       "relevance_score": -3.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:17:44+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -331,34 +354,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Credit Strategist Michael Lewitt warns CoreWeave\u2019s debt load threatens survival",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633596-credit-strategist-michael-lewitt-warns-coreweave-s-debt-load-threatens-survival?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:35:44+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Pope calls for an end to West Bank violence against Palestinians - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGQ4SWdqSHFLZE1qOUNXWDhnLVlQa09TeGtURVpuZC1BWjFPNE1CalBpTU5NM3c2Uy1qSi1mSnlmRjB6UTlab1hMd19Zd2tubTFLNUZoSWZqUWdyN2V3UFZXWlY3c3d6RGlNbGduMjRWMlZ5cDcyU3U4R3VfXzVUZlZ3T3A0TnBHdnZmWHQ2VmxLdmdSVFBBQVdrckZULUFJNEEyc0Q2cko1WmprZVdNeA?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-16T12:23:43+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings Week Ahead: WMT, BABA, HD, TGT, and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633183-earnings-week-ahead-wmt-baba-hd-tgt-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:07:05+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -728,17 +729,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T18:05:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T17:30:00+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1420,6 +1410,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
       "is_watchlist": false,
       "timestamp": "2026-08-09T12:00:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX stock volatility: What to do next if you own shares",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html",
+      "is_watchlist": false,
+      "timestamp": "2026-06-17T14:17:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-16T15:29:54.356473+00:00",
+  "generated_at": "2026-08-16T15:50:21.045101+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -156,22 +156,22 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 112.95,
-      "change_pct": 0.36,
-      "volume_ratio": 0.69,
+      "ticker": "XLI",
+      "name": "Industrial Select Sector",
+      "price": 186.51,
+      "change_pct": 0.39,
+      "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 45.27,
-      "change_pct": 0.33,
-      "volume_ratio": 0.88,
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 112.95,
+      "change_pct": 0.36,
+      "volume_ratio": 0.69,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -600,6 +600,16 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
+      "ticker": "XLI",
+      "name": "Industrial Select Sector",
+      "price": 186.51,
+      "change_pct": 0.39,
+      "volume_ratio": 0.86,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
       "ticker": "XLC",
       "name": "Communication Services Select",
       "price": 112.95,
@@ -678,13 +688,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
@@ -939,6 +949,16 @@ window.theBriefMovers = {
         "TTD",
         "AMD",
         "NVDA"
+      ]
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrial Select Sector",
+      "change_pct": 0.39,
+      "price": 186.51,
+      "watchlist_members": [
+        "PWR",
+        "GEV"
       ]
     },
     {
