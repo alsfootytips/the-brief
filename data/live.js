@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T10:49:30.914533+00:00",
+  "generated_at": "2026-08-16T11:19:56.565611+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T10:49:30.911759+00:00",
+      "timestamp": "2026-08-16T11:19:56.562657+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T10:49:30.911755+00:00",
+      "timestamp": "2026-08-16T11:19:56.562653+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T10:49:30.911751+00:00",
+      "timestamp": "2026-08-16T11:19:56.562649+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T10:49:30.911736+00:00",
+      "timestamp": "2026-08-16T11:19:56.562631+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "how InvestingPro\u2019s fair value spotted StoneX 44% decline in advance",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-spotted-stonex-44-decline-in-advance-93CH-4861965",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:02:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart and Target are about to reveal the health of the U.S. consumer",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Red River Bancshares director Price buys $111k in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/red-river-bancshares-director-price-buys-111k-in-stock-93CH-4861964",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T10:46:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -96,6 +129,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T10:16:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Explainer: Trump wants more economic pressure on Iran. What are his options? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T10:03:43+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -155,29 +200,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "German companies cut US investment to three-year low, data show",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/german-companies-cut-us-investment-to-threeyear-low-data-show-4861926",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:42:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EVP Lee Lyon sells $536,580 in First Commonwealth stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/evp-lee-lyon-sells-536580-in-first-commonwealth-stock-93CH-4861955",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:30:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - reuters.com",
+      "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
       "is_watchlist": false,
@@ -284,7 +307,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - reuters.com",
+      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
       "is_watchlist": true,
@@ -318,7 +341,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - reuters.com",
+      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
       "is_watchlist": false,
@@ -386,7 +409,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - reuters.com",
+      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
       "is_watchlist": false,
@@ -454,17 +477,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Real estate stocks show mixed performance; data center REITs gain, health care REITs lose",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633485-real-estate-stocks-show-mixed-performance-data-center-reits-gain-health-care-reits-lose?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -498,7 +510,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taliban mark five years in power as aid groups warn of crisis - reuters.com",
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
       "is_watchlist": false,
@@ -564,7 +576,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - reuters.com",
+      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
       "is_watchlist": false,
@@ -677,20 +689,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T10:02:05+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY",
+      "headline": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-15-2026-best-cd-account-earns-430-apy-100000412.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -699,9 +700,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
+      "headline": "Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-15-2026-best-cd-account-earns-430-apy-100000412.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T10:00:00+00:00",
       "relevance_score": 0.0,
