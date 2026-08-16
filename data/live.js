@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T03:00:12.350969+00:00",
+  "generated_at": "2026-08-16T03:55:13.138773+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:00:12.348148+00:00",
+      "timestamp": "2026-08-16T03:55:13.135944+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:00:12.348145+00:00",
+      "timestamp": "2026-08-16T03:55:13.135940+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:00:12.348140+00:00",
+      "timestamp": "2026-08-16T03:55:13.135936+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:00:12.348124+00:00",
+      "timestamp": "2026-08-16T03:55:13.135920+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese refiner Hengli accused of funding Iran through sanctioned oil purchases",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/chinese-refiner-hengli-accused-of-funding-iran-through-sanctioned-oil-purchases-4861903",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T03:22:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Popular EVP Lidio Soriano sells $523,515 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/popular-evp-lidio-soriano-sells-523515-in-company-stock-93CH-4861902",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T03:00:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -144,28 +166,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/billionaire-peter-thiel-buys-1-stake-in-argentine-vaca-muerta-oil-firm-filing-shows-4861892",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T01:36:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How can Disney get back its narrative momentum?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/how-can-disney-get-back-its-narrative-momentum-4861890",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T00:46:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump asks Americans to accept high pump prices as Iran standoff drags on",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633590-trump-asks-americans-to-accept-high-pump-prices-as-iran-standoff-drags-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -226,7 +226,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
+      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
       "is_watchlist": true,
@@ -260,7 +260,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - Reuters",
+      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
       "is_watchlist": false,
@@ -440,7 +440,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
       "is_watchlist": false,
@@ -473,7 +473,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israeli strike kills seven in south Lebanon, state news reports\u200b - Reuters",
+      "headline": "Israeli strike kills seven in south Lebanon, state news reports\u200b - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
       "is_watchlist": false,
@@ -506,7 +506,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
+      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
       "is_watchlist": false,
@@ -776,7 +776,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
       "is_watchlist": true,
@@ -833,44 +833,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stocks Close Lower on Worries About US Economy",
+      "headline": "Americas Gold and Silver Corporation Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-close-lower-worries-us-202538485.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/americas-gold-silver-corporation-q2-205047227.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:25:38+00:00",
+      "timestamp": "2026-08-14T20:50:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
+      "headline": "SK Hynix, IBD Stock Of The Day, Forming IPO Base But Actionable Now",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/sk-hynix-stock-forming-ipo-base/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:15:00+00:00",
+      "timestamp": "2026-08-14T20:50:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dear Reddit Stock Fans, Mark Your Calendars for August 18",
+      "headline": "Reddit Stock Jumps On S&P 500 News",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-reddit-stock-fans-mark-201127101.html",
+      "url": "https://www.investors.com/news/reddit-stock-jumps-on-sp-500-news/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:11:27+00:00",
+      "timestamp": "2026-08-14T20:50:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Top 3% Biotech Stock, Eton, Just Catapulted To A Record High",
+      "headline": "Elon Musk Reveals $900 Billion SpaceX Stake, Massive Voting Power",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/eton-stock-eton-pharmaceuticals-earnings-q2-2026/?src=A00220&yptr=yahoo",
+      "url": "https://www.investors.com/news/elon-musk-spacex-stake-48-ownership-voting-power-spcx-stock/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:10:32+00:00",
+      "timestamp": "2026-08-14T20:49:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Edible Garden AG Incorporated Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/edible-garden-ag-incorporated-q2-204737363.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T20:47:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1024,17 +1035,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-14T11:32:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T10:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
