@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T07:38:33.730980+00:00",
+  "generated_at": "2026-08-16T08:01:06.968061+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T07:38:33.728896+00:00",
+      "timestamp": "2026-08-16T08:01:06.965172+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T07:38:33.728892+00:00",
+      "timestamp": "2026-08-16T08:01:06.965168+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T07:38:33.728888+00:00",
+      "timestamp": "2026-08-16T08:01:06.965164+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T07:38:33.728873+00:00",
+      "timestamp": "2026-08-16T08:01:06.965148+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "German investment in the U.S. drops to three-year low amid policy uncertainty",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/german-investment-in-the-us-drops-to-threeyear-low-amid-policy-uncertainty-4861936",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:33:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Travel & leisure co. CFO Michael Brown sells $15,800 of stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/travel--leisure-co-cfo-michael-brown-sells-15800-of-stock-93CH-4861935",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:31:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Equitable holdings chief accounting officer sells $50,072 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/equitable-holdings-chief-accounting-officer-sells-50072-in-stock-93CH-4861934",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T07:31:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -127,39 +160,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
       "is_watchlist": false,
       "timestamp": "2026-08-16T07:02:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Scotts Miracle-Gro director Kingdon sells $51,226 in common shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/scotts-miraclegro-director-kingdon-sells-51226-in-common-shares-93CH-4861928",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T07:01:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NVR director George Oliver buys $405,185 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/nvr-director-george-oliver-buys-405185-in-company-stock-93CH-4861927",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T07:01:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Msa Safety chairman Nishan Vartanian sells $3.88m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/msa-safety-chairman-nishan-vartanian-sells-388m-in-shares-93CH-4861925",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T06:31:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -751,6 +751,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Jim Cramer Calls Post-Earnings Pullback in Ferguson Enterprises (FERG) a \u201cGift\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-post-earnings-000301430.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T00:03:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:58:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Reevaluates Novo Nordisk (NVO) as Wegovy Pill Adoption Accelerates",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-reevaluates-novo-nordisk-234244003.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:42:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can Keros Therapeutics (KROS)\u2019s $20M Takeda Pharmaceutical Company Limited (TAK) Milestone Unlock a Billion-Dollar Opportunity?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/keros-therapeutics-kros-20m-takeda-233712991.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:37:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-lumentum-lite-233522087.html",
@@ -779,50 +823,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-14T23:18:44+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon reinstates binding arbitration, bars class-action lawsuits",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/amazon-reinstates-binding-arbitration-bars-231548883.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:15:48+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is BeOne Medicines AG (ONC) Deal With Revolution Medicines (RVMD) a Win-Win for Both Companies?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/beone-medicines-ag-onc-deal-230926653.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:09:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "All eyes on the factory in Iran missile crunch",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/eyes-factory-iran-missile-crunch-230919425.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:09:19+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TurboTax Maker Intuit Leads 3 Cheap, Dividend-Paying Tech Stocks With Up to 151% Upside",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/turbotax-maker-intuit-leads-3-230002537.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:00:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
