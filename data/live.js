@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T19:55:57.756091+00:00",
+  "generated_at": "2026-08-16T20:21:39.701329+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:55:57.753776+00:00",
+      "timestamp": "2026-08-16T20:21:39.698893+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:55:57.753773+00:00",
+      "timestamp": "2026-08-16T20:21:39.698890+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:55:57.753770+00:00",
+      "timestamp": "2026-08-16T20:21:39.698888+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,43 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:55:57.753757+00:00",
+      "timestamp": "2026-08-16T20:21:39.698875+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:58:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:58:32+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Google\u2019s (GOOGL) Latest AI Model Arrives Amid A Bigger Balancing Act",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-googl-latest-ai-model-194743447.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:47:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -166,6 +199,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T19:01:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:00:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -357,17 +402,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Under Armour\u2019s Turnaround Hits a Wall as North America Demand Craters",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/under-armour-turnaround-hits-wall-160449561.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:04:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here are the 2 big things we're watching in the stock market in the week ahead",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
@@ -378,14 +412,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bending Spoons Beats on Earnings in Its Public Market Debut Quarter. Investors Focus on the Fine Print Instead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-beats-earnings-public-155821044.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:58:21+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=90ea0f6702915028466306dc32d9ddb346c5d425e0a2cf5670bc2e23d5e3d347",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T16:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -570,17 +605,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "India sets targets for oil companies to boost cooking gas output amid Middle East war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:51:44+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
@@ -698,18 +722,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T20:38:29+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Think interest rates are high now? These charts offer a different perspective.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
@@ -819,18 +831,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T12:30:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The 1-Minute Market Report, August 15, 2026",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ce73862075831bb9109582c2f118856aaf6c0b283d85d12d68227b9ac2efaba9",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T11:30:34+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
