@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-16T22:30:08.058508+00:00",
+  "generated_at": "2026-08-16T22:50:39.743714+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
