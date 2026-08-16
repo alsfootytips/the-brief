@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T08:01:06.968061+00:00",
+  "generated_at": "2026-08-16T08:47:15.948122+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:01:06.965172+00:00",
+      "timestamp": "2026-08-16T08:47:15.945221+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:01:06.965168+00:00",
+      "timestamp": "2026-08-16T08:47:15.945217+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:01:06.965164+00:00",
+      "timestamp": "2026-08-16T08:47:15.945213+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T08:01:06.965148+00:00",
+      "timestamp": "2026-08-16T08:47:15.945196+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,90 +78,114 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "German investment in the U.S. drops to three-year low amid policy uncertainty",
+      "headline": "Iron Mountain president & CEO William Meaney sells $4.68m in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/german-investment-in-the-us-drops-to-threeyear-low-amid-policy-uncertainty-4861936",
+      "url": "https://www.investing.com/news/insider-trading-news/iron-mountain-president--ceo-william-meaney-sells-468m-in-stock-93CH-4861947",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:33:56+00:00",
+      "timestamp": "2026-08-16T08:31:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Travel & leisure co. CFO Michael Brown sells $15,800 of stock",
+      "headline": "Ametek president David Hermance sells $1.68 million in AME shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/travel--leisure-co-cfo-michael-brown-sells-15800-of-stock-93CH-4861935",
+      "url": "https://www.investing.com/news/insider-trading-news/ametek-president-david-hermance-sells-168-million-in-ame-shares-93CH-4861946",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:31:09+00:00",
+      "timestamp": "2026-08-16T08:31:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Equitable holdings chief accounting officer sells $50,072 in stock",
+      "headline": "Origin Bancorp director Cecil Jones buys $199,282 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/equitable-holdings-chief-accounting-officer-sells-50072-in-stock-93CH-4861934",
+      "url": "https://www.investing.com/news/insider-trading-news/origin-bancorp-director-cecil-jones-buys-199282-in-stock-93CH-4861945",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:31:01+00:00",
+      "timestamp": "2026-08-16T08:31:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ameriprise EVP Deirdre McGraw sells $1.34 million in stock",
+      "headline": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ameriprise-evp-deirdre-mcgraw-sells-134-million-in-stock-93CH-4861932",
+      "url": "https://www.investing.com/news/economy-news/iran-war-commander-visits-uss-abraham-lincoln-as-carrier-prepares-to-return-home-4861886",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:16:08+00:00",
+      "timestamp": "2026-08-16T08:14:04+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Immunome director Isaac Barchas sells $940,453 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/immunome-director-isaac-barchas-sells-940453-in-common-stock-93CH-4861943",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T08:01:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Equitable Holdings director Charles Stonehill sells $386k in shares",
+      "headline": "Paylocity director Steven Sarowitz sells $1.68m of stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/equitable-holdings-director-charles-stonehill-sells-386k-in-shares-93CH-4861931",
+      "url": "https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-168m-of-stock-93CH-4861942",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:16:02+00:00",
+      "timestamp": "2026-08-16T08:01:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "German companies cut US investment to three-year low, data show",
+      "headline": "India opens tax amnesty scheme for small taxpayers with undisclosed foreign assets",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/german-companies-cut-us-investment-to-threeyear-low-data-show-4861926",
+      "url": "https://www.investing.com/news/economy-news/india-opens-tax-amnesty-scheme-for-small-taxpayers-with-undisclosed-foreign-assets-4861941",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:07:15+00:00",
+      "timestamp": "2026-08-16T08:00:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Central bank market backstops risk fuelling leverage and future crises",
+      "headline": "Velocity Financial CFO sells $36,320 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/central-bank-market-backstops-risk-fuelling-leverage-and-future-crises-4861929",
+      "url": "https://www.investing.com/news/insider-trading-news/velocity-financial-cfo-sells-36320-in-company-stock-93CH-4861938",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:05:50+00:00",
+      "timestamp": "2026-08-16T07:45:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin trapped in $62,500-$64,000 chop zone: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+      "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:02:04+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-16T07:38:25+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "APA",
+      "headline": "APA Corporation: Five Years Of Portfolio Discipline, One Deepwater Bet",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ebafc15406382ce6509be3f2d3aeba8aa99e05b68a0ac23cbc9f4c0c7002e33c",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T04:17:54+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: APA"
     },
     {
       "type": "news",
@@ -740,11 +764,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Applied Optoelectronics (AAOI) Expected to Announce Business Updates Next Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-expected-announce-033623370.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T03:36:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Scholar Rock Holding Corporation (SRRK) Better Positioned than Novo Nordisk A/S (NVO) After Recent Setbacks?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/scholar-rock-holding-corporation-srrk-014606520.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T01:46:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T01:37:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can Veeva Systems Inc. (VEEV)\u2019s AI Platform Keep Pace With Eli Lilly and Company (LLY)\u2019s Explosive Growth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/veeva-systems-inc-veev-ai-012836351.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T01:28:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Says Palantir (PLTR) Deserves a \u201cLittle Bit More Love\u201d After a Massive Surge",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-pltr-000702429.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T00:07:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -773,50 +841,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Reevaluates Novo Nordisk (NVO) as Wegovy Pill Adoption Accelerates",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-reevaluates-novo-nordisk-234244003.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:42:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Keros Therapeutics (KROS)\u2019s $20M Takeda Pharmaceutical Company Limited (TAK) Milestone Unlock a Billion-Dollar Opportunity?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/keros-therapeutics-kros-20m-takeda-233712991.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:37:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-lumentum-lite-233522087.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:35:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "2 charts: SpaceX closes $60B acquisition of Cursor",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/2-charts-spacex-closes-60b-231946293.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T23:19:46+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
@@ -824,21 +848,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-14T23:18:44+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T22:36:06+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1248,18 +1257,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=392114184eb72d0a4087a0ca43918d20cd99601f2d0c787bdddb39efdb14ded6",
       "is_watchlist": true,
       "timestamp": "2026-08-13T09:28:36+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Wells Fargo Maintains Equal-Weight on APA, Raises Price Target to $49",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f9d69fc3a0f39f388e501d68d84b3f0c18ab6eb507856172b35a7852e9f835b8",
-      "is_watchlist": true,
-      "timestamp": "2026-08-13T09:00:27+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
