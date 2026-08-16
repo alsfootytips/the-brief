@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T06:03:39.428718+00:00",
+  "generated_at": "2026-08-16T06:59:42.106065+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:03:39.425697+00:00",
+      "timestamp": "2026-08-16T06:59:42.103065+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:03:39.425693+00:00",
+      "timestamp": "2026-08-16T06:59:42.103062+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:03:39.425689+00:00",
+      "timestamp": "2026-08-16T06:59:42.103058+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T06:03:39.425671+00:00",
+      "timestamp": "2026-08-16T06:59:42.103043+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,88 +78,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Packaging Corp president Hassfurther sells $1.79 million in stock",
+      "headline": "German companies cut US investment to three-year low, data show",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/packaging-corp-president-hassfurther-sells-179-million-in-stock-93CH-4861916",
+      "url": "https://www.investing.com/news/economic-indicators/german-companies-cut-us-investment-to-threeyear-low-data-show-4861926",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T05:46:03+00:00",
+      "timestamp": "2026-08-16T06:36:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Canada\u2019s Zimar to build $1.9 billion refinery complex in Niger",
+      "headline": "Msa Safety chairman Nishan Vartanian sells $3.88m in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/canadas-zimar-to-build-19-billion-refinery-complex-in-niger-4861915",
+      "url": "https://www.investing.com/news/insider-trading-news/msa-safety-chairman-nishan-vartanian-sells-388m-in-shares-93CH-4861925",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T05:31:00+00:00",
+      "timestamp": "2026-08-16T06:31:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analysis-Europe\u2019s heatwaves expose insurance gap as business losses mount",
+      "headline": "China plans faster rollout of renewable-energy recycling rules - CCTV",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/analysiseuropes-heatwaves-expose-insurance-gap-as-business-losses-mount-4861914",
+      "url": "https://www.investing.com/news/economy-news/china-plans-faster-rollout-of-renewableenergy-recycling-rules--cctv-4861924",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T05:18:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Horizon Kinetics buys $345 of Texas Pacific Land (NYSE:TPL)",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-345-of-texas-pacific-land-nysetpl-93CH-4861913",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T05:00:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Romania shoots down drone that breached its airspace",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/romania-shoots-down-drone-that-breached-its-airspace-4861912",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T04:49:06+00:00",
+      "timestamp": "2026-08-16T06:26:33+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kearny Financial director Leopold Montanaro buys $45,152 in stock",
+      "headline": "Aehr VP Alistair Sporck sells $201,916 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kearny-financial-director-leopold-montanaro-buys-45152-in-stock-93CH-4861911",
+      "url": "https://www.investing.com/news/insider-trading-news/aehr-vp-alistair-sporck-sells-201916-in-company-stock-93CH-4861923",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T04:45:50+00:00",
+      "timestamp": "2026-08-16T06:18:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Neuroone Medical earnings missed by $0.10, revenue fell short of estimates",
+      "headline": "StoneX Group director John Fowler sells $118,770 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/neuroone-medical-earnings-missed-by-010-revenue-fell-short-of-estimates-4861910",
+      "url": "https://www.investing.com/news/insider-trading-news/stonex-group-director-john-fowler-sells-118770-in-company-stock-93CH-4861922",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T04:23:38+00:00",
+      "timestamp": "2026-08-16T06:18:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nexalin Technology earnings missed, revenue fell short of estimates",
+      "headline": "Richardson Electronics director Belin disposes of $107,300 in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/nexalin-technology-earnings-missed-revenue-fell-short-of-estimates-4861909",
+      "url": "https://www.investing.com/news/insider-trading-news/richardson-electronics-director-belin-disposes-of-107300-in-shares-93CH-4861921",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T04:23:32+00:00",
+      "timestamp": "2026-08-16T06:05:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netflix co-CEO Gregory Peters sells $2m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/netflix-coceo-gregory-peters-sells-2m-in-shares-93CH-4861920",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T06:01:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netflix director Richard Barton sells $162,216 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/netflix-director-richard-barton-sells-162216-in-stock-93CH-4861918",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T06:01:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -539,17 +539,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Berkshire adds $17 billion to Alphabet stake",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:50:41+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
@@ -762,12 +751,78 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "2 charts: SpaceX closes $60B acquisition of Cursor",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/2-charts-spacex-closes-60b-231946293.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:19:46+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "A $50 million hostage ransom funded al Qaeda's Mali offensive, UN says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkV1RXpqWTJ3NU1pZTBVaFNfdFZQOW04NXJjVUptcEk0YjhxbDM3aWNJMi1yQ2l0ZzF2dkdwYU42R1ZXcUdLNzg0T1NvRFR6eVhiMmZJMFlxb045VlRlTHFBZFI4WW0yNUswWHJ0NFViZ3hHTS1GdEVDaHg5YmRPQ01uNU9ZOVdxMnlvaHRydzZJMWpES1V4c1pPTHR3anFTNnFFd1ZheWE5cmJoUTRxbTVqUjNRalJZWWhz?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-14T23:18:44+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon reinstates binding arbitration, bars class-action lawsuits",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/amazon-reinstates-binding-arbitration-bars-231548883.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:15:48+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is BeOne Medicines AG (ONC) Deal With Revolution Medicines (RVMD) a Win-Win for Both Companies?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/beone-medicines-ag-onc-deal-230926653.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:09:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "All eyes on the factory in Iran missile crunch",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/eyes-factory-iran-missile-crunch-230919425.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:09:19+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TurboTax Maker Intuit Leads 3 Cheap, Dividend-Paying Tech Stocks With Up to 151% Upside",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/turbotax-maker-intuit-leads-3-230002537.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T23:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can AbCellera Biologics (ABCL)\u2019s Vertex Pharmaceuticals Incorporated (VRTX) Deal Turn its TCE Platform Into a Breakthrough?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/abcellera-biologics-abcl-vertex-pharmaceuticals-225359394.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T22:53:59+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -784,72 +839,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Biohaven (BHVN)\u2019s Latest Regeneron Pharmaceuticals (REGN) Deal a Major Catalyst for its Pipeline?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/biohaven-bhvn-latest-regeneron-pharmaceuticals-222352923.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:23:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could a Tesla (TSLA)-Space Exploration Technologies (SPCX) Merger Help Elon Musk Unlock his Massive Tesla Pay Package?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-space-exploration-220616552.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:06:16+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/us-regulator-approves-bank-charter-200528955.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:05:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Bank Triple Cash Rewards Visa Business Card review: A solid option for everyday business costs",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-triple-cash-rewards-visa-business-card-220252786.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T22:02:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:54:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soybeans Find Strength to Close the Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-strength-close-week-215344858.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:53:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -931,6 +920,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T18:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
