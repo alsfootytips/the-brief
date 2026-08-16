@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T13:31:29.668409+00:00",
+  "generated_at": "2026-08-16T14:00:03.388662+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T13:31:29.665525+00:00",
+      "timestamp": "2026-08-16T14:00:03.385846+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T13:31:29.665521+00:00",
+      "timestamp": "2026-08-16T14:00:03.385842+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T13:31:29.665517+00:00",
+      "timestamp": "2026-08-16T14:00:03.385838+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,120 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T13:31:29.665501+00:00",
+      "timestamp": "2026-08-16T14:00:03.385821+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lear Corp director Conrad Mallett Jr. sells $199,742 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/lear-corp-director-conrad-mallett-jr-sells-199742-in-stock-93CH-4861986",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:46:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netlist EVP and CFO Gail Sasaki sells $99,750 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/netlist-evp-and-cfo-gail-sasaki-sells-99750-in-company-stock-93CH-4861985",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:46:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:43:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. equity inflows triple week-on-week as Wall Street hovers near record levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-equity-inflows-triple-weekonweek-as-wall-street-hovers-near-record-levels-4861984",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:41:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Liberty Live earnings up next: Can revenue surge narrow losses?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/liberty-live-earnings-up-next-can-revenue-surge-narrow-losses-93CH-4861983",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:36:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Liberty Live earnings ahead as investors eye return to profit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/liberty-live-earnings-ahead-as-investors-eye-return-to-profit-93CH-4861982",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:35:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AnaptysBio earnings ahead: First results as royalty company",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/anaptysbio-earnings-ahead-first-results-as-royalty-company-93CH-4861981",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:35:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paysign CEO Mark Newcomer sells $1.78m in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-178m-in-common-stock-93CH-4861980",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:31:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Landmark Bancorp director Kohlrus buys $31,767 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-kohlrus-buys-31767-in-stock-93CH-4861979",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:31:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What the results of a Connecticut congressional primary race may mean for Social Security",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:30:01+00:00",
+      "relevance_score": -3.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -100,33 +210,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "With Fed mum on next move, investors look to earnings to keep stocks afloat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/with-fed-mum-on-next-move-investors-look-to-earnings-to-keep-stocks-afloat-4861978",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:00:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here\u2019s the real reason oil prices aren\u2019t moving higher",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-16T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.89%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-089-4861977",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:45:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -139,54 +227,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T12:35:44+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nyli MacKay portfolio manager John Lawlor sells $18,752 in MMD shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/nyli-mackay-portfolio-manager-john-lawlor-sells-18752-in-mmd-shares-93CH-4861975",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:30:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. said to have negotiated directly with Iran\u2019s IRGC in May",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-said-to-have-negotiated-directly-with-irans-irgc-in-may-4861974",
-      "is_watchlist": true,
-      "timestamp": "2026-08-16T12:19:25+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sonoco products CEO R. Howard Coker buys $249k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sonoco-products-ceo-r-howard-coker-buys-249k-in-company-stock-93CH-4861973",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:16:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ArcBest director Judy McReynolds sells $397,065 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/arcbest-director-judy-mcreynolds-sells-397065-in-shares-93CH-4861972",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:15:56+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -225,33 +265,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Atn International director Prior sells $223,744 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/atn-international-director-prior-sells-223744-in-company-stock-93CH-4861971",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:01:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The Mediterranean diet is the best out there. Here\u2019s why Americans struggle with it.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-16T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia scales back OpenAI data-center guarantee to less than $120B, WSJ reports",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633594-nvidia-scales-back-openai-data-center-guarantee-to-less-than-120b-wsj-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T11:59:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -299,17 +317,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vivos Inc CEO Michael Korenko acquires $7,965 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/vivos-inc-ceo-michael-korenko-acquires-7965-in-common-stock-93CH-4861970",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T11:45:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -377,6 +384,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T09:45:45+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave: Strong Buy With Swing Trade Prospects - AI Bottleneck Mitigates Headwinds",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7002d02a0835ecc3a7d9a7df5facafdd9bbfe8e61fec83dc602ebdb083c443d8",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T09:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -691,6 +710,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Real estate lawyers reveal why calling police won't help when a previous owner refuses to leave your new home",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/real-estate-lawyers-reveal-why-123000978.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet Counts the Ka-Ching With SpaceX Returns",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-counts-ka-ching-spacex-123000680.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T12:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Why US boomers seriously need to prepare for a stock market crash before it\u2019s too late \u2014 3 red flags and what to do now",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-us-boomers-seriously-prepare-121500467.html",
@@ -734,18 +786,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Markets just flipped the script on Kevin Warsh's Fed: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/markets-just-flipped-the-script-on-kevin-warshs-fed-chart-of-the-day-114428977.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:44:28+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "The 1-Minute Market Report, August 15, 2026",
       "source": "SeekingAlpha",
@@ -755,28 +795,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Retirees with $2.5 million want to pay off their $200K mortgage \u2014 but a hidden tax hit could cost them $60K",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/retirees-2-5-million-want-113000536.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AppLovin\u2019s Real Problem Isn\u2019t Revenue \u2013 It\u2019s How the Growth Engine Actually Works",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-real-problem-isn-t-112602774.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T11:26:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -801,18 +819,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T09:51:55+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -978,17 +984,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T18:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

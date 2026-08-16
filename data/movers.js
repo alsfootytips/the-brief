@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-16T13:31:29.662170+00:00",
+  "generated_at": "2026-08-16T14:00:03.382575+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -213,7 +213,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)\""
+      "move_reason": "News: \"CoreWeave: Strong Buy With Swing Trade Prospects - AI Bottleneck Mitigates Headwinds\""
     },
     {
       "ticker": "META",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Avoid Chasing, Even If You Missed The Ride (Rating Downgrade)\""
+      "move_reason": "News: \"CoreWeave: Strong Buy With Swing Trade Prospects - AI Bottleneck Mitigates Headwinds\""
     },
     {
       "ticker": "DG",
@@ -688,13 +688,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
+        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
