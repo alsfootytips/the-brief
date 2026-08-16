@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T17:45:51.598860+00:00",
+  "generated_at": "2026-08-16T17:59:53.278022+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:45:51.595914+00:00",
+      "timestamp": "2026-08-16T17:59:53.275115+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:45:51.595911+00:00",
+      "timestamp": "2026-08-16T17:59:53.275112+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:45:51.595906+00:00",
+      "timestamp": "2026-08-16T17:59:53.275107+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,21 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T17:45:51.595890+00:00",
+      "timestamp": "2026-08-16T17:59:53.275090+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top global stories last week: JD.com, SK Hynix among notable names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633611-top-global-stories-last-week-jdcom-sk-hynix-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T17:46:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -325,17 +336,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
       "is_watchlist": false,
       "timestamp": "2026-08-16T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic CEO\u2019s wife emerges as influential adviser ahead of potential IPO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633600-anthropic-ceo-s-wife-emerges-as-influential-adviser-ahead-of-potential-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T14:49:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
