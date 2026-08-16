@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T15:50:21.051260+00:00",
+  "generated_at": "2026-08-16T16:24:34.331169+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:50:21.048341+00:00",
+      "timestamp": "2026-08-16T16:24:34.328358+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:50:21.048338+00:00",
+      "timestamp": "2026-08-16T16:24:34.328354+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:50:21.048334+00:00",
+      "timestamp": "2026-08-16T16:24:34.328350+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T15:50:21.048317+00:00",
+      "timestamp": "2026-08-16T16:24:34.328333+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Calm markets mask risk of sudden S&P 500 swings",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633605-calm-markets-mask-risk-of-sudden-s-and-p-500-swings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T16:01:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SentinelOne chief accounting officer Robin Tomasello sells $109,799 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sentinelone-chief-accounting-officer-robin-tomasello-sells-109799-in-stock-93CH-4861996",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T16:01:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Roku president Fuchsberg sells $1.6m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/roku-president-fuchsberg-sells-16m-in-shares-93CH-4861995",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T16:01:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Workday Has Its Best Day in a Decade on Report of a Potential $43 Billion Buyout",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/workday-best-day-decade-report-155053377.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T15:50:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -177,6 +221,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Trump's envoys in Middle East to push for Gaza peace plan - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T14:35:19+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Iranian parliament advances bill to curb foreign influence - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
@@ -254,39 +309,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jim Cramer Tells Caller to Average Down on Netflix (NFLX)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:51:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lear Corp director Conrad Mallett Jr. sells $199,742 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/lear-corp-director-conrad-mallett-jr-sells-199742-in-stock-93CH-4861986",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:46:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netlist EVP and CFO Gail Sasaki sells $99,750 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/netlist-evp-and-cfo-gail-sasaki-sells-99750-in-company-stock-93CH-4861985",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:46:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -327,17 +349,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T13:07:44+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: Eli Lilly, Hims & Hers Health, and Merck in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633536-notable-healthcare-headlines-for-the-week-eli-lilly-hims-and-hers-health-and-merck-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:05:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -640,6 +651,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Democrats pick South Carolina as first 2028 primary state\u200b\u200b - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUdUWnZta0dqWnVmdERxVEg1ay1leG1IZWQyUVJ2U1Y2cVJSNjg2X1BZWHRBOV9ZemJnT1pVeGpoRUt4ekFaTER1NUhVcEtObFd2X1doR2x2SnpGaDNGTEFOaUNDdUpZOVJPQ1Z5Q1d0YkQ3YlE0NGl4a0xrZ2VrdjBOdlpfdnN3aEsxZHJCcFd5M1lOZHRmWnVrd0NiaUYt?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T20:07:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
@@ -647,21 +669,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-15T20:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-15T19:28:45+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -672,17 +679,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T19:01:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:33:50+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
