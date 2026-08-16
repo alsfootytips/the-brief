@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T11:19:56.565611+00:00",
+  "generated_at": "2026-08-16T11:45:22.438427+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:19:56.562657+00:00",
+      "timestamp": "2026-08-16T11:45:22.435551+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:19:56.562653+00:00",
+      "timestamp": "2026-08-16T11:45:22.435548+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:19:56.562649+00:00",
+      "timestamp": "2026-08-16T11:45:22.435544+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,69 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:19:56.562631+00:00",
+      "timestamp": "2026-08-16T11:45:22.435527+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia is becoming the 'Federal Reserve of AI'",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633593-nvidia-is-becoming-the-federal-reserve-of-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:22:39+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-hits-steel-plant-in-new-strikes-on-ukraine-kyiv-attacks-moscow-region-4861966",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:18:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Globalfoundries chief legal officer Samak L Azar sells $16,177 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/globalfoundries-chief-legal-officer-samak-l-azar-sells-16177-in-stock-93CH-4861969",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:15:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro Fair Value nails 68% return on LiveRamp in 5 months",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-nails-68-return-on-liveramp-in-5-months-93CH-4861968",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:09:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts\u200b",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/massachusetts-antihunger-advocate-fasts-to-protest-trump-food-stamp-cuts-4861967",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T11:06:50+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -145,45 +204,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Matthews International director Schawk acquires $118,000 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/matthews-international-director-schawk-acquires-118000-in-stock-93CH-4861959",
+      "headline": "India sets targets for oil companies to boost cooking gas output amid Middle East war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T10:00:58+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wildberries warehouse burns near Moscow as Russia strikes across Ukraine",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/wildberries-warehouse-burns-near-moscow-as-russia-strikes-across-ukraine-4861958",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:46:21+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HRT Financial LP sells Profusa shares for $1,234",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-lp-sells-profusa-shares-for-1234-93CH-4861957",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:45:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citizens & Northern director Frank Pellegrino buys $5,244 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/citizens--northern-director-frank-pellegrino-buys-5244-in-stock-93CH-4861956",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:45:50+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-16T09:51:44+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -499,17 +525,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How value, viral marketing, and better operations helped Chili's turn the tables on fast food",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633338-how-value-viral-marketing-and-better-operations-helped-chilis-turn-the-tables-on-fast-food?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:30:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
@@ -587,17 +602,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T13:00:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Berkshire adds $17 billion to Alphabet stake",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
@@ -656,6 +660,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "American Auto\u2019s Retreat From China Accelerates as GM and Ford Both Pull Back",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-auto-retreat-china-accelerates-104824554.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:48:24+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Larry Fink\u2019s brutal warning to Americans: This everyday habit is \u2018one of the worst financial decisions\u2019 of your life",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-brutal-warning-americans-103500383.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:35:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Eli Lilly\u2019s Weight-Loss Pill Just Got Its First Foothold in Europe",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-weight-loss-pill-103007818.html",
@@ -683,17 +709,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/articles/americans-added-21b-credit-cards-101500667.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T10:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -755,17 +770,6 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'You have absolutely no expenses': Suze Orman says the perks your job quietly covers could blow up your retirement math",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/absolutely-no-expenses-suze-orman-093000555.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T09:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
