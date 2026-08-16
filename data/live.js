@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T09:52:49.048793+00:00",
+  "generated_at": "2026-08-16T10:22:35.846829+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:52:49.045774+00:00",
+      "timestamp": "2026-08-16T10:22:35.843978+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:52:49.045771+00:00",
+      "timestamp": "2026-08-16T10:22:35.843974+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:52:49.045767+00:00",
+      "timestamp": "2026-08-16T10:22:35.843970+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T09:52:49.045749+00:00",
+      "timestamp": "2026-08-16T10:22:35.843954+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Matthews International director Schawk acquires $118,000 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/matthews-international-director-schawk-acquires-118000-in-stock-93CH-4861959",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T10:00:58+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wildberries warehouse burns near Moscow as Russia strikes across Ukraine",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/wildberries-warehouse-burns-near-moscow-as-russia-strikes-across-ukraine-4861958",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:46:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HRT Financial LP sells Profusa shares for $1,234",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hrt-financial-lp-sells-profusa-shares-for-1234-93CH-4861957",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:45:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citizens & Northern director Frank Pellegrino buys $5,244 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/citizens--northern-director-frank-pellegrino-buys-5244-in-stock-93CH-4861956",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T09:45:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -133,55 +177,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pennant group CEO Brent Guerisoli sells $165,066 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pennant-group-ceo-brent-guerisoli-sells-165066-in-shares-93CH-4861950",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:01:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pennant group chief clinical officer sells $53,699 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pennant-group-chief-clinical-officer-sells-53699-in-stock-93CH-4861948",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:01:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "First Commonwealth Financial director Grebenc sells $325,453 of stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-director-grebenc-sells-325453-of-stock-93CH-4861949",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:01:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-bullish-on-memory-names-apple-and-cisco-downgraded-4861817",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:00:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T07:38:25+00:00",
+      "timestamp": "2026-08-16T08:27:55+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -568,7 +568,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T14:13:45+00:00",
+      "timestamp": "2026-08-15T13:42:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -644,12 +644,34 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "How New Mexico\u2019s $567 Million Ruling Could Change Meta",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mexico-567-million-ruling-could-102545540.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:25:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Americans added $21B to credit cards \u2014 now 20%+ interest is crushing budgets. Time to use Dave Ramsey\u2019s escape hatch?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/articles/americans-added-21b-credit-cards-101500667.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T10:15:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T10:02:05+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -709,17 +731,6 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Magnitude 7.7 quake kills 38 on Indonesia\u2019s Flores island",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-14/powerful-7-7-magnitude-earthquake-strikes-near-indonesia",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T09:36:27+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -823,17 +834,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-15T03:58:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Applied Optoelectronics (AAOI) Expected to Announce Business Updates Next Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-expected-announce-033623370.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T03:36:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
