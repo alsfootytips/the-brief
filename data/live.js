@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T03:55:13.138773+00:00",
+  "generated_at": "2026-08-16T04:35:56.183992+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:55:13.135944+00:00",
+      "timestamp": "2026-08-16T04:35:56.181122+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:55:13.135940+00:00",
+      "timestamp": "2026-08-16T04:35:56.181118+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:55:13.135936+00:00",
+      "timestamp": "2026-08-16T04:35:56.181114+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,32 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T03:55:13.135920+00:00",
+      "timestamp": "2026-08-16T04:35:56.181097+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can SpaceX Leap to the AI Frontier?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/can-spacex-leap-to-the-ai-frontier-4861908",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T04:11:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crocs CEO Andrew Rees sells over $4.1m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/crocs-ceo-andrew-rees-sells-over-41m-in-stock-93CH-4861906",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T04:01:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -144,28 +166,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Aehr Test Systems VP Alistair Sporck sells $108,490 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/aehr-test-systems-vp-alistair-sporck-sells-108490-in-common-stock-93CH-4861895",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T01:46:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Just 13% of U.S. large-cap stock-picking funds beat benchmarks over decade",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/just-13-of-us-largecap-stockpicking-funds-beat-benchmarks-over-decade-4861893",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T01:37:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump asks Americans to accept high pump prices as Iran standoff drags on",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633590-trump-asks-americans-to-accept-high-pump-prices-as-iran-standoff-drags-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -226,7 +226,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - reuters.com",
+      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
       "is_watchlist": true,
@@ -260,7 +260,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - reuters.com",
+      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11\u200b\u200b\u200b - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
       "is_watchlist": false,
@@ -473,7 +473,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Israeli strike kills seven in south Lebanon, state news reports\u200b - reuters.com",
+      "headline": "Israeli strike kills seven in south Lebanon, state news reports\u200b - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
       "is_watchlist": false,
@@ -506,7 +506,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - reuters.com",
+      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
       "is_watchlist": false,
@@ -776,7 +776,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
+      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
       "is_watchlist": true,
@@ -833,55 +833,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Americas Gold and Silver Corporation Q2 2026 Earnings Call Summary",
+      "headline": "Speed Beats Stagnation In Sphere Stock Swing Trade",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/americas-gold-silver-corporation-q2-205047227.html",
+      "url": "https://www.investors.com/research/swing-trading/speed-beats-stagnation-in-sphere-stock-swing-trade/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:50:47+00:00",
+      "timestamp": "2026-08-14T21:12:32+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices rally, US data dents chances of Fed rate hike",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:12:15+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:05:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SK Hynix, IBD Stock Of The Day, Forming IPO Base But Actionable Now",
+      "headline": "Super League Enterprise, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/sk-hynix-stock-forming-ipo-base/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-league-enterprise-inc-q2-210148670.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:50:41+00:00",
+      "timestamp": "2026-08-14T21:01:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Reddit Stock Jumps On S&P 500 News",
+      "headline": "ETF League Tables: Avantis Picks Up $653M",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/reddit-stock-jumps-on-sp-500-news/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-avantis-picks-210034950.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:50:33+00:00",
+      "timestamp": "2026-08-14T21:00:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Elon Musk Reveals $900 Billion SpaceX Stake, Massive Voting Power",
+      "headline": "Daily ETF Flows: Money Pours Into IWD",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/elon-musk-spacex-stake-48-ownership-voting-power-spcx-stock/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-money-pours-210004316.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T20:49:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Edible Garden AG Incorporated Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/edible-garden-ag-incorporated-q2-204737363.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T20:47:37+00:00",
+      "timestamp": "2026-08-14T21:00:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1368,17 +1380,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/10/gold-just-had-its-best-week-in-7-months-heres-why-mike-khouw-is-buying-more.html",
       "is_watchlist": false,
       "timestamp": "2026-08-10T16:09:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tech stocks today: Shares slide Friday, but close out the week higher",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-shares-slide-friday-but-close-out-the-week-higher-135605566.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-10T13:56:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
