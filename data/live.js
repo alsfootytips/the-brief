@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T01:52:32.903134+00:00",
+  "generated_at": "2026-08-16T03:00:12.350969+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T01:52:32.900068+00:00",
+      "timestamp": "2026-08-16T03:00:12.348148+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T01:52:32.900065+00:00",
+      "timestamp": "2026-08-16T03:00:12.348145+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T01:52:32.900060+00:00",
+      "timestamp": "2026-08-16T03:00:12.348140+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,87 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T01:52:32.900043+00:00",
+      "timestamp": "2026-08-16T03:00:12.348124+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fires erupt across Kyiv after Russian missile strike, one injured",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/fires-erupt-across-kyiv-after-russian-missile-strike-one-injured-4861901",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T02:39:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Everus Construction VP Sanderson sells $451,077 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/everus-construction-vp-sanderson-sells-451077-in-company-stock-93CH-4861900",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T02:31:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Peter Thiel buys 1% stake in Argentina\u2019s Vista Energy",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/peter-thiel-buys-1-stake-in-argentinas-vista-energy-4861898",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T02:02:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "McKesson director Bradley Lerman sells $268,589 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/mckesson-director-bradley-lerman-sells-268589-in-shares-93CH-4861896",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T02:00:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aehr Test Systems VP Alistair Sporck sells $108,490 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/aehr-test-systems-vp-alistair-sporck-sells-108490-in-common-stock-93CH-4861895",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T01:46:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Just 13% of U.S. large-cap stock-picking funds beat benchmarks over decade",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/just-13-of-us-largecap-stockpicking-funds-beat-benchmarks-over-decade-4861893",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T01:37:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/billionaire-peter-thiel-buys-1-stake-in-argentine-vaca-muerta-oil-firm-filing-shows-4861892",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T01:36:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -89,28 +166,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Amalgamated Financial director Mark Finser sells $39,880 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/amalgamated-financial-director-mark-finser-sells-39880-in-shares-93CH-4861889",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T00:45:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UFP Technologies executive chairman Bailly sells $4.1m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ufp-technologies-executive-chairman-bailly-sells-41m-in-shares-93CH-4861888",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T00:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump asks Americans to accept high pump prices as Iran standoff drags on",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633590-trump-asks-americans-to-accept-high-pump-prices-as-iran-standoff-drags-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -119,62 +174,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arlo technologies director Amy Rothstein sells $149,218 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/arlo-technologies-director-amy-rothstein-sells-149218-in-stock-93CH-4861887",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T00:15:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-war-commander-visits-uss-abraham-lincoln-as-carrier-prepares-to-return-home-4861886",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T00:01:12+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Extreme Networks director Raj Khanna sells $363,001 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/extreme-networks-director-raj-khanna-sells-363001-in-stock-93CH-4861884",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:49:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Phillips 66 SVP and controller Kluppel sells $1.65m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/phillips-66-svp-and-controller-kluppel-sells-165m-in-stock-93CH-4861883",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:45:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Viasat SVP Robert Blair sells $2.15m in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/viasat-svp-robert-blair-sells-215m-in-common-stock-93CH-4861882",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T23:45:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -834,66 +833,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+      "headline": "Stocks Close Lower on Worries About US Economy",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-close-lower-worries-us-202538485.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T19:27:54+00:00",
+      "timestamp": "2026-08-14T20:25:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Applied Materials Stock Is Down on Earnings. Here\u2019s What Barchart Options Data Says Could Come Next for AMAT.",
+      "headline": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-stock-down-earnings-192729110.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T19:27:29+00:00",
+      "timestamp": "2026-08-14T20:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Embraer (EMBJ) Raised Its Cash Flow Floor to $400M. How Much Is Repeatable?",
+      "headline": "Dear Reddit Stock Fans, Mark Your Calendars for August 18",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/embraer-embj-raised-cash-flow-192652786.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-reddit-stock-fans-mark-201127101.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T19:26:52+00:00",
+      "timestamp": "2026-08-14T20:11:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nat-Gas Prices Move Higher on Warm US Forecasts",
+      "headline": "Why Top 3% Biotech Stock, Eton, Just Catapulted To A Record High",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-move-higher-192600415.html",
+      "url": "https://www.investors.com/news/technology/eton-stock-eton-pharmaceuticals-earnings-q2-2026/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-14T19:26:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oil-set-weekly-gains-us-110155136.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:21:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IPO Stock Of The Week: Marex Attempts Breakout With Rally To Record Highs",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/stock-lists/ipo-analysis/marex-stock-mrx-new-buy-point/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T19:18:17+00:00",
+      "timestamp": "2026-08-14T20:10:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1047,6 +1024,17 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-14T11:32:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T10:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1380,6 +1368,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/10/gold-just-had-its-best-week-in-7-months-heres-why-mike-khouw-is-buying-more.html",
       "is_watchlist": false,
       "timestamp": "2026-08-10T16:09:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tech stocks today: Shares slide Friday, but close out the week higher",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-shares-slide-friday-but-close-out-the-week-higher-135605566.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-10T13:56:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
