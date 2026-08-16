@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T04:35:56.183992+00:00",
+  "generated_at": "2026-08-16T05:06:06.710729+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T04:35:56.181122+00:00",
+      "timestamp": "2026-08-16T05:06:06.707935+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T04:35:56.181118+00:00",
+      "timestamp": "2026-08-16T05:06:06.707932+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T04:35:56.181114+00:00",
+      "timestamp": "2026-08-16T05:06:06.707929+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T04:35:56.181097+00:00",
+      "timestamp": "2026-08-16T05:06:06.707914+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Romania shoots down drone that breached its airspace",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/romania-shoots-down-drone-that-breached-its-airspace-4861912",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T04:49:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kearny Financial director Leopold Montanaro buys $45,152 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kearny-financial-director-leopold-montanaro-buys-45152-in-stock-93CH-4861911",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T04:45:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Neuroone Medical earnings missed by $0.10, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/neuroone-medical-earnings-missed-by-010-revenue-fell-short-of-estimates-4861910",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T04:23:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nexalin Technology earnings missed, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/nexalin-technology-earnings-missed-revenue-fell-short-of-estimates-4861909",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T04:23:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -116,50 +160,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/popular-evp-lidio-soriano-sells-523515-in-company-stock-93CH-4861902",
       "is_watchlist": false,
       "timestamp": "2026-08-16T03:00:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fires erupt across Kyiv after Russian missile strike, one injured",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/fires-erupt-across-kyiv-after-russian-missile-strike-one-injured-4861901",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T02:39:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Everus Construction VP Sanderson sells $451,077 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/everus-construction-vp-sanderson-sells-451077-in-company-stock-93CH-4861900",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T02:31:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Peter Thiel buys 1% stake in Argentina\u2019s Vista Energy",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/peter-thiel-buys-1-stake-in-argentinas-vista-energy-4861898",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T02:02:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "McKesson director Bradley Lerman sells $268,589 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mckesson-director-bradley-lerman-sells-268589-in-shares-93CH-4861896",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T02:00:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -788,12 +788,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Corn Following Wheat Higher on Friday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-following-wheat-higher-friday-215344115.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:53:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soybeans Find Strength to Close the Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-strength-close-week-215344858.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:53:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cotton Heads into the Weekend with Strength",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-heads-weekend-strength-215344056.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:53:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:45:19+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The $120 billion market for coveted pre-IPO stock enters its scaling era",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/120-billion-market-coveted-pre-214440693.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:44:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can Fiserv (FISV)\u2019s Turnaround Close the Gap With Mastercard Incorporated (MA)\u2019s Growth Machine?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-turnaround-close-gap-214403779.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:44:03+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -807,6 +862,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Liberty Gets Conditional OCC Approval to Issue USD1 Through National Trust Bank",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/world-liberty-gets-conditional-occ-213500065.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-14T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -827,73 +893,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:20:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Speed Beats Stagnation In Sphere Stock Swing Trade",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/swing-trading/speed-beats-stagnation-in-sphere-stock-swing-trade/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:12:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil prices rally, US data dents chances of Fed rate hike",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:12:15+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:05:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Super League Enterprise, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-league-enterprise-inc-q2-210148670.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:01:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ETF League Tables: Avantis Picks Up $653M",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-avantis-picks-210034950.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:00:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Daily ETF Flows: Money Pours Into IWD",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-money-pours-210004316.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:00:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
