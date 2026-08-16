@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T19:33:52.900224+00:00",
+  "generated_at": "2026-08-16T19:55:57.756091+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:33:52.897301+00:00",
+      "timestamp": "2026-08-16T19:55:57.753776+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:33:52.897297+00:00",
+      "timestamp": "2026-08-16T19:55:57.753773+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:33:52.897293+00:00",
+      "timestamp": "2026-08-16T19:55:57.753770+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,54 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T19:33:52.897275+00:00",
+      "timestamp": "2026-08-16T19:55:57.753757+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Colombia seeks temporary U.S. tariff relief after deadly earthquake",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633614-colombia-seeks-temporary-u-s-tariff-relief-after-deadly-earthquake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:43:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-sasha-quinton-sells-over-12m-in-stock-93CH-4862008",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:32:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55m-in-company-stock-93CH-4862007",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:32:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:31:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -291,45 +335,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Morgan Stanley says disinflation is here, but risks to 2027 rate outlook remain",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/morgan-stanley-says-disinflation-is-here-but-risks-to-2027-rate-outlook-remain-4862000",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:59:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Charlie Ergen\u2019s CONX to acquire control of MobileX in $200M deal",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633609-charlie-ergen-s-conx-to-acquire-control-of-mobilex-in-200m-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:58:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iranian parliament advances bill to curb foreign influence - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-16T16:43:44+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Search teams comb rubble in Colombia nearly a week after quake as aid effort expands",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/search-teams-comb-rubble-in-colombia-nearly-a-week-after-quake-as-aid-effort-expands-4861998",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T16:24:28+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -374,17 +385,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T15:58:21+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Workday Has Its Best Day in a Decade on Report of a Potential $43 Billion Buyout",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/workday-best-day-decade-report-155053377.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:50:53+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
