@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-16T11:45:22.438427+00:00",
+  "generated_at": "2026-08-16T12:00:33.213566+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:45:22.435551+00:00",
+      "timestamp": "2026-08-16T12:00:33.210699+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:45:22.435548+00:00",
+      "timestamp": "2026-08-16T12:00:33.210695+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:45:22.435544+00:00",
+      "timestamp": "2026-08-16T12:00:33.210690+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,66 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-16T11:45:22.435527+00:00",
+      "timestamp": "2026-08-16T12:00:33.210673+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia scales back OpenAI data-center guarantee to less than $120B, WSJ reports",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633594-nvidia-scales-back-openai-data-center-guarantee-to-less-than-120b-wsj-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:59:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:58:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. oil reserves hit the lowest level seen in over 40 years",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5930403/u-s-oil-reserves-hit-the-lowest-level-seen-in-over-40-years",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:46:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Companies are getting tariff refunds of up to $2 billion from the Trump administration",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5930384/companies-are-getting-tariff-refunds-of-up-to-2-billion-from-the-trump-administration",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:46:27+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vivos Inc CEO Michael Korenko acquires $7,965 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/vivos-inc-ceo-michael-korenko-acquires-7965-in-common-stock-93CH-4861970",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T11:45:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -181,17 +237,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Euronet director Thomas McDonnell buys $55,138 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/euronet-director-thomas-mcdonnell-buys-55138-in-company-stock-93CH-4861962",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T10:16:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Explainer: Trump wants more economic pressure on Iran. What are his options? - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
@@ -233,6 +278,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T08:27:55+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "TPL",
+      "headline": "LandBridge: My Biggest Investment Ever Is Just Getting Started",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da8998b963d1ffe7b439f88cccf55c12a61f5432a1d558b670ef6e69b0586818",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T07:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -503,17 +560,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Real estate stocks show mixed performance; data center REITs gain, health care REITs lose",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633485-real-estate-stocks-show-mixed-performance-data-center-reits-gain-health-care-reits-lose?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:00:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html",
@@ -563,6 +609,17 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-15T14:43:31+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T14:35:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -715,9 +772,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY",
+      "headline": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-15-2026-best-cd-account-earns-430-apy-100000412.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -851,17 +908,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T01:37:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:45:19+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1014,18 +1060,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-14T14:47:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "Borr Drilling Prices $260M Of 3.50% Convertible Senior Notes Due 2033 At $8.00 Per Share To Repurchase 2028 Convertible Bonds",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8761cb3f565ae6de46670dc848d5c6034a2d59318d85144890e70404839492fd",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T14:38:57+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1292,28 +1326,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI chatbots are offering financial advice. Should you trust them?",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-      "is_watchlist": false,
-      "timestamp": "2026-08-12T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "filing",
       "ticker": "NBIS",
       "form": "6-K",
@@ -1414,17 +1426,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
       "is_watchlist": false,
       "timestamp": "2026-08-09T12:00:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here\u2019s why",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-07T20:33:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }

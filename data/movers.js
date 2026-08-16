@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-16T11:45:22.432272+00:00",
+  "generated_at": "2026-08-16T12:00:33.207403+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top S&P500 movers in Friday's session\""
+      "move_reason": "News: \"LandBridge: My Biggest Investment Ever Is Just Getting Started\""
     },
     {
       "ticker": "PWR",
@@ -171,7 +171,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.69,
+      "volume_ratio": 0.65,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -332,6 +332,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 776.34,
+      "change_pct": -0.2,
+      "volume_ratio": 0.89,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLF",
       "name": "Financial Select Sector",
       "price": 58.16,
@@ -340,17 +351,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "QQQ",
-      "name": "Invesco QQQ Trust",
-      "price": 731.07,
-      "change_pct": -0.14,
-      "volume_ratio": 0.85,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
       "move_reason": ""
     }
   ],
@@ -497,7 +497,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top S&P500 movers in Friday's session\""
+      "move_reason": "News: \"LandBridge: My Biggest Investment Ever Is Just Getting Started\""
     },
     {
       "ticker": "TTD",
@@ -555,6 +555,16 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 776.34,
+      "change_pct": -0.2,
+      "volume_ratio": 0.89,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false
     }
   ],
   "sectors": [
@@ -604,7 +614,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.69,
+      "volume_ratio": 0.65,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -614,7 +624,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.27,
       "change_pct": 0.33,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
