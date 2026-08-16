@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-16T14:00:03.382575+00:00",
+  "generated_at": "2026-08-16T14:31:56.317542+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -107,7 +107,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking Berkshire Hathaway Portfolio - Q2 2026 Update\""
+      "move_reason": "News: \"Dividend Announcements: August 1-7, 2026\""
     },
     {
       "ticker": "DG",
@@ -142,7 +142,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Record Highs: Should You Chase The Rally?\""
+      "move_reason": "News: \"The S&P 500 May Be Heading For A Major Volatility Shift This Week\""
     },
     {
       "ticker": "XLB",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Record Highs: Should You Chase The Rally?\""
+      "move_reason": "News: \"The S&P 500 May Be Heading For A Major Volatility Shift This Week\""
     },
     {
       "ticker": "NBIS",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking Berkshire Hathaway Portfolio - Q2 2026 Update\""
+      "move_reason": "News: \"Dividend Announcements: August 1-7, 2026\""
     },
     {
       "ticker": "PWR",
@@ -688,13 +688,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
