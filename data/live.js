@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T02:59:32.683297+00:00",
+  "generated_at": "2026-08-17T03:56:57.174822+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T02:59:32.680657+00:00",
+      "timestamp": "2026-08-17T03:56:57.172141+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T02:59:32.680653+00:00",
+      "timestamp": "2026-08-17T03:56:57.172138+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T02:59:32.680649+00:00",
+      "timestamp": "2026-08-17T03:56:57.172134+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T02:59:32.680632+00:00",
+      "timestamp": "2026-08-17T03:56:57.172118+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,67 +78,90 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Aurizon FY2026 slides: profit surges 24% despite coal headwinds",
+      "headline": "Alphabet eyes inaugural Australian dollar bond, bookrunner\u2019s message says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/aurizon-fy2026-slides-profit-surges-24-despite-coal-headwinds-93CH-4862081",
+      "url": "https://www.investing.com/news/stock-market-news/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-4862099",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T02:42:56+00:00",
+      "timestamp": "2026-08-17T03:42:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "From coffee to hotpot, brands race to grab a bite of China\u2019s growing burger market",
+      "headline": "Earnings call transcript: Fiducian H2 2026 profit hit by ASIC penalty",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/from-coffee-to-hotpot-brands-race-to-grab-a-bite-of-chinas-growing-burger-market-4862025",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fiducian-h2-2026-profit-hit-by-asic-penalty-93CH-4862098",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T02:42:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tenet Healthcare director Roy Blunt sells $157,608 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/tenet-healthcare-director-roy-blunt-sells-157608-in-company-stock-93CH-4862080",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T02:30:59+00:00",
+      "timestamp": "2026-08-17T03:41:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Aurizon FY 2026 profit rises as stock falls 10%",
+      "headline": "Katie Evans, Magnite president, sells $480,000 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aurizon-fy-2026-profit-rises-as-stock-falls-10-93CH-4862079",
+      "url": "https://www.investing.com/news/insider-trading-news/katie-evans-magnite-president-sells-480000-in-stock-93CH-4862096",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T02:30:42+00:00",
+      "timestamp": "2026-08-17T03:31:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region",
+      "headline": "Cohen & Co CFO Joseph Pooler Jr. sells $102,966 in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-hits-steel-plant-in-new-strikes-on-ukraine-kyiv-attacks-moscow-region-4861966",
+      "url": "https://www.investing.com/news/insider-trading-news/cohen--co-cfo-joseph-pooler-jr-sells-102966-in-shares-93CH-4862097",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T02:30:32+00:00",
+      "timestamp": "2026-08-17T03:31:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Japan Q2 growth misses forecasts on weaker spending, investment",
+      "headline": "Philippine central bank says inflation to ease gradually, risks remain on upside",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japans-economy-grows-slower-than-expected-in-apriljune-4862030",
+      "url": "https://www.investing.com/news/economy-news/philippine-central-bank-says-inflation-to-ease-gradually-risks-remain-on-upside-4862078",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T02:24:47+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-17T03:30:27+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "German companies cut US investment to three-year low, data show",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/german-companies-cut-us-investment-to-threeyear-low-data-show-4861926",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T03:24:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australia\u2019s JB Hi-Fi shares slide after flagging weak start to FY27",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/australias-jb-hifi-shares-slide-after-flagging-weak-start-to-fy27-4862094",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T03:23:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thermo Fisher chairman & CEO Marc Casper sells $8.6m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/thermo-fisher-chairman--ceo-marc-casper-sells-86m-in-company-stock-93CH-4862093",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T03:16:03+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -148,7 +171,7 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T02:24:00+00:00",
+      "timestamp": "2026-08-17T03:02:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -177,24 +200,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Philippine central bank says inflation to ease gradually, risks remain on upside",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/philippine-central-bank-says-inflation-to-ease-gradually-risks-remain-on-upside-4862078",
+      "headline": "Asian shares mark time as Gulf war keeps oil prices up - reuters.com",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T02:18:29+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australian Clinical Labs FY26 slides: margins expand despite revenue headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/australian-clinical-labs-fy26-slides-margins-expand-despite-revenue-headwinds-93CH-4862077",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T02:16:57+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-17T01:17:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -231,6 +242,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T23:27:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2070d7e9ab2695bd33ab439007023941d3aec314be4a8fb24504b443f601233d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T22:54:28+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -522,17 +545,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pope calls for an end to West Bank violence against Palestinians - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGQ4SWdqSHFLZE1qOUNXWDhnLVlQa09TeGtURVpuZC1BWjFPNE1CalBpTU5NM3c2Uy1qSi1mSnlmRjB6UTlab1hMd19Zd2tubTFLNUZoSWZqUWdyN2V3UFZXWlY3c3d6RGlNbGduMjRWMlZ5cDcyU3U4R3VfXzVUZlZ3T3A0TnBHdnZmWHQ2VmxLdmdSVFBBQVdrckZULUFJNEEyc0Q2cko1WmprZVdNeA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:23:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The Mediterranean diet is the best out there. Here\u2019s why Americans struggle with it.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
@@ -635,18 +647,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Record Highs: Should You Chase The Rally?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=20f43fda25e05eeae10834ef6efea253e7dbb7279fe70f47cd1d6ce03081cefd",
-      "is_watchlist": true,
-      "timestamp": "2026-08-16T08:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "LandBridge: My Biggest Investment Ever Is Just Getting Started",
       "source": "SeekingAlpha",
@@ -739,6 +739,43 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Was Happy The Market \u201cCared\u201d About D-Wave Quantum \u2013 But Not How You Think",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T21:28:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": null,
+      "headline": "Elon Musk Said Tesla Short Sellers Would Be \u2018Obliterated\u2019 Even Bill Gates \u2014 Yet They\u2019ve Made $9 Billion This Year Shorting the Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-tesla-short-193002441.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-15T19:30:02+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street Focused on D-Wave\u2019s Earnings. Its Bigger Story Came 1 Day Before.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-focused-d-wave-183002547.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
       "source": "Yahoo",
@@ -776,55 +813,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
+      "headline": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-turning-massive-cash-flow-154502275.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sergey-brin-wants-google-double-170001830.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T15:45:02+00:00",
+      "timestamp": "2026-08-15T17:00:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bill Gates\u2019 Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
+      "headline": "Prediction: Costco Will Beat the S&P 500 Again",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-costco-beat-p-500-165000207.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T15:40:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-515-3-reasons-153002451.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/1-hour-delay-replying-recruiter-153000153.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:30:00+00:00",
+      "timestamp": "2026-08-15T16:50:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

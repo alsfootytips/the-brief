@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-17T02:59:32.677403+00:00",
+  "generated_at": "2026-08-17T03:56:57.169016+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -142,7 +142,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)\""
+      "move_reason": "News: \"Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes\""
     },
     {
       "ticker": "XLB",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P500: Big Changes Spark A Bullish Outlier (Technical Analysis)\""
+      "move_reason": "News: \"Are Biotech Stocks The 'Comeback Kid' Of 2026? I Say Yes\""
     },
     {
       "ticker": "NBIS",
@@ -688,13 +688,13 @@ window.theBriefMovers = {
       "change_pct": 4.89,
       "score": 7.0,
       "signals": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +4.89% \u2014 a 1.7\u03c3 move vs typical 2.9% daily vol",
+        "Moved +4.89% \u2014 a 1.5\u03c3 move vs typical 3.2% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 4.9 (cheap on absolute basis)"
