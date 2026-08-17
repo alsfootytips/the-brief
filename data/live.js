@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T03:56:57.174822+00:00",
+  "generated_at": "2026-08-17T04:44:28.359502+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T03:56:57.172141+00:00",
+      "timestamp": "2026-08-17T04:44:28.356848+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T03:56:57.172138+00:00",
+      "timestamp": "2026-08-17T04:44:28.356844+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T03:56:57.172134+00:00",
+      "timestamp": "2026-08-17T04:44:28.356839+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T03:56:57.172118+00:00",
+      "timestamp": "2026-08-17T04:44:28.356801+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,55 +78,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alphabet eyes inaugural Australian dollar bond, bookrunner\u2019s message says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-4862099",
+      "headline": "South Korea\u2019s Eximbank backs Glencore with $1B loan to secure copper for AI",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633627-south-koreas-eximbank-backs-glencore-with-1b-loan-to-secure-copper-for-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:42:27+00:00",
+      "timestamp": "2026-08-17T04:40:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Fiducian H2 2026 profit hit by ASIC penalty",
+      "headline": "Why is Ulvac stock tumbling today?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fiducian-h2-2026-profit-hit-by-asic-penalty-93CH-4862098",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ulvac-stock-tumbling-today-93CH-4862120",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:41:28+00:00",
+      "timestamp": "2026-08-17T04:32:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Katie Evans, Magnite president, sells $480,000 in stock",
+      "headline": "Sun Pharma wins U.S. antitrust appeal over Lipitor settlement",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/katie-evans-magnite-president-sells-480000-in-stock-93CH-4862096",
+      "url": "https://www.investing.com/news/stock-market-news/sun-pharma-wins-us-antitrust-appeal-over-lipitor-settlement-93CH-4862119",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:31:00+00:00",
+      "timestamp": "2026-08-17T04:32:39+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gates Industrial director Zhang Peifang sells $171,720 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/gates-industrial-director-zhang-peifang-sells-171720-in-shares-93CH-4862117",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T04:31:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cohen & Co CFO Joseph Pooler Jr. sells $102,966 in shares",
+      "headline": "Fathom earnings missed by $0.18, revenue fell short of estimates",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cohen--co-cfo-joseph-pooler-jr-sells-102966-in-shares-93CH-4862097",
+      "url": "https://www.investing.com/news/earnings/fathom-earnings-missed-by-018-revenue-fell-short-of-estimates-4862116",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:31:00+00:00",
+      "timestamp": "2026-08-17T04:30:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Philippine central bank says inflation to ease gradually, risks remain on upside",
+      "headline": "Why is Aurizon stock plunging today?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/philippine-central-bank-says-inflation-to-ease-gradually-risks-remain-on-upside-4862078",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-aurizon-stock-plunging-today-93CH-4862115",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:30:27+00:00",
+      "timestamp": "2026-08-17T04:30:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asian stocks mixed as Japan GDP misses forecasts; China data, tech in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-japan-gdp-misses-forecasts-china-data-tech-in-focus-4862114",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T04:28:29+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -134,33 +156,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "German companies cut US investment to three-year low, data show",
+      "headline": "Cadiz earnings missed by $0.02, revenue fell short of estimates",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/german-companies-cut-us-investment-to-threeyear-low-data-show-4861926",
+      "url": "https://www.investing.com/news/earnings/cadiz-earnings-missed-by-002-revenue-fell-short-of-estimates-4862113",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:24:47+00:00",
+      "timestamp": "2026-08-17T04:28:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Australia\u2019s JB Hi-Fi shares slide after flagging weak start to FY27",
+      "headline": "Ensysce Biosciences earnings beat by $0.51, revenue fell short of estimates",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/australias-jb-hifi-shares-slide-after-flagging-weak-start-to-fy27-4862094",
+      "url": "https://www.investing.com/news/earnings/ensysce-biosciences-earnings-beat-by-051-revenue-fell-short-of-estimates-4862112",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:23:58+00:00",
+      "timestamp": "2026-08-17T04:23:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Thermo Fisher chairman & CEO Marc Casper sells $8.6m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/thermo-fisher-chairman--ceo-marc-casper-sells-86m-in-company-stock-93CH-4862093",
+      "headline": "Alibaba to sell Lingxi Games for over $1.5B to Trustar as AI focus grows: report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633620-alibaba-to-sell-lingxi-games-for-over-15b-to-trustar-as-ai-focus-grows-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T03:16:03+00:00",
+      "timestamp": "2026-08-17T04:21:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI video startup Higgsfield hits $5.4B valuation with Goldman, Intel backing: FT",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633622-ai-video-startup-higgsfield-hits-54b-valuation-with-goldman-intel-backing-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T04:15:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathay General Bancorp declares $0.38 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633626-cathay-general-bancorp-declares-0_38-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T04:14:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paul Mueller raises dividend by 17% to $0.35",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633625-paul-mueller-raises-dividend-by-17-to-035?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T04:12:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Element Solutions declares $0.08 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633624-element-solutions-declares-0_08-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T04:11:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Westlake Corporation declares $0.533 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633623-westlake-corporation-declares-0_533-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T04:11:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -200,7 +277,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Asian shares mark time as Gulf war keeps oil prices up - reuters.com",
+      "headline": "Asian shares mark time as Gulf war keeps oil prices up - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
       "is_watchlist": false,
@@ -211,7 +288,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - reuters.com",
+      "headline": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
       "is_watchlist": false,
@@ -223,7 +300,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - reuters.com",
+      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
       "is_watchlist": false,
@@ -256,71 +333,12 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil edges higher as Middle East tensions return to focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633619-oil-edges-higher-as-middle-east-tensions-return-to-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T22:37:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A2 Milk profit tumbles 44% after China formula shortage",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633618-a2-milk-profit-tumbles-44-percent-after-china-formula-shortage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T22:30:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Monday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633602-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T22:00:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
       ],
       "ticker": null,
-      "headline": "Trump orders reduction in U.S.-South Korea military exercises",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633617-trump-orders-reduction-in-u-s-south-korea-military-exercises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-08-16T21:58:26+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stripe is said to agree to buy OpenRouter for more than $7B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633616-stripe-is-said-to-agree-to-buy-openrouter-for-more-than-7b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T21:51:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - reuters.com",
+      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
       "is_watchlist": true,
@@ -328,28 +346,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yalla Q2 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633328-yalla-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Flexsteel Q4 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633330-flexsteel-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -411,7 +407,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump's envoys meet mediators, Israel strikes Gaza - reuters.com",
+      "headline": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
       "is_watchlist": false,
@@ -455,7 +451,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iranian parliament advances bill to curb foreign influence - reuters.com",
+      "headline": "Iranian parliament advances bill to curb foreign influence - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
       "is_watchlist": false,
@@ -522,7 +518,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - reuters.com",
+      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
       "is_watchlist": false,
@@ -800,6 +796,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Social Security Pays the Average Couple $3,120 a Month. Here\u2019s the Portfolio It Takes to Match It.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/social-security-pays-average-couple-173241547.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T17:32:41+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
       "source": "Yahoo",
@@ -818,17 +825,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/sergey-brin-wants-google-double-170001830.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T17:00:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prediction: Costco Will Beat the S&P 500 Again",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-costco-beat-p-500-165000207.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T16:50:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
