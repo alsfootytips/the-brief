@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-17T09:57:47+00:00",
+  "generated_at": "2026-08-17T10:36:24+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -917,7 +917,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CRGO",
         "date": "2026-08-17",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.051,
         "revenue_estimate": 7445490,
         "is_watchlist": false
