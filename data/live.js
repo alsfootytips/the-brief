@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T06:00:54.273499+00:00",
+  "generated_at": "2026-08-17T07:16:32.476237+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T06:00:54.270717+00:00",
+      "timestamp": "2026-08-17T07:16:32.473411+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T06:00:54.270713+00:00",
+      "timestamp": "2026-08-17T07:16:32.473407+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T06:00:54.270708+00:00",
+      "timestamp": "2026-08-17T07:16:32.473403+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,198 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T06:00:54.270677+00:00",
+      "timestamp": "2026-08-17T07:16:32.473386+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Changing pubs into homes to be made harder under new rules",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T07:04:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T07:03:55+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nestle looks to develop new products to serve users of weight-loss drugs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nestle-looks-to-develop-new-products-to-serve-users-of-weightloss-drugs-4862163",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:54:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Tube Investments posts mixed Q1 2026 results",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tube-investments-posts-mixed-q1-2026-results-93CH-4862219",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:54:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ferrari Luce: Polarizing EV becomes a $40 million collector\u2019s item",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:52:23+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Geely Automobile Holdings GAAP EPS of RMB 0.82, revenue of RMB 173.6B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633651-geely-automobile-holdings-gaap-eps-of-rmb-082-revenue-of-rmb-1736b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:49:50+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Myanmar\u2019s Min Aung Hlaing heads to Russia for official visit, state media reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/myanmars-min-aung-hlaing-heads-to-russia-for-official-visit-state-media-reports-4862217",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:49:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin steadies at $63.5k; Iran tensions, U.S. regulations in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:47:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What are JPM\u2019s top equity themes for the rest of 2026?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/what-are-jpms-top-equity-themes-for-the-rest-of-2026-4862212",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:45:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Schneider Electric Q1 FY27 slides: record orders, margin pressure",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/schneider-electric-q1-fy27-slides-record-orders-margin-pressure-93CH-4862211",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:43:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca discontinues lung cancer trial of volrustomig",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/astrazeneca-discontinues-lung-cancer-trial-of-volrustomig-93CH-4862208",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:42:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar dips on reduced Fed hike bets; yen gains despite weak Japan GDP",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-ticks-up-on-reduced-fed-hike-bets-yen-gains-despite-weak-japan-gdp-4862111",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:42:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yen edges higher as traders push back Fed rate hike bets",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633647-yen-edges-higher-as-traders-push-back-fed-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:38:22+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet hires banks for debut Australian dollar bond issue amid AI boom: report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633621-alphabet-hires-banks-for-debut-australian-dollar-bond-issue-amid-ai-boom-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:37:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asian markets trade mixed amid weak U.S. leads; China rebounds and Japan holds gains despite Q2 GDP miss",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633642-asian-markets-trade-mixed-amid-weak-us-leads-china-rebounds-and-japan-holds-gains-despite-q2-gdp-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:27:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca halts eVOLVE-Lung02 trial of volrustomig combo",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633649-astrazeneca-halts-evolve-lung02-trial-of-volrustomig-combo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:24:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "German direct investment in the U.S. plunges to three-year low",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633639-german-direct-investment-in-us-plunges-to-three-year-low?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T06:20:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -89,139 +277,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alphabet leads institutional holders in SpaceX post-IPO with $94B stake",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633646-alphabet-leads-institutional-holders-in-spacex-post-ipo-with-94b-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:52:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold edges higher near $4,400 as softer dollar offsets Middle East inflation risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-fed-minutes-oil-risks-shape-rate-outlook-4862058",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:48:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GIC Re Q1 FY27 slides: combined ratio improves, profitability prioritized",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/gic-re-q1-fy27-slides-combined-ratio-improves-profitability-prioritized-93CH-4862156",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:48:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan's Q2 GDP softens to 0.3%; industrial output rebounds to 1.9%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633645-japan-q2-gdp-softens-to-03-industrial-output-rebound-to-19?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:46:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insmed CMO Martina Flammer sells $3.49m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/insmed-cmo-martina-flammer-sells-349m-in-company-stock-93CH-4862155",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:46:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alphabet eyes inaugural Australian dollar bond, bookrunner\u2019s message says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-4862099",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:43:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Shanghai Henlius Biotech stock climbing today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-shanghai-henlius-biotech-stock-climbing-today-93CH-4862154",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:42:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Alibaba stock climbing today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-climbing-today-93CH-4862153",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:42:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "From coffee to hotpot, brands race to grab a bite of China\u2019s growing burger market",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/from-coffee-to-hotpot-brands-race-to-grab-a-bite-of-chinas-growing-burger-market-4862025",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:42:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sampo buys back \u20ac12.1M worth of shares in week 33",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/sampo-buys-back-121m-worth-of-shares-in-week-33-93CH-4862152",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:39:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Greenidge Generation Holdings reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633641-greenidge-generation-holdings-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:25:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US draft letter warns allies against joining China's AI framework: report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633631-us-draft-letter-warns-allies-against-joining-chinas-ai-framework-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:19:32+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
@@ -230,28 +285,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "K-Bro Linen declares C$0.10 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633638-k-bro-linen-declares-c010-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:14:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Drive Shack reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633637-drive-shack-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:09:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -530,17 +563,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Changing pubs into homes to be made harder under new rules",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T15:04:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "What the results of a Connecticut congressional primary race may mean for Social Security",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
@@ -627,17 +649,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T09:45:45+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -747,6 +758,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Jim Cramer Was Worried About Potential Impact On Salesforce Inc. (NYSE:CRM)\u2019s Dreamforce Conference",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-worried-potential-impact-213039883.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T21:30:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Jim Cramer Didn\u2019t Think Figma, Inc. (NYSE:FIG) Was Treated The Way It Should Have Been",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-didn-t-think-213003428.html",
@@ -778,6 +800,17 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump Family\u2019s World Liberty Financial Gets Preliminary Approval to Launch a Bank",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T19:39:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Musk"
@@ -791,28 +824,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bill Ackman makes a bold move to answer investors biggest wish",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-makes-bold-move-183300767.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street Focused on D-Wave\u2019s Earnings. Its Bigger Story Came 1 Day Before.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-focused-d-wave-183002547.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -881,17 +892,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:50:41+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T12:00:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {

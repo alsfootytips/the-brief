@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-17T06:00:54.267371+00:00",
+  "generated_at": "2026-08-17T07:16:32.470175+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -251,30 +251,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 144.34,
-      "change_pct": -0.43,
-      "volume_ratio": 1.08,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 110.98,
-      "change_pct": -0.41,
-      "volume_ratio": 0.93,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLK",
       "name": "Technology Select Sector",
       "price": 190.01,
@@ -351,6 +327,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "price": 731.07,
+      "change_pct": -0.14,
+      "volume_ratio": 0.85,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
       "move_reason": ""
     }
   ],
