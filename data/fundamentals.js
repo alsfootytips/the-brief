@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-17T22:51:00.911021+00:00",
+  "generated_at": "2026-08-17T23:22:45.114020+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 44.79,
@@ -56,7 +56,7 @@ window.theBriefFundamentals = {
       "forward_pe": -89.691414,
       "price_to_sales": 50.37306,
       "price_to_book": 9.509072,
-      "enterprise_to_ebitda": 303.356,
+      "enterprise_to_ebitda": 293.975,
       "profit_margin": 0.03129,
       "gross_margin": 0.7426,
       "operating_margin": -0.00223,
