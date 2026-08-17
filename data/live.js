@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T23:22:45.008677+00:00",
+  "generated_at": "2026-08-17T23:47:44.883032+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.95,
-      "price": 13.44,
+      "change_pct": -5.09,
+      "price": 13.42,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T23:22:45.005904+00:00",
+      "timestamp": "2026-08-17T23:47:44.880170+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": 5.43,
-      "price": 723.0,
+      "change_pct": 5.5,
+      "price": 723.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T23:22:45.005899+00:00",
+      "timestamp": "2026-08-17T23:47:44.880167+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,10 +58,98 @@ window.theBriefLive = {
       "change_pct": -3.63,
       "price": 31.57,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T23:22:45.005891+00:00",
+      "timestamp": "2026-08-17T23:47:44.880157+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Duos outlines 2027 revenue of at least $160M as Axe Compute expands to 55 MW",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634151-duos-outlines-2027-revenue-of-at-least-160m-as-axe-compute-expands-to-55-mw?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:39:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brinker International president & CEO Kevin Hochman sells $9.66m stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/brinker-international-president--ceo-kevin-hochman-sells-966m-stock-93CH-4864104",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:32:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Douglas Comings, Brinker SVP & COO, Chili\u2019s, sells $1.18m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/douglas-comings-brinker-svp--coo-chilis-sells-118m-in-stock-93CH-4864103",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:32:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brinker International director Cindy Davis sells $441,833 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/brinker-international-director-cindy-davis-sells-441833-in-stock-93CH-4864101",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:32:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoreCivic\u2019s EVP, chief development officer Grande sells $981k shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/corecivics-evp-chief-development-officer-grande-sells-981k-shares-93CH-4864102",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:32:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BHP FY 2026 slides: copper drives record margins, growth self-funded",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/bhp-fy-2026-slides-copper-drives-record-margins-growth-selffunded-93CH-4864100",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:16:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kontoor Brands CEO Scott Baxter sells $15.3m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/kontoor-brands-ceo-scott-baxter-sells-153m-in-stock-93CH-4864099",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:16:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rhythm Pharmaceuticals CTO Joseph Shulman sells $608,210 of stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/rhythm-pharmaceuticals-cto-joseph-shulman-sells-608210-of-stock-93CH-4864098",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T23:15:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -77,39 +165,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Board overseeing Washington Dulles airport to vote on $19.9 billion overhaul plan",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/board-overseeing-washington-dulles-airport-to-vote-on-199-billion-overhaul-plan-4864095",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T23:06:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PBF Energy director Thomas Nimbley sells $12.3m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pbf-energy-director-thomas-nimbley-sells-123m-in-stock-93CH-4864094",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T23:01:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cargill workers vote to end dispute at US beef plant idled since April",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/cargill-workers-vote-to-end-dispute-that-idled-us-beef-plant-4864057",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T23:00:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "To joke or not to joke?: How to write a good out-of-office message",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
@@ -117,18 +172,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-17T23:00:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/paramount-seeks-188-billion-bond-from-state-ags-over-merger-lawsuit-4864023",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T23:00:34+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -155,45 +198,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vector FY26 slides: profit jumps 55% on regulatory reset",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/vector-fy26-slides-profit-jumps-55-on-regulatory-reset-93CH-4864091",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:52:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
       "is_watchlist": false,
       "timestamp": "2026-08-17T22:52:11+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PBF Energy director Control Empresarial sells $15.6m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pbf-energy-director-control-empresarial-sells-156m-in-shares-93CH-4864090",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:50:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cardinal Infrastructure director Lee buys $1.25m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cardinal-infrastructure-director-lee-buys-125m-in-stock-93CH-4864089",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:50:29+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -324,12 +334,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BXP\u2019s operating partnership plans $700M debt offering to repay 2026 notes",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634143-bxps-operating-partnership-plans-700m-debt-offering-to-repay-2026-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "US to announce steps to help refiners produce more fuel, energy chief Wright says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkt2WFRJalFmY1h4S0lLcVFXcmtNN1o5U2J4RWVmWGdkVFdLdUYzUnRlTklFX3Nsd1FMaVVNbEdINlUyazI0ajM2dW5Qd0FJNXpac0V2NFp0Yk1sTWMtUVVxQU1MVk1WY0lsUU9fYjF1dXFIVjZzSWs2cUpPN3FHNGhDbXMtcHlLWWd3VmdhSndwOWl3VTkxNmVYSTd2T0tVX2MyT2c1dnJESmdJZ0FISERjQ3JrNEZy?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T21:43:04+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-17T21:36:56+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -387,6 +397,17 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T21:06:37+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -534,17 +555,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2p1clBfdVhTak9ubTVGRFROZ3BqSlB0U1k5MzNUNzUzYjdLUzNWQWdEajJHdDZXTzdfVWJBYlJHSk9iNTZROEJyWG55ZFBUYkhUalF6aXl2Ynkzakppczk0N3RLal9zZ0JNOXZqX2c5eFFTMmtVTlJhYTRNMjd6dnNmRER4YkFmZmp3YXA2VGdBWE1BQUJaenBkZnh1QkE0aGQ2cDA5VkRod3ZUVmsxZWVibWJBSUZzZXc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T19:13:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
@@ -593,17 +603,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T18:50:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
@@ -613,6 +612,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Film commission backs Amazon MGM expansion of studios",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T18:03:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -928,6 +938,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T09:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
@@ -949,17 +970,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius Is Back In The Bull Zone (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -969,17 +979,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Changing pubs into homes to be made harder under new rules",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T07:04:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1096,22 +1095,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Moneywise staff confesses worst money mistakes \u2014 from ignoring subscriptions to sacrificing first home 'must-haves'",
+      "headline": "OneSpaWorld Keeps Turning Cruise Demand Into Record Earnings",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/onespaworld-keeps-turning-cruise-demand-151500064.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T15:00:00+00:00",
+      "timestamp": "2026-08-16T15:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why SK Hynix Stock Skyrocketed This Week",
+      "headline": "Moneywise staff confesses worst money mistakes \u2014 from ignoring subscriptions to sacrificing first home 'must-haves'",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-sk-hynix-stock-skyrocketed-145254303.html",
+      "url": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T14:52:54+00:00",
+      "timestamp": "2026-08-16T15:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
