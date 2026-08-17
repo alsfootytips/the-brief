@@ -1,5 +1,5 @@
 window.theBriefDaily = {
-  "generated_at": "2026-08-14T22:14:54.907086+00:00",
+  "generated_at": "2026-08-17T12:23:54.645704+00:00",
   "by_issue": {
     "2": [
       {
