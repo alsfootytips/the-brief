@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-17T09:01:04+00:00",
+  "generated_at": "2026-08-17T09:57:47+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -209,14 +209,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "LUCK",
-        "date": "2026-08-26",
-        "hour": "amc",
-        "eps_estimate": -0.0363,
-        "revenue_estimate": 318596388,
-        "is_watchlist": false
-      },
-      {
         "ticker": "NAT",
         "date": "2026-08-26",
         "hour": "bmo",
@@ -282,14 +274,6 @@ window.theBriefEarnings = {
       },
       {
         "ticker": "PLTYF",
-        "date": "2026-08-26",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PRZO",
         "date": "2026-08-26",
         "hour": "",
         "eps_estimate": null,
@@ -1102,16 +1086,16 @@ window.theBriefEarnings = {
         "ticker": "GLOO",
         "date": "2026-08-17",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.187,
+        "revenue_estimate": 44944596,
         "is_watchlist": false
       },
       {
         "ticker": "GLOO",
         "date": "2026-08-17",
         "hour": "",
-        "eps_estimate": -0.187,
-        "revenue_estimate": 44944596,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -2554,16 +2538,16 @@ window.theBriefEarnings = {
         "ticker": "TGT",
         "date": "2026-08-19",
         "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": 2.3095,
+        "revenue_estimate": 26324568724,
         "is_watchlist": false
       },
       {
         "ticker": "TGT",
         "date": "2026-08-19",
         "hour": "bmo",
-        "eps_estimate": 2.3095,
-        "revenue_estimate": 26324568724,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
