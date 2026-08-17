@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-17T07:16:32.586071+00:00",
+  "generated_at": "2026-08-17T08:07:08.077388+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 44.37,
