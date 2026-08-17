@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-17T22:24:18+00:00",
+  "generated_at": "2026-08-17T22:51:00+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1005,7 +1005,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FEED",
         "date": "2026-08-17",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -2337,7 +2337,7 @@ window.theBriefEarnings = {
       {
         "ticker": "JBSS",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.196,
         "revenue_estimate": 280365870,
         "is_watchlist": false
@@ -2957,7 +2957,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BJ",
         "date": "2026-08-21",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.1951,
         "revenue_estimate": 6122130243,
         "is_watchlist": false
@@ -2973,7 +2973,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ZKH",
         "date": "2026-08-21",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -3079,7 +3079,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GGR",
         "date": "2026-08-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -3199,7 +3199,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TUYA",
         "date": "2026-08-24",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0306,
         "revenue_estimate": 89590680,
         "is_watchlist": false
@@ -3207,7 +3207,7 @@ window.theBriefEarnings = {
       {
         "ticker": "XPEV",
         "date": "2026-08-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.5663,
         "revenue_estimate": 20937051807,
         "is_watchlist": false

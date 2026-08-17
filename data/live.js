@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T22:24:18.477038+00:00",
+  "generated_at": "2026-08-17T22:51:00.803377+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.95,
-      "price": 13.44,
+      "change_pct": -5.03,
+      "price": 13.43,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T22:24:18.474260+00:00",
+      "timestamp": "2026-08-17T22:51:00.800571+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": 5.59,
-      "price": 724.08,
+      "change_pct": 5.54,
+      "price": 723.76,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T22:24:18.474257+00:00",
+      "timestamp": "2026-08-17T22:51:00.800567+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,22 +58,65 @@ window.theBriefLive = {
       "change_pct": -3.63,
       "price": 31.57,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T22:24:18.474253+00:00",
+      "timestamp": "2026-08-17T22:51:00.800558+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
-      "type": "mover",
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "change_pct": -3.12,
-      "price": 269.01,
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T22:24:18.474245+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
+      "type": "news",
+      "ticker": null,
+      "headline": "Targa Resources signs 20-year midstream deals with Exxon, plans three new Permian gas plants",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634148-targa-resources-signs-20-year-midstream-deals-with-exxon-plans-three-new-permian-gas-plants?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:44:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Vector lifts FY2026 profit 55% as shares edge higher",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vector-lifts-fy2026-profit-55-as-shares-edge-higher-93CH-4864081",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:41:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "H2O America receives approval to acquire Quadvest assets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/h2o-america-receives-approval-to-acquire-quadvest-assets-93CH-4864080",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:40:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "XP Inc Q2 2026 slides: profit beats estimates, margins expand",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/xp-inc-q2-2026-slides-profit-beats-estimates-margins-expand-93CH-4864078",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:35:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -82,8 +125,63 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T22:23:14+00:00",
+      "timestamp": "2026-08-17T22:31:32+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hexcel EVP Gina Fitzsimons sells $997k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hexcel-evp-gina-fitzsimons-sells-997k-in-company-stock-93CH-4864076",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rhythm Pharmaceuticals CSO Alastair Garfield sells $912,703 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/rhythm-pharmaceuticals-cso-alastair-garfield-sells-912703-in-stock-93CH-4864077",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clover Health interim CFO Thornton sells $78,032 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/clover-health-interim-cfo-thornton-sells-78032-in-shares-93CH-4864075",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:30:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oncocl\u00ednicas Q2 2026 slides: cash flow rebounds amid supply crisis",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/oncoclinicas-q2-2026-slides-cash-flow-rebounds-amid-supply-crisis-93CH-4864074",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:30:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Duos Technologies Q2 2026 profit jump lifts stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-duos-technologies-q2-2026-profit-jump-lifts-stock-93CH-4864073",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:28:38+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -111,17 +209,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Helix Acquisition Corp. III receives Nasdaq notice for holder deficiency",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/helix-acquisition-corp-iii-receives-nasdaq-notice-for-holder-deficiency-93CH-4864056",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:04:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Rocket Lab lands spot on $981M Space Force contract, eyes future task orders",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4634145-rocket-lab-lands-spot-on-981m-space-force-contract-eyes-future-task-orders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -133,89 +220,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "908 Devices CEO Knopp sells $283,677 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/908-devices-ceo-knopp-sells-283677-in-common-stock-93CH-4864045",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:01:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dyne therapeutics director Jason Rhodes sells $65.2m of common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dyne-therapeutics-director-jason-rhodes-sells-652m-of-common-stock-93CH-4864044",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:01:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cisco president Patel sells $799,928 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cisco-president-patel-sells-799928-in-shares-93CH-4864043",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:01:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cornelius Prior Jr., ATN International director, sells $80,959 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cornelius-prior-jr-atn-international-director-sells-80959-in-shares-93CH-4864041",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:01:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mitek Systems names Aaron Seyler as chief revenue officer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/mitek-systems-names-aaron-seyler-as-chief-revenue-officer-93CH-4864040",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T22:00:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here are the major earnings before the open Tuesay",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4633839-here-are-the-major-earnings-before-the-open-tuesay?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-17T22:00:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold rises 1% amid softer dollar, falling Fed rate hike bets; oil caps gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-fed-minutes-oil-risks-shape-rate-outlook-4862058",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T21:57:54+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Andersen Group stock falls on 4.3M share secondary offering",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/andersen-group-stock-falls-on-43m-share-secondary-offering-93CH-4864037",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T21:54:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -251,18 +260,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-17T21:40:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold gains as dollar moves lower on reduced bets for Fed rate hike",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634130-gold-gains-as-dollar-moves-lower-on-reduced-bets-for-fed-rate-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T21:37:07+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -351,6 +348,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-17T21:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Battered by war, Iran\u2019s rulers wary of more economic pain and unrest if US tightens pressure - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEdqbXFtRnNWUFI5Z2k5QkEtMEUwbnR3emVxRTUyMS1IS0pXSWZZdC03aVpWNTFtSzlfN0kzQ3VCUVRpSzZQVGlpeFAyeVJKVGlBVlJicHpPcnBWSkJPcUpIazRPMkJabGJHMl9iRTRMUFRwZ0kxeVV3Sk16Mkx4ei1faDM2S2VDUXI0VHB0R1hyQVFGdU5IU3Nzby1xX2RFaVV4dmtzdmhhSGdKcjRYdDJlYlNLMmI4bGFqcDdZa0x4V0ZfQ3RN?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T20:52:09+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -460,17 +469,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why it pays to stay invested: No amount of bad news could stop the stock market\u2019s strongest run in more than 25 years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T19:48:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Drone targets office of Iraqi Kurdistan's PM, no casualties reported - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
@@ -524,6 +522,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2p1clBfdVhTak9ubTVGRFROZ3BqSlB0U1k5MzNUNzUzYjdLUzNWQWdEajJHdDZXTzdfVWJBYlJHSk9iNTZROEJyWG55ZFBUYkhUalF6aXl2Ynkzakppczk0N3RLal9zZ0JNOXZqX2c5eFFTMmtVTlJhYTRNMjd6dnNmRER4YkFmZmp3YXA2VGdBWE1BQUJaenBkZnh1QkE0aGQ2cDA5VkRod3ZUVmsxZWVibWJBSUZzZXc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T19:13:43+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
@@ -567,17 +576,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-17T18:50:36+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eli Lilly and J&J bounce on new data, as software stocks give up last week's gains",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/17/eli-lilly-and-jj-bounce-on-new-data-as-software-gives-up-gains.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T18:42:54+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -685,17 +683,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FTSE 100 falls for sixth day in a row as consumer stocks weigh - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUR0RjdfMVp0QlRfby1EcmdQSzZvZ2hzT0xJZVdKUjF2QlRhS2p1WGU0dC1xalpqSVp0dV9HYURDTF9yNnVHLTRwZktnZlZXVjNsaWRwTGpIYWdkYUNjV2FaREZmbEpJeUcwZU4zaUVhQm4zQ3VrcDNrWjFxdHQwRXk4SzZwUU9yLWFpMUhrSlJTTFZvNUxOREc4OXY?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T16:18:24+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -940,9 +927,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+      "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
       "is_watchlist": false,
       "timestamp": "2026-08-17T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -951,9 +938,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
       "is_watchlist": false,
       "timestamp": "2026-08-17T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -1064,6 +1051,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "I'm 30 and Married With More Than $300K Invested. My Financial Advisor Thinks I Should Buy a House Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/im-30-married-more-300k-141104950.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T14:11:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Analysts Are Upping Their Price Targets on Lumentum Stock. Here's Why.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-upping-price-targets-lumentum-140002049.html",
@@ -1124,17 +1122,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-financing-platform-support-ai-134501906.html",
       "is_watchlist": false,
       "timestamp": "2026-08-16T13:45:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JPMorgan Raises S&P 500 Target to 8,000 as Earnings and AI Growth Strengthen Outlook",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-p-500-target-134100944.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:41:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
