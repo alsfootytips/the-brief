@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-16T23:59:25.213310+00:00",
+  "generated_at": "2026-08-17T01:49:30.648305+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,7 +27,7 @@ window.theBriefPicks = {
       "current_pct": 45.39,
       "change_pct_today": 5.95,
       "name": "Oscar Health",
-      "news_count": 1,
+      "news_count": 0,
       "days_elapsed": 22,
       "days_remaining": 34,
       "pick_type": "strategic",
@@ -510,8 +510,8 @@ window.theBriefPicks = {
       "current_pct": 1.03,
       "change_pct_today": 1.28,
       "name": "GE Vernova",
-      "news_count": 3,
-      "days_elapsed": 95,
+      "news_count": 1,
+      "days_elapsed": 96,
       "days_remaining": null
     },
     {
@@ -543,8 +543,8 @@ window.theBriefPicks = {
       "current_pct": -8.91,
       "change_pct_today": 2.23,
       "name": "Quanta Services",
-      "news_count": 3,
-      "days_elapsed": 95,
+      "news_count": 2,
+      "days_elapsed": 96,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": -2.8,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 95,
+      "days_elapsed": 96,
       "days_remaining": null
     },
     {
@@ -852,7 +852,7 @@ window.theBriefPicks = {
       "current_pct": 8.12,
       "change_pct_today": 5.95,
       "name": "Oscar Health",
-      "news_count": 1,
+      "news_count": 0,
       "days_elapsed": 28,
       "days_remaining": 0,
       "closed_at": "2026-07-29",
@@ -921,8 +921,8 @@ window.theBriefPicks = {
       "change_pct_today": -2.88,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 5,
-      "days_remaining": 37
+      "days_elapsed": 6,
+      "days_remaining": 36
     },
     {
       "id": "2026-08-11-APA-auto",
@@ -951,8 +951,8 @@ window.theBriefPicks = {
       "change_pct_today": 1.13,
       "name": "APA Corp",
       "news_count": 3,
-      "days_elapsed": 5,
-      "days_remaining": 44
+      "days_elapsed": 6,
+      "days_remaining": 43
     }
   ],
   "summary": {
