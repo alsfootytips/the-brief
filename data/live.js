@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T01:49:30.543691+00:00",
+  "generated_at": "2026-08-17T02:59:32.683297+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T01:49:30.541002+00:00",
+      "timestamp": "2026-08-17T02:59:32.680657+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T01:49:30.540998+00:00",
+      "timestamp": "2026-08-17T02:59:32.680653+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T01:49:30.540994+00:00",
+      "timestamp": "2026-08-17T02:59:32.680649+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T01:49:30.540977+00:00",
+      "timestamp": "2026-08-17T02:59:32.680632+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,33 +78,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alibaba to sell gaming arm for $1.5 bln as AI focus intensifies - Bloomberg",
+      "headline": "Aurizon FY2026 slides: profit surges 24% despite coal headwinds",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-to-sell-gaming-arm-for-15-bln-as-ai-focus-intensifies--bloomberg-4862065",
+      "url": "https://www.investing.com/news/company-news/aurizon-fy2026-slides-profit-surges-24-despite-coal-headwinds-93CH-4862081",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T01:39:37+00:00",
+      "timestamp": "2026-08-17T02:42:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: BlueScope posts strong H2 2026, stock slips 2.4%",
+      "headline": "From coffee to hotpot, brands race to grab a bite of China\u2019s growing burger market",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bluescope-posts-strong-h2-2026-stock-slips-24-93CH-4862064",
+      "url": "https://www.investing.com/news/stock-market-news/from-coffee-to-hotpot-brands-race-to-grab-a-bite-of-chinas-growing-burger-market-4862025",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T01:38:38+00:00",
+      "timestamp": "2026-08-17T02:42:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tenet Healthcare director Roy Blunt sells $157,608 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/tenet-healthcare-director-roy-blunt-sells-157608-in-company-stock-93CH-4862080",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T02:30:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: New Hope Group posts strong FY 2026 cash flow",
+      "headline": "Earnings call transcript: Aurizon FY 2026 profit rises as stock falls 10%",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-new-hope-group-posts-strong-fy-2026-cash-flow-93CH-4862063",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aurizon-fy-2026-profit-rises-as-stock-falls-10-93CH-4862079",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T01:38:25+00:00",
+      "timestamp": "2026-08-17T02:30:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-hits-steel-plant-in-new-strikes-on-ukraine-kyiv-attacks-moscow-region-4861966",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T02:30:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -115,52 +137,8 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economy-news/japans-economy-grows-slower-than-expected-in-apriljune-4862030",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T01:36:24+00:00",
+      "timestamp": "2026-08-17T02:24:47+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil prices edge lower after strong week; Iran jitters persist",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-after-strong-week-iran-jitters-persist-4862062",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T01:36:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Trend Micro stock sliding today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-trend-micro-stock-sliding-today-93CH-4862061",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T01:31:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JPMorgan\u2019s Dimon cautions UK on bank tax increases- FT",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgans-dimon-cautions-uk-on-bank-tax-increases-ft-93CH-4862060",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T01:30:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lendlease FY26 slides: construction recovery offset by $749m loss",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/lendlease-fy26-slides-construction-recovery-offset-by-749m-loss-93CH-4862059",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T01:27:50+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -170,8 +148,19 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T00:55:00+00:00",
+      "timestamp": "2026-08-17T02:24:00+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ferrari's first ever electric car sold for record $40m at auction",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T02:22:04+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -181,18 +170,41 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T00:50:18+00:00",
+      "timestamp": "2026-08-17T02:21:02+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+      "headline": "Philippine central bank says inflation to ease gradually, risks remain on upside",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/philippine-central-bank-says-inflation-to-ease-gradually-risks-remain-on-upside-4862078",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T02:18:29+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australian Clinical Labs FY26 slides: margins expand despite revenue headwinds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/australian-clinical-labs-fy26-slides-margins-expand-despite-revenue-headwinds-93CH-4862077",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T02:16:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T00:39:52+00:00",
+      "timestamp": "2026-08-17T00:31:00+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -200,7 +212,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
+      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
       "is_watchlist": false,
@@ -212,12 +224,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump instructs Pentagon to reduce military exercises with South Korea - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+      "headline": "If Meta loses this trial, Instagram and Facebook could change forever",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T23:30:39+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-08-16T23:27:36+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -278,6 +290,21 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T21:51:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - reuters.com",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-16T21:39:00+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -361,7 +388,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
+      "headline": "Trump's envoys meet mediators, Israel strikes Gaza - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
       "is_watchlist": false,
@@ -405,7 +432,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iranian parliament advances bill to curb foreign influence - Reuters",
+      "headline": "Iranian parliament advances bill to curb foreign influence - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
       "is_watchlist": false,
@@ -472,7 +499,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
+      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
       "is_watchlist": false,
@@ -749,6 +776,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-turning-massive-cash-flow-154502275.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:45:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bill Gates\u2019 Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T15:40:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html",
@@ -760,44 +809,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Medicare Advantage providers are cutting plans \u2014 and what to do if your coverage is affected",
+      "headline": "Alphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/article/why-medicare-advantage-providers-are-cutting-plans--and-what-to-do-if-your-coverage-is-affected-150759090.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-515-3-reasons-153002451.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T15:07:59+00:00",
+      "timestamp": "2026-08-15T15:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "NOW Stock Has Rebounded Over 54% \u2014 Why ServiceNow\u2019s Rally Could Have Further Room to Run",
+      "headline": "A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/now-stock-rebounded-over-54-150002323.html",
+      "url": "https://finance.yahoo.com/small-business/articles/1-hour-delay-replying-recruiter-153000153.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-15T15:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Suze Orman says AI could force you out of your job before 65 \u2014 and retiring early costs you each year",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/suze-orman-says-ai-could-150000538.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-market-operator-kalshi-hits-145839600.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:58:39+00:00",
+      "timestamp": "2026-08-15T15:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1060,17 +1087,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Electric vehicle sales targets could be cut after pressure from car makers",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T15:58:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "We learned 5 important things about the economy this week",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
@@ -1125,21 +1141,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": true,
-      "timestamp": "2026-08-14T08:39:46+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
