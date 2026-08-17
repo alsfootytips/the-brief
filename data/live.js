@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T05:22:15.099975+00:00",
+  "generated_at": "2026-08-17T06:00:54.273499+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.89,
       "price": 364.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T05:22:15.097220+00:00",
+      "timestamp": "2026-08-17T06:00:54.270717+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.95,
       "price": 32.61,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T05:22:15.097217+00:00",
+      "timestamp": "2026-08-17T06:00:54.270713+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 8.92,
       "price": 277.78,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T05:22:15.097212+00:00",
+      "timestamp": "2026-08-17T06:00:54.270708+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,166 @@ window.theBriefLive = {
       "change_pct": 6.73,
       "price": 515.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T05:22:15.097195+00:00",
+      "timestamp": "2026-08-17T06:00:54.270677+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Monday's Economic Calendar",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633640-mondays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:52:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet leads institutional holders in SpaceX post-IPO with $94B stake",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633646-alphabet-leads-institutional-holders-in-spacex-post-ipo-with-94b-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:52:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold edges higher near $4,400 as softer dollar offsets Middle East inflation risks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-fed-minutes-oil-risks-shape-rate-outlook-4862058",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:48:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GIC Re Q1 FY27 slides: combined ratio improves, profitability prioritized",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/gic-re-q1-fy27-slides-combined-ratio-improves-profitability-prioritized-93CH-4862156",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:48:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan's Q2 GDP softens to 0.3%; industrial output rebounds to 1.9%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633645-japan-q2-gdp-softens-to-03-industrial-output-rebound-to-19?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:46:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Insmed CMO Martina Flammer sells $3.49m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/insmed-cmo-martina-flammer-sells-349m-in-company-stock-93CH-4862155",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:46:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet eyes inaugural Australian dollar bond, bookrunner\u2019s message says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-4862099",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:43:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Shanghai Henlius Biotech stock climbing today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-shanghai-henlius-biotech-stock-climbing-today-93CH-4862154",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:42:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Alibaba stock climbing today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-climbing-today-93CH-4862153",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:42:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "From coffee to hotpot, brands race to grab a bite of China\u2019s growing burger market",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/from-coffee-to-hotpot-brands-race-to-grab-a-bite-of-chinas-growing-burger-market-4862025",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:42:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sampo buys back \u20ac12.1M worth of shares in week 33",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/sampo-buys-back-121m-worth-of-shares-in-week-33-93CH-4862152",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:39:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Greenidge Generation Holdings reports Q2 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633641-greenidge-generation-holdings-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:25:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US draft letter warns allies against joining China's AI framework: report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4633631-us-draft-letter-warns-allies-against-joining-chinas-ai-framework-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:19:32+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T05:18:44+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -83,28 +239,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4633638-k-bro-linen-declares-c010-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-17T05:14:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hutchmed shares rise 5% after positive Phase III lung cancer trial results",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/hutchmed-shares-rise-5-after-positive-phase-iii-lung-cancer-trial-results-4862136",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:13:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Our AI knew it: +11% premarket, this advanced materials name is now 55%+ in August",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/our-ai-knew-it-up-11-premarket-this-advanced-materials-stock-is-now-up-55-4862118",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:13:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -122,133 +256,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analysis-Big investors hunt for tomorrow\u2019s AI winners as capex angst fades",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/analysisbig-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4862135",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:06:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citius Pharmaceuticals GAAP EPS of -$0.34 misses by $0.09, revenue of $1.5M misses by $8.27M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633636-citius-pharmaceuticals-gaap-eps-of--034-misses-by-009-revenue-of-15m-misses-by-827m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:05:29+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Genco rejects Diana Shipping\u2019s acquisition approach",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/genco-rejects-diana-shippings-acquisition-approach-93CH-4862134",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:04:36+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Seritage GAAP EPS of -$0.13, revenue of $1.87M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633635-seritage-gaap-eps-of--013-revenue-of-187m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:03:41+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nikkei 225 flashes bull trap near 69,650: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-stalls-at-618-fib-level-live-hourly-levels-93CH-4862053",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:02:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Traws Pharma GAAP EPS of -$0.16 beats by $0.06",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633634-traws-pharma-gaap-eps-of--016-beats-by-006?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:01:10+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Umb financial director Susan Murphy sells $200,427 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/umb-financial-director-susan-murphy-sells-200427-in-shares-93CH-4862131",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T05:00:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "If Meta loses this trial, Instagram and Facebook could change forever",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-17T05:00:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Plus Therapeutics GAAP EPS of -$1.31 misses by $0.45; reaffirms FY outlook",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633633-plus-therapeutics-gaap-eps-of-131-misses-by-045-reaffirms-fy-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T04:59:06+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AgEagle Aerial Systems reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633632-ageagle-aerial-systems-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T04:57:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australia\u2019s JB Hi-Fi slides after flagging weak start to FY27; drags retail sector",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/australias-jb-hifi-shares-slide-after-flagging-weak-start-to-fy27-4862094",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T04:54:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is National Australia Bank stock sliding today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-national-australia-bank-stock-sliding-today-93CH-4862130",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T04:49:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -266,7 +278,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ferrari's first ever electric car sold for record $40m at auction",
+      "headline": "Ferrari's first ever electric car sold for record $40m",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -282,6 +294,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
       "is_watchlist": false,
       "timestamp": "2026-08-17T02:21:02+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Indian shares fall as crude remains at elevated levels - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T02:21:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -319,6 +342,17 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How switching your bank account could earn you up to \u00a3220",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T23:14:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -514,18 +548,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-16T13:30:01+00:00",
       "relevance_score": -3.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:17:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -773,6 +795,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Bill Ackman makes a bold move to answer investors biggest wish",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-makes-bold-move-183300767.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-15T18:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Wall Street Focused on D-Wave\u2019s Earnings. Its Bigger Story Came 1 Day Before.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-focused-d-wave-183002547.html",
@@ -807,17 +840,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "The Mill Reopened and Called Him Back. Returning Could Suspend His Pension Before Social Security Touched a Dollar.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/mill-reopened-called-him-back-180223288.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T18:02:23+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
       "source": "Yahoo",
@@ -827,17 +849,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-15T14:46:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1141,17 +1152,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T07:45:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
