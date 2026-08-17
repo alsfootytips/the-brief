@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-17T22:16:01.958691+00:00",
+  "generated_at": "2026-08-17T22:24:18.477038+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -4.95,
       "price": 13.44,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T22:16:01.705524+00:00",
+      "timestamp": "2026-08-17T22:24:18.474260+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": 5.34,
-      "price": 722.42,
+      "change_pct": 5.59,
+      "price": 724.08,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T22:16:01.705521+00:00",
+      "timestamp": "2026-08-17T22:24:18.474257+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -3.3,
-      "price": 31.68,
+      "change_pct": -3.63,
+      "price": 31.57,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T22:16:01.705517+00:00",
+      "timestamp": "2026-08-17T22:24:18.474253+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,10 +67,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.01,
-      "price": 269.32,
+      "change_pct": -3.12,
+      "price": 269.01,
       "is_watchlist": true,
-      "timestamp": "2026-08-17T22:16:01.705509+00:00",
+      "timestamp": "2026-08-17T22:24:18.474245+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,12 +78,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner",
+      "headline": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T22:09:18+00:00",
+      "timestamp": "2026-08-17T22:23:14+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "York Space Systems downgraded at Canaccord on supply chain concerns",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634147-york-space-systems-downgraded-at-canaccord-on-supply-chain-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T22:15:19+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -252,17 +263,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "La-Z-Boy Q1 2027 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634048-la-z-boy-q1-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T21:35:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1064,77 +1064,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Investors in Microsoft Love Shorting Out-of-the-Money MSFT Puts",
+      "headline": "Analysts Are Upping Their Price Targets on Lumentum Stock. Here's Why.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/investors-microsoft-love-shorting-money-131502468.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-upping-price-targets-lumentum-140002049.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T13:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave vs Nebius: Both Companies Reported Strong Earnings, But Here\u2019s the Stock You Should Buy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-vs-nebius-both-companies-131502588.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "1 Growth Stock Trading at More Than Half Off Its Peak Could Turn $500 Into $2,000 by 2027",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-trading-more-130400586.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-130000844.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T12:55:00+00:00",
+      "timestamp": "2026-08-16T14:00:02+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Greg Abel Starts Spending: Berkshire\u2019s Cash Hoard Finally Gets Put to Work",
+      "headline": "This ETF Is the Most Important in the Market. You Probably Haven\u2019t Heard of It.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-starts-spending-berkshire-125459967.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-most-important-market-probably-140002357.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T12:54:59+00:00",
+      "timestamp": "2026-08-16T14:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Heartflow (HTFL) Rockets 46%: What Analysts Say and Where Hedge Funds Stand",
+      "headline": "Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars \u2014 and high fees aren't helping",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heartflow-htfl-rockets-46-analysts-123113891.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-5-billion-fund-140000634.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T12:31:13+00:00",
+      "timestamp": "2026-08-16T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer Tells Caller to Average Down on Netflix (NFLX)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:51:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wendy\u2019s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-jumps-report-nelson-peltz-134908532.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:49:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia\u2019s Financing Platform Will Support the AI Investment Boom",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-financing-platform-support-ai-134501906.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:45:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JPMorgan Raises S&P 500 Target to 8,000 as Earnings and AI Growth Strengthen Outlook",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-p-500-target-134100944.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T13:41:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
