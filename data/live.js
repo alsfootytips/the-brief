@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-18T21:24:08.272099+00:00",
+  "generated_at": "2026-08-18T21:48:48.622472+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -4.47,
-      "price": 690.0,
+      "change_pct": -3.62,
+      "price": 696.15,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T21:24:08.269169+00:00",
+      "timestamp": "2026-08-18T21:48:48.619569+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -7.94,
-      "price": 247.5,
+      "change_pct": -8.21,
+      "price": 246.77,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T21:24:08.269165+00:00",
+      "timestamp": "2026-08-18T21:48:48.619565+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": -6.69,
-      "price": 1006.77,
+      "change_pct": -6.75,
+      "price": 1006.16,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T21:24:08.269155+00:00",
+      "timestamp": "2026-08-18T21:48:48.619554+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,10 +67,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -12.59,
-      "price": 92.65,
+      "change_pct": -12.48,
+      "price": 92.77,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T21:24:08.269151+00:00",
+      "timestamp": "2026-08-18T21:48:48.619549+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -79,10 +79,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -4.63,
-      "price": 482.56,
+      "change_pct": -4.72,
+      "price": 482.1,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T21:24:08.269141+00:00",
+      "timestamp": "2026-08-18T21:48:48.619540+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -90,23 +90,115 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cerrado Gold reports Q2 results",
+      "headline": "Latham Group names Todd Antonelli as chief commercial officer",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634579-cerrado-gold-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4634582-latham-group-names-todd-antonelli-as-chief-commercial-officer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-18T21:19:16+00:00",
+      "timestamp": "2026-08-18T21:48:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "IM Cannabis shares slide after announcing 1-for-30 share consolidation",
+      "headline": "Gold and silver slide as bond yields climb to multi-decade highs",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634575-im-cannabis-shares-slide-after-announcing-1-for-30-share-consolidation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4634571-gold-and-silver-slide-as-bond-yields-climb-to-multi-decade-highs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-18T21:12:36+00:00",
+      "timestamp": "2026-08-18T21:45:05+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Accuray Q4 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634466-accuray-q4-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T21:35:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bill.com Q4 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634442-bill-com-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T21:35:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alvotech Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634470-alvotech-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T21:35:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Banco Macro Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634467-banco-macro-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T21:35:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Beam Global Q2 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634476-beam-global-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T21:35:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T21:29:03+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-18T21:21:04+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T21:12:06+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -151,17 +243,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-18T21:05:57+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rocket Lab joins U.S. Space Force's Space Data Network Consortium; secures $12M orders",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634573-rocket-lab-joins-us-space-forces-space-data-network-consortium-secures-12m-orders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T21:05:23+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -222,66 +303,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T21:04:05+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kohl's declares $0.125 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634574-kohls-declares-0_125-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T21:03:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "An iconic mail-order music and video company is shutting down",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down",
       "is_watchlist": false,
       "timestamp": "2026-08-18T21:02:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Auna reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634572-auna-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T21:02:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "6.625% PRF PERPETUAL USD 25 - Ser L declares $0.2485 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634570-6_625-percent-prf-perpetual-usd-25-ser-l-declares-0_2485-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T20:56:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Toll Brothers Q3 earnings beat even as affordability still weighs on housing market",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634563-toll-brothers-q3-earnings-beat-as-affordability-still-weighs-on-housing-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T20:56:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -327,17 +353,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-18T20:39:36+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T20:33:38+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -395,21 +410,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-18T20:17:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-18T20:09:17+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -572,6 +572,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-18T17:26:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "AMD: On Dilution And Insider Sales",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=66ab3affb53046c7710ef217f37050fe03579ce79910d4c241482d9ea6d6c1bc",
+      "is_watchlist": true,
+      "timestamp": "2026-08-18T17:25:13+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -988,18 +1000,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "What's Going On With AMD Stock Tuesday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=16fef30b843d35a67ae59b0ff83b3cec43a9dd3155b3271cc8dc40767c48071f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-18T08:32:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
       "source": "BBC Business",
@@ -1153,6 +1153,61 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Is Wall Street Bullish or Bearish on Akamai Technologies Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-akamai-131912873.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T13:19:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Uber, Zipline partner on US drone delivery for Uber Eats",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/uber-zipline-partner-us-drone-131513664.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T13:15:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ChatGPT Disagrees With Michael Burry Over Nebius (NBIS)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-disagrees-michael-burry-over-131506607.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T13:15:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alphabet Stock Has Attractive Short-Put Yields As GOOGL Stock Treads Water",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/alphabet-stock-attractive-short-put-131502703.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T13:15:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sandisk Just Gave Micron Technology Investors Great News",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-gave-micron-technology-131502592.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T13:15:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "\u2018Never bet against America\u2019: Scott Bessent endorses Warren Buffett\u2019s forgotten rule for getting rich \u2014 use it now",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/never-bet-against-america-scott-130000391.html",
@@ -1164,66 +1219,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T12:56:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Goldman Sachs warns of consumer spending slowdown as tax refund boost fades",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/article/goldman-sachs-warns-of-consumer-spending-slowdown-as-tax-refund-boost-fades-125557282.html",
       "is_watchlist": false,
       "timestamp": "2026-08-17T12:55:57+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-1-5-billion-124300582.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T12:43:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Targa Resources Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-outlook-wall-124241524.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T12:42:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Are Wall Street Analysts' Target Price for Lennar Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-124024144.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T12:40:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-humanoid-robot-maker-unitree-123559978.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T12:35:59+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
