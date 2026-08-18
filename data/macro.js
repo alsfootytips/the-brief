@@ -1,5 +1,5 @@
 window.theBriefMacro = {
-  "generated_at": "2026-08-18T21:48:48.739440+00:00",
+  "generated_at": "2026-08-18T22:14:36.475486+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
@@ -33,27 +33,27 @@ window.theBriefMacro = {
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4389.5,
-      "change_pct_1d": -0.64,
-      "change_pct_1w": -0.44
+      "value": 4393.8,
+      "change_pct_1d": -0.54,
+      "change_pct_1w": -0.34
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 84.42,
-      "change_pct_1d": -0.09,
-      "change_pct_1w": 1.38
+      "value": 84.47,
+      "change_pct_1d": -0.04,
+      "change_pct_1w": 1.44
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
       "value": 99.64,
-      "change_pct_1d": -0.01,
+      "change_pct_1d": 0.0,
       "change_pct_1w": -0.37
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 64566.01,
-      "change_pct_1d": 0.09,
-      "change_pct_1w": 2.53
+      "value": 64542.61,
+      "change_pct_1d": 0.06,
+      "change_pct_1w": 2.49
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 101,
