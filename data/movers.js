@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-18T05:29:33.664823+00:00",
+  "generated_at": "2026-08-18T05:57:47.562004+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -72,17 +72,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Barclays Maintains Overweight on Occidental Petroleum, Lowers Price Target to $71\""
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities Select Sector",
-      "price": 44.31,
-      "change_pct": 0.61,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     },
     {
       "ticker": "XLB",
@@ -174,6 +163,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": ""
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "price": 225.15,
+      "change_pct": -0.0,
+      "volume_ratio": 0.79,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
     }
   ],
   "losers": [
@@ -578,16 +579,6 @@ window.theBriefMovers = {
       "market_state": null
     },
     {
-      "ticker": "XLU",
-      "name": "Utilities Select Sector",
-      "price": 44.31,
-      "change_pct": 0.61,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 52.54,
@@ -936,13 +927,6 @@ window.theBriefMovers = {
         "TPL",
         "OXY"
       ]
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities Select Sector",
-      "change_pct": 0.61,
-      "price": 44.31,
-      "watchlist_members": []
     },
     {
       "ticker": "XLV",

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-18T05:29:33.670629+00:00",
+  "generated_at": "2026-08-18T05:57:47.567696+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -4.96,
       "price": 13.44,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T05:29:33.667772+00:00",
+      "timestamp": "2026-08-18T05:57:47.564919+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.28,
       "price": 722.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T05:29:33.667768+00:00",
+      "timestamp": "2026-08-18T05:57:47.564915+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,10 +58,120 @@ window.theBriefLive = {
       "change_pct": -3.63,
       "price": 31.57,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T05:29:33.667759+00:00",
+      "timestamp": "2026-08-18T05:57:47.564906+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Karman Line Acquisition prices $200M SPAC IPO",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634160-karman-line-acquisition-prices-200m-spac-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:42:15+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Google wins $10M bid for Spirit Airlines\u2019 business data to improve AI models - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634165-google-wins-10m-bid-for-spirit-airlines-business-data-to-improve-ai-models---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:35:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Tencent stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tencent-stock-sliding-today-93CH-4864277",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:29:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Basilea raises 2026 profit outlook on Cresemba sales growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/basilea-raises-2026-profit-outlook-on-cresemba-sales-growth-93CH-4864276",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:29:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Reach Subsea reports revenue jump in Q2 on higher activity",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/reach-subsea-reports-revenue-jump-in-q2-on-higher-activity-93CH-4864275",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:26:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Odfjell Drilling reports $57m Q2 profit despite rig downtime",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/odfjell-drilling-reports-57m-q2-profit-despite-rig-downtime-93CH-4864274",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:26:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "India\u2019s NSE seeks valuation of up to $55 bln in planned IPO - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/indias-nse-seeks-valuation-of-up-to-55-bln-in-planned-ipo--bloomberg-4864273",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:24:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Multiconsult reports 7.8% revenue growth in second quarter",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/multiconsult-reports-78-revenue-growth-in-second-quarter-93CH-4864272",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:24:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Huber+Suhner profit falls as optical switch spending weighs on H1",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/hubersuhner-profit-falls-as-optical-switch-spending-weighs-on-h1-4864271",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:22:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Elopak reports 4.9% revenue growth in second quarter",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/elopak-reports-49-revenue-growth-in-second-quarter-93CH-4864270",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:22:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -92,67 +202,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analysis-Climate damage: the next hit to Europe\u2019s public finances",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/analysisclimate-damage-the-next-hit-to-europes-public-finances-4864267",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T05:13:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australia\u2019s BHP, unions fail to reach wage deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/australias-bhp-unions-fail-to-reach-wage-deal-4864265",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T05:12:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "China's Xi Jinping to skip UN General Assembly during September U.S. trip - report",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4634167-chinas-xi-jinping-to-skip-un-general-assembly-during-september-us-trip---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-18T05:07:37+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analysis-Can nicotine pouches drive Big Tobacco\u2019s future beyond cigarettes?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/analysiscan-nicotine-pouches-drive-big-tobaccos-future-beyond-cigarettes-4864266",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T05:06:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nikkei 225 teeters at SuperTrend support: Hourly levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-stalls-at-618-fib-level-live-hourly-levels-93CH-4862053",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T05:05:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SK Hynix stuck below Ichimoku cloud at \u20a91,709,000: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T05:05:32+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -169,45 +224,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-lacks-direction-with-fed-outlook-usiran-tensions-in-focus-4864264",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:49:56+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Argo Graphene secures $1M funding for STREAM\u2122 commercialization",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4634168-argo-graphene-secures-1m-funding-for-stream-commercialization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-18T04:49:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PSP Swiss Property H1 profit climbs on sale, revaluations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/psp-swiss-property-h1-profit-climbs-on-sale-revaluations-93CH-4864263",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:46:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Skan reports 22% sales jump in first half, returns to profit",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/skan-reports-22-sales-jump-in-first-half-returns-to-profit-93CH-4864261",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:42:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -233,28 +254,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump approval falls to 33%, lowest of his presidency: Reuters",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634164-trump-approval-falls-to-33-lowest-of-his-presidency-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:26:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta faces opening arguments in federal trial over child safety allegations",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634163-meta-faces-opening-arguments-in-federal-trial-over-child-safety-allegations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:14:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1085,6 +1084,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:31:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "2 Major Catalysts Are Lifting IREN Stock. How to Play It Here.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-major-catalysts-lifting-iren-193002600.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html",
@@ -1130,33 +1151,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Now a Good Time to Buy Costco Wholesale Stock?",
+      "headline": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/now-good-time-buy-costco-175200280.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-16T17:52:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:39:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netflix Stock Is Cheap and It Has More Than 70% Upside Potential Here",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-cheap-more-70-173002732.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:30:02+00:00",
+      "timestamp": "2026-08-16T18:21:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
