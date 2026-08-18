@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-18T12:45:25+00:00",
+  "generated_at": "2026-08-18T13:32:04+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -789,7 +789,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CAAP",
         "date": "2026-08-18",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.5554,
         "revenue_estimate": 519746355,
         "is_watchlist": false
