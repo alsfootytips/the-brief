@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-18T04:52:50.640850+00:00",
+  "generated_at": "2026-08-18T05:29:33.664823+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     },
     {
       "ticker": "TPL",
@@ -111,7 +111,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.64,
+      "volume_ratio": 0.68,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -122,7 +122,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.27,
       "change_pct": 0.33,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -247,7 +247,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Potential Bull Trap - AI Growth Story With Strategic Financing\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     },
     {
       "ticker": "PLTR",
@@ -305,7 +305,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cumberland's Monday Memo\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     },
     {
       "ticker": "DIA",
@@ -423,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cumberland's Monday Memo\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     },
     {
       "ticker": "NBIS",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Potential Bull Trap - AI Growth Story With Strategic Financing\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     },
     {
       "ticker": "NVDA",
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today\""
+      "move_reason": "News: \"ValuEngine Weekly Market Summary And Commentary\""
     }
   ],
   "indices": [
@@ -612,7 +612,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.64,
+      "volume_ratio": 0.68,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -622,7 +622,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.27,
       "change_pct": 0.33,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true

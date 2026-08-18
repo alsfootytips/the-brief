@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-18T04:52:50.645433+00:00",
+  "generated_at": "2026-08-18T05:29:33.670629+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -4.96,
       "price": 13.44,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T04:52:50.643147+00:00",
+      "timestamp": "2026-08-18T05:29:33.667772+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.28,
       "price": 722.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T04:52:50.643144+00:00",
+      "timestamp": "2026-08-18T05:29:33.667768+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.63,
       "price": 31.57,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T04:52:50.643138+00:00",
+      "timestamp": "2026-08-18T05:29:33.667759+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asian stocks decline following Wall Street sell-off as Middle East hopes fade; oil tops $85",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634169-asian-stocks-decline-following-wall-street-sell-off-as-middle-east-hopes-fade-oil-tops-85?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:20:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -73,25 +84,121 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html",
       "is_watchlist": true,
-      "timestamp": "2026-08-18T04:49:27+00:00",
+      "timestamp": "2026-08-18T05:16:51+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Morning Bid: Bond investors in revolt as Iran threatens to go \u2019fully offensive\u2019",
+      "headline": "Analysis-Climate damage: the next hit to Europe\u2019s public finances",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/morning-bid-bond-investors-in-revolt-as-iran-threatens-to-go-fully-offensive-4864262",
-      "is_watchlist": true,
-      "timestamp": "2026-08-18T04:42:48+00:00",
-      "relevance_score": 5.5,
+      "url": "https://www.investing.com/news/economy-news/analysisclimate-damage-the-next-hit-to-europes-public-finances-4864267",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:13:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australia\u2019s BHP, unions fail to reach wage deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/australias-bhp-unions-fail-to-reach-wage-deal-4864265",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:12:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China's Xi Jinping to skip UN General Assembly during September U.S. trip - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634167-chinas-xi-jinping-to-skip-un-general-assembly-during-september-us-trip---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:07:37+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-Can nicotine pouches drive Big Tobacco\u2019s future beyond cigarettes?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/analysiscan-nicotine-pouches-drive-big-tobaccos-future-beyond-cigarettes-4864266",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:06:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nikkei 225 teeters at SuperTrend support: Hourly levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-stalls-at-618-fib-level-live-hourly-levels-93CH-4862053",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:05:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SK Hynix stuck below Ichimoku cloud at \u20a91,709,000: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:05:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US yen support mostly symbolic at $500M, Macquarie says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634159-us-yen-support-mostly-symbolic-at-500m-macquarie-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T05:05:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-lacks-direction-with-fed-outlook-usiran-tensions-in-focus-4864264",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T04:49:56+00:00",
+      "relevance_score": 3.0,
       "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Argo Graphene secures $1M funding for STREAM\u2122 commercialization",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634168-argo-graphene-secures-1m-funding-for-stream-commercialization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T04:49:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PSP Swiss Property H1 profit climbs on sale, revaluations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/psp-swiss-property-h1-profit-climbs-on-sale-revaluations-93CH-4864263",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T04:46:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -102,17 +209,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-18T04:42:48+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan\u2019s 10-year yield hits three-decade peak on inflation worries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japans-10year-government-bond-yield-rises-to-threedecade-peak-4864126",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:42:26+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -129,17 +225,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Catheter Precision earnings beat by $17.54, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/catheter-precision-earnings-beat-by-1754-revenue-fell-short-of-estimates-4864260",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:37:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
@@ -148,50 +233,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Chow Sang Sang stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-chow-sang-sang-stock-surging-today-93CH-4864259",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:31:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is EQT Holdings stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-eqt-holdings-stock-surging-today-93CH-4864258",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:31:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil climbs as fading US-Iran peace hopes raise supply risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-climbs-as-fading-usiran-peace-hopes-raise-supply-risks-4864170",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:30:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ecopetrol completes $1.2B acquisition of 51% stake in Brava",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ecopetrol-completes-12b-acquisition-of-51-stake-in-brava-93CH-4864257",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T04:28:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -218,45 +259,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tuesday\u2019s Economic Calendar",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4633950-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-18T04:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MetLife Fltg Rate Non Cum Preferred Stock Series A declares $0.3147 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634158-metlife-fltg-rate-non-cum-preferred-stock-series-a-declares-0_3147-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T03:29:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MetLife, Inc. Deposit Shs Repr Non-Cum Perp Red Pfd Shs Series E declares $0.3516 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634157-metlife-inc-deposit-shs-repr-non-cum-perp-red-pfd-shs-series-e-declares-0_3516-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T03:29:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MetLife, Inc. 4.75% DP PFD F declares $0.2968 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634156-metlife-inc-4_75-percent-dp-pfd-f-declares-0_2968-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T03:28:43+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-18T03:29:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -315,6 +323,53 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-18T01:13:00+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "ValuEngine Weekly Market Summary And Commentary",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9b4895bcab959f8da4e8a79105bd31fb76e60acd9b52236f18627a61dd4f3bb",
+      "is_watchlist": true,
+      "timestamp": "2026-08-18T00:55:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "ValuEngine Weekly Market Summary And Commentary",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9b4895bcab959f8da4e8a79105bd31fb76e60acd9b52236f18627a61dd4f3bb",
+      "is_watchlist": true,
+      "timestamp": "2026-08-18T00:55:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "ValuEngine Weekly Market Summary And Commentary",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9b4895bcab959f8da4e8a79105bd31fb76e60acd9b52236f18627a61dd4f3bb",
+      "is_watchlist": true,
+      "timestamp": "2026-08-18T00:55:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Disabled people in England to get 24-hour free bus travel",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T00:32:51+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -504,18 +559,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T21:11:55+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A Palestinian American's journey to his West Bank home under settler siege - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemVlSmx3ZkppbzZ6WE9oMzdjekdXOEIzUTBldm5NbG1DY3ZaUkUwSjlwdHFFekRjRDl6elZGdlUxQ1F5YmxTUXlDQTM0RHhKbGNMRlJxN3VsWHI2cGZ6Yjc2V2NaenFxRENiS003SmVYZlhReXEzYW9reUd6UWhyQnJZT1RwZFZyUk1rUFVMTk1ZZVR0MXJxdG1TREs5Sy0xOFdYeFFTemVqejJsN1RmQVZEbGlZY3A4NzJSZW5EWQ?oc=5",
@@ -696,18 +739,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-17T17:43:40+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Three Bubbles, One Liquidity Problem: The Market Is Running Out Of Room",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b2d8d8e57dca0f197f69d3c713ba68a1b27c609e03ba877a00d6cbbd9da6cfc6",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T17:31:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -996,18 +1027,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Is Back In The Bull Zone (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2bf6a38242695f3bf5148ca7df5248d3f75652f5dc48223d0b81aa648e3d381c",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T07:30:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Ferrari's first ever electric car sold for record $40m",
       "source": "BBC Business",
@@ -1066,6 +1085,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T19:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Oil Majors Reap $93 Billion Windfall From the Iran War",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
@@ -1100,6 +1130,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Is Now a Good Time to Buy Costco Wholesale Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/now-good-time-buy-costco-175200280.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-16T17:52:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html",
@@ -1117,28 +1158,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-16T17:30:02+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u201cTheir Job Is to Screw You:\u201d Dave Ramsey to Newlywed With $41K in Debt on a $95K Income",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/job-screw-dave-ramsey-newlywed-171813933.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:18:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Retail Earnings, Fed Minutes and Other Key Things to Watch this Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/retail-earnings-fed-minutes-other-170002024.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-16T17:00:02+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1241,17 +1260,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/08/14/nx-s1-5929414/why-some-companies-are-paying-more-than-1-million-to-get-through-the-panama-canal",
       "is_watchlist": false,
       "timestamp": "2026-08-14T21:22:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Protein or pickled garlic? What's new in ice cream",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-14T21:20:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

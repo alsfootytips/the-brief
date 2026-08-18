@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-18T04:52:50.730856+00:00",
+  "generated_at": "2026-08-18T05:29:33.784972+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -169,7 +169,7 @@ window.theBriefPicks = {
       "current_pct": 8.61,
       "change_pct_today": 1.26,
       "name": "Energy Select Sector",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 28,
       "days_remaining": 0,
       "pick_type": "strategic",
