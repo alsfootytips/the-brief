@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-18T22:51:19.680448+00:00",
+  "generated_at": "2026-08-18T23:21:48.072051+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.26,
-      "price": 698.74,
+      "change_pct": -3.64,
+      "price": 696.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T22:51:19.677500+00:00",
+      "timestamp": "2026-08-18T23:21:48.069292+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -8.7,
-      "price": 245.47,
+      "change_pct": -9.18,
+      "price": 244.18,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T22:51:19.677496+00:00",
+      "timestamp": "2026-08-18T23:21:48.069288+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": -6.7,
-      "price": 1006.75,
+      "change_pct": -6.67,
+      "price": 1006.99,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T22:51:19.677485+00:00",
+      "timestamp": "2026-08-18T23:21:48.069279+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,10 +67,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -12.73,
-      "price": 92.51,
+      "change_pct": -12.8,
+      "price": 92.43,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T22:51:19.677481+00:00",
+      "timestamp": "2026-08-18T23:21:48.069275+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -79,13 +79,112 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -4.94,
-      "price": 481.0,
+      "change_pct": -5.34,
+      "price": 478.99,
       "is_watchlist": true,
-      "timestamp": "2026-08-18T22:51:19.677471+00:00",
+      "timestamp": "2026-08-18T23:21:48.069266+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T23:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Banned over a pair of \u00a32 sandals': Why some sellers are complaining about Vinted",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T23:14:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mobile payments on the rise but cash decline slows",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T23:04:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Valeura Energy at EnerCom Denver: cash-rich growth plan takes focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/valeura-energy-at-enercom-denver-cashrich-growth-plan-takes-focus-93CH-4866222",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T23:04:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Drilling Tools International at EnerCom Denver: cash flow, M&A and expansion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/drilling-tools-international-at-enercom-denver-cash-flow-ma-and-expansion-93CH-4866221",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T23:01:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tech selloff weighs down Wall Street as bond yields climb",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T23:00:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Beyond marathons and backflips, China\u2019s robots face a commercial test",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/beyond-marathons-and-backflips-chinas-robots-face-a-commercial-test-4864742",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T23:00:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US transport regulator resumes review of Union Pacific\u2019s proposed Norfolk merger",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-transport-regulator-resumes-review-of-union-pacifics-proposed-norfolk-merger-4866219",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T22:54:44+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Charles Schwab MD Jonathan Beatty sells $111,330 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/charles-schwab-md-jonathan-beatty-sells-111330-in-stock-93CH-4866220",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T22:50:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -101,33 +200,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Alx oncology CEO Jason Lettmann disposes of $4,303 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/alx-oncology-ceo-jason-lettmann-disposes-of-4303-in-shares-93CH-4866217",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T22:45:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aura Minerals director Bruno Sousa Mauad buys $868,230 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/aura-minerals-director-bruno-sousa-mauad-buys-868230-in-shares-93CH-4866218",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T22:45:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-18T22:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EverCommerce director Eric Remer sells $531,650 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/evercommerce-director-eric-remer-sells-531650-in-shares-93CH-4866214",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T22:31:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Frp Holdings director John D. Baker II buys $200,936 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/frp-holdings-director-john-d-baker-ii-buys-200936-in-shares-93CH-4866213",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T22:31:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -145,50 +244,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Anterix director William Heard sells $4.18m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/anterix-director-william-heard-sells-418m-in-company-stock-93CH-4866212",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T22:31:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Whitecap Resources at EnerCom Denver: debt cuts, steady growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/whitecap-resources-at-enercom-denver-debt-cuts-steady-growth-93CH-4866210",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T22:26:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arista Networks at Rosenblatt AI summit: AI networking broadens",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/arista-networks-at-rosenblatt-ai-summit-ai-networking-broadens-93CH-4866209",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T22:26:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mercury Systems Q4 FY26 slides: record bookings offset margin pressure",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/mercury-systems-q4-fy26-slides-record-bookings-offset-margin-pressure-93CH-4866207",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T22:23:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trio Petroleum plunges after announcing 1-for-9 reverse stock split",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4634589-trio-petroleum-plunges-after-announcing-1-forminus-9-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -200,22 +255,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "JBS proposes to acquire remaining 18% stake in Pilgrim\u2019s Pride",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/jbs-proposes-to-acquire-remaining-18-stake-in-pilgrims-pride-93CH-4866206",
+      "headline": "Meta hooked children on Facebook and Instagram, court hears",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-18T22:20:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Up another 16% TODAY, see why this AI-picked medtech stock is now up +92%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/up-another-16-today-see-why-this-aipicked-medtech-stock-is-now-up-92-4866205",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T22:20:10+00:00",
+      "timestamp": "2026-08-18T22:11:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -308,7 +352,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-08-18T21:46:55+00:00",
+      "timestamp": "2026-08-18T21:47:57+00:00",
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -419,17 +463,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T20:39:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
@@ -473,26 +506,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "American Airlines to bring back TV screens on US flights",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T20:17:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s a \u2018ridiculously cheap\u2019 way to protect yourself against a stock-market selloff",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-a-ridiculously-cheap-way-to-protect-yourself-against-a-stock-market-selloff-67d3b312?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T20:07:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "France to expel two Iranian diplomats in coming days, foreign minister says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmFLeHRiWmVCUHhXbVM1d1VIS1RlNlh5YVI3cnB3Rzh6emVZTEtuTENUeUp4R3RUbkhfOFhrTHo5bTRRUEZnc2plT3U4NFFWMHVyZENpUDR4ZnBUVVBobFY4TUs2eHU5dHR3Z0UtcE5EMzFpdDlwRHE5YWpKLXRweXhNeXZpUGRyQjJ4QTRXLUxDNS1JOGEwM2R0M3ltYVRnS2hCdnMxU09yUGl0dkpj?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-18T20:11:58+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -673,17 +699,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/cyclospora-outbreak-changing-american-workplace-salad-lunch.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:19:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -908,17 +923,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T12:27:47+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1154,12 +1158,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hawaiian Electric\u2019s (HE) Second Quarter Numbers Mask A Harder Truth",
+      "headline": "Dear Wetour Robotics Stock Fans, Mark Your Calendars for August 24",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/hawaiian-electric-second-quarter-numbers-144032558.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-wetour-robotics-stock-fans-151002788.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-17T14:40:32+00:00",
+      "timestamp": "2026-08-17T15:10:02+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As Apple Builds Custom AI Models for China, Here\u2019s How to Play AAPL Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-builds-custom-ai-models-150934638.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T15:09:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Numbers Behind Assured Guaranty\u2019s (AGO) Record-Setting Quarter",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T15:09:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Indices Waver on Strength in Chipmakers vs Weakness in Software Companies",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-indices-waver-strength-chipmakers-150606856.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T15:06:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/gsk-eyes-anaptysbio-anab-acquisition-150348750.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T15:03:48+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Venezuela\u2019s Oil Revival Accelerates as U.S. Majors Push Trump\u2019s New Energy Order",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/venezuela-oil-revival-accelerates-u-150000465.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T15:00:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1173,62 +1232,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eli Lilly and Company (LLY)\u2019s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T14:34:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wheat Prices Are Headed Higher: Buy December SRW Wheat Here",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-prices-headed-higher-buy-143354579.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T14:33:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thermo Fisher Scientific Stock: Analyst Estimates & Ratings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-scientific-stock-analyst-143129026.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T14:31:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar Slips on Dialed-Back Fed Rate Hike Expectations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-dialed-back-fed-143125364.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T14:31:25+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "He was laid off after 25 years as an Adobe engineer, applied for a year, then gave up on tech to drive a school bus",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/laid-off-25-years-adobe-143000952.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T14:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
