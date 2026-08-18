@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-18T05:57:47.562004+00:00",
+  "generated_at": "2026-08-18T06:53:06.185064+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -74,6 +74,17 @@ window.theBriefMovers = {
       "move_reason": "News: \"Barclays Maintains Overweight on Occidental Petroleum, Lowers Price Target to $71\""
     },
     {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 44.31,
+      "change_pct": 0.61,
+      "volume_ratio": 0.97,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 52.54,
@@ -100,7 +111,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.68,
+      "volume_ratio": 0.64,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -111,7 +122,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.27,
       "change_pct": 0.33,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.91,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -150,18 +161,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 144.46,
-      "change_pct": 0.08,
-      "volume_ratio": 1.15,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -286,6 +285,28 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 144.34,
+      "change_pct": -0.43,
+      "volume_ratio": 1.15,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 110.98,
+      "change_pct": -0.41,
+      "volume_ratio": 0.99,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLK",
       "name": "Technology Select Sector",
       "price": 190.01,
@@ -325,28 +346,6 @@ window.theBriefMovers = {
       "price": 118.2,
       "change_pct": -0.21,
       "volume_ratio": 0.92,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPDR S&P 500 ETF",
-      "price": 776.34,
-      "change_pct": -0.2,
-      "volume_ratio": 0.92,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "price": 58.16,
-      "change_pct": -0.17,
-      "volume_ratio": 1.26,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -579,6 +578,16 @@ window.theBriefMovers = {
       "market_state": null
     },
     {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 44.31,
+      "change_pct": 0.61,
+      "volume_ratio": 0.97,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 52.54,
@@ -603,7 +612,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 112.95,
       "change_pct": 0.36,
-      "volume_ratio": 0.68,
+      "volume_ratio": 0.64,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -613,7 +622,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 45.27,
       "change_pct": 0.33,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.91,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -927,6 +936,13 @@ window.theBriefMovers = {
         "TPL",
         "OXY"
       ]
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "change_pct": 0.61,
+      "price": 44.31,
+      "watchlist_members": []
     },
     {
       "ticker": "XLV",
