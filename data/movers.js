@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-18T02:30:19.244291+00:00",
+  "generated_at": "2026-08-18T03:25:06.753902+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 110.82,
       "change_pct": -1.89,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -279,7 +279,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 44.83,
       "change_pct": -0.97,
-      "volume_ratio": 1.43,
+      "volume_ratio": 1.45,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -588,7 +588,7 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "price": 44.83,
       "change_pct": -0.97,
-      "volume_ratio": 1.43,
+      "volume_ratio": 1.45,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -628,7 +628,7 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "price": 110.82,
       "change_pct": -1.89,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
