@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-18T01:12:25.207726+00:00",
+  "generated_at": "2026-08-18T02:30:19.244291+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.68,
       "change_pct": -1.64,
-      "volume_ratio": 1.26,
+      "volume_ratio": 1.25,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -618,7 +618,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 84.68,
       "change_pct": -1.64,
-      "volume_ratio": 1.26,
+      "volume_ratio": 1.25,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -773,12 +773,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.0 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.0 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
