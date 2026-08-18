@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-18T12:26:12.715781+00:00",
+  "generated_at": "2026-08-18T12:45:25.335265+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 44.37,
@@ -54,7 +54,7 @@ window.theBriefFundamentals = {
       "realized_vol_30d_pct": 11.2,
       "trailing_pe": null,
       "forward_pe": -89.691414,
-      "price_to_sales": 50.37306,
+      "price_to_sales": 53.935707,
       "price_to_book": 9.509072,
       "enterprise_to_ebitda": 293.975,
       "profit_margin": 0.03129,
@@ -62,7 +62,7 @@ window.theBriefFundamentals = {
       "operating_margin": -0.00223,
       "revenue_growth_yoy": 4.54,
       "earnings_growth_qoq": null,
-      "market_cap": 68260532224,
+      "market_cap": 73088278528,
       "beta": 1.434,
       "dividend_yield": null,
       "short_ratio": 2.78,
@@ -212,15 +212,15 @@ window.theBriefFundamentals = {
       }
     },
     "TPL": {
-      "return_1m": -13.83,
-      "return_3m": -7.58,
-      "return_6m": -12.62,
+      "return_1m": -12.33,
+      "return_3m": -10.82,
+      "return_6m": -4.01,
       "return_1y": null,
       "return_ytd": 20.64,
       "return_52w_high": -33.48,
       "return_52w_low": 31.41,
-      "realized_vol_30d_pct": 2.92,
-      "trailing_pe": 46.077908,
+      "realized_vol_30d_pct": 3.19,
+      "trailing_pe": 45.66962,
       "forward_pe": 4.9342175,
       "price_to_sales": 27.726171,
       "price_to_book": 15.993882,
@@ -450,7 +450,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.133,
       "market_cap": 26488043520,
       "beta": 0.235,
-      "dividend_yield": 1.91,
+      "dividend_yield": 1.97,
       "short_ratio": 3.1,
       "short_percent_of_float": 0.038599998,
       "analyst_recs": {
@@ -522,7 +522,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -9.5,
       "return_52w_low": 94.4,
       "realized_vol_30d_pct": 3.49,
-      "trailing_pe": 30.961264,
+      "trailing_pe": 30.48884,
       "forward_pe": 42.97132,
       "price_to_sales": 6.9469376,
       "price_to_book": 24.033857,
