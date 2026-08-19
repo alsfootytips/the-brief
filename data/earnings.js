@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-19T22:24:20+00:00",
+  "generated_at": "2026-08-19T22:51:43+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -75,7 +75,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BBWI",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.2465,
         "revenue_estimate": 1526045256,
         "is_watchlist": false
@@ -99,7 +99,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CRWD",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2984,
         "revenue_estimate": 1468832374,
         "is_watchlist": false
@@ -107,7 +107,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DCI",
         "date": "2026-08-26",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 1.1355,
         "revenue_estimate": 1051523120,
         "is_watchlist": false
@@ -203,7 +203,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LTRX",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0389,
         "revenue_estimate": 31338816,
         "is_watchlist": false
@@ -227,7 +227,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OKTA",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.9841,
         "revenue_estimate": 808880675,
         "is_watchlist": false
@@ -243,7 +243,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OOMA",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.3376,
         "revenue_estimate": 83262304,
         "is_watchlist": false
@@ -251,7 +251,7 @@ window.theBriefEarnings = {
       {
         "ticker": "P",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.5891,
         "revenue_estimate": 1119006544,
         "is_watchlist": false
@@ -259,7 +259,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PLAB",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.4114,
         "revenue_estimate": 213016463,
         "is_watchlist": false
@@ -275,7 +275,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SFL",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0859,
         "revenue_estimate": 175053200,
         "is_watchlist": false
@@ -283,7 +283,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SJM",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.2219,
         "revenue_estimate": 2143003274,
         "is_watchlist": false
@@ -291,7 +291,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SNPS",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 3.7394,
         "revenue_estimate": 2486419891,
         "is_watchlist": false
@@ -315,7 +315,7 @@ window.theBriefEarnings = {
       {
         "ticker": "URBN",
         "date": "2026-08-26",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.759,
         "revenue_estimate": 1680784152,
         "is_watchlist": false
@@ -1229,7 +1229,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VTIX",
         "date": "2026-08-19",
-        "hour": "bmo",
+        "hour": "amc",
         "eps_estimate": -0.2397,
         "revenue_estimate": 546383,
         "is_watchlist": false
@@ -1511,7 +1511,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NMM",
         "date": "2026-08-20",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 4.6151,
         "revenue_estimate": 365383407,
         "is_watchlist": false
@@ -1795,7 +1795,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PICS",
         "date": "2026-08-24",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.9965,
         "revenue_estimate": 3773163600,
         "is_watchlist": false

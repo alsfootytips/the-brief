@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-19T22:24:20.981418+00:00",
+  "generated_at": "2026-08-19T22:51:43.526034+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.83,
-      "price": 18.69,
+      "change_pct": 6.17,
+      "price": 18.75,
       "is_watchlist": false,
-      "timestamp": "2026-08-19T22:24:20.978574+00:00",
+      "timestamp": "2026-08-19T22:51:43.523166+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": 3.73,
-      "price": 32.45,
+      "change_pct": 3.42,
+      "price": 32.35,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T22:24:20.978570+00:00",
+      "timestamp": "2026-08-19T22:51:43.523162+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,10 +55,22 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -9.43,
-      "price": 225.0,
+      "change_pct": -8.55,
+      "price": 227.2,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T22:24:20.978566+00:00",
+      "timestamp": "2026-08-19T22:51:43.523159+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "APA",
+      "name": "APA Corp",
+      "change_pct": 3.95,
+      "price": 44.04,
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T22:51:43.523147+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,13 +79,164 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.56,
-      "price": 467.14,
+      "change_pct": -3.2,
+      "price": 468.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T22:24:20.978548+00:00",
+      "timestamp": "2026-08-19T22:51:43.523138+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cloudflare chief legal officer Alissa Starzak sells $1.8m stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cloudflare-chief-legal-officer-alissa-starzak-sells-18m-stock-93CH-4868413",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:46:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Block director Anthony Eisen sells $1.44m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-144m-in-shares-93CH-4868412",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:46:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sitime director Frank Edward H. sells $745,000 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sitime-director-frank-edward-h-sells-745000-in-company-stock-93CH-4868411",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:45:57+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T22:39:40+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T22:39:40+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/payments-firm-stripe-to-buy-ai-developer-platform-openrouter-4867997",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:36:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hyve Solutions opens two Nevada manufacturing campuses",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/hyve-solutions-opens-two-nevada-manufacturing-campuses-93CH-4868410",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:36:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dianthus Therapeutics director Simon Read sells $326,553 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dianthus-therapeutics-director-simon-read-sells-326553-in-stock-93CH-4868409",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:35:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Etsy chief accounting officer Merilee Buckley sells $32,197 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/etsy-chief-accounting-officer-merilee-buckley-sells-32197-in-stock-93CH-4868408",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:35:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Synaptics VP Esther Song sells $45,307 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/synaptics-vp-esther-song-sells-45307-in-company-stock-93CH-4868407",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:34:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:34:33+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US national debt passes $40tn after doubling in a decade",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:31:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. wheat futures jump as Russian exports slowed by Black Sea port damage",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635190-u-s-wheat-futures-jump-as-russian-exports-slowed-by-black-sea-port-damage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:27:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -83,50 +246,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-19T22:02:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave EVP Chen Goldberg sells $678,790 in shares on Aug. 17",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweave-evp-chen-goldberg-sells-678790-in-shares-on-aug-17-93CH-4868382",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:01:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Universal Safety Products director Milton Ault buys $201,392 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/universal-safety-products-director-milton-ault-buys-201392-in-shares-93CH-4868381",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:01:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morningstar executive chairman Mansueto sells $4.57m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-mansueto-sells-457m-in-stock-93CH-4868380",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:01:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Explainer-What to know about the multistate salmonella outbreak in the US",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/explainerwhat-to-know-about-the-multistate-salmonella-outbreak-in-the-us-4868379",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:00:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -150,50 +269,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T21:59:09+00:00",
       "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sonoma Pharmaceuticals cancels special meeting due to lack of quorum",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/sonoma-pharmaceuticals-cancels-special-meeting-due-to-lack-of-quorum-93CH-4868376",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:57:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Sol\u00e9sence posts lower Q2 2026 revenue as stock swings",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-solesence-posts-lower-q2-2026-revenue-as-stock-swings-93CH-4868375",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:57:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Bill.com stock climbing today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-billcom-stock-climbing-today-93CH-4868374",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:54:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Astrotech files prospectus supplement for up to $50 million stock offering",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/astrotech-files-prospectus-supplement-for-up-to-50-million-stock-offering-93CH-4868373",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:53:39+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -263,17 +338,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ross Stores Q2 2027 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634969-ross-stores-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:35:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -330,17 +394,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T21:05:31+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:01:13+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -472,17 +525,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US long-term borrowing costs ease after government steps in",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T19:26:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Which dow jones stocks are moving on Wednesday?",
       "source": "ChartMill",
@@ -514,18 +556,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-19T18:57:09+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T18:54:50+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -853,6 +883,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "APA",
+      "headline": "Argus Research Upgrades APA to Buy, Announces $48 Price Target",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1ab6bdf9ebe0c253e84a7408df2491efbecb425e925af31d159185cba5da89e4",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T08:52:12+00:00",
+      "relevance_score": 8.5,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: APA"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "FCC head Brendan Carr says Disney free speech lawsuit is 'without merit'",
       "source": "NPR Business",
@@ -993,78 +1035,78 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Baron Capital Adds Blackstone Digital Infrastructure Trust (BXDC) on Strong Leadership and Robust Pipeline",
+      "headline": "Ahead of Target Earnings, Here's What Barchart Data Says Comes Next for TGT Stock",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/baron-capital-adds-blackstone-digital-142232750.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-target-earnings-heres-barchart-145229291.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-18T14:22:32+00:00",
+      "timestamp": "2026-08-18T14:52:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Austria Fines Bitpanda \u20ac70,000 for MiCA Whitepaper and Marketing Breaches",
+      "headline": "There Is Now a Way to Collect 6.25% From Google. It Stops Paying in 2029",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/austria-fines-bitpanda-70-000-142044704.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/now-way-collect-6-25-145016822.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-18T14:20:44+00:00",
+      "timestamp": "2026-08-18T14:50:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/jeff-currie-forget-91-brent-144900181.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:49:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cotton Prices Are Headed Higher. How to Trade Them Here.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-prices-headed-higher-trade-144757578.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:47:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Bank Of America Is Bullish On Cybersecurity Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:47:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "10-Year Treasury Yield Near Breakout; What You Need To Know",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/10-year-treasury-yield-near-breakout-why-it-matters/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:45:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Deutsche Bank Just Downgraded Workday Stock. Here's Why.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-just-downgraded-workday-144333755.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:43:33+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Visa In Search Of Stablecoin Partner After BVNK Sale",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/visa-search-stablecoin-partner-bvnk-142000492.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Michael Burry is Bullish on This Beaten-Down Healthcare Stock. Time to Buy?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/michael-burry-bullish-beaten-down-141932183.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:19:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Interface (TILE) Posts Record Margins, But One Big Question Looms",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/interface-tile-posts-record-margins-141900350.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:19:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear Webull Stock Fans, Mark Your Calendars for August 19",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-webull-stock-fans-mark-141623538.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:16:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citigroup To Launch Bitcoin Custody For Institutional Clients",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-launch-bitcoin-custody-institutional-141400472.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:14:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1161,18 +1203,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "APA Corporation: Fundamentals Keep Improving As The Re-Rating Case Gets Stronger",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d849f18a1cc12a52d989c3e4b914aa3d0e883a6767142fb8442cb6b2a8457cf7",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T23:29:08+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Pick: APA"
     },
     {
       "type": "news",
@@ -1347,17 +1377,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:50:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-13T20:21:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
