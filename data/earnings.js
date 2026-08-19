@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-19T08:16:49+00:00",
+  "generated_at": "2026-08-19T09:04:49+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1182,16 +1182,16 @@ window.theBriefEarnings = {
         "ticker": "TGT",
         "date": "2026-08-19",
         "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": 2.3095,
+        "revenue_estimate": 26324568724,
         "is_watchlist": false
       },
       {
         "ticker": "TGT",
         "date": "2026-08-19",
         "hour": "bmo",
-        "eps_estimate": 2.3095,
-        "revenue_estimate": 26324568724,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
