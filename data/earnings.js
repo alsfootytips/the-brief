@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-19T20:27:38+00:00",
+  "generated_at": "2026-08-19T20:56:08+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -757,7 +757,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ALVO",
         "date": "2026-08-19",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0275,
         "revenue_estimate": 113230200,
         "is_watchlist": false
