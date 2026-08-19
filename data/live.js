@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-19T17:59:31.364793+00:00",
+  "generated_at": "2026-08-19T18:47:04.781449+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.18,
-      "price": 674.03,
+      "change_pct": -3.88,
+      "price": 669.12,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T17:59:31.361984+00:00",
+      "timestamp": "2026-08-19T18:47:04.778681+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,22 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -9.48,
-      "price": 224.87,
+      "change_pct": -11.28,
+      "price": 220.4,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T17:59:31.361980+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
-      "ticker": "APA",
-      "name": "APA Corp",
-      "change_pct": 4.07,
-      "price": 44.09,
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T17:59:31.361969+00:00",
+      "timestamp": "2026-08-19T18:47:04.778676+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.82,
-      "price": 465.89,
+      "change_pct": -3.81,
+      "price": 465.95,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T17:59:31.361961+00:00",
+      "timestamp": "2026-08-19T18:47:04.778660+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,33 +66,309 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Regeneron wins FDA nod for rare bone disorder therapy",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635064-regeneron-rare-bone-disorder-therapy-approved?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "US long-term borrowing costs ease after government steps in",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:53:01+00:00",
+      "timestamp": "2026-08-19T18:42:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Diesel in California rises to $7 a gallon as wars in Europe and Middle East strain supply",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/19/diesel-price-california-ukraine-russia-iran-strait-hormuz.html",
+      "headline": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:51:04+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-08-19T18:39:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/adi-stock-analog-devices-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo",
+      "headline": "Biotechs hit a post-pandemic high after mRNA trial win for Moderna, Merck",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635075-biotech-stocks-hit-post-pandemic-high-moderrna-trial-win?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:49:22+00:00",
+      "timestamp": "2026-08-19T18:38:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New CDC director says vaccines are 'safe and effective'",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635074-new-cdc-director-says-vaccines-safe-and-effective?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:38:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gen-z-used-to-embrace-ai-now-most-young-adults-fear-it-will-steal-their-jobs-b02bdcfb?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Williams Trading raises Wolverine World Wide price target on brand momentum",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/williams-trading-raises-wolverine-world-wide-price-target-on-brand-momentum-93CH-4868045",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:34:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "1911 Gold at sidoti micro-cap virtual conference: production push",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/1911-gold-at-sidoti-microcap-virtual-conference-production-push-93CH-4868041",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:31:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:31:21+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Analysis-ABC says intimidation by Trump\u2019s FCC forced programming changes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/analysisabc-says-intimidation-by-trumps-fcc-forced-programming-changes-4867993",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T18:30:46+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CryptoCapitalFund Makes Major Investment in IBNAi with Acquisition of 200 Million Tokens",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cryptocapitalfund-makes-major-investment-in-ibnai-with-acquisition-of-200-million-tokens-4868038",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:30:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/payments-firm-stripe-to-buy-ai-developer-platform-openrouter-4867997",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:30:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Treasury's buyback expansion is not QE",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635066-treasurys-buyback-expansion-is-not-qe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:30:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dominion Energy upgraded at TD Cowen on favorable merger odds",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635072-dominion-energy-upgraded-at-td-cowen-on-favorable-merger-odds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:29:36+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold jumps as Treasury buyback plans push yields lower, Fed flags inflation risks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/gold-steadies-after-big-drop-as-oil-bond-yields-pressure-bullion-fed-minutes-due-4866317",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:28:44+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stripe confirms OpenRouter acquisition, terms undisclosed",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635068-stripe-confirms-openrouter-acquisition-terms-undisclosed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:28:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cinemark joins AMC and Regal in backing Paramount-Warner merger",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635065-cinemark-joins-amc-and-regal-in-backing-paramount-warner-merger?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:27:56+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia considers funding AI startup Mercor, which helps it develop open-source models: report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635071-nvidia-considers-funding-ai-startup-mercor-which-helps-it-develop-open-source-models-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:27:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed minutes reveal growing support for rate hikes",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-minutes-reveal-growing-support-for-rate-hikes-84fc9afa?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:27:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA upgrades Moderna stock rating on cancer drug progress",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-upgrades-moderna-stock-rating-on-cancer-drug-progress-93CH-4868037",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:26:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I want to be a snowbird. Can my $2 million nest egg sustain two homes?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:26:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3-2-1 crack spread near $70 a barrel: what it means for refining stocks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/321-crack-spread-near-70-a-barrel-what-it-means-for-refining-stocks-93CH-4868036",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:24:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:07:40+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:06:04+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=06bc9619bf53a11a041c1a94ae5eb97fa03663fcef161e2b5f6c6836998b06d4",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T18:05:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Want to bet on the bond rally? Check out these overlooked funds.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:04:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Which stocks are most active on Wednesday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=709907e313da67eb9297d61718e239cfbac798b8fcaa3222f3077e4bb4eb234f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T18:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have ultimate authority?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -144,234 +408,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BofA makes bold call on Cisco stock after earnings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-makes-bold-call-cisco-174700307.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:47:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Upstart stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-upstart-stock-surging-today-93CH-4867999",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:44:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Analysis-ABC says intimidation by Trump\u2019s FCC forced programming changes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/analysisabc-says-intimidation-by-trumps-fcc-forced-programming-changes-4867993",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T17:43:24+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar briefly hits over three-month low as Treasury moves to relieve bond markets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/asia-fx-rises-as-treasury-yields-ease-s-korean-won-hits-1yr-high-4866425",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:43:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Payments firm Stripe to buy AI developer platform OpenRouter",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/payments-firm-stripe-to-buy-ai-developer-platform-openrouter-4867997",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:43:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Est\u00e9e Lauder forecasts fiscal 2027 EPS of $3.10 to $3.35 as it raises operating margin outlook to 12.7% to 13.5%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635063-estee-lauder-forecasts-fiscal-2027-eps-of-3_10-to-3_35-as-it-raises-operating-margin-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:42:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/article/the-treasury-department-just-pushed-down-long-term-us-bond-yields-that-could-make-kevin-warshs-job-harder-174238269.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:42:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US CFTC seeks comment on compute derivatives as AI demand grows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-cftc-seeks-comment-on-compute-derivatives-as-ai-demand-grows-4867996",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:42:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Est\u00e9e Lauder earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/estee-lauder-earnings-analysis-questions-answered-and-next-catalysts-93CH-4867994",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:41:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US CFTC seeks comment on compute derivatives as AI demand grows",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/us-cftc-seeks-compute-derivatives-173923161.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:39:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple\u2019s stock could be the savviest buy within Big Tech, according to this analysis",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/apples-stock-could-be-the-savviest-buy-within-big-tech-according-to-this-analysis-84d67c92?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:39:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SQM rises as Q2 routs expectations while lithium sales hit quarterly record",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635059-sqm-rises-as-q2-routs-expectations-while-lithium-sales-hit-quarterly-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:35:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Target earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/target-earnings-analysis-questions-answered-and-next-catalysts-93CH-4867992",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:35:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UNO is still dealing Mattel a winning hand",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634938-uno-is-still-dealing-mattel-a-winning-hand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:34:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Opera falls after mixed Q2; raises FY26 outlook but softer sales guidance",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634846-opera-dips-after-mixed-q2-raises-fy26-outlook-but-softer-sales-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:34:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Toll Brothers projects $700M buybacks and reaffirms ~$10.5B 2026 revenue with 8%-10% community growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635060-toll-brothers-projects-700m-buybacks-and-reaffirms-10_5b-2026-revenue-with-8-percentminus-10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:33:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says U.S. reached a deal with Canada; Carney says 'moving towards' one - report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635029-us-reaches-deal-with-canada-trump-says---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T17:31:49+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-treasury-to-double-sizes-of-some-debt-buyback-operations-to-at-least-4-billion-4867698",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:31:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-treasury-double-sizes-debt-134308742.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:25:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
@@ -389,28 +425,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T17:25:05+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tencent-music-tme-turns-streaming-172444596.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:24:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Trump accounts\u2019 won\u2019t help solve Americans\u2019 savings problems. Here\u2019s a better way.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-accounts-wont-help-solve-americans-savings-problems-heres-a-better-way-73c32cff?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:21:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -436,15 +450,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "My male co-workers with kids expect me to pick up their slack because I don\u2019t have children. Do I push back?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-male-co-workers-with-kids-expect-me-to-pick-up-their-slack-because-i-dont-have-children-do-i-push-back-700f3a2a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T16:41:28+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -469,28 +487,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "9 stocks to ride the industrial sector\u2019s blazing rally",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/9-stocks-to-ride-the-industrial-sectors-blazing-rally-8f23092f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:40:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -523,17 +519,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T16:08:58+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Monzo says issue with card payments and transfers now resolved",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:04:16+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -577,17 +562,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
       "is_watchlist": false,
       "timestamp": "2026-08-19T15:12:28+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T14:25:12+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -638,36 +612,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "AMD's Helios Platform And Explosive EPS Growth Make It A Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=40ee1181574ba41d6f7d831f60ab656cee9073ec8b8a7fb44efc5176d74c4491",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T13:13:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "Moderna Doubles, Gold Rallies To $4,500 As Dollar Sinks: Stock Market Today",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=85516d8c008355770031d63deb6a804ab3ae2903871b25ce3955544dea3beff6",
       "is_watchlist": true,
       "timestamp": "2026-08-19T13:10:27+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Investors Should Position For Humanoid Robot Boom\u2014Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=85690539df1f074b0141508ef60dd8720ee3792d4601920da3731c6695610e5e",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T13:09:55+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -732,17 +682,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUkzcjBJVHphRWJDcFhBSjFzaVZoS0VpblpPRzNLT0VrajJPZUoyZXFBa1JQV25Va3ZEODhIbVp0bU5zb2RDLUN5MlI2TjRkX0FkaFV4aGlLNTBRQl9JSDNoMF9GNnZFYWk5X08xMUtnLVFjN3l2UktNQjQ5eWJwVGVVbU9lUGpKNHJZd1p0TU1DT0o2eDlVVlU2cGNwdlc1X3loc3NmTVZTeUh5N1pjR3liajFlVEN6c1RTckhaVkFwWF95THY5WkpB?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T11:40:44+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Inflation is heating up but don't expect another crisis",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
@@ -788,17 +727,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T10:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Stripe\u2019s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
       "source": "Benzinga",
@@ -817,6 +745,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=9a884db856424f40ce0359e24909a5d2d6d87fcaabcaa4d867c003d2e6053f7a",
       "is_watchlist": true,
       "timestamp": "2026-08-19T09:47:58+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Leading And Lagging Sectors For August 19, 2026",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=594a7919bb898ae466d86cda281d6ba58e9a1d1a055989099294a9ee567d8cca",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T09:10:11+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1092,18 +1032,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a1e896aa71ebecc79b309653ec4b85bc10559029986ca2b2de4dd3a0e243df93",
-      "is_watchlist": true,
-      "timestamp": "2026-08-18T12:40:18+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Nucor: Tariff Shield, Rising Capacity, And Infrastructure Demand Merit A Strong Buy",
       "source": "SeekingAlpha",
@@ -1122,6 +1050,83 @@ window.theBriefLive = {
       "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
       "is_watchlist": false,
       "timestamp": "2026-08-18T10:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oregon man won $5K a week for life from PCH \u2014 they went bankrupt and his income vanished. How to hold onto your wealth",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/oregon-man-won-5k-week-111100662.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T09:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SIG names Ann-Kristin Erkens new CEO in swift leadership shift",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sig-names-ann-kristin-erkens-093721646.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T09:37:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Are Wall Street Analysts' Target Price for Expeditors International Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-093541496.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T09:35:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European direct lending volume rebounds, amid support for software names",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/european-direct-lending-volume-rebounds-093531367.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T09:35:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wendy\u2019s (WEN) New Leadership Confronts A Steep Turnaround",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-wen-leadership-confronts-steep-092529600.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T09:25:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Social Security now poised for big \u2018Trump Bump\u2019 in the months ahead \u2014 here\u2019s how much extra cash you\u2019ll likely get",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/social-security-now-poised-big-163000521.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T09:15:00+00:00",
+      "relevance_score": -2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ask an Advisor: I'm 43 With $315K in an IRA, $90K in a Roth and Maxing My 401(k). Is Retirement at 57 Realistic?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/ask-advisor-im-43-old-160032038.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1242,17 +1247,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tech stocks today: OpenAI's growth disappoints, Meta trial continues",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-meta-trial-continues-132945569.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T13:29:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
