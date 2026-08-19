@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-19T03:30:00.884220+00:00",
+  "generated_at": "2026-08-19T04:11:13.789525+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.98,
       "price": 693.53,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T03:30:00.881306+00:00",
+      "timestamp": "2026-08-19T04:11:13.786763+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -9.32,
       "price": 243.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T03:30:00.881302+00:00",
+      "timestamp": "2026-08-19T04:11:13.786759+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -6.75,
       "price": 1006.22,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T03:30:00.881292+00:00",
+      "timestamp": "2026-08-19T04:11:13.786750+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": -13.11,
       "price": 92.1,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T03:30:00.881287+00:00",
+      "timestamp": "2026-08-19T04:11:13.786746+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -82,10 +82,168 @@ window.theBriefLive = {
       "change_pct": -5.26,
       "price": 479.4,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T03:30:00.881278+00:00",
+      "timestamp": "2026-08-19T04:11:13.786737+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Evolve Future Leadership Fund - ETF Hedged declares CAD 0.21 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634658-evolve-future-leadership-fund-etf-hedged-declares-cad-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T04:03:45+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Evolve Active Core Fixed Income Fund Unhedged ETF declares CAD 0.055 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634657-evolve-active-core-fixed-income-fund-unhedged-etf-declares-cad-0_055-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T04:03:21+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Evolve FANGMA Index ETF - Unhedged ETF Units declares CAD 0.0016 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634656-evolve-fangma-index-etf-unhedged-etf-units-declares-cad-0_0016-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T04:03:04+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Evolve Automobile Innovation Index ETF declares CAD 0.25 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634655-evolve-automobile-innovation-index-etf-declares-cad-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T04:02:48+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Evolve Cyber Security Index ETF Unhedged USD declares $0.01 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634654-evolve-cyber-security-index-etf-unhedged-usd-declares-0_01-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T04:02:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Evolve Cloud Cmptng Indx ETF-Hedged declares CAD 0.01 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634653-evolve-cloud-cmptng-indx-etf-hedged-declares-cad-0_01-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T04:02:21+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Evolve Enhanced Yield Bond Fund ETF declares CAD 0.19 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634651-evolve-enhanced-yield-bond-fund-etf-declares-cad-0_19-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T04:00:12+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T03:56:35+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bank of America names new Asia Pacific industrials banking leadership team, memo says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-names-new-asia-pacific-industrials-banking-leadership-team-memo-says-4866408",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T03:54:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Southern Cross Electrical posts record FY 2026 profit",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-southern-cross-electrical-posts-record-fy-2026-profit-93CH-4866407",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T03:45:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KKR acquires minority stake in BookMyShow",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/kkr-acquires-minority-stake-in-bookmyshow-93CH-4866406",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T03:44:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Xiaomi shares climb after Q2 earnings as smartphone pressure eases",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/xiaomi-shares-climb-after-q2-earnings-as-smartphone-pressure-eases-4866404",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T03:37:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exponent CEO Catherine Corrigan sells $113,135 in EXPO shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/exponent-ceo-catherine-corrigan-sells-113135-in-expo-shares-93CH-4866403",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T03:30:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Freedom Holding Marks New T\u00fcrkiye Milestone as Freedom Yat\u0131r\u0131m Secures Brokerage License",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/freedom-holding-marks-new-turkiye-milestone-as-freedom-yatrm-secures-brokerage-license-4866402",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T03:30:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -116,166 +274,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is China Unicom Hong Kong stock sliding today?",
+      "headline": "Lumentum EVP retort sells $2.89 million in company shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-china-unicom-hong-kong-stock-sliding-today-93CH-4866398",
+      "url": "https://www.investing.com/news/insider-trading-news/lumentum-evp-retort-sells-289-million-in-company-shares-93CH-4866400",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T03:12:50+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Xiaomi stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4866397",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T03:12:43+00:00",
+      "timestamp": "2026-08-19T03:16:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia H200 chips reach China in small shipments, FT reports",
+      "headline": "Fold Holdings CTO Dickman sells $1,317 in common stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-h200-chips-reach-china-in-small-shipments-ft-reports-4866385",
+      "url": "https://www.investing.com/news/insider-trading-news/fold-holdings-cto-dickman-sells-1317-in-common-stock-93CH-4866399",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T03:12:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Baidu stock cratering today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-baidu-stock-cratering-today-93CH-4866396",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T03:03:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RBA\u2019s Hauser warns of rate hike if inflation risks crystallize",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/rbas-hauser-warns-of-rate-hike-if-inflation-risks-crystallize-4866395",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T03:01:14+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta CFO Susan Li acquires shares, stock withheld for tax obligations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/meta-cfo-susan-li-acquires-shares-stock-withheld-for-tax-obligations-93CH-4866394",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T03:01:10+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corpay group president Alan King sells $10.65m of common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/corpay-group-president-alan-king-sells-1065m-of-common-stock-93CH-4866393",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T03:01:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bond selloff slows but stocks wobble",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bond-selloff-slows-but-stocks-wobble-4866392",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T03:00:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Evolve All-in-One UltraYield ETF (CAD-Hedged) declares CAD 0.255 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634607-evolve-all-in-one-ultrayield-etf-cad-hedged-declares-cad-0_255-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T02:55:34+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Evolve International Equity UltraYieldETF (CAD-He) ETF declares CAD 0.26 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634606-evolve-international-equity-ultrayieldetf-cad-he-etf-declares-cad-0_26-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T02:55:07+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Evolve Big Six Canadian Banks UltraYield Index ETF declares CAD 0.27 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634605-evolve-big-six-canadian-banks-ultrayield-index-etf-declares-cad-0_27-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T02:54:40+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Evolve Canadian Equity UltraYield ETF (CAD-Un) declares CAD 0.21 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634604-evolve-canadian-equity-ultrayield-etf-cad-un-declares-cad-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T02:53:57+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Evolve US Equity UltraYield ETF (CAD-Hedged) declares CAD 0.20 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634603-evolve-us-equity-ultrayield-etf-cad-hedged-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T02:53:22+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Allspring Global Dividend Opportunity Fund raises quarterly dividend by 4.3% to  $0.1482/share",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634602-allspring-global-dividend-opportunity-fund-raises-quarterly-dividend-by-43-to-01482share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T02:45:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Allspring Utilities and High Income Fund raises dividend by 0.1% to  $0.0879/share",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4634601-allspring-utilities-and-high-income-fund-raises-dividend-by-01-to-00879share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T02:44:13+00:00",
+      "timestamp": "2026-08-19T03:16:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -292,19 +306,15 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T02:41:36+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
+      "headline": "Pictures of the Day | August 18, 2026 - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T02:41:33+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -504,21 +514,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-18T21:29:03+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-18T21:21:04+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -722,6 +717,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-18T16:51:00+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": "APA",
       "headline": "APA Corporation (APA) Presents at 31st Annual EnerCom Energy Investment Conference - Slideshow",
@@ -747,17 +757,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/cyclospora-outbreak-changing-american-workplace-salad-lunch.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:19:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1137,6 +1136,72 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T16:11:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kodiak Gas (KGS) Rides Record Earnings Into A Power Buildout",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/kodiak-gas-kgs-rides-record-161011045.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T16:10:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SIG\u2019s Turnaround Gets a CEO Plot Twist",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sig-turnaround-gets-ceo-plot-160813677.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T16:08:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "In the AI Era, Duolingo Is Betting on Humans",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/ai-era-duolingo-betting-humans-160727477.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T16:07:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Old Dominion Freight Line Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-stock-160706383.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T16:07:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This $9.8B Medicare subsidy was just ended \u2014 and millions are worried about Plan D. Will you be paying more in 2027?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/9-8b-medicare-subsidy-just-160500849.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T16:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TPL",
       "headline": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years \u2014 but 4 Stocks Beat It Over the Past 5 Years",
       "source": "Benzinga",
@@ -1158,72 +1223,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Wall Street Analysts Predicting Becton, Dickinson and Company Stock Will Climb or Sink?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-becton-154922963.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T15:49:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Greenhaven Road Capital: Short Term Gain Realized from Liquidia (LQDA), Investment to Be Revisited",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/greenhaven-road-capital-short-term-154720524.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T15:47:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rocket Lab\u2019s Biggest Breakthrough Has Nothing to Do With Neutron",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-biggest-breakthrough-nothing-154229929.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T15:42:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AppLovin (APP) Offers Attractive Cash Flow Multiple?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-offers-attractive-cash-153854153.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T15:38:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cable One (CABO) Fights Subscriber Losses While Squeezing Out Cash",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cable-one-cabo-fights-subscriber-153422519.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T15:34:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crude Prices Slightly Lower as Oil Supplies Transit Through the Persian Gulf",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/crude-prices-slightly-lower-oil-153307983.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-17T15:33:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
