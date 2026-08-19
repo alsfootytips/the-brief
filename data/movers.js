@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-19T05:30:14.337184+00:00",
+  "generated_at": "2026-08-19T05:59:16.238957+00:00",
   "gainers": [
     {
       "ticker": "XLV",
@@ -17,7 +17,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 121.93,
       "change_pct": 1.54,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -125,7 +125,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 243.8,
       "change_pct": -9.32,
-      "volume_ratio": 0.53,
+      "volume_ratio": 0.66,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -149,7 +149,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 479.4,
       "change_pct": -5.26,
-      "volume_ratio": 0.97,
+      "volume_ratio": 1.11,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -161,7 +161,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 544.67,
       "change_pct": -4.27,
-      "volume_ratio": 1.29,
+      "volume_ratio": 1.68,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -197,7 +197,7 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 219.25,
       "change_pct": -2.56,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -213,6 +213,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "price": 717.51,
+      "change_pct": -1.69,
+      "volume_ratio": 1.53,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
       "move_reason": ""
     },
     {
@@ -272,18 +283,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 109.88,
-      "change_pct": -0.83,
-      "volume_ratio": 1.25,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -292,7 +291,7 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 479.4,
       "change_pct": -5.26,
-      "volume_ratio": 0.97,
+      "volume_ratio": 1.11,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -328,7 +327,7 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 121.93,
       "change_pct": 1.54,
-      "volume_ratio": 1.07,
+      "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -364,7 +363,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 243.8,
       "change_pct": -9.32,
-      "volume_ratio": 0.53,
+      "volume_ratio": 0.66,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -376,7 +375,7 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 219.25,
       "change_pct": -2.56,
-      "volume_ratio": 0.99,
+      "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -481,9 +480,9 @@ window.theBriefMovers = {
     {
       "ticker": "QQQ",
       "name": "Invesco QQQ Trust",
-      "price": 729.87,
-      "change_pct": -0.16,
-      "volume_ratio": 0.95,
+      "price": 717.51,
+      "change_pct": -1.69,
+      "volume_ratio": 1.53,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -491,9 +490,9 @@ window.theBriefMovers = {
     {
       "ticker": "SPY",
       "name": "SPDR S&P 500 ETF",
-      "price": 772.67,
-      "change_pct": -0.47,
-      "volume_ratio": 1.02,
+      "price": 767.45,
+      "change_pct": -0.68,
+      "volume_ratio": 1.23,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
