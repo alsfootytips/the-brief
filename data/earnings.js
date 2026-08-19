@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-19T15:46:38+00:00",
+  "generated_at": "2026-08-19T16:31:42+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -2481,6 +2481,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GTLB",
+        "date": "2026-09-01",
+        "hour": "",
+        "eps_estimate": 0.1831,
+        "revenue_estimate": 278579707,
+        "is_watchlist": false
+      },
+      {
         "ticker": "GUT",
         "date": "2026-09-01",
         "hour": "",
@@ -2646,6 +2654,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "YEXT",
+        "date": "2026-09-01",
+        "hour": "",
+        "eps_estimate": 0.1734,
+        "revenue_estimate": 113526000,
         "is_watchlist": false
       },
       {
@@ -2912,6 +2928,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 1.8353,
         "revenue_estimate": 2509611355,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MTRX",
+        "date": "2026-09-02",
+        "hour": "",
+        "eps_estimate": 0.153,
+        "revenue_estimate": 251977230,
         "is_watchlist": false
       },
       {
