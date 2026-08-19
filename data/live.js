@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-19T22:16:51.424061+00:00",
+  "generated_at": "2026-08-19T22:24:20.981418+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.49,
-      "price": 18.63,
+      "change_pct": 5.83,
+      "price": 18.69,
       "is_watchlist": false,
-      "timestamp": "2026-08-19T22:16:51.245493+00:00",
+      "timestamp": "2026-08-19T22:24:20.978574+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 3.73,
       "price": 32.45,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T22:16:51.245489+00:00",
+      "timestamp": "2026-08-19T22:24:20.978570+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -9.22,
-      "price": 225.52,
+      "change_pct": -9.43,
+      "price": 225.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T22:16:51.245484+00:00",
+      "timestamp": "2026-08-19T22:24:20.978566+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,10 +67,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.55,
-      "price": 467.2,
+      "change_pct": -3.56,
+      "price": 467.14,
       "is_watchlist": true,
-      "timestamp": "2026-08-19T22:16:51.245468+00:00",
+      "timestamp": "2026-08-19T22:24:20.978548+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -993,6 +993,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Baron Capital Adds Blackstone Digital Infrastructure Trust (BXDC) on Strong Leadership and Robust Pipeline",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/baron-capital-adds-blackstone-digital-142232750.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:22:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Austria Fines Bitpanda \u20ac70,000 for MiCA Whitepaper and Marketing Breaches",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/austria-fines-bitpanda-70-000-142044704.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:20:44+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visa In Search Of Stablecoin Partner After BVNK Sale",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/visa-search-stablecoin-partner-bvnk-142000492.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michael Burry is Bullish on This Beaten-Down Healthcare Stock. Time to Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/michael-burry-bullish-beaten-down-141932183.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:19:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Interface (TILE) Posts Record Margins, But One Big Question Looms",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/interface-tile-posts-record-margins-141900350.html",
@@ -1015,33 +1059,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Home Depot beats quarterly estimates on smaller project demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-depot-beats-quarterly-estimates-141600495.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:16:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Citigroup To Launch Bitcoin Custody For Institutional Clients",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-launch-bitcoin-custody-institutional-141400472.html",
       "is_watchlist": false,
       "timestamp": "2026-08-18T14:14:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Is Baron Small Cap Fund Buying Wingstop (WING) Again?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-baron-small-cap-fund-141137508.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:11:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1068,28 +1090,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks Retreat as Global Bond Yields Rise",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-global-bond-yields-140440354.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:04:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vertiv Holdings (VRT) is Well Positioned for Key Tech Transitions",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-vrt-well-positioned-140249832.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T14:02:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
