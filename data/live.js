@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-20T22:18:28.186088+00:00",
+  "generated_at": "2026-08-20T22:45:33.614085+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,44 +30,133 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Texas oil billionaire emerges as Sherritt mystery bidder - Bloomberg",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635732-texas-oil-billionaire-emerges-as-sherritt-mystery-bidder-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:43:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn futures top $5 for first time in 18 months as U.S. crop tour points to tighter supplies",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635730-corn-futures-top-5-for-first-time-in-18-months-as-us-crop-tour-points-to-tighter-supplies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:26:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MGE Energy director Berbee buys $21,248 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/mge-energy-director-berbee-buys-21248-in-common-stock-93CH-4870609",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:19:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump vows tougher economic measures on Iran and supporting countries",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:18:56+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba targets RMB 100 billion external cloud revenue by 2030 with 20% gross margin goal",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635731-alibaba-targets-rmb-100-billion-external-cloud-revenue-by-2030-with-20-percent-gross-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:16:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clipper Realty director Sam Levinson buys $310,591 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/clipper-realty-director-sam-levinson-buys-310591-in-common-stock-93CH-4870608",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:16:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DST Global Advisors sells $156.9 million in Chime Financial stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-sells-1569-million-in-chime-financial-stock-93CH-4870607",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:16:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stark Novus financial director Alexandre Zyngier buys $21,219 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/stark-novus-financial-director-alexandre-zyngier-buys-21219-in-shares-93CH-4870606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:16:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Expedia group SVP & chief accounting officer sells $909,456 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/expedia-group-svp--chief-accounting-officer-sells-909456-in-common-stock-93CH-4870605",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:15:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: eXoZymes posts q2 2026 loss as launch plans advance",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-exozymes-posts-q2-2026-loss-as-launch-plans-advance-93CH-4870604",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:07:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Parker Hannifin declares $2.00 quarterly dividend",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/parker-hannifin-declares-200-quarterly-dividend-93CH-4870603",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:04:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Mariana, 18 more Brazil cities join Vale-BHP dam collapse compensation deal",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/mariana-18-more-brazil-cities-join-valebhp-dam-collapse-compensation-deal-4870563",
       "is_watchlist": false,
       "timestamp": "2026-08-20T22:01:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Medical properties trust senior VP, controller & CAO buys $9,545 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/medical-properties-trust-senior-vp-controller--cao-buys-9545-in-stock-93CH-4870601",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:01:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ichor Holdings director Iain MacKenzie sells $653,176 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ichor-holdings-director-iain-mackenzie-sells-653176-in-shares-93CH-4870600",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:01:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rocket Pharmaceuticals general counsel Martin Wilson sells $2,133 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/rocket-pharmaceuticals-general-counsel-martin-wilson-sells-2133-in-stock-93CH-4870599",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:01:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -104,50 +193,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic adds Citigroup to lead IPO banks ahead of listing - Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-adds-citigroup-to-lead-ipo-banks-ahead-of-listing--bloomberg-93CH-4870593",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:52:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "White House sets goal of 1,000 annual space launches by 2030",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/white-house-sets-goal-of-1000-annual-space-launches-by-2030-93CH-4870592",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:52:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Vext Science posts stronger margins in Q2 2026",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vext-science-posts-stronger-margins-in-q2-2026-93CH-4870591",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:51:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Santacruz Silver posts strong Q2 2026 growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-santacruz-silver-posts-strong-q2-2026-growth-93CH-4870590",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:50:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -196,23 +241,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BioSyent GAAP EPS of C$0.25, revenue of C$19.87M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635726-biosyent-gaap-eps-of-c025-revenue-of-c1987m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T21:24:09+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "American Battery Technology reports Q4 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635725-american-battery-technology-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:14:12+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-20T21:22:25+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -229,23 +263,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Prospect Capital's Q4 earnings edge down from prior quarter as total investment income climbs",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635705-prospect-capitals-q4-earnings-edge-down-from-prior-quarter-as-total-investment-income-climbs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:11:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-20T21:01:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T20:49:51+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -554,17 +588,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. sports fans spend about $2,000 a year on their favorite teams\u2014many find themselves in debt as a result",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:15:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "How Micron's $50 billion Boise buildout is reshaping its hometown",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
@@ -587,22 +610,6 @@ window.theBriefLive = {
     {
       "type": "mover_statement",
       "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T15:54:22+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
         "Trump"
       ],
       "ticker": null,
@@ -614,6 +621,18 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "APA",
+      "headline": "Citigroup Maintains Neutral on APA, Raises Price Target to $44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4937d2852c505a1df6c644217eef6d8fa3d7c06fe122250e25386ac6c570d92d",
+      "is_watchlist": true,
+      "timestamp": "2026-08-20T14:58:43+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -855,18 +874,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trump vows tougher economic measures on Iran and supporting countries",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:13:18+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Leading And Lagging Sectors For August 20, 2026",
       "source": "Benzinga",
@@ -1039,91 +1046,79 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nebius proposes $4.5 billion convertible notes to fund AI cloud expansion",
+      "headline": "This Former Small-Cap Darling Is in Freefall, But I Like the Stock Here",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-proposes-4-5-billion-143551537.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/former-small-cap-darling-freefall-151108641.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T14:35:51+00:00",
+      "timestamp": "2026-08-19T15:11:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks",
+      "headline": "\u26a1Flash Heard: Bessent\u2019s Attempt to Jawbone the Treasury Market Will Fail",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-slumps-gold-rallies-us-143540311.html",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/-flash-heard-bessent-s-attempt-to-jawbone-the-treasury-market-will-fail-bfDS1FAObdXCGT0bOJ0B?siteid=yhoof2&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T14:35:40+00:00",
+      "timestamp": "2026-08-19T15:07:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "What Are Wall Street Analysts' Target Price for Generac Holdings Stock?",
+      "headline": "Solana Price Forecast: SEC New Crypto Rules Set Stage for Key Resistance Breakout",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-143329998.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-price-forecast-sec-crypto-150751037.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T14:33:29+00:00",
+      "timestamp": "2026-08-19T15:07:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Avantium\u2019s Green Plastic Dream Needs More Cash",
+      "headline": "Republic Services Stock Outlook: Is Wall Street Bullish or Bearish?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/avantium-green-plastic-dream-needs-143157992.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-stock-outlook-wall-150424816.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T14:31:57+00:00",
+      "timestamp": "2026-08-19T15:04:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wynn Resorts Stock: Is Wall Street Bullish or Bearish?",
+      "headline": "Rising non-accruals signal growing risk in private credit",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-stock-wall-street-143043210.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rising-non-accruals-signal-growing-150344245.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T14:30:43+00:00",
+      "timestamp": "2026-08-19T15:03:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Are Wall Street Analysts Predicting Travelers Companies Stock Will Climb or Sink?",
+      "headline": "FR8 Solutions settles RICO case over alleged $7,000 trucking rate gap",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-travelers-142748536.html",
+      "url": "https://finance.yahoo.com/small-business/articles/fr8-solutions-settles-rico-case-150058997.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T14:27:48+00:00",
+      "timestamp": "2026-08-19T15:00:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "As Nike (NKE) Craters to New Lows, Insiders Are Buying This Rival On The Dip",
+      "headline": "Bessent Doubles Down on the Bond Market Nobody Wanted",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-craters-lows-insiders-142600448.html",
+      "url": "https://finance.yahoo.com/markets/articles/bessent-doubles-down-bond-market-145709628.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T14:26:00+00:00",
+      "timestamp": "2026-08-19T14:57:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "This Ciena Analyst Turns Bullish; Here Are Top 5 Upgrades For Wednesday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6155e1da0c03574930d4501072480f5f750c026a6cd4f9149543bc643280442a",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T09:06:02+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
