@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-20T03:31:27.807063+00:00",
+  "generated_at": "2026-08-20T04:11:04.261437+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 6.06,
       "price": 18.73,
       "is_watchlist": false,
-      "timestamp": "2026-08-20T03:31:27.804332+00:00",
+      "timestamp": "2026-08-20T04:11:04.258708+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 3.74,
       "price": 32.45,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T03:31:27.804328+00:00",
+      "timestamp": "2026-08-20T04:11:04.258705+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -8.12,
       "price": 228.25,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T03:31:27.804323+00:00",
+      "timestamp": "2026-08-20T04:11:04.258701+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,98 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 469.43,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T03:31:27.804308+00:00",
+      "timestamp": "2026-08-20T04:11:04.258684+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Thursday\u2019s Economic Calendar",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4634962-thursdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UiPath CEO Daniel Dines sells $22.5m of PATH common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/uipath-ceo-daniel-dines-sells-225m-of-path-common-stock-93CH-4868656",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T03:46:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pinterest director Gokul Rajaram sells $24,181 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pinterest-director-gokul-rajaram-sells-24181-in-shares-93CH-4868657",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T03:46:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi, HSBC, StanChart adopt Ant International\u2019s forex AI tool",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-4868606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T03:36:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pinterest director Benjamin Silbermann sells $2.18m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-218m-in-stock-93CH-4868655",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T03:31:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Camp4 Therapeutics CSO Daniel Tardiff sells $8,272 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/camp4-therapeutics-cso-daniel-tardiff-sells-8272-in-common-stock-93CH-4868654",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T03:30:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T03:30:54+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Monolithic Power Systems interim CFO sells $8,481 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/monolithic-power-systems-interim-cfo-sells-8481-in-shares-93CH-4868653",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T03:30:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -105,22 +193,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Eureka FY26 slides: rental growth drives 29% EBITDA gain",
+      "headline": "Why is Ubtech Robotics stock falling today?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/eureka-fy26-slides-rental-growth-drives-29-ebitda-gain-93CH-4868648",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ubtech-robotics-stock-falling-today-93CH-4868652",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T03:14:09+00:00",
+      "timestamp": "2026-08-20T03:22:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Amylyx prices $500M stock offering at $35.50 per share",
+      "headline": "Nebius prices $5 billion convertible notes offering",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/amylyx-prices-500m-stock-offering-at-3550-per-share-93CH-4868646",
+      "url": "https://www.investing.com/news/company-news/nebius-prices-5-billion-convertible-notes-offering-93CH-4868651",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T03:12:26+00:00",
+      "timestamp": "2026-08-20T03:16:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -132,39 +220,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-20T03:10:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Edward M. Schulman, Vivmark Residential EVP, sells $1.07m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/edward-m-schulman-vivmark-residential-evp-sells-107m-in-shares-93CH-4868643",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:01:05+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vivmark residential SVP Willson sells $16k in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/vivmark-residential-svp-willson-sells-16k-in-shares-93CH-4868642",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:01:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Eureka Group H2 2026 profit rises on rental growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-eureka-group-h2-2026-profit-rises-on-rental-growth-93CH-4868641",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -183,39 +238,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold holds near 2-month high as Treasury buybacks push yields, dollar lower",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/gold-holds-near-2month-high-as-treasury-buybacks-push-yields-dollar-lower-4868639",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T02:47:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: AIA Group lifts H1 2026 profit outlook as growth accelerates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aia-group-lifts-h1-2026-profit-outlook-as-growth-accelerates-93CH-4868638",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T02:46:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Artiva Biotherapeutics CMO sells $5,148 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/artiva-biotherapeutics-cmo-sells-5148-in-stock-93CH-4868637",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T02:46:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -324,21 +346,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T23:57:47+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Target projects around 5% FY2026 net sales growth as EPS guidance moves to $9.90-$10.90",
@@ -359,6 +366,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-19T23:31:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "How Much Is AI Contributing To U.S. Economic Growth?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5f1b9c619e45c9364ec953b6445e4a14da3ba8f34c1a2aed67c73a5ce93c5783",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T23:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -424,17 +443,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T23:01:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tentative trade deal would cut Canada steel, aluminum tariffs by half - reports",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635191-tentative-trade-deal-would-cut-canada-steel-aluminum-tariffs-by-half-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:57:10+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -867,18 +875,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Bond Yields Have Soared To Pre-Great Recession Levels, This Doesn't Worry Me",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2784103ec3c83fa951c3e359df3150527a84a16923cca296564ca75126dee886",
-      "is_watchlist": true,
-      "timestamp": "2026-08-19T12:20:09+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Inflation is heating up but don't expect another crisis",
       "source": "BBC Business",
@@ -1055,78 +1051,78 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Exclusive-British data group Quantexa exploring UK or US IPO",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/british-data-group-quantexa-explores-162925456.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T16:29:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TKO Group  Stock: Is Wall Street Bullish or Bearish?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tko-group-stock-wall-street-162422728.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T16:24:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/energy-stock-targa-exxon-stock-natural-gas-deal-ai/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T16:09:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u201cThe Odyssey\u201d Demand Drives IMAX Shares Higher",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/odyssey-demand-drives-imax-shares-160910201.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T16:09:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are Wall Street Analysts Predicting Northrop Grumman Stock Will Climb or Sink?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-northrop-160908248.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T16:09:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dell Near All-Time Highs on Record Revenue, AI Demand",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-near-time-highs-record-160333836.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T16:03:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Wells Fargo revamps gold price target for the rest of 2026",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-revamps-gold-price-160300985.html",
       "is_watchlist": false,
       "timestamp": "2026-08-18T16:03:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon Thinks AI Is About to Change the Way We Shop. Goodbye, Search Bar.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-thinks-ai-change-way-155418754.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T15:54:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Red Robin Stock Is in the Middle of a Tasty Turnaround You Don\u2019t Want to Miss",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/red-robin-stock-middle-tasty-154502569.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T15:45:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amer Sports Shares Up After Strong 2Q Performance, Raises 2026 Guidance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amer-sports-shares-strong-2q-154017376.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T15:40:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Man with rare cancer sells his $1.5 million life insurance for $430,000, thinks he can turn a profit before he dies",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/man-rare-cancer-sells-1-154000214.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T15:40:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BHP Finds Its New Metal Machine",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-finds-metal-machine-153802766.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T15:38:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Frasers Walks Deeper Into Hugo Boss\u2019s Wardrobe",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/frasers-walks-deeper-hugo-boss-153233849.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T15:32:33+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
