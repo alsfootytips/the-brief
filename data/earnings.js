@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-20T10:39:52+00:00",
+  "generated_at": "2026-08-20T11:04:10+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -813,7 +813,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DQ",
         "date": "2026-08-20",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.5356,
         "revenue_estimate": 196009000,
         "is_watchlist": false
