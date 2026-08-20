@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-20T11:04:10+00:00",
+  "generated_at": "2026-08-20T11:43:16+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -949,7 +949,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PSEC",
         "date": "2026-08-20",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.1122,
         "revenue_estimate": 152796000,
         "is_watchlist": false
