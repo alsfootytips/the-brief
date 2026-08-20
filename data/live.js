@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-20T10:00:43.354543+00:00",
+  "generated_at": "2026-08-20T10:39:52.393422+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,34 +31,22 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 7.69,
-      "price": 19.02,
+      "change_pct": 7.87,
+      "price": 19.05,
       "is_watchlist": false,
-      "timestamp": "2026-08-20T10:00:43.351626+00:00",
+      "timestamp": "2026-08-20T10:39:52.390688+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
     },
     {
       "type": "mover",
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "change_pct": 3.26,
-      "price": 32.3,
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T10:00:43.351622+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -8.22,
-      "price": 228.0,
+      "change_pct": -8.63,
+      "price": 227.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T10:00:43.351619+00:00",
+      "timestamp": "2026-08-20T10:39:52.390680+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -67,10 +55,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": 3.02,
-      "price": 43.64,
+      "change_pct": 3.91,
+      "price": 44.02,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T10:00:43.351606+00:00",
+      "timestamp": "2026-08-20T10:39:52.390664+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -79,10 +67,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.32,
-      "price": 468.3,
+      "change_pct": -3.21,
+      "price": 468.86,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T10:00:43.351598+00:00",
+      "timestamp": "2026-08-20T10:39:52.390653+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -90,88 +78,211 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Big Banc Split Corp declares $0.12 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635289-big-banc-split-corp-declares-0_12-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:56:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Purpose Global Resource Fund ETF declares $0.0088 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635287-purpose-global-resource-fund-etf-declares-0_0088-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:56:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Big Banc Split Corp - Preferred Shares declares $0.07 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635288-big-banc-split-corp-preferred-shares-declares-0_07-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:56:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Purpose SpaceX (SPCX) Yield Shares ETF declares $0.50 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635284-purpose-spacex-spcx-yield-shares-etf-declares-0_50-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:52:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alibaba cloud revenue rises 45% even as AI spending weighs on profit",
+      "headline": "Alibaba shares fall 2% as AI spending drives 75% drop in net income",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T09:52:41+00:00",
+      "timestamp": "2026-08-20T10:38:48+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "BingEx GAAP EPS of -$0.03, revenue of $138.6M",
+      "headline": "Wonder partners with Serve Robotics on autonomous delivery by sidewalk robots",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635286-bingex-gaap-eps-of-0_03-revenue-of-138_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4635320-wonder-partners-with-serve-robotics-on-autonomous-delivery-by-sidewalk-robots?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T09:49:56+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Autohome Non-GAAP EPADS of $0.36, revenue of $176.6M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635285-autohome-non-gaap-epads-of-036-revenue-of-1766m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:48:20+00:00",
+      "timestamp": "2026-08-20T10:38:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "UnitedHealth Group (UHN) Yield Shares Purpose ETF - ETF Series declares $0.15 dividend",
+      "headline": "AIR Global PLC GAAP EPS of -$0.57, revenue of $206.9M",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635283-unitedhealth-group-uhn-yield-shares-purpose-etf-etf-series-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4635321-air-global-plc-gaap-eps-of-0_57-revenue-of-206_9m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T09:45:21+00:00",
+      "timestamp": "2026-08-20T10:38:23+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Uber sells $472M of Aurora Innovation shares in block trade",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635314-uber-sells-472m-of-aurora-innovation-shares-in-block-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:35:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aurora Mobile reports Q2 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635319-aurora-mobile-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:35:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Advance Auto Parts Non-GAAP EPS of $1.03 beats by $0.23, revenue of $2B misses by $40M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635318-advance-auto-parts-non-gaap-eps-of-1_03-beats-by-0_23-revenue-of-2b-misses-by-40m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:33:50+00:00",
+      "relevance_score": -1.0,
+      "relevance_tier": "low",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DAQO New Energy Non-GAAP EPADS of -$1.20 misses by $0.63, revenue of $62.66M beats by $6.6M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635317-daqo-new-energy-non-gaap-epads-of--120-misses-by-063-revenue-of-6266m-beats-by-66m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:32:14+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Snapshot: Deere beats FQ3 top and bottom line estimates; raises FY2026 net income outlook",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635210-earnings-snapshot-deere-beats-fq3-top-and-bottom-line-estimates-raises-fy2026-net-income-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:31:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:19:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Photon Energy narrows loss in q2 2026 as turnaround gains pace",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-photon-energy-narrows-loss-in-q2-2026-as-turnaround-gains-pace-93CH-4869164",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:17:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ridgeview-backed bidco sees support drop in Pinewood.AI deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/ridgeviewbacked-bidco-sees-support-drop-in-pinewoodai-deal-93CH-4869163",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:16:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Smart Sand EVP Young sells $136,841 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/smart-sand-evp-young-sells-136841-in-shares-93CH-4869162",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:16:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tanker reports approach by unauthorised vessel off Yemen coast",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/tanker-reports-approach-by-unauthorised-vessel-off-yemen-coast-93CH-4869159",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:15:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: J&T Express H1 2026 profit surges as non-China revenue hits 50%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jt-express-h1-2026-profit-surges-as-nonchina-revenue-hits-50-93CH-4869158",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:15:08+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European shares languish at Aug lows as hawkish central banks counter bond rebound",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-languish-at-aug-lows-as-hawkish-central-banks-counter-bond-rebound-4868726",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Moderna stock pulls back after massive one-day rally: analysts weigh in",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/moderna-stock-pulls-back-after-massive-oneday-rally-analysts-weigh-in-4869156",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:14:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Platform Group H1 2026 slides: 23% revenue growth, AI-first strategy",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/platform-group-h1-2026-slides-23-revenue-growth-aifirst-strategy-93CH-4869155",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:13:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T10:05:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -205,105 +316,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:29:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BofA sees euro upside, dollar downside risks in near-term outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/bofa-sees-euro-upside-dollar-downside-risks-in-nearterm-outlook-93CH-4869046",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:26:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Bumrungrad posts mixed Q2 2026 results as revenue beats forecast",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bumrungrad-posts-mixed-q2-2026-results-as-revenue-beats-forecast-93CH-4869043",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:22:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Swiss Prime Site posts steady H1 2026 growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-swiss-prime-site-posts-steady-h1-2026-growth-93CH-4869042",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:21:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Catella Q2 2026 slides: revenue drops 47% but underlying trends improve",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/catella-q2-2026-slides-revenue-drops-47-but-underlying-trends-improve-93CH-4869041",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:20:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: KN Energies posts strong H1 2026 growth, shares flat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kn-energies-posts-strong-h1-2026-growth-shares-flat-93CH-4869038",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:20:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: The Platform Group posts strong H1 2026 growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-the-platform-group-posts-strong-h1-2026-growth-93CH-4869037",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:19:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Viva Wine Group\u2019s Q2 2026 sales rise on deals",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-viva-wine-groups-q2-2026-sales-rise-on-deals-93CH-4869036",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:19:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NetEase misses second-quarter profit forecasts; shares slide",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/netease-misses-secondquarter-profit-forecasts-shares-slide-4869035",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T09:18:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -386,17 +398,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T08:57:52+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bond yields edge higher as traders digest Treasury debt buyback plan",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
@@ -404,22 +405,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T08:57:47+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T08:38:11+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -468,6 +453,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T06:08:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Iran war energy crisis is just getting started - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T06:00:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -568,6 +565,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T01:50:55+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Oil hits 3-week high on Middle East supply concerns amid war impasse - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
@@ -587,6 +595,18 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "filing",
+      "ticker": "NBIS",
+      "form": "6-K",
+      "date": "2026-08-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926098924/tm2623617d1_6k.htm",
+      "is_watchlist": true,
+      "timestamp": "2026-08-20",
+      "relevance_score": 6.0,
+      "relevance_tier": "high",
+      "relevance_label": "SEC Filing"
     },
     {
       "type": "mover_statement",
@@ -662,33 +682,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T23:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Jim Cramer drops stunning take on the economy",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/articles/jim-cramer-drops-stunning-economy-230000219.html",
       "is_watchlist": false,
       "timestamp": "2026-08-19T23:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The chip-stock rally hits a speed bump \u2014 but these analysts see reason to be hopeful",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:02:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -702,6 +700,21 @@ window.theBriefLive = {
       "timestamp": "2026-08-19T21:50:19+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T21:29:38+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -854,17 +867,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T17:07:49+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town\u2014the business brought in almost $5 million in a year",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:05:01+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1051,12 +1053,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Brazil Potash Reports Full-Project FEED Coverage, Liquidity & Policy Support for Autazes  \u2013 Quarterly Update Report",
+      "headline": "Top economists warn of wealth inequality in U.S. surpassing Gilded Age",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/brazil-potash-reports-full-project-214619440.html",
+      "url": "https://finance.yahoo.com/economy/articles/top-economists-warn-wealth-inequality-223212191.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-18T21:46:19+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-18T22:32:12+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1114,17 +1116,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Pick: APA"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Seller concession limits: How much can you ask for?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T15:18:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1382,6 +1373,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
       "is_watchlist": false,
       "timestamp": "2026-08-15T12:50:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What does it mean when a check bounces?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/bounced-check-195602645.html",
+      "is_watchlist": false,
+      "timestamp": "2024-08-23T19:56:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
