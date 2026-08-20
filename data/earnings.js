@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-20T15:59:32+00:00",
+  "generated_at": "2026-08-20T16:44:03+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -2015,14 +2015,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PSEC",
-        "date": "2026-09-01",
-        "hour": "",
-        "eps_estimate": 0.1122,
-        "revenue_estimate": 152796000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "PSNY",
         "date": "2026-09-01",
         "hour": "",
@@ -2088,6 +2080,14 @@ window.theBriefEarnings = {
       }
     ],
     "2026-09-02": [
+      {
+        "ticker": "AGX",
+        "date": "2026-09-02",
+        "hour": "",
+        "eps_estimate": 2.6906,
+        "revenue_estimate": 303620342,
+        "is_watchlist": false
+      },
       {
         "ticker": "AVGO",
         "date": "2026-09-02",
@@ -2329,6 +2329,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GOLD",
+        "date": "2026-09-02",
+        "hour": "amc",
+        "eps_estimate": 0.867,
+        "revenue_estimate": 5783625828,
+        "is_watchlist": false
+      },
+      {
         "ticker": "HPE",
         "date": "2026-09-02",
         "hour": "amc",
@@ -2474,14 +2482,6 @@ window.theBriefEarnings = {
       }
     ],
     "2026-09-03": [
-      {
-        "ticker": "AGX",
-        "date": "2026-09-03",
-        "hour": "",
-        "eps_estimate": 2.6906,
-        "revenue_estimate": 303620342,
-        "is_watchlist": false
-      },
       {
         "ticker": "AMBA",
         "date": "2026-09-03",
