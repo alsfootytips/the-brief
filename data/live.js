@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-20T19:19:24.321849+00:00",
+  "generated_at": "2026-08-20T19:55:59.477904+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -26,6 +26,160 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Earnings"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brambles GAAP EPS of $0.70, revenue of $7.04B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635641-brambles-gaap-eps-of-0_70-revenue-of-7_04b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:52:35+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Auckland International Airport reports FY results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635639-auckland-international-airport-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:50:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Deere earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/deere-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870354",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:43:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anxious bond market sends troubling message to investors: There\u2019s no easy fix for U.S. debt",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870351",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:39:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Advance Auto Parts earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/advance-auto-parts-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870350",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:39:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Spot gold holds above $4.5k a day after topping the mark for first time since June",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/gold-holds-near-2month-high-as-treasury-buybacks-push-yields-dollar-lower-4868639",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:38:04+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crypto shares climb after Treasury\u2019s doubled buybacks boost risk assets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:37:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/de-shaw-owns-more-than-1-billion-stake-in-sysco-sources-say-4870317",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:36:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic plans to change enterprise data retention policy, source says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-change-enterprise-data-retention-policy-source-says-4870349",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:36:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic to give enterprise clients more data control options - report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-to-give-enterprise-clients-more-data-control-options--report-4870348",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:36:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ALK-Abell\u00f3 A/S reports Q2 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635635-alk-abello-a-s-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:25:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Deere raises FY2026 net income outlook to $4.75B-$5.00B while expecting $5B-$5.5B in equipment ops cash flow",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635633-deere-raises-fy2026-net-income-outlook-to-4_75b-5_00b-while-expecting-5b-5_5b-in-equipment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:24:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX stock falls back to below IPO price",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635626-spacex-stock-falls-back-to-below-ipo-price?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T19:22:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -63,68 +217,25 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pentagon seeks deeper access to defense contractors\u2019 cost data",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635627-pentagon-seeks-deeper-access-to-defense-contractors-cost-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T19:13:20+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-20T19:13:04+00:00",
+      "relevance_score": -3.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Onfolio GAAP EPS of -$35.57, revenue of $1.5M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635630-onfolio-gaap-eps-of-35_57-revenue-of-1_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T19:12:56+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Profusa, Inc. reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635629-profusa-inc-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T19:10:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hemisphere Energy Corporation GAAP EPS of $0.13, revenue of $33.6M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635628-hemisphere-energy-corporation-gaap-eps-of-0_13-revenue-of-33_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T19:07:56+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. households hit a record $350K median stock holdings",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635622-us-households-hit-record-350k-median-stock-holdings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T19:07:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prime Video to invest more than $2 billion in Latin America through 2030",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/prime-video-to-invest-more-than-2-billion-in-latin-america-through-2030-4870326",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T19:06:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Which dow jones stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
+      "is_watchlist": true,
+      "timestamp": "2026-08-20T19:10:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -145,83 +256,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-20T19:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/de-shaw-owns-more-than-1-billion-stake-in-sysco-sources-say-4870317",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T19:00:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meritage Homes declares $0.48 quarterly dividend",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/meritage-homes-declares-048-quarterly-dividend-93CH-4870320",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T18:56:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EPA allows early switch to winter gasoline to lower prices",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/epa-allows-early-switch-to-winter-gasoline-to-lower-prices-4870319",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T18:55:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Under pressure: Tracking the pain in G7 government debt",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/under-pressure-tracking-the-pain-in-g7-government-debt-4869909",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T18:48:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Precigen stock hits 52-week high at 7.33 USD",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/precigen-stock-hits-52week-high-at-733-usd-93CH-4870316",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T18:47:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Euronext wheat hits four-week high on Black Sea disruptions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/euronext-wheat-hits-fourweek-high-on-black-sea-disruptions-93CH-4870314",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T18:44:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brookfield Business Corp stock hits 52-week low at $28.11",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/brookfield-business-corp-stock-hits-52week-low-at-2811-93CH-4870313",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T18:43:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -320,28 +354,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. bond yields are already surging again a day after Bessent\u2019s debt-buyback plan",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T17:44:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T17:28:59+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Bessent",
@@ -356,6 +368,17 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:59:33+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -423,6 +446,22 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T16:27:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-20T16:23:57+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -512,21 +551,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T15:48:34+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "Bessent says Treasury buyback operation could be more than $4 billion",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T15:35:33+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
       "relevance_label": "Market Mover"
     },
     {
@@ -624,17 +648,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Yemen's Houthis say they attacked Najran airport, Aramco facilities in Saudi Arabia - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG03UE5RQVR1RzZTc3d2REJhZVRDUWZRbkZtcnZnUUFWMS1UenhvQnZ3SHozRTA2TEZoRW91X3pRQm5DbkdsYm5fRlJfN0I0YmZ3T3BlQ2YwUUQtS0JhWW44a0FTNThMcnVSU2xleExYVWJZV2VkVlNqUktGSHRpTjd1LXZBQjF2anhaazRHbDdySkNBQVM0U0JoVGxZT3cyUnJGZm0ta1c1TlljUVljMVR5NGdBSWotc2NxeW1FZ1ZGdE1nVXJwRVRsV2s?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:12:26+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius: $18 Billion ARR By 2027 Makes This AI Play Too Cheap To Ignore",
       "source": "SeekingAlpha",
@@ -660,18 +673,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NBIS",
-      "headline": "Hyperscaler AI Capex: What The Headlines Miss",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T14:06:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "Hyperscaler AI Capex: What The Headlines Miss",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
@@ -1044,22 +1045,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Can Applied Aerospace & Defense (AADX) Convert Its Backlog Into Durable Earnings Growth?",
+      "headline": "Demand from US data-center boom radiates out through factory supply chains",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-aerospace-defense-aadx-convert-103704440.html",
+      "url": "https://finance.yahoo.com/economy/articles/demand-us-data-center-boom-100520594.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T10:37:04+00:00",
+      "timestamp": "2026-08-19T10:05:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Construction workers, including an 18-year-old, find $10M of gold in the walls on the job. But can they keep the spoils?",
+      "headline": "Young Americans are expecting to inherit money, assets, but this might not be reality",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/construction-workers-including-18-old-103500191.html",
+      "url": "https://finance.yahoo.com/markets/articles/young-americans-expecting-inherit-money-100500529.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T10:35:00+00:00",
+      "timestamp": "2026-08-19T10:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The IRS just sent a $43 billion \u2018Trump Bump\u2019 to millions of Americans \u2014 did you get your check?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/irs-just-sent-43-billion-100500366.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T10:05:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1085,39 +1108,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prolific investor and author Robert Kiyosaki challenges wisdom of Ramsey, Orman - 3 tips from his playbook",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/prolific-investor-author-robert-kiyosaki-090500104.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T09:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can I Retire at 62 With $2.5M in a Roth IRA and $2,500 a Month From Social Security?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/2-5-million-roth-ira-110000154.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T09:00:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "More millennials are breaking their way into the 401(k) millionaire club than ever. How you can steal their strategy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/more-millennials-breaking-way-401-090000839.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1155,6 +1145,17 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T00:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "filing",
