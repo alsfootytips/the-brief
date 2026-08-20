@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-20T08:38:36+00:00",
+  "generated_at": "2026-08-20T09:17:40+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -206,6 +206,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.0389,
         "revenue_estimate": 31338816,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MOV",
+        "date": "2026-08-26",
+        "hour": "",
+        "eps_estimate": 0.356,
+        "revenue_estimate": 165815740,
         "is_watchlist": false
       },
       {
@@ -505,14 +513,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "FLWS",
-        "date": "2026-08-27",
-        "hour": "bmo",
-        "eps_estimate": -0.7004,
-        "revenue_estimate": 299552243,
-        "is_watchlist": false
-      },
-      {
         "ticker": "GAP",
         "date": "2026-08-27",
         "hour": "",
@@ -534,14 +534,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GOLD",
-        "date": "2026-08-27",
-        "hour": "amc",
-        "eps_estimate": 0.867,
-        "revenue_estimate": 5783625828,
         "is_watchlist": false
       },
       {
@@ -923,14 +915,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MOV",
-        "date": "2026-08-20",
-        "hour": "",
-        "eps_estimate": 0.356,
-        "revenue_estimate": 165815740,
-        "is_watchlist": false
-      },
-      {
         "ticker": "NMM",
         "date": "2026-08-20",
         "hour": "bmo",
@@ -960,6 +944,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.6834,
         "revenue_estimate": 19584000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PSEC",
+        "date": "2026-08-20",
+        "hour": "",
+        "eps_estimate": 0.1122,
+        "revenue_estimate": 152796000,
         "is_watchlist": false
       },
       {
@@ -1188,6 +1180,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NSSC",
+        "date": "2026-08-24",
+        "hour": "bmo",
+        "eps_estimate": 0.3953,
+        "revenue_estimate": 53558843,
         "is_watchlist": false
       },
       {
@@ -1730,14 +1730,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NSSC",
-        "date": "2026-08-31",
-        "hour": "bmo",
-        "eps_estimate": 0.3953,
-        "revenue_estimate": 53558843,
         "is_watchlist": false
       },
       {
