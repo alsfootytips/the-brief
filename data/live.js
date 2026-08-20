@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-20T04:11:04.261437+00:00",
+  "generated_at": "2026-08-20T04:53:39.287918+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 6.06,
       "price": 18.73,
       "is_watchlist": false,
-      "timestamp": "2026-08-20T04:11:04.258708+00:00",
+      "timestamp": "2026-08-20T04:53:39.285162+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 3.74,
       "price": 32.45,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T04:11:04.258705+00:00",
+      "timestamp": "2026-08-20T04:53:39.285158+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -8.12,
       "price": 228.25,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T04:11:04.258701+00:00",
+      "timestamp": "2026-08-20T04:53:39.285154+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,10 +70,164 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 469.43,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T04:11:04.258684+00:00",
+      "timestamp": "2026-08-20T04:53:39.285138+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SK Hynix may boost shareholder returns by another $130B through 2027: report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635199-sk-hynix-may-boost-shareholder-returns-by-another-130b-through-2027-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:45:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Founder of China's Evergrande sentenced to life in prison",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:42:13+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asian stocks rebound as Treasury buybacks revive risk appetite; KOSPI surges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-treasury-buybacks-revive-risk-appetite-kospi-surges-4868669",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:33:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ares Management considers stake in Indian cricket team Kolkata Knight Riders- Moneycontrol",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ares-management-considers-stake-in-indian-cricket-team-kolkata-knight-riders-moneycontrol-93CH-4868668",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:32:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Heartflow CMO Campbell Rogers sells $380k in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/heartflow-cmo-campbell-rogers-sells-380k-in-shares-93CH-4868667",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:31:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Pony AI stock rising today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-pony-ai-stock-rising-today-93CH-4868666",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:30:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asia FX steadies after sharp gains, dollar near 3-mth low as bond selloff cools",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sharp-gains-dollar-near-3mth-low-as-bond-selloff-cools-4868665",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:30:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nebius prices upsized $5B convertible debt offering to fund AI cloud expansion",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635201-nebius-prices-upsized-5b-convertible-debt-offering-to-fund-ai-cloud-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:29:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ross Stores declares $0.445 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635204-ross-stores-declares-0445-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:28:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ottawa Savings Bancorp declares $0.11 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635203-ottawa-savings-bancorp-declares-011-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:26:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI Financial earnings missed by $1.52, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/ai-financial-earnings-missed-by-152-revenue-fell-short-of-estimates-4868664",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:25:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Northrop Grumman declares $2.47 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635202-northrop-grumman-declares-247-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:25:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar at three-month lows as Treasury seeks to rein in surging bond yields",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/dollar-hugs-threemonth-lows-as-treasury-seeks-to-sooth-the-bond-market-4868503",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:18:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Sakura Internet stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sakura-internet-stock-sliding-today-93CH-4868663",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T04:12:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -89,78 +243,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UiPath CEO Daniel Dines sells $22.5m of PATH common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/uipath-ceo-daniel-dines-sells-225m-of-path-common-stock-93CH-4868656",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:46:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pinterest director Gokul Rajaram sells $24,181 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pinterest-director-gokul-rajaram-sells-24181-in-shares-93CH-4868657",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:46:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi, HSBC, StanChart adopt Ant International\u2019s forex AI tool",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-4868606",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:36:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pinterest director Benjamin Silbermann sells $2.18m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-218m-in-stock-93CH-4868655",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:31:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Camp4 Therapeutics CSO Daniel Tardiff sells $8,272 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/camp4-therapeutics-cso-daniel-tardiff-sells-8272-in-common-stock-93CH-4868654",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:30:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
       "is_watchlist": false,
       "timestamp": "2026-08-20T03:30:54+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Monolithic Power Systems interim CFO sells $8,481 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/monolithic-power-systems-interim-cfo-sells-8481-in-shares-93CH-4868653",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:30:53+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -189,28 +277,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Ubtech Robotics stock falling today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ubtech-robotics-stock-falling-today-93CH-4868652",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:22:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nebius prices $5 billion convertible notes offering",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/nebius-prices-5-billion-convertible-notes-offering-93CH-4868651",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T03:16:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -308,29 +374,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "BILL forecasts FY 2027 non-GAAP EPS of $3.56-$3.79 while targeting meaningful GAAP profitability",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635196-bill-forecasts-fy-2027-non-gaap-eps-of-3_56-3_79-while-targeting-meaningful-gaap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T00:12:37+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran may be losing its grip on Hormuz as U.S. military steps up help for tankers, reports say",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635192-iran-may-be-losing-its-grip-on-hormuz-as-us-steps-up-help-for-tankers-reports-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T23:58:25+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -344,17 +387,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Target projects around 5% FY2026 net sales growth as EPS guidance moves to $9.90-$10.90",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635195-target-projects-around-5-percent-fy2026-net-sales-growth-as-eps-guidance-moves-to-9_90-10_90?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T23:32:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -399,28 +431,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T23:15:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wolfspeed targets $140M-$160M Q1 FY2027 revenue while citing AI data center growth and continued negative gross margin",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635194-wolfspeed-targets-140m-160m-q1-fy2027-revenue-while-citing-ai-data-center-growth-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T23:12:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Accuray expects $15M of incremental annualized cost and margin improvement in FY27 while withholding formal revenue and adjusted EBITDA guidance",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635193-accuray-expects-15m-of-incremental-annualized-cost-and-margin-improvement-in-fy27-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T23:12:28+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -886,17 +896,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T11:08:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Leading And Lagging Sectors For August 19, 2026",
       "source": "Benzinga",
@@ -1028,11 +1027,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase \u2013 Quarterly Update Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-record-revenue-u-171951108.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T17:19:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn Fading Early Gains for Midday Tuesday Weakness",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-fading-early-gains-midday-171613128.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T17:16:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soybeans Holding onto Tuesday Gains at Midday",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-holding-onto-tuesday-gains-171613671.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T17:16:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Costco launching Medicare Advantage plans with SCAN Group",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html",
       "is_watchlist": false,
       "timestamp": "2026-08-18T17:10:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "State Farm's $5 billion dividend payout is largest in company history: Who's eligible?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/state-farms-5-billion-dividend-payout-is-largest-in-company-history-whos-eligible-170817212.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T17:08:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Micron Stock Could Reach a $3 Trillion Market Cap by 2030",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-could-reach-3-170435643.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T17:04:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Two Florida cities top the list of US regions where home sellers are most likely to lose money on their listings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/two-florida-cities-top-list-170000896.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T17:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Becoming AI-Native Requires the Right People More Than the Right Technology. Here\u2019s the Shift Leaders Need to Make.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/becoming-ai-native-requires-people-170000419.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T17:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1047,83 +1123,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Pick: APA"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-British data group Quantexa exploring UK or US IPO",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/british-data-group-quantexa-explores-162925456.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:29:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TKO Group  Stock: Is Wall Street Bullish or Bearish?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tko-group-stock-wall-street-162422728.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:24:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/energy-stock-targa-exxon-stock-natural-gas-deal-ai/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:09:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u201cThe Odyssey\u201d Demand Drives IMAX Shares Higher",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/odyssey-demand-drives-imax-shares-160910201.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:09:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Wall Street Analysts Predicting Northrop Grumman Stock Will Climb or Sink?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-northrop-160908248.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:09:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dell Near All-Time Highs on Record Revenue, AI Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-near-time-highs-record-160333836.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:03:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wells Fargo revamps gold price target for the rest of 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-revamps-gold-price-160300985.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T16:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
