@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-20T01:13:05.753774+00:00",
+  "generated_at": "2026-08-20T02:31:42.502661+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 6.06,
       "price": 18.73,
       "is_watchlist": false,
-      "timestamp": "2026-08-20T01:13:05.750848+00:00",
+      "timestamp": "2026-08-20T02:31:42.499835+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 3.74,
       "price": 32.45,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T01:13:05.750844+00:00",
+      "timestamp": "2026-08-20T02:31:42.499831+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -8.12,
       "price": 228.25,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T01:13:05.750839+00:00",
+      "timestamp": "2026-08-20T02:31:42.499827+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": -3.09,
       "price": 469.43,
       "is_watchlist": true,
-      "timestamp": "2026-08-20T01:13:05.750821+00:00",
+      "timestamp": "2026-08-20T02:31:42.499810+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -78,22 +78,34 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Zip surges 15% after record H2 2026 profit",
+      "headline": "Earnings call transcript: APA Group posts stronger FY 2026 as growth pipeline swells",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-zip-surges-15-after-record-h2-2026-profit-93CH-4868518",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-apa-group-posts-stronger-fy-2026-as-growth-pipeline-swells-93CH-4868615",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T01:05:17+00:00",
+      "timestamp": "2026-08-20T02:19:05+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Pick: APA"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi, HSBC, StanChart adopt Ant International\u2019s forex AI tool",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-4868606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T02:18:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Andersen stockholders price secondary offering at $44 per share",
+      "headline": "Vicinity Centres FY26 slides: premium push lifts returns, NTA",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/andersen-stockholders-price-secondary-offering-at-44-per-share-93CH-4868517",
+      "url": "https://www.investing.com/news/company-news/vicinity-centres-fy26-slides-premium-push-lifts-returns-nta-93CH-4868613",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T01:04:27+00:00",
+      "timestamp": "2026-08-20T02:17:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -108,10 +120,76 @@ window.theBriefLive = {
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": true,
-      "timestamp": "2026-08-20T01:02:51+00:00",
+      "timestamp": "2026-08-20T02:16:49+00:00",
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PACS Group CEO Jason Hulse Murray sells $10.4m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pacs-group-ceo-jason-hulse-murray-sells-104m-in-stock-93CH-4868612",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T02:16:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ouster CFO Kenneth Gianella sells $1.8m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ouster-cfo-kenneth-gianella-sells-18m-in-company-stock-93CH-4868611",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T02:15:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yancoal 1H 2026 slides: record output lifts profit 42%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/yancoal-1h-2026-slides-record-output-lifts-profit-42-93CH-4868610",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T02:14:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China robot makers seek to turn humanoid hype into useful work",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/china-robot-makers-flock-to-beijing-show-seek-path-to-mass-adoption-4866754",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T02:12:22+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Megaport FY26 slides: revenue jumps 37%, stock slips on capex concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/megaport-fy26-slides-revenue-jumps-37-stock-slips-on-capex-concerns-93CH-4868609",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T02:11:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US national debt passes $40tn after doubling in a decade",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T01:24:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -128,72 +206,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: IDP Education shares sink after FY 2026 outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-idp-education-shares-sink-after-fy-2026-outlook-93CH-4868516",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T01:02:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Noumi H1 FY26 slides: EBITDA jumps 23%, debt maturity looms",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/noumi-h1-fy26-slides-ebitda-jumps-23-debt-maturity-looms-93CH-4868515",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T01:02:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pedevco executive VP Clark Moore sells $129,417 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pedevco-executive-vp-clark-moore-sells-129417-in-stock-93CH-4868513",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T01:01:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar hugs three-month lows as Treasury seeks to sooth the bond market",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/dollar-hugs-threemonth-lows-as-treasury-seeks-to-sooth-the-bond-market-4868503",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T01:01:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Snap chief business officer Ajit Mohan sells $283,825 of stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/snap-chief-business-officer-ajit-mohan-sells-283825-of-stock-93CH-4868512",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T01:00:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Snap Inc. chief accounting officer Rebecca Morrow sells $90,114 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/snap-inc-chief-accounting-officer-rebecca-morrow-sells-90114-in-stock-93CH-4868511",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T01:00:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -384,17 +396,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:58:28+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Tentative trade deal would cut Canada steel, aluminum tariffs by half - reports",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4635191-tentative-trade-deal-would-cut-canada-steel-aluminum-tariffs-by-half-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -412,17 +413,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T22:34:33+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US national debt passes $40tn after doubling in a decade",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T22:31:46+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -502,6 +492,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-19T21:20:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Healthy And Energized At New Highs",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9b6224d21f27fe96ca090f5954606bf50b94bfbf2f0d296aa71c91b99d55df7a",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T21:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -807,6 +809,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "UAE stocks fall after missile scare; Qatar at over one-year low - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T13:16:33+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "Moderna Doubles, Gold Rallies To $4,500 As Dollar Sinks: Stock Market Today",
       "source": "Benzinga",
@@ -1042,6 +1055,83 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Cotton Prices Are Headed Higher. How to Trade Them Here.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-prices-headed-higher-trade-144757578.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:47:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Bank Of America Is Bullish On Cybersecurity Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:47:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "10-Year Treasury Yield Near Breakout; What You Need To Know",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/10-year-treasury-yield-near-breakout-why-it-matters/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:45:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aramark (ARMK) Q3 2026 Earnings Call Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aramark-armk-q3-2026-earnings-144521748.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:45:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Deutsche Bank Just Downgraded Workday Stock. Here's Why.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-just-downgraded-workday-144333755.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:43:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Do Wall Street Analysts Like Automatic Data Processing Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-automatic-data-144309712.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:43:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Binance Plans UK Comeback Ahead of New Regulatory Regime",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-plans-uk-comeback-ahead-144000528.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-18T14:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "XLE",
       "headline": "Trump\u2019s Hormuz Shock Sends Oil Above $85: 3 ETFs Poised for the Next Energy Rally",
       "source": "Benzinga",
@@ -1054,29 +1144,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "PEO: Supported 8% Yield But Discount May Continue To Shrink",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6bf40af1610df9b25e3a21eb2e438c1366a64a30ca456d907dcd983252df32c5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-18T14:06:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New Prediction Market Novig Sees $125 Million In Trading Volumes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-market-novig-sees-125-133600488.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T13:36:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
@@ -1086,72 +1153,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/everforth-efor-positioned-deliver-modern-133507845.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T13:35:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Comcast expands Xfinity security offerings to deepen broadband customer ties",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-security-offerings-133318080.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T13:33:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nasdaq Falls 1.1%. The Chip Stock Rally Is Reversing.",
-      "source": "Yahoo Finance",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/nasdaq-falls-1-1-the-chip-stock-rally-is-reversing--kvCad7jy1jkKmg3TlAX9?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T13:33:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Renaissance Technologies Has Taken a New Position in CrowdStrike. What This Means for CRWD Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/renaissance-technologies-taken-position-crowdstrike-133002394.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T13:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cognex Corp\u2019s (CGNX) Elevated Growth Supported by Cost Discipline and Sales Strength",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cognex-corp-cgnx-elevated-growth-132913511.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T13:29:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zcash Fights Off Bears as Arthur Hayes\u2019 $1K ZEC Price Target Looms",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/zcash-fights-off-bears-arthur-132033602.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-18T13:20:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

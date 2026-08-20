@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-20T01:13:05.748153+00:00",
+  "generated_at": "2026-08-20T02:31:42.497079+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -95,6 +95,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "META",
+      "name": "META",
+      "price": 549.99,
+      "change_pct": 1.16,
+      "volume_ratio": 1.01,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 13.57,
@@ -115,18 +127,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "META",
-      "name": "META",
-      "price": 549.25,
-      "change_pct": 1.03,
-      "volume_ratio": 1.01,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For August 19, 2026\""
+      "move_reason": "News: \"Healthy And Energized At New Highs\""
     },
     {
       "ticker": "QQQ",
@@ -497,7 +497,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For August 19, 2026\""
+      "move_reason": "News: \"Healthy And Energized At New Highs\""
     }
   ],
   "indices": [
