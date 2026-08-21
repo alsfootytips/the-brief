@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-20T23:41:27.555997+00:00",
+  "generated_at": "2026-08-21T00:00:33.834553+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,6 +30,95 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Japan headline inflation rate hits highest this year as energy prices bite",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:47:52+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coeur Mining director J Kenneth Thompson sells $519,250 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/coeur-mining-director-j-kenneth-thompson-sells-519250-in-stock-93CH-4870640",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:46:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Coeur Mining EVP Nault sells $200,000 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/coeur-mining-evp-nault-sells-200000-in-company-stock-93CH-4870641",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:46:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple SVP Jennifer Newstead sells $442,478 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-442478-in-company-stock-93CH-4870642",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:46:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Virtu Financial director Joseph Grano Jr. sells $511,855 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/virtu-financial-director-joseph-grano-jr-sells-511855-in-stock-93CH-4870643",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:46:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan CPI rises in July, core inflation grows but stays below BOJ target",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/japan-cpi-rises-in-july-core-inflation-grows-but-stays-below-boj-target-4870639",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:44:30+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: ARN Media H1 2026 loss narrows as digital gains",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-arn-media-h1-2026-loss-narrows-as-digital-gains-93CH-4870638",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:41:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tapestry CEO Joanne Crevoiserat sells $3.68 million in stock on Aug 19",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/tapestry-ceo-joanne-crevoiserat-sells-368-million-in-stock-on-aug-19-93CH-4870637",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:35:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Oil rises for fifth straight day as Trump promises to crush Iran's economy",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4635733-oil-rises-for-fifth-straight-day-as-trump-promises-to-crush-irans-economy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -40,62 +129,13 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Bessent says US to impose \u2019toughest\u2019 ever sanctions on Iran, urges China to cooperate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-treasury-secretary-bessent-to-hold-press-conference-on-iranon-monday-4870187",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T23:18:57+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "5am Partners VII, LLC sells $140,313 of Skye Bioscience stock",
+      "headline": "Eton Pharmaceuticals CEO Sean Brynjelsen sells $6.08m in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/5am-partners-vii-llc-sells-140313-of-skye-bioscience-stock-93CH-4870632",
+      "url": "https://www.investing.com/news/insider-trading-news/eton-pharmaceuticals-ceo-sean-brynjelsen-sells-608m-in-stock-93CH-4870636",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T23:16:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "10% owner DST Global Advisors sells $156.9m in Chime Financial stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/10-owner-dst-global-advisors-sells-1569m-in-chime-financial-stock-93CH-4870631",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:16:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Heartflow CEO John Farquhar sells $1.47 million in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/heartflow-ceo-john-farquhar-sells-147-million-in-company-stock-93CH-4870629",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:15:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adaptive Biotechnologies director Robert Hershberg sells $748k in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-director-robert-hershberg-sells-748k-in-shares-93CH-4870630",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:15:58+00:00",
+      "timestamp": "2026-08-20T23:31:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -124,44 +164,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Abbott to pay $670 million to settle some preterm infant formula cases",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/abbott-agrees-to-670-million-settlement-of-infant-formula-cases-4870546",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:12:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Millennials are struggling to buy a home - but is it actually getting easier?",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-20T23:10:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Seeka H1 2026 slides: automation drives record profit on lower volumes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/seeka-h1-2026-slides-automation-drives-record-profit-on-lower-volumes-93CH-4870628",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:08:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ex-Google engineer\u2019s conviction for stealing AI secrets partially overturned",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/exgoogle-engineers-conviction-for-stealing-ai-secrets-partially-overturned-4870621",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:07:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -604,17 +611,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:07:24+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AI data center outrage is showing up everywhere from ads to elections",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
@@ -1051,6 +1047,72 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Famous Hedge Fund Tiger Global Opened a New Position in This 1 AI Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/famous-hedge-fund-tiger-global-163306797.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T16:33:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Capital One shut down 385 Trump accounts over money-laundering flags after its own $390M FinCEN penalty",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/capital-one-shut-down-385-163000196.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T16:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Financial Services Roundup: Market Talk",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-5bdfa597?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T16:26:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Are Wall Street Analysts' Target Price for lululemon athletica Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-162411877.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T16:24:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US appeals court revives Signature Bank collapse lawsuit despite FDIC objection",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-appeals-court-revives-signature-161510082.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T16:23:16+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T16:17:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/news/oil-prices-iran-us-hormuz-shell-suncor-ecopetrol-frontline-oneok/?src=A00220&yptr=yahoo",
@@ -1059,72 +1121,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Silver prices today, Wednesday, August 19, 2026:  Silver rises in early trading on lower rate-hike expectations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:13:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crypto Shorts Lose $1.23 Billion in 1 Hour: 3 Bitcoin Whales Wiped Out",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-shorts-lose-1-23-161225766.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:12:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:11:23+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-alphabet-stock-googl-stocks-buy-zone-markets/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:10:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/hinge-health-stock-earnings-rally-cylinder-buyout/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:05:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Datavault AI Agrees to Buy BankWyse, Reports 287% Q2 Revenue Growth",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/datavault-ai-agrees-buy-bankwyse-160400344.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1248,30 +1244,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "Which S&P500 stocks are moving on Monday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f3b05a15d3587a3e698d248c4e9bedeb3e073fabc491252708026a8fe6182d12",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T19:05:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Which S&P500 stocks are moving on Monday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f3b05a15d3587a3e698d248c4e9bedeb3e073fabc491252708026a8fe6182d12",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T19:05:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
       "source": "CNBC Markets",
@@ -1291,66 +1263,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-17T17:12:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "These S&P500 stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=982102dcb4a89920288ff6d002b987dc6c7f3b6fc5c8d224bc8ff8e9265d9af4",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T16:35:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Floating Point Announces $125 Million Fund III to Embrace Complexity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=726aa421f39627c245b8aed7f59d3b9b2a4f927df1f8d61d85166b13cf0c2a84",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T16:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years \u2014 but 4 Stocks Beat It Over the Past 5 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ce40230fb606f71ab2305d7395b5b280c15c4d8f82d10aa69714bb9bae8aa6b5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T15:53:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OXY",
-      "headline": "Barclays Maintains Overweight on Occidental Petroleum, Lowers Price Target to $71",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c4393619f675ae849e9305200f3395fbda3249d173dc1b1f77f55767cc34a932",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T09:50:43+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d22b17decc863a59575a01c3d2275bf1887f468b11a9c7c2ebccec0e10e5513a",
-      "is_watchlist": true,
-      "timestamp": "2026-08-17T03:06:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",
