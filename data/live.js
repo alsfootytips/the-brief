@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T04:01:18.848315+00:00",
+  "generated_at": "2026-08-21T04:54:36.890959+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -28,90 +28,149 @@ window.theBriefLive = {
       "relevance_label": "Earnings"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T04:32:59+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Implantica receives FDA approval for GERD implant RefluxStop",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/implantica-receives-fda-approval-for-gerd-implant-refluxstop-93CH-4870811",
+      "headline": "Samsung plans up to $79B shareholder return",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635738-samsung-plans-up-to-79b-shareholder-return?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:36:36+00:00",
+      "timestamp": "2026-08-21T04:31:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is Charter Hall stock sliding today?",
+      "headline": "Samsung shares climb on reports of shareholder return plan exceeding $72 bln",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-charter-hall-stock-sliding-today-93CH-4870809",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-shares-climb-on-reports-of-shareholder-return-plan-exceeding-72-bln-4870821",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:27:54+00:00",
+      "timestamp": "2026-08-21T04:19:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is NRW Holdings stock surging today?",
+      "headline": "Hyundai Motor\u2019s South Korean union stages first full strike in a decade over pay",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nrw-holdings-stock-surging-today-93CH-4870808",
+      "url": "https://www.investing.com/news/stock-market-news/hyundai-motors-union-stages-first-full-strike-in-10-years-over-wage-talks-4870780",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:27:51+00:00",
+      "timestamp": "2026-08-21T04:19:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mount Logan Capital CCO David Held buys $3,206 in common stock",
+      "headline": "Analysis-War-hit European markets are far from down and out",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mount-logan-capital-cco-david-held-buys-3206-in-common-stock-93CH-4870807",
+      "url": "https://www.investing.com/news/economy-news/analysiswarhit-european-markets-are-far-from-down-and-out-4870818",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:22:00+00:00",
+      "timestamp": "2026-08-21T04:18:53+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin tests $75k as Trump spurs U.S. regulatory hopes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T04:14:46+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Avnet raises dividend by 5% to $0.37",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635737-avnet-raises-dividend-by-5-to-037?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T04:13:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Shein targets Hong Kong market debut on September 1, sources say",
+      "headline": "South Korea plans chip windfall fund to back youth, AI investment",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257",
+      "url": "https://www.investing.com/news/economy-news/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment-4870819",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:18:38+00:00",
+      "timestamp": "2026-08-21T04:12:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Snowflake director Frank Slootman sells $97.4m in shares",
+      "headline": "Gift Nifty 50 coils in 0.3% squeeze near 24,100: Live levels",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/snowflake-director-frank-slootman-sells-974m-in-shares-93CH-4870806",
+      "url": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-doubletop-support-at-24328-live-levels-93CH-4862108",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:17:21+00:00",
+      "timestamp": "2026-08-21T04:02:52+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Crowdstrike CEO George Kurtz sells over $4.1m in company stock",
+      "headline": "Alpha Metallurgical Resources director Kenneth Courtis buys $2.9m stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-over-41m-in-company-stock-93CH-4870805",
+      "url": "https://www.investing.com/news/insider-trading-news/alpha-metallurgical-resources-director-kenneth-courtis-buys-29m-stock-93CH-4870815",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:17:20+00:00",
+      "timestamp": "2026-08-21T04:01:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Neonc Technologies CEO Thomas Chen buys $69,997 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-thomas-chen-buys-69997-in-stock-93CH-4870803",
+      "headline": "Friday\u2019s Economic Calendar",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635486-fridays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:16:03+00:00",
+      "timestamp": "2026-08-21T04:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T03:59:53+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Alibaba HK stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-hk-stock-sliding-today-93CH-4870814",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T03:53:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -135,17 +194,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T02:28:08+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan headline inflation rate hits highest this year as energy prices bite",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T02:13:18+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -181,6 +229,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-21T00:45:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia Next Up",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e2906889cfaae86a98f587d38a8ad30b980f5f00c3a687314435d8251ad09758",
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T00:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -361,28 +421,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Corn futures top $5 for first time in 18 months as U.S. crop tour points to tighter supplies",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635730-corn-futures-top-5-for-first-time-in-18-months-as-us-crop-tour-points-to-tighter-supplies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:26:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alibaba targets RMB 100 billion external cloud revenue by 2030 with 20% gross margin goal",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635731-alibaba-targets-rmb-100-billion-external-cloud-revenue-by-2030-with-20-percent-gross-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:16:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
@@ -406,33 +444,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Roots agrees to a C$4.10-per-share cash takeover deal by Marquee Brands",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635728-roots-agrees-to-a-c410-per-share-cash-takeover-deal-by-marquee-brands?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:46:22+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-20T21:22:25+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:13:14+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -569,18 +585,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T19:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Looking for the most active stocks in the S&P500 index on Thursday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=de80fd99b19d51b1c063dd5d4eb7830387e2c641e2ad3bda312e7bbd5d6af86f",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T18:05:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1056,79 +1060,83 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release",
+      "headline": "Venture Global (VG): Record Earnings and Raised Outlook Signal Strong Growth",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/venture-global-vg-record-earnings-171746060.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T16:11:23+00:00",
+      "timestamp": "2026-08-19T17:17:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn Holding onto Wednesday Gains",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-holding-onto-wednesday-gains-171036067.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T17:10:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This Analyst Just Upgraded Moderna as MRNA Stock Skyrockets on Cancer Vaccine Results",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/analyst-just-upgraded-moderna-mrna-171026238.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T17:10:26+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",
+      "headline": "Saudi Arabia\u2019s Biggest Driller Expands Into Oman",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-alphabet-stock-googl-stocks-buy-zone-markets/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/energy/articles/saudi-arabia-biggest-driller-expands-170356716.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T16:10:51+00:00",
+      "timestamp": "2026-08-19T17:03:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally",
+      "headline": "Sociedad Quimica y Minera Q2 Earnings Call Highlights",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/hinge-health-stock-earnings-rally-cylinder-buyout/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sociedad-quimica-y-minera-q2-170226460.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T16:05:02+00:00",
+      "timestamp": "2026-08-19T17:02:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Datavault AI Agrees to Buy BankWyse, Reports 287% Q2 Revenue Growth",
+      "headline": "ASML Stock Takes A Break After Rebounding",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/datavault-ai-agrees-buy-bankwyse-160400344.html",
+      "url": "https://www.investors.com/research/asml-stock-chip-equipment-lithography/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T16:04:00+00:00",
+      "timestamp": "2026-08-19T16:58:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Buffett"
+      ],
       "ticker": null,
-      "headline": "Treasury Yields Fall, Gold Jumps On Bessent Buyback Plan; GDX Flashes Buy Signal",
+      "headline": "Warren Buffett\u2019s Successor Bought Back 19 Times More Berkshire Stock Than Last Quarter, and the Filing Says It Was Abel\u2019s Decision, Not Buffett\u2019s",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/treasury-yields-fall-gold-price-jumps-gdx/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:00:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ex-FTX, Alameda Executives Get 5-Year Trading Bans in CFTC Case",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ex-ftx-alameda-executives-5-155734406.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T15:57:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Indexed universal life insurance (IUL): Risks, costs, and how it works",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/indexed-universal-life-155053064.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T15:50:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-successor-bought-back-165433982.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-19T16:54:33+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",

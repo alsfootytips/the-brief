@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-21T04:01:18.843278+00:00",
+  "generated_at": "2026-08-21T04:54:36.886004+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q2 2026 Update\""
+      "move_reason": "News: \"Nvidia Next Up\""
     },
     {
       "ticker": "OSCR",
