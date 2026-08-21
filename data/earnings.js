@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-21T08:47:29+00:00",
+  "generated_at": "2026-08-21T09:36:20+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -265,6 +265,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "PAHC",
+        "date": "2026-08-26",
+        "hour": "amc",
+        "eps_estimate": 0.7273,
+        "revenue_estimate": 388874745,
+        "is_watchlist": false
+      },
+      {
         "ticker": "PLAB",
         "date": "2026-08-26",
         "hour": "bmo",
@@ -521,14 +529,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "GCO",
-        "date": "2026-08-27",
-        "hour": "",
-        "eps_estimate": -1.3812,
-        "revenue_estimate": 533684000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "GLGI",
         "date": "2026-08-27",
         "hour": "",
@@ -598,6 +598,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.1818,
         "revenue_estimate": 141048520,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LUCK",
+        "date": "2026-08-27",
+        "hour": "amc",
+        "eps_estimate": -0.0363,
+        "revenue_estimate": 318596388,
         "is_watchlist": false
       },
       {
