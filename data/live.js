@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T22:15:37.033690+00:00",
+  "generated_at": "2026-08-21T22:33:30.904634+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "change_pct": 3.37,
-      "price": 382.0,
+      "change_pct": 3.39,
+      "price": 382.1,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T22:15:36.858664+00:00",
+      "timestamp": "2026-08-21T22:33:30.901940+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.97,
-      "price": 18.99,
+      "change_pct": 5.75,
+      "price": 18.95,
       "is_watchlist": false,
-      "timestamp": "2026-08-21T22:15:36.858660+00:00",
+      "timestamp": "2026-08-21T22:33:30.901936+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,54 @@ window.theBriefLive = {
       "change_pct": -3.39,
       "price": 640.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T22:15:36.858652+00:00",
+      "timestamp": "2026-08-21T22:33:30.901928+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Advanced Micro Devices CTO Mark Papermaster disposes of $13.6 million in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/advanced-micro-devices-cto-mark-papermaster-disposes-of-136-million-in-shares-93CH-4872202",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:16:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "J.jill EVP, CFO & COO Webb sells $134,566 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/jjill-evp-cfo--coo-webb-sells-134566-in-company-stock-93CH-4872201",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:15:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Treasury Secretary Bessent\u00a0to hold press conference on Monday",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-treasury-secretary-bessentto-hold-press-conference-on-monday-4872200",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:12:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Canadian trade teams meet again as tariffs deadline looms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:12:40+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -143,56 +187,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Walmart EVP Nicholas James sells $308,383 of Walmart stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/walmart-evp-nicholas-james-sells-308383-of-walmart-stock-93CH-4872196",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:46:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Gold extends breakout as dollar slides on U.S. debt fears",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636020-gold-extends-breakout-as-dollar-slides-on-us-debt-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:45:21+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing engineers, technical workers reject contract offer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-whitecollar-union-contract-vote-results-expected-today-4871891",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:43:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sigma Lithium resumes full operations after Brazil agreement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/sigma-lithium-resumes-full-operations-after-brazil-agreement-93CH-4872194",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:40:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kimbell Royalty closes $221.2 million acquisition",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/kimbell-royalty-closes-2212-million-acquisition-93CH-4872193",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:40:30+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -993,12 +993,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Beijing Bets on Fossil Fuels Even as It Leads the World in Renewables",
+      "headline": "Stocks Under Pressure as Bond Yields Climb on Inflation Fears",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/beijing-bets-fossil-fuels-even-150000725.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-under-pressure-bond-yields-151454284.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T15:00:00+00:00",
+      "timestamp": "2026-08-20T15:14:54+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FTAI Aviation (FTAI) Gains Edge from Asset Light Shift",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-gains-edge-151017438.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T15:10:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crossroads Capital\u2019s Confidence in Nebius Group (NBIS) Reflected in Scaled Position",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crossroads-capital-confidence-nebius-group-150844082.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T15:08:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-rare-earth-pure-play-fireside-with-tactical-resources-ceo-ranjeet-sundher-150549835.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T15:05:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta Stock Sinks 32%, but Analysts See a 38% Rebound",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-sinks-32-analysts-150427583.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T15:04:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Unique Direct to Device Capability Strengthens AST SpaceMobile\u2019s (ASTS) Competitive Edge",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unique-direct-device-capability-strengthens-150254662.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T15:02:54+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1015,39 +1070,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Darling Ingredients (DAR) is Well-Positioned for Significant Margin Expansion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-dar-well-positioned-145325923.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:53:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should you buy a Medicare Advantage plan from Costco? What you'll want to know.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/should-you-buy-a-medicare-advantage-plan-from-costco-what-youll-want-to-know-145200301.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:52:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Lower Migration Costs Are Shortening Guidewire Software\u2019s (GWRE) Sales Cycle",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lower-migration-costs-shortening-guidewire-144910987.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:49:10+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "S&P 500 Just Got The Green Light To 8000",
       "source": "SeekingAlpha",
@@ -1057,28 +1079,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-extend-rally-etf-144800080.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:48:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Strong Track Record Reinforces Arista Networks\u2019 (ANET) Long Term Delivery",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-track-record-reinforces-arista-144514117.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:45:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
