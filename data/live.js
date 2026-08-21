@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T05:32:31.471340+00:00",
+  "generated_at": "2026-08-21T06:04:54.748430+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,12 +30,122 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
+      "headline": "South Korea to channel chip tax windfalls to back youth, AI investment",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635739-south-korea-to-channel-chip-tax-windfalls-to-back-youth-ai-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T05:27:28+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-08-21T05:54:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RBC Capital Markets Names Top Pick in Business Services",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/rbc-capital-markets-names-top-pick-in-business-services-93CH-4870852",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:51:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold holds above $4,500 as weaker dollar, U.S. Treasury moves support rally",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/gold-holds-above-4500-as-weaker-dollar-treasury-buybacks-boost-weekly-gains-now-4870779",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:43:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Welspun Corp stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-welspun-corp-stock-surging-today-93CH-4870849",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:40:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Ping An Insurance stock rising today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ping-an-insurance-stock-rising-today-93CH-4870848",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:40:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is EQT Holdings stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-eqt-holdings-stock-surging-today-93CH-4870847",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:39:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "India\u2019s private sector growth edges up in August on services",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/indias-private-sector-growth-edges-up-in-august-on-services-93CH-4870846",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:37:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australia's August manufacturing PMI holds firm at 52.0; services PMI dips to 52.9",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635745-australia-august-manufacturing-pmi-holds-firm-at-520-services-pmi-dips-to-529?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:34:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vallant Financial declares $0.16 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635752-vallant-financial-declares-016-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:32:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoreWeave CEO Michael Intrator sells $29.5m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/coreweave-ceo-michael-intrator-sells-295m-in-stock-93CH-4870845",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:31:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arthur J. Gallagher VP Mead sells $899k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arthur-j-gallagher-vp-mead-sells-899k-in-company-stock-93CH-4870844",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T05:31:14+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -74,83 +184,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "India\u2019s August private sector growth recovers slightly from over four-year low, PMI shows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/indias-august-private-sector-growth-recovers-slightly-from-over-fouryear-low-pmi-shows-4870833",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T05:12:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is NetEase HK stock rising today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-netease-hk-stock-rising-today-93CH-4870835",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T05:10:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Hua Medicine posts 74% H1 2026 revenue growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hua-medicine-posts-74-h1-2026-revenue-growth-93CH-4870834",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T05:08:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alibaba shares fall after 75% profit plunge as AI spending weighs on earnings",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-shares-fall-despite-45-cloud-growth-as-ai-spending-weighs-4870723",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T05:07:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Treasury buyback renews dollar-debasement fears",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/treasury-buyback-renews-dollardebasement-fears-4870832",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T05:06:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SK Hynix tests SMA(200) after cloud breakout: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T05:04:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WISeKey names Alexander Hirsch as group chief marketing officer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/wisekey-names-alexander-hirsch-as-group-chief-marketing-officer-93CH-4870831",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T05:04:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Japan's July inflation accelerates to 1.9%; core CPI rises to 1.8%",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4635744-japans-july-inflation-accelerates-to-19-core-cpi-rises-to-18?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -163,23 +196,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is Lintec stock sliding today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lintec-stock-sliding-today-93CH-4870830",
+      "headline": "'Perfect storm' brews for global food supply this winter as grain prices soar",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T05:02:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ChatGPT can now read, write and send messages on Apple Mac",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635736-chatgpt-can-now-read-write-and-send-messages-on-apple-mac?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T04:55:02+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-21T05:00:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -196,28 +218,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Samsung plans up to $79B shareholder return",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635738-samsung-plans-up-to-79b-shareholder-return?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T04:31:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avnet raises dividend by 5% to $0.37",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635737-avnet-raises-dividend-by-5-to-037?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T04:13:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -432,6 +432,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:06:36+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
@@ -472,17 +483,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-20T21:01:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:00:23+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -1049,55 +1049,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US CFTC seeks comment on compute derivatives as AI demand grows",
+      "headline": "Here Is How to Play Tesla Stock After Its Robotaxi Breakthrough",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/us-cftc-seeks-compute-derivatives-173923161.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/play-tesla-stock-robotaxi-breakthrough-182118444.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:39:23+00:00",
+      "timestamp": "2026-08-19T18:21:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Strategy Just Sold $334 Million in Shares to Build Cash and Buy Back Preferred Stock. This Hits MSTR Stock Holders With Dilution.",
+      "headline": "Morgan Stanley Just Upgraded Honeywell Aerospace Stock. Here's Why.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-just-sold-334-million-173655109.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-honeywell-182101144.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:36:55+00:00",
+      "timestamp": "2026-08-19T18:21:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These AI Companies Pile Up Massive Debt",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/ai-stocks-debt-whitefiber-nebius-neocloud/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:19:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+      "headline": "Cerebras Positioned for Robust Growth on Manufacturing Expansion and Swelling RPO",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/payments-firm-stripe-buy-ai-173651437.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-positioned-robust-growth-manufacturing-181055330.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:36:51+00:00",
+      "timestamp": "2026-08-19T18:10:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SEC Proposes \"Regulation Crypto Assets\" Framework",
+      "headline": "A Top Strategist Says Buy \u201cAnything but the S&P 500\u201d as Small Caps Quietly Steal the Lead",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/sec-proposes-regulation-crypto-assets-173035660.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-strategist-says-buy-anything-181002969.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:30:35+00:00",
+      "timestamp": "2026-08-19T18:10:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Huge Unusual Put Options Volume in Merck - Is MRK Stock Overvalued?",
+      "headline": "Dear Wolfspeed Stock Fans, Mark Your Calendars for August 19",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/huge-unusual-put-options-volume-173002236.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-wolfspeed-stock-fans-mark-180752264.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T17:30:02+00:00",
+      "timestamp": "2026-08-19T18:07:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Does renters insurance cover pets, dog bites, and pet damage?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-pets-180714978.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T18:07:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1109,28 +1131,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
       "is_watchlist": false,
       "timestamp": "2026-08-19T17:25:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tencent-music-tme-turns-streaming-172444596.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:24:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Billionaire Peter Thiel Bought a 1% Stake in Vista Energy. What This Means for VIST Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/billionaire-peter-thiel-bought-1-171549026.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T17:15:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
