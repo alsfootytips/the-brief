@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-21T00:00:33.829546+00:00",
+  "generated_at": "2026-08-21T01:50:59.959730+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -16,8 +16,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 61.44,
-      "change_pct": 2.25,
+      "price": 61.47,
+      "change_pct": 2.3,
       "volume_ratio": 1.17,
       "is_watchlist": true,
       "is_index": false,
@@ -63,8 +63,8 @@ window.theBriefMovers = {
     {
       "ticker": "META",
       "name": "META",
-      "price": 546.16,
-      "change_pct": 0.02,
+      "price": 546.2,
+      "change_pct": 0.03,
       "volume_ratio": 0.82,
       "is_watchlist": false,
       "is_index": false,
@@ -113,8 +113,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 662.47,
-      "change_pct": -2.21,
+      "price": 664.5,
+      "change_pct": -1.91,
       "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
@@ -136,8 +136,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 219.84,
-      "change_pct": -1.81,
+      "price": 219.87,
+      "change_pct": -1.8,
       "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": false,
@@ -325,8 +325,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 219.84,
-      "change_pct": -1.81,
+      "price": 219.87,
+      "change_pct": -1.8,
       "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": false,
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Which dow jones stocks are moving on Thursday?\""
+      "move_reason": "News: \"Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q2 2026 Update\""
     },
     {
       "ticker": "OSCR",
@@ -361,8 +361,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 61.44,
-      "change_pct": 2.25,
+      "price": 61.47,
+      "change_pct": 2.3,
       "volume_ratio": 1.17,
       "is_watchlist": true,
       "is_index": false,
@@ -373,8 +373,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 662.47,
-      "change_pct": -2.21,
+      "price": 664.5,
+      "change_pct": -1.91,
       "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
@@ -632,8 +632,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 219.84,
-      "change_pct": -1.81,
+      "price": 219.87,
+      "change_pct": -1.8,
       "score": 5.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -752,16 +752,16 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 61.44,
-      "change_pct": 2.25,
+      "price": 61.47,
+      "change_pct": 2.3,
       "score": 4.5,
       "signals": [
-        "Moved +2.25% \u2014 a 1.1\u03c3 move",
+        "Moved +2.30% \u2014 a 1.1\u03c3 move",
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)"
       ],
       "reasons": [
-        "Moved +2.25% \u2014 a 1.1\u03c3 move",
+        "Moved +2.30% \u2014 a 1.1\u03c3 move",
         "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)"
       ],
