@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T23:00:59.322613+00:00",
+  "generated_at": "2026-08-21T23:32:41.363570+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.66,
       "price": 386.77,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T23:00:59.320366+00:00",
+      "timestamp": "2026-08-21T23:32:41.360735+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.92,
-      "price": 18.98,
+      "change_pct": 5.97,
+      "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-21T23:00:59.320363+00:00",
+      "timestamp": "2026-08-21T23:32:41.360732+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -55,13 +55,90 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.3,
-      "price": 640.6,
+      "change_pct": -3.25,
+      "price": 640.92,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T23:00:59.320356+00:00",
+      "timestamp": "2026-08-21T23:32:41.360723+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "David J. Taylor from Ohio\u2019s 2nd district buys Alphabet Inc and Procter & Gamble stocks, sells Microsoft",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/david-j-taylor-from-ohios-2nd-district-buys-alphabet-inc-and-procter--gamble-stocks-sells-microsoft-93CH-4872221",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:07:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tim Moore from North Carolina\u2019s 14th district sells AT&T shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/tim-moore-from-north-carolinas-14th-district-sells-att-shares-93CH-4872220",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:06:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cohu senior VP & chief customer officer sells $558,200 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cohu-senior-vp--chief-customer-officer-sells-558200-in-stock-93CH-4872217",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:00:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart communications chief Allyson Park to leave company",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/walmart-communications-chief-allyson-park-to-leave-company-4872216",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:00:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing engineers, technical workers reject contract offer",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-whitecollar-union-contract-vote-results-expected-today-4871891",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:54:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Si-Bone CEO Laura Francis sells over $1 million in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sibone-ceo-laura-francis-sells-over-1-million-in-company-stock-93CH-4872212",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:46:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ethos Technologies CEO Peter Colis sells $2.8m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ethos-technologies-ceo-peter-colis-sells-28m-in-shares-93CH-4872211",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:46:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -73,84 +150,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-21T22:36:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ethos Technologies CAO Brandt Kucharski sells $283,664 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ethos-technologies-cao-brandt-kucharski-sells-283664-in-shares-93CH-4872209",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:36:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Upstart president Sanjay Datta sells $565k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/upstart-president-sanjay-datta-sells-565k-in-company-stock-93CH-4872208",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:36:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Upstart chief legal officer Scott Darling sells $216,216 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/upstart-chief-legal-officer-scott-darling-sells-216216-in-shares-93CH-4872207",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:31:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nakamoto CEO David Bailey buys $209,989 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/nakamoto-ceo-david-bailey-buys-209989-in-company-stock-93CH-4872206",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:31:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Myomo chief medical officer sells $29,895 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/myomo-chief-medical-officer-sells-29895-in-shares-93CH-4872204",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:31:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Upstart Holdings\u2019 chief accounting officer sells $16,460 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/upstart-holdings-chief-accounting-officer-sells-16460-in-shares-93CH-4872205",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:31:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Explainer-What we know about the door handles that triggered China\u2019s record auto recall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-the-door-handles-that-triggered-chinas-record-auto-recall-4872176",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:30:31+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -629,6 +628,17 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran-linked oil tanker falls victim to Somali piracy surge - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlBmdExCTDN4OFl6N05iSGtIRlNWVWFvUFpjSVQwdVFWQkl1aTBrQVl2R1NJTmViMERuSXJFZ3NtRXVHZ1JTZ1RBMDIxZzFrN01kT212NlNhYkg3NThNdVZwbnota0ZWMHFEaXkycFBZTG0wUDNXTXpVOHZleUx3a3dMWjN6RGM3YWZMaTJfQV9sRjlobEJILWQwQXczYjdCZ19fbGlYZTVYQUJ2VGc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T15:28:34+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -736,17 +746,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the top 10 things we're watching in the stock market Friday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/here-are-the-top-10-things-were-watching-in-the-stock-market-friday.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:59:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -989,6 +988,72 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Big Pharma is Making Chinese Biotechs Prosper",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/big-pharma-making-chinese-biotechs-162921697.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:29:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Driver shortages, booming exports reshape US-Mexico freight market",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:24:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Forget the Usual AI Suspects. This Stock Could Be a Massive Winner as the Latest OpenAI Partner.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-usual-ai-suspects-stock-162144114.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:21:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What is a down payment?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/down-payment-200052911.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:15:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Are Wall Street Analysts' Target Price for Agilent Technologies Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-161447651.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:14:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Verra Mobility (VRRM): How a Lost Customer Contract Changed the Investment Case",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-lost-customer-161042764.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:10:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -1002,72 +1067,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FIGS (FIGS) Slipped Despite Reporting Strong Quarter",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/figs-figs-slipped-despite-reporting-154055696.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T15:40:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Stock\u2019s Up 60% and Is a Buy If You\u2019re Bullish on U.S. Housing",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/stock-60-buy-bullish-u-154003451.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T15:40:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Interactive Brokers Group (IBKR) Delivers Exceptional Growth at Scale",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-ibkr-delivers-153751054.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T15:37:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ashtead Technology Gets Sunk by Delayed Projects",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ashtead-technology-gets-sunk-delayed-153709680.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T15:37:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Strong Sales Power Birkenstock Holding plc\u2019s (BIRK) Q2 Rally",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-sales-power-birkenstock-holding-153613080.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T15:36:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JD Sports Trips Over the Sneaker Cycle",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jd-sports-trips-over-sneaker-153503426.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T15:35:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
