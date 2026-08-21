@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T21:59:56.854040+00:00",
+  "generated_at": "2026-08-21T22:15:37.033690+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.37,
       "price": 382.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T21:59:56.851177+00:00",
+      "timestamp": "2026-08-21T22:15:36.858664+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.67,
-      "price": 18.94,
+      "change_pct": 5.97,
+      "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:59:56.851173+00:00",
+      "timestamp": "2026-08-21T22:15:36.858660+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -55,13 +55,24 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.11,
-      "price": 641.89,
+      "change_pct": -3.39,
+      "price": 640.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T21:59:56.851164+00:00",
+      "timestamp": "2026-08-21T22:15:36.858652+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing engineers union rejects contract offer, setting stage for possible strike",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636033-boeing-engineers-union-rejects-contract-offer-setting-stage-for-possible-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:09:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -70,8 +81,74 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:50:09+00:00",
+      "timestamp": "2026-08-21T22:03:39+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cloudflare president Michelle Zatlyn sells $28.3m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cloudflare-president-michelle-zatlyn-sells-283m-in-stock-93CH-4872199",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:01:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Litecoin Climbs 10% In a Green Day",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4872198",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nesr CFO Stefan Angeli sells $476,578 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/nesr-cfo-stefan-angeli-sells-476578-in-company-stock-93CH-4872197",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:00:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Friday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635426-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices post weekly surge on Hormuz impasse, Brent now up 12% over two weeks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-from-1mth-high-set-for-weekly-gain-on-usiran-tensions-4870734",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:52:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart EVP Nicholas James sells $308,383 of Walmart stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/walmart-evp-nicholas-james-sells-308383-of-walmart-stock-93CH-4872196",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:46:02+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -119,28 +196,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin rockets nearly 23% for the week as crypto roars back to life",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:38:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/openai-cuts-developer-pricing-for-frontier-gpt56-sol-model-by-more-than-20-4872186",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:31:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -163,39 +218,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636029-hims-and-hers-health-facing-penalties-visa-credit-card-disputes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:31:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PJT Partners director Kievdi Don Cornwell sells $1.36m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pjt-partners-director-kievdi-don-cornwell-sells-136m-in-shares-93CH-4872185",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:31:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Everquote director George Neble sells $60,515 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/everquote-director-george-neble-sells-60515-in-company-stock-93CH-4872184",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:31:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PJT Partners director James Costos sells $301,525 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pjt-partners-director-james-costos-sells-301525-in-stock-93CH-4872183",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:31:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -262,28 +284,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636028-solarmax-technology-receives-nasdaq-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:16:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Aptorum Group GAAP EPS of -$1.60",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636027-aptorum-group-gaap-eps-of-1_60?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:10:04+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic hires former Google chip developer as it pursues in-house solution: report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636024-anthropic-hires-former-google-chip-developer-as-it-pursues-in-house-solution-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:09:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -992,6 +992,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Beijing Bets on Fossil Fuels Even as It Leads the World in Renewables",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/beijing-bets-fossil-fuels-even-150000725.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T15:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "APA",
       "headline": "Citigroup Maintains Neutral on APA, Raises Price Target to $44",
       "source": "Benzinga",
@@ -1001,6 +1012,39 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Darling Ingredients (DAR) is Well-Positioned for Significant Margin Expansion",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-dar-well-positioned-145325923.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T14:53:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should you buy a Medicare Advantage plan from Costco? What you'll want to know.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/should-you-buy-a-medicare-advantage-plan-from-costco-what-youll-want-to-know-145200301.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T14:52:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Lower Migration Costs Are Shortening Guidewire Software\u2019s (GWRE) Sales Cycle",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lower-migration-costs-shortening-guidewire-144910987.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T14:49:10+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1017,66 +1061,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Keysight Technologies (KEYS) Gains From Equipment Growth Fueled By AI Use Cases",
+      "headline": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-gains-equipment-143343630.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-extend-rally-etf-144800080.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T14:33:43+00:00",
+      "timestamp": "2026-08-20T14:48:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dollar Rebounds on Strong US Economic News",
+      "headline": "Strong Track Record Reinforces Arista Networks\u2019 (ANET) Long Term Delivery",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-rebounds-strong-us-economic-143236489.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-track-record-reinforces-arista-144514117.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T14:32:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Walmart\u2019s Tariff Refund Couldn\u2019t Save a Soft Quarter",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-tariff-refund-couldn-t-143233771.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:32:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-shares-surge-ai-arm-143100574.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:31:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Copart\u2019s (CPRT) Financials Show Resilience; Leadership Changes Highlight Stability",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-financials-show-resilience-142853596.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:28:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Students will soon be able to Venmo their college tuition \u2014 but it may not always be the smartest choice",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/students-soon-able-venmo-college-142500727.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:25:00+00:00",
+      "timestamp": "2026-08-20T14:45:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
