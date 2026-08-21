@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-21T15:48:45+00:00",
+  "generated_at": "2026-08-21T16:34:28+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1693,6 +1693,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "NIO",
+        "date": "2026-09-01",
+        "hour": "",
+        "eps_estimate": -0.2124,
+        "revenue_estimate": 33823392070,
+        "is_watchlist": false
+      },
+      {
         "ticker": "PAII",
         "date": "2026-09-01",
         "hour": "",
@@ -1788,6 +1796,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 2.6906,
         "revenue_estimate": 303620342,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AI",
+        "date": "2026-09-02",
+        "hour": "",
+        "eps_estimate": -0.2568,
+        "revenue_estimate": 53679181,
         "is_watchlist": false
       },
       {
@@ -1916,6 +1932,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.918,
         "revenue_estimate": 104009400,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CHPT",
+        "date": "2026-09-02",
+        "hour": "",
+        "eps_estimate": -0.8609,
+        "revenue_estimate": 107601544,
         "is_watchlist": false
       },
       {
@@ -2076,14 +2100,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0685,
         "revenue_estimate": 218465385,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PAHC",
-        "date": "2026-09-02",
-        "hour": "amc",
-        "eps_estimate": 0.7273,
-        "revenue_estimate": 388874745,
         "is_watchlist": false
       },
       {
@@ -2289,6 +2305,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GCO",
+        "date": "2026-09-03",
+        "hour": "",
+        "eps_estimate": -1.3812,
+        "revenue_estimate": 533684000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "GIII",
         "date": "2026-09-03",
         "hour": "",
@@ -2382,6 +2406,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.3652,
         "revenue_estimate": 168794904,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MAMA",
+        "date": "2026-09-03",
+        "hour": "",
+        "eps_estimate": 0.0485,
+        "revenue_estimate": 53906877,
         "is_watchlist": false
       },
       {
