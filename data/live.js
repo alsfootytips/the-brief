@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T01:50:59.963724+00:00",
+  "generated_at": "2026-08-21T03:02:48.949724+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,110 +30,110 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is Guzman Y Gomez stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-guzman-y-gomez-stock-surging-today-93CH-4870747",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:43:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar wobbles as investors balk at US Treasury\u2019s rescue efforts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/dollar-wobbles-as-investors-balk-at-us-treasurys-rescue-efforts-4870745",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:42:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Qualitas FY26 slides: record deployment drives 20% profit growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/qualitas-fy26-slides-record-deployment-drives-20-profit-growth-93CH-4870744",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:41:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: South Port NZ posts record FY 2026 results",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-south-port-nz-posts-record-fy-2026-results-93CH-4870743",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:35:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Accent Group FY2026 slides: strategic reset amid retail headwinds",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/accent-group-fy2026-slides-strategic-reset-amid-retail-headwinds-93CH-4870742",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:31:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rain enhancement technologies CEO Randy Seidl buys $104k stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/rain-enhancement-technologies-ceo-randy-seidl-buys-104k-stock-93CH-4870741",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:31:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kratos Defense director Scot Jarvis sells $634,961 in KTOS",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kratos-defense-director-scot-jarvis-sells-634961-in-ktos-93CH-4870740",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:31:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mount Logan Capital CFO Satoren buys $1,600 in MLCI shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mount-logan-capital-cfo-satoren-buys-1600-in-mlci-shares-93CH-4870739",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:30:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T00:45:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
+      "headline": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
+      "url": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T00:45:58+00:00",
+      "timestamp": "2026-08-21T02:48:10+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Regis Resources posts record FY2026 profit, shares rise 2.7%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-posts-record-fy2026-profit-shares-rise-27-93CH-4870791",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:43:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shein targets Hong Kong market debut on September 1, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:42:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Charter Hall FY26 slides: earnings surge 27%, shares fall 8%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/charter-hall-fy26-slides-earnings-surge-27-shares-fall-8-93CH-4870789",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:42:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Charter Hall FY26 slides: record $6.7bn inflows, shares fall 8%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/charter-hall-fy26-slides-record-67bn-inflows-shares-fall-8-93CH-4870788",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:41:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung Elec to convene board meeting Friday to discuss shareholder return plan, says source",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-elec-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan-says-source-4870787",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:36:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tempus AI CFO James Rogers sells $2.69m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/tempus-ai-cfo-james-rogers-sells-269m-in-stock-93CH-4870786",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:31:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tempus AI chief accounting officer sells $306,341 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/tempus-ai-chief-accounting-officer-sells-306341-in-shares-93CH-4870784",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tempus AI EVP, chief legal officer Polovin sells $1.54m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/tempus-ai-evp-chief-legal-officer-polovin-sells-154m-in-stock-93CH-4870785",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan's historic yen intervention has \u2018turbo-charged\u2019 the carry trade",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T02:28:08+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -144,8 +144,42 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T00:22:20+00:00",
+      "timestamp": "2026-08-21T02:13:18+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T01:56:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T01:50:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T00:45:58+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -171,15 +205,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Japan's historic yen intervention has \u2018turbo-charged\u2019 the carry trade",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T00:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "headline": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-20T23:59:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -345,34 +383,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:11:34+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-20T22:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:54:59+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -434,6 +450,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T21:00:23+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Harry and Meghan: Their life together in photos - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
@@ -466,6 +493,22 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-20T20:19:12+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
@@ -474,17 +517,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-20T20:01:49+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T19:59:52+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -542,34 +574,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T19:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T18:25:52+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T18:20:15+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1057,67 +1061,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO",
+      "headline": "Republic Services Stock Outlook: Is Wall Street Bullish or Bearish?",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/tesla-unitree-optimus-robots-ai-china/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-stock-outlook-wall-150424816.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T13:56:06+00:00",
+      "timestamp": "2026-08-19T15:04:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "15 S&P 500 stocks are up 100% or more this year \u2014 here's what they have in common",
+      "headline": "Rising non-accruals signal growing risk in private credit",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rising-non-accruals-signal-growing-150344245.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T13:54:48+00:00",
+      "timestamp": "2026-08-19T15:03:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tether Remains Dominant Stablecoin Despite Rising Competition",
+      "headline": "FR8 Solutions settles RICO case over alleged $7,000 trucking rate gap",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/tether-remains-dominant-stablecoin-despite-135000671.html",
+      "url": "https://finance.yahoo.com/small-business/articles/fr8-solutions-settles-rico-case-150058997.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T13:50:00+00:00",
+      "timestamp": "2026-08-19T15:00:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here\u2019s Why\u00a0MercadoLibre\u00a0(MELI) Offers Long Runway for Growth?",
+      "headline": "Bessent Doubles Down on the Bond Market Nobody Wanted",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-meli-offers-long-134943360.html",
+      "url": "https://finance.yahoo.com/markets/articles/bessent-doubles-down-bond-market-145709628.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T13:49:43+00:00",
+      "timestamp": "2026-08-19T14:57:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Instant View: US Treasury will double some bond buy backs",
+      "headline": "ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html",
+      "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-low-cost-inventory-145705934.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T13:43:28+00:00",
+      "timestamp": "2026-08-19T14:57:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Deflated Microchip Technology Stock Could Target a Contrarian Move to $85",
+      "headline": "Lowe\u2019s Stock Shrugs Off Weak Guidance After a Second-Quarter Earnings Beat",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/deflated-microchip-technology-stock-could-134240950.html",
+      "url": "https://www.barrons.com/articles/lowes-earnings-stock-price-f56ac80b?siteid=yhoof2&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T13:42:40+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-19T14:53:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
