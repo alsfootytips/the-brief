@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T11:25:44.640040+00:00",
+  "generated_at": "2026-08-21T11:53:24.815066+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,23 +30,210 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "headline": "Blue Ant Media expands share buyback program",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635829-blue-ant-media-expands-share-buyback-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T11:24:25+00:00",
+      "timestamp": "2026-08-21T11:47:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DeepSeek says new AI model V4-Flash-Vision-Exp comes close to Anthropic's Opus 4.8",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635820-deepseek-says-new-ai-model-v4-flash-vision-exp-comes-close-to-anthropics-opus-48?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:45:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MongoDB in focus as Evercore starts with Outperform",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635824-mongodb-in-focus-as-evercore-starts-with-outperform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:44:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arbutus to repurchase up to $230M of shares in tender offer",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635825-arbutus-to-repurchase-up-to-230m-of-shares-in-tender-offer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:38:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Docebo raises buyback price to $25/share, extends offer deadline",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635823-docebo-raises-buyback-price-to-25share-extends-offer-deadline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:37:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:35:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:35:46+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wynn Resorts faces a potential employee strike at its Boston property",
+      "headline": "AXT in focus as Wedbush weighs in on potential China delays",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635804-wynn-resorts-faces-a-potential-employee-strike-at-its-boston-property?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4635822-axt-in-focus-as-wedbush-weighs-in-on-potential-china-delays?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T11:22:15+00:00",
+      "timestamp": "2026-08-21T11:35:04+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS maintains Neutral on GitLab stock citing demand stability",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-maintains-neutral-on-gitlab-stock-citing-demand-stability-93CH-4871448",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:35:01+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS raises Ross Stores stock price target on tariff refunds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-raises-ross-stores-stock-price-target-on-tariff-refunds-93CH-4871447",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:34:57+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS raises Ross Stores stock price target on tariff refunds, sales",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-raises-ross-stores-stock-price-target-on-tariff-refunds-sales-93CH-4871446",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:34:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why this strategist thinks longer-term outlook for stocks is \"unfavorable\"",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-this-strategist-thinks-longerterm-outlook-for-stocks-is-unfavorable-4871444",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:32:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA Names 5 European Semicap Stocks to Watch as China Import Data Shifts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-names-5-european-semicap-stocks-to-watch-as-china-import-data-shifts-93CH-4871443",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:31:23+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NIBE Q2 2026 slides: sixth straight quarter drives margin gains",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/nibe-q2-2026-slides-sixth-straight-quarter-drives-margin-gains-93CH-4871438",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:30:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why some of America's biggest brands are losing ground in China",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:30:02+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marvell's deal with Google indicates that custom silicon is 'advantageous,' Wedbush says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635818-marvells-deal-with-google-indicates-that-custom-silicon-is-advantageous-wedbush-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:29:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Truist initiates Matthews International stock at Hold on timing concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/truist-initiates-matthews-international-stock-at-hold-on-timing-concerns-93CH-4871437",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:28:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Baird initiates Eaton stock with outperform on AI demand growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/baird-initiates-eaton-stock-with-outperform-on-ai-demand-growth-93CH-4871436",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:28:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T11:24:25+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -63,154 +250,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "At a glance: stocks gapping up premarket",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635816-at-a-glance-stocks-gapping-up-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T11:21:09+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Qnity appoints semiconductor finance veteran Ken Rizvi as CFO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635815-qnity-appoints-semiconductor-finance-veteran-ken-rizvi-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:19:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ubiquiti Non-GAAP EPS of $4.73 beats by $0.70, revenue of $937.3M beats by $86.8M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635817-ubiquiti-non-gaap-eps-of-473-beats-by-070-revenue-of-9373m-beats-by-868m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:18:49+00:00",
-      "relevance_score": -2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BJ's Wholesale gains after comparable sales and membership fee income shine in Q2",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635810-bjs-wholesale-gains-after-comparable-sales-and-membership-fee-income-shine-in-q2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:14:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Take-Two, Meta lead communication services growth rankings as telecom giants lag",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635811-take-two-meta-lead-communication-services-growth-rankings-as-telecom-giants-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:12:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Synaptics CFO Ken Rizvi resigns",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635812-synaptics-cfo-ken-rizvi-resigns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:11:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wells Fargo initiates Vivmark Residential stock with overweight rating",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-vivmark-residential-stock-with-overweight-rating-93CH-4871389",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:05:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UBS lifts S&P 500 EPS forecasts, says bull market has further to run",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ubs-lifts-sp-500-eps-forecasts-says-bull-market-has-further-to-run-4871388",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:04:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bunker Hill to acquire Silver47 for $163M in all-stock deal",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/bunker-hill-to-acquire-silver47-for-163m-in-allstock-deal-93CH-4871387",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:04:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "LiveWire begins S4 Honcho Trail motorcycle deliveries to dealers",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/livewire-begins-s4-honcho-trail-motorcycle-deliveries-to-dealers-93CH-4871386",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:04:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "McChip Resources appoints Fraser Hartley to board of directors",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/mcchip-resources-appoints-fraser-hartley-to-board-of-directors-93CH-4871385",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:04:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yum! Brands appoints former HanesBrands CEO to board",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/yum-brands-appoints-former-hanesbrands-ceo-to-board-93CH-4871384",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:04:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Buckle earnings beat by $0.07, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/buckle-earnings-beat-by-007-revenue-topped-estimates-4871383",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:04:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jefferies downgrades Alfen as costs weigh and EV Charging recovery fades",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-downgrades-alfen-as-costs-weigh-and-ev-charging-recovery-fades-4871379",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:03:23+00:00",
+      "timestamp": "2026-08-21T11:20:57+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -239,7 +283,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia earnings could rescue a stalling stock market \u2014 if the AI chip maker breaks this trend",
+      "headline": "Nvidia earnings could rescue a stalled-out stock market \u2014 if the AI chip maker breaks this trend",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
       "is_watchlist": false,
@@ -278,17 +322,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T09:45:11+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:36:46+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -374,11 +407,11 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure - Reuters",
+      "headline": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-08-21T08:14:41+00:00",
+      "timestamp": "2026-08-21T08:24:41+00:00",
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -561,18 +594,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:16:45+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Bessent",
@@ -635,17 +656,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/micron-ceo-pushes-back-on-memory-bear-case-3-takeaways-from-cramers-interview.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:52:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
@@ -653,18 +663,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T22:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:53:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1028,6 +1026,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Alibaba (BABA) is Selling Lingxi Games. Is AI Now Its Only Priority?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-selling-lingxi-games-001432922.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T00:14:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Union Pacific (UNP) Reported a $91M Fuel Surcharge Surplus. Could That Hurt its Norfolk Southern Deal?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-unp-reported-91m-001015544.html",
@@ -1062,22 +1071,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "This High-Yield Exchange Stock Just Raised Its Dividend by Nearly 20%",
+      "headline": "Review & Preview: Good Medicine",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/high-yield-exchange-stock-just-233002776.html",
+      "url": "https://www.barrons.com/articles/stocks-today-moderna-boost-government-bond-buyback-8d64fce8?siteid=yhoof2&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-19T23:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why SPS Commerce Stock Was a Winner on Wednesday",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-sps-commerce-stock-winner-231937354.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T23:19:37+00:00",
+      "timestamp": "2026-08-19T23:55:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
