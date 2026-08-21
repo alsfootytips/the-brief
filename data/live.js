@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T21:33:32.383269+00:00",
+  "generated_at": "2026-08-21T21:59:56.854040+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 3.37,
       "price": 382.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T21:33:32.381030+00:00",
+      "timestamp": "2026-08-21T21:59:56.851177+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.58,
-      "price": 18.92,
+      "change_pct": 5.67,
+      "price": 18.94,
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:33:32.381028+00:00",
+      "timestamp": "2026-08-21T21:59:56.851173+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -55,13 +55,90 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.24,
-      "price": 641.0,
+      "change_pct": -3.11,
+      "price": 641.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T21:33:32.381021+00:00",
+      "timestamp": "2026-08-21T21:59:56.851164+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:50:09+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold extends breakout as dollar slides on U.S. debt fears",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636020-gold-extends-breakout-as-dollar-slides-on-us-debt-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:45:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing engineers, technical workers reject contract offer",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-whitecollar-union-contract-vote-results-expected-today-4871891",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:43:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sigma Lithium resumes full operations after Brazil agreement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/sigma-lithium-resumes-full-operations-after-brazil-agreement-93CH-4872194",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:40:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kimbell Royalty closes $221.2 million acquisition",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/kimbell-royalty-closes-2212-million-acquisition-93CH-4872193",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:40:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin rockets nearly 23% for the week as crypto roars back to life",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:38:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/openai-cuts-developer-pricing-for-frontier-gpt56-sol-model-by-more-than-20-4872186",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:31:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -92,6 +169,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "PJT Partners director Kievdi Don Cornwell sells $1.36m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pjt-partners-director-kievdi-don-cornwell-sells-136m-in-shares-93CH-4872185",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:31:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Everquote director George Neble sells $60,515 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/everquote-director-george-neble-sells-60515-in-company-stock-93CH-4872184",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:31:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PJT Partners director James Costos sells $301,525 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pjt-partners-director-james-costos-sells-301525-in-stock-93CH-4872183",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:31:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Pender Growth Fund reports Q2 results",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636032-pender-growth-fund-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -114,17 +224,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia stocks higher at close of trade; MOEX Russia Index up 0.60%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-060-4872173",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:20:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "You can now Venmo your kid\u2019s college tuition. But should you?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
@@ -136,55 +235,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Army Secretary Driscoll is expected to step down by year\u2019s end, WSJ reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-army-secretary-driscoll-is-expected-to-step-down-by-years-end-wsj-reports-4872172",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:19:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Niki BioSolutions reports wider H1 loss amid going concern doubts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/niki-biosolutions-reports-wider-h1-loss-amid-going-concern-doubts-93CH-4872171",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:18:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hims & Hers faces Visa penalties over dispute surge - Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/hims--hers-faces-visa-penalties-over-dispute-surge--bloomberg-93CH-4872170",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:18:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Silver Storm announces $7.5M non-brokered private placement with Eric Sprott",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636030-silver-storm-announces-75m-non-brokered-private-placement-with-eric-sprott?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:18:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: OwlTing H1 2026 loss widens as growth shift continues",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-owlting-h1-2026-loss-widens-as-growth-shift-continues-93CH-4872168",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:17:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -213,39 +268,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nb bancorp CEO Joseph Campanelli buys $43,500 in NBBK stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/nb-bancorp-ceo-joseph-campanelli-buys-43500-in-nbbk-stock-93CH-4872166",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:15:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreCivic director John Prann Jr. sells $758,132 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/corecivic-director-john-prann-jr-sells-758132-in-stock-93CH-4872167",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:15:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Live cattle futures slip on tariff news and weak cash market",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/live-cattle-futures-slip-on-tariff-news-and-weak-cash-market-93CH-4872165",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:12:52+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Aptorum Group GAAP EPS of -$1.60",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636027-aptorum-group-gaap-eps-of-1_60?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -264,29 +286,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-21T21:09:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Spetz reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636026-spetz-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:04:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:56:19+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -384,17 +383,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:03:13+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -549,6 +537,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e15ae84a10d86b255c3f02346fd3711d2d31396ff0d1f190aacd8b1588a9f23b",
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T17:16:21+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "NATO members discuss Strait of Hormuz options without alliance involvement - Reuters",
       "source": "Reuters",
@@ -667,18 +667,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=672a42d5b8ebd352b5adeaa10f47bdc3cab89e95ee9e216bff962e5544197c58",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T13:50:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Goldman Sachs Maintains Neutral on CoreWeave, Raises Price Target to $139",
       "source": "Benzinga",
@@ -688,6 +676,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Los Angeles Lakers sold for $12.5 billion. Here\u2019s what every NBA team is now worth",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T13:15:27+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1018,66 +1017,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vishal Garg, the CEO who fired 900 on Zoom, offers to work for $1 a year to reclaim Better after $1.5 billion in losses",
+      "headline": "Keysight Technologies (KEYS) Gains From Equipment Growth Fueled By AI Use Cases",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vishal-garg-ceo-fired-900-140500997.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-gains-equipment-143343630.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T14:05:00+00:00",
+      "timestamp": "2026-08-20T14:33:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stocks Slip as Soaring Crude Prices Push Bond Yields Higher",
+      "headline": "Dollar Rebounds on Strong US Economic News",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-soaring-crude-prices-140218904.html",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-rebounds-strong-us-economic-143236489.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T14:02:18+00:00",
+      "timestamp": "2026-08-20T14:32:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
+      "headline": "Walmart\u2019s Tariff Refund Couldn\u2019t Save a Soft Quarter",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-tariff-refund-couldn-t-143233771.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T14:01:42+00:00",
+      "timestamp": "2026-08-20T14:32:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-shares-surge-ai-arm-143100574.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T14:31:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitdeer Technologies Stock Might Be So Bad That It\u2019s Actually Good",
+      "headline": "Copart\u2019s (CPRT) Financials Show Resilience; Leadership Changes Highlight Stability",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bitdeer-technologies-stock-might-bad-140047768.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-financials-show-resilience-142853596.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T14:00:47+00:00",
+      "timestamp": "2026-08-20T14:28:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wall Street has an answer to 60/40 \u2014 this ETF crams 90/60 into the same dollar: One Big Investment Idea",
+      "headline": "Students will soon be able to Venmo their college tuition \u2014 but it may not always be the smartest choice",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/students-soon-able-venmo-college-142500727.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T13:55:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Short Sellers Lose Nearly $3 Billion As Bitcoin\u2019s Price Spikes",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/short-sellers-lose-nearly-3-134900822.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T13:49:00+00:00",
+      "timestamp": "2026-08-20T14:25:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
