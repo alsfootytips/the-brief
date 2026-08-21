@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-21T07:07:33.354996+00:00",
+  "generated_at": "2026-08-21T07:58:12.115975+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today\""
+      "move_reason": "News: \"U.S. Interconnection Queue Reforms Make Impact As Withdrawn Capacity Tops 1.8 TW\""
     },
     {
       "ticker": "AMD",
@@ -58,6 +58,18 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.04,
+      "change_pct": 0.11,
+      "volume_ratio": 0.23,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     },
     {
@@ -416,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today\""
+      "move_reason": "News: \"U.S. Interconnection Queue Reforms Make Impact As Withdrawn Capacity Tops 1.8 TW\""
     }
   ],
   "indices": [
