@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-21T12:28:00.462304+00:00",
+  "generated_at": "2026-08-21T12:46:46.244410+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 8.62,
@@ -54,7 +54,7 @@ window.theBriefFundamentals = {
       "realized_vol_30d_pct": 11.24,
       "trailing_pe": null,
       "forward_pe": -73.43119,
-      "price_to_sales": 41.24089,
+      "price_to_sales": 44.157665,
       "price_to_book": 5.8350563,
       "enterprise_to_ebitda": 242.194,
       "profit_margin": 0.03129,
@@ -62,7 +62,7 @@ window.theBriefFundamentals = {
       "operating_margin": -0.00223,
       "revenue_growth_yoy": 4.54,
       "earnings_growth_qoq": null,
-      "market_cap": 55885533184,
+      "market_cap": 59838054400,
       "beta": 1.434,
       "dividend_yield": null,
       "short_ratio": 2.78,

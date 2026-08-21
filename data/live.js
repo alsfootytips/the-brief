@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T12:28:00.046316+00:00",
+  "generated_at": "2026-08-21T12:46:46.117644+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,23 +30,177 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "More Brazilian cities join Vale-BHP dam collapse payout deal",
+      "headline": "WestBond Enterprises reports Q2 results",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635831-more-brazilian-cities-join-vale-bhp-dam-collapse-payout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4635850-westbond-enterprises-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T12:21:45+00:00",
+      "timestamp": "2026-08-21T12:44:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Petrobras reports 1H results",
+      "headline": "LifeVantage declares $0.05 dividend",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635834-petrobras-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4635849-lifevantage-declares-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T12:20:06+00:00",
+      "timestamp": "2026-08-21T12:43:26+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FedEx declares $1.22 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635848-fedex-declares-1_22-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:42:57+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CirTran GAAP EPS of -$0.02, revenue of $1.17M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635847-cirtran-gaap-eps-of-0_02-revenue-of-1_17m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:39:24+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Diamond Estates Wines &amp; Spirits reports Q1 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635844-diamond-estates-wines-and-spirits-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:35:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi sees pre-midterm weakness as a buying opportunity",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635838-citi-sees-pre-midterm-weakness-as-a-buying-opportunity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:35:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IMPACT Silver GAAP EPS of C$0.01, revenue of C$22M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635839-impact-silver-gaap-eps-of-c001-revenue-of-c22m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:33:03+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global bond rout holds as buybacks fail to offset fiscal concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/global-yield-relief-evaporates-as-us-rates-push-back-toward-multidecade-peaks-4870903",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:32:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street's existential crisis over perpetual futures \u2014 the 24/7 security on steroids \u2014 just got urgent",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:32:32+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US equity funds draw inflows despite market pressures",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-equity-funds-draw-inflows-despite-market-pressures-4871516",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:31:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fastly CEO Charles Compton sells $1.26m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/fastly-ceo-charles-compton-sells-126m-in-company-stock-93CH-4871557",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:31:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ProKidney director Brian Pereira sells $1.07 million in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/prokidney-director-brian-pereira-sells-107-million-in-shares-93CH-4871554",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RBC Capital lowers Hershey stock price target on market share concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-lowers-hershey-stock-price-target-on-market-share-concerns-93CH-4871551",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:30:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS cuts Walmart stock price target on core business concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-cuts-walmart-stock-price-target-on-core-business-concerns-93CH-4871548",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:30:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS lowers Syndax Pharmaceuticals price target on revenue outlook",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-lowers-syndax-pharmaceuticals-price-target-on-revenue-outlook-93CH-4871549",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:30:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eric Trump-backed Space-Eyes to appoint ex-Delta Force officer and ex-banker, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/eric-trumpbacked-spaceeyes-to-appoint-exdelta-force-officer-and-exbanker-sources-say-4871527",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T12:30:49+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -64,143 +218,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Carl Icahn lowers his stake in JetBlue below the reporting threshold",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635827-carl-icahn-lowers-his-stake-in-jetblue-below-the-reporting-threshold?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:16:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/when-it-comes-to-returning-cash-to-shareholders-anything-sk-hynix-can-do-samsung-can-do-bigger-87db6ef4?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-21T12:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UBS lowers Rithm Capital stock price target on valuation update",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-lowers-rithm-capital-stock-price-target-on-valuation-update-93CH-4871529",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:14:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: ZKH Group posts first quarterly profit in Q2 2026",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-zkh-group-posts-first-quarterly-profit-in-q2-2026-93CH-4871528",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:14:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Eric Trump-backed Space-Eyes to appoint ex-Delta Force officer and ex-banker, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/eric-trumpbacked-spaceeyes-to-appoint-exdelta-force-officer-and-exbanker-sources-say-4871527",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:13:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sky Harbour raises additional $10M in direct stock placement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/sky-harbour-raises-additional-10m-in-direct-stock-placement-93CH-4871524",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:12:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ESPN fantasy draft to feature live picks from United flight",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/espn-fantasy-draft-to-feature-live-picks-from-united-flight-93CH-4871523",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:12:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ContextLogic GAAP EPS of -$0.14, revenue of $33.6M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635832-contextlogic-gaap-eps-of--014-revenue-of-336m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:11:04+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australia's Steadfast to be acquired by KKR-led group for $5.5B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635828-australias-steadfast-to-be-acquired-by-kkr-led-group-for-55b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:09:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:07:14+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US equity funds draw inflows despite market pressures",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-equity-funds-draw-inflows-despite-market-pressures-4871516",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:06:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is the global equity rally broadening? UBS weighs in",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/is-the-global-equity-rally-broadening-ubs-weighs-in-4871514",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:05:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Baird cuts Walmart stock price target on softer comps, profit view",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/baird-cuts-walmart-stock-price-target-on-softer-comps-profit-view-93CH-4871513",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T12:04:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -224,28 +246,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/american-consumers-are-delivering-a-retail-reality-check-as-they-laser-in-on-bargains-96816053?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-21T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goldman Sachs expands into India's government share sale market - report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635819-goldman-sachs-expands-into-indias-government-share-sale-market---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:51:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Taming bond yields: What else can Bessent pull out of the Treasury toolkit?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635826-taming-bond-yields-what-else-can-bessent-pull-out-of-the-treasury-toolkit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:49:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -368,17 +368,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T10:02:03+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:56:09+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -577,6 +566,17 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-21T02:43:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T01:50:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -1015,6 +1015,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Fabrinet (FN) Beat Earnings. Why Did Shares Fall 7% After Hours?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinet-fn-beat-earnings-why-004055309.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T00:40:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Reddit (RDDT) Jumped 13% on S&P 500 Inclusion. Will Index Demand Hold the Gain?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-jumped-13-p-003520140.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T00:35:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Bill.com Holdings, Inc. Q4 2026 Earnings Call Summary",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bill-com-holdings-inc-q4-003150042.html",
@@ -1048,33 +1070,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why Moderna Stock Skyrocketed Today",
+      "headline": "Full Truck Alliance (YMM) Q2 2026 Earnings Call Transcript",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-moderna-stock-skyrocketed-today-002733236.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/full-truck-alliance-ymm-q2-002849291.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T00:27:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The 10 Most Popular AI ETFs of 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/10-most-popular-ai-etfs-002440472.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T00:24:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Beam Global Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beam-global-q2-2026-earnings-002119380.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T00:21:19+00:00",
+      "timestamp": "2026-08-20T00:28:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
