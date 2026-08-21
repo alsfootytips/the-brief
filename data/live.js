@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T07:58:12.119975+00:00",
+  "generated_at": "2026-08-21T08:47:29.440956+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -28,6 +28,242 @@ window.theBriefLive = {
       "relevance_label": "Earnings"
     },
     {
+      "type": "mover",
+      "ticker": "APA",
+      "name": "APA Corp",
+      "change_pct": 4.12,
+      "price": 45.24,
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T08:47:29.438298+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:43:36+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NIBE Industrier AB (publ) reports Q2 results",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635786-nibe-industrier-ab-publ-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:40:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scatec ASA GAAP EPS of -NOK 0.41, revenue of NOK 1.37B; updates FY outlook",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635784-scatec-asa-gaap-eps-of-nok-041-revenue-of-nok-137b-updates-fy-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:38:53+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why the US economy is ringing alarm bells",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:38:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: HydrogenPro posts wider q2 2026 loss as stock falls",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hydrogenpro-posts-wider-q2-2026-loss-as-stock-falls-93CH-4871063",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:37:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK service sector perks up in August, adding to resilience signs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/uk-service-sector-perks-up-in-august-adding-to-resilience-signs-4871062",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:37:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Ross Stores stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ross-stores-stock-surging-today-93CH-4871061",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:37:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK posts unexpected budget deficit in July as spending rises",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/uk-posts-unexpected-budget-deficit-in-july-as-spending-rises-4870880",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:37:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Arenit posts strong H1 2026 growth as shares slip",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-arenit-posts-strong-h1-2026-growth-as-shares-slip-93CH-4871060",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:36:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European shares climb on gold boost; weekly decline still in sight",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-steady-set-for-weekly-loss-as-oil-prices-yields-stay-elevated-4870973",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:36:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK services growth hits six-month high, offsets manufacturing slowdown",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635767-uk-services-growth-hits-six-month-high-offsets-manufacturing-slowdown?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:36:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Ascelia Pharma narrows Q2 loss as FDA setback weighs on shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ascelia-pharma-narrows-q2-loss-as-fda-setback-weighs-on-shares-93CH-4871059",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:35:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Dino Polska stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-dino-polska-stock-surging-today-93CH-4871058",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:33:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pimco Monthly Enhanced Income Fund declares CAD 0.0717 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635783-pimco-monthly-enhanced-income-fund-declares-cad-0_0717-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:29:02+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PIMCO Global Income Opportunities Fund - Unit - Class A declares CAD 0.0569 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635782-pimco-global-income-opportunities-fund-unit-class-a-declares-cad-0_0569-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:28:41+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:28:18+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dream Industrial Real Estate Investment Trust declares CAD 0.0598 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635781-dream-industrial-real-estate-investment-trust-declares-cad-0_0598-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:27:15+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Commercial National Financial declares $0.15 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635780-commercial-national-financial-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:26:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T08:10:55+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:01:46+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "UK borrows more than expected in July as Healey prepares for first Budget",
@@ -35,172 +271,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-21T07:45:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Baird downgrades Teradyne stock rating on valuation concerns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/baird-downgrades-teradyne-stock-rating-on-valuation-concerns-93CH-4870962",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:37:03+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley upgrades Ternium stock rating on tariff outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-ternium-stock-rating-on-tariff-outlook-93CH-4870961",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:36:59+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citizens initiates Builders FirstSource stock at Market Perform",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/citizens-initiates-builders-firstsource-stock-at-market-perform-93CH-4870960",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:36:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/analysischina-tax-crackdown-forces-wealthy-investors-to-assess-their-offshore-trusts-4870959",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:36:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "German business activity grows in August, PMI shows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/german-business-activity-grows-in-august-pmi-shows-4870958",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:36:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Germany's manufacturing rebounds while services contract in August",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635765-germanys-manufacturing-rebounds-while-services-contract-in-august?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:36:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Arendals Fossekompani lifts q2 2026 profit as shares slip",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-arendals-fossekompani-lifts-q2-2026-profit-as-shares-slip-93CH-4870957",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:34:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vp plc appoints Corinne Ripoche as non-executive director",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/vp-plc-appoints-corinne-ripoche-as-nonexecutive-director-93CH-4870955",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:32:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "KeyBanc upgrades Innovage stock rating on turnaround completion",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/keybanc-upgrades-innovage-stock-rating-on-turnaround-completion-93CH-4870954",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:31:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "France private sector contracts in August as services activity weakens",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635764-france-private-sector-contracts-in-august-as-services-activity-weakens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:29:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fidelity U.S. Dividend for Rising Rates ETF declares CAD 0.0516 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635773-fidelity-us-dividend-for-rising-rates-etf-declares-cad-00516-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:13:01+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fidelity U.S. High Dividend Currency Neutral ETF declares CAD 0.0362 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635772-fidelity-us-highdividend-currencyneutral-etf-declares-cad-00362-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:12:29+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fidelity U.S. HighDividend ETF declares CAD 0.0448 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635771-fidelity-us-highdividend-etf-declares-cad-00448-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:11:54+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fidelity Canadian HighDividend ETF declares CAD 0.0242 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635770-fidelity-canadian-highdividend-etf-declares-cad-00242-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:10:49+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fidelity Global Core Plus Bond ETF declares $0.0766 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635769-fidelity-global-core-plus-bond-etf-declares-00766-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:10:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -227,29 +297,14 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T04:32:59+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+      "headline": "War-hit European markets are far from down and out - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T03:59:53+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-08-21T04:01:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -294,17 +349,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T02:28:08+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T01:56:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -380,17 +424,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why the US economy is ringing alarm bells",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:15:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -488,18 +521,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:53:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
@@ -552,22 +573,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T20:19:12+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1043,88 +1048,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "SGOV\u2019s Monthly Check on $250,000 Fell From $1,127 to $763 While the Fee Never Changed",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/sgov-monthly-check-250-000-210500753.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T21:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Barfresh Reports Topline Growth & Continued Education Recovery \u2013 Quarterly Update Report",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/barfresh-reports-topline-growth-continued-210331123.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T21:03:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lowe's Companies, Inc. Q2 2027 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lowes-companies-inc-q2-2027-210325215.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T21:03:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NVIDIA (NVDA): What Foxconn and Super Micro Are Telling Us about the AI Boom",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-foxconn-super-micro-210152728.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T21:01:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marti Technologies, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marti-technologies-inc-q2-2026-210129747.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T21:01:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FLEX LNG Ltd. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/flex-lng-ltd-q2-2026-210103498.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T21:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/slb-prepares-restart-15-oil-210000686.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T21:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
       "is_watchlist": false,
       "timestamp": "2026-08-19T20:09:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "$100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/100-diesel-cracks-signal-much-200000054.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T20:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mortgage rates dip, remain near one-year high",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-rise-reach-one-200000964.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T20:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trucking\u2019s New Reality: Why Regulations Benefit the Industry",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trucking-reality-why-regulations-benefit-195545511.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T19:55:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broker Insurance Frenzy: 3-Digit Cost Hikes Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/broker-insurance-frenzy-3-digit-195336731.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T19:53:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Did Treasury Secretary Scott Bessent Just Save the Bond Market? Probably Not \u2014 Here\u2019s What Traders Need to Know.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/did-treasury-secretary-scott-bessent-195049627.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T19:50:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why State Street SPDR Developed World ex-US is a Strong International ETF",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-state-street-spdr-developed-194901350.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T19:49:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Best dining credit cards (August 2026)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/dining-credit-cards-193453435.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T19:34:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
