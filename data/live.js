@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T09:36:20.192462+00:00",
+  "generated_at": "2026-08-21T10:08:07.538543+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,11 +30,121 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Longer-dated Treasury yields steady as Bessent's bond buyback rally fizzles out",
+      "headline": "Bitcoin jumps near $78k as Trump spurs U.S. regulatory hopes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:05:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Montea H1 2026 slides: 95% of growth plan secured, EPS up 5%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/montea-h1-2026-slides-95-of-growth-plan-secured-eps-up-5-93CH-4871211",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Borussia Dortmund reports \u20ac21.7m loss on lower UEFA revenue",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/borussia-dortmund-reports-217m-loss-on-lower-uefa-revenue-93CH-4871206",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:04:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jefferies: 38% of Australian companies beat estimates this season",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/jefferies-38-of-australian-companies-beat-estimates-this-season-93CH-4871205",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:03:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Macquarie cuts Bally\u2019s stock price target on financing concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/macquarie-cuts-ballys-stock-price-target-on-financing-concerns-93CH-4871203",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:02:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TD Cowen upgrades Lakefront Biotherapeutics stock rating to buy",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/td-cowen-upgrades-lakefront-biotherapeutics-stock-rating-to-buy-93CH-4871202",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:02:57+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DA Davidson cuts Walmart stock price target on comp weakness",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-walmart-stock-price-target-on-comp-weakness-93CH-4871201",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:02:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wolfe Research reiterates Lumentum stock rating on M&A potential",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-lumentum-stock-rating-on-ma-potential-93CH-4871200",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:02:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Millenials have found it hard to buy homes \u2013 but things may be turning a corner",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:02:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK borrows more than expected in July as Healey prepares for first Budget",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T09:45:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T09:34:26+00:00",
+      "timestamp": "2026-08-21T09:36:46+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -74,39 +184,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is Stoke Therapeutics stock gaining today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-stoke-therapeutics-stock-gaining-today-93CH-4871131",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:24:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "iShares U.S. Equity High Income Active ETF shifts to monthly payouts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ishares-us-equity-high-income-active-etf-shifts-to-monthly-payouts-93CH-4871129",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:22:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Synsam Q2 2026 slides: organic growth accelerates to 9.8%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/synsam-q2-2026-slides-organic-growth-accelerates-to-98-93CH-4871128",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:20:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
@@ -130,66 +207,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Synsam Q2 2026 slides: Nordic growth accelerates, shares rise 6%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/synsam-q2-2026-slides-nordic-growth-accelerates-shares-rise-6-93CH-4871126",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:19:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold floats above $4,500 as weaker dollar, U.S. Treasury moves support rally",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/gold-holds-above-4500-as-weaker-dollar-treasury-buybacks-boost-weekly-gains-now-4870779",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:18:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airbus backs down on return-to-office after protests, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/airbus-backs-down-on-returntooffice-after-protests-sources-say-4871098",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:18:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018It\u2019s truly a tragedy\u2019: My daughter hasn\u2019t spoken to me for 4 years, but it has nothing to do with politics",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-21T09:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Siegfried H1 2026 slides: margins expand, US acquisition on track",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/siegfried-h1-2026-slides-margins-expand-us-acquisition-on-track-93CH-4871117",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:14:58+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sterling today: Pound steady as Treasury buyback keeps dollar soft",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-treasury-buyback-keeps-dollar-soft-4871116",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:14:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -273,23 +295,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "headline": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T08:55:28+00:00",
+      "timestamp": "2026-08-21T08:45:59+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK borrows more than expected in July as Healey prepares for first Budget",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:48:25+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -458,17 +469,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T00:45:58+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "Nvidia Next Up",
       "source": "SeekingAlpha",
@@ -485,12 +485,12 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
+      "headline": "Iran vows 'devastating' response as US threatens toughest ever economic hit - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
       "is_watchlist": true,
       "timestamp": "2026-08-20T23:59:00+00:00",
-      "relevance_score": 8.0,
+      "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
@@ -541,17 +541,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-20T23:12:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Millenials have found it hard to buy homes \u2013 but things may be turning a corner",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:10:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -624,13 +613,25 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
+      "headline": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T21:22:25+00:00",
+      "timestamp": "2026-08-20T21:54:59+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T21:53:44+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
