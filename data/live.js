@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T10:08:07.538543+00:00",
+  "generated_at": "2026-08-21T10:47:30.987427+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -30,95 +30,199 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin jumps near $78k as Trump spurs U.S. regulatory hopes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
+      "headline": "China to end tariffs on almost all Swiss goods",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635763-china-switzerland-updated-free-trade-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T10:05:02+00:00",
+      "timestamp": "2026-08-21T10:44:11+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UPS and FedEx land government delivery contract modifications",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635803-ups-and-fedex-land-government-delivery-contract-modifications?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:38:47+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Montea H1 2026 slides: 95% of growth plan secured, EPS up 5%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/montea-h1-2026-slides-95-of-growth-plan-secured-eps-up-5-93CH-4871211",
+      "headline": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T10:05:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-21T10:36:07+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Borussia Dortmund reports \u20ac21.7m loss on lower UEFA revenue",
+      "headline": "Washington IndyCar race touted by Trump draws Boeing, Starlink, Delta as new sponsors",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/borussia-dortmund-reports-217m-loss-on-lower-uefa-revenue-93CH-4871206",
+      "url": "https://www.investing.com/news/stock-market-news/washington-indycar-race-touted-by-trump-draws-boeing-starlink-delta-as-new-sponsors-4871232",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T10:04:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jefferies: 38% of Australian companies beat estimates this season",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-38-of-australian-companies-beat-estimates-this-season-93CH-4871205",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T10:03:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Macquarie cuts Bally\u2019s stock price target on financing concerns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/macquarie-cuts-ballys-stock-price-target-on-financing-concerns-93CH-4871203",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T10:02:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TD Cowen upgrades Lakefront Biotherapeutics stock rating to buy",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/td-cowen-upgrades-lakefront-biotherapeutics-stock-rating-to-buy-93CH-4871202",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T10:02:57+00:00",
+      "timestamp": "2026-08-21T10:25:24+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "DA Davidson cuts Walmart stock price target on comp weakness",
+      "headline": "US stock futures rise after sharp losses in prior session",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-walmart-stock-price-target-on-comp-weakness-93CH-4871201",
+      "url": "https://www.investing.com/news/economy-news/us-stock-futures-rise-after-sharp-losses-in-prior-session-4871279",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T10:02:55+00:00",
+      "timestamp": "2026-08-21T10:25:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wolfe Research reiterates Lumentum stock rating on M&A potential",
+      "headline": "ZKH Group surges 7% as company achieves first-ever profit",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-lumentum-stock-rating-on-ma-potential-93CH-4871200",
+      "url": "https://www.investing.com/news/earnings/zkh-group-surges-7-as-company-achieves-firstever-profit-93CH-4871278",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T10:02:52+00:00",
+      "timestamp": "2026-08-21T10:23:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Millenials have found it hard to buy homes \u2013 but things may be turning a corner",
+      "headline": "BMO starts Eaton stock at Outperform on AI data center growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/bmo-starts-eaton-stock-at-outperform-on-ai-data-center-growth-93CH-4871277",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:22:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Marvell stock initiated with outperform rating at BMO Capital",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/marvell-stock-initiated-with-outperform-rating-at-bmo-capital-93CH-4871275",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:22:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Walmart stock rating upgraded to Buy at Freedom Broker on results",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/walmart-stock-rating-upgraded-to-buy-at-freedom-broker-on-results-93CH-4871276",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:22:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BMO Capital initiates D-Wave Quantum stock with outperform rating",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/bmo-capital-initiates-dwave-quantum-stock-with-outperform-rating-93CH-4871273",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:22:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BMO Capital initiates MACOM Technology stock at Market Perform",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/bmo-capital-initiates-macom-technology-stock-at-market-perform-93CH-4871274",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:22:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:15:18+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung to deliver record shareholder return of up to ~$80B in 2026",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635793-samsung-to-deliver-record-shareholder-return-of-up-to-80b-in-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:15:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ZKH Group Non-GAAP EPADS of $0.04, revenue of $360.16M beats by $10.1M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635800-zkh-group-non-gaap-epads-of-004-revenue-of-36016m-beats-by-101m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:08:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "AM Markets: Trump targets 1,000 space launches, Micron sees AI demand",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635796-am-markets-trump-targets-1000-space-launches-micron-sees-ai-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T10:08:22+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hunting PLC Non-GAAP EPS of $0.15, revenue of $497M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635798-hunting-plc-non-gaap-eps-of-0_15-revenue-of-497m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:06:36+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KE Holdings Non-GAAP EPADS of $0.42 beats by $0.11, revenue of $3.6B in-line",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635797-ke-holdings-non-gaap-epads-of-042-beats-by-011-revenue-of-36b-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:04:58+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Millennials have found it hard to buy homes \u2013 but things may be turning a corner",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -151,39 +255,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "S&P 500 CAPE signals weak 10-year real returns ahead",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635791-sp-500-cape-signals-weak-10-year-real-returns-ahead?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:31:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin extends sharp rebound as crypto rally gathers pace",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635789-bitcoin-extends-sharp-rebound-as-crypto-rally-gathers-pace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:30:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Biggest stock movers Friday: ROST, MSTR, and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635790-biggest-stock-movers-friday-rost-flo-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:25:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
@@ -191,18 +262,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-21T09:20:31+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada, U.S. inch closer to trade deal ahead of Trump's tariff deadline",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635762-canada-us-inch-closer-to-trade-deal-ahead-of-tariff-deadline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:19:13+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -229,39 +288,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:08:18+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia mulls potential deal with Korean AI chip startup Rebellions: report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635779-nvidia-mulls-potential-deal-with-korean-ai-chip-startup-rebellions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:04:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Noveris Health Sciences to raise up to $500K via 10% convertible debenture private placement",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635747-noveris-health-sciences-to-raise-up-to-500k-via-10-convertible-debenture-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:04:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Legendary film editor Billy Weber of \u2018Miss Congeniality\u2019 and \u2018Top Gun\u2019 lists historic L.A. home for $4 million",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/legendary-film-editor-billy-weber-of-miss-congeniality-and-top-gun-lists-historic-l-a-home-for-4-million-465ee55b?mod=mw_rss_topstories",
@@ -279,17 +305,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T09:01:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Siegfried Holdings Non-GAAP EPS of CHF 1.56, revenue of CHF 633M; reaffirms FY outlook",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635788-siegfried-holdings-non-gaap-eps-of-chf-156-revenue-of-chf-633m-reaffirms-fy-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:57:28+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -608,17 +623,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-20T22:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:54:59+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1041,6 +1045,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "HYPE Jumps 17% After Trump Backs CFTC Path for Hyperliquid in U.S.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/hype-jumps-17-trump-backs-225700389.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:57:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Today\u2019s US Treasury Intervention in Bond Markets is a Buy Recommendation for Gold. Here\u2019s Why.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/today-us-treasury-intervention-bond-225249010.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:52:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why a Payments Giant Is Paying $7 Billion for the \u2018Stripe of AI\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/tech/ai/why-a-payments-giant-is-paying-7-billion-for-the-stripe-of-ai-f5832e54?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-19T22:37:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Whistleblower Arturo B\u00e9jar leads testimony in landmark trial against Meta",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
@@ -1101,50 +1138,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
       "is_watchlist": false,
       "timestamp": "2026-08-19T17:25:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:17:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Silver prices today, Wednesday, August 19, 2026:  Silver rises in early trading on lower rate-hike expectations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:13:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T16:11:23+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Indexed universal life insurance (IUL): Risks, costs, and how it works",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/indexed-universal-life-155053064.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T15:50:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1296,6 +1289,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
       "is_watchlist": false,
       "timestamp": "2026-08-16T11:58:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage rate predictions through 2030: What the market looks like",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-what-the-market-looks-like-195826935.html",
+      "is_watchlist": false,
+      "timestamp": "2025-08-18T19:58:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
