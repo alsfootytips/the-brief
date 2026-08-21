@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-21T04:54:36.886004+00:00",
+  "generated_at": "2026-08-21T05:32:31.466647+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -115,7 +115,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 664.5,
       "change_pct": -1.91,
-      "volume_ratio": 0.94,
+      "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -375,7 +375,7 @@ window.theBriefMovers = {
       "name": "Quanta Services",
       "price": 664.5,
       "change_pct": -1.91,
-      "volume_ratio": 0.94,
+      "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
