@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T23:20:33.258223+00:00",
+  "generated_at": "2026-08-22T23:46:21.849607+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy Texas Pacific Land - They're Not Making It Any More\""
+      "move_reason": "News: \"$1000 Invested In Texas Pacific Land 10 Years Ago Would Be Worth This Much Today\""
     },
     {
       "ticker": "PLTR",
@@ -257,7 +257,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Navitas Semiconductor Stock Sank This Week\""
+      "move_reason": "News: \"Bloomberg Reported Earlier, Nvidia Customers Notified About AI-Related Price Hikes Above 1...\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Navitas Semiconductor Stock Sank This Week\""
+      "move_reason": "News: \"Bloomberg Reported Earlier, Nvidia Customers Notified About AI-Related Price Hikes Above 1...\""
     },
     {
       "ticker": "OSCR",
@@ -439,7 +439,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy Texas Pacific Land - They're Not Making It Any More\""
+      "move_reason": "News: \"$1000 Invested In Texas Pacific Land 10 Years Ago Would Be Worth This Much Today\""
     },
     {
       "ticker": "TTD",
@@ -677,6 +677,33 @@ window.theBriefMovers = {
       "sector_etf": "XLP"
     },
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 386.7,
+      "change_pct": 4.64,
+      "score": 7.0,
+      "signals": [
+        "Moved +4.64% \u2014 a 1.5\u03c3 move vs typical 3.0% daily vol",
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.2 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "Moved +4.64% \u2014 a 1.5\u03c3 move vs typical 3.0% daily vol",
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.2 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "moderate-move",
+        "news-flow",
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 13.21,
@@ -705,30 +732,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 386.7,
-      "change_pct": 4.64,
-      "score": 5.5,
-      "signals": [
-        "Moved +4.64% \u2014 a 1.5\u03c3 move vs typical 3.0% daily vol",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.2 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +4.64% \u2014 a 1.5\u03c3 move vs typical 3.0% daily vol",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.2 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "moderate-move",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     },
     {
       "ticker": "NBIS",

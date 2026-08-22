@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-22T23:20:33.359021+00:00",
+  "generated_at": "2026-08-22T23:46:21.968331+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -818,7 +818,7 @@ window.theBriefPicks = {
       "current_pct": -10.17,
       "change_pct_today": 4.64,
       "name": "Texas Pacific Land",
-      "news_count": 1,
+      "news_count": 2,
       "days_elapsed": 37,
       "days_remaining": 19,
       "closed_at": "2026-08-07",

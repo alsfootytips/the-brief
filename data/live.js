@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T23:20:33.262604+00:00",
+  "generated_at": "2026-08-22T23:46:21.855573+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T23:20:33.260297+00:00",
+      "timestamp": "2026-08-22T23:46:21.852573+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T23:20:33.260294+00:00",
+      "timestamp": "2026-08-22T23:46:21.852568+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T23:20:33.260288+00:00",
+      "timestamp": "2026-08-22T23:46:21.852558+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T23:25:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -385,6 +396,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Bloomberg Reported Earlier, Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=51fbc3c54e333eb7d040e37dac8e794588290c842ee7cf40e87d1bc878f8f263",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T17:06:29+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8",
       "source": "Seeking Alpha Market",
@@ -495,6 +518,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Elon Musk Doesn't 'Really Buy Stocks' \u2014 but He Named 3 Things He Looks For in a Company",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e5dbe55b7ed4be9279c89feae8430fe9c37f8f2141015b7b50a656f07958cbb7",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T13:31:07+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
       "source": "CNBC",
@@ -536,30 +571,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T12:50:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Target Turnaround Is Real. Here's What Investors Should Know.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c23e9db50adf6fff7d72cbcc6ad10f6c4f0f559842df0bde89e38e5087ed604b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T12:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd67d00eea195ca7a4949f228f7a57a826cb5ba20e6849e588c74a1169b8e99c",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T12:35:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
       "relevance_label": "Watchlist"
     },
     {
@@ -931,6 +942,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TPL",
+      "headline": "$1000 Invested In Texas Pacific Land 10 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=47f973b4682ab4d3d515202992f7be0c367ccb0ec584843269ee45ad1e87c282",
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T17:45:32+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Kalshi traders think the bitcoin rally could end the year near current levels",
       "source": "CNBC Markets",
@@ -1069,17 +1092,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:21:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
