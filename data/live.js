@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T21:21:34.066845+00:00",
+  "generated_at": "2026-08-22T21:46:51.232814+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T21:21:34.063823+00:00",
+      "timestamp": "2026-08-22T21:46:51.229985+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T21:21:34.063819+00:00",
+      "timestamp": "2026-08-22T21:46:51.229981+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,54 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T21:21:34.063806+00:00",
+      "timestamp": "2026-08-22T21:46:51.229972+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "After high-profile firings by the Pentagon, is Stars & Stripes still independent?",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941159/after-high-profile-firings-by-the-pentagon-is-stars-stripes-still-independent",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T21:30:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese\u00a0company flexes dominance in robotics space with splashy stock market debut",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5939817/chinese-company-flexes-dominance-in-robotics-space-with-splashy-stock-market-debut",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T21:30:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872390",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T21:20:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The U.S. & Canada are fighting over tariffs. How is that affecting small businesses?",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941703/the-u-s-canada-are-fighting-over-tariffs-how-is-that-affecting-small-businesses",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T21:16:39+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -315,17 +359,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T18:51:50+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What happens when the AI capex cycle slows?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T18:43:07+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1257,28 +1290,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Proposed California wealth tax sparks debate: Will billionaires leave the state?",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5935597/california-billionaires-wealth-tax-sergey-brin",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T08:45:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chinese court sentences founder of property developer Evergrande to life in prison",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T07:31:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "Buy Texas Pacific Land - They're Not Making It Any More",
       "source": "SeekingAlpha",
@@ -1312,17 +1323,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Whistleblower Arturo B\u00e9jar leads testimony in landmark trial against Meta",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:20:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
