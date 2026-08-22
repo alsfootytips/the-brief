@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T19:29:50.253706+00:00",
+  "generated_at": "2026-08-22T19:49:48.591458+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T19:29:50.250730+00:00",
+      "timestamp": "2026-08-22T19:49:48.588410+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T19:29:50.250725+00:00",
+      "timestamp": "2026-08-22T19:49:48.588406+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T19:29:50.250711+00:00",
+      "timestamp": "2026-08-22T19:49:48.588384+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T19:24:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -239,21 +250,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T16:10:13+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Putin"
-      ],
-      "ticker": null,
-      "headline": "Putin says Ukraine opened \u2019Pandora\u2019s box\u2019 with strikes on economic targets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets-4872370",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T16:06:37+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
