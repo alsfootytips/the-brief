@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T11:28:46.410528+00:00",
+  "generated_at": "2026-08-22T11:48:51.948833+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T11:28:46.407763+00:00",
+      "timestamp": "2026-08-22T11:48:51.945953+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T11:28:46.407759+00:00",
+      "timestamp": "2026-08-22T11:48:51.945949+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,65 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T11:28:46.407751+00:00",
+      "timestamp": "2026-08-22T11:48:51.945940+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Supreme Court allows Trump to continue White House ballroom construction for now",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:40:54+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "e.l.f. Beauty SVP Joshua Franks sells $571,800 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/elf-beauty-svp-joshua-franks-sells-571800-in-common-stock-93CH-4872335",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:31:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Kinect\u2019s 64% surge validates InvestingPro Fair Value analysis",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/world-kinects-64-surge-validates-investingpro-fair-value-analysis-93CH-4872333",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:09:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro\u2019s Fair Value spotted TTM\u2019s 38% drop before it happened",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-ttms-38-drop-before-it-happened-93CH-4872332",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:02:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:01:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -183,51 +238,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Heritage Insurance president Johns sells $117,864 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/heritage-insurance-president-johns-sells-117864-in-company-stock-93CH-4872322",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T09:46:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran leaders urge end to war as U.S. prepares tougher sanctions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T09:34:34+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Circle internet director M. Michele Burns sells $283,653 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/circle-internet-director-m-michele-burns-sells-283653-in-stock-93CH-4872321",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T09:31:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukrainian drones hit Ozon warehouse as Russia reports major overnight attack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ukrainian-drones-hit-ozon-warehouse-as-russia-reports-major-overnight-attack-4872319",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:50:16+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -454,17 +464,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:17:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Supreme Court allows Trump to continue White House ballroom construction for now",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:47:32+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -825,6 +824,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Bank of America strategist warns market just flashed a 2000 dot-com bubble signal. Here\u2019s how to protect your portfolio",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-strategist-warns-market-101500180.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:15:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "XPO names chief legal officer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/xpo-names-chief-legal-officer-101500656.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NHTSA opens probe into nearly 1 million GM pickups, SUVs over engine failure concerns",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/nhtsa-opens-probe-nearly-1-100456671.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:04:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-US corporate AI debt surge tests investor limits as fatigue emerges",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-us-corporate-ai-debt-100218069.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:02:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Millennials have found it hard to buy homes \u2013 but things may be turning a corner",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
@@ -836,9 +879,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Amid the chip bear market, healthcare is breaking out: Chart of the Day",
+      "headline": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/amid-the-chip-bear-market-healthcare-is-breaking-out-chart-of-the-day-100000172.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -847,9 +890,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
+      "headline": "Amid the chip bear market, healthcare is breaking out: Chart of the Day",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
+      "url": "https://finance.yahoo.com/markets/stocks/article/amid-the-chip-bear-market-healthcare-is-breaking-out-chart-of-the-day-100000172.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -870,55 +913,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A $1,000 Investment With Bill Ackman in 2004 Would Be Worth Over $25,000 Today. Here's the Strategy Behind His Two-Decade Track Record.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-000-investment-bill-ackman-095000632.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broadcom\u2019s (AVGO) Massive New Debt Deal Points To Where AI Is Headed",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-massive-debt-deal-094528841.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:45:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "UK borrows more than expected in July as Healey prepares for first Budget",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-21T09:45:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nebius (NBIS) Raises $5B Convertible Bond As AI Compute Demand Surges",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-nbis-raises-5b-convertible-093337551.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:33:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Costco is launching Medicare Advantage plans with SCAN Group, banking on the same brand trust that sells its chicken",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-093000557.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1310,9 +1309,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "HELOC and home equity loan rates today, Friday, August 21, 2026: Why understanding how rates work matters",
+      "headline": "Best high-yield savings interest rates today, Friday, August 21, 2026: Earn up to 4.15% APY",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-august-21-2026-why-understanding-how-rates-work-matters-100000113.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-august-21-2026-earn-up-to-415-apy-100000771.html",
       "is_watchlist": false,
       "timestamp": "2026-08-17T10:00:00+00:00",
       "relevance_score": 0.0,
