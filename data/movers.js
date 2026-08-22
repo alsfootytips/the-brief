@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T09:35:28.479038+00:00",
+  "generated_at": "2026-08-22T10:00:11.813056+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Canadian Commodity Plays Or American AI Stocks?\""
+      "move_reason": "News: \"Global Trade Buoyed By Surge In Tech Equipment Shipments\""
     },
     {
       "ticker": "XLP",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Canadian Commodity Plays Or American AI Stocks?\""
+      "move_reason": "News: \"Global Trade Buoyed By Surge In Tech Equipment Shipments\""
     },
     {
       "ticker": "NBIS",

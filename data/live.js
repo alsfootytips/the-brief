@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T09:35:28.483834+00:00",
+  "generated_at": "2026-08-22T10:00:11.821351+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T09:35:28.481170+00:00",
+      "timestamp": "2026-08-22T10:00:11.817771+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T09:35:28.481167+00:00",
+      "timestamp": "2026-08-22T10:00:11.817768+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,44 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T09:35:28.481161+00:00",
+      "timestamp": "2026-08-22T10:00:11.817751+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Heritage Insurance president Johns sells $117,864 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/heritage-insurance-president-johns-sells-117864-in-company-stock-93CH-4872322",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T09:46:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran leaders urge end to war as U.S. prepares tougher sanctions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T09:34:34+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Circle internet director M. Michele Burns sells $283,653 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/circle-internet-director-m-michele-burns-sells-283653-in-stock-93CH-4872321",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T09:31:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -133,36 +167,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "PTC Therapeutics director Schmertzler disposes of $1.8m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ptc-therapeutics-director-schmertzler-disposes-of-18m-in-stock-93CH-4872314",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:16:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Where are central banks keeping their gold?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/where-are-central-banks-keeping-their-gold-4872312",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:03:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon-in-overnight-strikes-4872310",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T07:42:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "Global Trade Buoyed By Surge In Tech Equipment Shipments",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5e304825a9e3fed880a248a4224c3f799953acabd98eadf69a2151cd139175a9",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T05:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -189,7 +202,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+      "headline": "U.S.-Canada trade talks collapse just before deadline for tariffs",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "is_watchlist": false,
@@ -627,18 +640,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e15ae84a10d86b255c3f02346fd3711d2d31396ff0d1f190aacd8b1588a9f23b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T17:16:21+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "NATO members discuss Strait of Hormuz options without alliance involvement - Reuters",
       "source": "Reuters",
@@ -883,6 +884,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Micron (MU) Just Made a $10B Bet on Its Future",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-just-made-10b-084444893.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:44:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Investors sell stocks and bonds as government efforts fail to soothe market",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5940009/investors-sell-stocks-and-bonds-as-government-efforts-fail-to-soothe-market",
@@ -900,17 +912,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T08:38:18+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A China Chip Denial Lands Before Nvidia\u2019s (NVDA) Big Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/china-chip-denial-lands-nvidia-082114198.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:21:14+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
