@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T10:00:11.821351+00:00",
+  "generated_at": "2026-08-22T10:33:10.712575+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T10:00:11.817771+00:00",
+      "timestamp": "2026-08-22T10:33:10.709763+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T10:00:11.817768+00:00",
+      "timestamp": "2026-08-22T10:33:10.709741+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,65 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T10:00:11.817751+00:00",
+      "timestamp": "2026-08-22T10:33:10.709732+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:16:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin holds above $77,000 after Treasury-fuelled short squeeze",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-after-treasuryfuelled-short-squeeze-4872323",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:01:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Braze CTO Hyman sells $282,288 of company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/braze-cto-hyman-sells-282288-of-company-stock-93CH-4872326",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:01:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trinet SVP Anthony Treadway sells $74,546 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/trinet-svp-anthony-treadway-sells-74546-in-company-stock-93CH-4872325",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:00:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -131,39 +186,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goosehead Insurance director Serena Jones sells $2.05m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/goosehead-insurance-director-serena-jones-sells-205m-in-stock-93CH-4872317",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:31:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fossil group director Pamela Edwards buys $40,220 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/fossil-group-director-pamela-edwards-buys-40220-in-stock-93CH-4872316",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:31:07+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreCivic EVP David Garfinkle sells $1.7m in CXW stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/corecivic-evp-david-garfinkle-sells-17m-in-cxw-stock-93CH-4872315",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:31:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -490,17 +512,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sports betting to build wealth is becoming the new American dream",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
@@ -535,17 +546,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Former JPMorgan exec takes on Social Security advisory role",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/former-jpmorgan-exec-takes-on-social-security-advisory-role-d0cf6e4f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T19:11:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -861,6 +861,29 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Iranian Oil Supply to China Is Rapidly Drying Up",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/iranian-oil-supply-china-rapidly-091500264.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T09:15:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba\u2019s (BABA) AI Bet Crushes Profit While Cloud Revenue Soars",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-crushes-090413974.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T09:04:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "What to know about this weekend's IndyCar race on the National Mall",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
@@ -917,22 +940,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "I'm 55 With $900,000 in an IRA. Should I Convert $100,000 Annually to a Roth to Reduce RMDs?",
+      "headline": "A China Chip Denial Lands Before Nvidia\u2019s (NVDA) Big Week",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/im-55-900-000-ira-122500700.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-chip-denial-lands-nvidia-082114198.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T07:00:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-21T08:21:14+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
+      "headline": "China\u2019s Oil Imports Set to Rebound as Refiners Hunt for New Supply",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-061736696.html",
+      "url": "https://finance.yahoo.com/energy/articles/china-oil-imports-set-rebound-080000061.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T06:17:36+00:00",
+      "timestamp": "2026-08-21T08:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are Wall Street Analysts Predicting DTE Energy Stock Will Climb or Sink?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-dte-075911349.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T07:59:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -947,28 +981,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Under pressure: Tracking the pain in G7 government debt",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/under-pressure-tracking-pain-g7-072738511.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T06:06:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A date on the calendar could shape the BOJ's endgame on interest rates",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/date-calendar-could-shape-bojs-060629014.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T06:06:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1013,21 +1025,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T22:59:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "One day after doubling Treasury buybacks, Bessent says he's ready to boost them further to push down long-term yields",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/one-day-after-doubling-treasury-buybacks-bessent-says-hes-ready-to-boost-them-further-to-push-down-long-term-yields-181218236.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-20T18:12:18+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
