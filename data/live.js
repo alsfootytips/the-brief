@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T19:00:56.916713+00:00",
+  "generated_at": "2026-08-22T19:29:50.253706+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T19:00:56.913807+00:00",
+      "timestamp": "2026-08-22T19:29:50.250730+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T19:00:56.913803+00:00",
+      "timestamp": "2026-08-22T19:29:50.250725+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,43 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T19:00:56.913794+00:00",
+      "timestamp": "2026-08-22T19:29:50.250711+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Key deals this week: Stripe, KKR, Virtu and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T19:15:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/paramount-and-california-to-hold-preliminary-talks-on-warner-bros-deal-nyt-reports-4872384",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T19:06:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T19:02:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -72,6 +105,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T18:57:46+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:56:59+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -292,29 +336,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:34:41+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI jobs advertise $177,000 salaries \u2014 more than double non-AI roles \u2014 yet women land just 26% of hires",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636009-notable-tech-headlines-for-the-week-nvidia-micron-broadcom-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -392,17 +413,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "CTA equity positioning back to pre-Iran levels: BofA",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/cta-equity-positioning-back-to-preiran-levels-bofa-4872364",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:47:56+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "TikTok to pay $400M to settle DOJ's child privacy case",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636040-tiktok-pay-400m-settle-doj-child-privacy-case?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -419,17 +429,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-22T13:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings Scoreboard: All 12 key S&P 500 reporting firms top EPS estimates; 11 deliver Y/Y growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635742-earnings-scoreboard-all-12-key-sp-500-reporting-firms-top-eps-estimates-11-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:35:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
