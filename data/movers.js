@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T15:47:41.137912+00:00",
+  "generated_at": "2026-08-22T16:23:41.548715+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: Interest Rates And Inflation Continue To Dominate\""
+      "move_reason": "News: \"Principal Well-Being Index: More AI Optimism Amid Existing Labor Pressures\""
     },
     {
       "ticker": "XLP",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: Interest Rates And Inflation Continue To Dominate\""
+      "move_reason": "News: \"Principal Well-Being Index: More AI Optimism Amid Existing Labor Pressures\""
     },
     {
       "ticker": "NBIS",

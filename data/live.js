@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T15:47:41.143409+00:00",
+  "generated_at": "2026-08-22T16:23:41.554340+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T15:47:41.140554+00:00",
+      "timestamp": "2026-08-22T16:23:41.551347+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T15:47:41.140550+00:00",
+      "timestamp": "2026-08-22T16:23:41.551343+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,58 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T15:47:41.140541+00:00",
+      "timestamp": "2026-08-22T16:23:41.551334+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Putin"
+      ],
+      "ticker": null,
+      "headline": "Putin says Ukraine opened \u2019Pandora\u2019s box\u2019 with strikes on economic targets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets-4872370",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T16:06:37+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T16:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T16:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T15:59:29+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -106,17 +154,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T15:03:40+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:53:32+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -260,17 +297,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4635742-earnings-scoreboard-all-12-key-sp-500-reporting-firms-top-eps-estimates-11-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-22T13:35:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:26:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -492,6 +518,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Principal Well-Being Index: More AI Optimism Amid Existing Labor Pressures",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c500ba9960234791dd946c2629b99521eba5ac7c16a72456e5caea6db5e92d36",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T12:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
       "source": "MarketWatch",
@@ -558,17 +596,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "BofA says CTA Treasury shorts stable, euro short-cover risk rises",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-says-cta-treasury-shorts-stable-euro-shortcover-risk-rises-93CH-4872336",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:40:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "BCV: Deep Discount And Another Payout Lift",
       "source": "SeekingAlpha",
@@ -578,17 +605,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -637,18 +653,6 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The Stagflationary Recession Is On Our Doorstep As Interest Rates Surge",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ea8593af70d7cb84bb7f8d37e832a9b03a80e881977993ee57eb0e166b242952",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T08:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -711,7 +715,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+      "headline": "Hours after U.S. imposes tariffs, Canada says retaliatory tariffs will start Sept. 8",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "is_watchlist": false,
