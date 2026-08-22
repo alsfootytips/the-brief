@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T13:19:34.314318+00:00",
+  "generated_at": "2026-08-22T13:52:32.076648+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T13:19:34.311461+00:00",
+      "timestamp": "2026-08-22T13:52:32.073752+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T13:19:34.311457+00:00",
+      "timestamp": "2026-08-22T13:52:32.073748+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,98 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T13:19:34.311446+00:00",
+      "timestamp": "2026-08-22T13:52:32.073739+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TikTok to pay $400M to settle DOJ's child privacy case",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636040-tiktok-pay-400m-settle-doj-child-privacy-case?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:46:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Scoreboard: All 12 key S&P 500 reporting firms top EPS estimates; 11 deliver Y/Y growth",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635742-earnings-scoreboard-all-12-key-sp-500-reporting-firms-top-eps-estimates-11-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:35:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:27:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:26:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:26:14+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount to meet California AG in a bid to settle case over Warner deal: Variety",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636039-paramount-meet-california-ag-discuss-warner-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:19:48+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:05:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -111,17 +199,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "I\u2019m 44 with $1.3 million in my 401(k) \u2014 can I stop contributing and still retire in 15 years?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/m-44-1-3-million-155345959.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:45:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
       "source": "Yahoo",
@@ -131,6 +208,17 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "India Leaves the Door Ajar for China\u2019s Investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/india-leaves-door-ajar-china-123300050.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T12:33:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -165,6 +253,40 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T12:30:00+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The tax loophole that turns a Trump Account into tax-free millions \u2014 do you know how to exploit it?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/tax-loophole-turns-trump-account-123000413.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T12:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T12:21:29+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Always the best time to buy\u2019: Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/always-best-time-buy-todd-121500299.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T12:15:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -244,6 +366,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T12:00:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -413,17 +546,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A massive \u2018corporate welfare\u2019 program is underway \u2014 and consumers want a bigger cut of it",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-massive-corporate-welfare-program-is-underway-and-consumers-want-a-bigger-cut-of-it-0ff06d67?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Canada vows to match new U.S. tariffs 'dollar for dollar' as trade talks fail",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636037-canada-vows-match-new-us-tariffs-dollar-dollar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -440,18 +562,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:34:23+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:41:44+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -598,17 +708,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Iranian oil supply to Chinese buyers squeezed by U.S. blockade",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636035-iranian-oil-supply-to-chinese-buyers-squeezed-by-us-blockade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:56:42+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Neoclouds Shine in AI Build Out",
       "source": "Yahoo",
@@ -639,39 +738,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T22:09:46+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing engineers union rejects contract offer, setting stage for possible strike",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636033-boeing-engineers-union-rejects-contract-offer-setting-stage-for-possible-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:09:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:03:39+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Friday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635426-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:00:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -801,6 +867,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Why some of America's biggest brands are losing ground in China",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T18:31:41+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "FLNC or GEV: Which Alternative Energy Stock Is Better-Placed Now?",
       "source": "Yahoo",
@@ -842,17 +919,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T17:38:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This sleepy sector could offer big returns, says Mike Khouw",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/this-sleepy-sector-could-offer-big-returns-says-mike-khouw.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T17:31:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -928,6 +994,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Costco makes key move to expand membership base",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/costco-makes-key-move-expand-161700061.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T16:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Is Quanta's Capital Strategy Creating More Than Earnings Growth?",
       "source": "Yahoo",
@@ -964,17 +1041,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/premier-league-gambling-shirt-sponsors.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T14:00:02+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Bitcoin Jumps Above $77,000, Gold Hits 3-Month Highs: Stock Market Today",
       "source": "Benzinga",
@@ -984,50 +1050,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018A disaster\u2019: Thousands of Californian retirees face eviction as insurer axes assisted living benefits. Are you safe?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/disaster-thousands-californian-retirees-face-113500669.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Do Wall Street Analysts Like HCA Healthcare Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/wall-street-analysts-hca-healthcare-113336499.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:33:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Situational Awareness Bet Billions on Sandisk Before Imploding. The Supercycle Is Far From Over for SNDK Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-bet-billions-sandisk-113001932.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:30:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dividend Tourists Find Way To Triple S&P 500's Puny Yield",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/etfs-and-funds/sectors/dividend-tourists-find-way-to-triple-sp-500s-puny-yield/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:24:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1049,28 +1071,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T11:20:57+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Are Wall Street Analysts' Target Price for Garmin Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-111410241.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:14:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Middle millionaires worth $1-$3 million fork out the most to the IRS. Dodge the tax torpedo headed for your nest egg now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/middle-millionaires-worth-1-3-110500840.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:05:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
