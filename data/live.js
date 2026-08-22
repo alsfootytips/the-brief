@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T04:06:51.714268+00:00",
+  "generated_at": "2026-08-22T04:49:39.500043+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T04:06:51.711589+00:00",
+      "timestamp": "2026-08-22T04:49:39.497230+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T04:06:51.711585+00:00",
+      "timestamp": "2026-08-22T04:49:39.497226+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,67 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T04:06:51.711576+00:00",
+      "timestamp": "2026-08-22T04:49:39.497217+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:36:27+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "springbig Holdings earnings missed by $0.03, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/springbig-holdings-earnings-missed-by-003-revenue-fell-short-of-estimates-4872297",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:22:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. tariffs on Canada take effect after trade talks collapse",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:15:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:11:03+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Canada fail to reach a tariff deal, deepen trade war",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:06:26+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -124,55 +181,6 @@ window.theBriefLive = {
       "is_watchlist": true,
       "timestamp": "2026-08-22T02:48:26+00:00",
       "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave COO Sachin Jain sells $582,427 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweave-coo-sachin-jain-sells-582427-in-shares-93CH-4872286",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T02:46:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Archer Aviation CSO Eric Lentell sells $631,000 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/archer-aviation-cso-eric-lentell-sells-631000-in-company-stock-93CH-4872285",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T02:46:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crowdstrike CEO George Kurtz sells $1.93m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-193m-in-company-stock-93CH-4872284",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T02:46:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran not ready to make the 'right deal' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T01:05:00+00:00",
-      "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
@@ -961,66 +969,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Treasury Picks The Stocks America\u2019s Kids Will Own",
+      "headline": "Does NVIDIA Corporation (NVDA)\u2019s AI Dominance Leave Any Room for International Business (IBM) to Catch Up?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/treasury-picks-stocks-america-kids-211915458.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-corporation-nvda-ai-221337195.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T21:19:15+00:00",
+      "timestamp": "2026-08-20T22:13:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
+      "headline": "Can Merck & Company (MRK)\u2019s Stake in Evaxion A/S (EVAX) Validate the Potential of AI-Driven Vaccine Discovery?",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-company-mrk-stake-evaxion-220634079.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T21:05:06+00:00",
+      "timestamp": "2026-08-20T22:06:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Twin Disc, Incorporated Q4 2026 Earnings Call Summary",
+      "headline": "Hormuz Oil Crisis Accelerates Global EV Sales",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/twin-disc-incorporated-q4-2026-205807606.html",
+      "url": "https://finance.yahoo.com/energy/articles/hormuz-oil-crisis-accelerates-global-220000391.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T20:58:07+00:00",
+      "timestamp": "2026-08-20T22:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is the 'semiliquid' label misleading, or just an uncomfortable reality?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiliquid-label-misleading-just-uncomfortable-214937270.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T21:49:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Treasury buyback strategy falls short as debt worries persist",
+      "headline": "Coatue Management Opens New Position in AMD Stock. View This as a Renewed Bet on the AI Trade.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bonds-bounce-us-buybacks-relief-040238251.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coatue-management-opens-position-amd-214733476.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T20:57:37+00:00",
+      "timestamp": "2026-08-20T21:47:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hovnanian Enterprises, Inc. Q3 2026 Earnings Call Summary",
+      "headline": "Final Agenda: 2nd LA CorpGov Forum Sep 18 Featuring Activism, Sports, Entertainment",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/hovnanian-enterprises-inc-q3-2026-205610703.html",
+      "url": "https://finance.yahoo.com/media-advertising/articles/final-agenda-2nd-la-corpgov-214417129.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-20T20:56:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Advance Auto Parts, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-inc-q2-205607178.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T20:56:07+00:00",
+      "timestamp": "2026-08-20T21:44:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1282,17 +1290,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-19T17:25:05+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FCC head Brendan Carr says Disney free speech lawsuit is 'without merit'",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936665/abc-disney-sue-fcc-over-first-amendment-violations",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T08:43:08+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
