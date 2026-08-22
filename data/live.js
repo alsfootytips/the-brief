@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T15:20:39.224411+00:00",
+  "generated_at": "2026-08-22T15:47:41.143409+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T15:20:39.221447+00:00",
+      "timestamp": "2026-08-22T15:47:41.140554+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T15:20:39.221443+00:00",
+      "timestamp": "2026-08-22T15:47:41.140550+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,33 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T15:20:39.221434+00:00",
+      "timestamp": "2026-08-22T15:47:41.140541+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T15:25:48+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "General Motors inks tentative labor deals with Canada\u2019s Unifor union",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636041-general-motors-inks-tentative-labor-deals-unifor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T15:20:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -243,17 +266,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:27:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
@@ -408,17 +420,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/bofa-maintains-underperform-ratings-on-six-bdc-stocks-93CH-4872361",
       "is_watchlist": false,
       "timestamp": "2026-08-22T12:09:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic is said to be eyeing $100B in blockbuster public offering",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636038-anthropic-eyeing-100b-blockbuster-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:07:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
