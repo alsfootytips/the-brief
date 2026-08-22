@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T03:26:00.938881+00:00",
+  "generated_at": "2026-08-22T04:06:51.714268+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T03:26:00.936180+00:00",
+      "timestamp": "2026-08-22T04:06:51.711589+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T03:26:00.936176+00:00",
+      "timestamp": "2026-08-22T04:06:51.711585+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T03:26:00.936166+00:00",
+      "timestamp": "2026-08-22T04:06:51.711576+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -66,14 +66,40 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+      "headline": "Universal safety products: Director Ault buys $183,344 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/universal-safety-products-director-ault-buys-183344-in-stock-93CH-4872295",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T03:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Texas Roadhouse CEO Gerald Morgan sells $3.03m in TXRH stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/texas-roadhouse-ceo-gerald-morgan-sells-303m-in-txrh-stock-93CH-4872294",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T03:30:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Iran not ready to make the \u2019right deal\u2019",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions-4872246",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T03:06:32+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T03:30:27+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -135,26 +161,20 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Rivian CFO Claire McDonough sells $128,368 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/rivian-cfo-claire-mcdonough-sells-128368-in-company-stock-93CH-4872283",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T02:45:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave CSO Brian Venturo sells $542k class A stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweave-cso-brian-venturo-sells-542k-class-a-stock-93CH-4872282",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T02:31:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "Trump says Iran not ready to make the 'right deal' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T01:05:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -187,6 +207,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T22:58:54+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Treasury Secretary Bessent to hold press conference on Monday - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:09:46+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -626,32 +657,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T15:28:34+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T15:18:19+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T15:08:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
