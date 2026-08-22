@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T07:55:08.094904+00:00",
+  "generated_at": "2026-08-22T08:29:54.122426+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T07:55:08.092120+00:00",
+      "timestamp": "2026-08-22T08:29:54.120513+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T07:55:08.092116+00:00",
+      "timestamp": "2026-08-22T08:29:54.120511+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,43 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T07:55:08.092107+00:00",
+      "timestamp": "2026-08-22T08:29:54.120506+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PTC Therapeutics director Schmertzler disposes of $1.8m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ptc-therapeutics-director-schmertzler-disposes-of-18m-in-stock-93CH-4872314",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:16:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Where are central banks keeping their gold?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/where-are-central-banks-keeping-their-gold-4872312",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:03:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon-in-overnight-strikes-4872310",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T07:42:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -116,39 +149,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T06:15:32+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Reform UK infighting complicates Farage\u2019s push to prepare party to govern",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/reform-uk-infighting-complicates-farages-push-to-prepare-party-to-govern-4872304",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T05:56:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US hits Canadian goods with 50% tariffs after trade talks fail",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T05:30:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/breaking-down-the-usjapan-currency-alliance-4872302",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T05:12:11+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -915,66 +915,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Equinor and ORLEN Sign Three-Year Norwegian Crude Supply Deal",
+      "headline": "India's August private sector growth recovers slightly from over four-year low, PMI shows",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/equinor-orlen-sign-three-norwegian-021500560.html",
+      "url": "https://finance.yahoo.com/economy/articles/indias-august-private-sector-growth-050243541.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T02:15:00+00:00",
+      "timestamp": "2026-08-21T05:02:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hims & Hers Health (HIMS) & Novo Nordisk A/S (NVO): Two Weight-Loss Pill Players Just Got Punished for Growing Fast",
+      "headline": "US stocks rise, even as the bond market applies more pressure",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-hims-novo-015614960.html",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-following-wall-044644162.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T01:56:14+00:00",
+      "timestamp": "2026-08-21T04:46:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Powerus Wins $22.3 Million Middle East Oil Infrastructure Security Deal",
+      "headline": "South Korea plans chip windfall fund to back youth, AI investment",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/powerus-wins-22-3-million-015536888.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/south-korea-plans-chip-windfall-041053403.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T01:55:36+00:00",
+      "timestamp": "2026-08-21T04:10:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Riot Platforms (RIOT) & CleanSpark (CLSK): Bitcoin Miners are Becoming AI Landlords. Riot Just Signed a $9 Billion Lease to Prove It",
+      "headline": "Deere Gets Rolling as AI Buildout Fuels Construction Sales Boom",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-gets-rolling-ai-buildout-040100642.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T01:49:19+00:00",
+      "timestamp": "2026-08-21T04:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "From euphoria to despair, Korea reckons with stock mania's emotional toll",
+      "headline": "The Insurance Conversations Younger Clients Need to Have",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/euphoria-despair-korea-reckons-stock-014700635.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/insurance-conversations-younger-clients-040100704.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T01:47:00+00:00",
+      "timestamp": "2026-08-21T04:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "CrowdStrike Holdings (CRWD) & Palo Alto Networks (PANW): Cybersecurity Stocks Hit Record Highs After a Conference Made AI\u2019s Dark Side Clear",
+      "headline": "For Walmart Investors, Sagging Same-Store Sales Growth Overshadows Bottom-Line Beat",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-palo-alto-013941449.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-investors-sagging-same-store-040100826.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T01:39:41+00:00",
+      "timestamp": "2026-08-21T04:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
