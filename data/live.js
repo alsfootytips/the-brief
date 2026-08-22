@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T13:52:32.076648+00:00",
+  "generated_at": "2026-08-22T14:21:17.564414+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T13:52:32.073752+00:00",
+      "timestamp": "2026-08-22T14:21:17.561560+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T13:52:32.073748+00:00",
+      "timestamp": "2026-08-22T14:21:17.561557+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,76 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T13:52:32.073739+00:00",
+      "timestamp": "2026-08-22T14:21:17.561548+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636009-notable-tech-headlines-for-the-week-nvidia-micron-broadcom-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:10:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Notable analyst calls this week: Apple, Merck and Analog Devices among top picks",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635879-notable-analyst-calls-this-week-apple-merck-and-analog-devices-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:05:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' \u2014 and urges Americans to invest",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-says-140000827.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:57:48+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:57:48+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CTA equity positioning back to pre-Iran levels: BofA",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/cta-equity-positioning-back-to-preiran-levels-bofa-4872364",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:47:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -370,17 +436,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:00:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Marvell's tightening ties with hyperscalers likely prompts guidance raise: GF",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636031-marvells-tightening-ties-with-hyperscalers-likely-prompts-guidance-raise-gf?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -406,17 +461,6 @@ window.theBriefLive = {
       "headline": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T12:00:01+00:00",
       "relevance_score": 1.0,
@@ -513,45 +557,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "World Kinect\u2019s 64% surge validates InvestingPro Fair Value analysis",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/investment-ideas/world-kinects-64-surge-validates-investingpro-fair-value-analysis-93CH-4872333",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:09:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fast track to the future: China's Humanoid Robot Games goes mainstream",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635625-fast-track-to-the-future-chinas-humanoid-robot-games-goes-mainstream?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:00:56+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-22T11:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada vows to match new U.S. tariffs 'dollar for dollar' as trade talks fail",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636037-canada-vows-match-new-us-tariffs-dollar-dollar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T10:55:24+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -565,6 +576,18 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave's Economics Are Finally Starting To Work",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=978f39c8e50069439993830571a021d1f27eeb394af25b6c38e2db54348831ee",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T10:01:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -705,18 +728,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T00:40:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Neoclouds Shine in AI Build Out",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd7ccdb98525fcfe1797fa084dbf0578bb8f0c913acca729e4d1adf80c06a5b9",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T23:50:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -910,17 +921,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer looks at why our AI data center stocks are among the worst of the week",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T17:38:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
