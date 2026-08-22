@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-22T00:00:03+00:00",
+  "generated_at": "2026-08-22T01:43:40+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -710,40 +710,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 2.6605,
         "revenue_estimate": 2688693480,
-        "is_watchlist": false
-      }
-    ],
-    "2026-08-21": [
-      {
-        "ticker": "BJ",
-        "date": "2026-08-21",
-        "hour": "bmo",
-        "eps_estimate": 1.1951,
-        "revenue_estimate": 6122130243,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "OWLS",
-        "date": "2026-08-21",
-        "hour": "",
-        "eps_estimate": 0.0102,
-        "revenue_estimate": 9250380,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UI",
-        "date": "2026-08-21",
-        "hour": "bmo",
-        "eps_estimate": 4.154,
-        "revenue_estimate": 876011910,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ZKH",
-        "date": "2026-08-21",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       }
     ],

@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T00:00:03.716556+00:00",
+  "generated_at": "2026-08-22T01:43:40.301458+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T00:00:03.714214+00:00",
+      "timestamp": "2026-08-22T01:43:40.298524+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.95,
+      "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T00:00:03.714211+00:00",
+      "timestamp": "2026-08-22T01:43:40.298520+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,111 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T00:00:03.714205+00:00",
+      "timestamp": "2026-08-22T01:43:40.298510+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Solv energy management holdings disposes of 1.3m Solv energy shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/solv-energy-management-holdings-disposes-of-13m-solv-energy-shares-93CH-4872259",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:31:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Solv Energy: American securities, 10% owner, sells $220.5m stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/solv-energy-american-securities-10-owner-sells-2205m-stock-93CH-4872257",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:31:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoreWeave\u2019s principal accounting officer Jeff Baker sells $115,401 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/coreweaves-principal-accounting-officer-jeff-baker-sells-115401-in-stock-93CH-4872258",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:31:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoreWeave CFO Nitin Agrawal sells $924,496 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-924496-in-stock-93CH-4872256",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:31:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions-4872246",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:24:36+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S., Iran trade warnings as new sanctions loom and Hormuz oil flows stall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:23:38+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Neumora Therapeutics COO Aurora disposes of $269,966 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/neumora-therapeutics-coo-aurora-disposes-of-269966-in-stock-93CH-4872250",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:16:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Global Water Resources director Levine buys $5.7m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/global-water-resources-director-levine-buys-57m-in-shares-93CH-4872249",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:16:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T00:40:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -72,99 +173,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T23:56:42+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Si-Bone chief op & financial officer sells $337,138 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sibone-chief-op--financial-officer-sells-337138-in-stock-93CH-4872226",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:31:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rockwell Automation sr. VP and CFO Rothe sells $256k in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/rockwell-automation-sr-vp-and-cfo-rothe-sells-256k-in-stock-93CH-4872225",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:31:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "Trump says he did not direct Bessent to intervene in bond market",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-says-he-did-not-direct-bessent-to-intervene-in-bond-market-4872224",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T23:30:46+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EVP CFO Kevin Rhodes sells $486,697 of Extreme Networks stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/evp-cfo-kevin-rhodes-sells-486697-of-extreme-networks-stock-93CH-4872223",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:15:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Omeros director Thomas Cable sells $276,772 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/omeros-director-thomas-cable-sells-276772-in-company-stock-93CH-4872222",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:15:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "David J. Taylor from Ohio\u2019s 2nd district buys Alphabet Inc and Procter & Gamble stocks, sells Microsoft",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/david-j-taylor-from-ohios-2nd-district-buys-alphabet-inc-and-procter--gamble-stocks-sells-microsoft-93CH-4872221",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:07:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tim Moore from North Carolina\u2019s 14th district sells AT&T shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/tim-moore-from-north-carolinas-14th-district-sells-att-shares-93CH-4872220",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:06:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cohu senior VP & chief customer officer sells $558,200 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cohu-senior-vp--chief-customer-officer-sells-558200-in-stock-93CH-4872217",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:00:59+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -223,21 +231,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T21:31:24+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Hims & Hers Health facing penalties from Visa for credit card disputes - report",
@@ -256,17 +249,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636032-pender-growth-fund-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:29:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:27:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -695,6 +677,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/21/premier-league-gambling-shirt-sponsors.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T14:00:02+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "CRWV",
       "headline": "Goldman Sachs Maintains Neutral on CoreWeave, Raises Price Target to $139",
       "source": "Benzinga",
@@ -959,6 +952,72 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-stanley-druckenmiller-agree-185505024.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T18:55:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BitGo Secures South Korea Virtual Asset License",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitgo-secures-south-korea-virtual-184800383.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T18:48:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Duquesne Management Just Dumped Its Entire Stake in This Surging AI Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/duquesne-management-just-dumped-entire-184535352.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T18:45:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin Forms Bullish \u2018Golden Cross\u2019 Chart Pattern",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-forms-bullish-golden-cross-184400121.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T18:44:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "XRP Price Prediction: 45% Gain Ahead as SEC\u2019s New Rules Help XRP Play Catch-Up",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-45-gain-183243964.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T18:32:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Biggest Players in a $500 Billion Market Are Exiting. Here\u2019s Why Costco Just Entered.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/biggest-players-500-billion-market-183044850.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T18:30:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "OXY",
       "headline": "Hedging Exposure In This Volatile Market",
       "source": "SeekingAlpha",
@@ -984,78 +1043,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump administration moves ahead with new crypto rules, with key bill stalled in Congress",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:52:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "3 things to know about the $40 trillion federal debt",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
       "is_watchlist": false,
       "timestamp": "2026-08-20T16:50:41+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ethereum Price Prediction: Here\u2019s Why This ETH Bear Market is Officially Over",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:38:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AIR Global Reports 1H Revenue & Gross Profit Growth, Maintains 2026 Guidance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/air-global-reports-1h-revenue-163804354.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:38:04+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "David Friedberg Says 1 Piece of SpaceX Could Be Worth a Trillion Dollars Inside 18 Months, \u2018That I Think Funds All of the Rest of This\u2019",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/david-friedberg-says-1-piece-163507452.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:35:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Big Pharma is Making Chinese Biotechs Prosper",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/big-pharma-making-chinese-biotechs-162921697.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:29:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Driver shortages, booming exports reshape US-Mexico freight market",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:24:34+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1328,18 +1321,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-18T13:13:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "America's Debt Problem Is Bad - Prepare Your Portfolio For What Comes Next",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=30277cc81c51da3c6e862dd888070c1ba2556dbcbbcd288707486922c145a51b",
-      "is_watchlist": true,
-      "timestamp": "2026-08-18T07:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",
