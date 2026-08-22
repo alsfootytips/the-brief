@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-21T23:32:41.363570+00:00",
+  "generated_at": "2026-08-22T00:00:03.716556+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "change_pct": 4.66,
-      "price": 386.77,
+      "change_pct": 4.64,
+      "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T23:32:41.360735+00:00",
+      "timestamp": "2026-08-22T00:00:03.714214+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.97,
+      "change_pct": 5.95,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-21T23:32:41.360732+00:00",
+      "timestamp": "2026-08-22T00:00:03.714211+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -55,13 +55,84 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.25,
-      "price": 640.92,
+      "change_pct": -3.27,
+      "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-21T23:32:41.360723+00:00",
+      "timestamp": "2026-08-22T00:00:03.714205+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iranian oil supply to Chinese buyers squeezed by U.S. blockade",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636035-iranian-oil-supply-to-chinese-buyers-squeezed-by-us-blockade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:56:42+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Si-Bone chief op & financial officer sells $337,138 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sibone-chief-op--financial-officer-sells-337138-in-stock-93CH-4872226",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:31:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rockwell Automation sr. VP and CFO Rothe sells $256k in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/rockwell-automation-sr-vp-and-cfo-rothe-sells-256k-in-stock-93CH-4872225",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:31:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "Trump says he did not direct Bessent to intervene in bond market",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-says-he-did-not-direct-bessent-to-intervene-in-bond-market-4872224",
+      "is_watchlist": true,
+      "timestamp": "2026-08-21T23:30:46+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EVP CFO Kevin Rhodes sells $486,697 of Extreme Networks stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/evp-cfo-kevin-rhodes-sells-486697-of-extreme-networks-stock-93CH-4872223",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:15:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Omeros director Thomas Cable sells $276,772 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/omeros-director-thomas-cable-sells-276772-in-company-stock-93CH-4872222",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:15:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -99,56 +170,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Walmart communications chief Allyson Park to leave company",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/walmart-communications-chief-allyson-park-to-leave-company-4872216",
+      "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T23:00:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing engineers, technical workers reject contract offer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-whitecollar-union-contract-vote-results-expected-today-4871891",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:54:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Si-Bone CEO Laura Francis sells over $1 million in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sibone-ceo-laura-francis-sells-over-1-million-in-company-stock-93CH-4872212",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:46:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ethos Technologies CEO Peter Colis sells $2.8m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ethos-technologies-ceo-peter-colis-sells-28m-in-shares-93CH-4872211",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:46:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ethos Technologies president Wang sells $3.9m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ethos-technologies-president-wang-sells-39m-in-stock-93CH-4872210",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:36:43+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-21T22:58:54+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -279,33 +306,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SolarMax Technology receives Nasdaq notice",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636028-solarmax-technology-receives-nasdaq-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:16:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Supreme Court allows Trump to continue White House ballroom construction for now",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T20:47:32+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:44:46+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -979,12 +984,56 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Trump administration moves ahead with new crypto rules, with key bill stalled in Congress",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:52:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "3 things to know about the $40 trillion federal debt",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
       "is_watchlist": false,
       "timestamp": "2026-08-20T16:50:41+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ethereum Price Prediction: Here\u2019s Why This ETH Bear Market is Officially Over",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:38:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AIR Global Reports 1H Revenue & Gross Profit Growth, Maintains 2026 Guidance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/air-global-reports-1h-revenue-163804354.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:38:04+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "David Friedberg Says 1 Piece of SpaceX Could Be Worth a Trillion Dollars Inside 18 Months, \u2018That I Think Funds All of the Rest of This\u2019",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/david-friedberg-says-1-piece-163507452.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T16:35:07+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1006,50 +1055,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
       "is_watchlist": false,
       "timestamp": "2026-08-20T16:24:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Forget the Usual AI Suspects. This Stock Could Be a Massive Winner as the Latest OpenAI Partner.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-usual-ai-suspects-stock-162144114.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:21:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What is a down payment?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/down-payment-200052911.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:15:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Are Wall Street Analysts' Target Price for Agilent Technologies Stock?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-161447651.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:14:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Verra Mobility (VRRM): How a Lost Customer Contract Changed the Investment Case",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-lost-customer-161042764.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:10:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
