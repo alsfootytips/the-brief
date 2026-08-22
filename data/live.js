@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T22:21:48.417147+00:00",
+  "generated_at": "2026-08-22T22:48:42.160300+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T22:21:48.414759+00:00",
+      "timestamp": "2026-08-22T22:48:42.157399+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T22:21:48.414756+00:00",
+      "timestamp": "2026-08-22T22:48:42.157380+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T22:21:48.414749+00:00",
+      "timestamp": "2026-08-22T22:48:42.157372+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Germany\u2019s Merz to press cabinet for faster pro-growth reforms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/germanys-merz-to-press-cabinet-for-faster-progrowth-reforms-4872393",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T22:12:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -315,17 +326,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T19:06:33+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T19:02:09+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
