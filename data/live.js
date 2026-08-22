@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T08:29:54.122426+00:00",
+  "generated_at": "2026-08-22T08:59:41.285514+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T08:29:54.120513+00:00",
+      "timestamp": "2026-08-22T08:59:41.282716+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T08:29:54.120511+00:00",
+      "timestamp": "2026-08-22T08:59:41.282712+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,55 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T08:29:54.120506+00:00",
+      "timestamp": "2026-08-22T08:59:41.282702+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz-4872318",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:42:42+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goosehead Insurance director Serena Jones sells $2.05m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/goosehead-insurance-director-serena-jones-sells-205m-in-stock-93CH-4872317",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:31:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fossil group director Pamela Edwards buys $40,220 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/fossil-group-director-pamela-edwards-buys-40220-in-stock-93CH-4872316",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:31:07+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CoreCivic EVP David Garfinkle sells $1.7m in CXW stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/corecivic-evp-david-garfinkle-sells-17m-in-cxw-stock-93CH-4872315",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -105,50 +150,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T07:27:32+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vatican to build \u20ac100 million renewable energy plant, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/vatican-to-build-100-million-renewable-energy-plant-sources-say-4872308",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T07:12:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin RSI hits 87 with MFI maxed at 100: Hourly levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T07:02:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. judge strikes down immigrant visa suspension covering 75 countries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-judge-strikes-down-immigrant-visa-suspension-covering-75-countries-4872307",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T06:56:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China\u2019s robot games evolve from science fair to strategic showcase",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/chinas-robot-games-evolve-from-science-fair-to-strategic-showcase-4872305",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T06:15:32+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -939,7 +940,7 @@ window.theBriefLive = {
       "ticker": null,
       "headline": "South Korea plans chip windfall fund to back youth, AI investment",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/south-korea-plans-chip-windfall-041053403.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/south-korea-plans-chip-windfall-041053005.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T04:10:53+00:00",
       "relevance_score": 0.0,
