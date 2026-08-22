@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T14:48:26.351619+00:00",
+  "generated_at": "2026-08-22T15:20:39.224411+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T14:48:26.348582+00:00",
+      "timestamp": "2026-08-22T15:20:39.221447+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T14:48:26.348578+00:00",
+      "timestamp": "2026-08-22T15:20:39.221443+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,66 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T14:48:26.348569+00:00",
+      "timestamp": "2026-08-22T15:20:39.221434+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "When he dies, Warren Buffett wants 90% of wife\u2019s inheritance put into 1 investment. Here\u2019s what it is, and how to get it",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T15:05:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Insider trades: AMD, Micron and Coca-Cola among notable names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636007-insider-trades-amd-micron-and-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T15:03:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:53:32+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:34:41+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI jobs advertise $177,000 salaries \u2014 more than double non-AI roles \u2014 yet women land just 26% of hires",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -73,18 +129,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T14:29:51+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:27:58+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -111,6 +155,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:00:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' \u2014 and urges Americans to invest",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-says-140000827.html",
@@ -128,17 +194,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T13:57:48+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:57:48+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -205,17 +260,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T13:26:57+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:26:14+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -300,17 +344,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "India Leaves the Door Ajar for China\u2019s Investors",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/india-leaves-door-ajar-china-123300050.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:33:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
       "source": "Yahoo",
@@ -339,17 +372,6 @@ window.theBriefLive = {
       "headline": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:30:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The tax loophole that turns a Trump Account into tax-free millions \u2014 do you know how to exploit it?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tax-loophole-turns-trump-account-123000413.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T12:30:00+00:00",
       "relevance_score": 1.5,
@@ -444,17 +466,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marvell's tightening ties with hyperscalers likely prompts guidance raise: GF",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636031-marvells-tightening-ties-with-hyperscalers-likely-prompts-guidance-raise-gf?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:00:03+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -554,6 +565,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T11:40:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "BCV: Deep Discount And Another Payout Lift",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c34d5a7170f46b0d8afb11ddfb712cddf7aa5bf2b70edb1612a344378e3e6a6",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T11:01:45+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -850,29 +873,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=ef334b2c13eadc90c05a79682d5e47e8ffb20c1f0e2225537b0f867b8b085887",
       "is_watchlist": true,
       "timestamp": "2026-08-21T19:10:47+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "An overlooked AI winner names a new CFO \u2014 plus, Nvidia's key earnings loom",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T18:55:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "BCA Research Sees a Dangerous Risk in CoreWeave (CRWV) and Nebius (NBIS)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e07cbb2dc1b3dfd9762543657eb5e1359249f999b3a0fea0a9b8ced16689435e",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T18:50:54+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
