@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T08:59:41.285514+00:00",
+  "generated_at": "2026-08-22T09:35:28.483834+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T08:59:41.282716+00:00",
+      "timestamp": "2026-08-22T09:35:28.481170+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T08:59:41.282712+00:00",
+      "timestamp": "2026-08-22T09:35:28.481167+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T08:59:41.282702+00:00",
+      "timestamp": "2026-08-22T09:35:28.481161+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukrainian drones hit Ozon warehouse as Russia reports major overnight attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/ukrainian-drones-hit-ozon-warehouse-as-russia-reports-major-overnight-attack-4872319",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:50:16+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -72,6 +83,18 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T08:42:42+00:00",
       "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:41:44+00:00",
+      "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
     },
@@ -139,17 +162,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T07:42:29+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vatican plans \u20ac100 million agrivoltaic energy plant near Rome",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/vatican-plans-100-million-agrivoltaic-energy-plant-near-rome-4872309",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T07:27:32+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -662,17 +674,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Turkey to seek Interpol notice for Netanyahu in Gaza flotilla case - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUoyZkFhckp4LWRTcFQ5azZpNDRPZjdVNGNnUVBocG9kRkN4Yk5aSHZTczg0cWhudS1FRk1EbGhGemliM1VqZWVQMUphTkk4VmhyTVAzU2tOSVZ2WExhS0ExQnB6UlpDTmZ0UWJiU3ZpRFp6N2RjZkdsVTlJb2QzMmdfVXd5RlMyOXhSZ1ZRMkkzNDA4WFplS1ppeFg0QmNlUnNLM1M4OHlKam5VMnJF?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T16:33:37+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html",
@@ -903,6 +904,39 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "A China Chip Denial Lands Before Nvidia\u2019s (NVDA) Big Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-chip-denial-lands-nvidia-082114198.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:21:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I'm 55 With $900,000 in an IRA. Should I Convert $100,000 Annually to a Roth to Reduce RMDs?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/im-55-900-000-ira-122500700.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T07:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-061736696.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T06:17:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "GE Vernova Selected By Quinbrook For Third Stage Of Supernode Battery Energy Storage System Project In Queensland; Terms Not Disclosed",
       "source": "Benzinga",
@@ -916,66 +950,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "India's August private sector growth recovers slightly from over four-year low, PMI shows",
+      "headline": "Under pressure: Tracking the pain in G7 government debt",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/indias-august-private-sector-growth-050243541.html",
+      "url": "https://finance.yahoo.com/news/under-pressure-tracking-pain-g7-072738511.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T05:02:43+00:00",
+      "timestamp": "2026-08-21T06:06:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US stocks rise, even as the bond market applies more pressure",
+      "headline": "A date on the calendar could shape the BOJ's endgame on interest rates",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-following-wall-044644162.html",
+      "url": "https://finance.yahoo.com/news/date-calendar-could-shape-bojs-060629014.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T04:46:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "South Korea plans chip windfall fund to back youth, AI investment",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/south-korea-plans-chip-windfall-041053005.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T04:10:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Deere Gets Rolling as AI Buildout Fuels Construction Sales Boom",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-gets-rolling-ai-buildout-040100642.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T04:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Insurance Conversations Younger Clients Need to Have",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/insurance-conversations-younger-clients-040100704.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T04:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "For Walmart Investors, Sagging Same-Store Sales Growth Overshadows Bottom-Line Beat",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-investors-sagging-same-store-040100826.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T04:01:00+00:00",
+      "timestamp": "2026-08-21T06:06:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1022,6 +1012,21 @@ window.theBriefLive = {
       "timestamp": "2026-08-20T22:59:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "One day after doubling Treasury buybacks, Bessent says he's ready to boost them further to push down long-term yields",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/one-day-after-doubling-treasury-buybacks-bessent-says-hes-ready-to-boost-them-further-to-push-down-long-term-yields-181218236.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-20T18:12:18+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1182,6 +1187,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Proposed California wealth tax sparks debate: Will billionaires leave the state?",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5935597/california-billionaires-wealth-tax-sergey-brin",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T08:45:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "The Worst Of 2025's Thanksgiving Leftover Stocks",
       "source": "SeekingAlpha",
@@ -1258,17 +1274,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
       "is_watchlist": false,
       "timestamp": "2026-08-19T21:05:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T20:09:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
