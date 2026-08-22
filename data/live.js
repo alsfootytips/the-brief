@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T14:21:17.564414+00:00",
+  "generated_at": "2026-08-22T14:48:26.351619+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T14:21:17.561560+00:00",
+      "timestamp": "2026-08-22T14:48:26.348582+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T14:21:17.561557+00:00",
+      "timestamp": "2026-08-22T14:48:26.348578+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,33 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T14:21:17.561548+00:00",
+      "timestamp": "2026-08-22T14:48:26.348569+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/tariff-refunds-are-hitting-retailers-wallets-heres-what-theyre-doing-with-the-money-142951738.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:29:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:27:58+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -347,17 +370,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018Always the best time to buy\u2019: Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/always-best-time-buy-todd-121500299.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
@@ -540,17 +552,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/bofa-says-cta-treasury-shorts-stable-euro-shortcover-risk-rises-93CH-4872336",
       "is_watchlist": false,
       "timestamp": "2026-08-22T11:40:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "e.l.f. Beauty SVP Joshua Franks sells $571,800 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/elf-beauty-svp-joshua-franks-sells-571800-in-common-stock-93CH-4872335",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:31:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
