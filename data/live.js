@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T04:49:39.500043+00:00",
+  "generated_at": "2026-08-22T05:26:52.772478+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T04:49:39.497230+00:00",
+      "timestamp": "2026-08-22T05:26:52.769978+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T04:49:39.497226+00:00",
+      "timestamp": "2026-08-22T05:26:52.769974+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,44 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T04:49:39.497217+00:00",
+      "timestamp": "2026-08-22T05:26:52.769965+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/breaking-down-the-usjapan-currency-alliance-4872302",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T05:12:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Canada fail to reach a tariff deal, deepen trade war",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:54:27+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pentagon removes Stars and Stripes newspaper leadership",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/pentagon-removes-stars-and-stripes-newspaper-leadership-4872300",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:40:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -95,30 +129,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T04:15:29+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T04:11:03+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US, Canada fail to reach a tariff deal, deepen trade war",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T04:06:26+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -161,32 +171,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Moderna cancer vaccine breakthrough revives hopes for biotech turnaround",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/moderna-cancer-vaccine-breakthrough-revives-hopes-for-biotech-turnaround-4872292",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T03:06:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran threatens military response to US sanctions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-threatens-military-response-to-us-sanctions-4872287",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T02:48:26+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "'We have more work to do', says Canada negotiator as US trade deadline looms",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
@@ -197,6 +181,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "The Real Cost Of $40 Trillion In Debt",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6365024fb8e156a60d7a63a74eaa558553dccbcd396d6b5bb50f04e5f3d7fe03",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T00:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Iranian oil supply to Chinese buyers squeezed by U.S. blockade",
       "source": "Seeking Alpha Market",
@@ -204,28 +200,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T23:56:42+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:58:54+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Treasury Secretary Bessent to hold press conference on Monday - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:09:46+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -460,21 +434,6 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T19:21:21+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Former JPMorgan exec takes on Social Security advisory role",
@@ -496,17 +455,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "An overlooked AI winner names a new CFO \u2014 plus, Nvidia's key earnings loom",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T18:55:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -556,28 +504,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer looks at why our AI data center stocks are among the worst of the week",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T17:38:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This sleepy sector could offer big returns, says Mike Khouw",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/this-sleepy-sector-could-offer-big-returns-says-mike-khouw.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T17:31:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously",
       "source": "SeekingAlpha",
@@ -587,17 +513,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NATO members discuss Strait of Hormuz options without alliance involvement - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC1YSDVDa3NjOU9ndVc5Z2ZkNVp3Vjliay1ObVFfcUw3UGYtdFU0ZkpjVTkzNWVjQnN0dzNVaGMzUnFOeG04TkZFd21kN3FCRkVrNG9pdzg4VWQ4SHU1YkhBRTVJeF9xaFJTUlM1UnRBUVFYVHNjdk9uc1lkSF95OG5ZWTNWbkYtNVZCem9xWFdTTnBxc014Z0JTRktydjZ6TTY5MnBlcE40ZGhGUzQ4WngteHd4dzE0Y0JhcjNGaGhsS2c?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T16:51:52+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -625,17 +540,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Turkey to seek Interpol notice for Netanyahu in Gaza flotilla case - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUoyZkFhckp4LWRTcFQ5azZpNDRPZjdVNGNnUVBocG9kRkN4Yk5aSHZTczg0cWhudS1FRk1EbGhGemliM1VqZWVQMUphTkk4VmhyTVAzU2tOSVZ2WExhS0ExQnB6UlpDTmZ0UWJiU3ZpRFp6N2RjZkdsVTlJb2QzMmdfVXd5RlMyOXhSZ1ZRMkkzNDA4WFplS1ppeFg0QmNlUnNLM1M4OHlKam5VMnJF?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T16:33:37+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html",
@@ -658,35 +562,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Iran-linked oil tanker falls victim to Somali piracy surge - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlBmdExCTDN4OFl6N05iSGtIRlNWVWFvUFpjSVQwdVFWQkl1aTBrQVl2R1NJTmViMERuSXJFZ3NtRXVHZ1JTZ1RBMDIxZzFrN01kT212NlNhYkg3NThNdVZwbnota0ZWMHFEaXkycFBZTG0wUDNXTXpVOHZleUx3a3dMWjN6RGM3YWZMaTJfQV9sRjlobEJILWQwQXczYjdCZ19fbGlYZTVYQUJ2VGc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T15:28:34+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Did Citadel\u2019s $4 Billion AI Stock Selloff Weigh On MU, SNDK, NBIS?",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=db33e45db8700a7a0ad75086825d79953df31ab74d702f85ca90f0e2936ea34f",
       "is_watchlist": true,
       "timestamp": "2026-08-21T15:06:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Brad Simpson On Navigating A More Uncertain World",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=41497b0cf2421399802436eefd4fd1f6b9001cb81b6f614fe968fa90c04aa801",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T15:05:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -969,6 +850,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Could argenx SE (ARGX)\u2019s Global Scale Give it an Edge Over Zai Lab Limited American Depositary Shares (ZLAB)?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-argenx-se-argx-global-222729843.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:27:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could L3Harris Technologies (LHX)\u2019a Stability Outweigh Intuitive Machines. (LUNR)\u2019s Explosive Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-l3harris-technologies-lhx-stability-222114188.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:21:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corn Holds Higher on Thursday as December Breaches $5",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-holds-higher-thursday-december-221852665.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T22:18:52+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Does NVIDIA Corporation (NVDA)\u2019s AI Dominance Leave Any Room for International Business (IBM) to Catch Up?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-corporation-nvda-ai-221337195.html",
@@ -997,39 +911,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-20T22:00:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is the 'semiliquid' label misleading, or just an uncomfortable reality?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiliquid-label-misleading-just-uncomfortable-214937270.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:49:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coatue Management Opens New Position in AMD Stock. View This as a Renewed Bet on the AI Trade.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coatue-management-opens-position-amd-214733476.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:47:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Final Agenda: 2nd LA CorpGov Forum Sep 18 Featuring Activism, Sports, Entertainment",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/final-agenda-2nd-la-corpgov-214417129.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T21:44:17+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

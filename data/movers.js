@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T04:49:39.494675+00:00",
+  "generated_at": "2026-08-22T05:26:52.767384+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously\""
+      "move_reason": "News: \"The Real Cost Of $40 Trillion In Debt\""
     },
     {
       "ticker": "XLP",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously\""
+      "move_reason": "News: \"The Real Cost Of $40 Trillion In Debt\""
     },
     {
       "ticker": "NBIS",
