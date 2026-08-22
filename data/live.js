@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T18:30:01.676654+00:00",
+  "generated_at": "2026-08-22T19:00:56.916713+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T18:30:01.673700+00:00",
+      "timestamp": "2026-08-22T19:00:56.913807+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T18:30:01.673696+00:00",
+      "timestamp": "2026-08-22T19:00:56.913803+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,43 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T18:30:01.673687+00:00",
+      "timestamp": "2026-08-22T19:00:56.913794+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:57:46+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:55:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What happens when the AI capex cycle slows?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:43:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -83,17 +116,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T17:49:56+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T17:33:53+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -541,17 +563,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BofA maintains underperform ratings on six BDC stocks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-maintains-underperform-ratings-on-six-bdc-stocks-93CH-4872361",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:09:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
@@ -623,17 +634,6 @@ window.theBriefLive = {
       "headline": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-22T12:00:00+00:00",
       "relevance_score": 0.0,
