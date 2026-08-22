@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T16:23:41.554340+00:00",
+  "generated_at": "2026-08-22T16:50:49.651381+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T16:23:41.551347+00:00",
+      "timestamp": "2026-08-22T16:50:49.648520+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T16:23:41.551343+00:00",
+      "timestamp": "2026-08-22T16:50:49.648516+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T16:23:41.551334+00:00",
+      "timestamp": "2026-08-22T16:50:49.648507+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T16:38:52+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada to match U.S. tariffs dollar for dollar after trade talks collapse",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/canada-to-match-us-tariffs-dollar-for-dollar-after-trade-talks-collapse-4872372",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T16:10:13+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -98,17 +120,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T16:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:59:29+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -585,17 +596,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Gamma, dealer hedging, and the 0DTE effect on market dynamics",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/gamma-dealer-hedging-and-the-0dte-effect-on-market-dynamics-93CH-4872338",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:45:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "BCV: Deep Discount And Another Payout Lift",
       "source": "SeekingAlpha",
@@ -715,12 +715,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hours after U.S. imposes tariffs, Canada says retaliatory tariffs will start Sept. 8",
+      "headline": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "is_watchlist": false,
       "timestamp": "2026-08-22T04:36:27+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bill Gates pulls $818M from Berkshire to buy this giant",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-pulls-818m-berkshire-030700591.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T03:07:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -777,6 +788,17 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-21T22:09:46+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblVNM2JWT0l4cUVHSzdxOHRqaDg2QlEzaFh2V0FkQmdobHNQeHgwZUx0M2JrOFN4Rm9ia1ZlS0g3Y2VoNGFtbVlpaXlNczktaHRwM2NCZk9jU190SkFCZWJaUGRwLXdZUkdOeEpxTzJsd1BsUGlzR0xsZFBEVEtZOVI2T2d4OW9HRE9ZcU9ZUTB2QjFaWVdyUHV3NExhaUx6NVQxTllkZHdCeUVPWUdIdXVjaWxWUQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:39:22+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -854,21 +876,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T19:21:21+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -997,17 +1004,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Costco makes key move to expand membership base",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/costco-makes-key-move-expand-161700061.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T16:17:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
