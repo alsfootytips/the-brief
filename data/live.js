@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T10:59:33.235496+00:00",
+  "generated_at": "2026-08-22T11:28:46.410528+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T10:59:33.232764+00:00",
+      "timestamp": "2026-08-22T11:28:46.407763+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T10:59:33.232760+00:00",
+      "timestamp": "2026-08-22T11:28:46.407759+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,54 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T10:59:33.232751+00:00",
+      "timestamp": "2026-08-22T11:28:46.407751+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fast track to the future: China's Humanoid Robot Games goes mainstream",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4635625-fast-track-to-the-future-chinas-humanoid-robot-games-goes-mainstream?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:00:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A massive \u2018corporate welfare\u2019 program is underway \u2014 and consumers want a bigger cut of it",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-massive-corporate-welfare-program-is-underway-and-consumers-want-a-bigger-cut-of-it-0ff06d67?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada vows to match new U.S. tariffs 'dollar for dollar' as trade talks fail",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636037-canada-vows-match-new-us-tariffs-dollar-dollar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:55:24+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -201,6 +245,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "IWM",
+      "headline": "Flash PMIs Signal Summer Growth Spurt For Advanced Economies: Assessing The Growth Drivers And Outlook",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=af82ce82f474ddc5e0f0b5f03c96062fa143f5ee3522fb4422f8730eff706498",
+      "is_watchlist": true,
+      "timestamp": "2026-08-22T07:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
       "headline": "Global Trade Buoyed By Surge In Tech Equipment Shipments",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5e304825a9e3fed880a248a4224c3f799953acabd98eadf69a2151cd139175a9",
@@ -277,18 +333,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T00:40:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The Real Cost Of $40 Trillion In Debt",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6365024fb8e156a60d7a63a74eaa558553dccbcd396d6b5bb50f04e5f3d7fe03",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T00:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -393,33 +437,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pender Growth Fund reports Q2 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636032-pender-growth-fund-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:29:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "You can now Venmo your kid\u2019s college tuition. But should you?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Silver Storm announces $7.5M non-brokered private placement with Eric Sprott",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636030-silver-storm-announces-75m-non-brokered-private-placement-with-eric-sprott?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:18:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -496,29 +518,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-21T20:11:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:11:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s how Bessent\u2019s newly activist Treasury Department is undercutting the Fed\u2019s Warsh",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:11:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -836,6 +835,28 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Amid the chip bear market, healthcare is breaking out: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/amid-the-chip-bear-market-healthcare-is-breaking-out-chart-of-the-day-100000172.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "AMD",
       "headline": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
       "source": "Benzinga",
@@ -845,6 +866,28 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A $1,000 Investment With Bill Ackman in 2004 Would Be Worth Over $25,000 Today. Here's the Strategy Behind His Two-Decade Track Record.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-000-investment-bill-ackman-095000632.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T09:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom\u2019s (AVGO) Massive New Debt Deal Points To Where AI Is Headed",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-massive-debt-deal-094528841.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T09:45:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -860,34 +903,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Global equity fund inflows hit three-week high before late selloff",
+      "headline": "Nebius (NBIS) Raises $5B Convertible Bond As AI Compute Demand Surges",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-hit-092302468.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-nbis-raises-5b-convertible-093337551.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T09:23:02+00:00",
+      "timestamp": "2026-08-21T09:33:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iranian Oil Supply to China Is Rapidly Drying Up",
+      "headline": "Costco is launching Medicare Advantage plans with SCAN Group, banking on the same brand trust that sells its chicken",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/iranian-oil-supply-china-rapidly-091500264.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-093000557.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T09:15:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alibaba\u2019s (BABA) AI Bet Crushes Profit While Cloud Revenue Soars",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-crushes-090413974.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:04:13+00:00",
+      "timestamp": "2026-08-21T09:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -938,39 +969,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "A China Chip Denial Lands Before Nvidia\u2019s (NVDA) Big Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/china-chip-denial-lands-nvidia-082114198.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:21:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China\u2019s Oil Imports Set to Rebound as Refiners Hunt for New Supply",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/china-oil-imports-set-rebound-080000061.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Wall Street Analysts Predicting DTE Energy Stock Will Climb or Sink?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-dte-075911349.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T07:59:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "GE Vernova Selected By Quinbrook For Third Stage Of Supernode Battery Energy Storage System Project In Queensland; Terms Not Disclosed",
       "source": "Benzinga",
@@ -1000,17 +998,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-20T23:12:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AT&T stands to gain as Verizon loses a customer related battle",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1317,6 +1304,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
       "is_watchlist": false,
       "timestamp": "2026-08-18T13:13:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HELOC and home equity loan rates today, Friday, August 21, 2026: Why understanding how rates work matters",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-august-21-2026-why-understanding-how-rates-work-matters-100000113.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-17T10:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T10:59:33.230155+00:00",
+  "generated_at": "2026-08-22T11:28:46.405123+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Global Trade Buoyed By Surge In Tech Equipment Shipments\""
+      "move_reason": "News: \"Flash PMIs Signal Summer Growth Spurt For Advanced Economies: Assessing The Growth Drivers...\""
     },
     {
       "ticker": "XLP",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Global Trade Buoyed By Surge In Tech Equipment Shipments\""
+      "move_reason": "News: \"Flash PMIs Signal Summer Growth Spurt For Advanced Economies: Assessing The Growth Drivers...\""
     },
     {
       "ticker": "NBIS",
