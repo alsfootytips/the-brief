@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T21:46:51.232814+00:00",
+  "generated_at": "2026-08-22T22:21:48.417147+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T21:46:51.229985+00:00",
+      "timestamp": "2026-08-22T22:21:48.414759+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T21:46:51.229981+00:00",
+      "timestamp": "2026-08-22T22:21:48.414756+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T21:46:51.229972+00:00",
+      "timestamp": "2026-08-22T22:21:48.414749+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -66,11 +66,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "After high-profile firings by the Pentagon, is Stars & Stripes still independent?",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941159/after-high-profile-firings-by-the-pentagon-is-stars-stripes-still-independent",
+      "headline": "SA Asks: What are the most promising oncology companies right now?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636045-sa-asks-what-are-the-most-promising-oncology-companies-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T21:30:51+00:00",
+      "timestamp": "2026-08-22T21:57:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -105,6 +105,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T21:16:39+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Gas Turbine Shortage Just Became AI\u2019s Biggest Constraint",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T21:00:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -375,17 +386,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T17:49:56+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636042-canada-retaliatory-tariffs-on-u-s-goods-to-take-effect-on-sept-8?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -446,17 +446,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636007-insider-trades-amd-micron-and-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-22T15:03:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636009-notable-tech-headlines-for-the-week-nvidia-micron-broadcom-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:10:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1285,6 +1274,17 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
       "is_watchlist": false,
       "timestamp": "2026-08-20T09:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Proposed California wealth tax sparks debate: Will billionaires leave the state?",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5935597/california-billionaires-wealth-tax-sergey-brin",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T08:45:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
