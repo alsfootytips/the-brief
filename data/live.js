@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T20:49:37.776867+00:00",
+  "generated_at": "2026-08-22T21:21:34.066845+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T20:49:37.774036+00:00",
+      "timestamp": "2026-08-22T21:21:34.063823+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T20:49:37.774032+00:00",
+      "timestamp": "2026-08-22T21:21:34.063819+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,33 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T20:49:37.774023+00:00",
+      "timestamp": "2026-08-22T21:21:34.063806+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T20:56:13+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-face-over-15-server-price-hikes-as-memory-costs-soar--report-4872389",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T20:47:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -286,6 +309,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Israel strikes southern Syria; Damascus condemns attack - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:51:50+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "What happens when the AI capex cycle slows?",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382",
@@ -314,29 +348,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T17:49:56+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran condemns US plans to announce new sanctions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T17:18:42+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Will Apple\u2019s risk appetite change under John Ternus?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/will-apples-risk-appetite-change-under-john-ternus-4872375",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T17:04:56+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -795,17 +806,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T00:40:47+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:58:54+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
