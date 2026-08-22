@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T17:20:35.989478+00:00",
+  "generated_at": "2026-08-22T17:46:31.311101+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T17:20:35.987100+00:00",
+      "timestamp": "2026-08-22T17:46:31.308085+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T17:20:35.987097+00:00",
+      "timestamp": "2026-08-22T17:46:31.308081+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,33 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T17:20:35.987090+00:00",
+      "timestamp": "2026-08-22T17:46:31.308072+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T17:33:53+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran condemns US plans to announce new sanctions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T17:18:42+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -517,17 +540,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Wolfe Research sees CNH stock flat 2027 outlook on commodity prices",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/wolfe-research-sees-cnh-stock-flat-2027-outlook-on-commodity-prices-93CH-4872360",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:05:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "3 Semiconductor Stocks to Buy Before August Ends",
       "source": "Yahoo",
@@ -699,17 +711,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T05:04:00+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Six investors reveal the biggest market risks \u2014 and one strategy they agree on",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T05:00:01+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
