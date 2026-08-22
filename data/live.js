@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T10:33:10.712575+00:00",
+  "generated_at": "2026-08-22T10:59:33.235496+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T10:33:10.709763+00:00",
+      "timestamp": "2026-08-22T10:59:33.232764+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T10:33:10.709741+00:00",
+      "timestamp": "2026-08-22T10:59:33.232760+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,33 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T10:33:10.709732+00:00",
+      "timestamp": "2026-08-22T10:59:33.232751+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:34:23+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Braze CBO Astha Malik sells $464,910 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/braze-cbo-astha-malik-sells-464910-in-stock-93CH-4872327",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:16:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -162,18 +185,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T08:50:16+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz-4872318",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:42:42+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -512,25 +523,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+      "headline": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T19:58:36+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-08-21T20:05:14+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T19:29:48+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -861,6 +860,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Global equity fund inflows hit three-week high before late selloff",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-hit-092302468.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T09:23:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Iranian Oil Supply to China Is Rapidly Drying Up",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/iranian-oil-supply-china-rapidly-091500264.html",
@@ -903,17 +913,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron (MU) Just Made a $10B Bet on Its Future",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-just-made-10b-084444893.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:44:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
