@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T07:19:06.021813+00:00",
+  "generated_at": "2026-08-22T07:55:08.094904+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T07:19:06.018963+00:00",
+      "timestamp": "2026-08-22T07:55:08.092120+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T07:19:06.018959+00:00",
+      "timestamp": "2026-08-22T07:55:08.092116+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T07:19:06.018949+00:00",
+      "timestamp": "2026-08-22T07:55:08.092107+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vatican plans \u20ac100 million agrivoltaic energy plant near Rome",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/vatican-plans-100-million-agrivoltaic-energy-plant-near-rome-4872309",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T07:27:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vatican to build \u20ac100 million renewable energy plant, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/vatican-to-build-100-million-renewable-energy-plant-sources-say-4872308",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T07:12:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -154,47 +176,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pentagon removes Stars and Stripes newspaper leadership",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/pentagon-removes-stars-and-stripes-newspaper-leadership-4872300",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T04:40:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+      "headline": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "is_watchlist": false,
       "timestamp": "2026-08-22T04:36:27+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "springbig Holdings earnings missed by $0.03, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/springbig-holdings-earnings-missed-by-003-revenue-fell-short-of-estimates-4872297",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T04:22:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T04:11:03+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -207,6 +195,18 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:05:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -959,23 +959,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "CrowdStrike Holdings (CRWD) & Palo Alto Networks (PANW): Cybersecurity Stocks Hit Record Highs After a Conference Made AI\u2019s Dark Side Clear",
+      "headline": "From euphoria to despair, Korea reckons with stock mania's emotional toll",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-palo-alto-013941449.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/euphoria-despair-korea-reckons-stock-014700635.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T01:39:41+00:00",
+      "timestamp": "2026-08-21T01:47:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump Media & Technology Group Corp. (DJT)\u2019s Loss Widened to $238 Million. Its New Data Feed Is Already Making Money",
+      "headline": "CrowdStrike Holdings (CRWD) & Palo Alto Networks (PANW): Cybersecurity Stocks Hit Record Highs After a Conference Made AI\u2019s Dark Side Clear",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-media-technology-group-corp-013751871.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-palo-alto-013941449.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T01:37:51+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-21T01:39:41+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
