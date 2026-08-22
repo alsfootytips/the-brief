@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-22T12:38:23.421550+00:00",
+  "generated_at": "2026-08-22T13:19:34.435732+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -716,7 +716,7 @@ window.theBriefPicks = {
       "current_pct": 18.14,
       "change_pct_today": -0.47,
       "name": "Occidental Petroleum",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 42,
       "days_remaining": 0,
       "closed_at": "2026-07-31",
@@ -784,7 +784,7 @@ window.theBriefPicks = {
       "current_pct": -28.75,
       "change_pct_today": -0.83,
       "name": "The Trade Desk",
-      "news_count": 1,
+      "news_count": 3,
       "days_elapsed": 49,
       "days_remaining": 7,
       "closed_at": "2026-08-07",
@@ -920,7 +920,7 @@ window.theBriefPicks = {
       "current_pct": -0.53,
       "change_pct_today": -0.83,
       "name": "The Trade Desk",
-      "news_count": 1,
+      "news_count": 3,
       "days_elapsed": 11,
       "days_remaining": 31
     },

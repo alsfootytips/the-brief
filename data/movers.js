@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T12:38:23.323118+00:00",
+  "generated_at": "2026-08-22T13:19:34.308822+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -47,7 +47,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These S&P500 stocks that are showing activity before the opening bell on Thursday.\""
+      "move_reason": "News: \"Dollar General (DG) Stock Looks Reasonable As Shares Sit 40% Lower\""
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials Select Sector",
+      "price": 53.54,
+      "change_pct": 2.14,
+      "volume_ratio": 1.44,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     },
     {
       "ticker": "OSCR",
@@ -162,18 +173,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
-    },
-    {
-      "ticker": "MSFT",
-      "name": "MSFT",
-      "price": 483.61,
-      "change_pct": 0.51,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -199,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
+      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
     },
     {
       "ticker": "XLU",
@@ -246,7 +245,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Worst Of 2025's Thanksgiving Leftover Stocks\""
+      "move_reason": "News: \"Can Shopify Integration Drive AppLovin's Next Growth Wave?\""
     },
     {
       "ticker": "NVDA",
@@ -282,7 +281,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hedging Exposure In This Volatile Market\""
+      "move_reason": "News: \"Berkshire Hathaway (BRK.A) Holds Firm As A Top Portfolio Stake Lifts Its Dividend\""
     },
     {
       "ticker": "XLE",
@@ -332,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
+      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
     },
     {
       "ticker": "DG",
@@ -344,7 +343,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These S&P500 stocks that are showing activity before the opening bell on Thursday.\""
+      "move_reason": "News: \"Dollar General (DG) Stock Looks Reasonable As Shares Sit 40% Lower\""
     },
     {
       "ticker": "GEV",
@@ -416,7 +415,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hedging Exposure In This Volatile Market\""
+      "move_reason": "News: \"Berkshire Hathaway (BRK.A) Holds Firm As A Top Portfolio Stake Lifts Its Dividend\""
     },
     {
       "ticker": "PWR",
@@ -452,7 +451,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Worst Of 2025's Thanksgiving Leftover Stocks\""
+      "move_reason": "News: \"Can Shopify Integration Drive AppLovin's Next Growth Wave?\""
     },
     {
       "ticker": "XLE",
@@ -511,6 +510,16 @@ window.theBriefMovers = {
     }
   ],
   "sectors": [
+    {
+      "ticker": "XLB",
+      "name": "Materials Select Sector",
+      "price": 53.54,
+      "change_pct": 2.14,
+      "volume_ratio": 1.44,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
     {
       "ticker": "XLV",
       "name": "Health Care Select Sector",
@@ -646,23 +655,56 @@ window.theBriefMovers = {
       "name": "Dollar General",
       "price": 123.38,
       "change_pct": 2.32,
-      "score": 6.0,
+      "score": 7.5,
       "signals": [
         "Moved +2.32% \u2014 a 1.0\u03c3 move",
+        "3 news items in the last 3 days",
         "Earnings within 7 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
       "reasons": [
         "Moved +2.32% \u2014 a 1.0\u03c3 move",
+        "3 news items in the last 3 days",
         "Earnings within 7 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
       "tags": [
+        "news-flow",
         "earnings-soon",
         "insider-buying"
       ],
       "narrative": "<strong>DG</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
       "sector_etf": "XLP"
+    },
+    {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 13.21,
+      "change_pct": -0.83,
+      "score": 6.5,
+      "signals": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 13.2 (cheap on absolute basis)",
+        "Down -38.1% over 3 months \u2014 deep drawdown",
+        "-76.2% from 52-week high"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 13.2 (cheap on absolute basis)",
+        "Down -38.1% over 3 months \u2014 deep drawdown",
+        "-76.2% from 52-week high"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "cheap",
+        "drawdown",
+        "off-highs"
+      ],
+      "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "TPL",
@@ -710,33 +752,6 @@ window.theBriefMovers = {
         "insider-selling"
       ],
       "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLK"
-    },
-    {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 13.21,
-      "change_pct": -0.83,
-      "score": 5.0,
-      "signals": [
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 13.2 (cheap on absolute basis)",
-        "Down -38.1% over 3 months \u2014 deep drawdown",
-        "-76.2% from 52-week high"
-      ],
-      "reasons": [
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 13.2 (cheap on absolute basis)",
-        "Down -38.1% over 3 months \u2014 deep drawdown",
-        "-76.2% from 52-week high"
-      ],
-      "tags": [
-        "insider-buying",
-        "cheap",
-        "drawdown",
-        "off-highs"
-      ],
-      "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
       "sector_etf": "XLK"
     },
     {
@@ -818,11 +833,11 @@ window.theBriefMovers = {
       "change_pct": -0.47,
       "score": 3.5,
       "signals": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)"
       ],
       "tags": [
@@ -860,6 +875,13 @@ window.theBriefMovers = {
       "name": "Utilities Select Sector",
       "change_pct": -2.28,
       "price": 42.77,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials Select Sector",
+      "change_pct": 2.14,
+      "price": 53.54,
       "watchlist_members": []
     },
     {
