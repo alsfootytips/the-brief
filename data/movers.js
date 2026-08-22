@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T11:48:51.943302+00:00",
+  "generated_at": "2026-08-22T12:38:23.323118+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -48,17 +48,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"These S&P500 stocks that are showing activity before the opening bell on Thursday.\""
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "price": 53.54,
-      "change_pct": 2.14,
-      "volume_ratio": 1.44,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     },
     {
       "ticker": "OSCR",
@@ -138,7 +127,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Flash PMIs Signal Summer Growth Spurt For Advanced Economies: Assessing The Growth Drivers...\""
+      "move_reason": "News: \"Weekly Indicators: Interest Rates And Inflation Continue To Dominate\""
     },
     {
       "ticker": "XLP",
@@ -172,7 +161,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Boring Way To Own AI Is Now The Cheap Way\""
+      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MSFT",
+      "price": 483.61,
+      "change_pct": 0.51,
+      "volume_ratio": 0.97,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -233,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Lands Major Australia Deal To Power One Of Its Biggest Battery Projects\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
     },
     {
       "ticker": "TTD",
@@ -257,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update\""
+      "move_reason": "News: \"Why Navitas Semiconductor Stock Sank This Week\""
     },
     {
       "ticker": "NBIS",
@@ -307,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Boring Way To Own AI Is Now The Cheap Way\""
+      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
     },
     {
       "ticker": "APA",
@@ -355,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Lands Major Australia Deal To Power One Of Its Biggest Battery Projects\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
     },
     {
       "ticker": "IWM",
@@ -367,7 +368,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Flash PMIs Signal Summer Growth Spurt For Advanced Economies: Assessing The Growth Drivers...\""
+      "move_reason": "News: \"Weekly Indicators: Interest Rates And Inflation Continue To Dominate\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +392,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update\""
+      "move_reason": "News: \"Why Navitas Semiconductor Stock Sank This Week\""
     },
     {
       "ticker": "OSCR",
@@ -510,16 +511,6 @@ window.theBriefMovers = {
     }
   ],
   "sectors": [
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "price": 53.54,
-      "change_pct": 2.14,
-      "volume_ratio": 1.44,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
     {
       "ticker": "XLV",
       "name": "Health Care Select Sector",
@@ -869,13 +860,6 @@ window.theBriefMovers = {
       "name": "Utilities Select Sector",
       "change_pct": -2.28,
       "price": 42.77,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "change_pct": 2.14,
-      "price": 53.54,
       "watchlist_members": []
     },
     {
