@@ -1,6 +1,18 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T20:22:21.647999+00:00",
+  "generated_at": "2026-08-22T20:49:37.771433+00:00",
   "gainers": [
+    {
+      "ticker": "SOFI",
+      "name": "SOFI",
+      "price": 18.99,
+      "change_pct": 5.97,
+      "volume_ratio": 1.23,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+    },
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
@@ -161,18 +173,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
-    },
-    {
-      "ticker": "MSFT",
-      "name": "MSFT",
-      "price": 483.61,
-      "change_pct": 0.51,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     }
   ],
   "losers": [
