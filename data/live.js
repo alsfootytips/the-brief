@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T16:50:49.651381+00:00",
+  "generated_at": "2026-08-22T17:20:35.989478+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T16:50:49.648520+00:00",
+      "timestamp": "2026-08-22T17:20:35.987100+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T16:50:49.648516+00:00",
+      "timestamp": "2026-08-22T17:20:35.987097+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,43 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T16:50:49.648507+00:00",
+      "timestamp": "2026-08-22T17:20:35.987090+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T17:05:09+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Will Apple\u2019s risk appetite change under John Ternus?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/will-apples-risk-appetite-change-under-john-ternus-4872375",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T17:04:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636042-canada-retaliatory-tariffs-on-u-s-goods-to-take-effect-on-sept-8?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T17:02:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -70,8 +103,30 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T16:38:52+00:00",
+      "timestamp": "2026-08-22T17:01:18+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T17:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Monthly market brief: equities, bonds, crypto, and commodities in August 2026",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/monthly-market-brief-equities-bonds-crypto-and-commodities-in-august-2026-93CH-4872374",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T16:53:39+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -248,17 +303,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' \u2014 and urges Americans to invest",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-says-140000827.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
@@ -309,17 +353,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T13:35:27+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paramount to meet California AG in a bid to settle case over Warner deal: Variety",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636039-paramount-meet-california-ag-discuss-warner-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:19:48+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -563,39 +596,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s some surprisingly good news for the stock market this midterm election year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-some-surprisingly-good-news-for-the-stock-market-this-midterm-election-year-d492d3a4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jefferies sees metals breakout on currency concerns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-metals-breakout-on-currency-concerns-93CH-4872341",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:56:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US hits Canadian goods with 50% tariffs after trade talks fail",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:48:43+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "BCV: Deep Discount And Another Payout Lift",
       "source": "SeekingAlpha",
@@ -749,7 +749,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
+      "headline": "Iran condemns US plans to announce new sanctions - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
       "is_watchlist": false,
