@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T01:43:40.295807+00:00",
+  "generated_at": "2026-08-22T02:41:14.808969+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -257,7 +257,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Discover which dow jones stocks are making waves on Friday.\""
+      "move_reason": "News: \"Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Discover which dow jones stocks are making waves on Friday.\""
+      "move_reason": "News: \"Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update\""
     },
     {
       "ticker": "OSCR",
