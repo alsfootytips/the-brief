@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T05:54:48.131686+00:00",
+  "generated_at": "2026-08-22T06:39:59.515001+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T05:54:48.129465+00:00",
+      "timestamp": "2026-08-22T06:39:59.512776+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T05:54:48.129462+00:00",
+      "timestamp": "2026-08-22T06:39:59.512773+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T05:54:48.129457+00:00",
+      "timestamp": "2026-08-22T06:39:59.512766+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China\u2019s robot games evolve from science fair to strategic showcase",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/chinas-robot-games-evolve-from-science-fair-to-strategic-showcase-4872305",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T06:15:32+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Reform UK infighting complicates Farage\u2019s push to prepare party to govern",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/reform-uk-infighting-complicates-farages-push-to-prepare-party-to-govern-4872304",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T05:56:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -143,6 +165,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T04:11:03+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Universal safety products: Director Ault buys $183,344 in stock",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/insider-trading-news/universal-safety-products-director-ault-buys-183344-in-stock-93CH-4872295",
@@ -153,42 +187,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Texas Roadhouse CEO Gerald Morgan sells $3.03m in TXRH stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/texas-roadhouse-ceo-gerald-morgan-sells-303m-in-txrh-stock-93CH-4872294",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T03:30:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says Iran not ready to make the \u2019right deal\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions-4872246",
+      "ticker": "IWM",
+      "headline": "Canadian Commodity Plays Or American AI Stocks?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=08f3d58c3cb931dea1371823b618c180566566bd5826d89b4e8ba5491e3eecbe",
       "is_watchlist": true,
-      "timestamp": "2026-08-22T03:30:27+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T01:05:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-08-22T02:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -664,18 +671,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Rate Fears Overblown",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b01497d39c45d75380205ce3d038fb34f0902df8419bcb639ec44de42509bcd8",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T15:48:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Iran-linked oil tanker falls victim to Somali piracy surge - Reuters",
       "source": "Reuters",
@@ -931,6 +926,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Bill Ackman Loves This Dividend Stock, But You Should Give It a Pass",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-loves-dividend-stock-233002327.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lenovo-group-limited-lnvgy-intel-232453667.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:24:53+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AT&T (T) Says It\u2019s Not Scared of the \u201cToken Apocalypse.\u201d NVIDIA Corporation (NVDA)\u2019s CEO Is Cheering the Same Trend",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/t-t-says-not-scared-231933381.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:19:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple Inc. (AAPL) Wants to Pay Publishers to Fix Siri. What\u2019s the Catch?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-inc-aapl-wants-pay-231402505.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T23:14:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "How landscape gardening is being electrified",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
@@ -955,20 +994,9 @@ window.theBriefLive = {
       "ticker": null,
       "headline": "AI reshapes India's IT services sector contracts as clients demand more for less",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207528.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
       "is_watchlist": false,
       "timestamp": "2026-08-20T23:02:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is AerCap Holdings N.V. (AER) a Better Aviation Investment Than The Boeing Company (BA)?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aercap-holdings-n-v-aer-230100144.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:01:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -991,39 +1019,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-20T22:59:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Trane Technologies plc (TT) and Eaton Corporation, PLC (ETN) Become Major Winners from the AI Data Center Boom?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trane-technologies-plc-tt-eaton-225548421.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:55:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oracle Corporation (ORCL) vs. Amazon.com (AMZN): Which AI Infrastructure Giant Is Better Positioned for Long-Term Growth?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-corporation-orcl-vs-amazon-225036836.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:50:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-marathon-petroleum-224300009.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:43:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

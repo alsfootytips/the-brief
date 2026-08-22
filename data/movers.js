@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T05:54:48.127740+00:00",
+  "generated_at": "2026-08-22T06:39:59.510789+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Real Cost Of $40 Trillion In Debt\""
+      "move_reason": "News: \"Canadian Commodity Plays Or American AI Stocks?\""
     },
     {
       "ticker": "XLP",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Real Cost Of $40 Trillion In Debt\""
+      "move_reason": "News: \"Canadian Commodity Plays Or American AI Stocks?\""
     },
     {
       "ticker": "NBIS",
