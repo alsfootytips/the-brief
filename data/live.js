@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T15:22:16.204168+00:00",
+  "generated_at": "2026-08-23T15:48:00.929169+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T15:22:16.201166+00:00",
+      "timestamp": "2026-08-23T15:48:00.926200+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T15:22:16.201162+00:00",
+      "timestamp": "2026-08-23T15:48:00.926196+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,54 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T15:22:16.201153+00:00",
+      "timestamp": "2026-08-23T15:48:00.926186+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Can Hershey step up to buy Mondelez?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/can-hershey-step-up-to-buy-mondelez-4872464",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:33:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "40% of companies posted fake job listings in 2024 \u2014 now lawmakers in multiple states are moving to ban them",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:25:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin pares losses as recent rally finds fresh momentum",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:17:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -201,28 +245,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Forte Biosciences earnings on deck as argenx deal looms",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/forte-biosciences-earnings-on-deck-as-argenx-deal-looms-93CH-4872448",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:35:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -266,17 +288,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Up another 12% Friday, this AI-picked energy stock is now up +90%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/up-another-12-friday-this-aipicked-energy-stock-is-now-up-90-4872447",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:10:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -780,12 +791,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "2 Software Stocks That Whale Rock Is Betting Will Survive the Apocalypse",
+      "headline": "Most Tech Stocks Are More Correlated Than You Think. Don\u2019t Let That Wreck Your Trading Plan.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-software-stocks-whale-rock-140002300.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/most-tech-stocks-more-correlated-143002635.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T14:00:02+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-22T14:30:02+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -807,17 +818,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T14:00:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' \u2014 and urges Americans to invest",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-says-140000827.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
