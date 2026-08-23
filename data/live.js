@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T07:47:39.287085+00:00",
+  "generated_at": "2026-08-23T08:30:04.532390+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T07:47:39.284030+00:00",
+      "timestamp": "2026-08-23T08:30:04.529204+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T07:47:39.284026+00:00",
+      "timestamp": "2026-08-23T08:30:04.529201+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,84 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T07:47:39.284018+00:00",
+      "timestamp": "2026-08-23T08:30:04.529190+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ECB chief Lagarde \u2019ready to serve\u2019 WEF, Swiss newspaper reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ecb-chief-lagarde-ready-to-serve-wef-swiss-newspaper-reports-4872430",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T08:18:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/iran-warns-neighbours-against-joining-us-sanctions-as-hormuz-stays-closed-4872428",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T08:10:23+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Struggling households need more help with bills, energy industry says",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T08:03:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T07:56:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba plans record $10.2 billion Hong Kong share sale to fund AI",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/alibaba-plans-record-102-billion-hong-kong-share-sale-to-fund-ai-4872426",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T07:50:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says Pakistan\u2019s army chief to visit Tehran on Monday",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-pakistans-army-chief-to-visit-tehran-on-monday-4872425",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T07:48:35+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -108,28 +182,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T06:05:01+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump disclosure shows more than 1,000 securities trades in June - report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/trump-disclosure-shows-more-than-1000-securities-trades-in-june--report-4872419",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T06:03:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -143,39 +195,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Robots can outrun humans, but can they plug in a cable?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/robots-can-outrun-humans-but-can-they-plug-in-a-cable-4872417",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T05:06:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "XRP Falls 11% In Bearish Trade",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-bearish-trade-4872415",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T04:01:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cardano Falls 10% In Bearish Trade",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4872414",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T03:40:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -219,17 +238,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T23:17:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Struggling households need more help with bills, energy industry says",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T23:00:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -815,6 +823,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Lufax (LU) Narrowed Its Loss 86%. Was the Improvement Mostly Tax-Driven?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lufax-lu-narrowed-loss-86-010120939.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T01:01:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Micron (MU) Fell 7%. Is the AI Memory Trade Now Too Expensive?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-fell-7-ai-001235695.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T00:12:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mercury Systems (MRCY) Booked $660 Million. Why Did its Shares Fall More than 10% After Hours?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-booked-660-000558587.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T00:05:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UGI (UGI) Closed 9.4% Higher on a Reported KKR Bid. Does $42.50 Fully Value Its AI-Power Opportunity?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ugi-ugi-closed-9-4-234928137.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:49:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "VNET Group (VNET) Is Expanding Rapidly. Can It Finance the AI Data-Center Buildout?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/vnet-group-vnet-expanding-rapidly-233733126.html",
@@ -837,55 +889,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jack Henry (JKHY) Beat Estimates. Can Faster Payments Restore Margin Growth?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-jkhy-beat-estimates-232716433.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:27:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "More students planning to live at home for university over 'insane' living costs",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-21T23:01:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rocket Lab and AST SpaceMobile Are Priced for the Big Bang. One Space Stock Already Delivered.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ast-spacemobile-priced-230002883.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Microsoft vs. Broadcom: One Has 85% Upside, But I'm Picking the Other",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-broadcom-one-85-230002678.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "La-Z-Boy (LZB) Fell 16% After Hours. Is Retail Growth Hiding a Wholesale Problem?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/la-z-boy-lzb-fell-225733519.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:57:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
