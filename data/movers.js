@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T18:59:25.328132+00:00",
+  "generated_at": "2026-08-23T19:28:27.600691+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -260,6 +260,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.\""
     },
     {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 219.0,
+      "change_pct": -0.5,
+      "volume_ratio": 0.71,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Alger Concentrated Equity ETF Q2 2026 Portfolio Update\""
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 61.23,
@@ -356,6 +368,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade\""
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 219.0,
+      "change_pct": -0.5,
+      "volume_ratio": 0.71,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Alger Concentrated Equity ETF Q2 2026 Portfolio Update\""
     },
     {
       "ticker": "NVDA",
@@ -707,6 +731,30 @@ window.theBriefMovers = {
         "off-highs"
       ],
       "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 219.0,
+      "change_pct": -0.5,
+      "score": 5.0,
+      "signals": [
+        "3 news items in the last 3 days",
+        "2 SEC filings in the last 7 days",
+        "9 insider sells vs 1 buys (last 90 days)"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "2 SEC filings in the last 7 days",
+        "9 insider sells vs 1 buys (last 90 days)"
+      ],
+      "tags": [
+        "news-flow",
+        "filing",
+        "insider-selling"
+      ],
+      "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
     },
     {

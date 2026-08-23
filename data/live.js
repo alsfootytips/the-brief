@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T18:59:25.332443+00:00",
+  "generated_at": "2026-08-23T19:28:27.606323+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -28,6 +28,68 @@ window.theBriefLive = {
       "relevance_label": "Earnings"
     },
     {
+      "type": "mover",
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "change_pct": 4.64,
+      "price": 386.7,
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T19:28:27.603453+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "SOFI",
+      "name": "SOFI",
+      "change_pct": 5.97,
+      "price": 18.99,
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:28:27.603449+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "PWR",
+      "name": "Quanta Services",
+      "change_pct": -3.27,
+      "price": 640.8,
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T19:28:27.603440+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T19:11:30+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin coils in bull flag near $77K: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:02:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
       "type": "news",
       "ticker": "NVDA",
       "headline": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
@@ -40,40 +102,15 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover",
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "change_pct": 4.64,
-      "price": 386.7,
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T18:59:25.329985+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
-      "ticker": "SOFI",
-      "name": "SOFI",
-      "change_pct": 5.97,
-      "price": 18.99,
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T18:59:25.329983+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "change_pct": -3.27,
-      "price": 640.8,
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T18:59:25.329977+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
+      "timestamp": "2026-08-23T19:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -156,6 +193,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T18:16:16+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Turkey\u2019s central bank to restart one-week repo auctions",
@@ -172,6 +224,17 @@ window.theBriefLive = {
       "headline": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T18:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T18:00:00+00:00",
       "relevance_score": 0.0,
@@ -401,17 +464,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin pares losses as recent rally finds fresh momentum",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:17:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Rocket Mortgage pushes home equity loans to wipe out credit card debt \u2014 here's how that could backfire on homeowners",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
@@ -419,32 +471,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T15:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:55:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T14:27:05+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -747,21 +773,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T05:46:43+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
@@ -827,17 +838,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941703/the-u-s-canada-are-fighting-over-tariffs-how-is-that-affecting-small-businesses",
       "is_watchlist": false,
       "timestamp": "2026-08-22T21:16:39+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:31:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
