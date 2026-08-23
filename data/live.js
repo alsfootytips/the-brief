@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T10:00:50.907293+00:00",
+  "generated_at": "2026-08-23T10:33:19.829324+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T10:00:50.904340+00:00",
+      "timestamp": "2026-08-23T10:33:19.826423+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T10:00:50.904336+00:00",
+      "timestamp": "2026-08-23T10:33:19.826420+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,54 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T10:00:50.904327+00:00",
+      "timestamp": "2026-08-23T10:33:19.826411+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CrossCountry cancels UK services after power cut",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T10:24:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Struggling households need more help with bills, energy industry says",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T10:11:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mayors to get powers to overrule local councils on planning decisions",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T10:02:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin slips under $77,000 as rally boosts mining economics",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T09:58:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -73,7 +117,7 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/iran-says-pakistans-army-chief-to-visit-tehran-on-monday-4872425",
       "is_watchlist": true,
-      "timestamp": "2026-08-23T09:18:31+00:00",
+      "timestamp": "2026-08-23T09:54:51+00:00",
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
@@ -151,17 +195,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Struggling households need more help with bills, energy industry says",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T08:03:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
@@ -173,23 +206,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alibaba plans record $10.2 billion Hong Kong share sale to fund AI",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/alibaba-plans-record-102-billion-hong-kong-share-sale-to-fund-ai-4872426",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T07:50:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T06:39:00+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Les used a QR code to download a parking app - but it was a scam",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T06:23:54+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -206,17 +239,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mayors to get powers to overrule local councils on planning decisions",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T03:10:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -704,6 +726,29 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Airbnb Just Hit a Four-Year High. The Downgrade Says That\u2019s the Problem.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-110129364.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T11:01:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Intuitive Machines Misses Big on Earnings. Stifel Upgrades It Anyway",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-misses-big-earnings-105201031.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:52:01+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
@@ -728,9 +773,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
+      "headline": "A stolen wallet gives thieves access to your identity and finances \u2014 here's what to do before the damage spreads",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
+      "url": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -739,9 +784,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A stolen wallet gives thieves access to your identity and finances \u2014 here's what to do before the damage spreads",
+      "headline": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -862,28 +907,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lufax (LU) Narrowed Its Loss 86%. Was the Improvement Mostly Tax-Driven?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lufax-lu-narrowed-loss-86-010120939.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T01:01:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "argenx SE (ARGX) Won Its Phase 3 Myositis Trial. How Much Does the Subgroup Miss Matter?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/argenx-se-argx-won-phase-005324473.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T00:53:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1139,17 +1162,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T11:20:57+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Profiting From \u2018War and Peace\u2019: Long and Short Sellers Target US Oil Fund",
       "source": "Benzinga",
@@ -1171,17 +1183,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Millennials have found it hard to buy homes \u2013 but things may be turning a corner",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T10:02:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
