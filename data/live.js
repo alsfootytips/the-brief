@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T19:47:49.906808+00:00",
+  "generated_at": "2026-08-23T20:22:36.573859+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T19:47:49.903954+00:00",
+      "timestamp": "2026-08-23T20:22:36.570995+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T19:47:49.903950+00:00",
+      "timestamp": "2026-08-23T20:22:36.570992+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,76 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T19:47:49.903941+00:00",
+      "timestamp": "2026-08-23T20:22:36.570983+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gilead\u2019s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:57:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-gilead-drugmaker-stronger-195408536.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:54:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:49:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:43:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/italy-extends-diesel-tax-cut-to-wednesday-amid-rising-fuel-prices-93CH-4872473",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:39:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:38:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -243,17 +309,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T18:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
@@ -312,17 +367,6 @@ window.theBriefLive = {
       "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T17:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T17:00:00+00:00",
       "relevance_score": 0.0,
@@ -436,50 +480,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636059-walmart-launching-clothing-brand-scenario-bid-appeal-younger-shoppers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-23T15:51:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Hershey step up to buy Mondelez?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/can-hershey-step-up-to-buy-mondelez-4872464",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:33:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "40% of companies posted fake job listings in 2024 \u2014 now lawmakers in multiple states are moving to ban them",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:25:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rocket Mortgage pushes home equity loans to wipe out credit card debt \u2014 here's how that could backfire on homeowners",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
