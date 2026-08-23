@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T05:02:38.864532+00:00",
+  "generated_at": "2026-08-23T05:45:28.611351+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T05:02:38.861621+00:00",
+      "timestamp": "2026-08-23T05:45:28.608485+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T05:02:38.861617+00:00",
+      "timestamp": "2026-08-23T05:45:28.608481+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T05:02:38.861609+00:00",
+      "timestamp": "2026-08-23T05:45:28.608465+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba proposes Hong Kong share placement worth $10 billion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T05:18:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Robots can outrun humans, but can they plug in a cable?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/robots-can-outrun-humans-but-can-they-plug-in-a-cable-4872417",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T05:06:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -178,17 +200,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-face-over-15-server-price-hikes-as-memory-costs-soar--report-4872389",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:47:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
@@ -250,17 +261,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T20:26:44+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada\u2019s Unifor union, GM reach tentative agreements",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/canadas-unifor-union-gm-reach-tentative-agreements-4872388",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:24:32+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -779,66 +779,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "ARS Pharma (SPRY) Cuts Spending As It Chases Neffy Market Share",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/ars-pharma-spry-cuts-spending-220832511.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:08:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brookfield (BN) Pivots Toward AI and Nuclear Power in Record-Breaking Quarter",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/brookfield-bn-pivots-toward-ai-220206558.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:02:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amylyx (AMLX) Faces a Binary Phase 3 Test. Can Avexitide Rebuild the Company?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/amylyx-amlx-faces-binary-phase-215808575.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:58:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BitFuFu (FUFU) Increased Hashrate Allocated to Self-Mining 47%. Why Did Revenue Collapse 63%?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitfufu-fufu-increased-hashrate-allocated-215607748.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:56:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tapestry (TPR) Delivers On Its Boldest Promise Early",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-tpr-delivers-boldest-promise-215429793.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:54:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Ascendis Pharma (ASND): Three New Drugs Are Turning This Biotech Into A Growth Machine",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/ascendis-pharma-asnd-three-drugs-214640196.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T21:46:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cotton Closes Steady on Friday",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-closes-steady-friday-214232301.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:42:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corn Rallies into Friday\u2019s Close Following Week of Weaker Tour Yields",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-rallies-friday-close-following-214232375.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:42:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soybeans Firm Higher Late on Friday",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-firm-higher-friday-214232038.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:42:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "H World (HTHT) Approved a $2.5 Billion Return Plan. Is Growth Being Sacrificed?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-approved-2-213802135.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:38:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "High Growth, High Cash Burn: Decoding the Split Narrative on Ondas (ONDS)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/high-growth-high-cash-burn-213535172.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:35:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
