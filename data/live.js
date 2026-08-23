@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T16:52:40.810175+00:00",
+  "generated_at": "2026-08-23T17:20:26.377992+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T16:52:40.807229+00:00",
+      "timestamp": "2026-08-23T17:20:26.375552+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T16:52:40.807225+00:00",
+      "timestamp": "2026-08-23T17:20:26.375549+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T16:52:40.807216+00:00",
+      "timestamp": "2026-08-23T17:20:26.375543+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:00:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -82,6 +104,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636061-feds-kashkari-not-worried-about-rising-us-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-23T16:41:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed\u2019s Kashkari says rising Treasury yields not a concern",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/feds-kashkari-says-rising-treasury-yields-not-a-concern-4872467",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T16:37:12+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -285,22 +318,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gulf markets rise as oil prices climb on Iran sanction fears",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/gulf-markets-rise-as-oil-prices-climb-on-iran-sanction-fears-93CH-4872460",
+      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T13:49:04+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Organon earnings up next: Can drugmaker rebound after Q1 miss?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/organon-earnings-up-next-can-drugmaker-rebound-after-q1-miss-93CH-4872453",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:37:46+00:00",
+      "timestamp": "2026-08-23T13:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -366,6 +388,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T13:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Alger Concentrated Equity ETF Q2 2026 Portfolio Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6f154f63cf6f34f711942de6e470930fc0ce05d435b14bfd825ec4414ea4a1ab",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T12:47:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -727,17 +761,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
@@ -810,17 +833,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T15:45:37+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "McDonald\u2019s Just Started Selling Energy Drinks. How to Play MCD Stock Here.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-just-started-selling-energy-153002015.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:30:02+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1034,18 +1046,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=39d7f668505716f7be2d651a54232b0231738b95d53d4c147d077b1b744e96ae",
       "is_watchlist": true,
       "timestamp": "2026-08-21T19:29:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Michael Burry Says the AI Buildout Is Repeating 2008: \u2018The Shenanigans Are Apparent Today\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef334b2c13eadc90c05a79682d5e47e8ffb20c1f0e2225537b0f867b8b085887",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T19:10:47+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

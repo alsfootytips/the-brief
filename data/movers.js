@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T16:52:40.804543+00:00",
+  "generated_at": "2026-08-23T17:20:26.373643+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -269,7 +269,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BCV: Deep Discount And Another Payout Lift\""
+      "move_reason": "News: \"Alger Concentrated Equity ETF Q2 2026 Portfolio Update\""
     },
     {
       "ticker": "OXY",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BCV: Deep Discount And Another Payout Lift\""
+      "move_reason": "News: \"Alger Concentrated Equity ETF Q2 2026 Portfolio Update\""
     },
     {
       "ticker": "NVDA",
