@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-22T23:46:21.968331+00:00",
+  "generated_at": "2026-08-23T01:19:07.651919+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": -0.9,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 101,
+      "days_elapsed": 102,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": -3.27,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 101,
+      "days_elapsed": 102,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": 3.42,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 101,
+      "days_elapsed": 102,
       "days_remaining": null
     },
     {
@@ -921,8 +921,8 @@ window.theBriefPicks = {
       "change_pct_today": -0.83,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 11,
-      "days_remaining": 31
+      "days_elapsed": 12,
+      "days_remaining": 30
     },
     {
       "id": "2026-08-11-APA-auto",
@@ -951,8 +951,8 @@ window.theBriefPicks = {
       "change_pct_today": -2.17,
       "name": "APA Corp",
       "news_count": 3,
-      "days_elapsed": 11,
-      "days_remaining": 38
+      "days_elapsed": 12,
+      "days_remaining": 37
     }
   ],
   "summary": {

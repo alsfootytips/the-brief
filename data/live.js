@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-22T23:46:21.855573+00:00",
+  "generated_at": "2026-08-23T01:19:07.519585+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T23:46:21.852573+00:00",
+      "timestamp": "2026-08-23T01:19:07.516610+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-22T23:46:21.852568+00:00",
+      "timestamp": "2026-08-23T01:19:07.516606+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-22T23:46:21.852558+00:00",
+      "timestamp": "2026-08-23T01:19:07.516595+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -66,11 +66,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
+      "headline": "Venezuela hits roadblock in exporting more oil, as ports can't keep up with demand - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636046-venezuela-hits-roadblock-in-exporting-more-oil-as-ports-cant-keep-up-with-demand-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T23:25:00+00:00",
+      "timestamp": "2026-08-23T01:07:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -127,17 +127,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T21:16:39+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Gas Turbine Shortage Just Became AI\u2019s Biggest Constraint",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T21:00:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -287,34 +276,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is Alphabet\u2019s Search Risk Really Priced In? Stress-Testing Rosenblatt\u2019s $410 Thesis",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T19:56:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: How could Trump's new executive order impact vaccine makers?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-22T19:49:45+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T19:41:07+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -342,17 +309,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T19:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
@@ -364,34 +320,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T18:56:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israel strikes southern Syria; Damascus condemns attack - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-22T18:51:50+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T18:15:48+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -458,17 +392,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636041-general-motors-inks-tentative-labor-deals-unifor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-22T15:20:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insider trades: AMD, Micron and Coca-Cola among notable names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636007-insider-trades-amd-micron-and-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:03:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -930,6 +853,72 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Is Rocket Lab (RKLB)\u2019s Record Space Force Deal the Turning Point for Defense Investors?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-record-space-190605798.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T19:06:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin Price Prediction: $100K in Sight as BTC Breaks Past 200-Day EMA",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-100k-sight-190551362.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T19:05:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom Stock Just Scored a New Bullish Rating. Here's Why.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-just-scored-bullish-190209819.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T19:02:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Bank Business Shield Visa review: Solid 0% APR offer, but little long-term rewards value",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-shield-visa-card-185336564.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T18:53:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nike Stock Sinks to Multi-Year Lows: There\u2019s No Quick Fix for NKE Here",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-sinks-multi-lows-184742247.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T18:47:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MicroCloud Hologram Adds $15.76M Strategy Stake, Shares Rise 5%",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microcloud-hologram-adds-15-76m-183900511.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T18:39:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "FLNC or GEV: Which Alternative Energy Stock Is Better-Placed Now?",
       "source": "Yahoo",
@@ -1044,6 +1033,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Costco makes key move to expand membership base",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/costco-makes-key-move-expand-161700061.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T16:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",

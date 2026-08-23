@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-22T23:46:21.849607+00:00",
+  "generated_at": "2026-08-23T01:19:07.513779+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -70,7 +70,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharm...\""
+      "move_reason": "Tracking XLV sector (+1.29% today)"
     },
     {
       "ticker": "META",
@@ -221,7 +221,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Citigroup Maintains Neutral on APA, Raises Price Target to $44\""
+      "move_reason": ""
     },
     {
       "ticker": "GEV",
@@ -269,7 +269,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"BCV: Deep Discount And Another Payout Lift\""
     },
     {
       "ticker": "OXY",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Citigroup Maintains Neutral on APA, Raises Price Target to $44\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"BCV: Deep Discount And Another Payout Lift\""
     },
     {
       "ticker": "NVDA",
@@ -403,7 +403,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharm...\""
+      "move_reason": "Tracking XLV sector (+1.29% today)"
     },
     {
       "ticker": "OXY",
