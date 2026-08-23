@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T08:30:04.532390+00:00",
+  "generated_at": "2026-08-23T09:00:02.695817+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T08:30:04.529204+00:00",
+      "timestamp": "2026-08-23T09:00:02.692864+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T08:30:04.529201+00:00",
+      "timestamp": "2026-08-23T09:00:02.692859+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T08:30:04.529190+00:00",
+      "timestamp": "2026-08-23T09:00:02.692850+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sell U.S. dollar versus these currencies, BCA says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/sell-us-dollar-versus-these-currencies-bca-says-4872431",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T08:30:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -88,6 +99,17 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T08:04:14+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -167,17 +189,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
       "is_watchlist": false,
       "timestamp": "2026-08-23T06:30:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Korean retail traders chase 40% coupons after historic stock rout - report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/korean-retail-traders-chase-40-coupons-after-historic-stock-rout--report-4872421",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T06:09:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -391,7 +402,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T18:51:50+00:00",
+      "timestamp": "2026-08-22T18:51:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -716,6 +727,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T08:40:34+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "Weekly Indicators: Interest Rates And Inflation Continue To Dominate",
       "source": "SeekingAlpha",
@@ -777,17 +799,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump heads into midterms short on foreign policy wins - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T05:04:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
@@ -811,24 +822,34 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran condemns US plans to announce new sanctions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T01:05:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Lufax (LU) Narrowed Its Loss 86%. Was the Improvement Mostly Tax-Driven?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lufax-lu-narrowed-loss-86-010120939.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T01:01:20+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "argenx SE (ARGX) Won Its Phase 3 Myositis Trial. How Much Does the Subgroup Miss Matter?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/argenx-se-argx-won-phase-005324473.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T00:53:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cerebras (CBRS) Doubled Core Revenue. Why Did GAAP Hardware Sales Fall 23%?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-doubled-core-revenue-003754940.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T00:37:54+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -861,28 +882,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/ugi-ugi-closed-9-4-234928137.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T23:49:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "VNET Group (VNET) Is Expanding Rapidly. Can It Finance the AI Data-Center Buildout?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vnet-group-vnet-expanding-rapidly-233733126.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:37:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hesai (HSAI) Is Moving Beyond LiDAR. Can Robotics Become a Second Profit Pool?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/hesai-hsai-moving-beyond-lidar-233613779.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:36:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
