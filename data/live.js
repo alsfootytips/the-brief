@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T13:54:14.206277+00:00",
+  "generated_at": "2026-08-23T14:23:14.546403+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T13:54:14.203364+00:00",
+      "timestamp": "2026-08-23T14:23:14.543396+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T13:54:14.203360+00:00",
+      "timestamp": "2026-08-23T14:23:14.543392+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,76 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T13:54:14.203351+00:00",
+      "timestamp": "2026-08-23T14:23:14.543383+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CrossCountry cancels 'almost all' UK services after power cut",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:05:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gulf markets rise as oil prices climb on Iran sanction fears",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/gulf-markets-rise-as-oil-prices-climb-on-iran-sanction-fears-93CH-4872460",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:49:04+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Organon earnings up next: Can drugmaker rebound after Q1 miss?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/organon-earnings-up-next-can-drugmaker-rebound-after-q1-miss-93CH-4872453",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:37:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ATAI Beckley earnings up next in final report before acquisition",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/atai-beckley-earnings-up-next-in-final-report-before-acquisition-93CH-4872450",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:36:52+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hub Group earnings up next as freight recovery meets execution risk",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/hub-group-earnings-up-next-as-freight-recovery-meets-execution-risk-93CH-4872449",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:35:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Forte Biosciences earnings on deck as argenx deal looms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/forte-biosciences-earnings-on-deck-as-argenx-deal-looms-93CH-4872448",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:35:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -94,6 +160,21 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T13:13:07+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Up another 12% Friday, this AI-picked energy stock is now up +90%",
@@ -101,17 +182,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/up-another-12-friday-this-aipicked-energy-stock-is-now-up-90-4872447",
       "is_watchlist": false,
       "timestamp": "2026-08-23T13:10:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CrossCountry cancels 'almost all' UK services after power cut",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:09:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -135,6 +205,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-23T13:05:17+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:00:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -183,28 +264,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-23T12:46:01+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.13%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-113-4872445",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:45:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Robots can outrun humans, but can they plug in a cable?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/robots-can-outrun-humans-but-can-they-plug-in-a-cable-4872417",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:36:28+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -321,17 +380,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T11:36:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
@@ -350,43 +398,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T11:29:05+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi expects Nvidia stock to trade higher post earnings",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T11:17:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Castle Biosciences surges 67% after InvestingPro Fair Value call",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/investment-ideas/castle-biosciences-surges-67-after-investingpro-fair-value-call-93CH-4872441",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T11:09:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T11:08:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -420,6 +431,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T10:11:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Bessent's Desperation Foreshadows Credit Crisis",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2feea82dcac8bb090a79c8e820d537126afe0f15189573e65f4ec9d1923645df",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T10:04:47+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -723,22 +746,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/emergency-savings-workers-financial-strain.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:30:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T13:05:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How to Play Beyond Meat Stock After Its 30-for-1 Reverse Split",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/play-beyond-meat-stock-30-130002425.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Bond King Goes Bananas Over Nvidia's $500 Billion Move. How It May Be Affecting Your Portfolio.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bond-king-goes-bananas-over-130002636.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T13:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -834,40 +868,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Principal Well-Being Index: More AI Optimism Amid Existing Labor Pressures",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c500ba9960234791dd946c2629b99521eba5ac7c16a72456e5caea6db5e92d36",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T12:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Millions of US seniors could lose full Social Security COLAs. New proposal may preserve program, but here\u2019s who loses",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/millions-us-seniors-could-lose-120000693.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:00:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "S&P 500 dividend yield hits record low near 1% and it has some retirees rethinking their strategies",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dividend-yield-hits-113500363.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "BCV: Deep Discount And Another Payout Lift",
       "source": "SeekingAlpha",
@@ -917,13 +917,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+      "headline": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "is_watchlist": false,
       "timestamp": "2026-08-22T04:36:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",

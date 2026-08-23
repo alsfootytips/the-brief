@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T13:54:14.200688+00:00",
+  "generated_at": "2026-08-23T14:23:14.540624+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Basis Trade: Is The Bond Market Signal Distorted?\""
+      "move_reason": "News: \"Bessent's Desperation Foreshadows Credit Crisis\""
     },
     {
       "ticker": "XLP",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Basis Trade: Is The Bond Market Signal Distorted?\""
+      "move_reason": "News: \"Bessent's Desperation Foreshadows Credit Crisis\""
     },
     {
       "ticker": "NBIS",
