@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T14:23:14.546403+00:00",
+  "generated_at": "2026-08-23T14:50:36.719279+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T14:23:14.543396+00:00",
+      "timestamp": "2026-08-23T14:50:36.716887+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T14:23:14.543392+00:00",
+      "timestamp": "2026-08-23T14:50:36.716884+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,37 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T14:23:14.543383+00:00",
+      "timestamp": "2026-08-23T14:50:36.716878+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says new sanctions threatened by \u2019desperate\u2019 US will fail",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T14:30:31+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UBS downgrades Klarna stock rating on guidance cut, executive departures",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-klarna-stock-rating-on-guidance-cut-executive-departures-93CH-4872462",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:22:57+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -135,12 +162,12 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Iran says new sanctions threatened by \u2019desperate\u2019 US will fail",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
+      "headline": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-08-23T13:30:33+00:00",
-      "relevance_score": 7.0,
+      "timestamp": "2026-08-23T13:29:43+00:00",
+      "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
@@ -239,21 +266,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T12:50:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-warns-neighbours-against-joining-us-sanctions-as-hormuz-stays-closed-4872428",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T12:46:47+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -746,11 +758,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
+      "headline": "Nvidia Might Deliver Another \u2018Beat and Raise\u2019 Quarter, But Its Financing Deals Could Be the Bigger Driver of NVDA Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-might-deliver-another-beat-134502581.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T13:05:01+00:00",
+      "timestamp": "2026-08-22T13:45:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -842,17 +854,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T12:06:37+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:00:19+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-23T14:23:14.669094+00:00",
+  "generated_at": "2026-08-23T14:50:36.815905+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -780,9 +780,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 13.21,
-      "current_pct": -28.75,
-      "change_pct_today": -0.83,
+      "current_price": 13.28,
+      "current_pct": -28.37,
+      "change_pct_today": -3.78,
       "name": "The Trade Desk",
       "news_count": 3,
       "days_elapsed": 49,
@@ -916,13 +916,13 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 13.21,
-      "current_pct": -0.53,
-      "change_pct_today": -0.83,
+      "current_price": 13.28,
+      "current_pct": 0.0,
+      "change_pct_today": -3.78,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 12,
-      "days_remaining": 30
+      "days_elapsed": 0,
+      "days_remaining": 42
     },
     {
       "id": "2026-08-11-APA-auto",
