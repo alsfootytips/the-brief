@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T03:37:38.832515+00:00",
+  "generated_at": "2026-08-23T04:22:54.837640+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T03:37:38.829550+00:00",
+      "timestamp": "2026-08-23T04:22:54.834743+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T03:37:38.829545+00:00",
+      "timestamp": "2026-08-23T04:22:54.834739+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T03:37:38.829536+00:00",
+      "timestamp": "2026-08-23T04:22:54.834730+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "XRP Falls 11% In Bearish Trade",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-bearish-trade-4872415",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T04:01:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cardano Falls 10% In Bearish Trade",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4872414",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T03:40:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -244,17 +266,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Will Bessent\u2019s intervention mark a turning point for the yen?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/will-bessents-intervention-mark-a-turning-point-for-the-yen-4872387",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:18:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
@@ -271,17 +282,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-22T20:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:00:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -778,6 +778,72 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "ZKH Group Limited Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zkh-group-limited-q2-2026-210111680.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:01:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Buckle, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/buckle-inc-q2-2026-earnings-210103282.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BJ's Wholesale Club Holdings, Inc. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-club-holdings-inc-210052446.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:00:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ETF League Tables: SPDR Leads Inflows",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-spdr-leads-210004840.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:00:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Daily ETF Flows: $614M Flows Into GLD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-614m-flows-210004994.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T21:00:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:58:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "Sector Update: Energy Stocks Mixed Late Afternoon",
       "source": "Yahoo",
@@ -811,61 +877,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks Settle Higher as Crude Oil Prices Stabilize",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-higher-crude-oil-203900224.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:39:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Weekly Wrap: Bitcoin Breaks Out",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-breaks-203400573.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:34:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The list grows: 2 more cases proceeding on broker liability",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/list-grows-2-more-cases-203222952.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:32:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winning on Rich Shoppers Instead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-elf-202928491.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:29:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SEC charges former Bank of America investment banker with insider trading",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-charges-former-bank-america-202413058.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:24:13+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -1243,17 +1254,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX stock down for week following share unlock, big rocket news from China",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-down-for-week-following-share-unlock-big-rocket-news-from-china-143100875.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T14:31:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
