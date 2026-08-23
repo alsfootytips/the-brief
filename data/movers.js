@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T13:20:54.569569+00:00",
+  "generated_at": "2026-08-23T13:54:14.200688+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -172,7 +172,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace\""
     }
   ],
   "losers": [
@@ -257,7 +257,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Stock May Plunge After Earnings, Even If It Beats\""
+      "move_reason": "News: \"AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace\""
     },
     {
       "ticker": "NBIS",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace\""
     },
     {
       "ticker": "APA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Stock May Plunge After Earnings, Even If It Beats\""
+      "move_reason": "News: \"AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace\""
     },
     {
       "ticker": "OSCR",

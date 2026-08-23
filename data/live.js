@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T13:20:54.574147+00:00",
+  "generated_at": "2026-08-23T13:54:14.206277+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T13:20:54.571713+00:00",
+      "timestamp": "2026-08-23T13:54:14.203364+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T13:20:54.571710+00:00",
+      "timestamp": "2026-08-23T13:54:14.203360+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,15 +58,45 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T13:20:54.571703+00:00",
+      "timestamp": "2026-08-23T13:54:14.203351+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says new sanctions threatened by \u2019desperate\u2019 US will fail",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T13:30:33+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says it has discovered huge natural gas field",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636057-iran-says-has-discovered-huge-natural-gas-field?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T13:26:58+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Up another 12% FRIDAY, this AI-picked energy stock is now up +90%",
+      "headline": "Up another 12% Friday, this AI-picked energy stock is now up +90%",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/up-another-12-friday-this-aipicked-energy-stock-is-now-up-90-4872447",
       "is_watchlist": false,
@@ -178,21 +208,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says new sanctions threatened by \u2019desperate\u2019 US will fail",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T12:30:30+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Trump June stock disclosure: more than 1,000 trades, big in the VIG",
@@ -225,17 +240,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trending stocks this week as markets pull back amid Treasury, Bitcoin moves",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635792-trending-stocks-this-week-as-markets-pull-back-amid-treasury-bitcoin-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:06:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -427,6 +431,30 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T10:02:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=11155d3408aa838914d6a94061caed3a78f8fe059a61db2e33a7df90d1b4da9b",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T09:21:08+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=11155d3408aa838914d6a94061caed3a78f8fe059a61db2e33a7df90d1b4da9b",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T09:21:08+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -650,18 +678,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Bloomberg Reported Earlier, Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=51fbc3c54e333eb7d040e37dac8e794588290c842ee7cf40e87d1bc878f8f263",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T17:06:29+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran - Reuters",
       "source": "Reuters",
@@ -728,6 +744,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "India Leaves the Door Ajar for China\u2019s Investors",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/india-leaves-door-ajar-china-123300050.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T12:33:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "CRWV",
       "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
       "source": "Yahoo",
@@ -753,6 +780,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "The tax loophole that turns a Trump Account into tax-free millions \u2014 do you know how to exploit it?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/tax-loophole-turns-trump-account-123000413.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T12:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "\u2018Always the best time to buy\u2019: Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/always-best-time-buy-todd-121500299.html",
@@ -771,18 +809,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T12:06:37+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "3 Semiconductor Stocks to Buy Before August Ends",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fae07a955723db3f714470232e761c6fdc1952b0c5b76f33bd3a0db05acc7e54",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T12:00:33+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -837,28 +863,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dividend-yield-hits-113500363.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T11:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Billionaire Leon Cooperman says today's AI boom echoes a big bust from the 1970s \u2014 a lesson from the 'Nifty Fifty' crash",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-todays-113000015.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The ETF industry's newest asset class is absurdity: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/the-etf-industrys-newest-asset-class-is-absurdity-chart-of-the-day-111704930.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T11:17:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
