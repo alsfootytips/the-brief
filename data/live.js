@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T17:20:26.377992+00:00",
+  "generated_at": "2026-08-23T17:46:22.066455+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T17:20:26.375552+00:00",
+      "timestamp": "2026-08-23T17:46:22.064119+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T17:20:26.375549+00:00",
+      "timestamp": "2026-08-23T17:46:22.064116+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,33 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T17:20:26.375543+00:00",
+      "timestamp": "2026-08-23T17:46:22.064109+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:30:17+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -80,6 +103,17 @@ window.theBriefLive = {
       "headline": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T17:00:00+00:00",
       "relevance_score": 0.0,
@@ -139,18 +173,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T16:06:30+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:56:36+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -316,17 +338,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -355,6 +366,30 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=12cd46b0cff0e28d639ec498220f053d46a43a80156d3db8cdb9d92d4ad86b9f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T13:12:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=12cd46b0cff0e28d639ec498220f053d46a43a80156d3db8cdb9d92d4ad86b9f",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T13:12:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -437,17 +472,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
@@ -459,12 +483,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+      "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T12:00:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-23T12:00:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -643,18 +667,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "AMD",
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T07:13:06+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
       "headline": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
@@ -849,18 +861,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "CRWV",
-      "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1493b46750c36714a44f628d677fd6ff8f3f3f52dab3bfd24ce3bd97d3af5c5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T12:31:13+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b1493b46750c36714a44f628d677fd6ff8f3f3f52dab3bfd24ce3bd97d3af5c5",
