@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T20:22:36.573859+00:00",
+  "generated_at": "2026-08-23T20:49:50.201369+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T20:22:36.570995+00:00",
+      "timestamp": "2026-08-23T20:49:50.198484+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T20:22:36.570992+00:00",
+      "timestamp": "2026-08-23T20:49:50.198480+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T20:22:36.570983+00:00",
+      "timestamp": "2026-08-23T20:49:50.198471+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan\u2019s stock market setup looks similar to late 2023. Here\u2019s what it means",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/japans-stock-market-setup-looks-similar-to-late-2023-heres-what-it-means-4872475",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T20:34:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -458,17 +469,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/commerzbank-chair-calls-for-review-of-german-takeover-rules-93CH-4872466",
       "is_watchlist": false,
       "timestamp": "2026-08-23T16:06:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Commerzbank chair calls for review of German takeover rules after UniCredit bid",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/commerzbank-chair-calls-for-review-of-german-takeover-rules-after-unicredit-bid-4872465",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:54:29+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
