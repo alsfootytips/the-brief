@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T11:29:11.798903+00:00",
+  "generated_at": "2026-08-23T11:50:14.598107+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Stock Looks Reasonable As Shares Sit 40% Lower\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "XLB",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Treasury Buybacks: America Has Three Doors, And None Solve The Problem\""
+      "move_reason": "News: \"The Basis Trade: Is The Bond Market Signal Distorted?\""
     },
     {
       "ticker": "XLP",
@@ -172,7 +172,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     }
   ],
   "losers": [
@@ -257,7 +257,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloomberg Reported Earlier, Nvidia Customers Notified About AI-Related Price Hikes Above 1...\""
+      "move_reason": "News: \"Nvidia Stock May Plunge After Earnings, Even If It Beats\""
     },
     {
       "ticker": "NBIS",
@@ -270,18 +270,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"BCV: Deep Discount And Another Payout Lift\""
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 61.23,
-      "change_pct": -0.47,
-      "volume_ratio": 0.85,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Berkshire Hathaway (BRK.A) Holds Firm As A Top Portfolio Stake Lifts Its Dividend\""
     },
     {
       "ticker": "XLE",
@@ -307,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "APA",
@@ -343,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Stock Looks Reasonable As Shares Sit 40% Lower\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "GEV",
@@ -367,7 +355,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Treasury Buybacks: America Has Three Doors, And None Solve The Problem\""
+      "move_reason": "News: \"The Basis Trade: Is The Bond Market Signal Distorted?\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloomberg Reported Earlier, Nvidia Customers Notified About AI-Related Price Hikes Above 1...\""
+      "move_reason": "News: \"Nvidia Stock May Plunge After Earnings, Even If It Beats\""
     },
     {
       "ticker": "OSCR",
@@ -404,18 +392,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "Tracking XLV sector (+1.29% today)"
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 61.23,
-      "change_pct": -0.47,
-      "volume_ratio": 0.85,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Berkshire Hathaway (BRK.A) Holds Firm As A Top Portfolio Stake Lifts Its Dividend\""
     },
     {
       "ticker": "PWR",
@@ -828,27 +804,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 61.23,
-      "change_pct": -0.47,
-      "score": 3.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     },
     {
       "ticker": "GEV",

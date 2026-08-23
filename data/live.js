@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T11:29:11.802727+00:00",
+  "generated_at": "2026-08-23T11:50:14.603606+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T11:29:11.800575+00:00",
+      "timestamp": "2026-08-23T11:50:14.600719+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T11:29:11.800573+00:00",
+      "timestamp": "2026-08-23T11:50:14.600715+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,91 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T11:29:11.800566+00:00",
+      "timestamp": "2026-08-23T11:50:14.600706+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The six stocks both hedge funds and mutual funds love - Goldman",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636052-the-six-stocks-both-hedge-funds-and-mutual-funds-love-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:39:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:36:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:35:52+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:29:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi expects Nvidia stock to trade higher post earnings",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:17:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Castle Biosciences surges 67% after InvestingPro Fair Value call",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/castle-biosciences-surges-67-after-investingpro-fair-value-call-93CH-4872441",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:09:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T11:08:00+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -167,54 +248,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T09:49:46+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why does the USD outlook depend on UST and Fed policy credibility?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/why-does-the-usd-outlook-depend-on-ust-and-fed-policy-credibility-4872435",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T09:15:22+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Could Canada fully supply the U.S. with aluminium?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/could-canada-fully-supply-the-us-with-aluminium-4872433",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T08:51:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ECB chief Lagarde \u2019ready to serve\u2019 WEF, Swiss newspaper reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ecb-chief-lagarde-ready-to-serve-wef-swiss-newspaper-reports-4872430",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T08:42:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
@@ -224,6 +257,66 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T08:04:14+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "The Basis Trade: Is The Bond Market Signal Distorted?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=89f690629b9ea5ddb6aa3255d0abdc68198b0a52012cba778973ba38dd221793",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T07:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia Stock May Plunge After Earnings, Even If It Beats",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=55ca81f4840f9fbdfd93fb977ace150ad25a7d29c2ff4a1de1b11449d47d2e76",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T07:25:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T07:13:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T07:13:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "DG",
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T07:13:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -521,17 +614,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "General Motors inks tentative labor deals with Canada\u2019s Unifor union",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636041-general-motors-inks-tentative-labor-deals-unifor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:20:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Airbnb's new fee change frustrates hosts\u2014what to know before renting out your home",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
@@ -554,17 +636,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
@@ -572,18 +643,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T13:57:48+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Elon Musk Doesn't 'Really Buy Stocks' \u2014 but He Named 3 Things He Looks For in a Company",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e5dbe55b7ed4be9279c89feae8430fe9c37f8f2141015b7b50a656f07958cbb7",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T13:31:07+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -617,18 +676,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T13:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Navitas Semiconductor Stock Sank This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f6288362ddab99f39ea14ffb5b53bfaf9990af4533cc3b7a139f1a7dcf8e07d",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T12:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -796,17 +843,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-22-2026-best-cd-account-earns-435-apy-100000592.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T10:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "A stolen wallet gives thieves access to your identity and finances \u2014 here's what to do before the damage spreads",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
@@ -829,6 +865,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-22-2026-best-cd-account-earns-435-apy-100000592.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Couple finds $5 on the ground and wins $400,000 after buying a lottery ticket \u2013 what experts say they should do next",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/articles/couple-finds-5-ground-wins-094500405.html",
@@ -836,30 +883,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T09:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Weekly Indicators: Interest Rates And Inflation Continue To Dominate",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2d02bcb1cf70f7e46c734db04e9a288ed63467b226ae3a89cf98588111716b47",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T08:00:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Advanced Micro Devices (AMD) Adds Tim Ryan To Board After Director Retirement",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d99806ffef788abf24ee64af9108293ca5fd46c094410ee2446dd400b9b9f69c",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T07:10:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1049,18 +1072,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=9dcd0e6a52fc06c9117938c632d733f8dd58c77ab4717219c19c832a5d55ce86",
       "is_watchlist": true,
       "timestamp": "2026-08-21T17:41:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Should You Buy, Sell or Hold Estee Lauder Stock Post Q4 Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e03c89bab47b72f6bbd26a48442bb32cc59450d8b2b11627797ba2e55e8a601",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T17:17:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1347,17 +1358,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-19T21:05:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
