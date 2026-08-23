@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T04:22:54.837640+00:00",
+  "generated_at": "2026-08-23T05:02:38.864532+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T04:22:54.834743+00:00",
+      "timestamp": "2026-08-23T05:02:38.861621+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T04:22:54.834739+00:00",
+      "timestamp": "2026-08-23T05:02:38.861617+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T04:22:54.834730+00:00",
+      "timestamp": "2026-08-23T05:02:38.861609+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -779,66 +779,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "ZKH Group Limited Q2 2026 Earnings Call Summary",
+      "headline": "Ascendis Pharma (ASND): Three New Drugs Are Turning This Biotech Into A Growth Machine",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zkh-group-limited-q2-2026-210111680.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/ascendis-pharma-asnd-three-drugs-214640196.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:01:11+00:00",
+      "timestamp": "2026-08-21T21:46:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "The Buckle, Inc. Q2 2026 Earnings Call Summary",
+      "headline": "Cotton Closes Steady on Friday",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/buckle-inc-q2-2026-earnings-210103282.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-closes-steady-friday-214232301.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:01:03+00:00",
+      "timestamp": "2026-08-21T21:42:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "BJ's Wholesale Club Holdings, Inc. Q2 2026 Earnings Call Summary",
+      "headline": "Corn Rallies into Friday\u2019s Close Following Week of Weaker Tour Yields",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-club-holdings-inc-210052446.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-rallies-friday-close-following-214232375.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:00:52+00:00",
+      "timestamp": "2026-08-21T21:42:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "ETF League Tables: SPDR Leads Inflows",
+      "headline": "Soybeans Firm Higher Late on Friday",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-spdr-leads-210004840.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-firm-higher-friday-214232038.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:00:04+00:00",
+      "timestamp": "2026-08-21T21:42:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Daily ETF Flows: $614M Flows Into GLD",
+      "headline": "H World (HTHT) Approved a $2.5 Billion Return Plan. Is Growth Being Sacrificed?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-614m-flows-210004994.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-approved-2-213802135.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:00:04+00:00",
+      "timestamp": "2026-08-21T21:38:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
+      "headline": "High Growth, High Cash Burn: Decoding the Split Narrative on Ondas (ONDS)",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/high-growth-high-cash-burn-213535172.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T20:58:44+00:00",
+      "timestamp": "2026-08-21T21:35:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
