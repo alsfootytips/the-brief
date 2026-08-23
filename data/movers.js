@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T14:50:36.714832+00:00",
+  "generated_at": "2026-08-23T15:22:16.198465+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bessent's Desperation Foreshadows Credit Crisis\""
+      "move_reason": "News: \"Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade\""
     },
     {
       "ticker": "XLP",
@@ -236,6 +236,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
     },
     {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 13.21,
+      "change_pct": -0.83,
+      "volume_ratio": 0.76,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Can Shopify Integration Drive AppLovin's Next Growth Wave?\""
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 215.38,
@@ -281,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Bitcoin Jumps Above $77,000, Gold Hits 3-Month Highs: Stock Market Today\""
+      "move_reason": "News: \"What's Pushing Long-Term Bond Yields Higher?\""
     }
   ],
   "watchlist": [
@@ -355,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bessent's Desperation Foreshadows Credit Crisis\""
+      "move_reason": "News: \"Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade\""
     },
     {
       "ticker": "NBIS",
@@ -430,6 +442,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"$1000 Invested In Texas Pacific Land 10 Years Ago Would Be Worth This Much Today\""
     },
     {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 13.21,
+      "change_pct": -0.83,
+      "volume_ratio": 0.76,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Can Shopify Integration Drive AppLovin's Next Growth Wave?\""
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 63.63,
@@ -439,7 +463,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Bitcoin Jumps Above $77,000, Gold Hits 3-Month Highs: Stock Market Today\""
+      "move_reason": "News: \"What's Pushing Long-Term Bond Yields Higher?\""
     }
   ],
   "indices": [
@@ -678,6 +702,36 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
+    },
+    {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 13.21,
+      "change_pct": -0.83,
+      "score": 6.5,
+      "signals": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 13.2 (cheap on absolute basis)",
+        "Down -38.1% over 3 months \u2014 deep drawdown",
+        "-76.2% from 52-week high"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 13.2 (cheap on absolute basis)",
+        "Down -38.1% over 3 months \u2014 deep drawdown",
+        "-76.2% from 52-week high"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "cheap",
+        "drawdown",
+        "off-highs"
+      ],
+      "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "NBIS",

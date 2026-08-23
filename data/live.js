@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T14:50:36.719279+00:00",
+  "generated_at": "2026-08-23T15:22:16.204168+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T14:50:36.716887+00:00",
+      "timestamp": "2026-08-23T15:22:16.201166+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T14:50:36.716884+00:00",
+      "timestamp": "2026-08-23T15:22:16.201162+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,65 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T14:50:36.716878+00:00",
+      "timestamp": "2026-08-23T15:22:16.201153+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia to compete with US, Chinese AI models under $6B Poolside deal",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636058-nvidia-compete-us-chinese-ai-models-under-6b-poolside-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:05:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: How concerned should Meta investors be about child safety lawsuits?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636047-sa-asks-how-concerned-should-meta-investors-be-about-child-safety-lawsuits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:00:35+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rocket Mortgage pushes home equity loans to wipe out credit card debt \u2014 here's how that could backfire on homeowners",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:55:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:55:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -153,6 +208,17 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/earnings/forte-biosciences-earnings-on-deck-as-argenx-deal-looms-93CH-4872448",
       "is_watchlist": false,
       "timestamp": "2026-08-23T13:35:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -292,29 +358,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings Week Ahead: NVDA, MRVL, ZM, XPEV, and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4635856-earnings-week-ahead-nvda-mrvl-zm-xpev-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:07:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump accuses Canada of charging tariffs on farmers for years",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636054-trump-accuses-canada-charging-tariffs-farmers-for-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:06:42+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
@@ -413,6 +456,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b6b9213cf1e5e679e94a0e7824209ea8968a58980440a23ecd8ff829674b0585",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T11:07:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
       "source": "Reuters",
@@ -432,6 +487,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T11:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "What's Pushing Long-Term Bond Yields Higher?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=05a5a232e62d1d4f527512849b6da2a478d37df99fc6040d2b3210bc32b0af33",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T10:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -547,18 +614,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
       "is_watchlist": true,
       "timestamp": "2026-08-23T07:13:06+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Treasury Buybacks: America Has Three Doors, And None Solve The Problem",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bc86e0d57587f91069f535462b88f4d6aa9fa84498f51cc0f2e77348b2bb8d93",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T06:46:13+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -725,6 +780,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "2 Software Stocks That Whale Rock Is Betting Will Survive the Apocalypse",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-software-stocks-whale-rock-140002300.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:00:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Airbnb's new fee change frustrates hosts\u2014what to know before renting out your home",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
@@ -747,55 +813,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' \u2014 and urges Americans to invest",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-says-140000827.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T14:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T13:57:48+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia Might Deliver Another \u2018Beat and Raise\u2019 Quarter, But Its Financing Deals Could Be the Bigger Driver of NVDA Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-might-deliver-another-beat-134502581.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:45:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How to Play Beyond Meat Stock After Its 30-for-1 Reverse Split",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/play-beyond-meat-stock-30-130002425.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Bond King Goes Bananas Over Nvidia's $500 Billion Move. How It May Be Affecting Your Portfolio.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bond-king-goes-bananas-over-130002636.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "India Leaves the Door Ajar for China\u2019s Investors",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/india-leaves-door-ajar-china-123300050.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:33:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -822,28 +855,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The tax loophole that turns a Trump Account into tax-free millions \u2014 do you know how to exploit it?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tax-loophole-turns-trump-account-123000413.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:30:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Always the best time to buy\u2019: Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/always-best-time-buy-todd-121500299.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T12:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1189,18 +1200,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-21T10:21:32+00:00",
       "relevance_score": 3.5,
       "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "10-Year Treasury Yield Chart And What 2027 Energy Sector Estimates Are Saying",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5a758a85ce0efb9a5e570e65d0779be27009dde16f93e44db4ba1db9071f45e1",
-      "is_watchlist": true,
-      "timestamp": "2026-08-21T10:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
