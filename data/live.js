@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T10:33:19.829324+00:00",
+  "generated_at": "2026-08-23T11:00:13.023205+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T10:33:19.826423+00:00",
+      "timestamp": "2026-08-23T11:00:13.020293+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T10:33:19.826420+00:00",
+      "timestamp": "2026-08-23T11:00:13.020271+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T10:33:19.826411+00:00",
+      "timestamp": "2026-08-23T11:00:13.020262+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T10:24:41+00:00",
+      "timestamp": "2026-08-23T10:57:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -202,6 +202,18 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T07:56:12+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Treasury Buybacks: America Has Three Doors, And None Solve The Problem",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bc86e0d57587f91069f535462b88f4d6aa9fa84498f51cc0f2e77348b2bb8d93",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T06:46:13+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -773,9 +785,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "A stolen wallet gives thieves access to your identity and finances \u2014 here's what to do before the damage spreads",
+      "headline": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -784,9 +796,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
+      "headline": "A stolen wallet gives thieves access to your identity and finances \u2014 here's what to do before the damage spreads",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
+      "url": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -836,18 +848,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Bessent Doubled Buybacks, Yields Went Higher: A Headache For Warsh At Jackson Hole",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8fb2bec8c4f3fbeac8bc49f55fcaf22253a1092e80f739de8dcf799fb26db6f6",
-      "is_watchlist": true,
-      "timestamp": "2026-08-22T08:00:00+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
