@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T06:15:44.526204+00:00",
+  "generated_at": "2026-08-23T07:06:03.673897+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T06:15:44.523278+00:00",
+      "timestamp": "2026-08-23T07:06:03.670919+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T06:15:44.523275+00:00",
+      "timestamp": "2026-08-23T07:06:03.670915+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,43 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T06:15:44.523266+00:00",
+      "timestamp": "2026-08-23T07:06:03.670906+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T06:39:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T06:30:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Korean retail traders chase 40% coupons after historic stock rout - report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/korean-retail-traders-chase-40-coupons-after-historic-stock-rout--report-4872421",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T06:09:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -86,15 +119,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
       "ticker": null,
-      "headline": "Alibaba proposes Hong Kong share placement worth $10 billion",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T05:18:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T05:46:43+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -132,6 +169,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Mayors to get powers to overrule local councils on planning decisions",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T03:10:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Iran condemns US plans to announce new sanctions",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
@@ -140,6 +188,17 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cyber attack shut down small power plant",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T02:48:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -155,11 +214,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Germany\u2019s Merz to press cabinet for faster pro-growth reforms",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/germanys-merz-to-press-cabinet-for-faster-progrowth-reforms-4872393",
+      "headline": "91-year-old supermarket chain closes stores, lays off employees",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T22:12:31+00:00",
+      "timestamp": "2026-08-22T23:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Struggling households need more help with bills, energy industry says",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T23:00:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -259,17 +329,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T20:26:44+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:18:15+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -731,17 +790,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bill Gates pulls $818M from Berkshire to buy this giant",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-pulls-818m-berkshire-030700591.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T03:07:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Berkshire Hathaway (BRK.A) Holds Firm As A Top Portfolio Stake Lifts Its Dividend",
       "source": "Yahoo",
@@ -767,77 +815,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "headline": "More students planning to live at home for university over 'insane' living costs",
       "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T00:40:47+00:00",
+      "timestamp": "2026-08-21T23:01:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "ARS Pharma (SPRY) Cuts Spending As It Chases Neffy Market Share",
+      "headline": "Rocket Lab and AST SpaceMobile Are Priced for the Big Bang. One Space Stock Already Delivered.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/ars-pharma-spry-cuts-spending-220832511.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ast-spacemobile-priced-230002883.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T22:08:32+00:00",
+      "timestamp": "2026-08-21T23:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Brookfield (BN) Pivots Toward AI and Nuclear Power in Record-Breaking Quarter",
+      "headline": "Microsoft vs. Broadcom: One Has 85% Upside, But I'm Picking the Other",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/brookfield-bn-pivots-toward-ai-220206558.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-broadcom-one-85-230002678.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T22:02:06+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amylyx (AMLX) Faces a Binary Phase 3 Test. Can Avexitide Rebuild the Company?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/amylyx-amlx-faces-binary-phase-215808575.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T21:58:08+00:00",
+      "timestamp": "2026-08-21T23:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "BitFuFu (FUFU) Increased Hashrate Allocated to Self-Mining 47%. Why Did Revenue Collapse 63%?",
+      "headline": "La-Z-Boy (LZB) Fell 16% After Hours. Is Retail Growth Hiding a Wholesale Problem?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitfufu-fufu-increased-hashrate-allocated-215607748.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/la-z-boy-lzb-fell-225733519.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:56:07+00:00",
+      "timestamp": "2026-08-21T22:57:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tapestry (TPR) Delivers On Its Boldest Promise Early",
+      "headline": "Toll Brothers (TOL) Beat Estimates. Can Affluent Buyers Offset Falling Home Deliveries?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-tpr-delivers-boldest-promise-215429793.html",
+      "url": "https://finance.yahoo.com/real-estate/articles/toll-brothers-tol-beat-estimates-225100392.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:54:29+00:00",
+      "timestamp": "2026-08-21T22:51:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ascendis Pharma (ASND): Three New Drugs Are Turning This Biotech Into A Growth Machine",
+      "headline": "Keysight (KEYS) Raised Its Outlook. Is AI Testing Becoming a Durable Growth Engine?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/ascendis-pharma-asnd-three-drugs-214640196.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/keysight-keys-raised-outlook-ai-224547726.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-21T21:46:40+00:00",
+      "timestamp": "2026-08-21T22:45:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should you be worried about Walmart's latest U.S. sales? 1 analyst calls it a 'worst case scenario'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/worried-walmarts-latest-u-sales-224500696.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T22:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -989,17 +1037,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US borrowing costs rise as attempts to ease rates prove short-lived",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T16:45:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "3 Large-Cap Stocks on Our Buy List",
       "source": "Yahoo",
@@ -1142,17 +1179,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UK borrows more than expected in July as Healey prepares for first Budget",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T09:45:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "What to know about this weekend's IndyCar race on the National Mall",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
@@ -1175,17 +1201,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why the US economy is ringing alarm bells",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:38:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
@@ -1202,17 +1217,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-20T23:12:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T22:59:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
