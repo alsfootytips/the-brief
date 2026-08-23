@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T02:45:22.658363+00:00",
+  "generated_at": "2026-08-23T03:37:38.832515+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T02:45:22.655379+00:00",
+      "timestamp": "2026-08-23T03:37:38.829550+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T02:45:22.655374+00:00",
+      "timestamp": "2026-08-23T03:37:38.829545+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,22 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T02:45:22.655365+00:00",
+      "timestamp": "2026-08-23T03:37:38.829536+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran condemns US plans to announce new sanctions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T03:00:37+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -293,17 +305,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T19:15:10+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/paramount-and-california-to-hold-preliminary-talks-on-warner-bros-deal-nyt-reports-4872384",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T19:06:33+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -812,6 +813,61 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stocks Settle Higher as Crude Oil Prices Stabilize",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-higher-crude-oil-203900224.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:39:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Weekly Wrap: Bitcoin Breaks Out",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-breaks-203400573.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:34:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The list grows: 2 more cases proceeding on broker liability",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/list-grows-2-more-cases-203222952.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:32:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winning on Rich Shoppers Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-elf-202928491.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:29:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SEC charges former Bank of America investment banker with insider trading",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-charges-former-bank-america-202413058.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:24:13+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
       "type": "mover_statement",
       "movers": [
         "Bessent"
@@ -825,61 +881,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/impinj-stock-tracking-chip-maker-revolutionize-logistics/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:09:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher?",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-preview-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:05:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T20:01:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-pitches-ai-195454070.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T19:54:54+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Intermodal Savings Surge: Up to 49% ROI for Shippers",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/intermodal-savings-surge-49-roi-195425557.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T19:54:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1175,17 +1176,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:05:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
@@ -1253,6 +1243,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX stock down for week following share unlock, big rocket news from China",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-down-for-week-following-share-unlock-big-rocket-news-from-china-143100875.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-20T14:31:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
