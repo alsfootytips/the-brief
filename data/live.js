@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T19:28:27.606323+00:00",
+  "generated_at": "2026-08-23T19:47:49.906808+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T19:28:27.603453+00:00",
+      "timestamp": "2026-08-23T19:47:49.903954+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T19:28:27.603449+00:00",
+      "timestamp": "2026-08-23T19:47:49.903950+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T19:28:27.603440+00:00",
+      "timestamp": "2026-08-23T19:47:49.903941+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -595,17 +606,6 @@ window.theBriefLive = {
       "headline": "The Treasury\u2019s bond-market intervention isn\u2019t working. So what comes next?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-23T12:00:00+00:00",
       "relevance_score": 0.0,
