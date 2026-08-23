@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T23:20:46.475708+00:00",
+  "generated_at": "2026-08-23T23:46:08.054415+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T23:20:46.472805+00:00",
+      "timestamp": "2026-08-23T23:46:08.051533+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T23:20:46.472801+00:00",
+      "timestamp": "2026-08-23T23:46:08.051529+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,158 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T23:20:46.472792+00:00",
+      "timestamp": "2026-08-23T23:46:08.051520+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Lindsay Australia posts record H2 2026 results",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lindsay-australia-posts-record-h2-2026-results-93CH-4872490",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:40:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Ampol posts near five-fold surge in profit as Iran war boosts refining margin",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/australias-ampol-logs-record-halfyear-profit-with-more-than-fourfold-rise-4872482",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T23:36:25+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Abbott vs. Intuitive Surgical: Which MedTech Stock Offers Better Long-Term Upside?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/abbott-vs-intuitive-surgical-medtech-232811319.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:28:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Review launched into how pub and hotel business rates calculated",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:26:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'I didn't speak the Queen's English': Why people worry about their accents",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:25:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil falls 1% ahead of US announcement to impose further sanctions on Iran",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:24:49+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why students are being paid \u00a32,000 to play computer games",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:23:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gilead\u2019s HIV Business is Surging, but is the Company Too Dependent on One Franchise?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/gilead-hiv-business-surging-company-231505800.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:15:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chorus FY26 slides: fibre uptake reaches 75.9%, profit jumps to $37m",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/chorus-fy26-slides-fibre-uptake-reaches-759-profit-jumps-to-37m-93CH-4872488",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:14:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:13:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pfizer\u2019s Turnaround is Gaining Traction, but Can New Products Offset its Patent Cliff?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/pfizer-turnaround-gaining-traction-products-231313770.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:13:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-China\u2019s property crisis grinds on after Evergrande sentencing",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/analysischinas-property-crisis-grinds-on-after-evergrande-sentencing-4872486",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:12:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK productivity showing sustained improvement, economists say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-productivity-showing-sustained-improvement-economists-say-4872485",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:12:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -99,6 +247,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T22:57:03+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
@@ -122,28 +281,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Australia\u2019s Ampol logs record half-year profit with more than four-fold rise",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/australias-ampol-logs-record-halfyear-profit-with-more-than-fourfold-rise-4872482",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:49:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/abbott-vs-thermo-fisher-better-224317862.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:43:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
@@ -152,61 +289,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fast fashion giant Shein launches up to $1.8 billion Hong Kong IPO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:36:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why sovereign AI should reinforce rather than undermine the AI capex cycle?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-sovereign-ai-should-reinforce-rather-than-undermine-the-ai-capex-cycle-4872480",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:33:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:32:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/danaher-vs-intuitive-surgical-recovery-222135336.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:21:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Europe EV market share tops 25% in July as France, Germany drive growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/europe-ev-market-share-tops-25-in-july-as-france-germany-drive-growth-4872477",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:06:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -249,39 +331,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4635954-tuya-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-23T21:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872476",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan\u2019s stock market setup looks similar to late 2023. Here\u2019s what it means",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/japans-stock-market-setup-looks-similar-to-late-2023-heres-what-it-means-4872475",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T20:34:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/italy-extends-diesel-tax-cut-to-wednesday-amid-rising-fuel-prices-93CH-4872473",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T19:39:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -685,17 +734,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T11:05:49+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "What's Pushing Long-Term Bond Yields Higher?",
       "source": "SeekingAlpha",
@@ -787,17 +825,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Les used a QR code to download a parking app - but it was a scam",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T06:23:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1010,17 +1037,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "More students planning to live at home for university over 'insane' living costs",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:01:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Sector Update: Energy Stocks Mixed Late Afternoon",
       "source": "Yahoo",
@@ -1230,17 +1246,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T00:45:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How landscape gardening is being electrified",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T23:12:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
