@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-23T11:50:14.718182+00:00",
+  "generated_at": "2026-08-23T12:39:30.142792+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -712,9 +712,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 58.42,
-      "current_pct": 12.71,
-      "change_pct_today": 4.49,
+      "current_price": 61.23,
+      "current_pct": 18.14,
+      "change_pct_today": -0.47,
       "name": "Occidental Petroleum",
       "news_count": 3,
       "days_elapsed": 42,
