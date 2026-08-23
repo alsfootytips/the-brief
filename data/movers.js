@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T11:00:13.017605+00:00",
+  "generated_at": "2026-08-23T11:29:11.798903+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -199,6 +199,17 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 42.77,
+      "change_pct": -2.28,
+      "volume_ratio": 1.21,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     },
     {
       "ticker": "APA",
@@ -599,6 +610,16 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 42.77,
+      "change_pct": -2.28,
+      "volume_ratio": 1.21,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
     }
   ],
   "watchlist_radar": [
@@ -852,6 +873,13 @@ window.theBriefMovers = {
     }
   ],
   "sectors_radar": [
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "change_pct": -2.28,
+      "price": 42.77,
+      "watchlist_members": []
+    },
     {
       "ticker": "XLB",
       "name": "Materials Select Sector",

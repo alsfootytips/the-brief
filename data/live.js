@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T11:00:13.023205+00:00",
+  "generated_at": "2026-08-23T11:29:11.802727+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T11:00:13.020293+00:00",
+      "timestamp": "2026-08-23T11:29:11.800575+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T11:00:13.020271+00:00",
+      "timestamp": "2026-08-23T11:29:11.800573+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,54 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T11:00:13.020262+00:00",
+      "timestamp": "2026-08-23T11:29:11.800566+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InvestingPro\u2019s Fair Value flagged Vicor before 45% decline",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-flagged-vicor-before-45-decline-93CH-4872440",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:02:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eni targets commercial fusion power plant in Europe by 2040s",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/eni-targets-commercial-fusion-power-plant-in-europe-by-2040s-93CH-4872439",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:01:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/sinopec-reports-19-profit-jump-in-h1-2026-despite-middle-east-crisis-4872438",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:01:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T11:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -123,6 +167,21 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T09:49:46+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Why does the USD outlook depend on UST and Fed policy credibility?",
@@ -158,49 +217,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sell U.S. dollar versus these currencies, BCA says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/sell-us-dollar-versus-these-currencies-bca-says-4872431",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T08:30:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-warns-neighbours-against-joining-us-sanctions-as-hormuz-stays-closed-4872428",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T08:10:23+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-23T08:04:14+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T07:56:12+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -383,17 +405,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T20:26:44+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:15:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -785,9 +796,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
+      "headline": "Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-22-2026-best-cd-account-earns-435-apy-100000592.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -807,9 +818,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY",
+      "headline": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-22-2026-best-cd-account-earns-435-apy-100000592.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T10:00:00+00:00",
       "relevance_score": 0.0,
@@ -824,17 +835,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T09:45:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T08:40:34+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
