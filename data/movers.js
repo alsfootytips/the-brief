@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T07:06:03.668270+00:00",
+  "generated_at": "2026-08-23T07:47:39.281221+00:00",
   "gainers": [
     {
       "ticker": "SOFI",

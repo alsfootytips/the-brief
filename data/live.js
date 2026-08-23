@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T07:06:03.673897+00:00",
+  "generated_at": "2026-08-23T07:47:39.287085+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T07:06:03.670919+00:00",
+      "timestamp": "2026-08-23T07:47:39.284030+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T07:06:03.670915+00:00",
+      "timestamp": "2026-08-23T07:47:39.284026+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,21 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T07:06:03.670906+00:00",
+      "timestamp": "2026-08-23T07:47:39.284018+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin surges past $76K with overbought RSI: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T07:02:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -124,13 +135,13 @@ window.theBriefLive = {
         "Trump"
       ],
       "ticker": null,
-      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": true,
       "timestamp": "2026-08-23T05:46:43+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
       "relevance_label": "Market Mover"
     },
     {
@@ -180,25 +191,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran condemns US plans to announce new sanctions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T03:00:37+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cyber attack shut down small power plant",
+      "headline": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-23T02:48:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -815,6 +815,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "VNET Group (VNET) Is Expanding Rapidly. Can It Finance the AI Data-Center Buildout?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vnet-group-vnet-expanding-rapidly-233733126.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:37:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hesai (HSAI) Is Moving Beyond LiDAR. Can Robotics Become a Second Profit Pool?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/hesai-hsai-moving-beyond-lidar-233613779.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:36:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jack Henry (JKHY) Beat Estimates. Can Faster Payments Restore Margin Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-jkhy-beat-estimates-232716433.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T23:27:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "More students planning to live at home for university over 'insane' living costs",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
@@ -853,39 +886,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/la-z-boy-lzb-fell-225733519.html",
       "is_watchlist": false,
       "timestamp": "2026-08-21T22:57:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Toll Brothers (TOL) Beat Estimates. Can Affluent Buyers Offset Falling Home Deliveries?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/toll-brothers-tol-beat-estimates-225100392.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:51:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Keysight (KEYS) Raised Its Outlook. Is AI Testing Becoming a Durable Growth Engine?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/keysight-keys-raised-outlook-ai-224547726.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:45:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should you be worried about Walmart's latest U.S. sales? 1 analyst calls it a 'worst case scenario'",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/worried-walmarts-latest-u-sales-224500696.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T22:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
