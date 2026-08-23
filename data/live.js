@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T17:46:22.066455+00:00",
+  "generated_at": "2026-08-23T18:29:12.656424+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T17:46:22.064119+00:00",
+      "timestamp": "2026-08-23T18:29:12.653982+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T17:46:22.064116+00:00",
+      "timestamp": "2026-08-23T18:29:12.653980+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,65 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T17:46:22.064109+00:00",
+      "timestamp": "2026-08-23T18:29:12.653974+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Turkey\u2019s central bank to restart one-week repo auctions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/turkeys-central-bank-to-restart-oneweek-repo-auctions-93CH-4872468",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T18:02:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T18:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:58:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:58:06+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michael Burry dumps Alibaba for JD.com, says BABA would need to fall 50%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636063-michael-burry-dumps-alibaba-for-jd-com-says-baba-would-need-to-fall-50-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:56:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -117,6 +172,28 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-23T17:00:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 2 big things we're watching in the stock market this week",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T16:56:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 2 big things we're watching in the stock market this week",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T16:56:02+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -317,18 +394,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UBS downgrades Klarna stock rating on guidance cut, executive departures",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-klarna-stock-rating-on-guidance-cut-executive-departures-93CH-4872462",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:22:57+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "CrossCountry cancels 'almost all' UK services after power cut",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
@@ -394,28 +459,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Raytheon Navy air-to-air long-range missile undergoes testing",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636056-raytheon-navy-air-to-air-long-range-missile-undergoes-testing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:08:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
@@ -435,17 +478,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:46:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -784,17 +816,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
@@ -834,28 +855,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T16:07:00+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0xHczhyd0MwdmphVllPT2pTUXNMNDBtU29maGIxbGFNdWtjbnAzS1hsMVBXUnNnalVjbXlUQkpJWnZHelR5QkJyV2lLNGRuelVrYW1OQWJ6YTMteGZBbm9vX0lfY0ZZeE93NVVfZ0lsX3hjLXdVeV9qMG5hZ1Y2dU5FbWNQd0t0U0ZJcHV4MmFHbGhnSC1YMWdKaTBCRTQzR2ZzcDNMVnpFaHBCRVl0RXprMVIwMHg3bUI2Qk9IR05MQUM2R0k4QUFnY3VZbEk?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:45:37+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airbnb's new fee change frustrates hosts\u2014what to know before renting out your home",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T14:00:01+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T17:46:22.062038+00:00",
+  "generated_at": "2026-08-23T18:29:12.651974+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -59,6 +59,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 32.02,
+      "change_pct": 1.42,
+      "volume_ratio": 1.02,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "Tracking XLV sector (+1.29% today)"
     },
     {
       "ticker": "META",
@@ -161,18 +173,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway\""
-    },
-    {
-      "ticker": "MSFT",
-      "name": "MSFT",
-      "price": 483.61,
-      "change_pct": 0.51,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -392,6 +392,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway\""
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 32.02,
+      "change_pct": 1.42,
+      "volume_ratio": 1.02,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "Tracking XLV sector (+1.29% today)"
     },
     {
       "ticker": "OXY",
