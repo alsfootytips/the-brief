@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T09:36:31.627365+00:00",
+  "generated_at": "2026-08-23T10:00:50.907293+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T09:36:31.624293+00:00",
+      "timestamp": "2026-08-23T10:00:50.904340+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T09:36:31.624290+00:00",
+      "timestamp": "2026-08-23T10:00:50.904336+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T09:36:31.624281+00:00",
+      "timestamp": "2026-08-23T10:00:50.904327+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -866,23 +866,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "argenx SE (ARGX) Won Its Phase 3 Myositis Trial. How Much Does the Subgroup Miss Matter?",
+      "headline": "Lufax (LU) Narrowed Its Loss 86%. Was the Improvement Mostly Tax-Driven?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/argenx-se-argx-won-phase-005324473.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lufax-lu-narrowed-loss-86-010120939.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T00:53:24+00:00",
+      "timestamp": "2026-08-22T01:01:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cerebras (CBRS) Doubled Core Revenue. Why Did GAAP Hardware Sales Fall 23%?",
+      "headline": "argenx SE (ARGX) Won Its Phase 3 Myositis Trial. How Much Does the Subgroup Miss Matter?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-doubled-core-revenue-003754940.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/argenx-se-argx-won-phase-005324473.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-22T00:37:54+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-22T00:53:24+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
