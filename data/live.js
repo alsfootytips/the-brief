@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T01:19:07.519585+00:00",
+  "generated_at": "2026-08-23T02:45:22.658363+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T01:19:07.516610+00:00",
+      "timestamp": "2026-08-23T02:45:22.655379+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T01:19:07.516606+00:00",
+      "timestamp": "2026-08-23T02:45:22.655374+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T01:19:07.516595+00:00",
+      "timestamp": "2026-08-23T02:45:22.655365+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -326,6 +326,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T18:51:50+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iconic fast-food fried chicken chain closes over 300 restaurants",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:47:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -817,6 +828,61 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/impinj-stock-tracking-chip-maker-revolutionize-logistics/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:09:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher?",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-preview-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:05:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T20:01:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-pitches-ai-195454070.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T19:54:54+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Intermodal Savings Surge: Up to 49% ROI for Shippers",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/intermodal-savings-surge-49-roi-195425557.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T19:54:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "Can Shopify Integration Drive AppLovin's Next Growth Wave?",
       "source": "Yahoo",
@@ -850,72 +916,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Rocket Lab (RKLB)\u2019s Record Space Force Deal the Turning Point for Defense Investors?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-record-space-190605798.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T19:06:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin Price Prediction: $100K in Sight as BTC Breaks Past 200-Day EMA",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-100k-sight-190551362.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T19:05:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broadcom Stock Just Scored a New Bullish Rating. Here's Why.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-just-scored-bullish-190209819.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T19:02:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Bank Business Shield Visa review: Solid 0% APR offer, but little long-term rewards value",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-shield-visa-card-185336564.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T18:53:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nike Stock Sinks to Multi-Year Lows: There\u2019s No Quick Fix for NKE Here",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-sinks-multi-lows-184742247.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T18:47:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "MicroCloud Hologram Adds $15.76M Strategy Stake, Shares Rise 5%",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microcloud-hologram-adds-15-76m-183900511.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T18:39:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1033,17 +1033,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Costco makes key move to expand membership base",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/costco-makes-key-move-expand-161700061.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T16:17:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1180,6 +1169,17 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-21T08:38:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-21T08:05:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
