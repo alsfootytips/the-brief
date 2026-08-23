@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T09:00:02.695817+00:00",
+  "generated_at": "2026-08-23T09:36:31.627365+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T09:00:02.692864+00:00",
+      "timestamp": "2026-08-23T09:36:31.624293+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T09:00:02.692859+00:00",
+      "timestamp": "2026-08-23T09:36:31.624290+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,19 +58,45 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T09:00:02.692850+00:00",
+      "timestamp": "2026-08-23T09:36:31.624281+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says Pakistan\u2019s army chief to visit Tehran on Monday",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-pakistans-army-chief-to-visit-tehran-on-monday-4872425",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T09:18:31+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Sell U.S. dollar versus these currencies, BCA says",
+      "headline": "Why does the USD outlook depend on UST and Fed policy credibility?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/sell-us-dollar-versus-these-currencies-bca-says-4872431",
+      "url": "https://www.investing.com/news/forex-news/why-does-the-usd-outlook-depend-on-ust-and-fed-policy-credibility-4872435",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T08:30:07+00:00",
+      "timestamp": "2026-08-23T09:15:22+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could Canada fully supply the U.S. with aluminium?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/could-canada-fully-supply-the-us-with-aluminium-4872433",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T08:51:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -81,7 +107,18 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/ecb-chief-lagarde-ready-to-serve-wef-swiss-newspaper-reports-4872430",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T08:18:52+00:00",
+      "timestamp": "2026-08-23T08:42:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sell U.S. dollar versus these currencies, BCA says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/sell-us-dollar-versus-these-currencies-bca-says-4872431",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T08:30:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -145,32 +182,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran says Pakistan\u2019s army chief to visit Tehran on Monday",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iran-says-pakistans-army-chief-to-visit-tehran-on-monday-4872425",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T07:48:35+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin surges past $76K with overbought RSI: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T07:02:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
@@ -179,17 +190,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-23T06:39:00+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T06:30:36+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -728,6 +728,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A stolen wallet gives thieves access to your identity and finances \u2014 here's what to do before the damage spreads",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-22-2026-best-cd-account-earns-435-apy-100000592.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Couple finds $5 on the ground and wins $400,000 after buying a lottery ticket \u2013 what experts say they should do next",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/couple-finds-5-ground-wins-094500405.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T09:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
@@ -822,17 +866,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lufax (LU) Narrowed Its Loss 86%. Was the Improvement Mostly Tax-Driven?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lufax-lu-narrowed-loss-86-010120939.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T01:01:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "argenx SE (ARGX) Won Its Phase 3 Myositis Trial. How Much Does the Subgroup Miss Matter?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/argenx-se-argx-won-phase-005324473.html",
@@ -850,39 +883,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T00:37:54+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron (MU) Fell 7%. Is the AI Memory Trade Now Too Expensive?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-fell-7-ai-001235695.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T00:12:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mercury Systems (MRCY) Booked $660 Million. Why Did its Shares Fall More than 10% After Hours?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-booked-660-000558587.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T00:05:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UGI (UGI) Closed 9.4% Higher on a Reported KKR Bid. Does $42.50 Fully Value Its AI-Power Opportunity?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ugi-ugi-closed-9-4-234928137.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T23:49:28+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
