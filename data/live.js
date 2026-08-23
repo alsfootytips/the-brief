@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T22:48:30.902677+00:00",
+  "generated_at": "2026-08-23T23:20:46.475708+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T22:48:30.899628+00:00",
+      "timestamp": "2026-08-23T23:20:46.472805+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T22:48:30.899624+00:00",
+      "timestamp": "2026-08-23T23:20:46.472801+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,88 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T22:48:30.899615+00:00",
+      "timestamp": "2026-08-23T23:20:46.472792+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock futures flat as U.S. and Canada appear headed for trade war",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:03:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Johnson & Johnson\u2019s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T23:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Chorus posts stronger FY 2026 profit, lifts dividend outlook",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-chorus-posts-stronger-fy-2026-profit-lifts-dividend-outlook-93CH-4872483",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T22:58:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T22:55:04+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-thermo-fisher-healthcare-225340177.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T22:53:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Australia\u2019s Ampol logs record half-year profit with more than four-fold rise",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/australias-ampol-logs-record-halfyear-profit-with-more-than-fourfold-rise-4872482",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T22:49:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/abbott-vs-thermo-fisher-better-224317862.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T22:43:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -100,24 +178,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dow Jones Futures Fall With Tariffs In Focus; Nvidia, Warsh Ahead",
+      "headline": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
       "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T22:23:02+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stock futures slip as U.S. and Canada appear headed for trade war",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:22:00+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-23T22:32:03+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -134,44 +200,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/thermo-fisher-vs-intuitive-surgical-221530352.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:15:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Danaher vs. Medtronic: Which Healthcare Recovery Story Has More Upside?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/danaher-vs-medtronic-healthcare-recovery-221012046.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:10:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Europe EV market share tops 25% in July as France, Germany drive growth",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economic-indicators/europe-ev-market-share-tops-25-in-july-as-france-germany-drive-growth-4872477",
       "is_watchlist": false,
       "timestamp": "2026-08-23T22:06:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T22:01:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -233,17 +266,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/pemex-petrobras-bet-big-high-210000211.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T21:00:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Japan\u2019s stock market setup looks similar to late 2023. Here\u2019s what it means",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/japans-stock-market-setup-looks-similar-to-late-2023-heres-what-it-means-4872475",
@@ -288,17 +310,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin coils in bull flag near $77K: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T19:02:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -377,17 +388,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-23T18:31:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Burry exits Alibaba, builds large JD.com position over valuation concerns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/burry-exits-alibaba-builds-large-jdcom-position-over-valuation-concerns-4872469",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T18:23:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
