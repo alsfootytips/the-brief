@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T05:45:28.611351+00:00",
+  "generated_at": "2026-08-23T06:15:44.526204+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T05:45:28.608485+00:00",
+      "timestamp": "2026-08-23T06:15:44.523278+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T05:45:28.608481+00:00",
+      "timestamp": "2026-08-23T06:15:44.523275+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T05:45:28.608465+00:00",
+      "timestamp": "2026-08-23T06:15:44.523266+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T06:05:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump disclosure shows more than 1,000 securities trades in June - report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/trump-disclosure-shows-more-than-1000-securities-trades-in-june--report-4872419",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T06:03:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -166,17 +188,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872390",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The U.S. & Canada are fighting over tariffs. How is that affecting small businesses?",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941703/the-u-s-canada-are-fighting-over-tariffs-how-is-that-affecting-small-businesses",
@@ -184,18 +195,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-22T21:16:39+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T20:56:13+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
