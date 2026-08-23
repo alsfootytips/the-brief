@@ -1,5 +1,5 @@
 window.theBriefMacro = {
-  "generated_at": "2026-08-23T18:29:12.750695+00:00",
+  "generated_at": "2026-08-23T18:59:25.412163+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
@@ -51,9 +51,9 @@ window.theBriefMacro = {
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 77370.91,
-      "change_pct_1d": 0.37,
-      "change_pct_1w": 11.7
+      "value": 77323.2,
+      "change_pct_1d": 0.31,
+      "change_pct_1w": 11.63
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 103,

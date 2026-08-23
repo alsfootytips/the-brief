@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-23T18:29:12.651974+00:00",
+  "generated_at": "2026-08-23T18:59:25.328132+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -172,7 +172,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway\""
+      "move_reason": "News: \"AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSM...\""
     }
   ],
   "losers": [
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Exploring the top movers within the S&P500 index during today's session.\""
+      "move_reason": "News: \"Quanta Services (PWR) Stock Could Be 29% Overvalued As Cash Flow Lags Price\""
     },
     {
       "ticker": "CRWV",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
+      "move_reason": "News: \"CoreWeave CEO Michael Intrator Sold Over 13,000 Shares for $1.2 Million. What Does This Me...\""
     },
     {
       "ticker": "XLU",
@@ -233,7 +233,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
+      "move_reason": "News: \"Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.\""
     },
     {
       "ticker": "TTD",
@@ -257,19 +257,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway\""
-    },
-    {
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "price": 219.0,
-      "change_pct": -0.5,
-      "volume_ratio": 0.71,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Alger Concentrated Equity ETF Q2 2026 Portfolio Update\""
+      "move_reason": "News: \"Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.\""
     },
     {
       "ticker": "OXY",
@@ -307,7 +295,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway\""
+      "move_reason": "News: \"AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSM...\""
     },
     {
       "ticker": "APA",
@@ -331,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These 3 AI stocks are bought by both hedge funds and mutual funds\""
+      "move_reason": "News: \"CoreWeave CEO Michael Intrator Sold Over 13,000 Shares for $1.2 Million. What Does This Me...\""
     },
     {
       "ticker": "DG",
@@ -355,7 +343,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
+      "move_reason": "News: \"Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.\""
     },
     {
       "ticker": "IWM",
@@ -370,18 +358,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade\""
     },
     {
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "price": 219.0,
-      "change_pct": -0.5,
-      "volume_ratio": 0.71,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Alger Concentrated Equity ETF Q2 2026 Portfolio Update\""
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 215.38,
@@ -391,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway\""
+      "move_reason": "News: \"Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.\""
     },
     {
       "ticker": "OSCR",
@@ -427,7 +403,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Exploring the top movers within the S&P500 index during today's session.\""
+      "move_reason": "News: \"Quanta Services (PWR) Stock Could Be 29% Overvalued As Cash Flow Lags Price\""
     },
     {
       "ticker": "TPL",
@@ -731,30 +707,6 @@ window.theBriefMovers = {
         "off-highs"
       ],
       "narrative": "<strong>TTD</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
-      "sector_etf": "XLK"
-    },
-    {
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "price": 219.0,
-      "change_pct": -0.5,
-      "score": 5.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "2 SEC filings in the last 7 days",
-        "9 insider sells vs 1 buys (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "2 SEC filings in the last 7 days",
-        "9 insider sells vs 1 buys (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-selling"
-      ],
-      "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
     },
     {
