@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-23T16:25:52.759864+00:00",
+  "generated_at": "2026-08-23T16:52:40.810175+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T16:25:52.756758+00:00",
+      "timestamp": "2026-08-23T16:52:40.807229+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-23T16:25:52.756754+00:00",
+      "timestamp": "2026-08-23T16:52:40.807225+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,32 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-23T16:25:52.756744+00:00",
+      "timestamp": "2026-08-23T16:52:40.807216+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T16:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed's Kashkari not worried about rising US Treasury yields",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636061-feds-kashkari-not-worried-about-rising-us-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T16:41:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -283,17 +305,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -331,17 +342,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636056-raytheon-navy-air-to-air-long-range-missile-undergoes-testing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-23T13:08:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable healthcare headlines for the week: Moderna, Merck, and Twist Bioscience in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636014-notable-healthcare-headlines-for-the-week-moderna-merck-and-twist-bioscience-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:05:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -498,17 +498,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-23T11:05:49+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T11:00:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -821,6 +810,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T15:45:37+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "McDonald\u2019s Just Started Selling Energy Drinks. How to Play MCD Stock Here.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-just-started-selling-energy-153002015.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T15:30:02+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
