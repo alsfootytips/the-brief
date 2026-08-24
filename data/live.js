@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T03:40:18.198358+00:00",
+  "generated_at": "2026-08-24T04:29:09.649641+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T03:40:18.195571+00:00",
+      "timestamp": "2026-08-24T04:29:09.646782+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-24T03:40:18.195567+00:00",
+      "timestamp": "2026-08-24T04:29:09.646778+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,120 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T03:40:18.195559+00:00",
+      "timestamp": "2026-08-24T04:29:09.646769+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cross Timbers Royalty Trust declares $0.0679 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636073-cross-timbers-royalty-trust-declares-00679-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:22:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Halliburton declares  0.17 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636072-halliburton-declares--017-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:20:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SoftBank plans record $6.3B retail bond sale in Japan to fund AI Push",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636068-softbank-plans-record-63b-retail-bond-sale-in-japan-to-fund-ai-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:14:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "High oil prices, subsidies and affordable models rev up European EV sales",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/high-oil-prices-subsidies-and-affordable-models-rev-up-european-ev-sales-4872605",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:12:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia in talks to invest in Perplexity at $30B valuation- The Information",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-in-perplexity-at-30b-valuation-the-information-93CH-4872606",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:08:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shein aims for almost $27bn valuation in stock market debut",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:06:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung Electronics shares skid as record shareholder returns disappoint",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/samsung-electronics-shares-fall-after-shareholder-return-announcement-4872511",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:06:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gift Nifty 50 hits major resistance cluster: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/gift-nifty-50-hits-major-resistance-cluster-live-levels-93CH-4872604",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:04:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung shares slide as record $80 bln shareholder return plan underwhelms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-shares-slide-as-record-80-bln-shareholder-return-plan-underwhelms-4872603",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:02:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist-4872535",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T04:01:42+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -73,10 +183,33 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
       "is_watchlist": true,
-      "timestamp": "2026-08-24T03:38:59+00:00",
+      "timestamp": "2026-08-24T03:57:57+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil falls as US prepares to unveil new Iran sanctions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T03:54:58+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-discusses-perplexity-investment-at-30-billionplus-valuation-the-information-reports-4872594",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T03:54:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -104,50 +237,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Mitchell Services posts FY2026 profit surge, shares rise",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-mitchell-services-posts-fy2026-profit-surge-shares-rise-93CH-4872588",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T03:01:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Data3 shares surge to record high on strong AI-fueled earnings",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/data3-shares-surge-to-record-high-on-strong-aifueled-earnings-93CH-4872587",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:59:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EVT FY26 slides: profit surges 52%, $800m asset sale planned",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/evt-fy26-slides-profit-surges-52-800m-asset-sale-planned-93CH-4872586",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:59:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EVT FY26 slides: profit jumps 52%, $800M divestment planned",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/evt-fy26-slides-profit-jumps-52-800m-divestment-planned-93CH-4872585",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:57:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
@@ -159,56 +248,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Shein\u2019s pursuit of an IPO: From New York to London to Hong Kong",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sheins-pursuit-of-an-ipo-from-new-york-to-london-to-hong-kong-4872563",
+      "headline": "Dollar trading near multi-month lows, restrained by debt nerves - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T02:54:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shein launches up to $1.8 bln Hong Kong IPO after years of scrutiny",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-bln-hong-kong-ipo-after-years-of-scrutiny-4872584",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:43:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: EVT lifts FY2026 profit, shares jump on growth outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-evt-lifts-fy2026-profit-shares-jump-on-growth-outlook-93CH-4872583",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:33:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Ampol stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ampol-stock-surging-today-93CH-4872582",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:32:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shein aims for almost $27bn valuation in stock market debut",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:05:04+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-24T01:48:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -226,7 +271,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Shares flat in Asia before Iran sanctions news, Nvidia results - Reuters",
+      "headline": "Shares dither, oil slips in wait for US details of Iran sanctions - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
       "is_watchlist": false,
@@ -234,6 +279,18 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Above The Noise: AI, Earnings, And Permabears",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f481a7e2eb1ace31210edf744fa333766b7e17f526944590f390f6926fa07752",
+      "is_watchlist": true,
+      "timestamp": "2026-08-23T23:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -271,7 +328,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil falls ahead of US announcement on new Iran sanctions - Reuters",
+      "headline": "Oil falls as US prepares to unveil new Iran sanctions - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
       "is_watchlist": false,
@@ -445,28 +502,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: Will Bessent's recent moves to curb bond yields boost the stock market?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636065-sa-asks-will-bessents-recent-moves-to-curb-bond-yields-boost-the-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T18:47:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Spider-Man: Brand New Day' continues to dominate box office",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636062-spider-man-brand-new-day-continues-to-dominate-box-office?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T18:43:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release?",
       "source": "Yahoo",
@@ -476,17 +511,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hedge funds and mutual funds split on the AI trade - Goldman",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T18:31:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -643,17 +667,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Gulf markets rise as oil gains lift sentiment - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUctUXh6RjdKQkdiR0xZYTBaX0QwbXNLMUJ0NjNLX21UczhJUFozTDFWMzdkQlJaSnRuVTBFWDdLOG5nUTdHa2JXV3JLVW1oVld0MG9nUWFpRWlEUHJBWXpJLWVGQkx6YkgteHZMVVp0VHlJM0ZEU0xmcUE3dUVBMEJfc3VyMWJ4ekxwZF9XdUx3LUJ5YV9MTTN6NE0?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:13:45+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
       "source": "SeekingAlpha",
@@ -757,18 +770,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Bessent's Desperation Foreshadows Credit Crisis",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2feea82dcac8bb090a79c8e820d537126afe0f15189573e65f4ec9d1923645df",
-      "is_watchlist": true,
-      "timestamp": "2026-08-23T10:04:47+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
@@ -862,6 +863,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T19:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:56:59+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Iconic fast-food fried chicken chain closes over 300 restaurants",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
@@ -937,28 +960,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "McDonald\u2019s Just Started Selling Energy Drinks. How to Play MCD Stock Here.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-just-started-selling-energy-153002015.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
