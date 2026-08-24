@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-24T05:21:14.115472+00:00",
+  "generated_at": "2026-08-24T06:03:34.276278+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -71,18 +71,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "Tracking XLV sector (+1.29% today)"
-    },
-    {
-      "ticker": "META",
-      "name": "META",
-      "price": 552.95,
-      "change_pct": 1.3,
-      "volume_ratio": 0.77,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     },
     {
       "ticker": "XLV",
@@ -173,6 +161,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week\""
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MSFT",
+      "price": 483.61,
+      "change_pct": 0.51,
+      "volume_ratio": 0.97,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "losers": [
