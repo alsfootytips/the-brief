@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T23:22:08.745506+00:00",
+  "generated_at": "2026-08-24T23:47:29.917707+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.02,
-      "price": 620.0,
+      "change_pct": -3.65,
+      "price": 616.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T23:22:08.742608+00:00",
+      "timestamp": "2026-08-24T23:47:29.914949+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.66,
-      "price": 211.12,
+      "change_pct": -3.87,
+      "price": 210.64,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T23:22:08.742602+00:00",
+      "timestamp": "2026-08-24T23:47:29.914944+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,13 +55,127 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.63,
-      "price": 456.06,
+      "change_pct": -3.77,
+      "price": 455.4,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T23:22:08.742586+00:00",
+      "timestamp": "2026-08-24T23:47:29.914927+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Astellas begins phase 3 trial of ASP2138 for gastric cancer",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/astellas-begins-phase-3-trial-of-asp2138-for-gastric-cancer-93CH-4874302",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:36:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aveanna Healthcare director-linked entities sell $192.6m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/aveanna-healthcare-directorlinked-entities-sell-1926m-in-stock-93CH-4874301",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:31:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arista Networks president, CTO Duda sells $8.03m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arista-networks-president-cto-duda-sells-803m-in-stock-93CH-4874300",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:31:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/exclusivejapan-eyes-tax-breaks-for-noncore-business-sales-in-governance-reform-push-sources-say-4873958",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:30:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NZME H1 2026 slides: audio drives return to revenue growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/nzme-h1-2026-slides-audio-drives-return-to-revenue-growth-93CH-4874297",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:29:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Vulcan Steel FY26 slides: revenue jumps 22% on rollforming entry",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/vulcan-steel-fy26-slides-revenue-jumps-22-on-rollforming-entry-93CH-4874296",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:29:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T23:27:01+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta to launch Hatch AI agent platform in coming weeks- The Information",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/meta-to-launch-hatch-ai-agent-platform-in-coming-weeks-the-information-93CH-4874295",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:25:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Judge rejects First Brands\u2019 plan to pay down debts by pursuing lawsuits",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/judge-rejects-first-brands-plan-to-pay-down-debts-by-pursuing-lawsuits-4874293",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:24:48+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -99,77 +213,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Arcus Biosciences CAO Azoy sells $84,810 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/arcus-biosciences-cao-azoy-sells-84810-in-stock-93CH-4874278",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T23:01:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Matson EVP Vic Angoco sells $510,784 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/matson-evp-vic-angoco-sells-510784-in-shares-93CH-4874279",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T23:01:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dream Finders Homes director Len Sturm buys $7,390 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dream-finders-homes-director-len-sturm-buys-7390-in-stock-93CH-4874277",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T23:01:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Community West Bancshares director Lokey acquires $1,405 common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/community-west-bancshares-director-lokey-acquires-1405-common-stock-93CH-4874276",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T23:01:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nevada sues to block Trump administration\u2019s Colorado River plan",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/nevada-sues-to-block-trump-administrations-colorado-river-plan-4874244",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T23:00:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "TotalEnergies says profitably moving heavily discounted oil through Strait of Hormuz",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636423-totalenergies-says-profitably-moving-heavily-discounted-oil-through-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-24T22:56:57+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US SEC subpoenas Wall Street lenders over Situational Awareness meltdown, source says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-sec-sends-subpoenas-to-wall-street-banks-over-situational-awareness-nyt-reports-4874211",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:54:38+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -185,26 +233,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Trinet Group SVP Majalya sells $53,110 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/trinet-group-svp-majalya-sells-53110-in-company-stock-93CH-4874273",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:46:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PicPay Q2 2026 slides: strong beat, efficiency gains, stock slips",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/picpay-q2-2026-slides-strong-beat-efficiency-gains-stock-slips-93CH-4874274",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:46:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T22:42:46+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -412,6 +453,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "TRADING DAY Tech, tariffs & Treasuries - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmpoclpIbHRCNUVXQ0IyQ1ZQbDJoR0VQQ0JuN2k4YVJuekdBQ05YcHI5WnVtc0JNSzN6MDhFSzRSS2dvbWRzUnFxSEJ5TURVVEFuc3Vha0sxdGhSbUZ6TllJSkU0c0JrMFFOb2dsN3VLRTItYnE4MVNVWVJQR3o3alhlSFAzVXNla1pBcXNnTnNwencyLWtpRmJteWVFYnJtS0IzbzZR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:13:38+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
@@ -477,6 +529,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjNOaTQ3NkZ4V1N0SHI2ek42SEVXX0xHVVZXbHU1WGZXRFA5MHJ1YkdSLWxzREw2UnZURlFrVG1wWkZOVlU3VWg3dHVkeGpLbk1pMGJzRUVlLWpndGVoWlRwS2p2dlBXWXg5ZzR5UUVhd3g2RElhdklmbG1mNXZ5MDJrNUNROTZhcGY0ZC0yX21pblpqakFsY3VUaEhUelZfNllQemQ2QnR2Uk9sZW9IQjRJOFlBUkx3c3ZJd1JWMktDUQ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T19:43:43+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Bessent\u2019s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
@@ -487,28 +554,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T19:35:45+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T19:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -536,51 +581,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T19:08:56+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T18:54:22+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T18:52:34+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -986,6 +986,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Walmart Fell 9%. I\u2019m Not Sure This Is Just a Walmart Problem",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-fell-9-m-not-153057565.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:30:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html",
@@ -1019,6 +1030,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Jim Cramer holds back support for surging beverage stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-holds-back-support-151600261.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:16:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3 Closed-End Funds to Maximize Dividend Payments",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-closed-end-funds-maximize-151500168.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Rocket Mortgage pushes home equity loans to wipe out credit card debt \u2014 here's how that could backfire on homeowners",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
@@ -1030,44 +1063,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SpaceX Stock: Boom or Bust?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-boom-bust-145600929.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:56:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T14:55:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/heres-truth-much-save-want-145000314.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
