@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T21:29:02.750822+00:00",
+  "generated_at": "2026-08-24T21:55:52.434311+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.35,
-      "price": 617.94,
+      "change_pct": -3.02,
+      "price": 620.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T21:29:02.747914+00:00",
+      "timestamp": "2026-08-24T21:55:52.431389+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.56,
-      "price": 211.32,
+      "change_pct": -3.41,
+      "price": 211.65,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T21:29:02.747910+00:00",
+      "timestamp": "2026-08-24T21:55:52.431384+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,13 +55,212 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.5,
-      "price": 456.68,
+      "change_pct": -3.44,
+      "price": 456.96,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T21:29:02.747896+00:00",
+      "timestamp": "2026-08-24T21:55:52.431367+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold extends rally to three-month high as investors renew safe-haven trade",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636418-gold-extends-rally-to-three-month-high-as-investors-renew-safe-haven-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:45:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:38:59+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The latest twists and turns in the proposed Paramount and Warner Bros. merger",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5940824/the-latest-twists-and-turns-in-the-proposed-paramount-and-warner-bros-merger",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:38:29+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:37:38+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nevada sues to block Trump administration\u2019s Colorado River plan",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/nevada-sues-to-block-trump-administrations-colorado-river-plan-4874244",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:36:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CONX acquires controlling stake in wireless carrier MobileX",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/conx-acquires-controlling-stake-in-wireless-carrier-mobilex-93CH-4874251",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:36:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strattec Security Q4 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636367-strattec-security-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:35:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Electromed Q4 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636369-electromed-q4-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:35:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HEICO Q3 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636321-heico-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:35:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JOYY Q2 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636361-joyy-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:35:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Noah Holdings Q2 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636368-noah-holdings-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:35:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "nCino Q2 2027 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636363-ncino-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:35:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oura targets up to $3B in US IPO at a valuation exceeding $16B - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/oura-targets-up-to-3b-in-us-ipo-at-a-valuation-exceeding-16b--bloomberg-4874250",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:34:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Faraday Future eliminates warrant obligations from March 2025 financing",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/faraday-future-eliminates-warrant-obligations-from-march-2025-financing-93CH-4874249",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:32:37+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visa CEO Ryan McInerney sells $2.16m in stock, exercises options",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/visa-ceo-ryan-mcinerney-sells-216m-in-stock-exercises-options-93CH-4874247",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:31:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Danaher president & CEO Rainer Blair sells $12.7 million in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/danaher-president--ceo-rainer-blair-sells-127-million-in-company-stock-93CH-4874248",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:31:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Circle internet (CRCL) CFO Jeremy Fox-Geen sells $4.05m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/circle-internet-crcl-cfo-jeremy-foxgeen-sells-405m-in-shares-93CH-4874245",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:30:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.06%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-006-4874243",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:30:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -87,160 +286,19 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
       "ticker": null,
-      "headline": "Pentagon seeks U.S. projects to strengthen critical-metals supply",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636420-pentagon-seeks-u-s-projects-to-strengthen-critical-metals-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:24:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bausch + Lomb moving dual-action dry eye drops into phase 3",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636417-bausch-lomb-moving-dual-action-dry-eye-drops-into-phase-3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:19:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:18:47+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bond market anxiety raises stakes for Warsh\u2019s debut Jackson Hole speech",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bond-market-anxiety-raises-stakes-for-warshs-debut-jackson-hole-speech-4872977",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:13:56+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/mexico-boosts-sterile-fly-dispersal-as-us-reopens-cattle-trade-4873810",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:13:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trading Day: Tech, tariffs & Treasuries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trading-day-tech-tariffs--treasuries-4874226",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:12:43+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Philips prices \u20ac650 million green bond under new EU standard",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/philips-prices-650-million-green-bond-under-new-eu-standard-93CH-4874225",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:12:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Golden Spike upsizes private placement to C$975,000",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636419-golden-spike-upsizes-private-placement-to-c-975000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:11:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Moody\u2019s downgrades Crane NXT senior secured debt on recovery value",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/moodys-downgrades-crane-nxt-senior-secured-debt-on-recovery-value-93CH-4874224",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:10:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hormel Foods names former Tyson executive Ash Bhumbla as CFO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/hormel-foods-names-former-tyson-executive-ash-bhumbla-as-cfo-4874219",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:01:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "California Orange County DA announces $100 million for 50,000 evacuated residents in GKN incident",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/california-orange-county-da-announces-100-million-for-50000-evacuated-residents-in-gkn-incident-4874218",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:00:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil slips as improved Hormuz shipping traffic offsets U.S. economic escalation",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-nearly-1-as-us-prepares-more-iran-sanctions-4872509",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:00:12+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. corn futures hit three-year high as Pro Farmer Crop Tour points to lower U.S. output",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636410-us-corn-futures-hit-three-year-high-as-pro-farmer-crop-tour-points-to-lower-us-output?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T20:59:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AeroVironment plans $100M California campus to expand defense production",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636416-aerovironment-plans-100m-california-campus-to-expand-defense-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T20:59:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T21:20:48+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -262,28 +320,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-24T20:53:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Napco signals ~$103M recurring revenue run rate while raising quarterly dividend to $0.17",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636415-napco-signals-103m-recurring-revenue-run-rate-while-raising-quarterly-dividend-to-0_17?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T20:52:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Regulator sends subpoenas to banks for details on Situational Awareness trades - report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636402-regulator-sends-subpoenas-to-banks-for-details-on-situational-awareness-trades---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T20:51:26+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -363,6 +399,17 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T19:35:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -663,29 +710,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T16:07:35+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVZLUTRjNDFCbG9qX21DUWdHYkNMb3hzYXREb3BhX0lXNGF6MEdxNExNZ1hqYkRxRWU3OUdGY3hKRHdnYm9YOEZkOVRhSnp4bG52bUtWSU10NjQyQTE3Z1ZFRlVRelBSMF9vTGswcTFJRDMzQnkwVGlpeThzeGRlZ3FSd1IwNlBmOVNWeERLaHQtWWZiazQ3OTJyaXJGQmpVb2FKN2RjTlNseDBoNXRrUFJrRnc2MWdoQUhwcnpiQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T16:04:15+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
       "source": "Benzinga",
@@ -920,17 +944,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Walmart stock price target reset by JPMorgan after earnings",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-price-target-reset-024700402.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:47:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "filing",
       "ticker": "NBIS",
       "form": "6-K",
@@ -956,11 +969,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How to get \u00a32,000 to play computer games at university",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T23:23:55+00:00",
+      "timestamp": "2026-08-23T13:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-under-1-000-130300789.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:03:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -995,17 +1019,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "2 Dividend Stocks to Buy and Never Sell",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-stocks-buy-never-125000624.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:50:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1310,17 +1323,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-21T08:44:31+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "3 things to know about the $40 trillion federal debt",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-      "is_watchlist": false,
-      "timestamp": "2026-08-20T16:50:41+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
