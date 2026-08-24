@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-24T22:26:47+00:00",
+  "generated_at": "2026-08-24T22:54:40+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1435,7 +1435,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SAIC",
         "date": "2026-08-31",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.3546,
         "revenue_estimate": 1801506211,
         "is_watchlist": false

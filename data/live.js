@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T22:26:47.081215+00:00",
+  "generated_at": "2026-08-24T22:54:40.510371+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -32,9 +32,9 @@ window.theBriefLive = {
       "ticker": "PWR",
       "name": "Quanta Services",
       "change_pct": -3.45,
-      "price": 617.26,
+      "price": 617.27,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:26:47.078307+00:00",
+      "timestamp": "2026-08-24T22:54:40.507348+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.53,
-      "price": 211.39,
+      "change_pct": -3.63,
+      "price": 211.18,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:26:47.078302+00:00",
+      "timestamp": "2026-08-24T22:54:40.507343+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,13 +55,101 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.55,
-      "price": 456.45,
+      "change_pct": -3.54,
+      "price": 456.49,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:26:47.078285+00:00",
+      "timestamp": "2026-08-24T22:54:40.507327+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trinet Group SVP Majalya sells $53,110 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/trinet-group-svp-majalya-sells-53110-in-company-stock-93CH-4874273",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:46:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PicPay Q2 2026 slides: strong beat, efficiency gains, stock slips",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/picpay-q2-2026-slides-strong-beat-efficiency-gains-stock-slips-93CH-4874274",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:46:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Xos chief operating officer Sordoni sells $197,549 stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/xos-chief-operating-officer-sordoni-sells-197549-stock-93CH-4874272",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:45:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alkermes narcolepsy drug shows positive phase 2 trial results",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/alkermes-narcolepsy-drug-shows-positive-phase-2-trial-results-93CH-4874271",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:36:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AppFolio director Maurice Duca sells $2.15m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/appfolio-director-maurice-duca-sells-215m-in-shares-93CH-4874270",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:31:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: PicPay posts strong Q2 2026 beat as stock slips after hours",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-picpay-posts-strong-q2-2026-beat-as-stock-slips-after-hours-93CH-4874268",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:30:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Altria, Philip Morris International sign contract manufacturing deals",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/altria-philip-morris-international-sign-contract-manufacturing-deals-4873428",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:30:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-awarded-contract-with-ceiling-value-of-1312-billion-for-f15-program-4874267",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:24:50+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -88,50 +176,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Goosehead Insurance director Adrienne Kebodeaux sells $490,000 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/goosehead-insurance-director-adrienne-kebodeaux-sells-490000-in-shares-93CH-4874261",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:01:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Honest company SVP, supply chain, sells $35,994 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/honest-company-svp-supply-chain-sells-35994-in-shares-93CH-4874260",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:01:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Honest company SVP Mayle sells $30,743 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/honest-company-svp-mayle-sells-30743-in-shares-93CH-4874259",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:01:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nexstar media director Aulestia sells $56,040 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/nexstar-media-director-aulestia-sells-56040-in-common-stock-93CH-4874258",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:00:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Here are the major earnings before the open Tuesday",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636092-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -148,17 +192,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-24T21:58:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "La Rosa Holdings regains Nasdaq compliance after filing delay",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/la-rosa-holdings-regains-nasdaq-compliance-after-filing-delay-93CH-4874255",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:56:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -204,39 +237,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-24T21:53:25+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin eyes $80k for first time since mid-May after best week in over three years",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-77k-after-regulatory-hopes-fuel-strong-rebound-4872711",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:49:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morningstar executive chairman Joseph Mansueto sells $1.24m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-joseph-mansueto-sells-124m-in-shares-93CH-4874253",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:45:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cirrus Logic EVP Jeffrey Baumgartner sells $137,459 in CRUS stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cirrus-logic-evp-jeffrey-baumgartner-sells-137459-in-crus-stock-93CH-4874252",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:45:58+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -357,6 +357,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T20:56:55+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Here\u2019s how overvalued the stock market really is",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
@@ -379,23 +391,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T20:50:09+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "It\u2019s time to bet big on Nvidia\u2019s stock, says this analyst who thinks the market has it all wrong",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-24T20:50:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T20:36:16+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -453,18 +465,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-24T19:35:45+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T19:35:39+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -586,11 +586,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012",
+      "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa",
       "is_watchlist": true,
-      "timestamp": "2026-08-24T18:05:00+00:00",
+      "timestamp": "2026-08-24T18:21:14+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -598,11 +598,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Monday's session: most active stocks",
+      "headline": "What's going on in today's session: S&P500 most active stocks",
       "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=b3be8177a60d96e89e4174884314bfffd615b11a9ee49c3a207af913a831d6ec",
+      "url": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012",
       "is_watchlist": true,
-      "timestamp": "2026-08-24T18:00:00+00:00",
+      "timestamp": "2026-08-24T18:05:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -986,11 +986,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Rocket Mortgage pushes home equity loans to wipe out credit card debt \u2014 here's how that could backfire on homeowners",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:55:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T14:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Happens When Social Security Takes Your Benefits Because You Work Too Much?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/happens-social-security-takes-benefits-142000271.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:20:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Investor bullishness surges as BofA survey shows cash levels near historic lows",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/investor-bullishness-surges-bofa-survey-141800790.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:18:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1004,29 +1048,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-23T14:15:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should You Buy, Sell, or Hold Nu Holdings Now That Its Earnings Are Out?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-nu-holdings-134500229.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks-warp-134453676.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:44:53+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1047,29 +1068,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/500-reasons-buy-einride-stock-130002262.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T13:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump made a multimillion-dollar bond bet \u2014 and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:00:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HP exec reveals the Gen Z \u2018superpower\u2019 that he says helps young employees build \u2018a healthy relationship with work\u2019",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
