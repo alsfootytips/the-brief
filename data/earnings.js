@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-24T08:11:13+00:00",
+  "generated_at": "2026-08-24T09:04:53+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1334,14 +1334,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 1.1016,
         "revenue_estimate": 117300000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GEG",
-        "date": "2026-08-31",
-        "hour": "",
-        "eps_estimate": 0.203,
-        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
