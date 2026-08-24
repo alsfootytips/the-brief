@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T22:17:51.486422+00:00",
+  "generated_at": "2026-08-24T22:26:47.081215+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -29,12 +29,24 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
+      "ticker": "PWR",
+      "name": "Quanta Services",
+      "change_pct": -3.45,
+      "price": 617.26,
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T22:26:47.078307+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.55,
-      "price": 211.36,
+      "change_pct": -3.53,
+      "price": 211.39,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:17:51.328946+00:00",
+      "timestamp": "2026-08-24T22:26:47.078302+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,13 +55,24 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.54,
-      "price": 456.5,
+      "change_pct": -3.55,
+      "price": 456.45,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:17:51.328930+00:00",
+      "timestamp": "2026-08-24T22:26:47.078285+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Indiana governor calls for investigation of NIPSCO over slow storm response",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636422-indiana-governor-calls-for-investigation-of-nipsco-over-slow-storm-response?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:17:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -302,17 +325,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636361-joyy-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-24T21:35:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Noah Holdings Q2 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636368-noah-holdings-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:35:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -974,6 +986,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Duolingo Stock Is Shaking Off AI Fears",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html",
@@ -985,24 +1008,25 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AT&T's Dividend Costs the Company a Fixed Amount Every Quarter Regardless of Competitive Pressure From Starlink or Cable Rivals. Here's the Coverage Ratio That Actually Determines Whether It's Safe.",
+      "headline": "Should You Buy, Sell, or Hold Nu Holdings Now That Its Earnings Are Out?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ts-dividend-costs-company-fixed-133500953.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-nu-holdings-134500229.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T13:35:00+00:00",
+      "timestamp": "2026-08-23T13:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "$27 Billion in Buybacks: 3 Stocks Betting Their Strong Runs Aren\u2019t Over",
+      "headline": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/27-billion-buybacks-3-stocks-133500171.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks-warp-134453676.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T13:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-08-23T13:44:53+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1046,17 +1070,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Got $2M saved? You should (probably) retire immediately. Don't sacrifice it all for nothing",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/got-2m-saved-probably-retire-124500785.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:45:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
