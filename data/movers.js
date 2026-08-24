@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-24T01:16:25.125875+00:00",
+  "generated_at": "2026-08-24T02:45:41.383058+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -138,7 +138,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade\""
+      "move_reason": "News: \"Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week\""
     },
     {
       "ticker": "XLP",
@@ -172,7 +172,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSM...\""
+      "move_reason": "News: \"Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week\""
     }
   ],
   "losers": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSM...\""
+      "move_reason": "News: \"Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week\""
     },
     {
       "ticker": "APA",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade\""
+      "move_reason": "News: \"Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week\""
     },
     {
       "ticker": "NBIS",
