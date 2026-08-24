@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T02:45:41.388641+00:00",
+  "generated_at": "2026-08-24T03:40:18.198358+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 4.64,
       "price": 386.7,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T02:45:41.385853+00:00",
+      "timestamp": "2026-08-24T03:40:18.195571+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 5.97,
       "price": 18.99,
       "is_watchlist": false,
-      "timestamp": "2026-08-24T02:45:41.385849+00:00",
+      "timestamp": "2026-08-24T03:40:18.195567+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -58,10 +58,125 @@ window.theBriefLive = {
       "change_pct": -3.27,
       "price": 640.8,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T02:45:41.385839+00:00",
+      "timestamp": "2026-08-24T03:40:18.195559+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T03:38:59+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T03:27:11+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock futures flat as U.S. and Canada appear headed for trade war",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T03:02:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Mitchell Services posts FY2026 profit surge, shares rise",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-mitchell-services-posts-fy2026-profit-surge-shares-rise-93CH-4872588",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T03:01:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Data3 shares surge to record high on strong AI-fueled earnings",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/data3-shares-surge-to-record-high-on-strong-aifueled-earnings-93CH-4872587",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T02:59:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EVT FY26 slides: profit surges 52%, $800m asset sale planned",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/evt-fy26-slides-profit-surges-52-800m-asset-sale-planned-93CH-4872586",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T02:59:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EVT FY26 slides: profit jumps 52%, $800M divestment planned",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/evt-fy26-slides-profit-jumps-52-800m-divestment-planned-93CH-4872585",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T02:57:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T02:55:22+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shein\u2019s pursuit of an IPO: From New York to London to Hong Kong",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/sheins-pursuit-of-an-ipo-from-new-york-to-london-to-hong-kong-4872563",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T02:54:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shein launches up to $1.8 bln Hong Kong IPO after years of scrutiny",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-bln-hong-kong-ipo-after-years-of-scrutiny-4872584",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T02:43:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -82,102 +197,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/why-is-ampol-stock-surging-today-93CH-4872582",
       "is_watchlist": false,
       "timestamp": "2026-08-24T02:32:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Alibaba stock sliding today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-sliding-today-93CH-4872581",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:32:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/california-expected-to-seek-tv-channel-sales-from-paramountwarner-wsj-reports-4872493",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:30:31+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stock futures flat as U.S. and Canada appear headed for trade war",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:29:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T02:25:07+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alibaba to raise $10 bln via share placement to fund AI expansion; shares plunge",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/alibaba-to-raise-10-bln-via-share-placement-to-fund-ai-expansion-4872557",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:22:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US vows \u2019economic D-Day\u2019 as Iran threatens to halt all oil exports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522",
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T02:18:42+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist-4872535",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:18:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ventia HY26 slides: record 9.4% margin amid revenue transition",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ventia-hy26-slides-record-94-margin-amid-revenue-transition-93CH-4872579",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T02:14:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -682,17 +701,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
@@ -774,14 +782,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+      "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T02:48:41+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-08-23T06:39:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -855,23 +862,34 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T18:57:46+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iconic fast-food fried chicken chain closes over 300 restaurants",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T18:47:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Powerful Growth, Multiple Endorsements Bode Well for Oracle Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/powerful-growth-multiple-endorsements-bode-183002613.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T18:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-08-22T17:49:56+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -939,28 +957,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-just-started-selling-energy-153002015.html",
       "is_watchlist": false,
       "timestamp": "2026-08-22T15:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "When he dies, Warren Buffett wants 90% of wife\u2019s inheritance put into 1 investment. Here\u2019s what it is, and how to get it",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:05:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A $28.7 Billion Reason to Buy SK hynix Stock Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/28-7-billion-reason-buy-150002570.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-22T15:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
