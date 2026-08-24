@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-24T04:29:09.644090+00:00",
+  "generated_at": "2026-08-24T05:21:14.115472+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -199,6 +199,17 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"CoreWeave CEO Michael Intrator Sold Over 13,000 Shares for $1.2 Million. What Does This Me...\""
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 42.77,
+      "change_pct": -2.28,
+      "volume_ratio": 1.21,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     },
     {
       "ticker": "APA",
@@ -599,6 +610,16 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 42.77,
+      "change_pct": -2.28,
+      "volume_ratio": 1.21,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
     }
   ],
   "watchlist_radar": [
@@ -846,6 +867,13 @@ window.theBriefMovers = {
     }
   ],
   "sectors_radar": [
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "change_pct": -2.28,
+      "price": 42.77,
+      "watchlist_members": []
+    },
     {
       "ticker": "XLB",
       "name": "Materials Select Sector",
