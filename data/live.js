@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T21:55:52.434311+00:00",
+  "generated_at": "2026-08-24T22:17:51.486422+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -29,24 +29,12 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "change_pct": -3.02,
-      "price": 620.0,
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T21:55:52.431389+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.41,
-      "price": 211.65,
+      "change_pct": -3.55,
+      "price": 211.36,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T21:55:52.431384+00:00",
+      "timestamp": "2026-08-24T22:17:51.328946+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,13 +43,178 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.44,
-      "price": 456.96,
+      "change_pct": -3.54,
+      "price": 456.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T21:55:52.431367+00:00",
+      "timestamp": "2026-08-24T22:17:51.328930+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:15:46+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goosehead Insurance director Adrienne Kebodeaux sells $490,000 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/goosehead-insurance-director-adrienne-kebodeaux-sells-490000-in-shares-93CH-4874261",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:01:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Honest company SVP, supply chain, sells $35,994 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/honest-company-svp-supply-chain-sells-35994-in-shares-93CH-4874260",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:01:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Honest company SVP Mayle sells $30,743 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/honest-company-svp-mayle-sells-30743-in-shares-93CH-4874259",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nexstar media director Aulestia sells $56,040 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/nexstar-media-director-aulestia-sells-56040-in-common-stock-93CH-4874258",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:00:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Tuesday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636092-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:00:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "70,000 social and affordable homes to be built across England as part of \u00a339bn plan",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:58:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "La Rosa Holdings regains Nasdaq compliance after filing delay",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/la-rosa-holdings-regains-nasdaq-compliance-after-filing-delay-93CH-4874255",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:56:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:56:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:55:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:53:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:53:25+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin eyes $80k for first time since mid-May after best week in over three years",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-77k-after-regulatory-hopes-fuel-strong-rebound-4872711",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:49:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morningstar executive chairman Joseph Mansueto sells $1.24m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-joseph-mansueto-sells-124m-in-shares-93CH-4874253",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:45:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cirrus Logic EVP Jeffrey Baumgartner sells $137,459 in CRUS stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cirrus-logic-evp-jeffrey-baumgartner-sells-137459-in-crus-stock-93CH-4874252",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T21:45:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -106,28 +259,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-24T21:37:38+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nevada sues to block Trump administration\u2019s Colorado River plan",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/nevada-sues-to-block-trump-administrations-colorado-river-plan-4874244",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:36:49+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CONX acquires controlling stake in wireless carrier MobileX",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/conx-acquires-controlling-stake-in-wireless-carrier-mobilex-93CH-4874251",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:36:38+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -188,83 +319,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "nCino Q2 2027 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636363-ncino-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:35:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oura targets up to $3B in US IPO at a valuation exceeding $16B - Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/oura-targets-up-to-3b-in-us-ipo-at-a-valuation-exceeding-16b--bloomberg-4874250",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:34:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Faraday Future eliminates warrant obligations from March 2025 financing",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/faraday-future-eliminates-warrant-obligations-from-march-2025-financing-93CH-4874249",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:32:37+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Visa CEO Ryan McInerney sells $2.16m in stock, exercises options",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/visa-ceo-ryan-mcinerney-sells-216m-in-stock-exercises-options-93CH-4874247",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:31:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Danaher president & CEO Rainer Blair sells $12.7 million in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/danaher-president--ceo-rainer-blair-sells-127-million-in-company-stock-93CH-4874248",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:31:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Circle internet (CRCL) CFO Jeremy Fox-Geen sells $4.05m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/circle-internet-crcl-cfo-jeremy-foxgeen-sells-405m-in-shares-93CH-4874245",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:30:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.06%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-006-4874243",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:30:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
@@ -272,18 +326,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-24T21:26:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:25:32+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -353,17 +395,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-24T20:22:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crypto extends gains after biggest 3-day rally since 2023",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T20:02:22+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -462,16 +493,19 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
       "ticker": null,
-      "headline": "Trump\u2019s trade war with Canada could lead the U.S. back to quantitative easing",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T19:03:00+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "headline": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T19:08:56+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -512,17 +546,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-24T18:41:44+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A massive trade just happened in gold. The options market is buzzing",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:41:44+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -575,28 +598,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T17:23:54+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia says Groq racks will be online this year following $20 billion purchase",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T17:19:34+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "France, Saudi Arabia agree on \u20ac6 billion Dragon Ball Z theme park project near Paris - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1pSUXpFN2gtY3ZBNHRubzJEOGZOSE1lR0NfQmh6OHRaT052MUJaUUZlbTBrOFNXZWZiRXhoVnl6UjRFTlFjbVJsVXZ5TWYtS1B4eFN4UlkwUG9FMGRLdEtZZk5xNVlVOTA3RnQxSGRESWFTOTFOUTdMNFZrVVBCdnAxeVJoUzkwUnViWDZsX0ZwaVNacnlDcTEtOUk5Qk54aVllTlBjNTlITWtLYlVrNHVZLUFSSGNleVhtZGtOSm1XQjJtT29GRW9lNVR0QQ?oc=5",
@@ -642,17 +643,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "European stocks flat as markets weigh Iran tensions, await economic data - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFOcHRycnRBVzJHNi1CM1o1TWo5dHJha2xIcmFFbEQyTy1PQ2x1WWFSdkpWYjQtQ1RxcW5TYlhJbXE3TGE5S3RqazhrT0dMRjdVbW5rMEdPUk5BUWNrMkJqY0NILVpTNkhQeEJhcjBkc0NwS1ZkVDUyM1BSZkhrakNPUERDNk54LS1kd1BxLWRuVWRiQ084SHhQOG1GVW9GNm1EckhR?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T16:46:23+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Why The Nuclear Sector Still Has Room To Grow",
       "source": "SeekingAlpha",
@@ -689,23 +679,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cramer says this stock tied to the AI data center trade may be up next for a trim",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/cramer-says-this-stock-tied-to-the-ai-data-center-trade-may-be-up-next-for-a-trim.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T16:09:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html",
       "is_watchlist": false,
       "timestamp": "2026-08-24T16:07:35+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-trade-tariffs-greer.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T15:45:27+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -783,6 +773,21 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T13:17:35+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -911,17 +916,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Pubs and hotels could see business rates reformed after review",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T09:41:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Berkshire Hathaway Is A Net Buyer Of Stocks, Finally",
       "source": "SeekingAlpha",
@@ -931,6 +925,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T08:45:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -969,22 +974,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "headline": "Duolingo Stock Is Shaking Off AI Fears",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T13:30:00+00:00",
+      "timestamp": "2026-08-23T14:15:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.",
+      "headline": "AT&T's Dividend Costs the Company a Fixed Amount Every Quarter Regardless of Competitive Pressure From Starlink or Cable Rivals. Here's the Coverage Ratio That Actually Determines Whether It's Safe.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-under-1-000-130300789.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ts-dividend-costs-company-fixed-133500953.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T13:03:00+00:00",
+      "timestamp": "2026-08-23T13:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "$27 Billion in Buybacks: 3 Stocks Betting Their Strong Runs Aren\u2019t Over",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/27-billion-buybacks-3-stocks-133500171.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T13:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1031,28 +1058,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-23T12:45:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin Finally Wakes Up While U.S. Debt Hits $40 Trillion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-finally-wakes-while-u-123000444.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Walmart isn't losing any retail war",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/walmart-isnt-losing-any-retail-war-123000472.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T12:30:00+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -1311,17 +1316,6 @@ window.theBriefLive = {
       "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
       "is_watchlist": false,
       "timestamp": "2026-08-21T09:01:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Investors sell stocks and bonds as government efforts fail to soothe market",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940009/investors-sell-stocks-and-bonds-as-government-efforts-fail-to-soothe-market",
-      "is_watchlist": false,
-      "timestamp": "2026-08-21T08:44:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
