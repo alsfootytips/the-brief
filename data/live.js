@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-24T22:54:40.510371+00:00",
+  "generated_at": "2026-08-24T23:22:08.745506+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -31,10 +31,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -3.45,
-      "price": 617.27,
+      "change_pct": -3.02,
+      "price": 620.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:54:40.507348+00:00",
+      "timestamp": "2026-08-24T23:22:08.742608+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -43,10 +43,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -3.63,
-      "price": 211.18,
+      "change_pct": -3.66,
+      "price": 211.12,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:54:40.507343+00:00",
+      "timestamp": "2026-08-24T23:22:08.742602+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -55,13 +55,134 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.54,
-      "price": 456.49,
+      "change_pct": -3.63,
+      "price": 456.06,
       "is_watchlist": true,
-      "timestamp": "2026-08-24T22:54:40.507327+00:00",
+      "timestamp": "2026-08-24T23:22:08.742586+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:16:19+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:04:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New 10p coin enters circulation - will you spot one?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:03:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arcus Biosciences CAO Azoy sells $84,810 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arcus-biosciences-cao-azoy-sells-84810-in-stock-93CH-4874278",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:01:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Matson EVP Vic Angoco sells $510,784 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/matson-evp-vic-angoco-sells-510784-in-shares-93CH-4874279",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:01:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dream Finders Homes director Len Sturm buys $7,390 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dream-finders-homes-director-len-sturm-buys-7390-in-stock-93CH-4874277",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:01:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Community West Bancshares director Lokey acquires $1,405 common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/community-west-bancshares-director-lokey-acquires-1405-common-stock-93CH-4874276",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:01:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nevada sues to block Trump administration\u2019s Colorado River plan",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/nevada-sues-to-block-trump-administrations-colorado-river-plan-4874244",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T23:00:24+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TotalEnergies says profitably moving heavily discounted oil through Strait of Hormuz",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636423-totalenergies-says-profitably-moving-heavily-discounted-oil-through-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:56:57+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US SEC subpoenas Wall Street lenders over Situational Awareness meltdown, source says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-sec-sends-subpoenas-to-wall-street-banks-over-situational-awareness-nyt-reports-4874211",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:54:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T22:51:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -88,67 +209,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Xos chief operating officer Sordoni sells $197,549 stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/xos-chief-operating-officer-sordoni-sells-197549-stock-93CH-4874272",
+      "headline": "Here's what Jim Cramer says stock investors need to know about the bond market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T22:45:52+00:00",
+      "timestamp": "2026-08-24T22:40:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alkermes narcolepsy drug shows positive phase 2 trial results",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/alkermes-narcolepsy-drug-shows-positive-phase-2-trial-results-93CH-4874271",
+      "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T22:36:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AppFolio director Maurice Duca sells $2.15m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/appfolio-director-maurice-duca-sells-215m-in-shares-93CH-4874270",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:31:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: PicPay posts strong Q2 2026 beat as stock slips after hours",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-picpay-posts-strong-q2-2026-beat-as-stock-slips-after-hours-93CH-4874268",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:30:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Altria, Philip Morris International sign contract manufacturing deals",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/altria-philip-morris-international-sign-contract-manufacturing-deals-4873428",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:30:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-awarded-contract-with-ceiling-value-of-1312-billion-for-f15-program-4874267",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:24:50+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-24T22:26:01+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -276,17 +353,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:37:38+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Strattec Security Q4 2026 Earnings Preview",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636367-strattec-security-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -314,17 +380,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4636321-heico-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-24T21:35:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JOYY Q2 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636361-joyy-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:35:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -391,17 +446,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T20:50:09+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "It\u2019s time to bet big on Nvidia\u2019s stock, says this analyst who thinks the market has it all wrong",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
@@ -419,17 +463,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-24T20:22:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Manga-inspired theme park to be built near Paris",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T19:57:55+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -563,17 +596,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "We're downgrading 2 AI stocks \u2014 plus, what we need to see to turn more positive",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/were-downgrading-2-ai-stocks-plus-what-we-need-to-see-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:40:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
@@ -606,17 +628,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "France, Saudi Arabia agree on \u20ac6 billion Dragon Ball Z theme park project near Paris - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1pSUXpFN2gtY3ZBNHRubzJEOGZOSE1lR0NfQmh6OHRaT052MUJaUUZlbTBrOFNXZWZiRXhoVnl6UjRFTlFjbVJsVXZ5TWYtS1B4eFN4UlkwUG9FMGRLdEtZZk5xNVlVOTA3RnQxSGRESWFTOTFOUTdMNFZrVVBCdnAxeVJoUzkwUnViWDZsX0ZwaVNacnlDcTEtOUk5Qk54aVllTlBjNTlITWtLYlVrNHVZLUFSSGNleVhtZGtOSm1XQjJtT29GRW9lNVR0QQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T17:07:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -664,17 +675,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rail companies sued for \u00a35m over oil spill caused by derailment",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T16:30:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -986,11 +986,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "40% of companies posted fake job listings in 2024 \u2014 now lawmakers in multiple states are moving to ban them",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T15:25:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Rocket Mortgage pushes home equity loans to wipe out credit card debt \u2014 here's how that could backfire on homeowners",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T15:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX Stock: Boom or Bust?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-boom-bust-145600929.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:56:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1008,66 +1052,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/heres-truth-much-save-want-145000314.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T14:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T14:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "What Happens When Social Security Takes Your Benefits Because You Work Too Much?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/happens-social-security-takes-benefits-142000271.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:20:00+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Investor bullishness surges as BofA survey shows cash levels near historic lows",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/investor-bullishness-surges-bofa-survey-141800790.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:18:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Duolingo Stock Is Shaking Off AI Fears",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T14:15:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "500 Reasons to Buy Einride Stock Today",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/500-reasons-buy-einride-stock-130002262.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T13:00:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
