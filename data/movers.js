@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-25T05:48:17.330168+00:00",
+  "generated_at": "2026-08-25T06:47:07.825973+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -93,6 +93,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.36,
+      "change_pct": 0.34,
+      "volume_ratio": 1.01,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 533.65,
@@ -146,6 +157,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.88,
+      "change_pct": 0.04,
+      "volume_ratio": 1.0,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
       "move_reason": ""
     }
   ],
