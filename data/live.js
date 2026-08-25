@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-25T04:23:38.922223+00:00",
+  "generated_at": "2026-08-25T05:05:40.492138+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.65,
       "price": 616.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T04:23:38.919621+00:00",
+      "timestamp": "2026-08-25T05:05:40.489388+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -4.08,
       "price": 210.2,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T04:23:38.919616+00:00",
+      "timestamp": "2026-08-25T05:05:40.489384+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,10 +58,122 @@ window.theBriefLive = {
       "change_pct": -3.94,
       "price": 454.59,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T04:23:38.919600+00:00",
+      "timestamp": "2026-08-25T05:05:40.489367+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:49:18+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "RBA keeps rates unchanged on restrictive policy concerns despite persistent inflation",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636438-rba-keeps-rates-unchanged-on-restrictive-policy-concerns-despite-persistent-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:42:39+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/morning-bid-waiting-on-nvidia-for-next-leg-of-ai-rally-4874462",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:42:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin surges past $80,000 as crypto rally gathers pace",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:38:30+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is SK Hynix stock falling today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-falling-today-93CH-4874461",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:37:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Xpeng stock tumbling today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-xpeng-stock-tumbling-today-93CH-4874460",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:36:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aramco signs $3.7B in drilling, oilfield and AI deals with French companies",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636429-aramco-signs-37b-in-drilling-oilfield-and-ai-deals-with-french-companies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:35:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil steadies as investors weigh impact of latest US sanctions on Iran",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-investors-weigh-impact-of-expanded-us-sanctions-against-iran-4874373",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:24:25+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:22:09+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gorilla Tech earnings missed by $0.69, revenue topped estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/gorilla-tech-earnings-missed-by-069-revenue-topped-estimates-4874459",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:22:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -77,12 +189,35 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+      "headline": "Asian stocks fall as tech jitters deepen ahead of Nvidia earnings",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-tech-jitters-iran-sanctions-cloud-nvidia-outlook-4874458",
       "is_watchlist": false,
-      "timestamp": "2026-08-25T04:08:37+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-08-25T04:18:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran vows to retaliate after US widens sanctions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iran-vows-to-retaliate-after-us-widens-sanctions-4874350",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:12:28+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KKR to acquire Japanese beauty platform Ci FLAVORS",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/kkr-to-acquire-japanese-beauty-platform-ci-flavors-93CH-4874457",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:08:47+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -125,105 +260,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Navitas to acquire Claros for up to $232.8 million",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/navitas-to-acquire-claros-for-up-to-2328-million-93CH-4874449",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:48:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Navitas to acquire Claros for up to $232.8 million",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/navitas-to-acquire-claros-for-up-to-2328-million-93CH-4874448",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:48:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ctt pharmaceutical holdings CEO Ryan Khouri buys $115 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-holdings-ceo-ryan-khouri-buys-115-in-shares-93CH-4874444",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:31:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GenusPlus FY2026 slides: EBITDA tops $100M, revenue surges 70%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/genusplus-fy2026-slides-ebitda-tops-100m-revenue-surges-70-93CH-4874442",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:16:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Monadelphous FY26 slides: record revenue, shares fall on outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/monadelphous-fy26-slides-record-revenue-shares-fall-on-outlook-93CH-4874441",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:11:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WOTSO FY26 slides: coworking network doubles as margins compress",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/wotso-fy26-slides-coworking-network-doubles-as-margins-compress-93CH-4874440",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:09:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Acrow FY26 slides: revenue surges 27%, margins compress on mix shift",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/acrow-fy26-slides-revenue-surges-27-margins-compress-on-mix-shift-93CH-4874439",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:08:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "WOTSO FY26 slides: coworking network hits 40 sites, EBITDA up 1%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/wotso-fy26-slides-coworking-network-hits-40-sites-ebitda-up-1-93CH-4874438",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:08:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:05:12+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Porsche inks $1.5 billion deal for AI deployment with India\u2019s largest IT services firm Tata Consultancy",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
@@ -238,7 +274,7 @@ window.theBriefLive = {
         "Trump"
       ],
       "ticker": null,
-      "headline": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "headline": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": true,
@@ -302,18 +338,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-25T01:26:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T01:16:00+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -385,17 +409,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Exxon turning to more automated drilling in the Permian Basin to boost production - report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636425-exxon-turning-to-more-automated-drilling-in-the-permian-basin-to-boost-production---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T00:11:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
@@ -429,17 +442,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crude oil drops as investors take profits; U.S. sanctions 'look less dramatic than the rhetoric'",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636424-crude-oil-drops-as-investors-take-profits-us-sanctions-look-less-dramatic-than-the-rhetoric?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T23:47:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -983,6 +985,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:38:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As Cerebras Launches a New, Record-Setting AI Accelerator, Here\u2019s How You Should Play CBRS Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-launches-record-setting-ai-193002886.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html",
@@ -1016,55 +1040,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dropboxs-chief-accounting-officer-had-173219213.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:32:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I make $32K/month from 3 simple, boring websites",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/32k-month-3-simple-boring-173115568.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:31:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T17:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T17:00:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T17:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/last-chance-buy-nvidia-stock-165500851.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T16:55:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Burry Says He Sold Alibaba, Calling It Pricey Before Share Sale",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/burry-says-sold-alibaba-calling-164915099.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T16:49:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
