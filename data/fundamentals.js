@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-25T12:29:13.019901+00:00",
+  "generated_at": "2026-08-25T13:28:15.553549+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 19.99,
@@ -54,7 +54,7 @@ window.theBriefFundamentals = {
       "realized_vol_30d_pct": 11.24,
       "trailing_pe": null,
       "forward_pe": -70.36197,
-      "price_to_sales": 39.517136,
+      "price_to_sales": 42.311996,
       "price_to_book": 5.591167,
       "enterprise_to_ebitda": 232.42,
       "profit_margin": 0.03129,
@@ -62,7 +62,7 @@ window.theBriefFundamentals = {
       "operating_margin": -0.00223,
       "revenue_growth_yoy": 4.54,
       "earnings_growth_qoq": null,
-      "market_cap": 53549670400,
+      "market_cap": 57336987648,
       "beta": 1.434,
       "dividend_yield": null,
       "short_ratio": 2.78,
@@ -220,7 +220,7 @@ window.theBriefFundamentals = {
       "return_52w_high": -30.71,
       "return_52w_low": 36.88,
       "realized_vol_30d_pct": 3.0,
-      "trailing_pe": 47.63393,
+      "trailing_pe": 49.00919,
       "forward_pe": 5.107358,
       "price_to_sales": 28.699074,
       "price_to_book": 16.555103,
@@ -263,7 +263,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 55.9,
       "realized_vol_30d_pct": 2.08,
       "trailing_pe": 18.105423,
-      "forward_pe": 15.747971,
+      "forward_pe": 15.678143,
       "price_to_sales": 2.5114188,
       "price_to_book": 1.7959902,
       "enterprise_to_ebitda": 5.794,
