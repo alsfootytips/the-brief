@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-25T03:31:47.791685+00:00",
+  "generated_at": "2026-08-25T04:23:38.922223+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.65,
       "price": 616.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T03:31:47.788845+00:00",
+      "timestamp": "2026-08-25T04:23:38.919621+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -4.08,
       "price": 210.2,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T03:31:47.788840+00:00",
+      "timestamp": "2026-08-25T04:23:38.919616+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,10 +58,113 @@ window.theBriefLive = {
       "change_pct": -3.94,
       "price": 454.59,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T03:31:47.788823+00:00",
+      "timestamp": "2026-08-25T04:23:38.919600+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tuya Non-GAAP EPADS of $0.03 in-line, revenue of $92.9M beats by $5.07M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636431-tuya-non-gaap-epads-of-003-in-line-revenue-of-929m-beats-by-507m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:19:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:08:37+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Waste Management declares $0.945 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636428-waste-management-declares-0_945-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:05:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tuesday\u2019s Economic Calendar",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636308-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T04:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": true,
+      "timestamp": "2026-08-25T03:50:06+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Navitas to acquire Claros for up to $232.8 million",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/navitas-to-acquire-claros-for-up-to-2328-million-93CH-4874449",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T03:48:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Navitas to acquire Claros for up to $232.8 million",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/navitas-to-acquire-claros-for-up-to-2328-million-93CH-4874448",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T03:48:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ctt pharmaceutical holdings CEO Ryan Khouri buys $115 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-holdings-ceo-ryan-khouri-buys-115-in-shares-93CH-4874444",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T03:31:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GenusPlus FY2026 slides: EBITDA tops $100M, revenue surges 70%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/genusplus-fy2026-slides-ebitda-tops-100m-revenue-surges-70-93CH-4874442",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T03:16:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -110,17 +213,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-removes-syria-from-terrorism-sponsor-list-lifting-major-investment-obstacle-4874088",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:06:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
@@ -132,45 +224,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: GenusPlus posts record H2 2026 results, shares slip",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-genusplus-posts-record-h2-2026-results-shares-slip-93CH-4874437",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:03:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Porsche inks $1.5 billion deal for AI deployment with India\u2019s largest IT services firm Tata Consultancy",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
       "is_watchlist": false,
       "timestamp": "2026-08-25T03:01:16+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EverCommerce director Remer sells $293,569 in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/evercommerce-director-remer-sells-293569-in-common-stock-93CH-4874435",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:01:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is Tokio Marine stock rising today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-tokio-marine-stock-rising-today-93CH-4874434",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T03:00:49+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -232,6 +291,17 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asia shares fall on tech nerves; oil prices slip - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T01:26:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -346,32 +416,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T23:48:50+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T23:48:25+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -425,6 +469,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "World Markets Watchlist: August 24, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=40a4c571d84eda272a9a15031299da9b978418ae015af507cb114bbe5a79a964",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T23:23:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "'What you see is what you pay' - why some US restaurants are banning tips",
       "source": "BBC Business",
@@ -443,17 +499,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-24T23:03:42+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TotalEnergies says profitably moving heavily discounted oil through Strait of Hormuz",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636423-totalenergies-says-profitably-moving-heavily-discounted-oil-through-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:56:57+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -492,28 +537,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Indiana governor calls for investigation of NIPSCO over slow storm response",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636422-indiana-governor-calls-for-investigation-of-nipsco-over-slow-storm-response?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:17:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Tuesday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636092-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T22:00:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
@@ -530,17 +553,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-24T21:55:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T21:53:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -737,18 +749,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=28a0b1d17e9f4125a0a962072507893cab5497146ee4fa9163f537a2140b0c0d",
       "is_watchlist": true,
       "timestamp": "2026-08-24T15:40:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Don't Let Debt Fears Derail Market Perspective",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=07cc858fc09adad98b56763ffb4a2bbe28d5590ca4ef96e950feb5c8712a5a74",
-      "is_watchlist": true,
-      "timestamp": "2026-08-24T15:30:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -983,6 +983,50 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/play-mrvl-stock-now-marvell-183002715.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T18:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T18:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T17:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html",
@@ -1005,66 +1049,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them",
+      "headline": "Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-dropbox-executives-sold-shares-160536951.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/last-chance-buy-nvidia-stock-165500851.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T16:05:36+00:00",
+      "timestamp": "2026-08-23T16:55:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "VIG, VYM, and VYMI: Which Vanguard Dividend ETF Is Right for You?",
+      "headline": "Burry Says He Sold Alibaba, Calling It Pricey Before Share Sale",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vig-vym-vymi-vanguard-dividend-160500069.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/burry-says-sold-alibaba-calling-164915099.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-23T16:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Investing in IPOs Has Become a High-Stakes Coin Flip",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investing-ipos-become-high-160002837.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T16:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Walmart Fell 9%. I\u2019m Not Sure This Is Just a Walmart Problem",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-fell-9-m-not-153057565.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:30:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "40% of companies posted fake job listings in 2024 \u2014 now lawmakers in multiple states are moving to ban them",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T15:30:00+00:00",
+      "timestamp": "2026-08-23T16:49:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
