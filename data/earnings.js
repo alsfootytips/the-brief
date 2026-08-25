@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-25T08:23:55+00:00",
+  "generated_at": "2026-08-25T09:08:40+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -614,14 +614,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.7752,
         "revenue_estimate": 269167086,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MCFT",
-        "date": "2026-08-27",
-        "hour": "",
-        "eps_estimate": 0.6545,
-        "revenue_estimate": 103788396,
         "is_watchlist": false
       },
       {
