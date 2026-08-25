@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-25T05:05:40.492138+00:00",
+  "generated_at": "2026-08-25T05:48:17.335299+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": -3.65,
       "price": 616.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T05:05:40.489388+00:00",
+      "timestamp": "2026-08-25T05:48:17.332682+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": -4.08,
       "price": 210.2,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T05:05:40.489384+00:00",
+      "timestamp": "2026-08-25T05:48:17.332678+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,10 +58,88 @@ window.theBriefLive = {
       "change_pct": -3.94,
       "price": 454.59,
       "is_watchlist": true,
-      "timestamp": "2026-08-25T05:05:40.489367+00:00",
+      "timestamp": "2026-08-25T05:48:17.332661+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asian equities mixed amid tech pressure, geopolitical tensions, and Nvidia earnings watch",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636437-asian-equities-mixed-amid-tech-pressure-geopolitical-tensions-and-nvidia-earnings-watch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T05:42:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "More than 70,000 social and affordable homes to be built across England over 10 years",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T05:41:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T05:29:41+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta eyes consumer AI agent launch in coming weeks, new AI model in October - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636439-meta-eyes-consumer-ai-agent-launch-in-coming-weeks-new-ai-model-in-october---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T05:27:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hyundai Motor reaches tentative labor agreement with union, averting further strikes",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636432-hyundai-motor-reaches-tentative-labor-agreement-with-union-averting-further-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T05:14:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Woodside Energy Group raises dividend by 8% to $0.57",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636441-woodside-energy-group-raises-dividend-by-8-to-057?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T05:12:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SK Hynix union narrowly rejects wage deal by 25 votes - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636430-sk-hynix-union-narrowly-rejects-wage-deal-by-25-votes---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T05:06:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -132,7 +210,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Aramco signs $3.7B in drilling, oilfield and AI deals with French companies",
+      "headline": "Aramco signs $3.7B in drilling, oilfield, and AI deals with French companies",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636429-aramco-signs-37b-in-drilling-oilfield-and-ai-deals-with-french-companies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
@@ -178,17 +256,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tuya Non-GAAP EPADS of $0.03 in-line, revenue of $92.9M beats by $5.07M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636431-tuya-non-gaap-epads-of-003-in-line-revenue-of-929m-beats-by-507m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T04:19:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Asian stocks fall as tech jitters deepen ahead of Nvidia earnings",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-tech-jitters-iran-sanctions-cloud-nvidia-outlook-4874458",
@@ -217,28 +284,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/company-news/kkr-to-acquire-japanese-beauty-platform-ci-flavors-93CH-4874457",
       "is_watchlist": false,
       "timestamp": "2026-08-25T04:08:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Waste Management declares $0.945 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636428-waste-management-declares-0_945-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T04:05:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tuesday\u2019s Economic Calendar",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636308-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T04:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -342,17 +387,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Europe may need \u20ac100 gas to secure sufficient winter supply, Goldman Sachs says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636427-europe-may-need-100-gas-to-secure-sufficient-winter-supply-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T01:10:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Iran vows to retaliate after US widens sanctions - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
@@ -361,17 +395,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. RIN prices plunge after EPA delays biofuel compliance deadline - Reuters",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636426-us-rin-prices-plunge-after-epa-delays-biofuel-compliance-deadline---reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T00:42:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -387,34 +410,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "More than 70,000 social and affordable homes to be built across England as part of \u00a339bn plan",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T00:32:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-08-25T00:15:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T00:05:29+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -985,6 +986,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:49:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T19:43:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
@@ -1029,44 +1052,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Target admits it still has big problems to fix",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/target-admits-still-big-problems-180300058.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-23T18:03:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T18:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dropboxs-chief-accounting-officer-had-173219213.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T17:32:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I make $32K/month from 3 simple, boring websites",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/video/32k-month-3-simple-boring-173115568.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T17:31:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-23T17:30:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
