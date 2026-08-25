@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-25T22:27:31+00:00",
+  "generated_at": "2026-08-25T22:56:50+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -603,7 +603,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LUCK",
         "date": "2026-08-27",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.0363,
         "revenue_estimate": 318596388,
         "is_watchlist": false
