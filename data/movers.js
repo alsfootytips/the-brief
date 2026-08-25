@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-25T06:47:07.825973+00:00",
+  "generated_at": "2026-08-25T07:43:32.619851+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -93,17 +93,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 142.36,
-      "change_pct": 0.34,
-      "volume_ratio": 1.01,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "move_reason": ""
-    },
-    {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 533.65,
@@ -112,6 +101,18 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.04,
+      "change_pct": 0.25,
+      "volume_ratio": 0.17,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     },
     {
@@ -138,6 +139,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.66,
+      "change_pct": 0.15,
+      "volume_ratio": 0.25,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 53.58,
@@ -157,17 +170,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 108.88,
-      "change_pct": 0.04,
-      "volume_ratio": 1.0,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
       "move_reason": ""
     }
   ],
@@ -242,7 +244,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes\""
+      "move_reason": "News: \"Backblaze: The Backup Drag Is Fading\""
     },
     {
       "ticker": "PLTR",
@@ -386,7 +388,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes\""
+      "move_reason": "News: \"Backblaze: The Backup Drag Is Fading\""
     },
     {
       "ticker": "DG",
