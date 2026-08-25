@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-25T01:14:47.520256+00:00",
+  "generated_at": "2026-08-25T02:32:30.614636+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -536,7 +536,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 763.47,
       "change_pct": -0.29,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.79,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
