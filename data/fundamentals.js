@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-08-26T05:16:44.646518+00:00",
+  "generated_at": "2026-08-26T06:00:17.750017+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 24.37,
@@ -65,8 +65,8 @@ window.theBriefFundamentals = {
       "market_cap": 60343705600,
       "beta": 1.434,
       "dividend_yield": null,
-      "short_ratio": 2.78,
-      "short_percent_of_float": 0.276,
+      "short_ratio": 2.12,
+      "short_percent_of_float": 0.2344,
       "analyst_recs": {
         "strongBuy": 7,
         "buy": 11,
@@ -191,8 +191,8 @@ window.theBriefFundamentals = {
       "market_cap": 14487034880,
       "beta": 0.348,
       "dividend_yield": 2.33,
-      "short_ratio": 5.66,
-      "short_percent_of_float": 0.11310001,
+      "short_ratio": 4.72,
+      "short_percent_of_float": 0.09819999,
       "analyst_recs": {
         "strongBuy": 3,
         "buy": 8,
@@ -233,8 +233,8 @@ window.theBriefFundamentals = {
       "market_cap": 25713072128,
       "beta": 0.633,
       "dividend_yield": 0.64,
-      "short_ratio": 13.48,
-      "short_percent_of_float": 0.090900004,
+      "short_ratio": 12.68,
+      "short_percent_of_float": 0.092,
       "analyst_recs": {
         "strongBuy": 2,
         "buy": 4,
@@ -367,8 +367,8 @@ window.theBriefFundamentals = {
       "market_cap": 782249361408,
       "beta": 2.489,
       "dividend_yield": null,
-      "short_ratio": 1.34,
-      "short_percent_of_float": 0.0232,
+      "short_ratio": 1.42,
+      "short_percent_of_float": 0.024600001,
       "analyst_recs": {
         "strongBuy": 16,
         "buy": 32,
@@ -451,8 +451,8 @@ window.theBriefFundamentals = {
       "market_cap": 27039510528,
       "beta": 0.235,
       "dividend_yield": 1.88,
-      "short_ratio": 3.1,
-      "short_percent_of_float": 0.038599998,
+      "short_ratio": 3.05,
+      "short_percent_of_float": 0.0334,
       "analyst_recs": {
         "strongBuy": 10,
         "buy": 8,
@@ -535,8 +535,8 @@ window.theBriefFundamentals = {
       "market_cap": 246819323904,
       "beta": 1.033,
       "dividend_yield": 0.21,
-      "short_ratio": 2.87,
-      "short_percent_of_float": 0.032,
+      "short_ratio": 3.05,
+      "short_percent_of_float": 0.0298,
       "analyst_recs": {
         "strongBuy": 11,
         "buy": 24,
