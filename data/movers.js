@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-26T07:02:21.376790+00:00",
+  "generated_at": "2026-08-26T07:59:36.259432+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -306,28 +306,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Dick's Sporting Goods, Intuit And 3 Stocks To Watch Heading Into Tuesday\""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 141.68,
-      "change_pct": -0.48,
-      "volume_ratio": 1.22,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 108.5,
-      "change_pct": -0.35,
-      "volume_ratio": 1.05,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "move_reason": ""
     },
     {
       "ticker": "XLI",
