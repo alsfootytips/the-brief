@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-26T14:27:15+00:00",
+  "generated_at": "2026-08-26T16:01:01+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -1345,14 +1345,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "CANG",
-        "date": "2026-09-02",
-        "hour": "",
-        "eps_estimate": -0.918,
-        "revenue_estimate": 104009400,
-        "is_watchlist": false
-      },
-      {
         "ticker": "CHPT",
         "date": "2026-09-02",
         "hour": "",
@@ -1795,14 +1787,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "KEQU",
-        "date": "2026-09-03",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "KFY",
         "date": "2026-09-03",
         "hour": "",
@@ -2060,14 +2044,6 @@ window.theBriefEarnings = {
       }
     ],
     "2026-09-04": [
-      {
-        "ticker": "ABM",
-        "date": "2026-09-04",
-        "hour": "",
-        "eps_estimate": 1.0244,
-        "revenue_estimate": 2332753711,
-        "is_watchlist": false
-      },
       {
         "ticker": "ARDC",
         "date": "2026-09-04",
@@ -2329,6 +2305,14 @@ window.theBriefEarnings = {
     ],
     "2026-09-08": [
       {
+        "ticker": "ABM",
+        "date": "2026-09-08",
+        "hour": "",
+        "eps_estimate": 1.0244,
+        "revenue_estimate": 2332753711,
+        "is_watchlist": false
+      },
+      {
         "ticker": "ADSE",
         "date": "2026-09-08",
         "hour": "",
@@ -2374,6 +2358,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0877,
         "revenue_estimate": 0,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AVO",
+        "date": "2026-09-08",
+        "hour": "",
+        "eps_estimate": 0.1338,
+        "revenue_estimate": 393319250,
         "is_watchlist": false
       },
       {
@@ -2547,6 +2539,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "KEQU",
+        "date": "2026-09-09",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "KR",
         "date": "2026-09-09",
         "hour": "",
@@ -2560,6 +2560,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": -0.0343,
         "revenue_estimate": 0,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NNOX",
+        "date": "2026-09-09",
+        "hour": "",
+        "eps_estimate": -0.1666,
+        "revenue_estimate": 5493036,
         "is_watchlist": false
       },
       {
