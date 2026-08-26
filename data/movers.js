@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-26T04:39:17.455292+00:00",
+  "generated_at": "2026-08-26T05:16:44.512470+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -151,7 +151,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)\""
+      "move_reason": "News: \"PCE Price Index Preview And EUR/USD Technical Analysis\""
     },
     {
       "ticker": "SPY",
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)\""
+      "move_reason": "News: \"PCE Price Index Preview And EUR/USD Technical Analysis\""
     },
     {
       "ticker": "NBIS",
