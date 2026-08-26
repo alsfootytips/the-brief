@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-26T02:47:35.869234+00:00",
+  "generated_at": "2026-08-26T03:53:30.908747+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -3.01,
       "price": 58.3,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T02:47:35.866361+00:00",
+      "timestamp": "2026-08-26T03:53:30.906515+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.31,
       "price": 220.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T02:47:35.866357+00:00",
+      "timestamp": "2026-08-26T03:53:30.906512+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -3.96,
       "price": 41.26,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T02:47:35.866345+00:00",
+      "timestamp": "2026-08-26T03:53:30.906502+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": 5.07,
       "price": 479.9,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T02:47:35.866336+00:00",
+      "timestamp": "2026-08-26T03:53:30.906496+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -65,11 +65,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Australia inflation runs hot in July, adding to rate hike risk",
+      "headline": "Prime Financial FY26 slides: revenue jumps 22%, recurring income hits 85%",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/australia-inflation-tops-forecasts-in-july-adds-to-rate-risk-4876166",
+      "url": "https://www.investing.com/news/company-news/prime-financial-fy26-slides-revenue-jumps-22-recurring-income-hits-85-93CH-4876236",
       "is_watchlist": false,
-      "timestamp": "2026-08-26T02:43:12+00:00",
+      "timestamp": "2026-08-26T03:47:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alibaba shares rise as Jack Ma buys $76 million stake amid AI push",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-shares-rise-as-jack-ma-buys-76-million-stake-amid-ai-push-4876235",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T03:47:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Worley wins three U.S. contracts for data center energy projects",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/worley-wins-three-us-contracts-for-data-center-energy-projects-93CH-4876234",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T03:46:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China\u2019s Huawei, US PC maker HP sign multi-year Wi-Fi patent deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-huawei-us-pc-maker-hp-sign-multiyear-wifi-patent-deal-4876233",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T03:42:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Woolworths stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-woolworths-stock-surging-today-93CH-4876232",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T03:38:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Prime Financial Group lifts FY26 revenue 22% in H2 2026",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-prime-financial-group-lifts-fy26-revenue-22-in-h2-2026-93CH-4876231",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T03:37:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Tesla has been caught up in a massive car recall in China",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T03:33:59+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -77,55 +143,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: FWD Group posts record H1 2026 profit as shares rise 6.6%",
+      "headline": "Sandfire FY26 slides: profit triples, returns to dividend after debt repayment",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fwd-group-posts-record-h1-2026-profit-as-shares-rise-66-93CH-4876217",
+      "url": "https://www.investing.com/news/company-news/sandfire-fy26-slides-profit-triples-returns-to-dividend-after-debt-repayment-93CH-4876229",
       "is_watchlist": false,
-      "timestamp": "2026-08-26T02:43:01+00:00",
+      "timestamp": "2026-08-26T03:22:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20",
+      "headline": "Why is Alibaba stock climbing today?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/boj-chief-ueda-to-skip-jackson-hole-shifts-market-focus-to-g20-4876207",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-climbing-today-93CH-4876228",
       "is_watchlist": false,
-      "timestamp": "2026-08-26T02:42:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Ingenia posts strong H2 2026 but shares fall",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ingenia-posts-strong-h2-2026-but-shares-fall-93CH-4876216",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T02:42:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Duratec posts higher profit in H2 2026 on record backlog",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-duratec-posts-higher-profit-in-h2-2026-on-record-backlog-93CH-4876215",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T02:41:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Woolworths FY2026 slides: profit surges 12.7%, AI drives growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/woolworths-fy2026-slides-profit-surges-127-ai-drives-growth-93CH-4876214",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T02:35:15+00:00",
+      "timestamp": "2026-08-26T03:21:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -140,28 +173,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Symbotic CTO James Kuffner sells $160,421 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/symbotic-cto-james-kuffner-sells-160421-in-stock-93CH-4876213",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T02:32:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Helloworld FY26 slides: EBITDA rises 8% despite Middle East disruption",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/helloworld-fy26-slides-ebitda-rises-8-despite-middle-east-disruption-93CH-4876212",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T02:32:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -362,17 +373,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-25T23:29:57+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US spy chief visits Russia for meetings, media reports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T23:26:54+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -613,6 +613,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-25T20:27:12+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T19:52:43+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1000,17 +1011,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Burnham refuses to rule out tax rises in autumn Budget",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T06:40:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "Dick's Sporting Goods, Intuit And 3 Stocks To Watch Heading Into Tuesday",
       "source": "Benzinga",
@@ -1106,66 +1106,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Rout in Chipmakers Weighs on Broader Market",
+      "headline": "Analysts Fall Over Themselves With Bullish Ratings On IBD Stock Of The Day",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rout-chipmakers-weighs-broader-market-151143186.html",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/jersey-mikes-jmke-stock-of-the-day/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T15:11:43+00:00",
+      "timestamp": "2026-08-24T16:03:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Billionaire Leon Cooperman Says Investors Are Acting Like \u2018Pavlov\u2019s Dog\u2019 \u2014 Reveals 2 New Stock Picks",
+      "headline": "I Dug Into Michael Burry\u2019s Nvidia Post So You Don\u2019t Have To. Here\u2019s Why I Think He\u2019s Just Fishing.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-investors-145743521.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dug-michael-burry-nvidia-post-160235766.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T14:57:43+00:00",
+      "timestamp": "2026-08-24T16:02:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cattle Prices Struggle but Get Some Bullish USDA Data; Lean Hog Prices Mired at 12-Month Low",
+      "headline": "Delta CEO Ed Bastian says AI could boost profits by 50% as airline tests AI-set fares on 3% of tickets",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/cattle-prices-struggle-bullish-usda-145144527.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/delta-ceo-ed-bastian-says-160000381.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T14:51:44+00:00",
+      "timestamp": "2026-08-24T16:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Alibaba Announces Share Placement to Raise Money for AI Efforts",
+      "headline": "Stellantis Gets Squeezed at the Border",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-announces-share-placement-raise-145024787.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-gets-squeezed-border-155837261.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T14:50:24+00:00",
+      "timestamp": "2026-08-24T15:58:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Make This 1 Trade Now as Inflation Still Runs Hot",
+      "headline": "FTC settles anti-trust suit against Zillow, Redfin",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/1-trade-now-inflation-still-144025344.html",
+      "url": "https://finance.yahoo.com/real-estate/articles/ftc-settles-anti-trust-suit-155124897.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T14:40:25+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-24T15:51:24+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "headline": "Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mckesson-stock-outlook-wall-street-143920869.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-24T14:39:20+00:00",
+      "timestamp": "2026-08-24T15:47:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ahead of CrowdStrike Earnings, Here's What Barchart Data Says Comes Next for CRWD Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-crowdstrike-earnings-heres-barchart-154036360.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T15:40:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1203,17 +1214,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why gold and silver prices have added $5 trillion in value",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/article/why-gold-and-silver-prices-have-added-5-trillion-in-value-092246961.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T09:22:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
