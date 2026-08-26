@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-26T06:00:17.622406+00:00",
+  "generated_at": "2026-08-26T07:02:21.376790+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -107,18 +107,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 142.34,
-      "change_pct": 0.47,
-      "volume_ratio": 1.23,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "MSFT",
       "name": "MSFT",
       "price": 489.51,
@@ -173,6 +161,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 43.31,
+      "change_pct": 0.21,
+      "volume_ratio": 0.76,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -307,6 +306,28 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Dick's Sporting Goods, Intuit And 3 Stocks To Watch Heading Into Tuesday\""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 141.68,
+      "change_pct": -0.48,
+      "volume_ratio": 1.22,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.5,
+      "change_pct": -0.35,
+      "volume_ratio": 1.05,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": ""
     },
     {
       "ticker": "XLI",

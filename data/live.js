@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-26T06:00:17.627890+00:00",
+  "generated_at": "2026-08-26T07:02:21.382325+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -3.01,
       "price": 58.3,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T06:00:17.625002+00:00",
+      "timestamp": "2026-08-26T07:02:21.379515+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.31,
       "price": 220.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T06:00:17.624999+00:00",
+      "timestamp": "2026-08-26T07:02:21.379511+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -3.96,
       "price": 41.26,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T06:00:17.624988+00:00",
+      "timestamp": "2026-08-26T07:02:21.379500+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,10 +57,165 @@ window.theBriefLive = {
       "change_pct": 5.07,
       "price": 479.9,
       "is_watchlist": true,
-      "timestamp": "2026-08-26T06:00:17.624979+00:00",
+      "timestamp": "2026-08-26T07:02:21.379491+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:53:17+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JATT III Acquisition prices $60M IPO at $10 per share",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636857-jatt-iii-acquisition-prices-60m-ipo-at-10-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:53:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Couche-Tard launches $8.6 billion \u017babka tender offer in its biggest deal yet",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alimentation-couchetard-launches-tender-offer-for-all-zabka-shares-4876362",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:49:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MPC Container Ships Q2 2026 slides: $2.2bn backlog, fleet renewal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/mpc-container-ships-q2-2026-slides-22bn-backlog-fleet-renewal-93CH-4876374",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:49:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JPMorgan downgrades EPAM Systems stock rating on reorganization",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-epam-systems-stock-rating-on-reorganization-93CH-4876373",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:48:58+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jefferies downgrades TJX stock rating on Marmaxx slowdown concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-downgrades-tjx-stock-rating-on-marmaxx-slowdown-concerns-93CH-4876372",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:48:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Roth/MKM initiates Aureus Greenway stock with buy rating",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/rothmkm-initiates-aureus-greenway-stock-with-buy-rating-93CH-4876371",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:48:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Roth/MKM cuts ReNew Power stock rating on take-private deal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/rothmkm-cuts-renew-power-stock-rating-on-takeprivate-deal-93CH-4876370",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:48:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lynas expands global footprint, eyes new rare earths supply deals",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/lynas-expands-global-footprint-eyes-new-rare-earths-supply-deals-4876361",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:48:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is ANTA Sports stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-anta-sports-stock-surging-today-93CH-4876369",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:43:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Technip Energies awarded significant offshore engineering contract by L&T for ADNOC project",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636853-technip-energies-awarded-significant-offshore-engineering-contract-by-lt-for-adnoc-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:42:28+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BNP Paribas, KB Kookmin eye 15% stake in Vietnam\u2019s Techcombank - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4636851-bnp-paribas-kb-kookmin-eye-15-stake-in-vietnams-techcombank---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:34:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:30:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T06:24:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -76,101 +231,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Interest rates must rise further, ECB\u2019s Schnabel tells Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/interest-rates-must-rise-further-ecbs-schnabel-tells-bloomberg-4876321",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:48:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SoftBank considers up to $20B bond sale to fund OpenAI investment: Bloomberg",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4636852-softbank-considers-up-to-20b-bond-sale-to-fund-openai-investment-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-26T05:47:05+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Aura Minerals director Bruno Sousa Mauad sells $19.6m in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/aura-minerals-director-bruno-sousa-mauad-sells-196m-in-common-stock-93CH-4876320",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:46:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mercury Systems CEO Ballhaus sells $15.7m in common stock after option exercise",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mercury-systems-ceo-ballhaus-sells-157m-in-common-stock-after-option-exercise-93CH-4876319",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:46:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cummins VP Earl Newsome sells $399,410 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cummins-vp-earl-newsome-sells-399410-in-company-stock-93CH-4876318",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:45:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ezcorp chief legal officer sells $1.04m in Class A stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ezcorp-chief-legal-officer-sells-104m-in-class-a-stock-93CH-4876317",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:45:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ANZ says sticky Australia inflation raises risk of November RBA rate hike",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/anz-says-sticky-australia-inflation-raises-risk-of-november-rba-rate-hike-4876316",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:44:58+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hyundai Motor shares climb after tentative union deal reached",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/hyundai-motor-shares-climb-after-tentative-union-deal-reached-93CH-4876310",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:32:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OppFi CEO Todd Schwartz buys $24,830 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/oppfi-ceo-todd-schwartz-buys-24830-in-stock-93CH-4876303",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:31:10+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -195,51 +261,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China's YMTC sets sights on Samsung, SK Hynix in race for NAND leadership - report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636842-chinas-ymtc-sets-sights-on-samsung-sk-hynix-in-race-for-nand-leadership---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T05:13:12+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australia's July inflation moderates to 3.5% but beats estimates",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636848-australia-july-inflation-moderates-to-35-but-beats-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T04:51:13+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T04:50:05+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. halts visa appointments worldwide",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4636844-us-halts-visa-appointments-worldwide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T04:49:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -287,17 +308,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T02:06:21+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -354,6 +364,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-26T00:34:03+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -441,18 +462,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Winter energy prices expected to rise to three-year high",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T23:07:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - Reuters",
+      "headline": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
       "is_watchlist": false,
@@ -532,6 +542,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Louis Navellier has blunt message on Nvidia\u2019s reign before earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T21:47:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
@@ -539,18 +560,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-25T21:26:01+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T21:07:56+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -604,7 +613,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-25T19:50:24+00:00",
+      "timestamp": "2026-08-25T19:45:00+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -1053,88 +1062,82 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Keep This Renewable Energy Stock Close Until November",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keep-renewable-energy-stock-close-192608417.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T19:26:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michael Burry Says He Would Buy Alibaba Stock When It Crashes 50%. You Shouldn\u2019t Wait That Long.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-buy-alibaba-192225348.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T19:22:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia Scored an H200 Win in China, But These Analysts Warn It May Not Be a Reason to Buy NVDA Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-scored-h200-win-china-192105519.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T19:21:05+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Secondaries lifted 2025 foundation returns, but it's mostly paper gains",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/secondaries-lifted-2025-foundation-returns-191958364.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T19:19:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-24T19:16:04+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple (AAPL)\u2019s China AI Strategy: Why Remove the Alibaba (BABA) Guide?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-china-ai-strategy-191543194.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-24T19:15:43+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html",
       "is_watchlist": false,
       "timestamp": "2026-08-24T19:13:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "QQQ is Still in a Negative Gamma Regime. Here\u2019s How a \u2018Put Wall\u2019 and Fibonacci Support Could Come Into Play.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/qqq-still-negative-gamma-regime-180827277.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:08:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Generator Stock Has Been Crushed. But Data Center Orders Just Became a $1 Billion Growth Story",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:07:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street is rotating out of 2026's biggest winners: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/wall-street-is-rotating-out-of-2026s-biggest-winners-chart-of-the-day-180639239.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:06:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Behind the Ticker: KMEM Bets on Memory Chip Bottlenecks",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-kmem-bets-memory-180513510.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:05:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Visa Just Put Hims & Hers in the Penalty Box\u2014Here\u2019s Why It Matters",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/visa-just-put-hims-hers-180500136.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Teradyne, Lumentum Back On Analysts' Earnings Radar, With Two More Stocks On Watch",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/teradyne-ter-stock/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:03:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "India Is Finally Getting Its First Tokenized Corporate Bond",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/india-finally-getting-first-tokenized-180221515.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-24T18:02:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
