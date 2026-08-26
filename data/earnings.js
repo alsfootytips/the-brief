@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-26T08:54:56+00:00",
+  "generated_at": "2026-08-26T09:41:11+00:00",
   "by_date": {
     "2026-08-26": [
       {
@@ -166,6 +166,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.5406,
         "revenue_estimate": 45798000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GEG",
+        "date": "2026-08-26",
+        "hour": "",
+        "eps_estimate": 0.203,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -754,6 +762,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CANG",
+        "date": "2026-08-31",
+        "hour": "",
+        "eps_estimate": -0.918,
+        "revenue_estimate": 104009400,
         "is_watchlist": false
       },
       {
