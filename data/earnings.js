@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-27T21:28:09+00:00",
+  "generated_at": "2026-08-27T23:54:47+00:00",
   "by_date": {
     "2026-08-27": [
       {
@@ -805,7 +805,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CHA",
         "date": "2026-08-28",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.3722,
         "revenue_estimate": 3610963786,
         "is_watchlist": false
@@ -813,7 +813,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NA",
         "date": "2026-08-28",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -927,7 +927,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LX",
         "date": "2026-08-31",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -959,7 +959,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PXS",
         "date": "2026-08-31",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.202,
         "revenue_estimate": 11493800,
         "is_watchlist": false
