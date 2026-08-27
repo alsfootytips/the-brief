@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-27T03:19:22+00:00",
+  "generated_at": "2026-08-27T14:28:28+00:00",
   "by_date": {
     "2026-08-27": [
       {
@@ -10,6 +10,13 @@ window.theBriefEarnings = {
         "revenue_estimate": 11532252077,
         "is_watchlist": true,
         "history": [
+          {
+            "period": "2027-06-30",
+            "actual": 2.23,
+            "estimate": 2.0559,
+            "beat": true,
+            "surprise_pct": 8.4683
+          },
           {
             "period": "2026-06-30",
             "actual": 2,
@@ -30,13 +37,6 @@ window.theBriefEarnings = {
             "estimate": 0.9739,
             "beat": true,
             "surprise_pct": 31.4303
-          },
-          {
-            "period": "2025-09-30",
-            "actual": 1.86,
-            "estimate": 1.6145,
-            "beat": true,
-            "surprise_pct": 15.2059
           }
         ]
       },
@@ -62,6 +62,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.3504,
         "revenue_estimate": 1128021784,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AVNW",
+        "date": "2026-08-27",
+        "hour": "bmo",
+        "eps_estimate": 0.5566,
+        "revenue_estimate": 112327887,
         "is_watchlist": false
       },
       {
@@ -246,14 +254,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.7752,
         "revenue_estimate": 269167086,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MEI",
-        "date": "2026-08-27",
-        "hour": "",
-        "eps_estimate": -0.1414,
-        "revenue_estimate": 240358113,
         "is_watchlist": false
       },
       {
@@ -490,6 +490,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PXS",
+        "date": "2026-08-31",
+        "hour": "",
+        "eps_estimate": 0.202,
+        "revenue_estimate": 11493800,
         "is_watchlist": false
       },
       {
