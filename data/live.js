@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-27T02:28:40.636496+00:00",
+  "generated_at": "2026-08-27T03:19:22.624597+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.6,
       "price": 625.5,
       "is_watchlist": true,
-      "timestamp": "2026-08-27T02:28:40.463170+00:00",
+      "timestamp": "2026-08-27T03:19:22.621884+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.04,
       "price": 219.53,
       "is_watchlist": true,
-      "timestamp": "2026-08-27T02:28:40.463166+00:00",
+      "timestamp": "2026-08-27T03:19:22.621881+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 5.21,
       "price": 975.01,
       "is_watchlist": true,
-      "timestamp": "2026-08-27T02:28:40.463153+00:00",
+      "timestamp": "2026-08-27T03:19:22.621870+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": 5.46,
       "price": 92.84,
       "is_watchlist": true,
-      "timestamp": "2026-08-27T02:28:40.463144+00:00",
+      "timestamp": "2026-08-27T03:19:22.621862+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -52,11 +52,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "China industrial profit growth in July slumps to 7-month low of 11.2%",
+      "headline": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia\u2019s eye",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-27T03:17:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China industrial profits growth cools to slowest in seven months as economic slowdown deepens",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-27T01:54:10+00:00",
+      "timestamp": "2026-08-27T03:16:01+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -67,10 +78,54 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-27T01:50:25+00:00",
+      "timestamp": "2026-08-27T03:02:31+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Veeva targets maintaining over 70% CRM share as it expects first Falcon go-lives this year",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4637261-veeva-targets-maintaining-over-70-percent-crm-share-as-it-expects-first-falcon-go-lives-this?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-27T03:00:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-08-27T02:41:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lantronix expects unmanned systems to reach 15% to 20% of revenue in fiscal 2027 as it guides Q1 revenue to $31M to $33M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4637260-lantronix-expects-unmanned-systems-to-reach-15-percent-to-20-percent-of-revenue-in-fiscal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-27T02:40:03+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NVIDIA expects ~70% fiscal 2028 revenue growth as it resets gross margin outlook to 72%-73%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4637259-nvidia-expects-70-percent-fiscal-2028-revenue-growth-as-it-resets-gross-margin-outlook-to-72?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-27T02:30:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -81,6 +136,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-27T01:40:10+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices extend losses on expectations talks to ease Middle East supply woes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-27T01:20:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -269,23 +335,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. diesel inventories reach record low with winter heating season approaching",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4637253-us-diesel-inventories-reach-record-low-with-winter-heating-season-approaching?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Qatar PM to visit Tehran to pursue mediation efforts - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-26T23:55:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Agilent forecasts FY2026 revenue of $7.49B-$7.51B and EPS of $6.18-$6.21 as China returns to 9% growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4637254-agilent-forecasts-fy2026-revenue-of-7_49b-7_51b-and-eps-of-6_18-6_21-as-china-returns-to-9?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T23:31:05+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-26T23:15:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -346,17 +401,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wheat futures surge to three-year highs on Russia-Ukraine escalation fears",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4637252-wheat-futures-surge-to-three-year-highs-on-russia-ukraine-escalation-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T22:42:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
@@ -378,6 +422,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "NVIDIA Corporation (NVDA) Q2 2027 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a8e4f708b4a8db8c6588a39d67b20f5b71d52e07fff4e3e832bad61b2ad1b6c6",
+      "is_watchlist": true,
+      "timestamp": "2026-08-26T22:29:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
       "source": "MarketWatch",
@@ -395,17 +451,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-08-26T22:03:45+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta dodges \u2018Big Tobacco\u2019 nightmare with $18 billion settlement in child-safety lawsuit",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T21:58:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -475,17 +520,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-26T21:17:46+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T21:09:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -593,18 +627,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia Q2 FY27: I'm Buying This Weakness",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3c01c0f0f65d887f542e7cb91ac6587ac2ae2faf1f4a662e998555f76be9d6df",
-      "is_watchlist": true,
-      "timestamp": "2026-08-26T18:30:29+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
       "source": "CNBC Markets",
@@ -697,17 +719,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "FTSE 100 edges lower as healthcare, energy stocks weigh; Iran-Oman talks in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdmamQ0VmdHQmliNFdqSkc5WXhHb0xoWnd5eXdEQ0JnZV9TUjVzWndHV1VYMFU0M29rNWdYMXB2RmI3QlNQaGVrMmpwM3V3dHF0empEa0hvTDVBaXVUOHEwaVlOUEhDd1h1el9MWENBeVN3eVh3bjRGejRMbmJ0WUFNU19GQzIyR1k1ZDVtYS1LdkJQVU9SbHRBQVFQZw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T16:14:23+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius: A Powerful 5-Year Opportunity",
       "source": "SeekingAlpha",
@@ -739,17 +750,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-26T14:58:58+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "We're buying the dip \u2014 again \u2014 in a retailer not getting credit for addressing weak sales",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/were-buying-the-dip-again-in-a-retailer-not-getting-credit-for-addressing-weak-sales.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-26T14:48:53+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1037,12 +1037,78 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Bitdeer Adds 28 MW at Soluna\u2019s Wind-Powered Texas Mining Site",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-adds-28-mw-soluna-153800582.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T15:38:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lego Is Turning Fads Into a $13 Billion Machine",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lego-turning-fads-13-billion-152959567.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T15:29:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ahead of Salesforce Earnings, Here's What Barchart Data Says Comes Next for CRM Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-salesforce-earnings-heres-barchart-152758624.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T15:27:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitwise Launches Automated Portfolios for Tokenized U.S. Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitwise-launches-automated-portfolios-tokenized-152600936.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T15:26:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX Stock Just Crashed Below Its IPO Price: Here\u2019s the Bull Case Nobody Can Ignore",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-just-crashed-below-152319321.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T15:23:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
       "is_watchlist": false,
       "timestamp": "2026-08-25T15:20:18+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JPMorgan compares Bessent's $4B bond buyback to 'paying your mortgage with your credit card' as U.S. debt hits $40T",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-compares-bessents-4b-bond-152000324.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-25T15:20:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1069,28 +1135,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "A $20 Billion Reason to Buy Intel Stock as Its Biggest Comeback Gets Real",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/20-billion-reason-buy-intel-144205178.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T14:42:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Google's AI Chip Business Is Booming. Why Gemini 4 Matters More For Google Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/googles-ai-chip-business-is-booming-why-gemini-4-matters-more-for-google-stock/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T14:40:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "These S&P500 stocks are gapping in today's session",
       "source": "ChartMill",
@@ -1100,51 +1144,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar Slips on Weaker-Than-Expected US Economic News",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/dollar-slips-weaker-expected-us-143349205.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T14:33:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ray Dalio says the US faces a debt crisis \u2018in three years, give or take two.\u2019 5 things Americans can do now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-us-faces-143000328.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T14:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear Salesforce Stock Fans, Mark Your Calendars for August 26",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-salesforce-stock-fans-mark-142537051.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T14:25:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Affirm (AFRM) Slipped After Klarna Cut Guidance. Category Warning or Share-Gain Opportunity?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-afrm-slipped-klarna-cut-142517038.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-25T14:25:17+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
