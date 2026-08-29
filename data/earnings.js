@@ -1,72 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-28T21:36:29+00:00",
+  "generated_at": "2026-08-29T03:10:44+00:00",
   "by_date": {
-    "2026-08-28": [
-      {
-        "ticker": "AUSI",
-        "date": "2026-08-28",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BACK",
-        "date": "2026-08-28",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BANX",
-        "date": "2026-08-28",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BLPG",
-        "date": "2026-08-28",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BZYR",
-        "date": "2026-08-28",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CHA",
-        "date": "2026-08-28",
-        "hour": "bmo",
-        "eps_estimate": 2.3722,
-        "revenue_estimate": 3610963786,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NA",
-        "date": "2026-08-28",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UTSI",
-        "date": "2026-08-28",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-08-31": [
       {
         "ticker": "AIJTY",
@@ -819,7 +753,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MEI",
         "date": "2026-09-02",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.1414,
         "revenue_estimate": 240358113,
         "is_watchlist": false
@@ -973,7 +907,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AMBR",
         "date": "2026-09-03",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0,
         "revenue_estimate": 14280000,
         "is_watchlist": false
@@ -1413,7 +1347,7 @@ window.theBriefEarnings = {
       {
         "ticker": "WLY",
         "date": "2026-09-03",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.404,
         "revenue_estimate": 384002000,
         "is_watchlist": false
@@ -1471,7 +1405,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KNOP",
         "date": "2026-09-04",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.155,
         "revenue_estimate": 93469403,
         "is_watchlist": false
