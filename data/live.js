@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-29T03:10:44.277162+00:00",
+  "generated_at": "2026-08-29T03:26:34.905933+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -5.74,
       "price": 18.08,
       "is_watchlist": false,
-      "timestamp": "2026-08-29T03:10:44.274727+00:00",
+      "timestamp": "2026-08-29T03:26:34.752325+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -3.03,
       "price": 603.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T03:10:44.274724+00:00",
+      "timestamp": "2026-08-29T03:26:34.752323+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -4.43,
       "price": 217.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T03:10:44.274722+00:00",
+      "timestamp": "2026-08-29T03:26:34.752320+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -4.5,
       "price": 208.64,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T03:10:44.274720+00:00",
+      "timestamp": "2026-08-29T03:26:34.752318+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": -4.17,
       "price": 914.09,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T03:10:44.274712+00:00",
+      "timestamp": "2026-08-29T03:26:34.752311+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,10 +68,21 @@ window.theBriefLive = {
       "change_pct": -3.22,
       "price": 84.01,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T03:10:44.274705+00:00",
+      "timestamp": "2026-08-29T03:26:34.752306+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI to end Cursor partnership after SpaceX acquisition",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/openai-to-end-cursor-partnership-after-spacex-acquisition-4881930",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T03:19:10+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -193,17 +204,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-s-subin-buys-245m-in-stock-93CH-4881920",
       "is_watchlist": false,
       "timestamp": "2026-08-29T02:01:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Natera president John Fesko sells $2.1m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/natera-president-john-fesko-sells-21m-in-company-stock-93CH-4881919",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T02:01:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1019,66 +1019,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hamilton Beach Brand\u2019s Core Recovery, Premiumization & Adjacent Growth \u2013 Initiation Report",
+      "headline": "Stock indexes gain as Nvidia boost offsets caution on Fed event",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/hamilton-beach-brand-core-recovery-210954378.html",
+      "url": "https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-27T21:09:54+00:00",
+      "timestamp": "2026-08-27T21:27:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LSI (LYTS) Grew Sales 51%. Is Royston Masking Slower Organic Growth?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lsi-lyts-grew-sales-51-212317752.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-27T21:23:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Deutsche (DB) Completed a \u20ac1B Buyback and Started Another \u20ac500M Program. Is Its 60% Payout Target Sustainable?",
+      "headline": "OSI Systems (OSIS) Posted Record Cash Flow and Backlog but Revenue Missed Estimates",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-db-completed-1b-buyback-210816041.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/osi-systems-osis-posted-record-212212604.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-27T21:08:16+00:00",
+      "timestamp": "2026-08-27T21:22:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Can Regeneron (REGN)\u2019s Rare-Disease Win Move the Earnings Needle?",
+      "headline": "Why Nvidia loves backing and buying startups",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/regeneron-regn-rare-disease-win-210410578.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-loves-funding-startups-211648299.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-27T21:04:10+00:00",
+      "timestamp": "2026-08-27T21:16:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Build-A-Bear Workshop, Inc. Q2 2026 Earnings Call Summary",
+      "headline": "Expion (XPON) is Using 8% Convertible Debt to Enter Oil and Gas. Is the Strategic Pivot Worth the Dilution?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/build-bear-workshop-inc-q2-210400513.html",
+      "url": "https://finance.yahoo.com/energy/articles/expion-xpon-using-8-convertible-211238237.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-27T21:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Spicy Stocks: Why BNP Thinks Jalape\u00f1o Could Benefit Broadcom Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spicy-stocks-why-bnp-thinks-210351744.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-27T21:03:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Target (TGT) Rallied in 2026. Can its Turnaround Start Producing Margin Growth?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-rallied-2026-turnaround-210334424.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-27T21:03:34+00:00",
+      "timestamp": "2026-08-27T21:12:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1357,6 +1346,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-08-22T12:06:37+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best credit cards with no annual fee for August 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
+      "is_watchlist": false,
+      "timestamp": "2024-11-25T20:47:47+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     }
   ]
