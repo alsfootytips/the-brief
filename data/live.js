@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-29T21:08:11.668060+00:00",
+  "generated_at": "2026-08-29T23:21:04.814991+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -5.74,
       "price": 18.08,
       "is_watchlist": false,
-      "timestamp": "2026-08-29T21:08:11.665225+00:00",
+      "timestamp": "2026-08-29T23:21:04.812190+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -3.03,
       "price": 603.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T21:08:11.665222+00:00",
+      "timestamp": "2026-08-29T23:21:04.812187+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -4.43,
       "price": 217.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T21:08:11.665218+00:00",
+      "timestamp": "2026-08-29T23:21:04.812184+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -4.5,
       "price": 208.64,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T21:08:11.665215+00:00",
+      "timestamp": "2026-08-29T23:21:04.812181+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": -4.17,
       "price": 914.09,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T21:08:11.665205+00:00",
+      "timestamp": "2026-08-29T23:21:04.812172+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,10 +68,76 @@ window.theBriefLive = {
       "change_pct": -3.22,
       "price": 84.01,
       "is_watchlist": true,
-      "timestamp": "2026-08-29T21:08:11.665196+00:00",
+      "timestamp": "2026-08-29T23:21:04.812166+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/mutinous-soldiers-attack-airport-presidency-in-niger-capital-sources-say-4881969",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T23:00:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T22:40:51+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iceland counts votes in tight referendum on EU membership talks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T22:00:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4881999",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin price holds at $78,000 as \u2018digital gold\u2019 narrative faces fresh test",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-slips-below-78000-as-digital-gold-narrative-faces-fresh-test-4881960",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T21:13:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Solar Has Crossed a Critical Economic Tipping Point",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T21:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -176,24 +242,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran foreign trade plunges 35% under US blockade as six-month war drags on",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iranian-trade-plunges-35-as-us-steps-up-economic-pressure-4881926",
+      "headline": "National Park Service backs Trump\u2019s 250-foot arch despite \u2018adverse effects\u2019 on historic sites",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-29T18:55:43+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GM deal with workers would add Sierra pickup assembly to Canadian plant despite US tariff threat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/gm-deal-with-workers-would-add-sierra-pickup-assembly-to-canadian-plant-despite-us-tariff-threat-4881994",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T18:24:27+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-29T18:23:57+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -254,17 +308,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/glencore-takes-480-mln-provision-on-radiant-world-exposure--bloomberg-4881992",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T17:38:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Glencore said to have set aside $480M provision for Radiant World exposure",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4638043-glencore-takes-480m-provision-radiant-world-exposure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -276,11 +319,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/mutinous-soldiers-attack-airport-presidency-in-niger-capital-sources-say-4881969",
+      "headline": "Johnson & Johnson Stock: Is JNJ Outperforming the Consumer Staples Sector?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-stock-jnj-outperforming-171212270.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-29T17:24:24+00:00",
+      "timestamp": "2026-08-29T17:12:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Costco Stock Underperforming the Dow?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-underperforming-dow-165446351.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T16:54:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -298,6 +352,17 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Oracle Stock Underperforming the S&P 500?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-underperforming-p-500-164453386.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T16:44:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -324,12 +389,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "headline": "A $2 Billion Reason to Buy UPS Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-billion-reason-buy-ups-161356676.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-29T16:15:56+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-29T16:13:56+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -373,17 +438,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4638017-insider-trades-alibaba-ibm-coca-cola-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-29T15:03:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "72% of homebuyers have paused their search waiting for lower mortgage rates \u2014 and 41% already regret it",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/72-homebuyers-paused-search-waiting-150000785.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T15:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -548,17 +602,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mortgage and refinance interest rates today, Saturday, August 29, 2026: Fixed rates move slightly higher into the weekend",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-29-2026-fixed-rates-move-slightly-higher-into-the-weekend-114438775.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T11:44:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -741,9 +784,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dunkin' comes back to major market after 12-year absence",
+      "headline": "Okta\u2019s AI boom just created a new security problem",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/okta-ai-boom-just-created-161700485.html",
       "is_watchlist": false,
       "timestamp": "2026-08-28T16:17:00+00:00",
       "relevance_score": 0.0,
@@ -752,9 +795,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Okta\u2019s AI boom just created a new security problem",
+      "headline": "Dunkin' comes back to major market after 12-year absence",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/okta-ai-boom-just-created-161700485.html",
+      "url": "https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html",
       "is_watchlist": false,
       "timestamp": "2026-08-28T16:17:00+00:00",
       "relevance_score": 0.0,
@@ -799,17 +842,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "183-year-old giant tool company closes factory, lays off dozens",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/183-old-giant-tool-company-160300042.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-28T16:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
@@ -830,17 +862,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump\u2019s Greenland fixation puts security at the heart of Iceland\u2019s knife-edge EU vote",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-28T13:45:42+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1342,28 +1363,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
       "is_watchlist": false,
       "timestamp": "2026-08-23T11:29:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "When will mortgage rates go down? Or maybe they're poised to move higher.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-or-maybe-theyre-poised-to-move-higher-190610094.html",
-      "is_watchlist": false,
-      "timestamp": "2025-04-22T19:06:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fixed vs. variable expenses: Key differences and how to budget for each",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/comparison/fixed-expenses-vs-variable-expenses-140051358.html",
-      "is_watchlist": false,
-      "timestamp": "2024-05-27T14:00:51+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
