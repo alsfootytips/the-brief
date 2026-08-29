@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-29T15:05:02+00:00",
+  "generated_at": "2026-08-29T18:30:17+00:00",
   "by_date": {
     "2026-08-31": [
       {
@@ -711,6 +711,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GASS",
+        "date": "2026-09-02",
+        "hour": "",
+        "eps_estimate": 0.5406,
+        "revenue_estimate": 45798000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "GF",
         "date": "2026-09-02",
         "hour": "",
@@ -1062,14 +1070,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HOFT",
-        "date": "2026-09-03",
-        "hour": "",
-        "eps_estimate": -0.0204,
-        "revenue_estimate": 65035710,
         "is_watchlist": false
       },
       {
@@ -2252,6 +2252,22 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.7854,
         "revenue_estimate": 258086010,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HOFT",
+        "date": "2026-09-11",
+        "hour": "",
+        "eps_estimate": -0.0204,
+        "revenue_estimate": 65035710,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MNY",
+        "date": "2026-09-11",
+        "hour": "",
+        "eps_estimate": -0.0202,
+        "revenue_estimate": 21744290,
         "is_watchlist": false
       },
       {
