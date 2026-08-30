@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-08-30T13:08:40+00:00",
+  "generated_at": "2026-08-30T17:29:49+00:00",
   "by_date": {
     "2026-08-31": [
       {
@@ -1049,6 +1049,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GROW",
+        "date": "2026-09-03",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "GTIJF",
         "date": "2026-09-03",
         "hour": "",
@@ -1838,16 +1846,16 @@ window.theBriefEarnings = {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "",
-        "eps_estimate": -0.187,
-        "revenue_estimate": 44944596,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.187,
+        "revenue_estimate": 44944596,
         "is_watchlist": false
       },
       {

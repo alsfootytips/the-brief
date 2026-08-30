@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-30T13:08:40.677655+00:00",
+  "generated_at": "2026-08-30T17:29:49.383572+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy Nvidia: Thinking Differently About AI Value Creation\""
+      "move_reason": "News: \"NVDW: Collect High-Yield Income From Nvidia Swaps\""
     },
     {
       "ticker": "GEV",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Druckenmiller Warning: The Bond Market Already Priced It\""
+      "move_reason": "News: \"The Jobs Report May Force A September Rate Hike And Send Rates Soaring\""
     },
     {
       "ticker": "XLU",
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Druckenmiller Warning: The Bond Market Already Priced It\""
+      "move_reason": "News: \"The Jobs Report May Force A September Rate Hike And Send Rates Soaring\""
     },
     {
       "ticker": "NBIS",
@@ -426,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy Nvidia: Thinking Differently About AI Value Creation\""
+      "move_reason": "News: \"NVDW: Collect High-Yield Income From Nvidia Swaps\""
     },
     {
       "ticker": "OSCR",
