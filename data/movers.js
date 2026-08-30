@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-30T01:28:40.948515+00:00",
+  "generated_at": "2026-08-30T07:16:51.340544+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach\""
+      "move_reason": "News: \"Two Tech Stocks Take The Season\""
     },
     {
       "ticker": "GEV",
@@ -237,7 +237,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Moved Markets This Week\""
+      "move_reason": "News: \"Two Tech Stocks Take The Season\""
     },
     {
       "ticker": "DG",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Moved Markets This Week\""
+      "move_reason": "News: \"Two Tech Stocks Take The Season\""
     },
     {
       "ticker": "APA",
@@ -426,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach\""
+      "move_reason": "News: \"Two Tech Stocks Take The Season\""
     },
     {
       "ticker": "OSCR",
