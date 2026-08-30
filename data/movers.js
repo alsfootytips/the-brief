@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-30T07:16:51.340544+00:00",
+  "generated_at": "2026-08-30T13:08:40.677655+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Two Tech Stocks Take The Season\""
+      "move_reason": "News: \"Buy Nvidia: Thinking Differently About AI Value Creation\""
     },
     {
       "ticker": "GEV",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The August Labor Market Report To Cement The September Fed Hike\""
+      "move_reason": "News: \"Druckenmiller Warning: The Bond Market Already Priced It\""
     },
     {
       "ticker": "XLU",
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The August Labor Market Report To Cement The September Fed Hike\""
+      "move_reason": "News: \"Druckenmiller Warning: The Bond Market Already Priced It\""
     },
     {
       "ticker": "NBIS",
@@ -426,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Two Tech Stocks Take The Season\""
+      "move_reason": "News: \"Buy Nvidia: Thinking Differently About AI Value Creation\""
     },
     {
       "ticker": "OSCR",
