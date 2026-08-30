@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-30T19:59:55.563116+00:00",
+  "generated_at": "2026-08-30T22:39:44.261794+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Jobs Report May Force A September Rate Hike And Send Rates Soaring\""
+      "move_reason": "News: \"S&P 500: Don't Believe Everything You Read About September\""
     },
     {
       "ticker": "XLU",
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Jobs Report May Force A September Rate Hike And Send Rates Soaring\""
+      "move_reason": "News: \"S&P 500: Don't Believe Everything You Read About September\""
     },
     {
       "ticker": "NBIS",
