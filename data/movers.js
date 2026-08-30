@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-29T23:21:04.810137+00:00",
+  "generated_at": "2026-08-30T01:28:40.948515+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -46,7 +46,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500's Thanksgiving Leftovers In August 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "META",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dell Stock Analysis: Options and Technicals Send Mixed Signals Ahead of Earnings\""
+      "move_reason": "News: \"Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach\""
     },
     {
       "ticker": "GEV",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Trump\u2019s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist\""
     },
     {
       "ticker": "CRWV",
@@ -390,7 +390,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Trump\u2019s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist\""
     },
     {
       "ticker": "IWM",
@@ -426,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dell Stock Analysis: Options and Technicals Send Mixed Signals Ahead of Earnings\""
+      "move_reason": "News: \"Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach\""
     },
     {
       "ticker": "OSCR",
@@ -486,7 +486,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500's Thanksgiving Leftovers In August 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "XLE",
@@ -828,11 +828,11 @@ window.theBriefMovers = {
       "change_pct": 0.1,
       "score": 3.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)"
       ],
       "tags": [
