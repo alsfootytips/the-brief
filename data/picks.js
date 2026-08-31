@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-08-30T22:39:44.387293+00:00",
+  "generated_at": "2026-08-31T00:51:30.304076+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -169,7 +169,7 @@ window.theBriefPicks = {
       "current_pct": 8.84,
       "change_pct_today": 0.85,
       "name": "Energy Select Sector",
-      "news_count": 3,
+      "news_count": 2,
       "days_elapsed": 28,
       "days_remaining": 0,
       "pick_type": "strategic",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.17,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 109,
+      "days_elapsed": 110,
       "days_remaining": null
     },
     {
@@ -543,8 +543,8 @@ window.theBriefPicks = {
       "current_pct": -20.14,
       "change_pct_today": -3.03,
       "name": "Quanta Services",
-      "news_count": 3,
-      "days_elapsed": 109,
+      "news_count": 1,
+      "days_elapsed": 110,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": -0.25,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 109,
+      "days_elapsed": 110,
       "days_remaining": null
     },
     {
@@ -716,7 +716,7 @@ window.theBriefPicks = {
       "current_pct": 14.28,
       "change_pct_today": 0.1,
       "name": "Occidental Petroleum",
-      "news_count": 2,
+      "news_count": 1,
       "days_elapsed": 42,
       "days_remaining": 0,
       "closed_at": "2026-07-31",
@@ -784,7 +784,7 @@ window.theBriefPicks = {
       "current_pct": -26.65,
       "change_pct_today": 1.34,
       "name": "The Trade Desk",
-      "news_count": 1,
+      "news_count": 0,
       "days_elapsed": 49,
       "days_remaining": 7,
       "closed_at": "2026-08-07",
@@ -886,7 +886,7 @@ window.theBriefPicks = {
       "current_pct": -5.4,
       "change_pct_today": -3.22,
       "name": "CoreWeave",
-      "news_count": 3,
+      "news_count": 2,
       "days_elapsed": 13,
       "days_remaining": 8,
       "closed_at": "2026-07-14",
@@ -920,9 +920,9 @@ window.theBriefPicks = {
       "current_pct": 2.41,
       "change_pct_today": 1.34,
       "name": "The Trade Desk",
-      "news_count": 1,
-      "days_elapsed": 19,
-      "days_remaining": 23
+      "news_count": 0,
+      "days_elapsed": 20,
+      "days_remaining": 22
     },
     {
       "id": "2026-08-11-APA-auto",
@@ -951,8 +951,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.54,
       "name": "APA Corp",
       "news_count": 0,
-      "days_elapsed": 19,
-      "days_remaining": 30
+      "days_elapsed": 20,
+      "days_remaining": 29
     }
   ],
   "summary": {

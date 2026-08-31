@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-30T22:39:44.261794+00:00",
+  "generated_at": "2026-08-31T00:51:30.198525+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health (OSCR) Price Target Increased by 22.62% to 29.50\""
+      "move_reason": ""
     },
     {
       "ticker": "XLC",
@@ -61,17 +61,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "price": 117.21,
-      "change_pct": 1.15,
-      "volume_ratio": 1.03,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 62.82,
@@ -81,7 +70,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For August 28, 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "VUAG.L",
@@ -201,7 +190,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump\u2019s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "CRWV",
@@ -213,7 +202,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Capital Intensity Becoming A Serious Issue\""
+      "move_reason": "Tracking XLK sector (-1.55% today)"
     },
     {
       "ticker": "PWR",
@@ -225,7 +214,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump\u2019s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "AMD",
@@ -249,7 +238,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": ""
     },
     {
       "ticker": "TPL",
@@ -261,7 +250,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week August 30\""
+      "move_reason": ""
     },
     {
       "ticker": "XLK",
@@ -366,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Capital Intensity Becoming A Serious Issue\""
+      "move_reason": "Tracking XLK sector (-1.55% today)"
     },
     {
       "ticker": "DG",
@@ -378,7 +367,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": ""
     },
     {
       "ticker": "GEV",
@@ -390,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump\u2019s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "IWM",
@@ -438,7 +427,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health (OSCR) Price Target Increased by 22.62% to 29.50\""
+      "move_reason": ""
     },
     {
       "ticker": "OXY",
@@ -462,7 +451,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump\u2019s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "TPL",
@@ -474,7 +463,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week August 30\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -498,7 +487,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Leading And Lagging Sectors For August 28, 2026\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -551,16 +540,6 @@ window.theBriefMovers = {
       "price": 112.99,
       "change_pct": 1.42,
       "volume_ratio": 1.0,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "price": 117.21,
-      "change_pct": 1.15,
-      "volume_ratio": 1.03,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -750,13 +729,13 @@ window.theBriefMovers = {
       "change_pct": -3.22,
       "score": 5.0,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider sells vs 1 buys (last 90 days)",
         "+2 analyst buy recs added recently",
         "-41.1% from 52-week high"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider sells vs 1 buys (last 90 days)",
         "+2 analyst buy recs added recently",
         "-41.1% from 52-week high"
@@ -822,27 +801,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 59.23,
-      "change_pct": 0.1,
-      "score": 3.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 42.61,
@@ -904,13 +862,6 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "change_pct": 1.42,
       "price": 112.99,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary Select",
-      "change_pct": 1.15,
-      "price": 117.21,
       "watchlist_members": []
     },
     {
