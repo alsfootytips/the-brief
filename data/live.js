@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-08-31T00:51:30.202755+00:00",
+  "generated_at": "2026-08-31T06:43:22.305356+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": -5.74,
       "price": 18.08,
       "is_watchlist": false,
-      "timestamp": "2026-08-31T00:51:30.200552+00:00",
+      "timestamp": "2026-08-31T06:43:22.302750+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -3.03,
       "price": 603.0,
       "is_watchlist": true,
-      "timestamp": "2026-08-31T00:51:30.200549+00:00",
+      "timestamp": "2026-08-31T06:43:22.302747+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": -4.43,
       "price": 217.89,
       "is_watchlist": true,
-      "timestamp": "2026-08-31T00:51:30.200546+00:00",
+      "timestamp": "2026-08-31T06:43:22.302744+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -4.5,
       "price": 208.64,
       "is_watchlist": true,
-      "timestamp": "2026-08-31T00:51:30.200544+00:00",
+      "timestamp": "2026-08-31T06:43:22.302741+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +56,7 @@ window.theBriefLive = {
       "change_pct": -4.17,
       "price": 914.09,
       "is_watchlist": true,
-      "timestamp": "2026-08-31T00:51:30.200535+00:00",
+      "timestamp": "2026-08-31T06:43:22.302731+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,7 +68,7 @@ window.theBriefLive = {
       "change_pct": -3.22,
       "price": 84.01,
       "is_watchlist": true,
-      "timestamp": "2026-08-31T00:51:30.200528+00:00",
+      "timestamp": "2026-08-31T06:43:22.302722+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -76,33 +76,252 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+      "headline": "SpaceX, NASA postpone Crew-13's ISS mission due to spacecraft leak",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638104-spacex-nasa-postpone-crew-13s-iss-mission-due-to-spacecraft-leak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-31T00:46:46+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-08-31T06:40:33+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. stock futures dip amid renewed Iran hostilities",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-amid-renewed-iran-hostilities-4882085",
+      "headline": "WuXi AppTec announces RMB 1.51B interim cash dividend for 2026",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638105-wuxi-apptec-announces-rmb-151b-interim-cash-dividend-for-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-31T00:32:22+00:00",
+      "timestamp": "2026-08-31T06:36:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InPost Q2 profit falls 30%, cuts 2026 profit outlook as UK turnaround lags",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/inpost-q2-profit-falls-30-cuts-2026-profit-outlook-as-uk-turnaround-lags-93CH-4882168",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:20:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ONLY A FEW HOURS LEFT: Lock in InvestingPro for 55% off BEFORE SALE ENDS TODAY",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/only-a-few-hours-left-lock-in-investingpro-for-55-off-before-sale-ends-today-4882167",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:20:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BofA Names Top European Software Stocks for 2026",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-names-top-european-software-stocks-for-2026-93CH-4882166",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:19:25+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
+      "headline": "Take Five: Summer\u2019s over, buckle up!",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/take-five-summers-over-buckle-up-4882165",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:18:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Avanti Gold announces C$35M bought deal private placement",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638091-avanti-gold-announces-c35m-bought-deal-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:16:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil jumps more than 2% after US attack on Iran\u2019s Larak Island",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:12:41+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is BYD stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-byd-stock-sliding-today-93CH-4882161",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:10:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bessent calls on G20 to curb China trade imbalances",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638101-bessent-calls-on-g20-to-curb-china-trade-imbalances?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:06:57+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/aidriven-cyber-risk-is-top-concern-for-global-financial-stability-watchdog-says-4882158",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:06:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.76%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-076-4882155",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:05:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta, Google-backed Jio Platforms set for India\u2019s biggest IPO after SEBI nod",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638089-meta-google-backed-jio-platforms-set-for-indias-biggest-ipo-after-sebi-nod?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T06:04:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "iMetal Resources appoints Paul Larkin to board and names Robert Scott as CFO",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638099-imetal-resources-appoints-paul-larkin-to-board-and-names-robert-scott-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T05:58:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+      "is_watchlist": true,
+      "timestamp": "2026-08-31T05:49:48+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CIA-backed investor helped top German drones firm Quantum Systems break into US: Reuters",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638100-cia-backed-investor-helped-top-german-drones-firm-quantum-systems-break-into-us-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-08-31T00:19:15+00:00",
+      "timestamp": "2026-08-31T05:45:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "France is becoming the \u2018poster child\u2019 of sovereign debt problems as government borrowing costs hit near 2008 highs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T05:08:47+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T04:57:24+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran\u2019s army says it attacked UAE\u2019s Al Minhad Air Base with drones, state TV reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ09ObHphV0lHczYtdENzRzVQNFUtNUhLLU90dF92aTNaZU4yYm4zT1lScGhlekhEM1RVaGVVQUhQZEp2VUtLV19UelcwWnFUWkdkN0dhRUdtYkUtU3FIckVldDU5VnRnSkRaRkRGVkVyWHdBLTZzQUIzX1pMYUZSclpFSTZSOVBFZzlvSGpIWnlwNW84VDhZNm1LTjFDV2pZeG9WajktcllVb2VsVTdTTlhpUXFEVFg1NnJmZ2ZyQzRxakxUdTVzQ3BLOXBnSDA?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-31T04:44:46+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morning Bid: Oil climbs as missiles fly in the Gulf - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNbU0wNVdySEl6cVlUdjlVZWlFYmp2eDlTU200dDJkTFJZSk5YbnJmenZmRS1LaTVvcC1nVVdjX2NtNDZUNlA3YU1NQUY4QXBnNGVUTnJZVld3MUNfZjIweU0tYXRlZ2lrUldFUGVXNVBSdjl0RHY5aEN1dG50TFk?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T04:32:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BYD shares slide as fierce China competition dents first-half earnings",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T04:01:47+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T03:47:28+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -110,23 +329,62 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Austal posts record FY 2026 revenue but reports loss",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-austal-posts-record-fy-2026-revenue-but-reports-loss-93CH-4882084",
+      "headline": "China's factory activity shrinks for second straight month, contracting less than expected",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-31T00:17:06+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-31T03:15:01+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil prices climb after U.S. strikes Iranian launchers on Larak Island",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-climb-after-us-strikes-iranian-launchers-on-larak-island-4882083",
+      "headline": "U.S. stock futures slip as chances of rate hike rise after Warsh\u2019s Jackson Hole comments",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-08-31T00:16:30+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-31T03:03:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Indian shares set for cautious start; MSCI rejig, HDFC Bank in focus - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhzUmFDRUhTV200UmE3NjFXbDJXVXNKQVlWV2FaN2l1dzUxM1dNZUtZaDJNblc4Q295TWN3S3R5M0xvVXRMZ3oyQzBuWHJkZnczM2dTQy1kQXlLcWRUTG96b19CNm1YbEhvdjdoVk84bnVzV0k1ZGh1T3lJRnZOanlRNjZwVVNkQ282bC1hQkJXWXliUGJsQUVwcVY3SkIyb3dHTjhCSzZQNkk?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T02:54:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-08-31T02:14:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Shares skid in Asia as oil climbs, yields stay high - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T00:38:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -143,61 +401,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Japan industrial production unexpectedly grows in July, retail sales surge",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/japan-industrial-production-unexpectedly-grows-in-july-retail-sales-surge-4882082",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T00:02:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/31/k-beauty-apr-costco-launch-september.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T23:55:09+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "Bessent says yen moves \u2019pretty contained\u2019 and not disorderly",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bessent-says-yen-moves-pretty-contained-and-not-disorderly-4882076",
-      "is_watchlist": true,
-      "timestamp": "2026-08-30T23:54:48+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran-4882080",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T23:54:30+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. stock futures slip as chances of rate hike rise after Warsh\u2019s Jackson Hole comments",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+      "headline": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJLRHJBSlpLeHYxNEtndmNRX19YTG9GWENmSEdTZXRTbnZnUFJITUtYcV83YnlPWmlpbC00WnZic3FMYVowRlA4Zzk5V2NKc2ZSSkxtUXl6N1A2MmdQbTI3cWhqbWxfMXVNekZQWFYwY2hPcENiOXR1N1JjRU4ydTRGTWZoV0U2Ul9KdmVZZ1pBQzVFTnR1MUl5YXRpTV9DWXE1bEtOc0FkVTRpNkFHOV9XZ2JOUGJ2eUQ0WFFqRDdLdlZlWWdQdlpjSHY?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-08-30T23:52:00+00:00",
-      "relevance_score": 3.0,
+      "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
     },
@@ -211,36 +420,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-30T23:22:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/g20-countries-should-consider-more-trade-barriers-with-china-to-cut-imbalances-bessent-says-4882079",
-      "is_watchlist": true,
-      "timestamp": "2026-08-30T23:12:42+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "US forces strike two Iranian launchers on Iran's Larak island, US official says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-30T23:09:36+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -260,35 +439,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Michael Hill posts record revenue in H2 2026 turnaround",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-michael-hill-posts-record-revenue-in-h2-2026-turnaround-93CH-4882078",
+      "headline": "Missile attack kills two, injures 16 in Russia's Belgorod, authorities say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeks4T2dMSFZWUk9JVDN0RWhtYzhsSllIU0R5OXp5MzBlbHdHdEJudkNCQW1vVkNPMHdkbHFjZDFka0RabXp1b0h3TENLalJSZGpmaHBpLThfMTgtRVFnUjlBUWZxWWlNZFJodGlrUVZraWNZa2lUQTdQOXl1bmFEODIxX0gzQkhvb3ZiVEZ3aXVRb21DVlVKZGZUX01Fa0MwR3RMaVFYNklKQWhXbnBN?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-30T22:47:58+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-08-30T22:48:16+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
+      "headline": "Iran is attacking US forces in Jordan, Fox News reports, citing a US source - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3Q5VzJ4c1pXc3pPc1VrUmdQOC1PQmxJaXhsTV9KS1hvVnJGTmt3NUZNUlp3UHRJeEg2QlA3aFRIdHE3VjRCODNSV0NvV2xQbFNyZ1hBYXdYSnNDcDc4TE1fYnYtQ3RxdnNrQXlJVWJCZHdDbm0yWlM4emozcDY0SDFjZGMyeVBGNlFibzhZNUpKQWg2M0ZwTTNCb2I1Um9WbmRhQUo1ajBhWm9tVTcyaDFYYUhMeDdoWVZLSnQtMA?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-30T22:42:32+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil prices jump more than 2% after U.S. strike on Iran",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638082-oil-prices-jump-more-than-2-percent-after-u-s-strike-on-iran?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T22:31:17+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-08-30T22:36:02+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -304,14 +471,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bayer\u2019s experimental PET tracer shows accuracy in Phase 3 cardiac amyloidosis",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638078-bayer-s-experimental-pet-tracer-shows-accuracy-in-phase-3-cardiac-amyloidosis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T22:23:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "Tech Rallies In September, I'm Adding Software And Chip Stocks",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=489d22b32da9cee09f148951e508dd220168e5c4fe174fda6d01dcbd9b29741a",
+      "is_watchlist": true,
+      "timestamp": "2026-08-30T22:24:14+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Tech Rallies In September, I'm Adding Software And Chip Stocks",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=489d22b32da9cee09f148951e508dd220168e5c4fe174fda6d01dcbd9b29741a",
+      "is_watchlist": true,
+      "timestamp": "2026-08-30T22:24:14+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -338,11 +518,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil jumps more than 2% after US attack on Iran's Larak island - Reuters",
+      "headline": "Oil jumps more than 2% after US attack on Iran's Larak Island - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-08-30T22:12:20+00:00",
+      "timestamp": "2026-08-30T22:12:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -354,143 +534,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
       "is_watchlist": false,
       "timestamp": "2026-08-30T22:05:32+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Monday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638049-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T22:00:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "United Therapeutics highlights new data supporting two FDA filings",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638067-united-therapeutics-highlights-new-data-supporting-two-fda-filings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T21:59:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. strikes Iranian launchers near Strait of Hormuz",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638081-u-s-strikes-iranian-launchers-near-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T21:36:11+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NATO doesn't see imminent attack as Russian \u2018hybrid\u2019 activity intensifies",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638080-nato-doesnt-see-imminent-attack-as-russian-hybrid-activity-intensifies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T21:12:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PetroChina H1 profit rises 22% despite weaker fuel demand",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638079-petrochina-h1-profit-rises-22-percent-despite-weaker-fuel-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T20:48:11+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran's Revolutionary Guards vow response to US attack on Larak island - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmw0UHV3Nm1jZS02RVF5ZVY0aWw2S0JlUXI0bUttclN5NkNzem9tMnc1akVuUGd5MXZMdkhMSWxTRGtZa2x1a1dad3psVDI3aTJJQnVHcENXU0k3Zm1kdWw0T0NYek00T1lxSktzSmdHTnd0Q0tEZTJyQ3FrNGZReHhaSi1EeFNtLXlrc1hFd3J3UE5LRjh5N3pWUHRQQmhGekd4Qm9fVnVvZVB1eUM1bGdGQUpqNzQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T20:08:40+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Explosion heard near Iran's Larak Island, Fars news agency reports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEZiQmZKRnEwR0dLWDhRS3BJejh5REVwOVBSQlUtRW1FZHBFRmtPejlJcGFGMU1OT0E0NEhVMXIweFdTVmVsQVo3cGhUbWtDOVp3eWNLaVJ2cXNHTTRDdFBsWXpjRk14TlJHYVZhNXVPZ3VSRXpqZ05rQXdHNDZXdy1YeVNxVDBSMktqZ2VKeUtxRUstSEdaQ0FGMHFIdUF6S0l3NmQ3aUNaRDZNdEZzb0JMQ2ZYQi1YQ2c?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T19:49:43+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T19:40:52+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ukraine defence chief to outline war plan as Kyiv seeks more funds - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3pyLXRWVzhHRFhiUGpqQWNVbk1SV25DX2RuU1pYLTVfYnRDUzI1NzZiMjFIcjk3bEVSRF9weVhQVU9udXFpSUwwc1FHQVd1Sy0wNnpDeHVpTkVOMlF1cXc4cUNNakpuV3gwU3BDNGtISE5xWnk1QUxKZXdsSUgxNDR3NWcwRHFKNVpvQmZxUi1pdVBSOUQtTmJ3V0xIZzdDajFVVnNfZzJQY3NPRDNKS0JMeUhMMkU?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T19:04:11+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Germany's Merz says victory for AfD in Saxony-Anhalt would deter foreign investors - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFNSTUdGTkNaaDdiSkt1UF92eVZkSWRRRGV5YUJuUmtuam5Nc0s0N1RUYXdNZUZwUVZ1dW9pRkJPR0RLMnJuLVFqUGlYNXNPWjRKbEF2LU45clp1V29RUG5aQkJSRWp3MktNR3BJYXBWTEpTNGkxN0dPd0drcVd0WFMxaC00VEpTWGN0MEtKWF9WdTh1RlA2TGVVbnkxWmtONGtSNGJieTlCclNjTXFydkVfQW14Ync?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T17:42:13+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-08-30T17:39:12+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Merz says Germany finalising response to suspected Leipzig attack - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXZkNUhuVmd1NFhwYXByM0hKSVNJcE52WUJrYXNZMkRQMjA4WElMZHZCcFJKN09COWdlSS1wRWlka0prdklCRF9hYVEyaWw4N0Z2UzR1TlA0SjA0TXdMZVNvWVFyaExoM3dxbW1VOXpBQWdUTF81N3UzRWpELU5SYlB6cjVnY2FXa09ONk1hWWZHOExZRFVaeGJpV1NSUW1mV2haSEZ1MA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T17:17:43+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -621,18 +664,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Druckenmiller Warning: The Bond Market Already Priced It",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=95e671dd8b7761d431ae297b48a43c73b592572c2c3a22de6460f5dfedbb1159",
-      "is_watchlist": true,
-      "timestamp": "2026-08-30T07:10:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
       "source": "BBC Business",
@@ -641,18 +672,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-30T04:01:02+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Buy Nvidia: Thinking Differently About AI Value Creation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5b6b6eead42c279ca3a8627a094755a102f7fe0643dba1993a7164bed2209cae",
-      "is_watchlist": true,
-      "timestamp": "2026-08-30T03:50:36+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -680,23 +699,79 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "National Park Service backs Trump\u2019s 250-foot arch despite \u2018adverse effects\u2019 on historic sites",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
+      "headline": "Supply driven trucking market cycle explained in the data",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/supply-driven-trucking-market-cycle-003000522.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-29T18:23:57+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-08-30T00:30:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump administration weighs Yosemite land swap for private developer\u2019s access road",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+      "headline": "Uniswap Price Prediction: Rally to $9 Possible as Robinhood Chain Stats Get Hotter",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/uniswap-price-prediction-rally-9-233315397.html",
       "is_watchlist": false,
-      "timestamp": "2026-08-29T18:21:49+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-08-29T23:33:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran War Adds $330 Billion to Global Energy Import Bill",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/iran-war-adds-330-billion-230000013.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T23:00:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Solar Has Crossed a Critical Economic Tipping Point",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T21:00:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It\u2019s Now 1 Step Ahead.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-always-1-step-behind-203002772.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T20:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A $100 Billion Buildout In Louisiana Is Planned for Starship. What This Means for SPCX Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/100-billion-buildout-louisiana-planned-193002508.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T19:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "If You'd Invested $1,000 in McDonald's 25 Years Ago, Here's How Much You'd Have Today",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-mcdonalds-190900852.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-29T19:09:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -710,84 +785,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/fed-chairman-warsh-shows-courage-with-jackson-hole-speech-defying-political-pressure-says-harvards-rogoff-140951926.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T14:09:51+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Viemed Healthcare Targets Low-20% Growth as Home Ventilation Opportunity Expands",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/viemed-healthcare-targets-low-20-140203983.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T14:02:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How T-Mobile Stock Could Win as SpaceX Expands Its Wireless Business",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-stock-could-win-140002998.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T14:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sandisk Reported Layoffs at Its Israel Locations. This Is an Efficiency Push, Not a Warning Sign for SNDK Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-reported-layoffs-israel-locations-134502982.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T13:45:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear Apple Stock Fans, Mark Your Calendars for September 9",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-apple-stock-fans-mark-133002349.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T13:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Suze Orman says your annuity guarantee is 'only as good as' the insurer's balance sheet \u2014 here's why",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/suze-orman-says-annuity-guarantee-133000171.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T13:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stock Market Week Ahead: Chips, Cybersecurity And Jobs",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-chips-cybersecurity-and-jobs/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-29T13:07:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

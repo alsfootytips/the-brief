@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-08-31T00:51:30.198525+00:00",
+  "generated_at": "2026-08-31T06:43:22.300091+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -61,6 +61,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 117.21,
+      "change_pct": 1.15,
+      "volume_ratio": 1.03,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 62.82,
@@ -77,7 +88,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 110.66,
       "change_pct": 0.75,
-      "volume_ratio": 1.24,
+      "volume_ratio": 1.04,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -89,7 +100,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 144.22,
       "change_pct": 0.63,
-      "volume_ratio": 0.84,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -178,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVDW: Collect High-Yield Income From Nvidia Swaps\""
+      "move_reason": "News: \"Tech Rallies In September, I'm Adding Software And Chip Stocks\""
     },
     {
       "ticker": "GEV",
@@ -273,7 +284,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500: Don't Believe Everything You Read About September\""
+      "move_reason": "News: \"Tech Rallies In September, I'm Adding Software And Chip Stocks\""
     },
     {
       "ticker": "XLU",
@@ -391,7 +402,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500: Don't Believe Everything You Read About September\""
+      "move_reason": "News: \"Tech Rallies In September, I'm Adding Software And Chip Stocks\""
     },
     {
       "ticker": "NBIS",
@@ -415,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVDW: Collect High-Yield Income From Nvidia Swaps\""
+      "move_reason": "News: \"Tech Rallies In September, I'm Adding Software And Chip Stocks\""
     },
     {
       "ticker": "OSCR",
@@ -540,6 +551,16 @@ window.theBriefMovers = {
       "price": 112.99,
       "change_pct": 1.42,
       "volume_ratio": 1.0,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 117.21,
+      "change_pct": 1.15,
+      "volume_ratio": 1.03,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -862,6 +883,13 @@ window.theBriefMovers = {
       "name": "Communication Services Select",
       "change_pct": 1.42,
       "price": 112.99,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "change_pct": 1.15,
+      "price": 117.21,
       "watchlist_members": []
     },
     {
