@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-01T00:00:29.291431+00:00",
+  "generated_at": "2026-09-01T00:56:02.171164+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top dow jones movers in Monday's session\""
+      "move_reason": "News: \"Nvidia: AI Boom Times Still Ahead\""
     },
     {
       "ticker": "TTD",
@@ -184,8 +184,8 @@ window.theBriefMovers = {
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 30.02,
-      "change_pct": -1.48,
+      "price": 30.0,
+      "change_pct": -1.54,
       "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,
@@ -328,7 +328,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will There Be Panic Before The Midterms\""
+      "move_reason": "News: \"How Stock Picking Can Compress The Path To A $1 Million Portfolio\""
     },
     {
       "ticker": "SOFI",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will There Be Panic Before The Midterms\""
+      "move_reason": "News: \"How Stock Picking Can Compress The Path To A $1 Million Portfolio\""
     },
     {
       "ticker": "NBIS",
@@ -449,13 +449,13 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top dow jones movers in Monday's session\""
+      "move_reason": "News: \"Nvidia: AI Boom Times Still Ahead\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 30.02,
-      "change_pct": -1.48,
+      "price": 30.0,
+      "change_pct": -1.54,
       "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,

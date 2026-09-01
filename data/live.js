@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-01T00:00:29.296657+00:00",
+  "generated_at": "2026-09-01T00:56:02.302980+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,10 +8,122 @@ window.theBriefLive = {
       "change_pct": 3.34,
       "price": 127.0,
       "is_watchlist": true,
-      "timestamp": "2026-09-01T00:00:29.294057+00:00",
+      "timestamp": "2026-09-01T00:56:02.173791+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Traeger chief sales officer Cole VandenAkker sells $152,069 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/traeger-chief-sales-officer-cole-vandenakker-sells-152069-in-stock-93CH-4883413",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T00:45:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Oil extends gains as Trump threatens further Iran strikes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
+      "is_watchlist": true,
+      "timestamp": "2026-09-01T00:43:30+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korea factory activity logs ninth straight month of expansion, PMI shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-logs-ninth-straight-month-of-expansion-pmi-shows-4883411",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T00:43:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Western Union faces Australia probe over high-risk payment channels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/western-union-faces-australia-probe-over-highrisk-payment-channels-93CH-4883409",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T00:38:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US irks G20 ministers by bringing back Russia, barring journalists",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/g20-host-us-pushes-growth-agenda-to-allay-debt-market-concerns-4883084",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T00:36:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan manufacturing new business rises at fastest pace since 2018, PMI shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/japan-manufacturing-new-business-rises-at-fastest-pace-since-2018-pmi-shows-4883408",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T00:36:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Grail CFO Aaron Freidin sells $671,579 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/grail-cfo-aaron-freidin-sells-671579-in-company-stock-93CH-4883407",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T00:34:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "Bessent urges Japan to show path to fiscal sustainability, rate hike - NHK reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bessent-urges-japan-to-show-path-to-fiscal-sustainability-rate-hike--nhk-reports-4883406",
+      "is_watchlist": true,
+      "timestamp": "2026-09-01T00:32:33+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says data center opponents could 'end up backwards and poor'",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4638525-trump-says-data-center-opponents-could-end-up-backwards-and-poor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-09-01T00:25:11+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -21,94 +133,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4638524-goldman-hikes-global-diesel-refining-margin-forecast-on-continued-tight-supplies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-31T23:58:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-US oil firm to take over some Venezuelan oilfields previously run by Chinese, Russian companies, officials say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/exclusiveus-oil-firm-to-take-over-some-venezuelan-oilfields-previously-run-by-chinese-russian-companies-officials-say-4883359",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:42:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, WSJ reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-wsj-reports-93CH-4883381",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:42:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Verizon prepares network for potential tropical storm Edouard",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/verizon-prepares-network-for-potential-tropical-storm-edouard-93CH-4883380",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:36:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Artiva Biotherapeutics CMO Subhashis Banerjee sells $98,735 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/artiva-biotherapeutics-cmo-subhashis-banerjee-sells-98735-in-shares-93CH-4883377",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:31:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brinker International director DePinto sells $5.76m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/brinker-international-director-depinto-sells-576m-in-shares-93CH-4883376",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:30:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cabot Corp president and CEO Sean Keohane sells $11.4 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cabot-corp-president-and-ceo-sean-keohane-sells-114-million-in-stock-93CH-4883375",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:30:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shein set for lacklustre debut after setbacks cause huge drop in valuation",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:30:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "California opposes Paramount request for $1.88 billion bond",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/california-opposes-paramount-request-for-188-billion-bond-4883374",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T23:24:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -212,17 +236,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4638519-jack-henry-discloses-cyber-incident-says-operations-unaffected?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-08-31T22:01:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DeFi Development announces proposed $20M offering",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4638520-defi-development-announces-proposed-20m-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T22:00:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -406,6 +419,30 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "How Stock Picking Can Compress The Path To A $1 Million Portfolio",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=00db6e308d21946410cb4d96933f813219a39fc26a74f0d7bd9b118560df4234",
+      "is_watchlist": true,
+      "timestamp": "2026-08-31T20:06:38+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia: AI Boom Times Still Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=967de8b85d58ad5415281693a1941e1756c722df88d9ce349c58e0f43df6bf12",
+      "is_watchlist": true,
+      "timestamp": "2026-08-31T20:00:18+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "Top dow jones movers in Monday's session",
       "source": "ChartMill",
@@ -457,18 +494,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3acb000fbcd04c48667d73cb6408b0aeb637920de5672722498fff8d7028614e",
       "is_watchlist": true,
       "timestamp": "2026-08-31T18:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "These stocks are the most active in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=887b5967af6ac9f8ec388fcc84618334a77f30a01e6d2da215bb8e0468423b8a",
-      "is_watchlist": true,
-      "timestamp": "2026-08-31T18:00:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -573,18 +598,6 @@ window.theBriefLive = {
       "timestamp": "2026-08-31T16:19:55+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Stocks Were Strong In August. Here's What Could Derail The S&P 500's Rally",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c3fec2e5de14a48db544d851b80967776b3b55d5ac26582026cef58a9c63dba2",
-      "is_watchlist": true,
-      "timestamp": "2026-08-31T16:00:31+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -840,77 +853,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Humana Is Cutting Medicare Advantage Plans for 2027. The Non-Renewal Letters Arrive in Early October.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/humana-cutting-medicare-advantage-plans-153022830.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T15:30:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Is What Investors Should Watch Before Buying PANW Stock. Most Will Ignore It on September 1.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-watch-buying-panw-stock-153002874.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T15:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dear Kraft Heinz Stock Fans, Mark Your Calendars for September 14",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-kraft-heinz-stock-fans-153002037.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T15:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A $3.13 Billion Reason to Buy Zoom Communications Stock Now",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-13-billion-reason-buy-150002113.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T15:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Billionaire Founder Jack Ma Just Bought $76.5 Million Worth of Alibaba Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-founder-jack-ma-150002705.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T15:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-wins-wall-street-google-144502254.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-30T14:45:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Despite Impressive Results, Nvidia Stock May Be Stuck in a Range - What's the Best Play?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/despite-impressive-results-nvidia-stock-143002477.html",
       "is_watchlist": false,
       "timestamp": "2026-08-30T14:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Man posed as a 49ers player and convinced 26 women to hand over $1.3 million in romance scam scheme",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/man-posed-49ers-player-convinced-142000089.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-30T14:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A Major $12.9 Billion Catalyst Is Brewing for Nvidia Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/major-12-9-billion-catalyst-141502070.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-30T14:15:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Josh Brown Says \u2018Take a Break From AI CapEx World,\u2019 Highlights His 2 Top Healthcare Stock Picks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/josh-brown-says-break-ai-134507001.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-30T13:45:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/everything-learned-hot-chart-summer-133002092.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-30T13:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This 2 ETF Portfolio Historically Outperforms the S&P 500 With Less Volatility",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-etf-portfolio-historically-outperforms-131500494.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-30T13:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-stock-soars-nearly-130000704.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-30T13:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
