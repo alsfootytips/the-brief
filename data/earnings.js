@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-01T20:56:02+00:00",
+  "generated_at": "2026-09-01T23:04:55+00:00",
   "by_date": {
     "2026-09-01": [
       {
@@ -1401,7 +1401,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ABM",
         "date": "2026-09-08",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.0244,
         "revenue_estimate": 2332753711,
         "is_watchlist": false
@@ -1441,7 +1441,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AVO",
         "date": "2026-09-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.1162,
         "revenue_estimate": 371149750,
         "is_watchlist": false
@@ -1449,7 +1449,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BRZE",
         "date": "2026-09-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.158,
         "revenue_estimate": 224273377,
         "is_watchlist": false
@@ -1457,7 +1457,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CASY",
         "date": "2026-09-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 6.8777,
         "revenue_estimate": 5691334381,
         "is_watchlist": false
@@ -1465,7 +1465,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GMHS",
         "date": "2026-09-08",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1497,7 +1497,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MIND",
         "date": "2026-09-08",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0816,
         "revenue_estimate": 7833600,
         "is_watchlist": false
@@ -1529,7 +1529,7 @@ window.theBriefEarnings = {
       {
         "ticker": "UNFI",
         "date": "2026-09-08",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.6242,
         "revenue_estimate": 7830342803,
         "is_watchlist": false
@@ -1545,7 +1545,7 @@ window.theBriefEarnings = {
       {
         "ticker": "WDH",
         "date": "2026-09-08",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
