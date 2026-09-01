@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-01T23:04:55.694517+00:00",
+  "generated_at": "2026-09-01T23:42:32.917277+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -4.15,
-      "price": 197.76,
+      "change_pct": -4.18,
+      "price": 197.7,
       "is_watchlist": true,
-      "timestamp": "2026-09-01T23:04:55.692570+00:00",
+      "timestamp": "2026-09-01T23:42:32.790046+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.42,
       "price": 131.09,
       "is_watchlist": true,
-      "timestamp": "2026-09-01T23:04:55.692563+00:00",
+      "timestamp": "2026-09-01T23:42:32.790035+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -4.41,
-      "price": 81.15,
+      "change_pct": -4.36,
+      "price": 81.19,
       "is_watchlist": true,
-      "timestamp": "2026-09-01T23:04:55.692558+00:00",
+      "timestamp": "2026-09-01T23:42:32.790028+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,55 +40,147 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings call transcript: Dell beats Q2 2027 estimates, shares rebound after hours",
+      "headline": "Xeris Biopharma COO Kevin McCulloch sells $127,308 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dell-beats-q2-2027-estimates-shares-rebound-after-hours-93CH-4884715",
+      "url": "https://www.investing.com/news/insider-trading-news/xeris-biopharma-coo-kevin-mcculloch-sells-127308-in-stock-93CH-4884737",
       "is_watchlist": false,
-      "timestamp": "2026-09-01T22:51:50+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "+89%, +46%, these stocks are out of our AI-picks for September - See what\u2019s in",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/89-46-these-stocks-are-out-of-our-aipicks-for-september--see-whats-in-4884714",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T22:50:26+00:00",
+      "timestamp": "2026-09-01T23:34:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Adecoagro completes acquisition of Caarap\u00f3 mill for $136M",
+      "headline": "South Korea CPI grows slightly less than expected in August",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/adecoagro-completes-acquisition-of-caarapo-mill-for-136m-93CH-4884713",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-cpi-grows-slightly-less-than-expected-in-august-4884736",
       "is_watchlist": false,
-      "timestamp": "2026-09-01T22:48:33+00:00",
+      "timestamp": "2026-09-01T23:33:44+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "is_watchlist": true,
+      "timestamp": "2026-09-01T23:33:42+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Guidewire CEO Michael Rosenbaum sells $245,328 in company stock",
+      "headline": "Ani Pharmaceuticals SVP & CFO Stephen Carey sells $207,480 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/guidewire-ceo-michael-rosenbaum-sells-245328-in-company-stock-93CH-4884712",
+      "url": "https://www.investing.com/news/insider-trading-news/ani-pharmaceuticals-svp--cfo-stephen-carey-sells-207480-in-stock-93CH-4884733",
       "is_watchlist": false,
-      "timestamp": "2026-09-01T22:46:06+00:00",
+      "timestamp": "2026-09-01T23:30:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Slb CEO Le Peuch sells $2.1m in company stock",
+      "headline": "Xeris Biopharma\u2019s Beth Hecht sells $141,434 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/slb-ceo-le-peuch-sells-21m-in-company-stock-93CH-4884711",
+      "url": "https://www.investing.com/news/insider-trading-news/xeris-biopharmas-beth-hecht-sells-141434-in-company-stock-93CH-4884734",
       "is_watchlist": false,
-      "timestamp": "2026-09-01T22:45:58+00:00",
+      "timestamp": "2026-09-01T23:30:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Xeris Biopharma CFO Steven Pieper sells $42,500 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/xeris-biopharma-cfo-steven-pieper-sells-42500-in-shares-93CH-4884735",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:30:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crexendo CTO David Wang sells $162,500 of company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/crexendo-cto-david-wang-sells-162500-of-company-stock-93CH-4884732",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:30:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brazil\u2019s Congress approves tax exemptions to attract data center investments",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/brazils-congress-approves-tax-exemptions-to-attract-data-center-investments-4884731",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:30:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Will self-flying planes transform the skies?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:27:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Soft launches and late sittings - six ways to get cheaper meals out",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:26:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GitLab projects $1.129B-$1.133B FY 2027 revenue as it targets over $100M paid CRR",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4639253-gitlab-projects-1_129b-1_133b-fy-2027-revenue-as-it-targets-over-100m-paid-crr?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:25:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tyson disputes claim by USDA\u2019s Rollins, says shuttered beef plants can go to any buyer",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/tyson-disputes-claim-by-usdas-rollins-says-shuttered-beef-plants-can-go-to-any-buyer-4884726",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:25:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T23:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -100,39 +192,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4639251-soybean-futures-surge-to-highest-in-nearly-three-years-on-u-s-biofuel-exemptions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-01T22:42:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palo Alto Networks Q4 FY2026 slides: record growth, margin concerns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/palo-alto-networks-q4-fy2026-slides-record-growth-margin-concerns-93CH-4884708",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T22:36:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Five9 president Andy Dignan sells $622k in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/five9-president-andy-dignan-sells-622k-in-company-stock-93CH-4884707",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T22:31:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Medalist Diversified CFO Winn buys $120 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/medalist-diversified-cfo-winn-buys-120-in-company-stock-93CH-4884706",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T22:30:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -228,17 +287,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T21:40:30+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
@@ -266,17 +314,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4639131-pvh-corp-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-01T21:35:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tilly's Q2 2027 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4639134-tillys-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T21:35:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -322,17 +359,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
       "is_watchlist": false,
       "timestamp": "2026-09-01T20:34:47+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T20:20:50+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -431,23 +457,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "\u2018I feel shoehorned\u2019: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T19:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "CoreWeave (CRWV) Stock May Be Cheap On Sales Yet Weak On Broader Checks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d646610211e6162f5821e0d1c48c778374956b5442fe314404febee22eac15b8",
       "is_watchlist": true,
       "timestamp": "2026-09-01T19:12:44+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nvidia: Betting Against AI's Landlord Is A Widow-Maker Trade",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=917d8a7976ba8b3e4504514f0e93cec344656db2b6fbf75b1141b2e6a9c958f9",
+      "is_watchlist": true,
+      "timestamp": "2026-09-01T19:06:54+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -703,6 +730,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T16:27:54+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Jim Cramer says selling Amazon shares over new FTC lawsuit would be 'hysterical'",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/01/cramer-selling-amazon-shares-over-new-ftc-lawsuit-would-be-hysterical.html",
@@ -746,17 +784,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US borrowing costs hit fresh highs over inflation fears",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T15:51:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "These 7 Energy Stocks Are Rallying as Crude Tops $90 on US Strikes in Iran",
       "source": "Benzinga",
@@ -775,18 +802,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=4b08491dad3e29fe8046857f9414357f70b528b2cfc3bf92ad4ae217e2dcf6f6",
       "is_watchlist": true,
       "timestamp": "2026-09-01T15:48:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c42947f137d10e228b6a2552869aacb9c6ad71d3caa84a78c809af7660cc73ca",
-      "is_watchlist": true,
-      "timestamp": "2026-09-01T15:35:01+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -988,17 +1003,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T21:28:49+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Kalshi bans former congressman George Santos for life after State of the Union trades",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
@@ -1032,11 +1036,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Scale and Longevity of Earnings Inflection Create Compelling Entry Point in Analog Devices (ADI)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/scale-longevity-earnings-inflection-create-153359387.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T15:33:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Firearms retailer files Chapter 11 bankruptcy as gun sales drop",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html",
       "is_watchlist": false,
       "timestamp": "2026-08-31T15:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hyve Solutions: The Hidden Growth Engine of TD SYNNEX (SNX)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hyve-solutions-hidden-growth-engine-153129519.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T15:31:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-boom-starting-resemble-153040777.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T15:30:40+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This Little-Known Software Stock Just Set a New All-Time High",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/little-known-software-stock-just-153003029.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T15:30:03+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UiPath vs. ServiceNow: 1 Stock Is the Better Buy in the Enterprise AI Automation Battle",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uipath-vs-servicenow-1-stock-152733863.html",
+      "is_watchlist": false,
+      "timestamp": "2026-08-31T15:27:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1051,61 +1110,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta Vs. Google: Analyst Says AI Boost Puts Facebook Parent On Track For Ad Crown",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/meta-stock-google-stock-digital-ad-market-lead/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T14:42:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Examining Charter Communications\u2019 (CHTR) Roiling Waters and Hidden Opportunities",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/examining-charter-communications-chtr-roiling-144132247.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T14:41:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Salesforce at $256: Should You Buy It?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-256-buy-144011394.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T14:40:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Oligopoly Advantage: Millicom\u2019s (TIGO) Position in the Telecom Landscape",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oligopoly-advantage-millicom-tigo-position-143925040.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T14:39:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is Walt Disney Stock Underperforming the Dow?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-stock-underperforming-dow-143921877.html",
-      "is_watchlist": false,
-      "timestamp": "2026-08-31T14:39:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
