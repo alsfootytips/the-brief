@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-01T04:55:54+00:00",
+  "generated_at": "2026-09-01T09:47:12+00:00",
   "by_date": {
     "2026-09-01": [
       {
@@ -1245,14 +1245,6 @@ window.theBriefEarnings = {
     ],
     "2026-09-07": [
       {
-        "ticker": "ALMU",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": -0.0765,
-        "revenue_estimate": 586500,
-        "is_watchlist": false
-      },
-      {
         "ticker": "ALOT",
         "date": "2026-09-07",
         "hour": "",
@@ -1652,16 +1644,16 @@ window.theBriefEarnings = {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.187,
+        "revenue_estimate": 44944596,
         "is_watchlist": false
       },
       {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "",
-        "eps_estimate": -0.187,
-        "revenue_estimate": 44944596,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
