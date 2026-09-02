@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-02T05:50:46+00:00",
+  "generated_at": "2026-09-02T10:45:57+00:00",
   "by_date": {
     "2026-09-02": [
       {
@@ -533,6 +533,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "DOMO",
+        "date": "2026-09-03",
+        "hour": "",
+        "eps_estimate": 0.0022,
+        "revenue_estimate": 79617456,
+        "is_watchlist": false
+      },
+      {
         "ticker": "EGAN",
         "date": "2026-09-03",
         "hour": "amc",
@@ -826,14 +834,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": -0.051,
         "revenue_estimate": 100677570,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "TTAN",
-        "date": "2026-09-03",
-        "hour": "",
-        "eps_estimate": 0.3569,
-        "revenue_estimate": 291675885,
         "is_watchlist": false
       },
       {
@@ -1245,6 +1245,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "TTAN",
+        "date": "2026-09-08",
+        "hour": "",
+        "eps_estimate": 0.3569,
+        "revenue_estimate": 291675885,
+        "is_watchlist": false
+      },
+      {
         "ticker": "UNFI",
         "date": "2026-09-08",
         "hour": "bmo",
@@ -1649,14 +1657,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "KMTS",
-        "date": "2026-09-10",
-        "hour": "",
-        "eps_estimate": -0.6282,
-        "revenue_estimate": 29588598,
-        "is_watchlist": false
-      },
-      {
         "ticker": "KXIN",
         "date": "2026-09-10",
         "hour": "",
@@ -1763,6 +1763,14 @@ window.theBriefEarnings = {
     ],
     "2026-09-11": [
       {
+        "ticker": "ANAB",
+        "date": "2026-09-11",
+        "hour": "amc",
+        "eps_estimate": -0.0717,
+        "revenue_estimate": 31274658,
+        "is_watchlist": false
+      },
+      {
         "ticker": "BUKS",
         "date": "2026-09-11",
         "hour": "",
@@ -1798,16 +1806,16 @@ window.theBriefEarnings = {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "",
-        "eps_estimate": -4.4166,
-        "revenue_estimate": 85119000,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -4.4166,
+        "revenue_estimate": 85119000,
         "is_watchlist": false
       },
       {
@@ -1914,6 +1922,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KMTS",
+        "date": "2026-09-14",
+        "hour": "",
+        "eps_estimate": -0.6282,
+        "revenue_estimate": 29588598,
         "is_watchlist": false
       },
       {
