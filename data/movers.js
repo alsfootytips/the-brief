@@ -1,24 +1,24 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-02T01:02:16.172586+00:00",
+  "generated_at": "2026-09-02T05:50:46.679060+00:00",
   "gainers": [
     {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 131.37,
       "change_pct": 3.64,
-      "volume_ratio": 0.85,
+      "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Exploring the top movers within the S&P500 index during today's session.\""
+      "move_reason": "News: \"Dollar General and Dollar Tree send message to Kroger and Publix\""
     },
     {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 44.35,
       "change_pct": 2.78,
-      "volume_ratio": 1.08,
+      "volume_ratio": 1.09,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -42,7 +42,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 60.95,
       "change_pct": 1.28,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -54,7 +54,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 577.58,
       "change_pct": 0.92,
-      "volume_ratio": 0.84,
+      "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -88,7 +88,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 13.79,
       "change_pct": 0.51,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -112,7 +112,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 85.25,
       "change_pct": 0.32,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.16,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -137,12 +137,12 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 81.16,
       "change_pct": -4.4,
-      "volume_ratio": 0.97,
+      "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Stock May Be Cheap On Sales Yet Weak On Broader Checks\""
+      "move_reason": "News: \"CoreWeave's Interest Expense Hit $640 Million Last Quarter, 2.4 Times What It Was a Year A...\""
     },
     {
       "ticker": "NBIS",
@@ -154,7 +154,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia: Betting Against AI's Landlord Is A Widow-Maker Trade\""
+      "move_reason": "News: \"Nebius Raised Its Year-End Power Target From More Than 3 Gigawatts to 5 in 6 Months\""
     },
     {
       "ticker": "PLTR",
@@ -178,7 +178,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft\""
+      "move_reason": "News: \"Credo Technology Group Q1 Earnings Call Highlights\""
     },
     {
       "ticker": "XLY",
@@ -196,7 +196,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 183.64,
       "change_pct": -1.53,
-      "volume_ratio": 1.2,
+      "volume_ratio": 1.21,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -207,12 +207,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 217.48,
       "change_pct": -1.37,
-      "volume_ratio": 0.59,
+      "volume_ratio": 0.6,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Got $10,000 to Invest This September? These Energy Stocks Could Turn It Into Over $600 in ...\""
+      "move_reason": "News: \"CoreWeave's Interest Expense Hit $640 Million Last Quarter, 2.4 Times What It Was a Year A...\""
     },
     {
       "ticker": "XLI",
@@ -230,7 +230,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 707.64,
       "change_pct": -1.27,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.17,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -241,7 +241,7 @@ window.theBriefMovers = {
       "name": "MSFT",
       "price": 501.0,
       "change_pct": -1.24,
-      "volume_ratio": 0.77,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -281,7 +281,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Two Fronts, Zero Wins: The Failure Of US Interventions\""
+      "move_reason": "News: \"Why Canada's Counter-Tariff Is More Than 'Dollar For Dollar'\""
     },
     {
       "ticker": "VWRP.L",
@@ -307,14 +307,14 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft\""
+      "move_reason": "News: \"Credo Technology Group Q1 Earnings Call Highlights\""
     },
     {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 44.35,
       "change_pct": 2.78,
-      "volume_ratio": 1.08,
+      "volume_ratio": 1.09,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -326,36 +326,36 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 81.16,
       "change_pct": -4.4,
-      "volume_ratio": 0.97,
+      "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Stock May Be Cheap On Sales Yet Weak On Broader Checks\""
+      "move_reason": "News: \"CoreWeave's Interest Expense Hit $640 Million Last Quarter, 2.4 Times What It Was a Year A...\""
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 131.37,
       "change_pct": 3.64,
-      "volume_ratio": 0.85,
+      "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Exploring the top movers within the S&P500 index during today's session.\""
+      "move_reason": "News: \"Dollar General and Dollar Tree send message to Kroger and Publix\""
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova",
       "price": 895.04,
       "change_pct": -0.39,
-      "volume_ratio": 0.95,
+      "volume_ratio": 0.96,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Sells the Brains of the AI Boom. Something Else Is Selling the Muscle -- and It's N...\""
+      "move_reason": "News: \"SMR Stock Declines Despite Inking Fresh Partnership For Nuclear Safety Component: Retail T...\""
     },
     {
       "ticker": "IWM",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Two Fronts, Zero Wins: The Failure Of US Interventions\""
+      "move_reason": "News: \"Why Canada's Counter-Tariff Is More Than 'Dollar For Dollar'\""
     },
     {
       "ticker": "NBIS",
@@ -379,26 +379,26 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia: Betting Against AI's Landlord Is A Widow-Maker Trade\""
+      "move_reason": "News: \"Nebius Raised Its Year-End Power Target From More Than 3 Gigawatts to 5 in 6 Months\""
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 217.48,
       "change_pct": -1.37,
-      "volume_ratio": 0.59,
+      "volume_ratio": 0.6,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Got $10,000 to Invest This September? These Energy Stocks Could Turn It Into Over $600 in ...\""
+      "move_reason": "News: \"CoreWeave's Interest Expense Hit $640 Million Last Quarter, 2.4 Times What It Was a Year A...\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 29.72,
       "change_pct": -0.8,
-      "volume_ratio": 1.12,
+      "volume_ratio": 1.16,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -410,7 +410,7 @@ window.theBriefMovers = {
       "name": "Occidental Petroleum",
       "price": 60.95,
       "change_pct": 1.28,
-      "volume_ratio": 1.0,
+      "volume_ratio": 1.02,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "name": "Texas Pacific Land",
       "price": 372.2,
       "change_pct": -0.41,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 13.79,
       "change_pct": 0.51,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.94,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -472,7 +472,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 527.75,
       "change_pct": -0.72,
-      "volume_ratio": 1.36,
+      "volume_ratio": 1.39,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -493,7 +493,7 @@ window.theBriefMovers = {
       "name": "Invesco QQQ Trust",
       "price": 707.64,
       "change_pct": -1.27,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.17,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -503,7 +503,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 761.78,
       "change_pct": -0.69,
-      "volume_ratio": 1.12,
+      "volume_ratio": 1.14,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -546,7 +546,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 85.25,
       "change_pct": 0.32,
-      "volume_ratio": 1.15,
+      "volume_ratio": 1.16,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -606,7 +606,7 @@ window.theBriefMovers = {
       "name": "Technology Select Sector",
       "price": 183.64,
       "change_pct": -1.53,
-      "volume_ratio": 1.2,
+      "volume_ratio": 1.21,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
