@@ -1,4 +1,4 @@
 window.theBriefTickerDetails = {
-  "generated_at": "2026-09-02T10:45:57+00:00",
+  "generated_at": "2026-09-02T14:45:05+00:00",
   "entries": {}
 };
