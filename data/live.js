@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-02T23:19:51.031462+00:00",
+  "generated_at": "2026-09-02T23:44:18.863058+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": 5.52,
+      "change_pct": 5.55,
       "price": 14.54,
       "is_watchlist": true,
-      "timestamp": "2026-09-02T23:19:51.028712+00:00",
+      "timestamp": "2026-09-02T23:44:18.688669+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PLTR",
       "name": "PLTR",
-      "change_pct": -5.61,
-      "price": 169.83,
+      "change_pct": -5.52,
+      "price": 170.0,
       "is_watchlist": false,
-      "timestamp": "2026-09-02T23:19:51.028709+00:00",
+      "timestamp": "2026-09-02T23:44:18.688664+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -29,13 +29,134 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": 3.41,
-      "price": 224.86,
+      "change_pct": 3.56,
+      "price": 225.17,
       "is_watchlist": true,
-      "timestamp": "2026-09-02T23:19:51.028701+00:00",
+      "timestamp": "2026-09-02T23:44:18.688653+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Phreesia maintains FY2027 revenue outlook of $510M-$520M while outlining AccessOne as a multi-year growth lever",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4639790-phreesia-maintains-fy2027-revenue-outlook-of-510m-520m-while-outlining-accessone-as-a-multi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:35:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Almost half of households do not see benefits of economic growth, report says",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:26:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'I don't even like them': How much should you give to office gift collections?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:25:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Uber launches autonomous rides in London with Wayve AI",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/uber-launches-autonomous-rides-in-london-with-wayve-ai-93CH-4886872",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:25:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Snowflake lifts annual revenue forecast on cloud and AI demand, shares soar",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/snowflake-lifts-annual-product-revenue-forecast-on-demand-for-cloud-data-platform-4886702",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:24:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Victoria Beckham turned her fashion firm around and made it profitable",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:24:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "From hunger to obesity: Developing world faces growing threat to child health",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/from-hunger-to-obesity-developing-world-faces-growing-threat-to-child-health-4886871",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:18:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Basswood Capital, a Dime commercial Bancshares director, sells $3.46m",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/basswood-capital-a-dime-commercial-bancshares-director-sells-346m-93CH-4886869",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:16:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "An2 therapeutics director buys $11,601 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/an2-therapeutics-director-buys-11601-in-common-stock-93CH-4886868",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:15:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hanover Bancorp president O\u2019Connor buys $268,800 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hanover-bancorp-president-oconnor-buys-268800-in-company-stock-93CH-4886867",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:15:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why wait? Business grads buying firms to install themselves as CEO",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:13:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -57,6 +178,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-02T23:09:09+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "B&Q and Five Guys among firms that paid staff below minimum wage",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T23:08:05+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -84,77 +216,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Justice Department expands beef price probe to eight retailers",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-justice-department-expands-beef-price-probe-to-eight-retailers-4886862",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T23:00:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NetApp Q1 FY27 slides reveal strong AI demand despite stock selloff",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/netapp-q1-fy27-slides-reveal-strong-ai-demand-despite-stock-selloff-93CH-4886863",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T22:57:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: NetApp beats Q1 2026 estimates but stock falls",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-netapp-beats-q1-2026-estimates-but-stock-falls-93CH-4886861",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T22:47:34+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Maersk to try wind sails on container ship to cut fuel consumption",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4639788-maersk-to-try-wind-sails-on-container-ship-to-cut-fuel-consumption?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-02T22:46:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nscale-touts-103-billion-contracted-revenue-ahead-of-potential-ipo-the-information-reports-4886860",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T22:42:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Broadcom FY25 presentation: $64B revenue, AI growth accelerates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/broadcom-fy25-presentation-64b-revenue-ai-growth-accelerates-93CH-4886859",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T22:39:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CrowdStrike at Fal.Con Investor Briefing: ai push lifts growth outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/crowdstrike-at-falcon-investor-briefing-ai-push-lifts-growth-outlook-93CH-4886858",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T22:38:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -233,6 +299,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-02T22:09:41+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stocks climb and US yields ease; yen jumps against dollar - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-02T22:01:50+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -329,12 +406,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Planet Labs Q2 2027 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4639553-planet-labs-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-09-02T21:35:59+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-09-02T21:33:47+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -549,17 +626,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Judge refuses to block Arkansas news reporting on Google data center energy documents",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/02/google-data-center-arkansas-entergy-court.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T19:57:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The IRS slashed its staff. One result? More taxes going uncollected",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
@@ -746,17 +812,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "We're starting positions in 2 more defensive stocks to balance our AI exposure",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/02/were-starting-positions-in-2-more-defensive-stocks-to-balance-our-ai-exposure.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T16:19:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Quanta's Net Income Nearly Doubles: Can Profit Growth Stay Hot?",
       "source": "Yahoo",
@@ -813,17 +868,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lords call for AI 'kill switch' powers in UK",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T14:41:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1004,17 +1048,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Why are UK borrowing costs rising and what does it mean for me?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T11:05:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "Raymond James Maintains Outperform on APA, Raises Price Target to $54",
       "source": "Benzinga",
@@ -1064,44 +1097,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-02T01:27:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Costco shuts down key service without notice",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
       "is_watchlist": false,
       "timestamp": "2026-09-02T01:12:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Will self-flying planes transform the skies?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T23:27:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T23:26:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1130,55 +1130,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Private equity group rolls up 3 small firms for courier network",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/private-equity-group-rolls-3-155325320.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T15:53:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Uber Technologies Stock: Is UBER Underperforming the Technology Sector?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-stock-uber-underperforming-155244261.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-01T15:52:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Denny\u2019s rival dining chain files for Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
       "is_watchlist": false,
       "timestamp": "2026-09-01T15:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dell and HPE Stocks Soared After Last Earnings. Forget the Guidance Raise. This Is What Matters Most This Time.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-stocks-soared-last-152826535.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T15:28:26+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RTX Corporation Stock: Is RTX Outperforming the Industrial Sector?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-stock-rtx-outperforming-152720890.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T15:27:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Stock Has More Than Quadrupled in Just the Past Year \u2013 No It\u2019s Not an AI Company",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-more-quadrupled-just-past-152503324.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T15:25:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is NIKE Stock Underperforming the Dow?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-underperforming-dow-152130977.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-01T15:21:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1356,11 +1334,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "How soaring Treasury yields could hit your finances",
+      "headline": "Best Bank of America credit cards for 2026: Cash back, travel, 0% APR, and more",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-treasury-yields-could-hit-your-finances-141336109.html",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-bank-of-america-credit-cards-204820061.html",
       "is_watchlist": false,
-      "timestamp": "2026-05-19T14:13:36+00:00",
+      "timestamp": "2026-01-26T20:48:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best airline credit cards (2026)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html",
+      "is_watchlist": false,
+      "timestamp": "2024-09-11T22:47:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best American Express credit cards (2026)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-amex-credit-card-172941206.html",
+      "is_watchlist": false,
+      "timestamp": "2024-08-30T18:18:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     }
