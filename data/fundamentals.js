@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-09-03T23:26:28.444103+00:00",
+  "generated_at": "2026-09-03T23:43:51.216746+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -5.93,
@@ -36,6 +36,11 @@ window.theBriefFundamentals = {
       "analyst_recs_change": {
         "buy_delta": 1,
         "sell_delta": 0
+      },
+      "insider_recent_90d": {
+        "buys": 1,
+        "sells": 9,
+        "total": 10
       }
     },
     "NBIS": {
@@ -49,7 +54,7 @@ window.theBriefFundamentals = {
       "realized_vol_30d_pct": 10.38,
       "trailing_pe": null,
       "forward_pe": -70.26856,
-      "price_to_sales": 42.255825,
+      "price_to_sales": 39.464672,
       "price_to_book": 5.5837445,
       "enterprise_to_ebitda": 232.123,
       "profit_margin": 0.03129,
@@ -61,24 +66,7 @@ window.theBriefFundamentals = {
       "beta": 1.434,
       "dividend_yield": null,
       "short_ratio": 2.12,
-      "short_percent_of_float": 0.2344,
-      "analyst_recs": {
-        "strongBuy": 7,
-        "buy": 11,
-        "hold": 7,
-        "sell": 0,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 1,
-        "sells": 9,
-        "total": 10
-      }
+      "short_percent_of_float": 0.2344
     },
     "TTD": {
       "return_1m": -20.41,
@@ -103,24 +91,7 @@ window.theBriefFundamentals = {
       "beta": 1.037,
       "dividend_yield": null,
       "short_ratio": 3.08,
-      "short_percent_of_float": 0.2301,
-      "analyst_recs": {
-        "strongBuy": 2,
-        "buy": 4,
-        "hold": 27,
-        "sell": 10,
-        "strongSell": 2,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": -9,
-        "sell_delta": 7
-      },
-      "insider_recent_90d": {
-        "buys": 9,
-        "sells": 1,
-        "total": 10
-      }
+      "short_percent_of_float": 0.2301
     },
     "OSCR": {
       "return_1m": 7.07,
@@ -145,24 +116,7 @@ window.theBriefFundamentals = {
       "beta": 2.385,
       "dividend_yield": null,
       "short_ratio": 3.03,
-      "short_percent_of_float": 0.065,
-      "analyst_recs": {
-        "strongBuy": 2,
-        "buy": 7,
-        "hold": 9,
-        "sell": 1,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 4,
-        "sells": 6,
-        "total": 10
-      }
+      "short_percent_of_float": 0.065
     },
     "APA": {
       "return_1m": 27.47,
@@ -177,7 +131,7 @@ window.theBriefFundamentals = {
       "forward_pe": 10.5524645,
       "price_to_sales": 1.805708,
       "price_to_book": 2.2065728,
-      "enterprise_to_ebitda": 3.5,
+      "enterprise_to_ebitda": 3.468,
       "profit_margin": 0.19564,
       "gross_margin": 0.78255,
       "operating_margin": 0.56331,
@@ -187,7 +141,12 @@ window.theBriefFundamentals = {
       "beta": 0.348,
       "dividend_yield": 2.24,
       "short_ratio": 4.72,
-      "short_percent_of_float": 0.09819999
+      "short_percent_of_float": 0.09819999,
+      "insider_recent_90d": {
+        "buys": 9,
+        "sells": 1,
+        "total": 10
+      }
     },
     "TPL": {
       "return_1m": -3.87,
@@ -202,7 +161,7 @@ window.theBriefFundamentals = {
       "forward_pe": 5.012308,
       "price_to_sales": 28.164974,
       "price_to_book": 16.247007,
-      "enterprise_to_ebitda": 33.853,
+      "enterprise_to_ebitda": 33.777,
       "profit_margin": 0.60322,
       "gross_margin": 0.93336,
       "operating_margin": 0.78177,
@@ -210,7 +169,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.325,
       "market_cap": 25279219712,
       "beta": 0.633,
-      "dividend_yield": 0.65,
+      "dividend_yield": null,
       "short_ratio": 12.68,
       "short_percent_of_float": 0.092,
       "analyst_recs": {
@@ -224,11 +183,6 @@ window.theBriefFundamentals = {
       "analyst_recs_change": {
         "buy_delta": 0,
         "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 10,
-        "sells": 0,
-        "total": 10
       }
     },
     "OXY": {
@@ -266,11 +220,6 @@ window.theBriefFundamentals = {
       "analyst_recs_change": {
         "buy_delta": -1,
         "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 7,
-        "sells": 3,
-        "total": 10
       }
     },
     "XLE": {
@@ -347,10 +296,17 @@ window.theBriefFundamentals = {
       "dividend_yield": null,
       "short_ratio": 1.42,
       "short_percent_of_float": 0.024600001,
-      "insider_recent_90d": {
-        "buys": 0,
-        "sells": 10,
-        "total": 10
+      "analyst_recs": {
+        "strongBuy": 17,
+        "buy": 32,
+        "hold": 10,
+        "sell": 0,
+        "strongSell": 0,
+        "period": "2026-09-01"
+      },
+      "analyst_recs_change": {
+        "buy_delta": 0,
+        "sell_delta": 0
       }
     },
     "NVDA": {
@@ -376,7 +332,24 @@ window.theBriefFundamentals = {
       "beta": 2.215,
       "dividend_yield": 0.45,
       "short_ratio": 2.35,
-      "short_percent_of_float": 0.0123000005
+      "short_percent_of_float": 0.0123000005,
+      "analyst_recs": {
+        "strongBuy": 24,
+        "buy": 41,
+        "hold": 3,
+        "sell": 1,
+        "strongSell": 0,
+        "period": "2026-09-01"
+      },
+      "analyst_recs_change": {
+        "buy_delta": 0,
+        "sell_delta": 0
+      },
+      "insider_recent_90d": {
+        "buys": 1,
+        "sells": 9,
+        "total": 10
+      }
     },
     "DG": {
       "return_1m": 3.4,
@@ -431,7 +404,12 @@ window.theBriefFundamentals = {
       "beta": 1.219,
       "dividend_yield": 0.07,
       "short_ratio": 2.51,
-      "short_percent_of_float": 0.021
+      "short_percent_of_float": 0.021,
+      "insider_recent_90d": {
+        "buys": 5,
+        "sells": 5,
+        "total": 10
+      }
     },
     "GEV": {
       "return_1m": -7.48,
@@ -446,7 +424,7 @@ window.theBriefFundamentals = {
       "forward_pe": 37.55876,
       "price_to_sales": 6.0638585,
       "price_to_book": 20.97873,
-      "enterprise_to_ebitda": 60.53,
+      "enterprise_to_ebitda": 61.88,
       "profit_margin": 0.23035,
       "gross_margin": 0.2057,
       "operating_margin": 0.07466,
@@ -454,20 +432,13 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.3,
       "market_cap": 250843627520,
       "beta": 1.033,
-      "dividend_yield": 0.22,
+      "dividend_yield": null,
       "short_ratio": 3.05,
       "short_percent_of_float": 0.0298,
-      "analyst_recs": {
-        "strongBuy": 11,
-        "buy": 24,
-        "hold": 7,
-        "sell": 0,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
+      "insider_recent_90d": {
+        "buys": 9,
+        "sells": 1,
+        "total": 10
       }
     }
   }
