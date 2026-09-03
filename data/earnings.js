@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-03T06:13:13+00:00",
+  "generated_at": "2026-09-03T11:18:54+00:00",
   "by_date": {
     "2026-09-03": [
       {
@@ -577,6 +577,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "DLNG",
+        "date": "2026-09-07",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "FCEL",
         "date": "2026-09-07",
         "hour": "bmo",
@@ -909,14 +917,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "CPRT",
-        "date": "2026-09-09",
-        "hour": "amc",
-        "eps_estimate": 0.3898,
-        "revenue_estimate": 1163345190,
-        "is_watchlist": false
-      },
-      {
         "ticker": "CYTOF",
         "date": "2026-09-09",
         "hour": "",
@@ -1069,6 +1069,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "RSSS",
+        "date": "2026-09-09",
+        "hour": "",
+        "eps_estimate": 0.034,
+        "revenue_estimate": 12186960,
+        "is_watchlist": false
+      },
+      {
         "ticker": "SAIL",
         "date": "2026-09-09",
         "hour": "bmo",
@@ -1148,6 +1156,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0,
         "revenue_estimate": 0,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CPRT",
+        "date": "2026-09-10",
+        "hour": "amc",
+        "eps_estimate": 0.3898,
+        "revenue_estimate": 1163345190,
         "is_watchlist": false
       },
       {
@@ -1693,6 +1709,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "VRA",
+        "date": "2026-09-15",
+        "hour": "",
+        "eps_estimate": -0.0808,
+        "revenue_estimate": 66614550,
+        "is_watchlist": false
+      },
+      {
         "ticker": "YI",
         "date": "2026-09-15",
         "hour": "",
@@ -1719,19 +1743,19 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "ALMU",
+        "date": "2026-09-16",
+        "hour": "",
+        "eps_estimate": -0.0765,
+        "revenue_estimate": 586500,
+        "is_watchlist": false
+      },
+      {
         "ticker": "CSBR",
         "date": "2026-09-16",
         "hour": "",
         "eps_estimate": -0.0102,
         "revenue_estimate": 15345900,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DLNG",
-        "date": "2026-09-16",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -1774,14 +1798,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.9696,
         "revenue_estimate": 14948000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FDS",
-        "date": "2026-09-17",
-        "hour": "amc",
-        "eps_estimate": 4.3703,
-        "revenue_estimate": 636127754,
         "is_watchlist": false
       },
       {
@@ -1854,14 +1870,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RSSS",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": 0.034,
-        "revenue_estimate": 12186960,
         "is_watchlist": false
       },
       {
