@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-09-03T21:21:47.515613+00:00",
+  "generated_at": "2026-09-03T23:26:28.444103+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -5.93,
@@ -36,11 +36,6 @@ window.theBriefFundamentals = {
       "analyst_recs_change": {
         "buy_delta": 1,
         "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 1,
-        "sells": 9,
-        "total": 10
       }
     },
     "NBIS": {
@@ -56,13 +51,13 @@ window.theBriefFundamentals = {
       "forward_pe": -70.26856,
       "price_to_sales": 42.255825,
       "price_to_book": 5.5837445,
-      "enterprise_to_ebitda": 225.175,
+      "enterprise_to_ebitda": 232.123,
       "profit_margin": 0.03129,
       "gross_margin": 0.7426,
       "operating_margin": -0.00223,
       "revenue_growth_yoy": 4.54,
       "earnings_growth_qoq": null,
-      "market_cap": 57260867584,
+      "market_cap": 53478576128,
       "beta": 1.434,
       "dividend_yield": null,
       "short_ratio": 2.12,
@@ -192,24 +187,7 @@ window.theBriefFundamentals = {
       "beta": 0.348,
       "dividend_yield": 2.24,
       "short_ratio": 4.72,
-      "short_percent_of_float": 0.09819999,
-      "analyst_recs": {
-        "strongBuy": 4,
-        "buy": 8,
-        "hold": 16,
-        "sell": 3,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 9,
-        "sells": 1,
-        "total": 10
-      }
+      "short_percent_of_float": 0.09819999
     },
     "TPL": {
       "return_1m": -3.87,
@@ -369,18 +347,6 @@ window.theBriefFundamentals = {
       "dividend_yield": null,
       "short_ratio": 1.42,
       "short_percent_of_float": 0.024600001,
-      "analyst_recs": {
-        "strongBuy": 17,
-        "buy": 32,
-        "hold": 10,
-        "sell": 0,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
-      },
       "insider_recent_90d": {
         "buys": 0,
         "sells": 10,
@@ -397,7 +363,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 38.47,
       "realized_vol_30d_pct": 2.87,
       "trailing_pe": 28.91772,
-      "forward_pe": 14.853116,
+      "forward_pe": 14.830322,
       "price_to_sales": 18.207684,
       "price_to_book": 24.090477,
       "enterprise_to_ebitda": 26.754,
@@ -410,24 +376,7 @@ window.theBriefFundamentals = {
       "beta": 2.215,
       "dividend_yield": 0.45,
       "short_ratio": 2.35,
-      "short_percent_of_float": 0.0123000005,
-      "analyst_recs": {
-        "strongBuy": 24,
-        "buy": 41,
-        "hold": 3,
-        "sell": 1,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 1,
-        "sells": 9,
-        "total": 10
-      }
+      "short_percent_of_float": 0.0123000005
     },
     "DG": {
       "return_1m": 3.4,
@@ -453,18 +402,6 @@ window.theBriefFundamentals = {
       "dividend_yield": 1.8,
       "short_ratio": 3.05,
       "short_percent_of_float": 0.0334,
-      "analyst_recs": {
-        "strongBuy": 10,
-        "buy": 8,
-        "hold": 21,
-        "sell": 1,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
-      },
       "insider_recent_90d": {
         "buys": 6,
         "sells": 0,
@@ -494,24 +431,7 @@ window.theBriefFundamentals = {
       "beta": 1.219,
       "dividend_yield": 0.07,
       "short_ratio": 2.51,
-      "short_percent_of_float": 0.021,
-      "analyst_recs": {
-        "strongBuy": 11,
-        "buy": 17,
-        "hold": 8,
-        "sell": 0,
-        "strongSell": 0,
-        "period": "2026-09-01"
-      },
-      "analyst_recs_change": {
-        "buy_delta": 2,
-        "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 5,
-        "sells": 5,
-        "total": 10
-      }
+      "short_percent_of_float": 0.021
     },
     "GEV": {
       "return_1m": -7.48,
@@ -548,11 +468,6 @@ window.theBriefFundamentals = {
       "analyst_recs_change": {
         "buy_delta": 0,
         "sell_delta": 0
-      },
-      "insider_recent_90d": {
-        "buys": 9,
-        "sells": 1,
-        "total": 10
       }
     }
   }
