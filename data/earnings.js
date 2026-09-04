@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-04T22:28:43+00:00",
+  "generated_at": "2026-09-04T23:36:08+00:00",
   "by_date": {
     "2026-09-04": [
       {
@@ -501,7 +501,7 @@ window.theBriefEarnings = {
       {
         "ticker": "JMKE",
         "date": "2026-09-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.1883,
         "revenue_estimate": 213006987,
         "is_watchlist": false
@@ -525,7 +525,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KFY",
         "date": "2026-09-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.3716,
         "revenue_estimate": 745948024,
         "is_watchlist": false
@@ -815,7 +815,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LPTH",
         "date": "2026-09-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0204,
         "revenue_estimate": 21022200,
         "is_watchlist": false
@@ -855,7 +855,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ORCL",
         "date": "2026-09-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.7766,
         "revenue_estimate": 19527219180,
         "is_watchlist": false
@@ -929,7 +929,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HOFT",
         "date": "2026-09-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0204,
         "revenue_estimate": 65035710,
         "is_watchlist": false
@@ -937,7 +937,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MNY",
         "date": "2026-09-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0202,
         "revenue_estimate": 21744290,
         "is_watchlist": false
@@ -945,7 +945,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RENT",
         "date": "2026-09-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -4.4166,
         "revenue_estimate": 85119000,
         "is_watchlist": false
@@ -953,7 +953,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RENT",
         "date": "2026-09-11",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false

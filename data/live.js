@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-04T22:28:43.818021+00:00",
+  "generated_at": "2026-09-04T23:36:08.489838+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.63,
-      "price": 14.39,
+      "change_pct": -4.57,
+      "price": 14.4,
       "is_watchlist": true,
-      "timestamp": "2026-09-04T22:28:43.814858+00:00",
+      "timestamp": "2026-09-04T23:36:08.330133+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 7.06,
-      "price": 225.5,
+      "change_pct": 6.87,
+      "price": 225.1,
       "is_watchlist": true,
-      "timestamp": "2026-09-04T22:28:43.814853+00:00",
+      "timestamp": "2026-09-04T23:36:08.330128+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +29,22 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 5.31,
-      "price": 89.05,
+      "change_pct": 5.29,
+      "price": 89.03,
       "is_watchlist": true,
-      "timestamp": "2026-09-04T22:28:43.814842+00:00",
+      "timestamp": "2026-09-04T23:36:08.330117+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "APA",
+      "name": "APA Corp",
+      "change_pct": -3.12,
+      "price": 42.8,
+      "is_watchlist": true,
+      "timestamp": "2026-09-04T23:36:08.330113+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,13 +53,101 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 4.37,
-      "price": 476.11,
+      "change_pct": 4.31,
+      "price": 475.83,
       "is_watchlist": true,
-      "timestamp": "2026-09-04T22:28:43.814833+00:00",
+      "timestamp": "2026-09-04T23:36:08.330105+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic delays IPO launch to mid-October at earliest, Reuters reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/anthropic-delays-ipo-launch-to-midoctober-at-earliest-reuters-reports-4890106",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:21:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yields, dollar rise, stocks ease after solid US jobs report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:18:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Director Clint Hurt offloads $398,736 in PrimeEnergy Resources Corp shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/director-clint-hurt-offloads-398736-in-primeenergy-resources-corp-shares-93CH-4890105",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:16:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Block director Anthony Eisen sells $1.46m in NASDAQ:XYZ stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-146m-in-nasdaqxyz-stock-93CH-4890104",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:16:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Royalty Pharma expects modest return despite pelacarsen trial failure",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/royalty-pharma-expects-modest-return-despite-pelacarsen-trial-failure-93CH-4890103",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:08:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:06:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Funko CEO Josh Simon sells $1.05m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/funko-ceo-josh-simon-sells-105m-in-stock-93CH-4890101",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Willdan director Thomas Brisbin sells $5.17m in WLDN shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/willdan-director-thomas-brisbin-sells-517m-in-wldn-shares-93CH-4890100",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T23:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -221,94 +321,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Remitly director Nigel Morris sells $170,289 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/remitly-director-nigel-morris-sells-170289-in-stock-93CH-4890046",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:16:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Squadron Capital LLC sells $525k Orthopediatrics (kids) shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/squadron-capital-llc-sells-525k-orthopediatrics-kids-shares-93CH-4890045",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:15:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soluna Holdings director Phelan sells $13,481 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/soluna-holdings-director-phelan-sells-13481-in-company-stock-93CH-4890044",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:15:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mizuho Names Top Software Largecap Stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/mizuho-names-top-software-largecap-stock-93CH-4890042",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:15:04+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Golden Minerals names David Watkins as new CEO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/golden-minerals-names-david-watkins-as-new-ceo-93CH-4890037",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:12:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lion Copper to implement 1-for-27 reverse stock split",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/lion-copper-to-implement-1for27-reverse-stock-split-93CH-4890038",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:12:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EOS Falls 10% In Selloff",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-selloff-4890028",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:03:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Miami International Holdings chairman & CEO sells $1.99m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/miami-international-holdings-chairman--ceo-sells-199m-in-shares-93CH-4890027",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:01:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Bessent",
@@ -323,6 +335,17 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil ends week higher on renewed US-Iran strikes, diesel hits record - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T20:30:21+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -718,17 +741,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US and allies push IAEA board to report Iran to UN Security Council, diplomats say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWN6cU9lV0RMREdsVnRUZW1vS0tKZk9tZUJmMnFpTTdNM2c4c2J2bUtzOElSbjA2WnFCQzdZSnotczdsYnNPRWFLckFyV0EwNWg1akIyTFo4NDF4ODVMTnVSNnBjcWREd1Q4dWk3Q3FyWFkwMFdLbzY5YU9yLVkySDlEOGJBVktZQTJ1d2NJMkJSUGpKaks5dTNUb2xySnVBb3VGUUdILXZpaVZqeHVtcWR4Nm03M1oxNUFUNA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T15:36:48+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1129,11 +1141,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stocks and Bonds Gain as Fed Rate Hike Chances Ease",
+      "headline": "Stocks Rally, Yields Retreat after Waller Signals a September Hold",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-gain-fed-rate-151304284.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-yields-retreat-waller-162644511.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-03T15:13:04+00:00",
+      "timestamp": "2026-09-03T16:26:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bloom Energy Spikes 8% as Risk-On Tape Lifts High-Beta Names, FuelCell Ticks Up, Plug Power Stays Flat",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-spikes-8-risk-162059642.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-03T16:20:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rivian Announced That Its CFO Is Stepping Down. How Investors Should View the Departure.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-announced-cfo-stepping-down-162015877.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-03T16:20:15+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance'",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/feds-waller-open-leaving-rates-123302697.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-03T16:20:09+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -1141,66 +1186,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here\u2019s What Boosted Astrana\u00a0Health (ASTH) in Q2",
+      "headline": "HubSpot CEO Rangan Yamini Sells 2,622 Shares for Tax Obligations",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/boosted-astrana-health-asth-q2-150951781.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hubspot-ceo-rangan-yamini-sells-162001905.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-03T15:09:51+00:00",
+      "timestamp": "2026-09-03T16:20:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "How Long Can Rocket Lab Stock Wait On Neutron?",
+      "headline": "Lake Victoria Gold Reports High-Grade Gold Intercepts at Imwelo as It Advances Metallurgical Testing",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/long-rocket-lab-stock-wait-150829375.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-reports-high-161602054.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-03T15:08:29+00:00",
+      "timestamp": "2026-09-03T16:16:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Planet Labs Sinks 8% Despite New Defense Contract, Intuitive Machines Pulls Back, AST SpaceMobile Sits Out Broad-Market Rally",
+      "headline": "Retailer's Turnaround 'Defies Belief,' Attempts To Retake Entry On Q2 Results",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-sinks-8-despite-150706793.html",
+      "url": "https://www.investors.com/news/five-below-earnings-q2-2026-sales-growth-traffic-margins-tariffs-price-target-outlook-five-stock-buy-point/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-09-03T15:07:06+00:00",
+      "timestamp": "2026-09-03T16:14:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Do You Believe Arthur J. Gallagher (AJG) Could Deliver Mid-Teens EPS Growth for Years?",
+      "headline": "How Is General Dynamics' Stock Performance Compared to Other Aerospace & Defense Stocks?",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/believe-arthur-j-gallagher-ajg-150133494.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-stock-performance-compared-161254532.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-03T15:01:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bullish Option Traders Might Like This Play On Dell Stock",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/options/dell-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-03T15:01:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Flywire (FLYW) Bets On Open Banking To Widen Its Payment Moat",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/flywire-flyw-bets-open-banking-145555831.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-03T14:55:55+00:00",
+      "timestamp": "2026-09-03T16:12:54+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1397,17 +1420,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why are home prices so high? How today's market impacts housing costs.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/why-are-home-prices-so-high-factors-contributing-to-current-housing-costs-184935469.html",
-      "is_watchlist": false,
-      "timestamp": "2024-04-02T18:49:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     }
   ]
 };
