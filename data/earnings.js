@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-04T05:55:01+00:00",
+  "generated_at": "2026-09-04T10:44:29+00:00",
   "by_date": {
     "2026-09-04": [
       {
@@ -100,14 +100,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.2576,
         "revenue_estimate": 752545950,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DLNG",
-        "date": "2026-09-07",
-        "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -286,6 +278,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 6.8777,
         "revenue_estimate": 5691334381,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DLNG",
+        "date": "2026-09-08",
+        "hour": "amc",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -470,16 +470,16 @@ window.theBriefEarnings = {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "amc",
-        "eps_estimate": -0.187,
-        "revenue_estimate": 44944596,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.187,
+        "revenue_estimate": 44944596,
         "is_watchlist": false
       },
       {
@@ -499,6 +499,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "JMKE",
+        "date": "2026-09-09",
+        "hour": "",
+        "eps_estimate": 0.1883,
+        "revenue_estimate": 213006987,
+        "is_watchlist": false
+      },
+      {
         "ticker": "JOCM",
         "date": "2026-09-09",
         "hour": "",
@@ -512,6 +520,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KFY",
+        "date": "2026-09-09",
+        "hour": "",
+        "eps_estimate": 1.3716,
+        "revenue_estimate": 745948024,
         "is_watchlist": false
       },
       {
@@ -837,6 +853,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "ORCL",
+        "date": "2026-09-10",
+        "hour": "",
+        "eps_estimate": 1.7766,
+        "revenue_estimate": 19527219180,
+        "is_watchlist": false
+      },
+      {
         "ticker": "RLGT",
         "date": "2026-09-10",
         "hour": "",
@@ -922,16 +946,16 @@ window.theBriefEarnings = {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -4.4166,
+        "revenue_estimate": 85119000,
         "is_watchlist": false
       },
       {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "",
-        "eps_estimate": -4.4166,
-        "revenue_estimate": 85119000,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -1070,14 +1094,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0306,
         "revenue_estimate": 1872720,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ORCL",
-        "date": "2026-09-14",
-        "hour": "",
-        "eps_estimate": 1.7766,
-        "revenue_estimate": 19527219180,
         "is_watchlist": false
       },
       {
@@ -1293,6 +1309,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "LEN",
+        "date": "2026-09-16",
+        "hour": "amc",
+        "eps_estimate": 1.3147,
+        "revenue_estimate": 8395896609,
+        "is_watchlist": false
+      },
+      {
         "ticker": "LGCY",
         "date": "2026-09-16",
         "hour": "",
@@ -1375,14 +1399,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "LEN",
-        "date": "2026-09-17",
-        "hour": "amc",
-        "eps_estimate": 1.3147,
-        "revenue_estimate": 8395896609,
-        "is_watchlist": false
-      },
-      {
         "ticker": "OWPC",
         "date": "2026-09-17",
         "hour": "",
@@ -1396,14 +1412,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SCHL",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": -3.468,
-        "revenue_estimate": 229182780,
         "is_watchlist": false
       },
       {
