@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-04T10:44:29+00:00",
+  "generated_at": "2026-09-04T14:34:46+00:00",
   "by_date": {
     "2026-09-04": [
       {
@@ -29,7 +29,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HURC",
         "date": "2026-09-04",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
