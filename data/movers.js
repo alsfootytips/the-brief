@@ -1,11 +1,11 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-04T20:21:40.092579+00:00",
+  "generated_at": "2026-09-04T22:28:43.812471+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 225.0,
-      "change_pct": 6.82,
+      "price": 225.5,
+      "change_pct": 7.06,
       "volume_ratio": 1.28,
       "is_watchlist": true,
       "is_index": false,
@@ -16,33 +16,33 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 89.25,
-      "change_pct": 5.55,
+      "price": 89.05,
+      "change_pct": 5.31,
       "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave to Participate in the Goldman Sachs Communacopia + Technology Conference\""
+      "move_reason": "News: \"BigBear.ai vs. CoreWeave: Evaluating the Better Artificial Intelligence Stock to Buy for 2...\""
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 476.52,
-      "change_pct": 4.46,
+      "price": 476.11,
+      "change_pct": 4.37,
       "volume_ratio": 1.29,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Far AMD Stock Can Swing In Its Calm Case\""
+      "move_reason": "News: \"Marvell Stock Had A Huge Year And Still Sits Well Below Its High\""
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 133.21,
-      "change_pct": 1.49,
-      "volume_ratio": 0.58,
+      "price": 133.43,
+      "change_pct": 1.65,
+      "volume_ratio": 0.6,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -50,33 +50,22 @@ window.theBriefMovers = {
       "move_reason": "News: \"Cramer Says Costco at 49 Times Earnings Is the Mistake Loyal Shoppers Keep Making\""
     },
     {
-      "ticker": "META",
-      "name": "META",
-      "price": 615.56,
-      "change_pct": 0.8,
-      "volume_ratio": 0.97,
-      "is_watchlist": false,
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "price": 230.09,
+      "change_pct": 0.72,
+      "volume_ratio": 1.0,
+      "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "price": 187.3,
-      "change_pct": 0.72,
-      "volume_ratio": 0.86,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
+      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
     },
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 624.41,
-      "change_pct": 0.7,
+      "price": 624.51,
+      "change_pct": 0.72,
       "volume_ratio": 0.68,
       "is_watchlist": true,
       "is_index": false,
@@ -85,16 +74,27 @@ window.theBriefMovers = {
       "move_reason": "News: \"EMCOR Rises 21% Year to Date: Should Investors Buy the Stock Now?\""
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "price": 229.9,
-      "change_pct": 0.63,
-      "volume_ratio": 1.0,
-      "is_watchlist": true,
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "price": 187.28,
+      "change_pct": 0.7,
+      "volume_ratio": 0.86,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "META",
+      "name": "META",
+      "price": 614.59,
+      "change_pct": 0.64,
+      "volume_ratio": 0.97,
+      "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": ""
     },
     {
       "ticker": "XLI",
@@ -108,18 +108,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "IWM",
-      "name": "iShares Russell 2000 ETF",
-      "price": 295.81,
-      "change_pct": 0.21,
-      "volume_ratio": 0.72,
-      "is_watchlist": true,
-      "is_index": true,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Robust Top-Line Job Creation Obfuscates More Nuanced Results\""
-    },
-    {
       "ticker": "QQQ",
       "name": "Invesco QQQ Trust",
       "price": 718.96,
@@ -129,6 +117,18 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "move_reason": ""
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 943.0,
+      "change_pct": 0.12,
+      "volume_ratio": 0.53,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"GE Vernova signs agreement to supply turbines for ESB wind farm in Scotland\""
     },
     {
       "ticker": "XLU",
@@ -142,36 +142,24 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 941.95,
-      "change_pct": 0.01,
-      "volume_ratio": 0.53,
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 295.48,
+      "change_pct": 0.1,
+      "volume_ratio": 0.72,
       "is_watchlist": true,
-      "is_index": false,
+      "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova signs agreement to supply turbines for ESB wind farm in Scotland\""
+      "move_reason": "News: \"'Hot' August CPI To Trigger More Aggressive Fed Tightening\""
     }
   ],
   "losers": [
     {
-      "ticker": "PLTR",
-      "name": "PLTR",
-      "price": 174.09,
-      "change_pct": -4.62,
-      "volume_ratio": 0.88,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
-    },
-    {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 14.45,
-      "change_pct": -4.27,
+      "price": 14.39,
+      "change_pct": -4.63,
       "volume_ratio": 1.12,
       "is_watchlist": true,
       "is_index": false,
@@ -180,10 +168,22 @@ window.theBriefMovers = {
       "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
     },
     {
+      "ticker": "PLTR",
+      "name": "PLTR",
+      "price": 174.41,
+      "change_pct": -4.45,
+      "volume_ratio": 0.88,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+    },
+    {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 42.77,
-      "change_pct": -3.19,
+      "price": 42.88,
+      "change_pct": -2.94,
       "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
@@ -194,8 +194,8 @@ window.theBriefMovers = {
     {
       "ticker": "MSFT",
       "name": "MSFT",
-      "price": 499.7,
-      "change_pct": -2.04,
+      "price": 499.43,
+      "change_pct": -2.09,
       "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
@@ -206,9 +206,9 @@ window.theBriefMovers = {
     {
       "ticker": "SOFI",
       "name": "SOFI",
-      "price": 18.22,
-      "change_pct": -1.58,
-      "volume_ratio": 0.74,
+      "price": 18.18,
+      "change_pct": -1.78,
+      "volume_ratio": 0.75,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -240,8 +240,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 362.42,
-      "change_pct": -1.11,
+      "price": 362.4,
+      "change_pct": -1.12,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
@@ -263,14 +263,26 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 60.04,
-      "change_pct": -0.94,
+      "price": 60.03,
+      "change_pct": -0.96,
       "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Occidental (OXY) Up 8.2% Since Last Earnings Report: Can It Continue?\""
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 64.07,
+      "change_pct": -0.85,
+      "volume_ratio": 0.95,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null,
+      "move_reason": "News: \"SanDisk Jumps 10%, Lululemon Crashes 17%: Stock Market Today\""
     },
     {
       "ticker": "XLP",
@@ -295,18 +307,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 64.13,
-      "change_pct": -0.75,
-      "volume_ratio": 0.94,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null,
-      "move_reason": "News: \"SanDisk Jumps 10%, Lululemon Crashes 17%: Stock Market Today\""
-    },
-    {
       "ticker": "XLRE",
       "name": "Real Estate Select Sector",
       "price": 43.93,
@@ -322,7 +322,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 534.08,
       "change_pct": -0.53,
-      "volume_ratio": 0.74,
+      "volume_ratio": 0.75,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -333,20 +333,20 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 476.52,
-      "change_pct": 4.46,
+      "price": 476.11,
+      "change_pct": 4.37,
       "volume_ratio": 1.29,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Far AMD Stock Can Swing In Its Calm Case\""
+      "move_reason": "News: \"Marvell Stock Had A Huge Year And Still Sits Well Below Its High\""
     },
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 42.77,
-      "change_pct": -3.19,
+      "price": 42.88,
+      "change_pct": -2.94,
       "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
@@ -357,21 +357,21 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 89.25,
-      "change_pct": 5.55,
+      "price": 89.05,
+      "change_pct": 5.31,
       "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave to Participate in the Goldman Sachs Communacopia + Technology Conference\""
+      "move_reason": "News: \"BigBear.ai vs. CoreWeave: Evaluating the Better Artificial Intelligence Stock to Buy for 2...\""
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 133.21,
-      "change_pct": 1.49,
-      "volume_ratio": 0.58,
+      "price": 133.43,
+      "change_pct": 1.65,
+      "volume_ratio": 0.6,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -381,8 +381,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 941.95,
-      "change_pct": 0.01,
+      "price": 943.0,
+      "change_pct": 0.12,
       "volume_ratio": 0.53,
       "is_watchlist": true,
       "is_index": false,
@@ -393,20 +393,20 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 295.81,
-      "change_pct": 0.21,
+      "price": 295.48,
+      "change_pct": 0.1,
       "volume_ratio": 0.72,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Robust Top-Line Job Creation Obfuscates More Nuanced Results\""
+      "move_reason": "News: \"'Hot' August CPI To Trigger More Aggressive Fed Tightening\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 225.0,
-      "change_pct": 6.82,
+      "price": 225.5,
+      "change_pct": 7.06,
       "volume_ratio": 1.28,
       "is_watchlist": true,
       "is_index": false,
@@ -417,8 +417,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 229.9,
-      "change_pct": 0.63,
+      "price": 230.09,
+      "change_pct": 0.72,
       "volume_ratio": 1.0,
       "is_watchlist": true,
       "is_index": false,
@@ -429,8 +429,8 @@ window.theBriefMovers = {
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 32.21,
-      "change_pct": -0.1,
+      "price": 32.19,
+      "change_pct": -0.16,
       "volume_ratio": 0.85,
       "is_watchlist": true,
       "is_index": false,
@@ -441,8 +441,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 60.04,
-      "change_pct": -0.94,
+      "price": 60.03,
+      "change_pct": -0.96,
       "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
@@ -453,8 +453,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 624.41,
-      "change_pct": 0.7,
+      "price": 624.51,
+      "change_pct": 0.72,
       "volume_ratio": 0.68,
       "is_watchlist": true,
       "is_index": false,
@@ -465,8 +465,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 362.42,
-      "change_pct": -1.11,
+      "price": 362.4,
+      "change_pct": -1.12,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
@@ -477,8 +477,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 14.45,
-      "change_pct": -4.27,
+      "price": 14.39,
+      "change_pct": -4.63,
       "volume_ratio": 1.12,
       "is_watchlist": true,
       "is_index": false,
@@ -489,9 +489,9 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 64.13,
-      "change_pct": -0.75,
-      "volume_ratio": 0.94,
+      "price": 64.07,
+      "change_pct": -0.85,
+      "volume_ratio": 0.95,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
@@ -505,7 +505,7 @@ window.theBriefMovers = {
       "name": "SPDR Dow Jones Industrial",
       "price": 534.08,
       "change_pct": -0.53,
-      "volume_ratio": 0.74,
+      "volume_ratio": 0.75,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -513,8 +513,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 295.81,
-      "change_pct": 0.21,
+      "price": 295.48,
+      "change_pct": 0.1,
       "volume_ratio": 0.72,
       "is_watchlist": true,
       "is_index": true,
@@ -536,7 +536,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 770.19,
       "change_pct": -0.39,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -546,8 +546,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLK",
       "name": "Technology Select Sector",
-      "price": 187.3,
-      "change_pct": 0.72,
+      "price": 187.28,
+      "change_pct": 0.7,
       "volume_ratio": 0.86,
       "is_watchlist": false,
       "is_index": false,
@@ -594,17 +594,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 64.13,
-      "change_pct": -0.75,
-      "volume_ratio": 0.94,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null
-    },
-    {
       "ticker": "XLF",
       "name": "Financial Select Sector",
       "price": 58.1,
@@ -623,6 +612,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 64.07,
+      "change_pct": -0.85,
+      "volume_ratio": 0.95,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null
     },
     {
       "ticker": "XLV",
@@ -659,8 +659,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 14.45,
-      "change_pct": -4.27,
+      "price": 14.39,
+      "change_pct": -4.63,
       "score": 10.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -695,8 +695,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 229.9,
-      "change_pct": 0.63,
+      "price": 230.09,
+      "change_pct": 0.72,
       "score": 6.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -722,8 +722,8 @@ window.theBriefMovers = {
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 133.21,
-      "change_pct": 1.49,
+      "price": 133.43,
+      "change_pct": 1.65,
       "score": 6.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -746,17 +746,15 @@ window.theBriefMovers = {
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 42.77,
-      "change_pct": -3.19,
-      "score": 5.5,
+      "price": 42.88,
+      "change_pct": -2.94,
+      "score": 4.5,
       "signals": [
-        "Moved -3.19% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 10.2 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved -3.19% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 10.2 (cheap on absolute basis)"
@@ -772,8 +770,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 362.42,
-      "change_pct": -1.11,
+      "price": 362.4,
+      "change_pct": -1.12,
       "score": 4.5,
       "signals": [
         "2 news items in the last 3 days",
@@ -796,8 +794,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 60.04,
-      "change_pct": -0.94,
+      "price": 60.03,
+      "change_pct": -0.96,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -815,33 +813,10 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 476.52,
-      "change_pct": 4.46,
-      "score": 3.5,
-      "signals": [
-        "Moved +4.46% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "reasons": [
-        "Moved +4.46% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-selling"
-      ],
-      "narrative": "<strong>AMD</strong> is accumulating signals worth tracking.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 941.95,
-      "change_pct": 0.01,
+      "price": 943.0,
+      "change_pct": 0.12,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -861,8 +836,8 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 624.41,
-      "change_pct": 0.7,
+      "price": 624.51,
+      "change_pct": 0.72,
       "score": 3.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -905,6 +880,17 @@ window.theBriefMovers = {
       ]
     },
     {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "change_pct": -0.85,
+      "price": 64.07,
+      "watchlist_members": [
+        "APA",
+        "TPL",
+        "OXY"
+      ]
+    },
+    {
       "ticker": "XLP",
       "name": "Consumer Staples Select",
       "change_pct": -0.8,
@@ -921,21 +907,17 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "change_pct": -0.75,
-      "price": 64.13,
-      "watchlist_members": [
-        "APA",
-        "TPL",
-        "OXY"
-      ]
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "change_pct": -0.72,
+      "price": 43.93,
+      "watchlist_members": []
     },
     {
       "ticker": "XLK",
       "name": "Technology Select Sector",
-      "change_pct": 0.72,
-      "price": 187.3,
+      "change_pct": 0.7,
+      "price": 187.28,
       "watchlist_members": [
         "CRWV",
         "NBIS",
@@ -943,13 +925,6 @@ window.theBriefMovers = {
         "AMD",
         "NVDA"
       ]
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "change_pct": -0.72,
-      "price": 43.93,
-      "watchlist_members": []
     },
     {
       "ticker": "XLI",
