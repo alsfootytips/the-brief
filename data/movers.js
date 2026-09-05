@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-05T21:31:39.727620+00:00",
+  "generated_at": "2026-09-05T23:20:44.884100+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker ...\""
+      "move_reason": "News: \"AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly ...\""
     },
     {
       "ticker": "DG",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker ...\""
+      "move_reason": "News: \"AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly ...\""
     },
     {
       "ticker": "APA",
