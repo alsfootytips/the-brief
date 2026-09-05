@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-05T08:51:11+00:00",
+  "generated_at": "2026-09-05T12:26:10+00:00",
   "by_date": {
     "2026-09-05": [
       {
@@ -393,6 +393,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CULP",
+        "date": "2026-09-09",
+        "hour": "",
+        "eps_estimate": 0.4488,
+        "revenue_estimate": 54264000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "CYTOF",
         "date": "2026-09-09",
         "hour": "",
@@ -529,6 +537,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "OCC",
+        "date": "2026-09-09",
+        "hour": "",
+        "eps_estimate": 0.202,
+        "revenue_estimate": 24745000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "ODD",
         "date": "2026-09-09",
         "hour": "bmo",
@@ -659,11 +675,27 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CSBR",
+        "date": "2026-09-10",
+        "hour": "",
+        "eps_estimate": -0.0102,
+        "revenue_estimate": 15345900,
+        "is_watchlist": false
+      },
+      {
         "ticker": "EVI",
         "date": "2026-09-10",
         "hour": "",
         "eps_estimate": 0.1717,
         "revenue_estimate": 118274030,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FEIM",
+        "date": "2026-09-10",
+        "hour": "",
+        "eps_estimate": 0.2244,
+        "revenue_estimate": 18207000,
         "is_watchlist": false
       },
       {
@@ -787,14 +819,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "OCC",
-        "date": "2026-09-10",
-        "hour": "",
-        "eps_estimate": 0.202,
-        "revenue_estimate": 24745000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "OCCI",
         "date": "2026-09-10",
         "hour": "",
@@ -896,16 +920,16 @@ window.theBriefEarnings = {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "bmo",
-        "eps_estimate": -4.4166,
-        "revenue_estimate": 85119000,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -4.4166,
+        "revenue_estimate": 85119000,
         "is_watchlist": false
       },
       {
@@ -1137,14 +1161,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "FEIM",
-        "date": "2026-09-15",
-        "hour": "",
-        "eps_estimate": 0.2244,
-        "revenue_estimate": 18207000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "FPS",
         "date": "2026-09-15",
         "hour": "",
@@ -1240,14 +1256,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0765,
         "revenue_estimate": 586500,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CSBR",
-        "date": "2026-09-16",
-        "hour": "",
-        "eps_estimate": -0.0102,
-        "revenue_estimate": 15345900,
         "is_watchlist": false
       },
       {

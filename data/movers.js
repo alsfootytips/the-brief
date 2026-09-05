@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-05T08:51:11.469870+00:00",
+  "generated_at": "2026-09-05T12:26:10.001919+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Surging Spot Prices Has Me Bullish For Next Year\""
+      "move_reason": "News: \"Nebius: Too Much Worry Is Not Good For Bulls' Wealth\""
     },
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Applied Digital vs. IREN: Evaluating the Better Artificial Intelligence Stock to Buy for 2...\""
+      "move_reason": "News: \"CoreWeave Is More Than A GPU Rental Company\""
     },
     {
       "ticker": "AMD",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Applied Digital vs. IREN: Evaluating the Better Artificial Intelligence Stock to Buy for 2...\""
+      "move_reason": "News: \"CoreWeave Is More Than A GPU Rental Company\""
     },
     {
       "ticker": "DG",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Midterm Elections Are Unlikely To Derail The Stock Market's Course\""
+      "move_reason": "News: \"Weekly Indicators: The 'Bear Steepening' In Long Rates Intensifies\""
     },
     {
       "ticker": "NBIS",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Surging Spot Prices Has Me Bullish For Next Year\""
+      "move_reason": "News: \"Nebius: Too Much Worry Is Not Good For Bulls' Wealth\""
     },
     {
       "ticker": "NVDA",
