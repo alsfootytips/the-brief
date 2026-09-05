@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-05T15:28:04.619505+00:00",
+  "generated_at": "2026-09-05T17:30:29.275080+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Too Much Worry Is Not Good For Bulls' Wealth\""
+      "move_reason": "News: \"3 Incredible High-Growth Stocks to Buy With $10,000 Right Now\""
     },
     {
       "ticker": "CRWV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"EMCOR Rises 21% Year to Date: Should Investors Buy the Stock Now?\""
+      "move_reason": "News: \"Quanta Services (PWR) Stock Trades At A Premium To Fair Value\""
     },
     {
       "ticker": "META",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Most Divided Fed In A Decade Is About To Vote\""
+      "move_reason": "News: \"The 1-Minute Market Report, September 5, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius: Too Much Worry Is Not Good For Bulls' Wealth\""
+      "move_reason": "News: \"3 Incredible High-Growth Stocks to Buy With $10,000 Right Now\""
     },
     {
       "ticker": "NVDA",
@@ -482,7 +482,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"EMCOR Rises 21% Year to Date: Should Investors Buy the Stock Now?\""
+      "move_reason": "News: \"Quanta Services (PWR) Stock Trades At A Premium To Fair Value\""
     },
     {
       "ticker": "TPL",
