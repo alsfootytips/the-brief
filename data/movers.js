@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-05T19:23:09.992281+00:00",
+  "generated_at": "2026-09-05T21:31:39.727620+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom\u2019s Upcoming Report Is the AI Infrastructure Trade\u2019s Next Pivotal Test\""
+      "move_reason": "News: \"Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker ...\""
     },
     {
       "ticker": "DG",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 110.22,
       "change_pct": -0.36,
-      "volume_ratio": 0.74,
+      "volume_ratio": 0.99,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom\u2019s Upcoming Report Is the AI Infrastructure Trade\u2019s Next Pivotal Test\""
+      "move_reason": "News: \"Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker ...\""
     },
     {
       "ticker": "APA",
