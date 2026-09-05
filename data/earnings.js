@@ -1,56 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-04T23:36:08+00:00",
+  "generated_at": "2026-09-05T00:19:27+00:00",
   "by_date": {
-    "2026-09-04": [
-      {
-        "ticker": "ARDC",
-        "date": "2026-09-04",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BDJ",
-        "date": "2026-09-04",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BYSI",
-        "date": "2026-09-04",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HURC",
-        "date": "2026-09-04",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KNOP",
-        "date": "2026-09-04",
-        "hour": "bmo",
-        "eps_estimate": 0.155,
-        "revenue_estimate": 93469403,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PAXS",
-        "date": "2026-09-04",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-09-05": [
       {
         "ticker": "RFMZ",
