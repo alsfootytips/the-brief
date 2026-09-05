@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-05T04:49:54.570906+00:00",
+  "generated_at": "2026-09-05T08:51:11.469870+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will Nebius Group's Mega AI Deals Power Its 2027 Growth Story?\""
+      "move_reason": "News: \"Nebius: Surging Spot Prices Has Me Bullish For Next Year\""
     },
     {
       "ticker": "CRWV",
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"SanDisk Jumps 10%, Lululemon Crashes 17%: Stock Market Today\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Softer Late Afternoon\""
     },
     {
       "ticker": "XLRE",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jobs Growth Update: Modest Improvement In August\""
+      "move_reason": "News: \"Midterm Elections Are Unlikely To Derail The Stock Market's Course\""
     },
     {
       "ticker": "NBIS",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will Nebius Group's Mega AI Deals Power Its 2027 Growth Story?\""
+      "move_reason": "News: \"Nebius: Surging Spot Prices Has Me Bullish For Next Year\""
     },
     {
       "ticker": "NVDA",
@@ -518,7 +518,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"SanDisk Jumps 10%, Lululemon Crashes 17%: Stock Market Today\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Softer Late Afternoon\""
     }
   ],
   "indices": [
