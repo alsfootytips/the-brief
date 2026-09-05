@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-05T12:26:10.001919+00:00",
+  "generated_at": "2026-09-05T15:28:04.619505+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role In...\""
+      "move_reason": "News: \"Broadcom\u2019s Upcoming Report Is the AI Infrastructure Trade\u2019s Next Pivotal Test\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Our e.l.f. Beauty Stock Pick Had an Ugly Year. Better Days Lie Ahead.\""
+      "move_reason": "News: \"Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?\""
     },
     {
       "ticker": "PWR",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role In...\""
+      "move_reason": "News: \"Broadcom\u2019s Upcoming Report Is the AI Infrastructure Trade\u2019s Next Pivotal Test\""
     },
     {
       "ticker": "APA",
@@ -398,7 +398,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Our e.l.f. Beauty Stock Pick Had an Ugly Year. Better Days Lie Ahead.\""
+      "move_reason": "News: \"Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?\""
     },
     {
       "ticker": "GEV",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: The 'Bear Steepening' In Long Rates Intensifies\""
+      "move_reason": "News: \"The Most Divided Fed In A Decade Is About To Vote\""
     },
     {
       "ticker": "NBIS",
