@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-06T10:48:05.441336+00:00",
+  "generated_at": "2026-09-06T13:58:33.283225+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly ...\""
+      "move_reason": "News: \"AMD: I'm Calling The First Peak Of The AI Mountain Range\""
     },
     {
       "ticker": "DG",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Burry Says Palantir's Books Look More Like a Consultant's Than a Software Company'...\""
+      "move_reason": "News: \"It's Not Worth Buying VOO Or QQQ Anymore\""
     },
     {
       "ticker": "XLI",
@@ -163,7 +163,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"40% Of My Portfolio Is In Just 3 Stocks\""
+      "move_reason": "News: \"5 Stocks I Want If Oil Hits $100\""
     },
     {
       "ticker": "TTD",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly ...\""
+      "move_reason": "News: \"AMD: I'm Calling The First Peak Of The AI Mountain Range\""
     },
     {
       "ticker": "APA",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Turns Out, The Labor Market Is Okay Despite All Moaning And Groaning About The Economy Or ...\""
+      "move_reason": "News: \"It's Not Worth Buying VOO Or QQQ Anymore\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Burry Says Palantir's Books Look More Like a Consultant's Than a Software Company'...\""
+      "move_reason": "News: \"It's Not Worth Buying VOO Or QQQ Anymore\""
     },
     {
       "ticker": "OSCR",
@@ -494,7 +494,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"40% Of My Portfolio Is In Just 3 Stocks\""
+      "move_reason": "News: \"5 Stocks I Want If Oil Hits $100\""
     },
     {
       "ticker": "TTD",
@@ -766,6 +766,30 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 366.8,
+      "change_pct": 0.08,
+      "score": 4.5,
+      "signals": [
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.0 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "2 news items in the last 3 days",
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.0 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 60.2,
@@ -850,27 +874,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 366.8,
-      "change_pct": 0.08,
-      "score": 3.0,
-      "signals": [
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.0 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.0 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     },
     {
       "ticker": "PWR",
