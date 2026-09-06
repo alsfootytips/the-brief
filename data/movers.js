@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-06T01:14:06.032847+00:00",
+  "generated_at": "2026-09-06T06:00:28.476287+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Incredible High-Growth Stocks to Buy With $10,000 Right Now\""
+      "move_reason": "News: \"Bloom Energy Just Won Another Catalyst (Rating Upgrade)\""
     },
     {
       "ticker": "CRWV",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Her...\""
+      "move_reason": "News: \"Michael Burry Says Palantir's Books Look More Like a Consultant's Than a Software Company'...\""
     },
     {
       "ticker": "XLI",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Incredible High-Growth Stocks to Buy With $10,000 Right Now\""
+      "move_reason": "News: \"Bloom Energy Just Won Another Catalyst (Rating Upgrade)\""
     },
     {
       "ticker": "NVDA",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Her...\""
+      "move_reason": "News: \"Michael Burry Says Palantir's Books Look More Like a Consultant's Than a Software Company'...\""
     },
     {
       "ticker": "OSCR",
