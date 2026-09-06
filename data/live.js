@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-06T06:00:28.481382+00:00",
+  "generated_at": "2026-09-06T10:48:05.449247+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.96,
       "price": 225.3,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T06:00:28.478570+00:00",
+      "timestamp": "2026-09-06T10:48:05.444971+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 5.34,
       "price": 89.07,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T06:00:28.478559+00:00",
+      "timestamp": "2026-09-06T10:48:05.444956+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.4,
       "price": 476.25,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T06:00:28.478550+00:00",
+      "timestamp": "2026-09-06T10:48:05.444944+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,45 +40,111 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SEC seeks court order forcing ISS to hand over client voting data",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sec-seeks-court-order-forcing-iss-to-hand-over-client-voting-data-4890258",
+      "headline": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-09-06T05:34:36+00:00",
+      "timestamp": "2026-09-06T10:29:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pulmovant to present phase 2 mosliciguat study results Tuesday",
+      "headline": "What is driving Europe\u2019s yield decoupling?",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/pulmovant-to-present-phase-2-mosliciguat-study-results-tuesday-93CH-4890257",
+      "url": "https://www.investing.com/news/stock-market-news/what-is-driving-europes-yield-decoupling-4890276",
       "is_watchlist": false,
-      "timestamp": "2026-09-06T05:04:41+00:00",
+      "timestamp": "2026-09-06T10:27:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Roivant to present phase 2 pulmonary hypertension study results",
+      "headline": "Turkey forecasts GDP growth to reach 5% by 2029",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/roivant-to-present-phase-2-pulmonary-hypertension-study-results-93CH-4890256",
+      "url": "https://www.investing.com/news/economy-news/turkey-forecasts-gdp-growth-to-reach-5-by-2029-93CH-4890275",
       "is_watchlist": false,
-      "timestamp": "2026-09-06T05:04:37+00:00",
+      "timestamp": "2026-09-06T10:19:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Investors turn to Chinese stocks as alternative to crowded AI trades",
+      "headline": "Turkey expects inflation to drop to 28.4% in 2026",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/investors-turn-to-chinese-stocks-as-alternative-to-crowded-ai-trades-4890253",
+      "url": "https://www.investing.com/news/economy-news/turkey-expects-inflation-to-drop-to-284-in-2026-93CH-4890274",
       "is_watchlist": false,
-      "timestamp": "2026-09-06T04:55:12+00:00",
+      "timestamp": "2026-09-06T10:16:49+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Street Calls of the Week",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4890231",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T10:00:02+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How China became a more powerful force in global gold demand",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/how-china-became-a-more-powerful-force-in-global-gold-demand-4890273",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T09:56:15+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin trades near $80,000 as corporate demand and US crypto policy stay in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T09:22:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OPEC+ set to hold oil output policy steady for October - Reuters",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T08:17:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Germany moves to strengthen drone and cyber defenses after airport attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/germany-moves-to-strengthen-drone-and-cyber-defenses-after-airport-attack-4890268",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T07:59:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli military says it strikes southern Lebanon after Hezbollah launched drones - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNi1QZjVMMzI3QlpNZ2pKMVNjZFNqU2RWb093aGtUS3ZmZWdBNHNjbXFMdVZZS2NkMnd3cWlQZlVqenBlRGpQdkFJSjNuMU5wVlNCa1pqNXVzV0NIRVFGc3Z6bGpMZXp3dzc1Y3dfM2xTNnZCSi0weHFlMUtaZG0yS2p6S2ZhWXRUeS0xYkFOOE5vLUlYaFJnMy1KdGh0ejFDbEpzOFRlaEs2ZG1ZY09hUW05WjhYYVBndHBtVjFIQ0szMVVOVzc4?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T04:15:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -95,17 +161,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "How widespread is the adoption of robots among Swiss companies?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/how-widespread-is-the-adoption-of-robots-among-swiss-companies-4890251",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T03:19:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "August Job Gains Blew Past Estimates. Here's What It Means for the Fed.",
       "source": "Yahoo",
@@ -118,26 +173,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T02:40:10+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Billions in Iranian funds are passing through U.S. banks despite sanctions - WSJ",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/billions-in-iranian-funds-are-passing-through-us-banks-despite-sanctions--wsj-4890248",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T01:52:35+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "ticker": "IWM",
+      "headline": "Turns Out, The Labor Market Is Okay Despite All Moaning And Groaning About The Economy Or Whatever",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=99e49f479f8cb436b634ec4d2a445a8a3782f3bf6799418a1b3ed4458bce7a84",
+      "is_watchlist": true,
+      "timestamp": "2026-09-06T02:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -167,17 +211,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Why some investors say Volkswagen is simply \"not fixable\"",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-some-investors-say-volkswagen-is-simply-not-fixable-4890247",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T00:39:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Bloom Energy Just Won Another Catalyst (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -197,6 +230,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-05T23:45:00+00:00",
       "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T23:20:00+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -535,17 +579,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Many truckers don't feel like the rest of America about AI data centers as business booms",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-05T13:33:08+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -560,6 +593,17 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jaguar Land Rover confirms planned job cuts",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T13:22:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -586,18 +630,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "The \"Warsh Vs. The White House\" Trade",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=314e28d53ba817b0d1d04e35f025936daf735077b6a7861cff8764c709a99fb7",
-      "is_watchlist": true,
-      "timestamp": "2026-09-05T12:47:05+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Abel: Two ways Berkshire hopes to cash in on AI",
       "source": "CNBC Markets",
@@ -605,6 +637,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-05T12:45:44+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PODCAST: Kharg Island, OpenAI agents, Germany's election and the return of CDs - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXdrVVUyTWhkMVdicnlOVkYxaHI5cjlpaFE5LS1IVFNHc3RVMms2TnY2U1lyNmhQMlhpY09RLVozbngwdGo1QWoxaEM2dTA0aUY3TV9ZNUtscVdBOVQ3VGRzYzE1T3BRTG1hZmFrSnZ2T3A5d1U4VUk1WTZ0SUZGZ1FWOFUxelBNZnFrcFViUDJ2bU4wUDFSWWQwZ0dPZGx1ZlE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T12:42:55+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -645,6 +688,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T12:20:42+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Meet the CISO: A new front line star in the AI cybersecurity war",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
@@ -673,6 +727,94 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-05T11:11:43+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Best CD rates today, Saturday, September 5, 2026: Lock in up to 4.35% APY with an 18-month CD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000088.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mortgage and refinance interest rates today, Saturday, September 5, 2026: Rates roll back across the board; ARM volatility continues",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-back-across-the-board-arm-volatility-continues-100000745.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T10:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A niece allegedly stole nearly $700,000 from the aunt she cared for \u2014 experts warn longer lifespans worsen the issue",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/niece-allegedly-stole-nearly-700-093000162.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T09:30:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered Changes. Does That Protect Its AI War Chest?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/judge-spared-alphabet-ad-tech-090718689.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T09:07:18+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Retirees have fewer options and less ability to recover from setbacks. Here's when today's average American is retiring",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/retirees-fewer-options-less-ability-090000364.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T09:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Move Will SpaceX Stock Make After Sept. 9? The Evidence Is Piling Up, and Here\u2019s What It Shows.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/move-spacex-stock-sept-9-082301362.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T08:23:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is SCHD Still the Best Dividend ETF You Can Buy for Passive Income? Here's What the Data Says.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schd-still-best-dividend-etf-081400498.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T08:14:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Foxconn says third quarter to outperform market expectations on AI strength",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/foxconn-says-third-quarter-outperform-081331124.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-05T08:13:31+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -786,122 +928,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "PlusAI Picked a SPAC to Fund Its 2027 Autonomous-Truck Launch. Is Aurora Already Too Far Ahead?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/plusai-picked-spac-fund-2027-223814791.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T22:38:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Shares a Cautious Take on Oracle (ORCL) and Its Massive AI Buildout",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shares-cautious-oracle-223118242.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T22:31:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Quanex (NX) Expanded 3Q Margins and Repaid $42M of Debt on 1.3% Sales Growth. Can Execution Outrun Soft Volumes?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/quanex-nx-expanded-3q-margins-223100856.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T22:31:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pasqal (PSQL) Has $360M to Scale From Seven Quantum Systems. Is \u20ac16.5M of Revenue Enough to Support the Road Map?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/pasqal-psql-360m-scale-seven-222731070.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T22:27:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Highlights AeroVironment\u2019s (AVAV) Steep Competition",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-aerovironment-avav-222638913.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T22:26:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bloom Energy and These 2 Stocks Are Joining the S&P 500",
-      "source": "Yahoo Finance",
-      "url": "https://www.barrons.com/articles/bloom-energy-everpure-illumina-sp500-stocks-ffd89f1a?siteid=yhoof2&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T22:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-China's Xi seeks to bring large CEO delegation on US visit, sources say",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/exclusive-chinas-xi-bring-large-104707459.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T22:02:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWJyTEVVNzlNV2lCVktTZkk3dHZpYUFndlRkdTVXMzlnR0hEMXZYVnN5U3V5dC1JMEpWVDMwZng4YjhUc3pfOVpiNWNwdDRwbHY1TFhMLWZFZFh3YlF2SVEwYnJjNGkzTlpGR0hsRkwyMkQ4QVRSdmV4Ykxtd0xZamtOYkNNUV90TzhWdnF5ejhGRGhxSHgtcmp0SGdFVkhUa2owblM0QnN0aDRpeXlnRlBHUDdqZnE5TmRjd2FuR1dyVE5qY3VsNFJHWQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:52:11+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wheat Bulls Take Money Off the Table Ahead of the Holiday Weekend",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-bulls-money-off-table-215011668.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:50:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "4 things investigators learned about the dysfunction at Trump's Labor Department",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
       "is_watchlist": false,
       "timestamp": "2026-09-04T21:47:19+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israel says it strikes southern Lebanon after Hezbollah drone launch - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2dOV1l1QTdWZWR1S3p6cVMzb01JV2dhV3d5OVRfTzZ1RXZOLXJ0Z2lEU2lLemhDVklwS0x0c2xPRWdzZG1sT2owUHZkVjF5dEFQU1FMVmwzSUFPbUJBLUkzd01DcnVXNVRsZVhKUk9DenpjMWZ1aFBTOThRMWdQWHJtdlM5VWYwT3MyNVJmazlzb3B6dHJzXzI5QnZqTzhROENzMUpKMXhnVDZob25fWkItbnhTUEZSM0Ezb0hYYw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T21:09:03+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1089,17 +1121,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T11:48:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Stock up on food to prepare for extreme weather, minister says",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
@@ -1165,28 +1186,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T07:19:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-04T07:00:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

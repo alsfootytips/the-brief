@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-06T06:00:28.476287+00:00",
+  "generated_at": "2026-09-06T10:48:05.441336+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Scott Bessent Said Interest Rates Have Fallen During Trump\u2019s Second Term. Here\u2019s Where He\u2019...\""
+      "move_reason": "News: \"Turns Out, The Labor Market Is Okay Despite All Moaning And Groaning About The Economy Or ...\""
     },
     {
       "ticker": "NBIS",
