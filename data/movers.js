@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-06T18:53:00.496699+00:00",
+  "generated_at": "2026-09-06T21:05:11.197579+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia: 70% Growth Guidance Makes This A Strong Buy\""
+      "move_reason": "News: \"Wall Street Brunch: Make Or Break Inflation For The Fed\""
     },
     {
       "ticker": "XLI",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia: 70% Growth Guidance Makes This A Strong Buy\""
+      "move_reason": "News: \"Wall Street Brunch: Make Or Break Inflation For The Fed\""
     },
     {
       "ticker": "OSCR",
