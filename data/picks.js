@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-09-05T23:20:44.993309+00:00",
+  "generated_at": "2026-09-06T01:14:06.169745+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": 0.14,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 115,
+      "days_elapsed": 116,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": 0.84,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 115,
+      "days_elapsed": 116,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": -4.44,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 115,
+      "days_elapsed": 116,
       "days_remaining": null
     },
     {
@@ -750,7 +750,7 @@ window.theBriefPicks = {
       "current_pct": 33.33,
       "change_pct_today": 0.14,
       "name": "APA Corp",
-      "news_count": 3,
+      "news_count": 2,
       "days_elapsed": 35,
       "days_remaining": 0,
       "closed_at": "2026-07-24",
@@ -818,7 +818,7 @@ window.theBriefPicks = {
       "current_pct": -14.79,
       "change_pct_today": 0.08,
       "name": "Texas Pacific Land",
-      "news_count": 2,
+      "news_count": 1,
       "days_elapsed": 37,
       "days_remaining": 19,
       "closed_at": "2026-08-07",
@@ -921,8 +921,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.07,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 25,
-      "days_remaining": 17
+      "days_elapsed": 26,
+      "days_remaining": 16
     },
     {
       "id": "2026-08-11-APA-auto",
@@ -950,9 +950,9 @@ window.theBriefPicks = {
       "current_pct": 8.4,
       "change_pct_today": 0.14,
       "name": "APA Corp",
-      "news_count": 3,
-      "days_elapsed": 25,
-      "days_remaining": 24
+      "news_count": 2,
+      "days_elapsed": 26,
+      "days_remaining": 23
     }
   ],
   "summary": {

@@ -1,16 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-05T23:20:44+00:00",
+  "generated_at": "2026-09-06T01:14:06+00:00",
   "by_date": {
-    "2026-09-05": [
-      {
-        "ticker": "RFMZ",
-        "date": "2026-09-05",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-09-07": [
       {
         "ticker": "ALOT",
