@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-06T16:49:46.827212+00:00",
+  "generated_at": "2026-09-06T18:53:00.501914+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.96,
       "price": 225.3,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T16:49:46.824265+00:00",
+      "timestamp": "2026-09-06T18:53:00.498960+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 5.34,
       "price": 89.07,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T16:49:46.824253+00:00",
+      "timestamp": "2026-09-06T18:53:00.498949+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,113 @@ window.theBriefLive = {
       "change_pct": 4.4,
       "price": 476.25,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T16:49:46.824244+00:00",
+      "timestamp": "2026-09-06T18:53:00.498941+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "He Spent Montana\u2019s Fire Season on Overtime. Social Security Counted Pay His Federal Pension Left Out.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/spent-montana-fire-season-overtime-180552129.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T18:05:52+00:00",
+      "relevance_score": -2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What Should I Invest In? I'm Putting My Money in These 2 Stocks for 2027.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-im-putting-money-2-180500289.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T18:05:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Isar Aerospace reaches orbit, advancing Europe\u2019s independent launch ambitions",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4640524-isar-aerospace-reaches-orbit-advancing-europe-s-independent-launch-ambitions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T18:04:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top globals stories from this week: Volkswagen, ByteDance among major names",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4640525-top-globals-stories-from-this-week-volkswagen-bytedance-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T18:01:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T17:53:53+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran vows economic response as renewed fighting threatens oil supplies",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4640523-iran-vows-economic-response-as-renewed-fighting-threatens-oil-supplies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-09-06T17:46:28+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "HYPE hits record high as ETF filings reveal growing institutional exposure",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4640522-hype-hits-record-high-as-etf-filings-reveal-growing-institutional-exposure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T17:11:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KeyBanc warns Apple\u2019s iPhone 18 launch may be a negative catalyst for shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/keybanc-warns-apples-iphone-18-launch-may-be-a-negative-catalyst-for-shares-4890314",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T17:05:45+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Airbnb tops consumer discretionary gainers even as travel stocks tumble; major cruise lines affected",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4640434-airbnb-tops-consumer-discretionary-gainers-even-as-travel-stocks-tumble-major-cruise-lines-affected?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T17:05:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -46,17 +149,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-06T16:42:55+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Global dining leader closing 261 restaurants, steakhouse chain",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/global-dining-leader-closing-261-163500654.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T16:35:00+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -79,17 +171,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-06T16:32:48+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia\u2019s Profits Could Rival a Country\u2019s GDP by 2029",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-profits-could-rival-country-163044151.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T16:30:44+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -121,28 +202,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SEC asks court to force ISS to provide client voting records",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640520-sec-asks-court-to-force-iss-to-provide-client-voting-records?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T16:13:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vaxcyte narrows timing for pivotal VAX-31 data to late October",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640519-vaxcyte-narrows-timing-for-pivotal-vaxminus-31-data-to-late-october?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T16:03:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Lululemon founder Chip Wilson reportedly divorcing wife, adding more uncertainty",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/lululemon-founder-chip-wilson-reportedly-divorcing-wife-adding-more-uncertainty-4890311",
@@ -154,34 +213,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. Navy escorts keep Hormuz oil flowing, energy chief says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640518-u-s-navy-escorts-keep-hormuz-oil-flowing-energy-chief-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T15:54:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
       "timestamp": "2026-09-06T15:39:40+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T15:35:16+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -225,28 +262,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/brazilian-court-suspends-licenses-for-sigma-lithium-mine-4890307",
       "is_watchlist": false,
       "timestamp": "2026-09-06T15:12:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Consumer staples flat in August as Hormel, Tyson fall; Est\u00e9e Lauder leads gainers",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640401-consumer-staples-flat-in-august-as-hormel-tyson-fall-estee-lauder-leads-gainers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T15:05:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale sees opportunity in selling short-dated S&P 500 tail risk",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640517-societe-generale-sees-opportunity-in-selling-short-dated-s-and-p-500-tail-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T15:05:41+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -314,17 +329,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-06T14:26:09+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israel cuts fuel tax as gasoline prices hit record high",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T14:22:13+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -478,17 +482,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-06T12:15:00+00:00",
       "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T12:13:49+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -829,11 +822,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+      "headline": "With HSAs, employers are turning to the 401(k) playbook",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+      "url": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-05T12:20:42+00:00",
+      "timestamp": "2026-09-05T12:15:42+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -1136,6 +1129,17 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump admin targets tax-exempt status at private colleges \u2014 threatening a key tax break for donations",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-04T12:15:44+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
