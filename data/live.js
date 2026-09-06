@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-06T21:05:11.202937+00:00",
+  "generated_at": "2026-09-06T22:54:30.272417+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.96,
       "price": 225.3,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T21:05:11.199957+00:00",
+      "timestamp": "2026-09-06T22:54:30.269479+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 5.34,
       "price": 89.07,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T21:05:11.199945+00:00",
+      "timestamp": "2026-09-06T22:54:30.269468+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,165 @@ window.theBriefLive = {
       "change_pct": 4.4,
       "price": 476.25,
       "is_watchlist": true,
-      "timestamp": "2026-09-06T21:05:11.199936+00:00",
+      "timestamp": "2026-09-06T22:54:30.269459+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:42:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia (NVDA)\u2019s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:31:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:31:15+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I Predicted That Lululemon Stock Was In Trouble Ahead of Earnings. What's Next After Its 17% Drop?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/predicted-lululemon-stock-trouble-ahead-222000426.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gap Taps New Old Navy CEO to Turn Around Sluggish Sales",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:19:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:12:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CrowdStrike (CRWD)\u2019s CEO Warns AI Is Exposing Gaps in Legacy Cybersecurity Tools",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-ceo-warns-ai-221012462.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:10:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "At least 5 dead after Amazon cargo plane overruns Miami airport runway",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4640531-amazon-cargo-jet-overruns-runway-at-miami-airport-halting-flights?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T22:06:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How to position as France is entering a new political cycle?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/how-to-position-as-france-is-entering-a-new-political-cycle-4890322",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T21:31:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T21:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890321",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Eli Lilly\u2019s $100B incretin opportunity: Is more upside coming?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/eli-lillys-100b-incretin-opportunity-is-more-upside-coming-4890320",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T21:19:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sees-cybercab-giving-tesla-a-cost-advantage-in-robotaxis-4890319",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T21:16:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are markets open on Labor Day?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4640532-are-markets-open-on-labor-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T21:13:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -51,102 +206,24 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "H.B. Fuller (FUL) Tells Ancora its $1.2 Billion Offer isn\u2019t Enough",
+      "headline": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/h-b-fuller-ful-tells-204640998.html",
+      "url": "https://finance.yahoo.com/energy/articles/oil-majors-seek-bigger-bargaining-210000743.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-06T20:46:40+00:00",
+      "timestamp": "2026-09-06T21:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "McKesson Bets $2.25 Billion More on Oncology With Precision Medicine Buy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/mckesson-bets-2-25-billion-204339450.html",
+      "headline": "Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316",
       "is_watchlist": false,
-      "timestamp": "2026-09-06T20:43:39+00:00",
+      "timestamp": "2026-09-06T20:50:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Musk Moves Up SpaceX (SPCX)\u2019s Orbital Data Center Timeline, Again",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/musk-moves-spacex-spcx-orbital-204103387.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T20:41:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/forget-ai-stocks-clean-power-203500183.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T20:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-quietly-turning-bitcoin-203223849.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T20:32:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon cargo jet overruns runway at Miami airport, halting flights",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640531-amazon-cargo-jet-overruns-runway-at-miami-airport-halting-flights?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T20:26:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can Nvidia (NVDA) Prove it Doesn\u2019t Live or Die by a Handful of Hyperscalers?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T20:21:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple (AAPL)\u2019s New Mac Mini and Studio Bet Big on On-Device AI",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T20:16:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures Due With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T20:06:40+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -184,33 +261,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T19:53:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-06T19:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon Prime Air Boeing 767 overruns runway at Miami airport",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T19:42:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -239,6 +294,21 @@ window.theBriefLive = {
       "timestamp": "2026-09-06T19:26:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-09-06T19:23:20+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -324,34 +394,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Isar Aerospace reaches orbit, advancing Europe\u2019s independent launch ambitions",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640524-isar-aerospace-reaches-orbit-advancing-europe-s-independent-launch-ambitions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T18:04:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
       "is_watchlist": false,
       "timestamp": "2026-09-06T17:53:53+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "KeyBanc warns Apple\u2019s iPhone 18 launch may be a negative catalyst for shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/keybanc-warns-apples-iphone-18-launch-may-be-a-negative-catalyst-for-shares-4890314",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T17:05:45+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -380,39 +428,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump administration asks Supreme Court to allow mail ballot limits",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T16:32:48+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lululemon founder Chip Wilson reportedly divorcing wife, adding more uncertainty",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/lululemon-founder-chip-wilson-reportedly-divorcing-wife-adding-more-uncertainty-4890311",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T15:55:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HSBC cuts Carlsberg stock price target on execution concerns",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/analyst-ratings/hsbc-cuts-carlsberg-stock-price-target-on-execution-concerns-93CH-4890310",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T15:32:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2c0azRZQ0hqbEdRWlhzYlBWRGxQUU9NUmdOUVVtSm1WemlRVnRXd05VT0U4MkcyQjJGWVpHV0hvZHdLb0dIc1FIVDZyYUZ6SjlTYlV0NUtGZnBWckhpaHVYX1JGd3ZNZ1pCRVF4Z213dXk4ZGFNNVZtV19nNDNQOHZVX21Kei16R3pOZzVwS2Y2Zng2eVloNTVmSUx3RnZ2U09Mc1pNTWJGVjFsZ2N5Tm1IVzdOWnU5WWNXOC11SEY1a0poMG53?oc=5",
@@ -420,21 +435,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-06T15:03:45+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-06T14:04:02+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -671,6 +671,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/39-old-major-bullet-manufacturer-023300278.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T02:33:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Bloom Energy Just Won Another Catalyst (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -727,17 +738,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-05T18:59:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
