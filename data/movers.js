@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-06T13:58:33.283225+00:00",
+  "generated_at": "2026-09-06T16:49:46.822002+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"It's Not Worth Buying VOO Or QQQ Anymore\""
+      "move_reason": "News: \"Nvidia: 70% Growth Guidance Makes This A Strong Buy\""
     },
     {
       "ticker": "XLI",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"It's Not Worth Buying VOO Or QQQ Anymore\""
+      "move_reason": "News: \"A Hot CPI Report May Force A September Rate Hike\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"It's Not Worth Buying VOO Or QQQ Anymore\""
+      "move_reason": "News: \"Nvidia: 70% Growth Guidance Makes This A Strong Buy\""
     },
     {
       "ticker": "OSCR",
