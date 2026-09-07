@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-07T05:16:36.243920+00:00",
+  "generated_at": "2026-09-07T10:37:39.358656+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is More Than A GPU Rental Company\""
+      "move_reason": "News: \"Nvidia\u2019s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test\""
     },
     {
       "ticker": "AMD",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Stock Trades At A Premium To Fair Value\""
+      "move_reason": "News: \"Baron Asset Fund: Q2 2026 Top Contributors And Detractors\""
     },
     {
       "ticker": "META",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
+      "move_reason": "News: \"Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on ...\""
     },
     {
       "ticker": "XLI",
@@ -328,18 +328,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 110.22,
-      "change_pct": -0.36,
-      "volume_ratio": 0.99,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 52.44,
@@ -349,6 +337,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 32.15,
+      "change_pct": -0.28,
+      "volume_ratio": 0.85,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "Tracking XLV sector (-1.04% today)"
     }
   ],
   "watchlist": [
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is More Than A GPU Rental Company\""
+      "move_reason": "News: \"Nvidia\u2019s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test\""
     },
     {
       "ticker": "DG",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
+      "move_reason": "News: \"Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on ...\""
     },
     {
       "ticker": "OSCR",
@@ -482,7 +482,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Stock Trades At A Premium To Fair Value\""
+      "move_reason": "News: \"Baron Asset Fund: Q2 2026 Top Contributors And Detractors\""
     },
     {
       "ticker": "TPL",
@@ -724,13 +724,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider sells vs 1 buys (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
+        "Forward P/E 14.8 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "9 insider sells vs 1 buys (last 90 days)",
-        "Forward P/E 14.9 (cheap on absolute basis)"
+        "Forward P/E 14.8 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
