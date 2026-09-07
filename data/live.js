@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-07T22:44:54.314294+00:00",
+  "generated_at": "2026-09-07T23:53:03.664372+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 6.96,
       "price": 225.3,
       "is_watchlist": true,
-      "timestamp": "2026-09-07T22:44:54.312012+00:00",
+      "timestamp": "2026-09-07T23:53:03.423479+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 5.34,
       "price": 89.07,
       "is_watchlist": true,
-      "timestamp": "2026-09-07T22:44:54.312004+00:00",
+      "timestamp": "2026-09-07T23:53:03.423470+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,69 @@ window.theBriefLive = {
       "change_pct": 4.4,
       "price": 476.25,
       "is_watchlist": true,
-      "timestamp": "2026-09-07T22:44:54.311997+00:00",
+      "timestamp": "2026-09-07T23:53:03.423463+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan July real wages rise 2.4%, biggest gain since 2021",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-july-real-wages-rise-24-biggest-gain-since-2021-4890748",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:36:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 3 big things we're watching in this holiday-shortened trading week",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:31:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 3 big things we're watching in this holiday-shortened trading week",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:31:25+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Colombia 12-month inflation edges up more than expected in August",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/colombia-12month-inflation-edges-up-more-than-expected-in-august-4890747",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:30:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": true,
+      "timestamp": "2026-09-07T23:29:12+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -44,8 +103,52 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-09-07T22:24:00+00:00",
+      "timestamp": "2026-09-07T23:15:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK retail sales growth slows to 4-month low in August, BRC says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/uk-retail-sales-growth-slows-to-4month-low-in-august-brc-says-4890744",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:06:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:06:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:05:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T23:00:01+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -214,43 +317,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says Canada\u2019s Bombardier cannot sell in US unless it builds there",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-says-canadas-bombardier-cannot-sell-in-us-unless-it-builds-there-4890715",
-      "is_watchlist": true,
-      "timestamp": "2026-09-07T21:12:25+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gilbert Cisneros of California\u2019s 31st District Makes Series of Stock Trades",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/gilbert-cisneros-of-californias-31st-district-makes-series-of-stock-trades-93CH-4890730",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T21:03:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "David J. Taylor of Ohio\u2019s 2nd District Buys and Sells Multiple Stocks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/david-j-taylor-of-ohios-2nd-district-buys-and-sells-multiple-stocks-93CH-4890729",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T21:01:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Union electricians welcome data center boom",
@@ -312,24 +378,9 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran warns US energy assets in Gulf are vulnerable after latest clashes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-07T18:48:25+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": null,
-      "headline": "Israeli clearance of Gaza rubble could destroy 'evidence', says UN expert - Reuters",
+      "headline": "Israeli clearance of Gaza rubble could destroy 'evidence', says UN expert - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVVOUVVCYV9vTldTeTg1Y2gwQmFkM3VnYl9fNV9ldGZkNmZ4TEJib0xmd3RTNzlqSXdLRmdCX3VJdmZlRk9YN3JpbE5wakwtWk1HaTAzNWRBM2VKdzVqeUk3SzdpOWRBcWRHMktlTGJxZHN4aVVPSmEyUHI1MzEzbTViVjlfRXM4SkVMRDhGdHhRcUN0RTBjbWViUnU0RDBGT1VZYWE4c004RllSeEtyWVh4Yi1jSlJOdzBieFRB?oc=5",
       "is_watchlist": false,
@@ -504,17 +555,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "'Ah! Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T15:55:48+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?",
       "source": "Yahoo",
@@ -575,17 +615,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T14:57:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
@@ -597,7 +626,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gulf equities mixed amid US-Iran flare-ups - Reuters",
+      "headline": "Gulf equities mixed amid US-Iran flare-ups - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmdIRU5UbW8yRmxOUXhfR0trOVEtdHVrMC1Nc2N0OXVqcVhUbWtHc2hTVFZHd1NZNjVDdnF0VldrcXUwOHVQb2xxMXRRTVdBRjRHU252Ty1iR09JQi1QakZkV1hFVnd3WXBKNllJaWRoOUxYTW14dGhpaEM1WVpaeko2dmZVM1U5RG1fTGE4TzBCdlN3blQ0Vm5ISF9HOGl2eXdiOFg4REtmTHd0RXB2Z1pLZV9aSjc1eVE?oc=5",
       "is_watchlist": false,
@@ -646,7 +675,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+      "headline": "UAE says its energy exports will not be 'held hostage' by Iran war - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5",
       "is_watchlist": true,
@@ -692,7 +721,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Saudi Arabia preparing to grant IAEA more intrusive powers, Grossi says - Reuters",
+      "headline": "Saudi Arabia preparing to grant IAEA more intrusive powers, Grossi says - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEZFOFdkQkNyVk5LRXRVVEdIbWtYY0VkUENMOGFSMUhJdmxXWmFyR0d4UVQxRk4yVXd0N1BWR2ctQnVQSHlCOFV0OUd4UTczWTZmc2NJSXYtVnZJU2xpUkNDUG40aTU0M3dsa1BzTHVVZUF1NEtBdFBwazd3SWgtRll4bXZRWmtXQm9jaHRrVkxpaHQzVWhKZWo4dmJzaGdFV29qeDNONmpNQ0MzLXVCU3N3OUFmNmMtNzJF?oc=5",
       "is_watchlist": false,
@@ -775,6 +804,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "COMMENTARY: China's crude oil imports stayed weak in August. Can this continue? - reuters.com",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjJvZmc3M0wteXQ1VzNhSUZHY3p4eGl4UjNUWC1BYi16ajFCbzZYUlBfV0tQajNaSVFvWVRWTmY5WlhpT1hPb0JwRUF4OHY2NG96bl9xTVppUTFyZUN3clpMLTJfNnRhenNsTVVuUXlXZmxxMDV6R00tQk1MWVBkOTlUdi1uOUxuV1l2WnZaODZESnNLWVdzM0RxSFlQZTF5ZWhiUkZtSExpWmQ5cGZ1M0dnTTdjNjNRR3hqV21pT3lOMlZlZEJRQ0lB?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T11:30:03+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "Inside The Magic Box: Earnings Are Strong, Just Not As Strong As They Look",
       "source": "SeekingAlpha",
@@ -791,7 +831,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Oman says it evacuated 16 crew members of Saudi Sidr vessel attacked by Iran - Reuters",
+      "headline": "Oman says it evacuated 16 crew members of Saudi Sidr vessel attacked by Iran - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUp5ZGlTQWNQSDNtbzRnQzdZNTM4TXpLeFpjV1E3SElQRmxzSWVqRU5mODRJN0ZCTzdyaFZ2dW5GMEQxMVB6ZldNS2JOQzFpRk9KeGNMNFlZVnpMSDZ3MFJnRVByT0JCaEdyZHhONFRjTjgtVG8yeXVmQngxM2xSd3ZyeExZS0tZejN2QkhyQk44NTdlZTFscDZaTmF4Um41S3c4Q2tKaXkyMXFOa2JVTEZjdU9aSENuMV95Z2tFZnd4Yk5BQ1E?oc=5",
       "is_watchlist": true,
@@ -837,17 +877,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "COMMENTARY: China's crude oil imports stayed weak in August. Can this continue? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjJvZmc3M0wteXQ1VzNhSUZHY3p4eGl4UjNUWC1BYi16ajFCbzZYUlBfV0tQajNaSVFvWVRWTmY5WlhpT1hPb0JwRUF4OHY2NG96bl9xTVppUTFyZUN3clpMLTJfNnRhenNsTVVuUXlXZmxxMDV6R00tQk1MWVBkOTlUdi1uOUxuV1l2WnZaODZESnNLWVdzM0RxSFlQZTF5ZWhiUkZtSExpWmQ5cGZ1M0dnTTdjNjNRR3hqV21pT3lOMlZlZEJRQ0lB?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T10:30:03+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Leading And Lagging Sectors For September 7, 2026",
       "source": "Benzinga",
@@ -857,39 +886,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The \u00a370 refund letter that isn't a scam",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T08:50:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T05:56:40+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China to pump $54bn into state banks and insurers to boost economy",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T02:26:12+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -940,6 +936,61 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T15:39:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korea Just Bet $20 Billion on SK hynix Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/south-korea-just-bet-20-153002546.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T15:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries \u2014 and pushing rates higher",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T15:30:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/bruker-brkr-wagers-fusion-energy-144830622.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T14:48:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here's the stark reality of a $1.5 million retirement in America \u2014 2026 edition",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-06T14:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "1 Momentum Signal Suggests the Software Apocalypse Is Over. Don\u2019t Rush to Buy Just Yet.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-momentum-signal-suggests-software-143003681.html",
@@ -959,61 +1010,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Primerica\u2019s (PRI) Investment Boom Masks A Shrinking Sales Force",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-investment-boom-masks-142135413.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T14:21:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The Next Year Will Define Vaxcyte\u2019s (PCVX) Vaccine Gamble",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/next-define-vaxcyte-pcvx-vaccine-140957301.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T14:09:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-unveils-gemini-3-8-140002406.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T14:00:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alexandria\u2019s (ARE) Profit Rebound Comes With A Cash Flow Catch",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/alexandria-profit-rebound-comes-cash-135541164.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T13:55:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Murphy USA (MUSA) Delivers Robust Second-Quarter Earnings on Surging Fuel Margins",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-musa-delivers-robust-133715978.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-06T13:37:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",

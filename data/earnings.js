@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-07T22:44:54+00:00",
+  "generated_at": "2026-09-07T23:53:03+00:00",
   "by_date": {
     "2026-09-07": [
       {
@@ -223,7 +223,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DLNG",
         "date": "2026-09-08",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -529,7 +529,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OCC",
         "date": "2026-09-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.202,
         "revenue_estimate": 24745000,
         "is_watchlist": false
@@ -683,7 +683,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FEIM",
         "date": "2026-09-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2244,
         "revenue_estimate": 18207000,
         "is_watchlist": false
@@ -959,7 +959,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CODA",
         "date": "2026-09-14",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.1163,
         "revenue_estimate": 7405200,
         "is_watchlist": false
@@ -991,7 +991,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HAIN",
         "date": "2026-09-14",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.0303,
         "revenue_estimate": 274315740,
         "is_watchlist": false
@@ -1031,7 +1031,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KMTS",
         "date": "2026-09-14",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.6282,
         "revenue_estimate": 29588598,
         "is_watchlist": false
@@ -1071,7 +1071,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PLAY",
         "date": "2026-09-14",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2477,
         "revenue_estimate": 568337472,
         "is_watchlist": false
