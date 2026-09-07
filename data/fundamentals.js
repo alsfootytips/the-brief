@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-09-07T19:58:31.421431+00:00",
+  "generated_at": "2026-09-07T22:44:54.419950+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": 4.72,
@@ -355,7 +355,7 @@ window.theBriefFundamentals = {
       "return_52w_low": 215.98,
       "realized_vol_30d_pct": 4.4,
       "trailing_pe": 121.82908,
-      "forward_pe": 30.90922,
+      "forward_pe": 30.78501,
       "price_to_sales": 18.874739,
       "price_to_book": 11.594037,
       "enterprise_to_ebitda": 80.609,

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-07T19:58:31.289834+00:00",
+  "generated_at": "2026-09-07T22:44:54.310152+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
+      "move_reason": "News: \"AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge\""
     },
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
+      "move_reason": "News: \"IREN\u2019s AI Pricing Is Exploding \u2014 Why the Neocloud\u2019s $2.6 Billion Contract Base Could Scale...\""
     },
     {
       "ticker": "AMD",
@@ -175,7 +175,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidC...\""
+      "move_reason": "News: \"Set a Fair Starting Line, as Favorites Can Falter\""
     }
   ],
   "losers": [
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Leading And Lagging Sectors For September 7, 2026\""
     },
     {
       "ticker": "XLRE",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
+      "move_reason": "News: \"IREN\u2019s AI Pricing Is Exploding \u2014 Why the Neocloud\u2019s $2.6 Billion Contract Base Could Scale...\""
     },
     {
       "ticker": "DG",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
+      "move_reason": "News: \"AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge\""
     },
     {
       "ticker": "NVDA",
@@ -506,7 +506,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidC...\""
+      "move_reason": "News: \"Set a Fair Starting Line, as Favorites Can Falter\""
     },
     {
       "ticker": "XLE",
@@ -518,7 +518,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Leading And Lagging Sectors For September 7, 2026\""
     }
   ],
   "indices": [
