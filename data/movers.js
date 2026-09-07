@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-07T16:05:32.212001+00:00",
+  "generated_at": "2026-09-07T16:53:18.303248+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
+      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
     },
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
+      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
     },
     {
       "ticker": "AMD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?\""
+      "move_reason": "News: \"AMD Is Behind The AI Chip Shift Nobody Is Talking About\""
     },
     {
       "ticker": "DG",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sterling's Electrical Capacity Gets Tight: Can M&A Bridge the Gap?\""
+      "move_reason": "News: \"MYR Group Reports Record Q2 Revenues: Can It Maintain This Pace?\""
     },
     {
       "ticker": "META",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s (NVDA) Strong Results Reinforce Long Term Outlook\""
+      "move_reason": "News: \"1 Stat That Makes Costco Hard to Ignore this September\""
     },
     {
       "ticker": "XLI",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?\""
+      "move_reason": "News: \"AMD Is Behind The AI Chip Shift Nobody Is Talking About\""
     },
     {
       "ticker": "APA",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
+      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
     },
     {
       "ticker": "DG",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
+      "move_reason": "News: \"CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?\""
     },
     {
       "ticker": "NVDA",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s (NVDA) Strong Results Reinforce Long Term Outlook\""
+      "move_reason": "News: \"1 Stat That Makes Costco Hard to Ignore this September\""
     },
     {
       "ticker": "OSCR",
@@ -482,7 +482,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sterling's Electrical Capacity Gets Tight: Can M&A Bridge the Gap?\""
+      "move_reason": "News: \"MYR Group Reports Record Q2 Revenues: Can It Maintain This Pace?\""
     },
     {
       "ticker": "TPL",
