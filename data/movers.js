@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-07T00:43:36.728493+00:00",
+  "generated_at": "2026-09-07T05:16:36.243920+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
+      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
     },
     {
       "ticker": "DG",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Berkshire Hathaway Stock Be in 5 Years?\""
+      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
     },
     {
       "ticker": "XLI",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
+      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
     },
     {
       "ticker": "APA",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Hot CPI Report May Force A September Rate Hike\""
+      "move_reason": "News: \"I'm Buying Consumer Experience Like Delta, Carnival, And Avoiding Discretionary Stocks\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will Berkshire Hathaway Stock Be in 5 Years?\""
+      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
     },
     {
       "ticker": "OSCR",
@@ -859,11 +859,11 @@ window.theBriefMovers = {
       "score": 3.0,
       "signals": [
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
+        "Forward P/E 10.0 (cheap on absolute basis)"
       ],
       "reasons": [
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
+        "Forward P/E 10.0 (cheap on absolute basis)"
       ],
       "tags": [
         "insider-buying",
