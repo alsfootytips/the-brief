@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-06T22:54:30+00:00",
+  "generated_at": "2026-09-07T00:43:36+00:00",
   "by_date": {
     "2026-09-07": [
       {
@@ -1402,6 +1402,144 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.1224,
         "revenue_estimate": 7723950,
+        "is_watchlist": false
+      }
+    ],
+    "2026-09-21": [
+      {
+        "ticker": "AIR",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": 1.3383,
+        "revenue_estimate": 889490163,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BNC",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BNTC",
+        "date": "2026-09-21",
+        "hour": "amc",
+        "eps_estimate": -0.2841,
+        "revenue_estimate": 0,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "CBIH",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "COOT",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "EBF",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": 0.3939,
+        "revenue_estimate": 100848500,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HCBC",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HLEO",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "INM",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KCRD",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MSS",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NAMI",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NCPL",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PTN",
+        "date": "2026-09-21",
+        "hour": "amc",
+        "eps_estimate": -1.212,
+        "revenue_estimate": 1262500,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SBSAA",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TDTH",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "WDSP",
+        "date": "2026-09-21",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       }
     ]

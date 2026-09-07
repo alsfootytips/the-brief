@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-06T22:54:30.267186+00:00",
+  "generated_at": "2026-09-07T00:43:36.728493+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Just Won Another Catalyst (Rating Upgrade)\""
+      "move_reason": "News: \"Meet the Nvidia-Backed Stock That's Growing at a 454% Pace (It's a Screaming Buy Right Now...\""
     },
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: I'm Calling The First Peak Of The AI Mountain Range\""
+      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
     },
     {
       "ticker": "DG",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Brunch: Make Or Break Inflation For The Fed\""
+      "move_reason": "News: \"Where Will Berkshire Hathaway Stock Be in 5 Years?\""
     },
     {
       "ticker": "XLI",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Up 20.9% Since Last Earnings Report: Can It Continue?\""
+      "move_reason": ""
     },
     {
       "ticker": "GEV",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"T Mobile US (TMUS) Sets Up CFO Handover With Jessica Uhl Joining In September\""
+      "move_reason": "News: \"BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclea...\""
     },
     {
       "ticker": "XLU",
@@ -175,7 +175,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidC...\""
     }
   ],
   "losers": [
@@ -280,7 +280,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Softer Late Afternoon\""
+      "move_reason": ""
     },
     {
       "ticker": "XLRE",
@@ -303,7 +303,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week September 6\""
+      "move_reason": "Tracking XLE sector (-0.73% today)"
     },
     {
       "ticker": "DIA",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: I'm Calling The First Peak Of The AI Mountain Range\""
+      "move_reason": "News: \"Did Nvidia Just Say Checkmate to AMD and Intel?\""
     },
     {
       "ticker": "APA",
@@ -374,7 +374,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Up 20.9% Since Last Earnings Report: Can It Continue?\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -410,7 +410,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"T Mobile US (TMUS) Sets Up CFO Handover With Jessica Uhl Joining In September\""
+      "move_reason": "News: \"BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclea...\""
     },
     {
       "ticker": "IWM",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Just Won Another Catalyst (Rating Upgrade)\""
+      "move_reason": "News: \"Meet the Nvidia-Backed Stock That's Growing at a 454% Pace (It's a Screaming Buy Right Now...\""
     },
     {
       "ticker": "NVDA",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Brunch: Make Or Break Inflation For The Fed\""
+      "move_reason": "News: \"Where Will Berkshire Hathaway Stock Be in 5 Years?\""
     },
     {
       "ticker": "OSCR",
@@ -458,7 +458,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Just Overtook the 20-Day Moving Average\""
+      "move_reason": "Tracking XLV sector (-1.04% today)"
     },
     {
       "ticker": "OXY",
@@ -470,7 +470,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week September 6\""
+      "move_reason": "Tracking XLE sector (-0.73% today)"
     },
     {
       "ticker": "PWR",
@@ -506,7 +506,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidC...\""
     },
     {
       "ticker": "XLE",
@@ -518,7 +518,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Softer Late Afternoon\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -742,30 +742,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 44.24,
-      "change_pct": 0.14,
-      "score": 4.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
       "price": 366.8,
@@ -874,6 +850,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 44.24,
+      "change_pct": 0.14,
+      "score": 3.0,
+      "signals": [
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 10.1 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Forward P/E 10.1 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     },
     {
       "ticker": "PWR",
