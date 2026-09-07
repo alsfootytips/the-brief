@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-07T10:37:39.358656+00:00",
+  "generated_at": "2026-09-07T16:05:32.212001+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Nvidia-Backed Stock That's Growing at a 454% Pace (It's a Screaming Buy Right Now...\""
+      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
     },
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test\""
+      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
     },
     {
       "ticker": "AMD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
+      "move_reason": "News: \"NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?\""
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?\""
+      "move_reason": "News: \"Target's Non-Merchandise Sales Jump 20% as New Revenue Streams Scale\""
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Baron Asset Fund: Q2 2026 Top Contributors And Detractors\""
+      "move_reason": "News: \"Sterling's Electrical Capacity Gets Tight: Can M&A Bridge the Gap?\""
     },
     {
       "ticker": "META",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on ...\""
+      "move_reason": "News: \"Nvidia\u2019s (NVDA) Strong Results Reinforce Long Term Outlook\""
     },
     {
       "ticker": "XLI",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclea...\""
+      "move_reason": "News: \"Solar Stocks Are Splitting Into Two Different Trades\""
     },
     {
       "ticker": "XLU",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Fin...\""
+      "move_reason": "News: \"NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?\""
     },
     {
       "ticker": "APA",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test\""
+      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
     },
     {
       "ticker": "DG",
@@ -398,7 +398,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?\""
+      "move_reason": "News: \"Target's Non-Merchandise Sales Jump 20% as New Revenue Streams Scale\""
     },
     {
       "ticker": "GEV",
@@ -410,7 +410,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclea...\""
+      "move_reason": "News: \"Solar Stocks Are Splitting Into Two Different Trades\""
     },
     {
       "ticker": "IWM",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I'm Buying Consumer Experience Like Delta, Carnival, And Avoiding Discretionary Stocks\""
+      "move_reason": "News: \"Inside The Magic Box: Earnings Are Strong, Just Not As Strong As They Look\""
     },
     {
       "ticker": "NBIS",
@@ -434,7 +434,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Nvidia-Backed Stock That's Growing at a 454% Pace (It's a Screaming Buy Right Now...\""
+      "move_reason": "News: \"Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?\""
     },
     {
       "ticker": "NVDA",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on ...\""
+      "move_reason": "News: \"Nvidia\u2019s (NVDA) Strong Results Reinforce Long Term Outlook\""
     },
     {
       "ticker": "OSCR",
@@ -482,7 +482,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Baron Asset Fund: Q2 2026 Top Contributors And Detractors\""
+      "move_reason": "News: \"Sterling's Electrical Capacity Gets Tight: Can M&A Bridge the Gap?\""
     },
     {
       "ticker": "TPL",
