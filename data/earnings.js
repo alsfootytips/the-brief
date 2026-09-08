@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-08T21:03:49+00:00",
+  "generated_at": "2026-09-08T23:24:15+00:00",
   "by_date": {
     "2026-09-08": [
       {
@@ -999,7 +999,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FPS",
         "date": "2026-09-15",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.2411,
         "revenue_estimate": 434239400,
         "is_watchlist": false
@@ -1055,7 +1055,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VRA",
         "date": "2026-09-15",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0808,
         "revenue_estimate": 66614550,
         "is_watchlist": false
