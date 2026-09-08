@@ -1,160 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-07T23:53:03+00:00",
+  "generated_at": "2026-09-08T00:43:23+00:00",
   "by_date": {
-    "2026-09-07": [
-      {
-        "ticker": "ALOT",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BNR",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BWTL",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CGNT",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": 0.089,
-        "revenue_estimate": 110788320,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DBI",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": 0.2576,
-        "revenue_estimate": 752545950,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FCEL",
-        "date": "2026-09-07",
-        "hour": "bmo",
-        "eps_estimate": -0.421,
-        "revenue_estimate": 39601500,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FFA",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GLU",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GME",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": 0.2727,
-        "revenue_estimate": 764418500,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IFN",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IMPP",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": 0.7446,
-        "revenue_estimate": 73542000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LITB",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MPV",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NTRB",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RCG",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SBOX",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SKIL",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": 0.8466,
-        "revenue_estimate": 100612800,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SOR",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SWVL",
-        "date": "2026-09-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-09-08": [
       {
         "ticker": "ABM",
@@ -1540,6 +1386,72 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-09-22": [
+      {
+        "ticker": "APOG",
+        "date": "2026-09-22",
+        "hour": "",
+        "eps_estimate": 0.6426,
+        "revenue_estimate": 366653616,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "AZO",
+        "date": "2026-09-22",
+        "hour": "amc",
+        "eps_estimate": 54.9843,
+        "revenue_estimate": 6789495275,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FERG",
+        "date": "2026-09-22",
+        "hour": "",
+        "eps_estimate": 2.4834,
+        "revenue_estimate": 8166568188,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ISPR",
+        "date": "2026-09-22",
+        "hour": "",
+        "eps_estimate": 0.0153,
+        "revenue_estimate": 21777000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KBH",
+        "date": "2026-09-22",
+        "hour": "amc",
+        "eps_estimate": 0.9015,
+        "revenue_estimate": 1307041000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MLKN",
+        "date": "2026-09-22",
+        "hour": "",
+        "eps_estimate": 0.3621,
+        "revenue_estimate": 962166000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RWWI",
+        "date": "2026-09-22",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "WOR",
+        "date": "2026-09-22",
+        "hour": "",
+        "eps_estimate": 0.7676,
+        "revenue_estimate": 334579872,
         "is_watchlist": false
       }
     ]

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-07T23:53:03.421551+00:00",
+  "generated_at": "2026-09-08T00:43:23.293807+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Is Behind The AI Chip Shift Nobody Is Talking About\""
+      "move_reason": "News: \"AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027\""
     },
     {
       "ticker": "DG",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Is Behind The AI Chip Shift Nobody Is Talking About\""
+      "move_reason": "News: \"AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027\""
     },
     {
       "ticker": "APA",
@@ -742,51 +742,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 366.8,
-      "change_pct": 0.08,
-      "score": 4.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.0 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 5.0 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 60.2,
-      "change_pct": -0.67,
-      "score": 3.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "7 insider buys vs 3 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>OXY</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "price": 476.25,
@@ -870,6 +825,27 @@ window.theBriefMovers = {
         "cheap"
       ],
       "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 366.8,
+      "change_pct": 0.08,
+      "score": 3.0,
+      "signals": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.0 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 5.0 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
     },
     {
