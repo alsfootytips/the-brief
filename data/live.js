@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-08T23:24:15.954874+00:00",
+  "generated_at": "2026-09-08T23:46:59.801962+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.13,
       "price": 381.0,
       "is_watchlist": true,
-      "timestamp": "2026-09-08T23:24:15.952632+00:00",
+      "timestamp": "2026-09-08T23:46:59.633093+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.32,
       "price": 645.13,
       "is_watchlist": true,
-      "timestamp": "2026-09-08T23:24:15.952629+00:00",
+      "timestamp": "2026-09-08T23:46:59.633090+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 7.89,
-      "price": 244.26,
+      "change_pct": 7.56,
+      "price": 243.5,
       "is_watchlist": true,
-      "timestamp": "2026-09-08T23:24:15.952626+00:00",
+      "timestamp": "2026-09-08T23:46:59.633086+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": -4.01,
       "price": 127.87,
       "is_watchlist": true,
-      "timestamp": "2026-09-08T23:24:15.952617+00:00",
+      "timestamp": "2026-09-08T23:46:59.633075+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -53,10 +53,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 11.59,
-      "price": 99.72,
+      "change_pct": 11.46,
+      "price": 99.6,
       "is_watchlist": true,
-      "timestamp": "2026-09-08T23:24:15.952614+00:00",
+      "timestamp": "2026-09-08T23:46:59.633072+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -65,13 +65,24 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 5.91,
-      "price": 505.8,
+      "change_pct": 5.88,
+      "price": 505.65,
       "is_watchlist": true,
-      "timestamp": "2026-09-08T23:24:15.952606+00:00",
+      "timestamp": "2026-09-08T23:46:59.633061+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices add to two-month highs after U.S. destroys five Iranian oil tankers",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4641010-oil-prices-add-to-two-month-highs-after-us-destroys-five-iranian-oil-tankers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-08T23:42:07+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -83,7 +94,7 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
       "is_watchlist": true,
-      "timestamp": "2026-09-08T23:20:41+00:00",
+      "timestamp": "2026-09-08T23:36:53+00:00",
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
@@ -98,6 +109,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-08T23:18:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "War expands as Houthis attack Saudi cities and US strikes Iranian tankers - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-08T23:09:18+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -426,17 +449,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "The Cooper Companies Q3 2026 Earnings Preview",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4640913-the-cooper-companies-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-08T21:35:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "The Trade Desk makes major reset after brutal 70% decline",
       "source": "Yahoo",
@@ -574,29 +586,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-08T20:23:21+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-08T20:21:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street slides, oil surges amid worries over inflation, Middle East - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-08T20:17:40+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -785,6 +774,28 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-08T17:11:11+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This data center stock is up over 1000% in the last five years. Trader Mike Khouw sees more gains",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/this-data-center-stock-is-up-over-1000percent-in-the-last-five-years-trader-mike-khouw-sees-more-gains.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-08T17:06:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "Record Profits, Hidden Risks: Why Peak Corporate Earnings Could Signal Trouble Ahead",
       "source": "SeekingAlpha",
@@ -865,21 +876,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
-      "is_watchlist": true,
-      "timestamp": "2026-09-08T14:04:15+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -1106,6 +1102,39 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Entegris (ENTG) Positions to Benefit\u00a0From\u00a0Rebounding Wafer Starts and Memory Capex",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-entg-positions-benefit-rebounding-153817721.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T15:38:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is 3M Stock Underperforming the Dow?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-underperforming-dow-153400965.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T15:34:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-expanding-operations-venezuela-play-153002599.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-07T15:30:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Loss of Costco deal helps push beverage brand into Chapter 11",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
@@ -1139,44 +1168,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "President Trump Bought BA Stock the Same Day Boeing Won an $880M U.S. Navy Contract",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-bought-ba-stock-150002890.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T15:00:02+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Can Iraq Really Replace Saudi Arabia As The Middle East\u2019s Top Oil Producer?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/energy/articles/iraq-really-replace-saudi-arabia-150000955.html",
       "is_watchlist": false,
       "timestamp": "2026-09-07T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bernie Sanders Wants to Ban Superintelligence. What It Means for Microsoft and Amazon",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bernie-sanders-wants-ban-superintelligence-145733495.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T14:57:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Active Owners Are Betting on Jack in the Box (JACK)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-active-owners-betting-jack-145520823.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-07T14:55:20+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
