@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-08T00:43:23.293807+00:00",
+  "generated_at": "2026-09-08T05:19:54.830677+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Stat That Makes Costco Hard to Ignore this September\""
+      "move_reason": "News: \"Interactive Brokers Earns Interest on $182 Billion of Its Clients' Idle Cash. Will Anthrop...\""
     },
     {
       "ticker": "XLI",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Eni (E) Bets Big on Uruguay with Stakes in Two Offshore Blocks\""
     },
     {
       "ticker": "GEV",
@@ -175,7 +175,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Set a Fair Starting Line, as Favorites Can Falter\""
+      "move_reason": "News: \"S&P 500 Adds 3 Surging Stocks in Major Shake-Up\""
     }
   ],
   "losers": [
@@ -303,7 +303,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (-0.73% today)"
+      "move_reason": "News: \"Is Occidental Petroleum Stock Outperforming the Nasdaq?\""
     },
     {
       "ticker": "DIA",
@@ -374,7 +374,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Eni (E) Bets Big on Uruguay with Stakes in Two Offshore Blocks\""
     },
     {
       "ticker": "CRWV",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Inside The Magic Box: Earnings Are Strong, Just Not As Strong As They Look\""
+      "move_reason": "News: \"Monthly Macro Monitor: Risk Vs. Reward\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Stat That Makes Costco Hard to Ignore this September\""
+      "move_reason": "News: \"Interactive Brokers Earns Interest on $182 Billion of Its Clients' Idle Cash. Will Anthrop...\""
     },
     {
       "ticker": "OSCR",
@@ -470,7 +470,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (-0.73% today)"
+      "move_reason": "News: \"Is Occidental Petroleum Stock Outperforming the Nasdaq?\""
     },
     {
       "ticker": "PWR",
@@ -506,7 +506,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Set a Fair Starting Line, as Favorites Can Falter\""
+      "move_reason": "News: \"S&P 500 Adds 3 Surging Stocks in Major Shake-Up\""
     },
     {
       "ticker": "XLE",

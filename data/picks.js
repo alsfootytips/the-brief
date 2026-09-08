@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-09-08T00:43:23.443418+00:00",
+  "generated_at": "2026-09-08T05:19:54.934966+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -716,7 +716,7 @@ window.theBriefPicks = {
       "current_pct": 16.15,
       "change_pct_today": -0.67,
       "name": "Occidental Petroleum",
-      "news_count": 0,
+      "news_count": 1,
       "days_elapsed": 42,
       "days_remaining": 0,
       "closed_at": "2026-07-31",
@@ -750,7 +750,7 @@ window.theBriefPicks = {
       "current_pct": 33.33,
       "change_pct_today": 0.14,
       "name": "APA Corp",
-      "news_count": 0,
+      "news_count": 1,
       "days_elapsed": 35,
       "days_remaining": 0,
       "closed_at": "2026-07-24",
@@ -950,7 +950,7 @@ window.theBriefPicks = {
       "current_pct": 8.4,
       "change_pct_today": 0.14,
       "name": "APA Corp",
-      "news_count": 0,
+      "news_count": 1,
       "days_elapsed": 28,
       "days_remaining": 21
     }
