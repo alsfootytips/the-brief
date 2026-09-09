@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-09T21:31:24+00:00",
+  "generated_at": "2026-09-09T23:31:16+00:00",
   "by_date": {
     "2026-09-09": [
       {
@@ -343,7 +343,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CSBR",
         "date": "2026-09-10",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0102,
         "revenue_estimate": 15345900,
         "is_watchlist": false
@@ -667,7 +667,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HYFT",
         "date": "2026-09-14",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0782,
         "revenue_estimate": 4614143,
         "is_watchlist": false
@@ -919,7 +919,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ALMU",
         "date": "2026-09-16",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0765,
         "revenue_estimate": 586500,
         "is_watchlist": false
