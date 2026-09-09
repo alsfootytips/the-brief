@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-09T15:20:56.791646+00:00",
+  "generated_at": "2026-09-09T15:36:45.254024+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -4.79,
-      "price": 31.43,
+      "change_pct": -5.09,
+      "price": 31.33,
       "is_watchlist": true,
-      "timestamp": "2026-09-09T15:20:56.788852+00:00",
+      "timestamp": "2026-09-09T15:36:45.054071+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "META",
       "name": "META",
-      "change_pct": 7.08,
-      "price": 656.92,
+      "change_pct": 6.63,
+      "price": 654.17,
       "is_watchlist": false,
-      "timestamp": "2026-09-09T15:20:56.788848+00:00",
+      "timestamp": "2026-09-09T15:36:45.054067+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -30,23 +30,12 @@ window.theBriefLive = {
       "ticker": "CRWV",
       "name": "CoreWeave",
       "change_pct": -3.11,
-      "price": 96.72,
+      "price": 96.73,
       "is_watchlist": true,
-      "timestamp": "2026-09-09T15:20:56.788833+00:00",
+      "timestamp": "2026-09-09T15:36:45.054055+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:19:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -55,8 +44,107 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-09T15:19:39+00:00",
+      "timestamp": "2026-09-09T15:35:31+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:34:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CME Group appoints Jack Tobin as CFO",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4641273-cme-group-appoints-jack-tobin-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:31:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CVS Health flags elevated medical expenses, sending managed care lower",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4641266-cvs-health-sends-managed-care-lower-cost-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:27:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:24:45+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sarepta Therapeutics climbs 10%, rebounding from recent slide",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4641255-sarepta-therapeutics-climbs-10-rebounding-from-recent-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:22:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/brent-crude-rises-above-100-073722479.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:21:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How long should you wait between credit card applications?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:20:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:20:22+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exxon and partners announce oil discovery offshore Angola",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4641242-exxon-and-partners-announce-oil-discovery-offshore-angola?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:18:31+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -95,6 +183,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "$6 Billion Treasury Buyback Fails To Calm 'Fever' As Oil Prices Jump",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:17:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "UL Solutions at Jefferies Global Industrials Conference 2026: growth and margins",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/transcripts/ul-solutions-at-jefferies-global-industrials-conference-2026-growth-and-margins-93CH-4894076",
@@ -112,6 +211,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-09T15:14:00+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-rises-4-collectibles-sales-151356496.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:13:56+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -144,6 +254,17 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/transcripts/hca-healthcare-at-wells-fargo-healthcare-conference-growth-offsets-policy-hit-93CH-4894073",
       "is_watchlist": false,
       "timestamp": "2026-09-09T15:13:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Victrex Finds Its High-Performance Groove Again",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/victrex-finds-high-performance-groove-151203545.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:12:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -194,11 +315,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Top 5 Stocks Poised to Profit From the CHIPS Quantum Incentive Wave",
+      "headline": "Chewy Stock Slumps As In-Line Earnings Not Enough To Escape Wall Street's Doghouse",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-poised-profit-150513070.html",
+      "url": "https://www.investors.com/news/technology/chewy-stock-q2-2026-earnings-chwy-news/?src=A00220&yptr=yahoo",
       "is_watchlist": false,
-      "timestamp": "2026-09-09T15:05:13+00:00",
+      "timestamp": "2026-09-09T15:07:52+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -216,6 +337,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "COMMENTARY: Oil prices fly blind as the Hormuz enigma deepens - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHRWamh0dmRPM3B6NjlrWE5YbnVtMGxDVll0ZGdKalVwOXh2QzMyUmtmR0R6UWg1Sk4xRjV0MVlwb0c2bzJKYWwxVUU2VmszZnpYd2NSQ2U2OXRNZkgzZVc1N3Zaa05IV0hKX3pKSlM0d0JoUnFFdVlXUTE2dXdMaHZhdDdrd1RHcm5tTzlUaFI0VDBxMzNINkw2eEVSREowcmJaOTIzSlQ5ZHBzU3lScg?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:04:58+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html",
@@ -227,110 +359,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-ai-stocks-joining-p-150300778.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Figure Technology upgraded at BofA Securities on Connect volumes, valuation",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4641237-figure-technology-upgraded-at-bofa-securities-on-connect-volumes-valuation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:00:37+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Adult film studio says a Meta exec torrented nearly 20K files on his home internet \u2014 wants it folded into a $446M case",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/media-advertising/articles/adult-film-studio-says-meta-150000902.html",
       "is_watchlist": false,
       "timestamp": "2026-09-09T15:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ten healthcare stocks with A-rated valuations and strong revenue growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4641239-ten-healthcare-stocks-with-a-rated-valuations-and-strong-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T14:59:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paramount Skydance files motion for $1.88B bond to cover ticking fees, legal costs",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4641152-paramount-skydance-files-motion-for-188b-bond-to-cover-ticking-fees-legal-costs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T14:56:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Startup Covenant unveils long-range missile, raises more than $250M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4641238-startup-covenant-unveils-long-range-missile-raises-more-than-250m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T14:54:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave struggling to keep up with demand for Nvidia chips, CEO says",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/coreweave-struggling-to-keep-up-with-demand-for-nvidia-chips-ceo-says-145336930.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T14:53:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave CEO: America's data center backlash won't stop the AI build-out",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/coreweave-ceo-americas-data-center-backlash-wont-stop-the-ai-build-out-145254372.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T14:52:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here\u2019s Why The Fund Sold Regeneron Pharmaceuticals (REGN)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-regeneron-pharmaceuticals-145138128.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T14:51:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NFL Kickoff To Spark Record Betting Season As Prediction Markets Boom. AGA Throws A Flag.",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/nfl-kickoff-sports-betting-prediction-markets-draftkings-robinhood-kalshi/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T14:50:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -370,7 +403,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - reuters.com",
+      "headline": "Oil pushes past $100 as wave of US-Iran attacks exposes dwindling safety net - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk83eHNVQXFWUEdoZGxYdmRpdnhuMFFKM3JfMkRRNDMxWmM0c1JPVmpkRWhQVVBvX0VLdjlhZ296NHpDVDdUNS0xZl9jRXJEeWZ1N1ZWSnZGUjVueEc2MzdjNTAwUTNlUFEtZWZ5el9Jc3dBYjJzVzN6R080aFJLLVlYWEVqUTU0WHRGX1hMSXQ3cnFpaVNHeHM3enRkYjZDcEUyb0Vic1JhMExzU1BCZVBvZlh2dExCZ3dRTVBlNWxNZw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T13:56:11+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
       "is_watchlist": false,
@@ -463,7 +507,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil tanker hit in Iraqi waters, as vessels get caught in US-Iran attacks - reuters.com",
+      "headline": "Oil tanker hit in Iraqi waters, as vessels get caught in US-Iran attacks - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckd4WVFmZEhoNEFkVzRzdE9JMVJ2QVUwMmk3MDRuUTA3NHc3N0xrY2VLZl9GY2Q2WU1ybzBodjhINEQwaV9GQmpKS3FSdXpSY3B3M0VUY3V6NUJvSU1zR1NPYmpLMUtvN3ZrYlZEVlZVNmhZTWZhdnhpM2dEaEZJZzBlbDN3cE42cXNsbDdnYmNkT3ROZTVzVjdBZUJ0NjRCYW4tQUdQQk5NNTV4NFIw?oc=5",
       "is_watchlist": false,
@@ -497,7 +541,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Saudi Arabia lifts alert in southern city a day after Houthi strikes - reuters.com",
+      "headline": "Saudi Arabia lifts alert in southern city a day after Houthi strikes - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkFZWWVmRkxOZ0dqSFdYQnh1dkpQTkZBbFdyU2Rydm1aMUo5eDFhNGpTaURVcmZLN25rS0s0ZUlEd1hFdEJ1TXJjT01mVzYtS1I1X2duVjhXTTFseHZOVGNWLURySnN3M0d1aGpVdUZLUXBDT0NMUjlhYXRHdGo4ekY0Q2stN3VyY09XSFRFZTdka1BhMDJnTFR2NzB2eVVzSW9ENV8wYi1jcWZhdEl0VjQxd1l2VXFI?oc=5",
       "is_watchlist": false,
@@ -523,7 +567,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Iran and US hit tankers in biggest wave of attacks on shipping since war began - reuters.com",
+      "headline": "Iran and US hit tankers in biggest wave of attacks on shipping since war began - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5",
       "is_watchlist": false,
@@ -640,17 +684,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T12:36:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
@@ -747,33 +780,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T11:26:45+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Two seriously injured in explosion at hydroelectric plant in Switzerland - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkJaQnBwa3dCSXY5NkZZUThSYXVtNENWTGVIcG9UbHlNakV5blBiS1lfZkxKNUw4cTNSdW9OcVhobmItZld1bjgyMmZaUlM2Y1h2bUVJQzgybW84bnNFWDRKOEtDcWFDOWdBZDlxeDZ4TUNqNEFLcHJvMWlyXzllNlBmSWh6LW9aak5JNWQyVDhvYW5TOEx3Wkh6dE51RlRERDNQWWYwNkVMSmlmLWNzLUk0NElFZw?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-09-09T11:19:10+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GE Aerospace bets on 'black art' of casting to secure jet engine supply - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSEZ2VlUxNWU2bFdQdGJtVWp6cHR0bTJoRW1hQVF5RThyMWJ4cGFESGVqelc0MXkyTHZjWWo0ZmRmUnFqN0tHci1OUHdBWDVfdVZPUVZnYmowc1J1QTVmbVZaZFZfbV9nRElDLVJMdERtMzZlVllfZ0oydTdjRm1LTlIwbkhKVGdBOWJTaGZOT2doeld3X1BVTks5VG1VTmcta3lhVmNXT2pvUnV3UG1IV3ctV3Nlc3ZhTlVIYXpoMGo?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T11:12:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -788,17 +799,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PODCAST: Iran escalation, GOP convention, Equatorial Guinea and Venezuela\u2019s minerals - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0ZINUNQMjlNSm9ZMlplQ01xV0F6QW1hS0hEWW9CaGhpdHNpcTdDQnBOWVNKSGs0cFhidHdPY3BJQXRESUltMmRCbjdTTnZMaXFfZ0NZYWdBNUs4UjE1TTBNbHpXam1vN21Oa3F6U3I3VEtRSnVyLXM0MTUxOGl5RldWaTNjaXc1MGNLTkN3ZnlTVmFVa0NIbHdZUE1CLVZ4QmZRSXVlMmVzbDFaQWhoSE9RZw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T10:55:40+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
