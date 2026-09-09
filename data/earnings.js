@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-09T18:47:56+00:00",
+  "generated_at": "2026-09-09T21:31:24+00:00",
   "by_date": {
     "2026-09-09": [
       {
@@ -245,7 +245,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RSSS",
         "date": "2026-09-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.034,
         "revenue_estimate": 12186960,
         "is_watchlist": false
