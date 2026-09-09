@@ -1,10 +1,10 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-09T23:31:16.855297+00:00",
+  "generated_at": "2026-09-09T23:43:13.774002+00:00",
   "gainers": [
     {
       "ticker": "META",
       "name": "META",
-      "price": 649.17,
+      "price": 649.18,
       "change_pct": 5.82,
       "volume_ratio": 1.66,
       "is_watchlist": false,
@@ -16,8 +16,8 @@ window.theBriefMovers = {
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 44.93,
-      "change_pct": 3.17,
+      "price": 44.85,
+      "change_pct": 2.99,
       "volume_ratio": 1.15,
       "is_watchlist": true,
       "is_index": false,
@@ -28,8 +28,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 519.59,
-      "change_pct": 2.74,
+      "price": 519.85,
+      "change_pct": 2.79,
       "volume_ratio": 1.14,
       "is_watchlist": true,
       "is_index": false,
@@ -77,8 +77,8 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 92.2,
-      "change_pct": -7.64,
+      "price": 92.19,
+      "change_pct": -7.65,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
@@ -89,8 +89,8 @@ window.theBriefMovers = {
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 31.73,
-      "change_pct": -3.88,
+      "price": 31.69,
+      "change_pct": -4.0,
       "volume_ratio": 1.04,
       "is_watchlist": true,
       "is_index": false,
@@ -113,8 +113,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 236.41,
-      "change_pct": -3.06,
+      "price": 236.78,
+      "change_pct": -2.91,
       "volume_ratio": 0.75,
       "is_watchlist": true,
       "is_index": false,
@@ -137,8 +137,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 950.48,
-      "change_pct": -2.14,
+      "price": 950.0,
+      "change_pct": -2.19,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
@@ -172,8 +172,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 290.6,
-      "change_pct": -1.38,
+      "price": 290.57,
+      "change_pct": -1.39,
       "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": true,
@@ -253,8 +253,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 519.59,
-      "change_pct": 2.74,
+      "price": 519.85,
+      "change_pct": 2.79,
       "volume_ratio": 1.14,
       "is_watchlist": true,
       "is_index": false,
@@ -265,8 +265,8 @@ window.theBriefMovers = {
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 44.93,
-      "change_pct": 3.17,
+      "price": 44.85,
+      "change_pct": 2.99,
       "volume_ratio": 1.15,
       "is_watchlist": true,
       "is_index": false,
@@ -277,8 +277,8 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 92.2,
-      "change_pct": -7.64,
+      "price": 92.19,
+      "change_pct": -7.65,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
@@ -301,8 +301,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 950.48,
-      "change_pct": -2.14,
+      "price": 950.0,
+      "change_pct": -2.19,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
@@ -313,8 +313,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 290.6,
-      "change_pct": -1.38,
+      "price": 290.57,
+      "change_pct": -1.39,
       "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": true,
@@ -325,8 +325,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 236.41,
-      "change_pct": -3.06,
+      "price": 236.78,
+      "change_pct": -2.91,
       "volume_ratio": 0.75,
       "is_watchlist": true,
       "is_index": false,
@@ -337,8 +337,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 223.49,
-      "change_pct": -0.99,
+      "price": 223.52,
+      "change_pct": -0.98,
       "volume_ratio": 0.63,
       "is_watchlist": true,
       "is_index": false,
@@ -349,8 +349,8 @@ window.theBriefMovers = {
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 31.73,
-      "change_pct": -3.88,
+      "price": 31.69,
+      "change_pct": -4.0,
       "volume_ratio": 1.04,
       "is_watchlist": true,
       "is_index": false,
@@ -433,8 +433,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 290.6,
-      "change_pct": -1.38,
+      "price": 290.57,
+      "change_pct": -1.39,
       "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": true,
@@ -615,8 +615,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 223.49,
-      "change_pct": -0.99,
+      "price": 223.52,
+      "change_pct": -0.98,
       "score": 6.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -642,17 +642,17 @@ window.theBriefMovers = {
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 44.93,
-      "change_pct": 3.17,
+      "price": 44.85,
+      "change_pct": 2.99,
       "score": 5.5,
       "signals": [
-        "Moved +3.17% \u2014 a 1.1\u03c3 move",
+        "Moved +2.99% \u2014 a 1.0\u03c3 move",
         "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 10.3 (cheap on absolute basis)"
       ],
       "reasons": [
-        "Moved +3.17% \u2014 a 1.1\u03c3 move",
+        "Moved +2.99% \u2014 a 1.0\u03c3 move",
         "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 10.3 (cheap on absolute basis)"
@@ -668,8 +668,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 236.41,
-      "change_pct": -3.06,
+      "price": 236.78,
+      "change_pct": -2.91,
       "score": 5.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -760,8 +760,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 950.48,
-      "change_pct": -2.14,
+      "price": 950.0,
+      "change_pct": -2.19,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",

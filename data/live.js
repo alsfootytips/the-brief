@@ -1,26 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-09T23:31:16.860522+00:00",
+  "generated_at": "2026-09-09T23:43:14.006721+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -3.88,
-      "price": 31.73,
+      "change_pct": -4.0,
+      "price": 31.69,
       "is_watchlist": true,
-      "timestamp": "2026-09-09T23:31:16.857485+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "change_pct": -3.06,
-      "price": 236.41,
-      "is_watchlist": true,
-      "timestamp": "2026-09-09T23:31:16.857482+00:00",
+      "timestamp": "2026-09-09T23:43:13.775919+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,9 +18,9 @@ window.theBriefLive = {
       "ticker": "META",
       "name": "META",
       "change_pct": 5.82,
-      "price": 649.17,
+      "price": 649.18,
       "is_watchlist": false,
-      "timestamp": "2026-09-09T23:31:16.857478+00:00",
+      "timestamp": "2026-09-09T23:43:13.775914+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -41,22 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -7.64,
-      "price": 92.2,
+      "change_pct": -7.65,
+      "price": 92.19,
       "is_watchlist": true,
-      "timestamp": "2026-09-09T23:31:16.857467+00:00",
-      "relevance_score": 4.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Big Move"
-    },
-    {
-      "type": "mover",
-      "ticker": "APA",
-      "name": "APA Corp",
-      "change_pct": 3.17,
-      "price": 44.93,
-      "is_watchlist": true,
-      "timestamp": "2026-09-09T23:31:16.857457+00:00",
+      "timestamp": "2026-09-09T23:43:13.775899+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -186,6 +162,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Bank of America CEO says the consumer remains resilient despite rising gas prices",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/bank-of-america-ceo-consumer-resilient-despite-rising-gas.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T22:53:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Diesel prices hit another record high. If you\u2019re shocked, wait until you see your grocery bill.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
@@ -307,6 +294,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T22:01:22+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Here are the major earnings before the open Thursday",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4641192-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -324,17 +322,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-09T22:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump departs DC on Qatar-gifted Air Force One after emergency slide deploys - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T21:58:44+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -358,6 +345,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-09T21:45:34+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As Trump takes center stage in Dallas, Republicans debate a future without him - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2NXWmxOTzBqLS1jVW1JTjBsMzgxS2VuQkFVRl9KeDlJR28taW9UWUE0YlZIRWprbEtoMDZXc2lpUDItLWVkWHdiQ19XRDNFUll4YnQ2ZmhfbGV1ZWxndXplbHNUM3NKdlNJVUNaY1Jqa2o4Z0hUb185Tk5CQk1jd1dBbzhZYjR3NXJnWE91NEVJQ3NidWV6ZTJGSTJmQURXcS1YMlJvUm9uSEtQdXlYMGtiT1M?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T21:37:45+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -427,17 +425,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-09T21:17:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As Trump takes center stage in Dallas, Republicans debate a future without him - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2NXWmxOTzBqLS1jVW1JTjBsMzgxS2VuQkFVRl9KeDlJR28taW9UWUE0YlZIRWprbEtoMDZXc2lpUDItLWVkWHdiQ19XRDNFUll4YnQ2ZmhfbGV1ZWxndXplbHNUM3NKdlNJVUNaY1Jqa2o4Z0hUb185Tk5CQk1jd1dBbzhZYjR3NXJnWE91NEVJQ3NidWV6ZTJGSTJmQURXcS1YMlJvUm9uSEtQdXlYMGtiT1M?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T21:16:24+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -645,21 +632,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-09T18:39:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Turkey takes note of US/Iran-related sanctions announcement, finance minister says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZEc2WXdwT28wZUJZR1NCTTYxbWdneDRaZy1fRlNodXVIQzBVNUt1NjF6N2ZGaWo5cjU2S040VnliY0R1djNtZlNNWm5ocFR0TmtHYnp6Z1NHLUlJZTlTVWJoRlRrVzFsLTVMdWRlbHFzQkR3R21GM2J0U3FVMWktakxteldKaGxUR3dBbVgydFVOMEp5RWpveVlfS09hTC0wM2VNZDFqLXpJSV9aUUtBT3hscDVDMmR3QmR3U2RZYW5yTnUtLXlaam9CNA?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-09T18:32:32+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
