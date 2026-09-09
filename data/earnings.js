@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-09T06:25:58+00:00",
+  "generated_at": "2026-09-09T11:44:09+00:00",
   "by_date": {
     "2026-09-09": [
       {
@@ -61,7 +61,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CULP",
         "date": "2026-09-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.4488,
         "revenue_estimate": 54264000,
         "is_watchlist": false
@@ -94,16 +94,16 @@ window.theBriefEarnings = {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.187,
+        "revenue_estimate": 44944596,
         "is_watchlist": false
       },
       {
         "ticker": "GLOO",
         "date": "2026-09-09",
         "hour": "amc",
-        "eps_estimate": -0.187,
-        "revenue_estimate": 44944596,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -405,14 +405,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "HYFT",
-        "date": "2026-09-10",
-        "hour": "",
-        "eps_estimate": -0.0782,
-        "revenue_estimate": 4614143,
-        "is_watchlist": false
-      },
-      {
         "ticker": "IBEX",
         "date": "2026-09-10",
         "hour": "amc",
@@ -670,6 +662,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.0303,
         "revenue_estimate": 274315740,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HYFT",
+        "date": "2026-09-14",
+        "hour": "",
+        "eps_estimate": -0.0782,
+        "revenue_estimate": 4614143,
         "is_watchlist": false
       },
       {
