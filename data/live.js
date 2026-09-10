@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-10T23:25:08.627796+00:00",
+  "generated_at": "2026-09-10T23:36:30.088078+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -5.4,
-      "price": 227.38,
+      "change_pct": -5.36,
+      "price": 227.46,
       "is_watchlist": true,
-      "timestamp": "2026-09-10T23:25:08.625489+00:00",
+      "timestamp": "2026-09-10T23:36:29.929854+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": -6.0,
-      "price": 89.24,
+      "change_pct": -5.96,
+      "price": 89.28,
       "is_watchlist": true,
-      "timestamp": "2026-09-10T23:25:08.625480+00:00",
+      "timestamp": "2026-09-10T23:36:29.929843+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,13 +29,46 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.47,
-      "price": 503.0,
+      "change_pct": -3.55,
+      "price": 502.61,
       "is_watchlist": true,
-      "timestamp": "2026-09-10T23:25:08.625473+00:00",
+      "timestamp": "2026-09-10T23:36:29.929834+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Frequency Electronics signals capacity expansion that could pull forward its $150M+ fiscal 2029 revenue target following $73M equity raise",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4641885-frequency-electronics-signals-capacity-expansion-that-could-pull-forward-its-150m-fiscal-2029?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-10T23:27:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ibex forecasts FY2027 revenue of $700M-$715M as Sierra AI partnership scales",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4641884-ibex-forecasts-fy2027-revenue-of-700m-715m-as-sierra-ai-partnership-scales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-10T23:27:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yemen's Houthis close in on Bab el-Mandeb Strait in new threat to shipping - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUNHSEc4V2xmVVpPcmx6cE1GaF85MVB3Tnl5ZzdyWVBlYy0zcnNzOTQ1R2ZyNFdzbmp6c2xodVlOallDQTAyeUFodEUwa0dkOFFCN3ZIcmg0V3Iyc0NiUGczTklDSzhUOGNkUUd5ZWlRME5LRGhBdHFvSDdVUm9WdjZacC0zcFdkM0xZY09LUHFDR3lua1ZXMW1GN0NxT21CTFRYNkFOVGRNMzFsTjJXS1hnejFfVTdUZHBvMEJoMmJGU2xLQnc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-10T23:08:23+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -183,34 +216,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SpaceX signs $1 billion-a-month AI hosting deal",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4641860-spacex-signs-1-billion-a-month-ai-hosting-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-10T21:57:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Oracle\u2019s AI bet pays off as cloud momentum helps drive a rosier forecast",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-10T21:55:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IDW Media GAAP EPS of $1.65, revenue of $7.07M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4641878-idw-media-gaap-eps-of-1_65-revenue-of-7_07m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-10T21:54:25+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
@@ -418,6 +429,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "US slaps new sanctions on networks aiding Iran's proxies in Middle East - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2p0aERlM3VXMFFWMkg4ZUtIejRIWDdUNUtlbnkwLWlyTWFBNGMyUzBUVnczaGdsNGIxcjJNT3BIekZrQXhOVEdwY0ZaQ0RZVmE2SW5RWTdLN1F6M01vbXZyMXF1OE9XbHphN1dnRWxwWmNyV2V2WDg3dGVOTDR3TXd5dDFwcEl6X2pxd05LRmc4d2NkUzFMS3piTFg1eWppdW8xNWNHd0VYZ3EwOFM4a19SMmNkeE9TZlE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-10T20:32:11+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": "AMD",
       "headline": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
       "source": "Yahoo",
@@ -451,18 +474,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US slaps new sanctions on networks aiding Iran's proxies in Middle East - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2p0aERlM3VXMFFWMkg4ZUtIejRIWDdUNUtlbnkwLWlyTWFBNGMyUzBUVnczaGdsNGIxcjJNT3BIekZrQXhOVEdwY0ZaQ0RZVmE2SW5RWTdLN1F6M01vbXZyMXF1OE9XbHphN1dnRWxwWmNyV2V2WDg3dGVOTDR3TXd5dDFwcEl6X2pxd05LRmc4d2NkUzFMS3piTFg1eWppdW8xNWNHd0VYZ3EwOFM4a19SMmNkeE9TZlE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-10T19:30:16+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -607,17 +618,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Israeli whistleblowers detail Gaza civilian toll in Venice film - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3YwMVozSG9aYk5BZDkybFJFMFMxUF9nNGtNdm1mN2w3VVpwc3lYOWFWbnZoTmNFUEVFM3owWHRZSVBJdTRucFh3ckFpZUh5TW1BanFOdE1DT1lSMGFsVzhsRFZkemgtRnJPQWk2WlFJMVVmaV9KS2FrQWVBMHJhSzFzQmZHUEttOHZCSW52SEROVmVGNjFOZHdpcUZCTmd5Szl0UGFLRmE2WGpfS0FFdnNoeDI?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-10T18:09:48+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1014,6 +1014,62 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Her retirement account hit $300,000 when she was 31 \u2014 she says she'll never add another dime. Is this a smart plan?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/her-retirement-account-hit-300-160033322.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T16:00:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why Cable One (CABO) Became a Repeated Short Target?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-cable-one-cabo-became-155915949.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:59:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Personal Finance Expert Dave Ramsey Is Absolutely Right About These 3 Wealth-Building Facts",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/personal-finance-expert-dave-ramsey-180102527.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:57:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jersey Mike's profit beats estimates, shares jump on strong guidance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jersey-mikes-profit-beats-estimates-155600097.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:56:00+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple\u2019s New CEO Heads Into Its Launch Event With a China Problem Tim Cook Never Faced",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-heads-launch-event-155304239.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-09T15:53:04+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Jewelry Stock Surges After Years Of Mostly Sideways Action",
       "source": "Yahoo Finance",
       "url": "https://www.investors.com/news/signet-jewelers-stock-earnings-guidance/?src=A00220&yptr=yahoo",
@@ -1048,66 +1104,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Purepoint Uranium CEO says utility contracting set to drive next Uranium market surge",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/video/purepoint-uranium-ceo-says-utility-154840211.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:48:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "What Makes Broadcom (AVGO) a Lucrative Bet?",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/makes-broadcom-avgo-lucrative-bet-154758859.html",
       "is_watchlist": false,
       "timestamp": "2026-09-09T15:47:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A Long-Term Bullish Trade Might Be The Ticket For This Stock",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/research/options/vertiv-stock-vrt-bull-put-spread-options/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:46:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "VERAXA Biotech Designates Raju Willener as CFO",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-designates-raju-willener-154625631.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:46:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "I'm 25, Have No Degree and Make $32 an Hour Cutting Meat at Costco. Should I Give Up a Good Job to Go to College?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/im-25-no-degree-32-154529440.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:45:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bernie Sanders backs a 32-hour work week as a German employer pushes to expand to 40 hours \u2014 what the data says",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-backs-32-hour-154000886.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-09T15:40:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

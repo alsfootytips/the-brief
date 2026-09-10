@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-10T23:25:08.624027+00:00",
+  "generated_at": "2026-09-10T23:36:29.928031+00:00",
   "gainers": [
     {
       "ticker": "OSCR",
@@ -25,6 +25,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 13.96,
+      "change_pct": 0.56,
+      "volume_ratio": 0.54,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Digital Turbine Advances 6% Despite Shelf Registration Overhang, AppLovin Rises 4%, Trade ...\""
+    },
+    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 61.29,
@@ -35,18 +47,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Why Is ExxonMobil Priced Above Peers With Fatter Margins?\""
-    },
-    {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 13.93,
-      "change_pct": 0.36,
-      "volume_ratio": 0.54,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Digital Turbine Advances 6% Despite Shelf Registration Overhang, AppLovin Rises 4%, Trade ...\""
     },
     {
       "ticker": "XLP",
@@ -64,8 +64,8 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 89.24,
-      "change_pct": -6.0,
+      "price": 89.28,
+      "change_pct": -5.96,
       "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
@@ -76,8 +76,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 227.38,
-      "change_pct": -5.4,
+      "price": 227.46,
+      "change_pct": -5.36,
       "volume_ratio": 0.84,
       "is_watchlist": true,
       "is_index": false,
@@ -88,8 +88,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 503.0,
-      "change_pct": -3.47,
+      "price": 502.61,
+      "change_pct": -3.55,
       "volume_ratio": 0.79,
       "is_watchlist": true,
       "is_index": false,
@@ -112,8 +112,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 218.29,
-      "change_pct": -2.41,
+      "price": 218.2,
+      "change_pct": -2.45,
       "volume_ratio": 0.87,
       "is_watchlist": true,
       "is_index": false,
@@ -136,8 +136,8 @@ window.theBriefMovers = {
     {
       "ticker": "PLTR",
       "name": "PLTR",
-      "price": 166.07,
-      "change_pct": -2.04,
+      "price": 166.05,
+      "change_pct": -2.05,
       "volume_ratio": 0.8,
       "is_watchlist": false,
       "is_index": false,
@@ -148,8 +148,8 @@ window.theBriefMovers = {
     {
       "ticker": "META",
       "name": "META",
-      "price": 641.66,
-      "change_pct": -1.84,
+      "price": 641.99,
+      "change_pct": -1.79,
       "volume_ratio": 0.92,
       "is_watchlist": false,
       "is_index": false,
@@ -242,8 +242,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 503.0,
-      "change_pct": -3.47,
+      "price": 502.61,
+      "change_pct": -3.55,
       "volume_ratio": 0.79,
       "is_watchlist": true,
       "is_index": false,
@@ -254,8 +254,8 @@ window.theBriefMovers = {
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 44.76,
-      "change_pct": -0.18,
+      "price": 44.75,
+      "change_pct": -0.2,
       "volume_ratio": 1.38,
       "is_watchlist": true,
       "is_index": false,
@@ -266,8 +266,8 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 89.24,
-      "change_pct": -6.0,
+      "price": 89.28,
+      "change_pct": -5.96,
       "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
@@ -314,8 +314,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 227.38,
-      "change_pct": -5.4,
+      "price": 227.46,
+      "change_pct": -5.36,
       "volume_ratio": 0.84,
       "is_watchlist": true,
       "is_index": false,
@@ -326,8 +326,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 218.29,
-      "change_pct": -2.41,
+      "price": 218.2,
+      "change_pct": -2.45,
       "volume_ratio": 0.87,
       "is_watchlist": true,
       "is_index": false,
@@ -386,8 +386,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 13.93,
-      "change_pct": 0.36,
+      "price": 13.96,
+      "change_pct": 0.56,
       "volume_ratio": 0.54,
       "is_watchlist": true,
       "is_index": false,
@@ -398,8 +398,8 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 64.9,
-      "change_pct": -0.63,
+      "price": 64.99,
+      "change_pct": -0.49,
       "volume_ratio": 1.32,
       "is_watchlist": true,
       "is_index": false,
@@ -493,6 +493,17 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 64.99,
+      "change_pct": -0.49,
+      "volume_ratio": 1.32,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null
+    },
+    {
       "ticker": "XLV",
       "name": "Health Care Select Sector",
       "price": 165.66,
@@ -501,17 +512,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 64.9,
-      "change_pct": -0.63,
-      "volume_ratio": 1.32,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null
     },
     {
       "ticker": "XLI",
@@ -568,8 +568,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 13.93,
-      "change_pct": 0.36,
+      "price": 13.96,
+      "change_pct": 0.56,
       "score": 10.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -604,8 +604,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 218.29,
-      "change_pct": -2.41,
+      "price": 218.2,
+      "change_pct": -2.45,
       "score": 6.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -631,8 +631,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 227.38,
-      "change_pct": -5.4,
+      "price": 227.46,
+      "change_pct": -5.36,
       "score": 5.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -655,8 +655,8 @@ window.theBriefMovers = {
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 44.76,
-      "change_pct": -0.18,
+      "price": 44.75,
+      "change_pct": -0.2,
       "score": 4.5,
       "signals": [
         "2 news items in the last 3 days",
@@ -834,17 +834,6 @@ window.theBriefMovers = {
       ]
     },
     {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "change_pct": -0.63,
-      "price": 64.9,
-      "watchlist_members": [
-        "APA",
-        "TPL",
-        "OXY"
-      ]
-    },
-    {
       "ticker": "XLC",
       "name": "Communication Services Select",
       "change_pct": 0.6,
@@ -858,6 +847,17 @@ window.theBriefMovers = {
       "price": 165.66,
       "watchlist_members": [
         "OSCR"
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "change_pct": -0.49,
+      "price": 64.99,
+      "watchlist_members": [
+        "APA",
+        "TPL",
+        "OXY"
       ]
     },
     {

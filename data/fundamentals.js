@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-09-10T23:25:08.741445+00:00",
+  "generated_at": "2026-09-10T23:36:30.583530+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -1.33,
@@ -54,7 +54,7 @@ window.theBriefFundamentals = {
       "realized_vol_30d_pct": 9.63,
       "trailing_pe": null,
       "forward_pe": -72.62083,
-      "price_to_sales": 45.762596,
+      "price_to_sales": 42.739807,
       "price_to_book": 6.0471344,
       "enterprise_to_ebitda": 250.693,
       "profit_margin": 0.03129,
@@ -62,7 +62,7 @@ window.theBriefFundamentals = {
       "operating_margin": -0.00223,
       "revenue_growth_yoy": 4.54,
       "earnings_growth_qoq": null,
-      "market_cap": 62012895232,
+      "market_cap": 57916715008,
       "beta": 1.436,
       "dividend_yield": null,
       "short_ratio": 2.12,
@@ -190,7 +190,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.239,
       "market_cap": 15601153024,
       "beta": 0.366,
-      "dividend_yield": 2.3,
+      "dividend_yield": 2.23,
       "short_ratio": 4.72,
       "short_percent_of_float": 0.09819999,
       "analyst_recs": {
@@ -223,7 +223,7 @@ window.theBriefFundamentals = {
       "trailing_pe": 46.57761,
       "forward_pe": 5.006838,
       "price_to_sales": 28.134237,
-      "price_to_book": 15.098776,
+      "price_to_book": 16.229275,
       "enterprise_to_ebitda": 34.48,
       "profit_margin": 0.60322,
       "gross_margin": 0.93336,
@@ -232,7 +232,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.325,
       "market_cap": 25251631104,
       "beta": 0.618,
-      "dividend_yield": 0.63,
+      "dividend_yield": 0.64,
       "short_ratio": 12.68,
       "short_percent_of_float": 0.092,
       "analyst_recs": {
@@ -274,7 +274,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 5.5,
       "market_cap": 61137821696,
       "beta": 0.164,
-      "dividend_yield": 1.83,
+      "dividend_yield": 1.85,
       "short_ratio": 0.01,
       "short_percent_of_float": 0.0001,
       "analyst_recs": {
