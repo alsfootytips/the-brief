@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-09-11T23:29:22.270431+00:00",
+  "generated_at": "2026-09-11T23:44:22.990806+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -17.4,
@@ -54,7 +54,7 @@ window.theBriefFundamentals = {
       "realized_vol_30d_pct": 8.37,
       "trailing_pe": null,
       "forward_pe": -71.48747,
-      "price_to_sales": 45.048405,
+      "price_to_sales": 42.07279,
       "price_to_book": 5.9527597,
       "enterprise_to_ebitda": 250.693,
       "profit_margin": 0.03129,
@@ -62,7 +62,7 @@ window.theBriefFundamentals = {
       "operating_margin": -0.00223,
       "revenue_growth_yoy": 4.54,
       "earnings_growth_qoq": null,
-      "market_cap": 61045092352,
+      "market_cap": 57012838400,
       "beta": 1.436,
       "dividend_yield": null,
       "short_ratio": 1.88,
@@ -190,7 +190,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.239,
       "market_cap": 15671223296,
       "beta": 0.366,
-      "dividend_yield": 2.23,
+      "dividend_yield": 2.25,
       "short_ratio": 4.22,
       "short_percent_of_float": 0.091000006,
       "analyst_recs": {
@@ -223,7 +223,7 @@ window.theBriefFundamentals = {
       "trailing_pe": 47.13921,
       "forward_pe": 5.0478663,
       "price_to_sales": 28.364782,
-      "price_to_book": 15.222502,
+      "price_to_book": 16.362267,
       "enterprise_to_ebitda": 33.74,
       "profit_margin": 0.60322,
       "gross_margin": 0.93336,
@@ -450,7 +450,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.338,
       "market_cap": 27484438528,
       "beta": 0.235,
-      "dividend_yield": 1.89,
+      "dividend_yield": 1.92,
       "short_ratio": 2.53,
       "short_percent_of_float": 0.030199999,
       "analyst_recs": {
@@ -534,7 +534,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.3,
       "market_cap": 254953160704,
       "beta": 0.967,
-      "dividend_yield": 0.21,
+      "dividend_yield": 0.22,
       "short_ratio": 4.28,
       "short_percent_of_float": 0.032899998,
       "analyst_recs": {
