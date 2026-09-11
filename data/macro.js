@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-09-11T18:38:01.474698+00:00",
+  "generated_at": "2026-09-11T21:20:27.804509+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.97,
-      "change_pct_1d": 0.47,
-      "change_pct_1w": 3.83
+      "change_pct_1d": 0.63,
+      "change_pct_1w": 3.99
     },
     "^FVX": {
       "name": "5Y Treasury yield",
-      "value": 4.78,
-      "change_pct_1d": 1.04,
-      "change_pct_1w": 5.1
+      "value": 4.79,
+      "change_pct_1d": 1.23,
+      "change_pct_1w": 5.3
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -22,38 +22,38 @@ window.theBriefMacro = {
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 5.35,
-      "change_pct_1d": -0.19,
-      "change_pct_1w": 2.0
+      "change_pct_1d": -0.13,
+      "change_pct_1w": 2.06
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 15.65,
-      "change_pct_1d": -12.28,
-      "change_pct_1w": 2.29
+      "value": 15.84,
+      "change_pct_1d": -11.21,
+      "change_pct_1w": 3.53
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4393.1,
-      "change_pct_1d": 0.66,
-      "change_pct_1w": -0.83
+      "value": 4390.0,
+      "change_pct_1d": 0.58,
+      "change_pct_1w": -0.9
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 100.02,
-      "change_pct_1d": -2.4,
-      "change_pct_1w": 9.34
+      "value": 99.99,
+      "change_pct_1d": -2.43,
+      "change_pct_1w": 9.3
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 99.12,
-      "change_pct_1d": 0.03,
-      "change_pct_1w": -0.04
+      "value": 99.1,
+      "change_pct_1d": 0.01,
+      "change_pct_1w": -0.07
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 77253.81,
-      "change_pct_1d": 0.9,
-      "change_pct_1w": -2.35
+      "value": 77373.8,
+      "change_pct_1d": 1.05,
+      "change_pct_1w": -2.2
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 106,
