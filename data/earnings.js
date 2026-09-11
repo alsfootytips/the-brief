@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-11T06:26:31+00:00",
+  "generated_at": "2026-09-11T11:42:09+00:00",
   "by_date": {
     "2026-09-11": [
       {
@@ -46,16 +46,16 @@ window.theBriefEarnings = {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "bmo",
-        "eps_estimate": -4.4166,
-        "revenue_estimate": 85119000,
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
         "ticker": "RENT",
         "date": "2026-09-11",
         "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -4.4166,
+        "revenue_estimate": 85119000,
         "is_watchlist": false
       },
       {
@@ -414,14 +414,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 1.3147,
         "revenue_estimate": 8395896609,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LGCY",
-        "date": "2026-09-16",
-        "hour": "",
-        "eps_estimate": 0.1479,
-        "revenue_estimate": 20583600,
         "is_watchlist": false
       },
       {
@@ -795,6 +787,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "FUL",
+        "date": "2026-09-23",
+        "hour": "",
+        "eps_estimate": 1.4833,
+        "revenue_estimate": 957673627,
+        "is_watchlist": false
+      },
+      {
         "ticker": "GLNS",
         "date": "2026-09-23",
         "hour": "",
@@ -909,11 +909,11 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "JBL",
+        "ticker": "LGCY",
         "date": "2026-09-24",
-        "hour": "bmo",
-        "eps_estimate": 4.0999,
-        "revenue_estimate": 9789710042,
+        "hour": "",
+        "eps_estimate": 0.1479,
+        "revenue_estimate": 20583600,
         "is_watchlist": false
       },
       {
