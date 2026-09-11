@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-11T21:20:27+00:00",
+  "generated_at": "2026-09-11T23:29:22+00:00",
   "by_date": {
     "2026-09-11": [
       {
@@ -223,7 +223,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RLGT",
         "date": "2026-09-14",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0918,
         "revenue_estimate": 235926000,
         "is_watchlist": false
@@ -297,7 +297,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EPM",
         "date": "2026-09-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0168,
         "revenue_estimate": 23371400,
         "is_watchlist": false
@@ -403,7 +403,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ISPR",
         "date": "2026-09-16",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0153,
         "revenue_estimate": 21777000,
         "is_watchlist": false

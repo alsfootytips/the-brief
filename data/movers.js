@@ -1,53 +1,65 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-11T21:20:27.657036+00:00",
+  "generated_at": "2026-09-11T23:29:22.122097+00:00",
   "gainers": [
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 651.69,
-      "change_pct": 5.33,
+      "price": 650.0,
+      "change_pct": 5.05,
       "volume_ratio": 1.34,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will EMCOR's 19.6% Organic Growth Stay Elevated Into 2027?\""
+      "move_reason": "News: \"3 Big Reasons to Love Quanta (PWR)\""
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 955.56,
+      "price": 955.6,
       "change_pct": 3.43,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Elon Musk\u2019s gas turbines could shake up the backlogged sector\""
+      "move_reason": "News: \"GE Vernova Stock Isn\u2019t All About Orders\""
     },
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 14.31,
-      "change_pct": 2.43,
+      "price": 14.33,
+      "change_pct": 2.58,
       "volume_ratio": 0.66,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. The Trade Desk: Analyzing Diverging Revenue Trends for These Advertising Gian...\""
+      "move_reason": "News: \"The Trade Desk (TTD) Surpasses Market Returns: Some Facts Worth Knowing\""
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 515.03,
-      "change_pct": 2.27,
+      "price": 515.58,
+      "change_pct": 2.38,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Thing I Wish I'd Known About the Stock Market When I First Started Investing\""
+      "move_reason": "News: \"How Much JEPQ Do You Need to Collect $2,400 a Month?\""
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 124.65,
+      "change_pct": 1.35,
+      "volume_ratio": 0.99,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Should You Buy Walmart Stock After a 14% Decline in Six Months?\""
     },
     {
       "ticker": "XLK",
@@ -59,18 +71,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 124.58,
-      "change_pct": 1.29,
-      "volume_ratio": 0.99,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Should You Buy Walmart Stock After a 14% Decline in Six Months?\""
     },
     {
       "ticker": "XLI",
@@ -122,7 +122,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 109.74,
       "change_pct": 0.9,
-      "volume_ratio": 0.93,
+      "volume_ratio": 1.18,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -156,7 +156,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 143.22,
       "change_pct": 0.86,
-      "volume_ratio": 0.91,
+      "volume_ratio": 1.01,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -179,14 +179,14 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 224.4,
-      "change_pct": -1.63,
+      "price": 224.25,
+      "change_pct": -1.69,
       "volume_ratio": 0.72,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius CEO Volozh estimates $250 billion in capex spend by 2030\""
+      "move_reason": "News: \"Oracle's AI Cloud Growth Lifts CoreWeave, Nebius and IREN\""
     },
     {
       "ticker": "XLU",
@@ -213,34 +213,46 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 88.97,
-      "change_pct": -0.17,
+      "price": 89.08,
+      "change_pct": -0.04,
       "volume_ratio": 0.63,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is My Top IPO Pick Right Now: Over 75% of Its Revenue Is Locked In Through Contr...\""
+      "move_reason": "News: \"Oracle's AI Cloud Growth Lifts CoreWeave, Nebius and IREN\""
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "price": 218.28,
+      "change_pct": -0.04,
+      "volume_ratio": 0.81,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"How a 66-Year-Old\u2019s $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees H...\""
     }
   ],
   "watchlist": [
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 515.03,
-      "change_pct": 2.27,
+      "price": 515.58,
+      "change_pct": 2.38,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Thing I Wish I'd Known About the Stock Market When I First Started Investing\""
+      "move_reason": "News: \"How Much JEPQ Do You Need to Collect $2,400 a Month?\""
     },
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 44.6,
-      "change_pct": 0.16,
+      "price": 44.89,
+      "change_pct": 0.8,
       "volume_ratio": 0.87,
       "is_watchlist": true,
       "is_index": false,
@@ -251,20 +263,20 @@ window.theBriefMovers = {
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "price": 88.97,
-      "change_pct": -0.17,
+      "price": 89.08,
+      "change_pct": -0.04,
       "volume_ratio": 0.63,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is My Top IPO Pick Right Now: Over 75% of Its Revenue Is Locked In Through Contr...\""
+      "move_reason": "News: \"Oracle's AI Cloud Growth Lifts CoreWeave, Nebius and IREN\""
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 124.58,
-      "change_pct": 1.29,
+      "price": 124.65,
+      "change_pct": 1.35,
       "volume_ratio": 0.99,
       "is_watchlist": true,
       "is_index": false,
@@ -275,56 +287,56 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 955.56,
+      "price": 955.6,
       "change_pct": 3.43,
       "volume_ratio": 0.83,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Elon Musk\u2019s gas turbines could shake up the backlogged sector\""
+      "move_reason": "News: \"GE Vernova Stock Isn\u2019t All About Orders\""
     },
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 288.89,
-      "change_pct": 0.41,
+      "price": 288.97,
+      "change_pct": 0.44,
       "volume_ratio": 1.27,
       "is_watchlist": true,
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Surging Healthcare Costs Are A Serious Threat To The American Economy\""
+      "move_reason": "News: \"The Fed Is Likely Cornered Into A Rate Hike\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 224.4,
-      "change_pct": -1.63,
+      "price": 224.25,
+      "change_pct": -1.69,
       "volume_ratio": 0.72,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius CEO Volozh estimates $250 billion in capex spend by 2030\""
+      "move_reason": "News: \"Oracle's AI Cloud Growth Lifts CoreWeave, Nebius and IREN\""
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 218.39,
-      "change_pct": 0.01,
+      "price": 218.28,
+      "change_pct": -0.04,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX signs $1.1 billion-per month computing deal\""
+      "move_reason": "News: \"How a 66-Year-Old\u2019s $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees H...\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 32.77,
-      "change_pct": 0.58,
+      "price": 32.74,
+      "change_pct": 0.49,
       "volume_ratio": 1.43,
       "is_watchlist": true,
       "is_index": false,
@@ -335,8 +347,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 61.45,
-      "change_pct": 0.47,
+      "price": 61.47,
+      "change_pct": 0.5,
       "volume_ratio": 0.97,
       "is_watchlist": true,
       "is_index": false,
@@ -347,14 +359,14 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 651.69,
-      "change_pct": 5.33,
+      "price": 650.0,
+      "change_pct": 5.05,
       "volume_ratio": 1.34,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will EMCOR's 19.6% Organic Growth Stay Elevated Into 2027?\""
+      "move_reason": "News: \"3 Big Reasons to Love Quanta (PWR)\""
     },
     {
       "ticker": "TPL",
@@ -366,25 +378,25 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Recommends Buying This Energy Stock, Calling It \u2018Very Inexpensive\u2019\""
+      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week September 13\""
     },
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 14.31,
-      "change_pct": 2.43,
+      "price": 14.33,
+      "change_pct": 2.58,
       "volume_ratio": 0.66,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. The Trade Desk: Analyzing Diverging Revenue Trends for These Advertising Gian...\""
+      "move_reason": "News: \"The Trade Desk (TTD) Surpasses Market Returns: Some Facts Worth Knowing\""
     },
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "price": 65.15,
-      "change_pct": 0.34,
+      "price": 65.26,
+      "change_pct": 0.51,
       "volume_ratio": 1.03,
       "is_watchlist": true,
       "is_index": false,
@@ -407,8 +419,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 288.89,
-      "change_pct": 0.41,
+      "price": 288.97,
+      "change_pct": 0.44,
       "volume_ratio": 1.27,
       "is_watchlist": true,
       "is_index": true,
@@ -498,6 +510,17 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "price": 65.26,
+      "change_pct": 0.51,
+      "volume_ratio": 1.03,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": true,
+      "market_state": null
+    },
+    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 50.95,
@@ -516,17 +539,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "price": 65.15,
-      "change_pct": 0.34,
-      "volume_ratio": 1.03,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": true,
-      "market_state": null
     },
     {
       "ticker": "XLV",
@@ -553,8 +565,8 @@ window.theBriefMovers = {
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "price": 14.31,
-      "change_pct": 2.43,
+      "price": 14.33,
+      "change_pct": 2.58,
       "score": 9.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -586,16 +598,16 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 651.69,
-      "change_pct": 5.33,
+      "price": 650.0,
+      "change_pct": 5.05,
       "score": 5.5,
       "signals": [
-        "Moved +5.33% \u2014 a 2.2\u03c3 move vs typical 2.4% daily vol",
+        "Moved +5.05% \u2014 a 2.1\u03c3 move vs typical 2.4% daily vol",
         "3 news items in the last 3 days",
         "+2 analyst buy recs added recently"
       ],
       "reasons": [
-        "Moved +5.33% \u2014 a 2.2\u03c3 move vs typical 2.4% daily vol",
+        "Moved +5.05% \u2014 a 2.1\u03c3 move vs typical 2.4% daily vol",
         "3 news items in the last 3 days",
         "+2 analyst buy recs added recently"
       ],
@@ -610,8 +622,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 224.4,
-      "change_pct": -1.63,
+      "price": 224.25,
+      "change_pct": -1.69,
       "score": 5.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -634,8 +646,8 @@ window.theBriefMovers = {
     {
       "ticker": "APA",
       "name": "APA Corp",
-      "price": 44.6,
-      "change_pct": 0.16,
+      "price": 44.89,
+      "change_pct": 0.8,
       "score": 4.5,
       "signals": [
         "2 news items in the last 3 days",
@@ -682,7 +694,7 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 955.56,
+      "price": 955.6,
       "change_pct": 3.43,
       "score": 4.5,
       "signals": [
@@ -705,8 +717,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 61.45,
-      "change_pct": 0.47,
+      "price": 61.47,
+      "change_pct": 0.5,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -726,8 +738,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 218.39,
-      "change_pct": 0.01,
+      "price": 218.28,
+      "change_pct": -0.04,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -750,8 +762,8 @@ window.theBriefMovers = {
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "price": 124.58,
-      "change_pct": 1.29,
+      "price": 124.65,
+      "change_pct": 1.35,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -822,6 +834,17 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
+      "ticker": "XLE",
+      "name": "Energy Select Sector",
+      "change_pct": 0.51,
+      "price": 65.26,
+      "watchlist_members": [
+        "APA",
+        "TPL",
+        "OXY"
+      ]
+    },
+    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "change_pct": 0.37,
@@ -835,17 +858,6 @@ window.theBriefMovers = {
       "price": 83.38,
       "watchlist_members": [
         "DG"
-      ]
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy Select Sector",
-      "change_pct": 0.34,
-      "price": 65.15,
-      "watchlist_members": [
-        "APA",
-        "TPL",
-        "OXY"
       ]
     },
     {
