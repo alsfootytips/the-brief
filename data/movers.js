@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-12T14:08:26.602480+00:00",
+  "generated_at": "2026-09-12T17:10:46.203807+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD\u2019s CFO, Jean Hu, Just Announced Fantastic News for Investors\""
+      "move_reason": "News: \"Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the ...\""
     },
     {
       "ticker": "TTD",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030\""
+      "move_reason": "News: \"Should You Buy Archer Aviation Stock While It's Below $6?\""
     }
   ],
   "watchlist": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD\u2019s CFO, Jean Hu, Just Announced Fantastic News for Investors\""
+      "move_reason": "News: \"Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the ...\""
     },
     {
       "ticker": "APA",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ignore The Noise, Watch These Two Things Instead\""
+      "move_reason": "News: \"Consumers Are Still Consuming, The Market Hasn't Noticed\""
     },
     {
       "ticker": "NBIS",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030\""
+      "move_reason": "News: \"Should You Buy Archer Aviation Stock While It's Below $6?\""
     },
     {
       "ticker": "OSCR",
@@ -637,12 +637,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.3 (cheap on absolute basis)"
+        "Forward P/E 10.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.3 (cheap on absolute basis)"
+        "Forward P/E 10.2 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
