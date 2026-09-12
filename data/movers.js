@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-12T19:22:20.861224+00:00",
+  "generated_at": "2026-09-12T21:33:44.554501+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better AI Chip Stock: Broadcom vs. Nvidia\""
+      "move_reason": "News: \"Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?\""
     }
   ],
   "watchlist": [
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better AI Chip Stock: Broadcom vs. Nvidia\""
+      "move_reason": "News: \"Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?\""
     },
     {
       "ticker": "OSCR",
@@ -637,12 +637,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.3 (cheap on absolute basis)"
+        "Forward P/E 10.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.3 (cheap on absolute basis)"
+        "Forward P/E 10.2 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
