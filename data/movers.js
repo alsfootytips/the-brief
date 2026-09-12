@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-12T06:21:34.919184+00:00",
+  "generated_at": "2026-09-12T11:06:22.286005+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Burry Is Staying Short Nvidia, Palantir, and Tesla, Warning of a Possible \"1987-Ty...\""
+      "move_reason": "News: \"Prediction: Nvidia Will Overtake Apple in Stock Buybacks and Dividends Under New Apple CEO...\""
     }
   ],
   "watchlist": [
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"August CPI: Clears The Path For A September Hike\""
+      "move_reason": "News: \"Weekly Commentary: Bonds Taking Charge - And The Q2 2026 Z.1\""
     },
     {
       "ticker": "NBIS",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Burry Is Staying Short Nvidia, Palantir, and Tesla, Warning of a Possible \"1987-Ty...\""
+      "move_reason": "News: \"Prediction: Nvidia Will Overtake Apple in Stock Buybacks and Dividends Under New Apple CEO...\""
     },
     {
       "ticker": "OSCR",
@@ -330,7 +330,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead\""
+      "move_reason": "News: \"Moderna, 10x Genomics, Oscar Health, and Novavax Shares Are Soaring, What You Need To Know\""
     },
     {
       "ticker": "OXY",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This\""
+      "move_reason": "News: \"Occidental Petroleum (NYSE:OXY) Flashes Breakout Setup With Strong Technicals\""
     },
     {
       "ticker": "PWR",
@@ -421,16 +421,6 @@ window.theBriefMovers = {
       "price": 714.88,
       "change_pct": 0.87,
       "volume_ratio": 0.91,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPDR S&P 500 ETF",
-      "price": 764.29,
-      "change_pct": 0.85,
-      "volume_ratio": 1.14,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
