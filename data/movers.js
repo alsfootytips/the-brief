@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-12T21:33:44.554501+00:00",
+  "generated_at": "2026-09-12T23:24:27.946467+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the ...\""
+      "move_reason": "News: \"Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call\""
     },
     {
       "ticker": "TTD",
@@ -122,7 +122,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 109.74,
       "change_pct": 0.9,
-      "volume_ratio": 1.18,
+      "volume_ratio": 0.89,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -156,7 +156,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 143.22,
       "change_pct": 0.86,
-      "volume_ratio": 1.01,
+      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?\""
+      "move_reason": "News: \"The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sigh...\""
     }
   ],
   "watchlist": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the ...\""
+      "move_reason": "News: \"Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?\""
+      "move_reason": "News: \"The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sigh...\""
     },
     {
       "ticker": "OSCR",

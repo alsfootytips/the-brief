@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-12T21:33:44.559360+00:00",
+  "generated_at": "2026-09-12T23:24:27.951350+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.05,
       "price": 650.0,
       "is_watchlist": true,
-      "timestamp": "2026-09-12T21:33:44.556306+00:00",
+      "timestamp": "2026-09-12T23:24:27.948376+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,10 +20,145 @@ window.theBriefLive = {
       "change_pct": 3.49,
       "price": 956.2,
       "is_watchlist": true,
-      "timestamp": "2026-09-12T21:33:44.556290+00:00",
+      "timestamp": "2026-09-12T23:24:27.948361+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T23:20:43+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "American Tower Sees 2026 Growth Trough Before 5G, AI and 6G Catalysts Lift Demand",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/american-tower-sees-2026-growth-230156550.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T23:01:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T22:56:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GE Aerospace (GE)\u2019s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-12-billion-223833187.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T22:38:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. Bancorp (USB)\u2019s Dividend Increase Has More Behind It",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T22:16:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T22:13:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Block, Inc (XYZ)\u2019s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T22:09:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ACV Auctions (ACVA) Was This Week\u2019s Top Stock \u2014 Here\u2019s What Drove Gains",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T22:06:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sight, and Wall Street Isn\u2019t Paying Attention",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41f5836a0f16820bed90ba01be2f1ecb5e2663187c182fcc9cd33beaac8b280f",
+      "is_watchlist": true,
+      "timestamp": "2026-09-12T21:50:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Down 30% This Year, Is It Finally Time to Buy SoFi Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b112db004558e66876ed2b04cb7d59310efc21d25577d0700835dbb9362f12dc",
+      "is_watchlist": true,
+      "timestamp": "2026-09-12T21:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why OpenAI\u2019s Sam Altman says an IPO isn\u2019t in the cards this year",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T21:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Adobe: After Lifting Guidance, Is the Beaten-Down Stock Ready to Break Out?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a25f98cde6a9e0eb0fc3ae2bf9d331d9731c072532fd45d180339e29e8d3241b",
+      "is_watchlist": true,
+      "timestamp": "2026-09-12T21:35:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -38,14 +173,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
+      "ticker": "AMD",
       "headline": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html",
-      "is_watchlist": false,
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6490e4ac2a408fad6a7e99a108b5027590baebdb2f8bd9abf6aa66d2bb3bf38a",
+      "is_watchlist": true,
       "timestamp": "2026-09-12T21:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -56,17 +192,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-12T21:07:33+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Musk, Altman support Anthropic\u2019s Amodei as he shares plan to \u2018slow the pace\u2019 of advancing AI capabilities",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T20:55:55+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -90,42 +215,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-12T20:09:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d530dda3b016ecce5c460e45df1694e86787b96fbde10d77efc8028a0d43f682",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T19:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Magnificent Growth Stock Down 55% to Buy Right Now, According to Wall Street",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d328f6d2703f599d814edd367552d7e3dc6777a07d3f3916a4a1604b31daaa31",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T19:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f43a6213dedee0a59ce9f23d1d5cb75bf94b1bd1e2f57383cfd09940628d8fe",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T19:20:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -197,17 +286,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Novo Nordisk (NVO)\u2019s Pediatric Obesity Opportunity Faces a Bigger Test",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T17:19:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
@@ -230,14 +308,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T17:09:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Production & More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bef07eae1084c84e2910e7f042139d9a8737b0b1df2f903385c502fc151d28c6",
+      "is_watchlist": true,
+      "timestamp": "2026-09-12T17:07:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -268,56 +347,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T17:02:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Teva\u2019s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T16:57:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "India\u2019s Modi and China\u2019s Xi push business links, border peace as ties revive",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/economic-indicators/indias-modi-and-chinas-xi-push-business-links-border-peace-as-ties-revive-4898675",
       "is_watchlist": false,
       "timestamp": "2026-09-12T16:54:25+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T16:49:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ciena\u2019s (CIEN) Backlog Just Hit $8.5B and Keeps Climbing",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-backlog-just-hit-164644198.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T16:46:44+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -469,18 +504,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Qualcomm Lost Apple\u2019s Modem Business. Amazon Just Offered a $60 Billion Escape Route.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=332503480b1329d0e654a007d8e1251b42257f9052784264d67932caede0c951",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T13:37:09+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -643,18 +666,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-12T12:40:05+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6e850fb0a698a0be4d7f00e4fc24e196d14098bb7c53cdf0b6e70c65552569c1",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T12:39:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -869,17 +880,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marvell is sitting on an incredibly \u2018sticky\u2019 business that could help it unlock a $30 billion opportunity",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-11T21:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
