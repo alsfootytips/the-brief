@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-09-12T11:06:22.425607+00:00",
+  "generated_at": "2026-09-12T14:08:26.738596+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -750,7 +750,7 @@ window.theBriefPicks = {
       "current_pct": 34.87,
       "change_pct_today": 0.49,
       "name": "APA Corp",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 35,
       "days_remaining": 0,
       "closed_at": "2026-07-24",
@@ -950,7 +950,7 @@ window.theBriefPicks = {
       "current_pct": 9.65,
       "change_pct_today": 0.49,
       "name": "APA Corp",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 32,
       "days_remaining": 17
     }

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-12T11:06:22.286005+00:00",
+  "generated_at": "2026-09-12T14:08:26.602480+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Stock Isn\u2019t All About Orders\""
+      "move_reason": "News: \"Jim Cramer Discussed Taking The Long View For Chevron Corporation (NYSE:CVX)\""
     },
     {
       "ticker": "AMD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Power Integrations (POWI) Stock Is Trading Up Today\""
+      "move_reason": "News: \"AMD\u2019s CFO, Jean Hu, Just Announced Fantastic News for Investors\""
     },
     {
       "ticker": "TTD",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Nvidia Will Overtake Apple in Stock Buybacks and Dividends Under New Apple CEO...\""
+      "move_reason": "News: \"Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030\""
     }
   ],
   "watchlist": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Power Integrations (POWI) Stock Is Trading Up Today\""
+      "move_reason": "News: \"AMD\u2019s CFO, Jean Hu, Just Announced Fantastic News for Investors\""
     },
     {
       "ticker": "APA",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 U.S. E&P Stocks That Look Well Placed for the Road Ahead\""
+      "move_reason": "News: \"APA CORP (NASDAQ:APA) Sets Up a Breakout With High Growth Momentum\""
     },
     {
       "ticker": "CRWV",
@@ -282,7 +282,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Stock Isn\u2019t All About Orders\""
+      "move_reason": "News: \"Jim Cramer Discussed Taking The Long View For Chevron Corporation (NYSE:CVX)\""
     },
     {
       "ticker": "IWM",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Bonds Taking Charge - And The Q2 2026 Z.1\""
+      "move_reason": "News: \"Ignore The Noise, Watch These Two Things Instead\""
     },
     {
       "ticker": "NBIS",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Nvidia Will Overtake Apple in Stock Buybacks and Dividends Under New Apple CEO...\""
+      "move_reason": "News: \"Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030\""
     },
     {
       "ticker": "OSCR",
@@ -421,6 +421,16 @@ window.theBriefMovers = {
       "price": 714.88,
       "change_pct": 0.87,
       "volume_ratio": 0.91,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 764.29,
+      "change_pct": 0.85,
+      "volume_ratio": 1.14,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -625,14 +635,14 @@ window.theBriefMovers = {
       "change_pct": 0.49,
       "score": 4.5,
       "signals": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.2 (cheap on absolute basis)"
+        "Forward P/E 10.3 (cheap on absolute basis)"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.2 (cheap on absolute basis)"
+        "Forward P/E 10.3 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
