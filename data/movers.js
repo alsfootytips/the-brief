@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-13T06:35:26.703740+00:00",
+  "generated_at": "2026-09-13T12:18:37.055330+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD)\u2019s Halo Station Could Strengthen Its AI Position, but Ne...\""
+      "move_reason": "News: \"Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks\""
     },
     {
       "ticker": "TTD",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Loo...\""
+      "move_reason": "News: \"Nscale\u2019s Funding Talks Put Dell and Nokia\u2019s AI Supply Relationships to the Test\""
     }
   ],
   "watchlist": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD)\u2019s Halo Station Could Strengthen Its AI Position, but Ne...\""
+      "move_reason": "News: \"Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Loo...\""
+      "move_reason": "News: \"Nscale\u2019s Funding Talks Put Dell and Nokia\u2019s AI Supply Relationships to the Test\""
     },
     {
       "ticker": "OSCR",
