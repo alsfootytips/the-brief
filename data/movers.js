@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-13T01:18:44.770031+00:00",
+  "generated_at": "2026-09-13T06:35:26.703740+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Veteran analyst resets Palantir price target for rest of 2026\""
+      "move_reason": "News: \"Nebius And Palantir: Implications Of The New Partnership\""
     },
     {
       "ticker": "XLU",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Wo...\""
+      "move_reason": "News: \"Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Loo...\""
     }
   ],
   "watchlist": [
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, September 12,2026\""
+      "move_reason": "News: \"Crestmont P/E And Market Valuation: August 2026\""
     },
     {
       "ticker": "NBIS",
@@ -306,7 +306,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Veteran analyst resets Palantir price target for rest of 2026\""
+      "move_reason": "News: \"Nebius And Palantir: Implications Of The New Partnership\""
     },
     {
       "ticker": "NVDA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Wo...\""
+      "move_reason": "News: \"Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Loo...\""
     },
     {
       "ticker": "OSCR",
@@ -330,7 +330,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Moderna, 10x Genomics, Oscar Health, and Novavax Shares Are Soaring, What You Need To Know\""
+      "move_reason": "News: \"Apple, Taiwan Semi Lead Five Stocks Near Buy Points\""
     },
     {
       "ticker": "OXY",
