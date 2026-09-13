@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-13T16:34:02.137213+00:00",
+  "generated_at": "2026-09-13T18:58:26.708019+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Discussed Taking The Long View For Chevron Corporation (NYSE:CVX)\""
+      "move_reason": "News: \"Boy, We Were Wrong About SpaceX\""
     },
     {
       "ticker": "AMD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough\""
+      "move_reason": "News: \"AMD and Intel\u2019s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both...\""
     },
     {
       "ticker": "TTD",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius And Palantir: Implications Of The New Partnership\""
+      "move_reason": "News: \"3 Stocks to Bet Against If You Want to Invest Like Michael Burry\""
     },
     {
       "ticker": "XLU",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion \u2014 Dwarfing Hyperscalers...\""
+      "move_reason": "News: \"Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. The...\""
     }
   ],
   "watchlist": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough\""
+      "move_reason": "News: \"AMD and Intel\u2019s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both...\""
     },
     {
       "ticker": "APA",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough\""
+      "move_reason": "News: \"Nvidia CEO Jensen Huang doubles down on his big 2030 market bet\""
     },
     {
       "ticker": "DG",
@@ -282,7 +282,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Discussed Taking The Long View For Chevron Corporation (NYSE:CVX)\""
+      "move_reason": "News: \"Boy, We Were Wrong About SpaceX\""
     },
     {
       "ticker": "IWM",
@@ -306,7 +306,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius And Palantir: Implications Of The New Partnership\""
+      "move_reason": "News: \"3 Stocks to Bet Against If You Want to Invest Like Michael Burry\""
     },
     {
       "ticker": "NVDA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion \u2014 Dwarfing Hyperscalers...\""
+      "move_reason": "News: \"Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. The...\""
     },
     {
       "ticker": "OSCR",
