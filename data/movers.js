@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-13T21:22:29.028604+00:00",
+  "generated_at": "2026-09-13T23:20:28.875367+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD and Intel\u2019s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both...\""
+      "move_reason": "News: \"Cathie Wood Sees an Economic Boom Wall Street Isn\u2019t Pricing In\""
     },
     {
       "ticker": "TTD",
@@ -106,18 +106,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "PLTR",
-      "name": "PLTR",
-      "price": 167.39,
-      "change_pct": 0.92,
-      "volume_ratio": 0.7,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
       "price": 109.74,
@@ -173,6 +161,17 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 764.29,
+      "change_pct": 0.85,
+      "volume_ratio": 1.14,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -220,7 +219,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.\""
+      "move_reason": "News: \"Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead\""
     }
   ],
   "watchlist": [
@@ -234,7 +233,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD and Intel\u2019s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both...\""
+      "move_reason": "News: \"Cathie Wood Sees an Economic Boom Wall Street Isn\u2019t Pricing In\""
     },
     {
       "ticker": "APA",
@@ -318,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.\""
+      "move_reason": "News: \"Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead\""
     },
     {
       "ticker": "OSCR",

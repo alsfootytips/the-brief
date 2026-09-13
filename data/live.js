@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-13T21:22:29.033224+00:00",
+  "generated_at": "2026-09-13T23:20:28.880082+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.05,
       "price": 650.0,
       "is_watchlist": true,
-      "timestamp": "2026-09-13T21:22:29.030383+00:00",
+      "timestamp": "2026-09-13T23:20:28.877163+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,10 +20,178 @@ window.theBriefLive = {
       "change_pct": 3.49,
       "price": 956.2,
       "is_watchlist": true,
-      "timestamp": "2026-09-13T21:22:29.030368+00:00",
+      "timestamp": "2026-09-13T23:20:28.877148+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Michael Dell\u2019s family office nears deal to buy Baldwin Insurance: FT",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4642312-michael-dell-s-family-office-nears-deal-to-buy-baldwin-insurance-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T23:16:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/diplomacy-stumbles-with-postponement-of-meeting-on-strait-of-hormuz-proposal-4898762",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T23:06:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-tells-investors-it-will-be-profitable-for-second-straight-quarter-ft-reports-4898761",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T23:00:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T22:51:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-jump-more-than-3-after-new-strikes-on-saudi-strait-of-hormuz-4898759",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T22:24:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the major earnings before the open Monday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4642280-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T22:00:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:59:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "High Tide Q3 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4642170-high-tide-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dave &amp; Buster's Q2 2027 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4642171-dave-and-busters-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Radiant Logistics Q4 2026 Earnings Preview",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4642173-radiant-logistics-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Culture shift' needed in how UK does business, PM urges",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:30:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd80b18bcf77f72a2c791b70467075c72e54e007af6985e4ab985da070c6abfc",
+      "is_watchlist": true,
+      "timestamp": "2026-09-13T21:29:19+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index down 1.21%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-121-4898756",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:20:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "A $100 Monthly Investment in VGT Could Grow Into This Over 20 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94ba688254ca63ea2f968ff1851c595726c2fbc1ccc1ad67899acb4135fbcb70",
+      "is_watchlist": true,
+      "timestamp": "2026-09-13T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Cathie Wood Sees an Economic Boom Wall Street Isn\u2019t Pricing In",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42000c87d9e852de30d55d969d3d6836d0c152e29da3781c4029d07b2a1f5f8e",
+      "is_watchlist": true,
+      "timestamp": "2026-09-13T21:10:05+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -33,6 +201,28 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-13T21:10:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Definium to present phase 3 anxiety disorder trial results Monday",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/definium-to-present-phase-3-anxiety-disorder-trial-results-monday-93CH-4898754",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:04:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T21:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -49,14 +239,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T20:44:54+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Forget Intel. Buy This Tech Stock in September Instead.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=823bfaac71e7c5817a08513671f1939074e010697d90aa2dfef7433d2b5fbe89",
+      "is_watchlist": true,
+      "timestamp": "2026-09-13T20:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -83,6 +274,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Wall Street\u2019s AI trade on watch as Altman, Musk join calls for slowing development",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/wall-streets-ai-trade-on-watch-as-altman-musk-join-calls-for-slowing-development-4898752",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T20:27:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Saudi pipeline outage threatens 4% of global oil supply",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4642310-saudi-pipeline-outage-threatens-4-percent-of-global-oil-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -90,6 +292,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-13T20:27:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New attacks in Hormuz and Saudi test nerves as war\u2019s spread worsens oil disruption",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T20:18:27+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -128,6 +342,18 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NBIS",
+      "headline": "Viral AI Dommer Tweet: Engineered Panic?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ae562fc9cc15f5456c3ed64cc8572837f2fd436e670c179f64c30a1e297b5f3",
+      "is_watchlist": true,
+      "timestamp": "2026-09-13T20:01:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
       "headline": "Viral AI Dommer Tweet: Engineered Panic?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9ae562fc9cc15f5456c3ed64cc8572837f2fd436e670c179f64c30a1e297b5f3",
@@ -182,40 +408,19 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec283fa2de992936ee1fa64a6974da114c2eb6e9dbfe91bea66fa40d95f6b138",
-      "is_watchlist": true,
-      "timestamp": "2026-09-13T19:46:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
       "ticker": null,
-      "headline": "Trump presses Fed for lower rates ahead of policy meeting",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642308-trump-presses-fed-for-lower-rates-ahead-of-policy-meeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T19:45:42+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac3038758401ade037ed1c4786b96ed34c89812c6414334d2d1729dde8636540",
+      "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "is_watchlist": true,
-      "timestamp": "2026-09-13T19:39:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "timestamp": "2026-09-13T19:34:36+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -227,29 +432,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-13T19:31:11+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Global markets slide this week as oil surges, rate-hike fears intensify",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642307-global-markets-slide-this-week-as-oil-surges-rate-hike-fears-intensify?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T19:26:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Insiders Trim Positions in Five Below Stock After 39% Run-Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2be2db07eda5aa024f2540b5e19ca4c13925bd69efc2dfcfba8d01221c792250",
-      "is_watchlist": true,
-      "timestamp": "2026-09-13T19:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -280,28 +462,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T19:10:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin stalls at $77,338 between key support and resistance: Live",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T19:02:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Fed rate hikes won\u2019t bring down gas prices. Why the bond market is pushing for them anyway.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
@@ -314,54 +474,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Treasury buyback test exposes limits of support for long-term debt: SocGen",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642306-treasury-buyback-test-exposes-limits-of-support-for-long-term-debt-socgen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T18:49:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple\u2019s foldable iPhone could make the format the new normal, Gurman says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642305-apple-s-foldable-iphone-could-make-the-format-the-new-normal-gurman-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T18:09:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump says he is lifting tariffs on Irish whiskey",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-says-he-is-lifting-tariffs-on-irish-whiskey-4898747",
-      "is_watchlist": true,
-      "timestamp": "2026-09-13T18:00:28+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elevance leads UBS health benefits survey as employers brace for higher costs",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642300-elevance-leads-ubs-health-benefits-survey-as-employers-brace-for-higher-costs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T17:59:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
@@ -369,33 +481,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-13T17:48:53+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump calls $5,000 payouts \u2019easy\u2019 to fit into federal budget",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ahead-of-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-4898742",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T17:48:28+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump reiterates support for united Ireland, says won\u2019t talk about Scotland \u2019yet\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-reiterates-support-for-united-ireland-says-wont-talk-about-scotland-yet-4898746",
-      "is_watchlist": true,
-      "timestamp": "2026-09-13T17:24:29+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -490,64 +575,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Anthropic selects Nasdaq for IPO, Business Insider reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-selects-nasdaq-for-ipo-business-insider-reports-4898744",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T16:24:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Will Secretary Scott Bessent fire his bazooka to avert yields climbing above 5%?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/will-secretary-scott-bessent-fire-his-bazooka-to-avert-yields-climbing-above-5-4898743",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T16:19:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "S&P Dow Jones Indices\u00a0loosens Canadian index inclusion criteria",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/sp-dow-jones-indicesloosens-canadian-index-inclusion-criteria-4898741",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T16:00:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New attacks in Hormuz and Saudi test nerves as war\u2019s spread worsens oil disruption",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T15:36:41+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
-      "headline": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26ebbb3d0826ee8d4122ec51c0cb942fd44407a09ce9117eedde57e2ab6bf3a8",
-      "is_watchlist": true,
-      "timestamp": "2026-09-13T15:36:09+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=26ebbb3d0826ee8d4122ec51c0cb942fd44407a09ce9117eedde57e2ab6bf3a8",
@@ -572,18 +600,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=43dd2e87fc78e1c2c00d864bcafad7355f31721e5953f44cd8683a05fe6db3af",
-      "is_watchlist": true,
-      "timestamp": "2026-09-13T15:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -653,17 +669,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-13T11:53:35+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-13T11:53:35+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1134,17 +1139,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-11T15:37:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Will EMCOR's 19.6% Organic Growth Stay Elevated Into 2027?",
       "source": "Yahoo",
@@ -1166,17 +1160,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US prices remain high as fuel costs squeeze household budgets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-11T14:22:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1247,6 +1230,17 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T11:59:39+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
