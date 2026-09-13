@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-13T12:18:37.055330+00:00",
+  "generated_at": "2026-09-13T16:34:02.137213+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks\""
+      "move_reason": "News: \"Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough\""
     },
     {
       "ticker": "TTD",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nscale\u2019s Funding Talks Put Dell and Nokia\u2019s AI Supply Relationships to the Test\""
+      "move_reason": "News: \"Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion \u2014 Dwarfing Hyperscalers...\""
     }
   ],
   "watchlist": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks\""
+      "move_reason": "News: \"Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough\""
     },
     {
       "ticker": "APA",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"David Tepper makes surprising double bet on AI's biggest bottleneck\""
+      "move_reason": "News: \"Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough\""
     },
     {
       "ticker": "DG",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Crestmont P/E And Market Valuation: August 2026\""
+      "move_reason": "News: \"This Time Is Different? Earnings And Price Break 90-Year Trends\""
     },
     {
       "ticker": "NBIS",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nscale\u2019s Funding Talks Put Dell and Nokia\u2019s AI Supply Relationships to the Test\""
+      "move_reason": "News: \"Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion \u2014 Dwarfing Hyperscalers...\""
     },
     {
       "ticker": "OSCR",
