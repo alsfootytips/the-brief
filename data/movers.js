@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-13T18:58:26.708019+00:00",
+  "generated_at": "2026-09-13T21:22:29.028604+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Stocks to Bet Against If You Want to Invest Like Michael Burry\""
+      "move_reason": "News: \"Viral AI Dommer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "XLU",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. The...\""
+      "move_reason": "News: \"Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.\""
     }
   ],
   "watchlist": [
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia CEO Jensen Huang doubles down on his big 2030 market bet\""
+      "move_reason": "News: \"Viral AI Dommer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "DG",
@@ -306,7 +306,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Stocks to Bet Against If You Want to Invest Like Michael Burry\""
+      "move_reason": "News: \"Viral AI Dommer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "NVDA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. The...\""
+      "move_reason": "News: \"Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.\""
     },
     {
       "ticker": "OSCR",
