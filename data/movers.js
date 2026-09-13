@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-12T23:24:27.946467+00:00",
+  "generated_at": "2026-09-13T01:18:44.770031+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call\""
+      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD)\u2019s Halo Station Could Strengthen Its AI Position, but Ne...\""
     },
     {
       "ticker": "TTD",
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sigh...\""
+      "move_reason": "News: \"$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Wo...\""
     }
   ],
   "watchlist": [
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call\""
+      "move_reason": "News: \"Advanced Micro Devices, Inc. (AMD)\u2019s Halo Station Could Strengthen Its AI Position, but Ne...\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sigh...\""
+      "move_reason": "News: \"$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Wo...\""
     },
     {
       "ticker": "OSCR",
@@ -635,12 +635,12 @@ window.theBriefMovers = {
       "change_pct": 0.49,
       "score": 4.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 10.2 (cheap on absolute basis)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 10.2 (cheap on absolute basis)"
       ],

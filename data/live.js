@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-12T23:24:27.951350+00:00",
+  "generated_at": "2026-09-13T01:18:44.774844+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.05,
       "price": 650.0,
       "is_watchlist": true,
-      "timestamp": "2026-09-12T23:24:27.948376+00:00",
+      "timestamp": "2026-09-13T01:18:44.771787+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,10 +20,33 @@ window.theBriefLive = {
       "change_pct": 3.49,
       "price": 956.2,
       "is_watchlist": true,
-      "timestamp": "2026-09-12T23:24:27.948361+00:00",
+      "timestamp": "2026-09-13T01:18:44.771771+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil tanker rates reach record highs on surging risks to Middle East shipping",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4642257-oil-tanker-rates-reach-record-highs-on-surging-risks-to-middle-east-shipping?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T00:25:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Advanced Micro Devices, Inc. (AMD)\u2019s Halo Station Could Strengthen Its AI Position, but Near-Term Revenue Impact May Be Limited",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=563dde5b95b4eb1132093ceae91d9343e0c41e8edfb607fbf7e01fef200b4f0e",
+      "is_watchlist": true,
+      "timestamp": "2026-09-12T23:54:30+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -38,89 +61,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "American Tower Sees 2026 Growth Trough Before 5G, AI and 6G Catalysts Lift Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/american-tower-sees-2026-growth-230156550.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T23:01:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T22:56:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GE Aerospace (GE)\u2019s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-12-billion-223833187.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T22:38:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. Bancorp (USB)\u2019s Dividend Increase Has More Behind It",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T22:16:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T22:13:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Block, Inc (XYZ)\u2019s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T22:09:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ACV Auctions (ACVA) Was This Week\u2019s Top Stock \u2014 Here\u2019s What Drove Gains",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T22:06:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
-      "headline": "The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sight, and Wall Street Isn\u2019t Paying Attention",
+      "headline": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=41f5836a0f16820bed90ba01be2f1ecb5e2663187c182fcc9cd33beaac8b280f",
+      "url": "https://finnhub.io/api/news?id=f943a12719707ac9beef8dd9b9298f8492a3b6cba62f8c451e55b9221de532dd",
       "is_watchlist": true,
-      "timestamp": "2026-09-12T21:50:01+00:00",
+      "timestamp": "2026-09-12T22:38:01+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -128,11 +74,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Down 30% This Year, Is It Finally Time to Buy SoFi Stock?",
+      "headline": "Not Nvidia. Not Micron. This Dirt Cheap \u201cMagnificent Seven\u201d Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race \u2013 Here\u2019s the Case.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b112db004558e66876ed2b04cb7d59310efc21d25577d0700835dbb9362f12dc",
+      "url": "https://finnhub.io/api/news?id=4e6e8471eafd333d014f6319ff458022c276914c6e69a28c09f531f323f1f24c",
       "is_watchlist": true,
-      "timestamp": "2026-09-12T21:50:00+00:00",
+      "timestamp": "2026-09-12T22:35:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is NuScale Power a Millionaire Maker?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9051380086be86c9cdd24ece03cae3f1d88406d41cb5e373518451761ed1622",
+      "is_watchlist": true,
+      "timestamp": "2026-09-12T22:25:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -147,18 +105,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-12T21:50:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Adobe: After Lifting Guidance, Is the Beaten-Down Stock Ready to Break Out?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a25f98cde6a9e0eb0fc3ae2bf9d331d9731c072532fd45d180339e29e8d3241b",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T21:35:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -458,29 +404,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b4832a066a4458fb6084b5b3dde3ea9132ae207457c5bf0b51f3ace7f33d585",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T14:50:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic CEO Amodei calls to 'slow the pace' of AI model improvements",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642266-anthropic-ceo-amodei-calls-slow-pace-ai-model-improvements?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T14:44:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?",
       "source": "MarketWatch",
@@ -670,6 +593,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "BRICS adopts joint declaration, urges 'maximum restraint' in Mideast - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZERlSkNRYWwycnZ4Y1Nwc1RXSXU3WTFLbmFLVnJGOWhfWjdvTzZiTGJVWVpSWHFWWXB1TTh0STE5QkM2VUlabV9DaENCYXJ2djY1OUhfVjUzbTZWdVVHbjRLTlBNLURPYnNlQU1WSzdYZWxzSk51b0ZQS0Y2N0hndGJPMnF3bW9MUjJSWk80cFkxZVUyXzRFVTdwVGtIQVF0S2Z6RkdqQWFOSGdWZnVV?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-12T12:13:53+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
@@ -752,17 +686,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump arrives in Ireland to meet leaders before attending golf tournament - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmRVSmpKQ0dXUHlzSlpIUXNaU1FXR1B2ZGU0TU5BWHlqckFuYmR5ckdHYm1EYjRweG5RdHRNUXZWZFZENmdkTHItNmlXQWw4aUdpM2JjR1M2OWpBQ05VRXpzNDUxQmJaY1JGazdTVDk0M0hleWVGX0NFM19ORUtRbW41cUNGTFJiTVhrXzl1OUxoUURfYU1zcDZmZ2ZkTlh3ZmNnUWNB?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-12T05:04:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -975,6 +898,84 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The New Fed Chair Only Knows High Inflation and That Matters",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-only-knows-high-185601157.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T18:56:01+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This Space Stock Soars On Strong Earnings. Oil, Shipping Stocks Also Top Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://www.investors.com/stock-lists/new-highs/new-highs-feim-eqnr-matx-stock/?src=A00220&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T18:55:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jim Cramer on Trinity Industries (TRN): \u201cShouldn\u2019t Be Down This Much\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-trinity-industries-trn-184605799.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T18:46:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Weekly Wrap: Rate Hike Expectations Pressure Crypto",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-rate-hike-expectations-184400665.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T18:44:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cooper Companies (COO) Bets on Fertility Growth Despite Weakness in CooperVision",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/cooper-companies-coo-bets-fertility-184234560.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T18:42:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold Little Changed As August CPI Raises Interest-Rate Expectations",
+      "source": "Yahoo Finance",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-ahead-of-u-s-cpi-data-c995e7d0?siteid=yhoof2&yptr=yahoo",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T18:42:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Is Vistra Stock Underperforming the Nasdaq?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-stock-underperforming-nasdaq-184021342.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-11T18:40:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1297,18 +1298,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-10T13:34:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=49ea1126bd4422ec77ea9bc56b3774aa7c4f436c915c9e97d2f3ea4f9965510d",
-      "is_watchlist": true,
-      "timestamp": "2026-09-09T19:05:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
