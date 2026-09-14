@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-14T18:53:27+00:00",
+  "generated_at": "2026-09-14T22:17:09+00:00",
   "by_date": {
     "2026-09-14": [
       {
@@ -125,7 +125,7 @@ window.theBriefEarnings = {
       {
         "ticker": "OPTT",
         "date": "2026-09-14",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0306,
         "revenue_estimate": 1872720,
         "is_watchlist": false
@@ -149,7 +149,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PMCB",
         "date": "2026-09-14",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
