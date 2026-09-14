@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-14T01:23:57.811962+00:00",
+  "generated_at": "2026-09-14T06:46:54.083898+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Sees an Economic Boom Wall Street Isn\u2019t Pricing In\""
+      "move_reason": "News: \"Viral AI Doomer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "TTD",
@@ -126,7 +126,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -160,7 +159,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -186,7 +184,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Viral AI Dommer Tweet: Engineered Panic?\""
+      "move_reason": "News: \"Viral AI Doomer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "XLU",
@@ -220,7 +218,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting ...\""
+      "move_reason": "News: \"Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week?\""
     }
   ],
   "watchlist": [
@@ -234,7 +232,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Sees an Economic Boom Wall Street Isn\u2019t Pricing In\""
+      "move_reason": "News: \"Viral AI Doomer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "APA",
@@ -258,7 +256,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks Rallied Facing A Fed Hike Decision, Here's What It Means\""
+      "move_reason": "News: \"Viral AI Doomer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "DG",
@@ -306,7 +304,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Viral AI Dommer Tweet: Engineered Panic?\""
+      "move_reason": "News: \"Viral AI Doomer Tweet: Engineered Panic?\""
     },
     {
       "ticker": "NVDA",
@@ -318,7 +316,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting ...\""
+      "move_reason": "News: \"Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week?\""
     },
     {
       "ticker": "OSCR",
