@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-13T23:20:28.875367+00:00",
+  "generated_at": "2026-09-14T01:23:57.811962+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Surpasses Market Returns: Some Facts Worth Knowing\""
+      "move_reason": "Tracking XLK sector (+1.32% today)"
     },
     {
       "ticker": "DG",
@@ -106,6 +106,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "PLTR",
+      "name": "PLTR",
+      "price": 167.39,
+      "change_pct": 0.92,
+      "volume_ratio": 0.7,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "VUAG.L",
       "name": "VUAG.L",
       "price": 109.74,
@@ -161,17 +173,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPDR S&P 500 ETF",
-      "price": 764.29,
-      "change_pct": 0.85,
-      "volume_ratio": 1.14,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
-      "move_reason": ""
     }
   ],
   "losers": [
@@ -219,7 +220,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead\""
+      "move_reason": "News: \"Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting ...\""
     }
   ],
   "watchlist": [
@@ -257,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Viral AI Dommer Tweet: Engineered Panic?\""
+      "move_reason": "News: \"Stocks Rallied Facing A Fed Hike Decision, Here's What It Means\""
     },
     {
       "ticker": "DG",
@@ -293,7 +294,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Time Is Different? Earnings And Price Break 90-Year Trends\""
+      "move_reason": "News: \"Stocks Rallied Facing A Fed Hike Decision, Here's What It Means\""
     },
     {
       "ticker": "NBIS",
@@ -317,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead\""
+      "move_reason": "News: \"Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting ...\""
     },
     {
       "ticker": "OSCR",
@@ -377,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Surpasses Market Returns: Some Facts Worth Knowing\""
+      "move_reason": "Tracking XLK sector (+1.32% today)"
     },
     {
       "ticker": "XLE",
@@ -389,7 +390,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -750,11 +751,11 @@ window.theBriefMovers = {
       "change_pct": 1.35,
       "score": 3.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "6 insider buys vs 0 sells (last 90 days)"
       ],
       "tags": [

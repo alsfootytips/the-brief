@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-09-13T23:20:29.025704+00:00",
+  "generated_at": "2026-09-14T01:23:57.957632+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": 3.49,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 123,
+      "days_elapsed": 124,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": 5.05,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 123,
+      "days_elapsed": 124,
       "days_remaining": null
     },
     {
@@ -572,12 +572,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 172.9,
-      "current_pct": 32.19,
-      "change_pct_today": 0.52,
+      "current_price": 167.39,
+      "current_pct": 27.97,
+      "change_pct_today": 0.92,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 90,
+      "days_elapsed": 124,
       "days_remaining": null
     },
     {
@@ -921,8 +921,8 @@ window.theBriefPicks = {
       "change_pct_today": 2.36,
       "name": "The Trade Desk",
       "news_count": 3,
-      "days_elapsed": 33,
-      "days_remaining": 9
+      "days_elapsed": 34,
+      "days_remaining": 8
     },
     {
       "id": "2026-08-11-APA-auto",
@@ -951,8 +951,8 @@ window.theBriefPicks = {
       "change_pct_today": 0.49,
       "name": "APA Corp",
       "news_count": 2,
-      "days_elapsed": 33,
-      "days_remaining": 16
+      "days_elapsed": 34,
+      "days_remaining": 15
     }
   ],
   "summary": {
