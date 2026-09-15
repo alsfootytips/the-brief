@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-15T22:17:23+00:00",
+  "generated_at": "2026-09-15T23:52:49+00:00",
   "by_date": {
     "2026-09-15": [
       {
@@ -415,7 +415,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AZO",
         "date": "2026-09-22",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 54.8009,
         "revenue_estimate": 6782842405,
         "is_watchlist": false
@@ -439,7 +439,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MLKN",
         "date": "2026-09-22",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3621,
         "revenue_estimate": 962166000,
         "is_watchlist": false
@@ -463,7 +463,7 @@ window.theBriefEarnings = {
       {
         "ticker": "WOR",
         "date": "2026-09-22",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.7676,
         "revenue_estimate": 334579872,
         "is_watchlist": false
