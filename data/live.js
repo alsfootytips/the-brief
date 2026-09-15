@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-15T00:06:32.964328+00:00",
+  "generated_at": "2026-09-15T00:47:59.343413+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 14.89,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:06:32.777965+00:00",
+      "timestamp": "2026-09-15T00:47:59.340502+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": -4.32,
-      "price": 622.5,
+      "change_pct": -4.24,
+      "price": 623.0,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:06:32.777962+00:00",
+      "timestamp": "2026-09-15T00:47:59.340499+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,19 @@ window.theBriefLive = {
       "change_pct": 3.26,
       "price": 33.84,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:06:32.777958+00:00",
+      "timestamp": "2026-09-15T00:47:59.340496+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "change_pct": -4.73,
+      "price": 213.94,
+      "is_watchlist": true,
+      "timestamp": "2026-09-15T00:47:59.340492+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,10 +53,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": -8.28,
-      "price": 878.0,
+      "change_pct": -8.3,
+      "price": 877.77,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:06:32.777949+00:00",
+      "timestamp": "2026-09-15T00:47:59.340482+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,7 +68,7 @@ window.theBriefLive = {
       "change_pct": 3.63,
       "price": 129.1,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:06:32.777946+00:00",
+      "timestamp": "2026-09-15T00:47:59.340479+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,7 +80,7 @@ window.theBriefLive = {
       "change_pct": -6.17,
       "price": 83.5,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:06:32.777942+00:00",
+      "timestamp": "2026-09-15T00:47:59.340475+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -80,7 +92,7 @@ window.theBriefLive = {
       "change_pct": -4.33,
       "price": 493.78,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:06:32.777934+00:00",
+      "timestamp": "2026-09-15T00:47:59.340466+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -91,14 +103,113 @@ window.theBriefLive = {
         "Trump"
       ],
       "ticker": null,
-      "headline": "Supreme Court rejects Trump bid to lift block on mail-in ballots rule",
+      "headline": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
       "is_watchlist": true,
-      "timestamp": "2026-09-15T00:03:22+00:00",
+      "timestamp": "2026-09-15T00:44:50+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:32:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EPA to roll back Biden-era limits on power plant emissions",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4642715-epa-to-roll-back-biden-era-limits-on-power-plant-emissions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:20:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dolphin entertainment CEO O\u2019Dowd buys $4,816 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-odowd-buys-4816-in-stock-93CH-4900686",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:15:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018He does not have a spouse or children\u2019: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood\u2019s ARK sells Alphabet stock, buys Meta Platforms",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-alphabet-stock-buys-meta-platforms-93CH-4900685",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:13:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:12:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. stock futures flat as markets parse slowing AI development, Fed anticipation",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:08:43+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Moody\u2019s to acquire minority stake in Philippine rating agency",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/moodys-to-acquire-minority-stake-in-philippine-rating-agency-93CH-4900682",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:04:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pro Dex CEO Richard Van Kirk sells $45,412 in PDEX stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pro-dex-ceo-richard-van-kirk-sells-45412-in-pdex-stock-93CH-4900679",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:01:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -108,6 +219,28 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-15T00:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oportun financial SVP-controller Schueller sells $22,300 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/oportun-financial-svpcontroller-schueller-sells-22300-in-shares-93CH-4900678",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:01:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Guardant Health CIO Kumud Kalia sells $632k in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/guardant-health-cio-kumud-kalia-sells-632k-in-stock-93CH-4900677",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T00:00:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -125,17 +258,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Questor Technology CFO Aly Sumar resigns from position",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/questor-technology-cfo-aly-sumar-resigns-from-position-93CH-4900668",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:36:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Radiant Logistics signals $200M credit facility through 2031 while pursuing acquisitions and buybacks",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4642714-radiant-logistics-signals-200m-credit-facility-through-2031-while-pursuing-acquisitions-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -147,55 +269,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cascade investment buys $129.3m in Republic Services stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/cascade-investment-buys-1293m-in-republic-services-stock-93CH-4900667",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:31:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AI doomsday fears are arriving at the worst possible time for the stock market",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-14T23:19:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-4898987",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:18:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "8x8 director Andrew Burton sells $194,241 of company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/8x8-director-andrew-burton-sells-194241-of-company-stock-93CH-4900663",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:16:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "8x8 chief legal officer Laurence Denny sells $17,141 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/8x8-chief-legal-officer-laurence-denny-sells-17141-in-stock-93CH-4900662",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:15:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -229,39 +307,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-09-14T23:07:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sempra Infrastructure signs 20-year LNG deal with Petrobras",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/sempra-infrastructure-signs-20year-lng-deal-with-petrobras-93CH-4900661",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:04:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oportun financial chief legal officer Layton sells $32,939 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/oportun-financial-chief-legal-officer-layton-sells-32939-in-stock-93CH-4900660",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:01:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chime financial director James Feuille sells $11.6m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/chime-financial-director-james-feuille-sells-116m-in-shares-93CH-4900659",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T23:01:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -312,17 +357,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T22:10:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
@@ -344,14 +378,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Westaim to rebrand as \u201cAventus Capital\u201d with the AVTS ticker",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642708-westaim-to-rebrand-as-aventus-capital-with-the-avts-ticker?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T21:57:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "PWR",
+      "headline": "Quanta Services (PWR) Declines More Than Market: Some Information for Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91c7ba24225803915d49c5228b2da8bdfed85ac904077cd6111d565ba8efd9ab",
+      "is_watchlist": true,
+      "timestamp": "2026-09-14T22:00:05+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -527,17 +562,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-14T21:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here\u2019s what to know.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T20:56:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -924,17 +948,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "National specialty clothing chain closing all its stores",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T14:07:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "How Is Dollar General's Stock Performance Compared to Other Consumer Defensive Stocks",
       "source": "Yahoo",
@@ -1064,17 +1077,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "38-year-old beloved steakhouse chain closing over 40 locations",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T02:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "AI agents to start spending your money with Visa, Mastercard",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
@@ -1097,44 +1099,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Zcash Price Prediction: Bearish RSI Divergence Sets Stage for Pullback to $850",
+      "headline": "Adobe\u2019s (ADBE) AI Bet Is Finally Showing Up In Revenue",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-13T16:08:48+00:00",
+      "timestamp": "2026-09-13T13:22:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pay is back on the rise for job switchers, even in low-hire job market",
+      "headline": "LightPath\u2019s (LPTH) Defense Pivot Just Showed Up In The Numbers",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-13T15:45:04+00:00",
+      "timestamp": "2026-09-13T13:14:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bank exits squeeze truck financing for mid-size fleets",
+      "headline": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/bank-exits-squeeze-truck-financing-154006871.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-13T15:40:06+00:00",
+      "timestamp": "2026-09-13T13:08:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia Is Focused on Redefining AI Infrastructure as an Income-Generating Asset",
+      "headline": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-focused-redefining-ai-infrastructure-153002085.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-13T15:30:02+00:00",
+      "timestamp": "2026-09-13T13:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T13:00:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lovesac\u2019s (LOVE) Premium Sofas Shine While Entry-Level Buyers Stay Away",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lovesac-love-premium-sofas-shine-125527184.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-13T12:55:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1228,18 +1252,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-12T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Why Quanta (PWR) Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=099061d19d3a69f3849785e603dd85483aed66889fa0f353d4272db650270da0",
-      "is_watchlist": true,
-      "timestamp": "2026-09-12T05:15:05+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

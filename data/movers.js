@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-15T00:06:32.775915+00:00",
+  "generated_at": "2026-09-15T00:47:59.338258+00:00",
   "gainers": [
     {
       "ticker": "TTD",
@@ -179,8 +179,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 878.0,
-      "change_pct": -8.28,
+      "price": 877.77,
+      "change_pct": -8.3,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
@@ -201,6 +201,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"Amazon and Microsoft Can Buy GPUs. But U.S. Construction Is Short 439,000 Workers\""
     },
     {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 213.94,
+      "change_pct": -4.73,
+      "volume_ratio": 0.72,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"CoreWeave Pays SOFR +5.5%. Nebius Pays +2.5%. AI Lenders Are Already Drawing a Line\""
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "price": 493.78,
@@ -215,14 +227,14 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 622.5,
-      "change_pct": -4.32,
+      "price": 623.0,
+      "change_pct": -4.24,
       "volume_ratio": 1.32,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tetra Tech's Board Approves Additional Share Buyback Program\""
+      "move_reason": "News: \"Quanta Services (PWR) Declines More Than Market: Some Information for Investors\""
     },
     {
       "ticker": "NVDA",
@@ -371,8 +383,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 878.0,
-      "change_pct": -8.28,
+      "price": 877.77,
+      "change_pct": -8.3,
       "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
@@ -391,6 +403,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"The Fed May Be Forced Into An Irrelevant Hike\""
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 213.94,
+      "change_pct": -4.73,
+      "volume_ratio": 0.72,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"CoreWeave Pays SOFR +5.5%. Nebius Pays +2.5%. AI Lenders Are Already Drawing a Line\""
     },
     {
       "ticker": "NVDA",
@@ -431,14 +455,14 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 622.5,
-      "change_pct": -4.32,
+      "price": 623.0,
+      "change_pct": -4.24,
       "volume_ratio": 1.32,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tetra Tech's Board Approves Additional Share Buyback Program\""
+      "move_reason": "News: \"Quanta Services (PWR) Declines More Than Market: Some Information for Investors\""
     },
     {
       "ticker": "TPL",
@@ -637,16 +661,16 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 878.0,
-      "change_pct": -8.28,
+      "price": 877.77,
+      "change_pct": -8.3,
       "score": 7.5,
       "signals": [
-        "Moved -8.28% \u2014 a 3.5\u03c3 move vs typical 2.4% daily vol",
+        "Moved -8.30% \u2014 a 3.5\u03c3 move vs typical 2.4% daily vol",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)"
       ],
       "reasons": [
-        "Moved -8.28% \u2014 a 3.5\u03c3 move vs typical 2.4% daily vol",
+        "Moved -8.30% \u2014 a 3.5\u03c3 move vs typical 2.4% daily vol",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)"
       ],
@@ -655,7 +679,7 @@ window.theBriefMovers = {
         "news-flow",
         "insider-buying"
       ],
-      "narrative": "<strong>GEV</strong> made a statistically significant decline (-8.28%) but with no obvious news catalyst \u2014 sector pressure or technical move.",
+      "narrative": "<strong>GEV</strong> made a statistically significant decline (-8.30%) but with no obvious news catalyst \u2014 sector pressure or technical move.",
       "sector_etf": "XLI"
     },
     {
@@ -715,16 +739,16 @@ window.theBriefMovers = {
     {
       "ticker": "PWR",
       "name": "Quanta Services",
-      "price": 622.5,
-      "change_pct": -4.32,
+      "price": 623.0,
+      "change_pct": -4.24,
       "score": 5.5,
       "signals": [
-        "Moved -4.32% \u2014 a 1.8\u03c3 move vs typical 2.4% daily vol",
+        "Moved -4.24% \u2014 a 1.8\u03c3 move vs typical 2.4% daily vol",
         "3 news items in the last 3 days",
         "+2 analyst buy recs added recently"
       ],
       "reasons": [
-        "Moved -4.32% \u2014 a 1.8\u03c3 move vs typical 2.4% daily vol",
+        "Moved -4.24% \u2014 a 1.8\u03c3 move vs typical 2.4% daily vol",
         "3 news items in the last 3 days",
         "+2 analyst buy recs added recently"
       ],
@@ -735,6 +759,30 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>PWR</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 213.94,
+      "change_pct": -4.73,
+      "score": 5.0,
+      "signals": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "9 insider sells vs 1 buys (last 90 days)"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "9 insider sells vs 1 buys (last 90 days)"
+      ],
+      "tags": [
+        "news-flow",
+        "filing",
+        "insider-selling"
+      ],
+      "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "APA",
