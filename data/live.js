@@ -1,14 +1,26 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-15T15:35:26.797841+00:00",
+  "generated_at": "2026-09-15T15:56:13.633095+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -3.16,
-      "price": 32.74,
+      "change_pct": -3.24,
+      "price": 32.72,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T15:35:26.794969+00:00",
+      "timestamp": "2026-09-15T15:56:13.449137+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "DG",
+      "name": "Dollar General",
+      "change_pct": -3.41,
+      "price": 124.76,
+      "is_watchlist": true,
+      "timestamp": "2026-09-15T15:56:13.449128+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,13 +29,145 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": 4.42,
-      "price": 47.02,
+      "change_pct": 4.69,
+      "price": 47.14,
       "is_watchlist": true,
-      "timestamp": "2026-09-15T15:35:26.794953+00:00",
+      "timestamp": "2026-09-15T15:56:13.449121+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alignment falls after comments at Baird investor conference",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4643101-alignment-healthcare-stock-down-after-baird-event?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:47:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Matthews International director buys $19,990 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/matthews-international-director-buys-19990-in-shares-93CH-4902232",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:45:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KeyBanc reiterates Broadstone Net Lease stock rating on data center order",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-broadstone-net-lease-stock-rating-on-data-center-order-93CH-4902230",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:44:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Silicon Motion at Piper Sandler growth frontiers conference: shift broadens",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/silicon-motion-at-piper-sandler-growth-frontiers-conference-shift-broadens-93CH-4902229",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:43:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IQVIA Holdings stock hits 52-week high at 271.82 USD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/iqvia-holdings-stock-hits-52week-high-at-27182-usd-93CH-4902228",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:43:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Universal Health Services at 2026 Global Healthcare Conference: growth meets policy pressure",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/universal-health-services-at-2026-global-healthcare-conference-growth-meets-policy-pressure-93CH-4902227",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:43:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "L\u2019Oreal steals French stock market crown from LVMH",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/loreal-steals-french-stock-market-crown-from-lvmh-4902226",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:42:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Big U.S. bank shares fall after Bank of America outlook",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/big-us-bank-shares-fall-after-bank-of-america-outlook-93CH-4902225",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:42:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "L\u2019Oreal overtakes LVMH as France\u2019s most valuable company",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/loreal-overtakes-lvmh-as-frances-most-valuable-company-93CH-4902224",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Corteva CEO bets on innovation as crop-protection business spins off",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4643088-corteva-ceo-bets-on-innovation-as-crop-protection-business-spins-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:38:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clarity Act: What it means for your crypto holdings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/clarity-act-what-it-means-for-your-crypto-holdings-153849029.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:38:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:37:17+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -34,6 +178,39 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-15T15:33:11+00:00",
       "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil jumps nearly $3 as Saudi export halt, Libya outages stoke supply fears",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:32:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Allison Transmission Holdings (ALSN) is Capturing New Markets Beyond Commercial Vehicles",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-holdings-alsn-capturing-153216137.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:32:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:31:27+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -55,6 +232,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4643040-fda-launches-pilot-program-aims-speed-time-first-in-human-drug-trials?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-15T15:26:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The Fund\u2019s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fund-largest-relative-detractor-unowned-152642221.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T15:26:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -83,84 +271,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:23:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Johnson says no moratorium on AI, would give China competitive edge",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/johnson-says-no-moratorium-on-ai-would-give-china-competitive-edge-4902181",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:19:55+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Western Digital (WDC): The Fund\u2019s Top Relative Contributor",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-fund-top-151936638.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:19:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Honeywell Aero CEO calls planned GE Aerospace-CPP deal \u2019positive\u2019 for industry",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/honeywell-aero-ceo-calls-planned-ge-aerospacecpp-deal-positive-for-industry-4902190",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:19:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "RadNet at Jefferies healthcare conference: AI push drives growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/radnet-at-jefferies-healthcare-conference-ai-push-drives-growth-93CH-4902188",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:17:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gilead partners with PAHO to expand HIV prevention access",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/gilead-partners-with-paho-to-expand-hiv-prevention-access-93CH-4902186",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:16:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Riverview Bancorp director Kourosh Zamanizadeh buys $19,358 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/riverview-bancorp-director-kourosh-zamanizadeh-buys-19358-in-stock-93CH-4902185",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:16:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How many rate hikes are on tap? Wall Street hopes to connect the Fed\u2019s dots.",
+      "headline": "How many rate hikes are on tap? Wall Street hopes to connect the Fed\u2019s \u2018dots.\u2019",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
       "is_watchlist": false,
@@ -178,94 +289,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-15T15:15:01+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-citizens-bancshares-fcnca-undervalued-151353136.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:13:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FocalTherics at H.C. Wainwright conference: growth, new uses",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/focaltherics-at-hc-wainwright-conference-growth-new-uses-93CH-4902184",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:13:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "ResMed at Morgan Stanley healthcare conference: growth, margins, GLP-1 tailwind",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/resmed-at-morgan-stanley-healthcare-conference-growth-margins-glp1-tailwind-93CH-4902183",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:13:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BridgeBio Pharma at Morgan Stanley conference: attruby drives growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/bridgebio-pharma-at-morgan-stanley-conference-attruby-drives-growth-93CH-4902182",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:13:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Biggest stock movers Tuesday: Crypto stocks, PLAY, ENVA, and more",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4642746-biggest-stock-movers-tuesday-play-enva-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:11:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/meta-launches-meta-one-subscriptions-as-it-seeks-to-better-monetize-ai-spending-151014668.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:10:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coca-Cola, Viking, and Aritzia are top consumer picks at UBS amid economic headwinds",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4643057-coca-cola-viking-and-aritzia-are-top-consumer-picks-at-ubs-amid-economic-headwinds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:10:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-15T15:07:30+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -655,6 +678,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nebius: Why The Palantir Partnership Is A Game Changer (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ec48787655365acc396d7e2a8cdc38231fe6f4c0bd63cecce88af2631d6362b",
+      "is_watchlist": true,
+      "timestamp": "2026-09-15T11:30:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "OXY",
       "headline": "Intel, Sandisk, Palantir, Coinbase, and More Stocks That Explain Today\u2019s Market",
       "source": "Yahoo",
@@ -806,22 +841,10 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius: Pacing The Frontier Comes At A Price (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4d0c8aa1b052953dc2e537ed5e9da8542d07140fce8c2d4e3c0f75cabb41dd83",
-      "is_watchlist": true,
-      "timestamp": "2026-09-15T09:03:31+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
-      "headline": "Get ready for yet another cost when buying a home: Junk fees",
+      "headline": "This  bill could reshape crypto in America -- and it's sparking a major battle",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
       "is_watchlist": false,
       "timestamp": "2026-09-15T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -830,9 +853,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "This  bill could reshape crypto in America -- and it's sparking a major battle",
+      "headline": "Get ready for yet another cost when buying a home: Junk fees",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
       "is_watchlist": false,
       "timestamp": "2026-09-15T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -852,6 +875,17 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq fall after 10-year Treasury yield rises",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-15T08:13:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1088,17 +1122,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T14:01:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OSCR",
       "headline": "Is Oscar Health (OSCR) Outperforming Other Finance Stocks This Year?",
       "source": "Yahoo",
@@ -1178,17 +1201,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Pick: APA"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Another coffeehouse files for Chapter 11 as costs, prices rise",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-14T03:35:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
