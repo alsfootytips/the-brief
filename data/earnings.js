@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-15T05:54:53+00:00",
+  "generated_at": "2026-09-15T11:14:11+00:00",
   "by_date": {
     "2026-09-15": [
       {
@@ -917,6 +917,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "IDT",
+        "date": "2026-09-28",
+        "hour": "",
+        "eps_estimate": 0.9898,
+        "revenue_estimate": 322190000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "INEO",
         "date": "2026-09-28",
         "hour": "",
@@ -1082,6 +1090,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TRAK",
+        "date": "2026-09-28",
+        "hour": "amc",
+        "eps_estimate": 0.0918,
+        "revenue_estimate": 6018000,
         "is_watchlist": false
       },
       {
