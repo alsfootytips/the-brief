@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-16T21:55:31+00:00",
+  "generated_at": "2026-09-16T23:59:49+00:00",
   "by_date": {
     "2026-09-16": [
       {
@@ -407,7 +407,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CTAS",
         "date": "2026-09-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.375,
         "revenue_estimate": 3037224828,
         "is_watchlist": false
@@ -415,7 +415,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FUL",
         "date": "2026-09-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.4833,
         "revenue_estimate": 957673627,
         "is_watchlist": false
@@ -455,7 +455,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PAYX",
         "date": "2026-09-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.3472,
         "revenue_estimate": 1659479687,
         "is_watchlist": false
