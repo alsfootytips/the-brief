@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-09-17T18:36:13.028232+00:00",
+  "generated_at": "2026-09-17T21:47:28.827281+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 4.95,
-      "change_pct_1d": -1.22,
-      "change_pct_1w": -0.6
+      "change_pct_1d": -1.18,
+      "change_pct_1w": -0.56
     },
     "^FVX": {
       "name": "5Y Treasury yield",
       "value": 4.8,
-      "change_pct_1d": -1.23,
-      "change_pct_1w": 0.17
+      "change_pct_1d": -1.19,
+      "change_pct_1w": 0.21
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -21,39 +21,39 @@ window.theBriefMacro = {
     },
     "^TYX": {
       "name": "30Y Treasury yield",
-      "value": 5.29,
-      "change_pct_1d": -1.03,
-      "change_pct_1w": -1.12
+      "value": 5.3,
+      "change_pct_1d": -0.99,
+      "change_pct_1w": -1.08
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 15.53,
-      "change_pct_1d": -12.31,
-      "change_pct_1w": -1.96
+      "value": 15.44,
+      "change_pct_1d": -12.82,
+      "change_pct_1w": -2.53
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4398.5,
-      "change_pct_1d": 0.25,
-      "change_pct_1w": -0.24
+      "value": 4380.6,
+      "change_pct_1d": -0.16,
+      "change_pct_1w": -0.64
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 101.83,
-      "change_pct_1d": -0.59,
-      "change_pct_1w": 1.78
+      "value": 101.09,
+      "change_pct_1d": -1.31,
+      "change_pct_1w": 1.04
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 100.25,
-      "change_pct_1d": -0.05,
-      "change_pct_1w": 1.15
+      "value": 100.22,
+      "change_pct_1d": -0.09,
+      "change_pct_1w": 1.11
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 76567.41,
-      "change_pct_1d": 0.55,
-      "change_pct_1w": -0.35
+      "value": 76423.72,
+      "change_pct_1d": 0.36,
+      "change_pct_1w": -0.54
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 98,
