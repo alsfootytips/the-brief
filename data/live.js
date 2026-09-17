@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-17T23:50:02.997673+00:00",
+  "generated_at": "2026-09-17T23:56:27.643094+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 3.34,
-      "price": 216.37,
+      "change_pct": 3.31,
+      "price": 216.3,
       "is_watchlist": true,
-      "timestamp": "2026-09-17T23:50:02.766348+00:00",
+      "timestamp": "2026-09-17T23:56:27.641227+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -3.85,
       "price": 80.14,
       "is_watchlist": true,
-      "timestamp": "2026-09-17T23:50:02.766338+00:00",
+      "timestamp": "2026-09-17T23:56:27.641220+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,13 +29,35 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 6.22,
-      "price": 544.36,
+      "change_pct": 6.37,
+      "price": 545.14,
       "is_watchlist": true,
-      "timestamp": "2026-09-17T23:50:02.766328+00:00",
+      "timestamp": "2026-09-17T23:56:27.641216+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-17T23:53:07+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crude oil posts back-to-back losses as Saudi supply outlook improves",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4644142-crude-oil-posts-back-to-back-losses-as-saudi-supply-outlook-improves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-17T23:50:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -255,17 +277,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4644135-marvel-biosciences-announces-nonbrokered-private-placement-for-up-to-3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-17T21:29:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold futures turn higher as yields and oil prices decline",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4644124-gold-futures-turn-higher-as-yields-and-oil-prices-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-17T21:25:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -591,17 +602,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-17T16:59:43+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-17T16:48:00+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {

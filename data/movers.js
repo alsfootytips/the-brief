@@ -1,11 +1,11 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-17T23:50:02.764551+00:00",
+  "generated_at": "2026-09-17T23:56:27.640164+00:00",
   "gainers": [
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 544.36,
-      "change_pct": 6.22,
+      "price": 545.14,
+      "change_pct": 6.37,
       "volume_ratio": 1.27,
       "is_watchlist": true,
       "is_index": false,
@@ -16,8 +16,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 216.37,
-      "change_pct": 3.34,
+      "price": 216.3,
+      "change_pct": 3.31,
       "volume_ratio": 1.91,
       "is_watchlist": true,
       "is_index": false,
@@ -28,8 +28,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 219.23,
-      "change_pct": 2.49,
+      "price": 219.15,
+      "change_pct": 2.46,
       "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": false,
@@ -84,10 +84,22 @@ window.theBriefMovers = {
       "move_reason": "News: \"Dollar General Debuts Exclusive Simply for You by Hallmark\u00ae Holiday 2026 Collection\""
     },
     {
+      "ticker": "META",
+      "name": "META",
+      "price": 681.49,
+      "change_pct": 1.21,
+      "volume_ratio": 0.89,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "MSFT",
       "name": "MSFT",
-      "price": 496.04,
-      "change_pct": 1.17,
+      "price": 496.08,
+      "change_pct": 1.18,
       "volume_ratio": 0.99,
       "is_watchlist": false,
       "is_index": false,
@@ -104,18 +116,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
-      "move_reason": ""
-    },
-    {
-      "ticker": "META",
-      "name": "META",
-      "price": 680.86,
-      "change_pct": 1.12,
-      "volume_ratio": 0.89,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -194,7 +194,7 @@ window.theBriefMovers = {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 14.29,
-      "change_pct": -1.41,
+      "change_pct": -1.38,
       "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": false,
@@ -203,16 +203,16 @@ window.theBriefMovers = {
       "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
     },
     {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 32.05,
-      "change_pct": -0.9,
-      "volume_ratio": 0.98,
-      "is_watchlist": true,
+      "ticker": "SOFI",
+      "name": "SOFI",
+      "price": 16.73,
+      "change_pct": -0.65,
+      "volume_ratio": 1.07,
+      "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": ""
     },
     {
       "ticker": "PWR",
@@ -227,18 +227,6 @@ window.theBriefMovers = {
       "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
     },
     {
-      "ticker": "SOFI",
-      "name": "SOFI",
-      "price": 16.74,
-      "change_pct": -0.59,
-      "volume_ratio": 1.07,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLC",
       "name": "Communication Services Select",
       "price": 112.35,
@@ -248,6 +236,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 348.0,
+      "change_pct": -0.16,
+      "volume_ratio": 1.2,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Texas Pacific Land (TPL) Dropped, What Is Driving Attention Now?\""
     },
     {
       "ticker": "XLF",
@@ -263,8 +263,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 59.35,
-      "change_pct": -0.02,
+      "price": 59.34,
+      "change_pct": -0.03,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
@@ -277,8 +277,8 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 544.36,
-      "change_pct": 6.22,
+      "price": 545.14,
+      "change_pct": 6.37,
       "volume_ratio": 1.27,
       "is_watchlist": true,
       "is_index": false,
@@ -325,8 +325,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 925.82,
-      "change_pct": 0.08,
+      "price": 926.25,
+      "change_pct": 0.13,
       "volume_ratio": 1.2,
       "is_watchlist": true,
       "is_index": false,
@@ -349,8 +349,8 @@ window.theBriefMovers = {
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "price": 216.37,
-      "change_pct": 3.34,
+      "price": 216.3,
+      "change_pct": 3.31,
       "volume_ratio": 1.91,
       "is_watchlist": true,
       "is_index": false,
@@ -361,8 +361,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 219.23,
-      "change_pct": 2.49,
+      "price": 219.15,
+      "change_pct": 2.46,
       "volume_ratio": 0.93,
       "is_watchlist": true,
       "is_index": false,
@@ -373,8 +373,8 @@ window.theBriefMovers = {
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 32.05,
-      "change_pct": -0.9,
+      "price": 32.34,
+      "change_pct": 0.0,
       "volume_ratio": 0.98,
       "is_watchlist": true,
       "is_index": false,
@@ -385,8 +385,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 59.35,
-      "change_pct": -0.02,
+      "price": 59.34,
+      "change_pct": -0.03,
       "volume_ratio": 0.9,
       "is_watchlist": true,
       "is_index": false,
@@ -409,8 +409,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 348.66,
-      "change_pct": 0.03,
+      "price": 348.0,
+      "change_pct": -0.16,
       "volume_ratio": 1.2,
       "is_watchlist": true,
       "is_index": false,
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 14.29,
-      "change_pct": -1.41,
+      "change_pct": -1.38,
       "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": false,
@@ -604,7 +604,7 @@ window.theBriefMovers = {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 14.29,
-      "change_pct": -1.41,
+      "change_pct": -1.38,
       "score": 9.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -690,8 +690,8 @@ window.theBriefMovers = {
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "price": 32.05,
-      "change_pct": -0.9,
+      "price": 32.34,
+      "change_pct": 0.0,
       "score": 5.0,
       "signals": [
         "3 news items in the last 3 days",
@@ -714,16 +714,16 @@ window.theBriefMovers = {
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 544.36,
-      "change_pct": 6.22,
+      "price": 545.14,
+      "change_pct": 6.37,
       "score": 5.0,
       "signals": [
-        "Moved +6.22% \u2014 a 2.0\u03c3 move vs typical 3.1% daily vol",
+        "Moved +6.37% \u2014 a 2.0\u03c3 move vs typical 3.1% daily vol",
         "3 news items in the last 3 days",
         "10 insider sells vs 0 buys (last 90 days)"
       ],
       "reasons": [
-        "Moved +6.22% \u2014 a 2.0\u03c3 move vs typical 3.1% daily vol",
+        "Moved +6.37% \u2014 a 2.0\u03c3 move vs typical 3.1% daily vol",
         "3 news items in the last 3 days",
         "10 insider sells vs 0 buys (last 90 days)"
       ],
@@ -762,8 +762,8 @@ window.theBriefMovers = {
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "price": 348.66,
-      "change_pct": 0.03,
+      "price": 348.0,
+      "change_pct": -0.16,
       "score": 4.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -786,8 +786,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 59.35,
-      "change_pct": -0.02,
+      "price": 59.34,
+      "change_pct": -0.03,
       "score": 4.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -810,8 +810,8 @@ window.theBriefMovers = {
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 219.23,
-      "change_pct": 2.49,
+      "price": 219.15,
+      "change_pct": 2.46,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
@@ -855,8 +855,8 @@ window.theBriefMovers = {
     {
       "ticker": "GEV",
       "name": "GE Vernova",
-      "price": 925.82,
-      "change_pct": 0.08,
+      "price": 926.25,
+      "change_pct": 0.13,
       "score": 3.5,
       "signals": [
         "3 news items in the last 3 days",
