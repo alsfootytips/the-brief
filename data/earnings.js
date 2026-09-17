@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-17T04:53:46+00:00",
+  "generated_at": "2026-09-17T09:51:21+00:00",
   "by_date": {
     "2026-09-17": [
       {
@@ -257,11 +257,11 @@ window.theBriefEarnings = {
     ],
     "2026-09-22": [
       {
-        "ticker": "APOG",
+        "ticker": "AYTU",
         "date": "2026-09-22",
-        "hour": "",
-        "eps_estimate": 0.6426,
-        "revenue_estimate": 366653616,
+        "hour": "amc",
+        "eps_estimate": -0.3315,
+        "revenue_estimate": 12521520,
         "is_watchlist": false
       },
       {
@@ -987,14 +987,6 @@ window.theBriefEarnings = {
     ],
     "2026-09-29": [
       {
-        "ticker": "AYTU",
-        "date": "2026-09-29",
-        "hour": "amc",
-        "eps_estimate": -0.3315,
-        "revenue_estimate": 12521520,
-        "is_watchlist": false
-      },
-      {
         "ticker": "BTM",
         "date": "2026-09-29",
         "hour": "",
@@ -1048,14 +1040,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PRGS",
-        "date": "2026-09-29",
-        "hour": "",
-        "eps_estimate": 1.5453,
-        "revenue_estimate": 252271704,
         "is_watchlist": false
       },
       {
@@ -1170,6 +1154,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 32.2164,
         "revenue_estimate": 52104999710,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PRGS",
+        "date": "2026-09-30",
+        "hour": "",
+        "eps_estimate": 1.5453,
+        "revenue_estimate": 252271704,
         "is_watchlist": false
       },
       {
