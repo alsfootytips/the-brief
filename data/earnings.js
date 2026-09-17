@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-17T21:47:28+00:00",
+  "generated_at": "2026-09-17T23:50:02+00:00",
   "by_date": {
     "2026-09-17": [
       {
@@ -471,7 +471,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DRI",
         "date": "2026-09-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.0738,
         "revenue_estimate": 3239074454,
         "is_watchlist": false
@@ -479,7 +479,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LGCY",
         "date": "2026-09-24",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.1479,
         "revenue_estimate": 20583600,
         "is_watchlist": false
@@ -543,7 +543,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SCHL",
         "date": "2026-09-24",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -3.468,
         "revenue_estimate": 229182780,
         "is_watchlist": false
