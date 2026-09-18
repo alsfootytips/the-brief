@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-18T08:31:04+00:00",
+  "generated_at": "2026-09-18T13:07:31+00:00",
   "by_date": {
     "2026-09-18": [
       {
@@ -344,14 +344,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BSET",
-        "date": "2026-09-24",
-        "hour": "",
-        "eps_estimate": 0.1326,
-        "revenue_estimate": 84724943,
         "is_watchlist": false
       },
       {
@@ -994,6 +986,14 @@ window.theBriefEarnings = {
       }
     ],
     "2026-09-30": [
+      {
+        "ticker": "BSET",
+        "date": "2026-09-30",
+        "hour": "",
+        "eps_estimate": 0.1326,
+        "revenue_estimate": 84724943,
+        "is_watchlist": false
+      },
       {
         "ticker": "BTLN",
         "date": "2026-09-30",
