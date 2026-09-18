@@ -1,96 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-17T23:56:27+00:00",
+  "generated_at": "2026-09-18T03:39:39+00:00",
   "by_date": {
-    "2026-09-17": [
-      {
-        "ticker": "ESP",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": 0.9696,
-        "revenue_estimate": 14948000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GFLT",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GWOX",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HUHU",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "INTE",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ITOX",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JF",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "OWPC",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RAVE",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "TRT",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "WDSP",
-        "date": "2026-09-17",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-09-18": [
       {
         "ticker": "AMEN",
@@ -1329,6 +1239,24 @@ window.theBriefEarnings = {
       {
         "ticker": "TOPS",
         "date": "2026-10-01",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-10-02": [
+      {
+        "ticker": "BABB",
+        "date": "2026-10-02",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MDRX",
+        "date": "2026-10-02",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
