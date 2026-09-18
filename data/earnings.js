@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-18T21:53:58+00:00",
+  "generated_at": "2026-09-18T23:46:54+00:00",
   "by_date": {
     "2026-09-18": [
       {
@@ -405,7 +405,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MITQ",
         "date": "2026-09-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -479,7 +479,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TBN",
         "date": "2026-09-25",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1654,
         "revenue_estimate": 1843250,
         "is_watchlist": false
