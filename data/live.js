@@ -1,17 +1,28 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-18T23:46:55.038758+00:00",
+  "generated_at": "2026-09-18T23:55:10.782285+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": 3.27,
-      "price": 636.71,
+      "change_pct": 3.32,
+      "price": 637.0,
       "is_watchlist": true,
-      "timestamp": "2026-09-18T23:46:54.883658+00:00",
+      "timestamp": "2026-09-18T23:55:10.779410+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Adobe CEO Shantanu Narayen sells $31.3m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/adobe-ceo-shantanu-narayen-sells-313m-in-shares-93CH-4907995",
+      "is_watchlist": false,
+      "timestamp": "2026-09-18T23:46:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -27,6 +38,54 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exclusive-Paramount, states discuss CNN monitoring and film release commitment, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/paramount-states-discuss-cnn-monitoring-and-film-release-commitment-sources-say-4907979",
+      "is_watchlist": false,
+      "timestamp": "2026-09-18T23:42:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "US Treasury\u2019s Bessent to discuss AI, trade, rare earths with China\u2019s He, source says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/us-treasurys-bessent-plans-to-discuss-ai-and-rare-earths-with-chinas-he-source-says-4907786",
+      "is_watchlist": true,
+      "timestamp": "2026-09-18T23:36:28+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Williams-Sonoma EVP Jeffrey Howie sells $671,771 in WSM shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/williamssonoma-evp-jeffrey-howie-sells-671771-in-wsm-shares-93CH-4907993",
+      "is_watchlist": false,
+      "timestamp": "2026-09-18T23:34:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Synaptics SVP Lisa Bodensteiner sells $30,938 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/synaptics-svp-lisa-bodensteiner-sells-30938-in-stock-93CH-4907992",
+      "is_watchlist": false,
+      "timestamp": "2026-09-18T23:34:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -58,28 +117,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/insider-trading-news/revolution-medicines-officer-sells-353449-in-shares-93CH-4907988",
       "is_watchlist": false,
       "timestamp": "2026-09-18T23:30:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thornburg income builder director Kritzmire buys $6,234 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/thornburg-income-builder-director-kritzmire-buys-6234-in-stock-93CH-4907987",
-      "is_watchlist": false,
-      "timestamp": "2026-09-18T23:30:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970",
-      "is_watchlist": false,
-      "timestamp": "2026-09-18T23:30:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -119,39 +156,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-Paramount, states discuss CNN monitoring and film release commitment, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/paramount-states-discuss-cnn-monitoring-and-film-release-commitment-sources-say-4907979",
-      "is_watchlist": false,
-      "timestamp": "2026-09-18T23:24:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Progyny director Kevin Gordon sells $311,858 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/progyny-director-kevin-gordon-sells-311858-in-shares-93CH-4907983",
-      "is_watchlist": false,
-      "timestamp": "2026-09-18T23:16:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kinder Morgan VP Garthwaite sells $47,744 of common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kinder-morgan-vp-garthwaite-sells-47744-of-common-stock-93CH-4907982",
-      "is_watchlist": false,
-      "timestamp": "2026-09-18T23:15:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1144,11 +1148,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Jim Cramer on Tesla (TSLA): \u201cMy Only Solution to It Is That SpaceX Has to Buy It\u201d",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-tsla-only-164733818.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-17T16:47:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple (AAPL) Faces a $2.7 Billion UK Lawsuit over its App Tracking Rules",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-2-7-164412973.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-17T16:44:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-cuts-outlook-again-164209283.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-17T16:42:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The SEC and CFTC Say They Will Write Crypto Rules Without Congress. What Atkins and Selig Can Actually Do for XRP and Bitcoin.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/sec-cftc-write-crypto-rules-164042293.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-17T16:40:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Rackspace\u2019s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
       "is_watchlist": false,
       "timestamp": "2026-09-17T16:38:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wells Fargo starts Cipher at Overweight, sees 49.5% upside",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-starts-cipher-overweight-163845777.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-17T16:38:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1171,61 +1230,6 @@ window.theBriefLive = {
       "url": "https://finance.yahoo.com/markets/stocks/articles/deadly-amazon-amzn-cargo-plane-163256704.html",
       "is_watchlist": false,
       "timestamp": "2026-09-17T16:32:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How To Protect Yourself From The Looming AI-Stock Crash",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/etfs-and-funds/etfs/ai-stock-crash-how-to-protect-yourself-from-the-looming/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-17T16:30:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Assemblin Caverion prints \u20ac1.5B floating-rate note in bumper day for European high yield",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assemblin-caverion-prints-1-5b-162749040.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-17T16:27:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Is The Very Best Week Of The Year To Buy A House",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/very-best-week-buy-house-162614269.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-17T16:26:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Over the Past 90 Days, 38% of Altcoins Outperformed Bitcoin. These 3 Altcoins Need To Be On Your Investment Radar.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/over-past-90-days-38-162500317.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-17T16:25:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Corning Just Signed a Multibillion-Dollar Fiber Deal for AI and Broadband With Verizon. What That Means for GLW Stock.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-just-signed-multibillion-dollar-162101149.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-17T16:21:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
