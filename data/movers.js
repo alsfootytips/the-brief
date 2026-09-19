@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-19T03:25:59.213721+00:00",
+  "generated_at": "2026-09-19T08:14:02.554626+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia, SK Hynix send strong signal to Micron investors\""
+      "move_reason": "News: \"Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.\""
     },
     {
       "ticker": "SOFI",
@@ -316,7 +316,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jennison\u2019s PJSM Arrives With a Bold Promise and Almost No Track Record to Back It Up\""
+      "move_reason": "News: \"Full-Time Employment Has Been Flat For More Than 3 Years\""
     },
     {
       "ticker": "XLE",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jennison\u2019s PJSM Arrives With a Bold Promise and Almost No Track Record to Back It Up\""
+      "move_reason": "News: \"Full-Time Employment Has Been Flat For More Than 3 Years\""
     },
     {
       "ticker": "NBIS",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia, SK Hynix send strong signal to Micron investors\""
+      "move_reason": "News: \"Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.\""
     },
     {
       "ticker": "OSCR",
