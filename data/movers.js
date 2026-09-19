@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-19T18:37:27.996257+00:00",
+  "generated_at": "2026-09-19T21:03:10.489300+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn\""
+      "move_reason": "News: \"AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right...\""
     },
     {
       "ticker": "SOFI",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn\""
+      "move_reason": "News: \"AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right...\""
     },
     {
       "ticker": "OSCR",
@@ -680,7 +680,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 14.0 (cheap on absolute basis)",
+        "Forward P/E 13.8 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "reasons": [
@@ -688,7 +688,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 14.0 (cheap on absolute basis)",
+        "Forward P/E 13.8 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "tags": [

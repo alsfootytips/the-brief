@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-19T18:37:28.001342+00:00",
+  "generated_at": "2026-09-19T21:03:10.494620+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,10 +8,256 @@ window.theBriefLive = {
       "change_pct": 3.3,
       "price": 636.9,
       "is_watchlist": true,
-      "timestamp": "2026-09-19T18:37:27.998481+00:00",
+      "timestamp": "2026-09-19T21:03:10.491616+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should Investors Be Worried About an AI Bubble? Here's What History Says.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-worried-ai-bubble-heres-203500865.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:30:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nashville\u2019s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:20:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:17:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Will worries about AI Doom end the AI Boom? BCA answers",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/will-worries-about-ai-doom-end-the-ai-boom-bca-answers-4908120",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:16:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:13:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/analyst-explains-why-you-should-avoid-owning-nike-stock-despite-massive-pullback-4908119",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:10:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T20:09:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T19:55:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T19:52:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Citi expects hawkish Fed to slow non-AI economy",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/citi-expects-hawkish-fed-to-slow-nonai-economy-4908117",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T19:46:14+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=431029b92c8490d45c6024e3dae7e33feaf5d30ae4ebbbfbc6df7a0f7378c14f",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T19:32:52+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c284610a5b27eddceeb756fc9ce25466241e30b9bea78f8ef94b433e8d75c2b3",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T19:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T19:08:27+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/weil-gotshal--manges-eyes-merger-options-after-rainmakers-exit-bloomberg-news-reports-4908114",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T19:06:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin tests $82,178 resistance with RSI overbought: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T19:01:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "It\u2019s almost impossible to sell a condo unit these days: \u2018I feel trapped\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T18:57:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX Nasdaq 100 weight to jump to 2.82% in quarterly rebalance -Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-nasdaq-100-weight-to-jump-to-282-in-quarterly-rebalance-bloomberg-4908113",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T18:56:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7c88893e45fbbc500a296482ce0c87e9709b092bc2dcd956c578f26ddcad785",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T18:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "90% of retirees are making this miscalculation with their savings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T18:40:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Treasury\u2019s Bessent, China\u2019s He to meet on Sunday at JPMorgan headquarters",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-sunday-at-jpmorgan-headquarters-4908112",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T18:36:35+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Boeing Isn't Perfect -- but It's Still a Compelling Value Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7e56d2a3c270701e559def49dd593db7b276dda9549807d118980f9c667f30f",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T18:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -27,79 +273,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:21:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brazil\u2019s Petrobras board approves joining diesel subsidy program",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908111",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:18:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump calls for plans to form federal \u2019AI Force\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-calla-for-plans-to-form-federal-ai-force-4908110",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:14:18+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:12:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
       "is_watchlist": false,
       "timestamp": "2026-09-19T18:12:15+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dividends vs. an Annuity: Which Turns $590,000 Into More Monthly Income for Life?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-590-181214858.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:12:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BJ\u2019s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:09:06+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -120,57 +299,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:00:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The future of retirement? Work until you die.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-19T17:53:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64c3fcfede22ae8b72a9013fa1b9c9a9eae9a0ce0f9501bbdae5097ea16640a9",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T17:48:41+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T17:48:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T17:48:13+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -187,41 +321,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Unexpected Rival Threatening to Shake Up CoreWeave's Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ce7ad7f92362626804d7cfd9346154469c9470f9c0bf8c901c3213700379fc5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T17:47:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Thinking of the Impact Fed Rate Hikes Will Have on Your Portfolio? It's Time to Consider Buying This Perennial Winner That Turned $10,000 Into $86,000 in 10 Years.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7cdb1a54b2d67725ed85f613e325001ad876593b9f047bd623b4303f120449d",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T17:43:00+00:00",
-      "relevance_score": 5.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Does This $40.3 Million Birwood Heights Financing Arrangement Benefit Marcus & Millichap\u2019s (MMI)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T17:39:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "SpaceX, Google, Anthropic, OpenAI face antitrust lawsuit over AI slowdown",
       "source": "Seeking Alpha Market",
@@ -231,17 +330,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T17:24:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -314,17 +402,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hormuz oil flows hit 6-month high as U.S. mine clearance pays off, CENTCOM says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T16:22:11+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "It\u2019s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
@@ -358,61 +435,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T15:57:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why the Fed hiked into a supply shock?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/why-the-fed-hiked-into-a-supply-shock-4908102",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T15:50:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ares Management weighs minority deal with Copenhagen Infrastructure Partners",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ares-management-weighs-minority-deal-with-copenhagen-infrastructure-partners-4908100",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T15:33:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/french-finance-ministry-expects-record-debt-in-2026-reaching-nearly-120-of-gdp-4908097",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T15:12:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Insider trades: CrowdStrike, Uber, Snowflake among notable names",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4644490-insider-trades-crowdstrike-uber-snowflake-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -430,17 +452,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-19T14:31:31+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T13:48:04+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -633,18 +644,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Nvidia-backed Nscale Wants to Ride the AI Infrastructure Boom to Wall Street: Files for NYSE IPO",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b601e0618b377bbd981a211a648501cf3450ded5e5e0546fc0f704f9b211789e",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T05:12:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Nvidia-backed Nscale Wants to Ride the AI Infrastructure Boom to Wall Street: Files for NYSE IPO",
       "source": "Benzinga",
@@ -704,7 +703,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Smoke visible near Riyadh airport after Saudi Arabia issues all-clear - Reuters",
+      "headline": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNnM0NScnlDOXNDY25xQjhZVlRHUUtMOEV3YVZSOW5xekdVelcycGI1VHl3dWpqVGhNM2s1N05NamZxV0hoNVBFN204OHM5dVlQemMySkJGMlpCaURybUY4TVZfd0RDUUxzb3RTeWJVVEI4blFQZFhJekptSHRFUVdqb1pDai1VQ1hPS1JHWk92MEpZYWtESDduUmpwUEg4Nzc4bFp3VDQzM2JMTnRZXzgzbVBvUDk0clU4a3dHMlhuQk0?oc=5",
       "is_watchlist": false,
