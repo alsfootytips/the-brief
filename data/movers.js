@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-19T16:05:02.314788+00:00",
+  "generated_at": "2026-09-19T18:37:27.996257+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
+      "move_reason": "News: \"Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market\""
     },
     {
       "ticker": "NBIS",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
+      "move_reason": "News: \"Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn\""
     },
     {
       "ticker": "SOFI",
@@ -316,7 +316,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Fed Hikes: Enhancing My 5.2% Yielding Fixed Income Portfolio\""
+      "move_reason": "News: \"The 1-Minute Market Report September 19, 2026\""
     },
     {
       "ticker": "XLE",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
+      "move_reason": "News: \"Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market\""
     },
     {
       "ticker": "APA",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Fed Hikes: Enhancing My 5.2% Yielding Fixed Income Portfolio\""
+      "move_reason": "News: \"The 1-Minute Market Report September 19, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
+      "move_reason": "News: \"Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn\""
     },
     {
       "ticker": "OSCR",
@@ -680,7 +680,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 13.8 (cheap on absolute basis)",
+        "Forward P/E 14.0 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "reasons": [
@@ -688,7 +688,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 13.8 (cheap on absolute basis)",
+        "Forward P/E 14.0 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "tags": [
