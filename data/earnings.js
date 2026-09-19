@@ -1,32 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-18T23:55:10+00:00",
+  "generated_at": "2026-09-19T03:25:59+00:00",
   "by_date": {
-    "2026-09-18": [
-      {
-        "ticker": "AMEN",
-        "date": "2026-09-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BIOQ",
-        "date": "2026-09-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UPXI",
-        "date": "2026-09-18",
-        "hour": "",
-        "eps_estimate": -0.1224,
-        "revenue_estimate": 7723950,
-        "is_watchlist": false
-      }
-    ],
     "2026-09-21": [
       {
         "ticker": "AIR",
