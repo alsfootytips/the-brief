@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-19T08:14:02+00:00",
+  "generated_at": "2026-09-19T12:32:37+00:00",
   "by_date": {
     "2026-09-21": [
       {
@@ -790,6 +790,14 @@ window.theBriefEarnings = {
       },
       {
         "ticker": "NTCL",
+        "date": "2026-09-28",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NTWK",
         "date": "2026-09-28",
         "hour": "",
         "eps_estimate": null,

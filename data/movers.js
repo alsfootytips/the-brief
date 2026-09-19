@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-19T08:14:02.554626+00:00",
+  "generated_at": "2026-09-19T12:32:37.547317+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.\""
+      "move_reason": "News: \"Here's Why Walmart Won't Reclaim a $1 Trillion Market Cap Anytime Soon\""
     },
     {
       "ticker": "SOFI",
@@ -152,7 +152,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health Announces Thrive Capital\u2019s Completion of Oscar Health Common Stock Distributi...\""
+      "move_reason": "News: \"Oscar Health (OSCR) Targets Doubling EPS By 2027\""
     },
     {
       "ticker": "SPY",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. Trade Desk: Which Technology Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"Trade Desk (TTD) Expands Healthcare Data Ties, Is The Stock Still Undervalued?\""
     },
     {
       "ticker": "XLB",
@@ -307,18 +307,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "IWM",
-      "name": "iShares Russell 2000 ETF",
-      "price": 284.05,
-      "change_pct": -0.48,
-      "volume_ratio": 1.18,
-      "is_watchlist": true,
-      "is_index": true,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Full-Time Employment Has Been Flat For More Than 3 Years\""
-    },
-    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.26,
@@ -328,7 +316,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"More Sectors Join The Oversold Club\""
+      "move_reason": "News: \"Federal Reserve Rate Hike: One And Done?\""
     },
     {
       "ticker": "XLY",
@@ -339,6 +327,18 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 110.3,
+      "change_pct": -0.29,
+      "volume_ratio": 1.11,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -404,18 +404,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration\""
     },
     {
-      "ticker": "IWM",
-      "name": "iShares Russell 2000 ETF",
-      "price": 284.05,
-      "change_pct": -0.48,
-      "volume_ratio": 1.18,
-      "is_watchlist": true,
-      "is_index": true,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Full-Time Employment Has Been Flat For More Than 3 Years\""
-    },
-    {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 222.23,
@@ -437,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.\""
+      "move_reason": "News: \"Here's Why Walmart Won't Reclaim a $1 Trillion Market Cap Anytime Soon\""
     },
     {
       "ticker": "OSCR",
@@ -449,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health Announces Thrive Capital\u2019s Completion of Oscar Health Common Stock Distributi...\""
+      "move_reason": "News: \"Oscar Health (OSCR) Targets Doubling EPS By 2027\""
     },
     {
       "ticker": "OXY",
@@ -497,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. Trade Desk: Which Technology Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"Trade Desk (TTD) Expands Healthcare Data Ties, Is The Stock Still Undervalued?\""
     },
     {
       "ticker": "XLE",
@@ -509,7 +497,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"More Sectors Join The Oversold Club\""
+      "move_reason": "News: \"Federal Reserve Rate Hike: One And Done?\""
     }
   ],
   "indices": [
@@ -522,17 +510,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
-    },
-    {
-      "ticker": "IWM",
-      "name": "iShares Russell 2000 ETF",
-      "price": 284.05,
-      "change_pct": -0.48,
-      "volume_ratio": 1.18,
-      "is_watchlist": true,
-      "is_index": true,
-      "is_sector": false,
-      "market_state": null
     },
     {
       "ticker": "QQQ",

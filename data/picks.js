@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-09-19T08:14:02.698269+00:00",
+  "generated_at": "2026-09-19T12:32:37.696635+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -95,9 +95,9 @@ window.theBriefPicks = {
       "status": "expired",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 284.05,
-      "current_pct": 0.6,
-      "change_pct_today": -0.48,
+      "current_price": 285.29,
+      "current_pct": 1.04,
+      "change_pct_today": -0.65,
       "name": "iShares Russell 2000 ETF",
       "news_count": 3,
       "days_elapsed": 56,
