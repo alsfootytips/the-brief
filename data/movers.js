@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-19T12:32:37.547317+00:00",
+  "generated_at": "2026-09-19T16:05:02.314788+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Powerfleet to Attend the 19th Annual Barrington Research Virtual Fall Investment Conferenc...\""
+      "move_reason": "News: \"Quanta Services (PWR) Adds Ellen Rubin To Board As AI Power Demand Builds\""
     },
     {
       "ticker": "AMD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy A...\""
+      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
     },
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Offers Fresh Clue About AI's Spending Boom\""
+      "move_reason": "News: \"Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
     },
     {
       "ticker": "CRWV",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why Walmart Won't Reclaim a $1 Trillion Market Cap Anytime Soon\""
+      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
     },
     {
       "ticker": "SOFI",
@@ -307,6 +307,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 284.05,
+      "change_pct": -0.48,
+      "volume_ratio": 1.18,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"The Fed Hikes: Enhancing My 5.2% Yielding Fixed Income Portfolio\""
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.26,
@@ -328,18 +340,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 110.3,
-      "change_pct": -0.29,
-      "volume_ratio": 1.11,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy A...\""
+      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
     },
     {
       "ticker": "APA",
@@ -404,6 +404,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration\""
     },
     {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 284.05,
+      "change_pct": -0.48,
+      "volume_ratio": 1.18,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"The Fed Hikes: Enhancing My 5.2% Yielding Fixed Income Portfolio\""
+    },
+    {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 222.23,
@@ -413,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Offers Fresh Clue About AI's Spending Boom\""
+      "move_reason": "News: \"Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
     },
     {
       "ticker": "NVDA",
@@ -425,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why Walmart Won't Reclaim a $1 Trillion Market Cap Anytime Soon\""
+      "move_reason": "News: \"Is Arm Holdings Still a Hidden Winner of the AI Chip Race?\""
     },
     {
       "ticker": "OSCR",
@@ -461,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Powerfleet to Attend the 19th Annual Barrington Research Virtual Fall Investment Conferenc...\""
+      "move_reason": "News: \"Quanta Services (PWR) Adds Ellen Rubin To Board As AI Power Demand Builds\""
     },
     {
       "ticker": "TPL",
@@ -510,6 +522,17 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
+    },
+    {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 284.05,
+      "change_pct": -0.48,
+      "volume_ratio": 1.18,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null
     },
     {
       "ticker": "QQQ",
@@ -657,7 +680,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 14.0 (cheap on absolute basis)",
+        "Forward P/E 13.8 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "reasons": [
@@ -665,7 +688,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 14.0 (cheap on absolute basis)",
+        "Forward P/E 13.8 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "tags": [
