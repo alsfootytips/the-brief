@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-19T21:03:10.489300+00:00",
+  "generated_at": "2026-09-19T23:05:56.398684+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Adds Ellen Rubin To Board As AI Power Demand Builds\""
+      "move_reason": "News: \"How Investors May Respond To Quanta Services (PWR) Adding AI Cloud Veteran Ellen Rubin To ...\""
     },
     {
       "ticker": "AMD",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market\""
+      "move_reason": "News: \"Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK ...\""
     },
     {
       "ticker": "NBIS",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right...\""
+      "move_reason": "News: \"If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation\""
     },
     {
       "ticker": "SOFI",
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 143.32,
       "change_pct": -0.58,
-      "volume_ratio": 0.83,
+      "volume_ratio": 0.95,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market\""
+      "move_reason": "News: \"Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK ...\""
     },
     {
       "ticker": "APA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right...\""
+      "move_reason": "News: \"If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation\""
     },
     {
       "ticker": "OSCR",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Adds Ellen Rubin To Board As AI Power Demand Builds\""
+      "move_reason": "News: \"How Investors May Respond To Quanta Services (PWR) Adding AI Cloud Veteran Ellen Rubin To ...\""
     },
     {
       "ticker": "TPL",
@@ -680,7 +680,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 13.8 (cheap on absolute basis)",
+        "Forward P/E 14.0 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "reasons": [
@@ -688,7 +688,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 13.8 (cheap on absolute basis)",
+        "Forward P/E 14.0 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "tags": [

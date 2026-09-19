@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-19T21:03:10.494620+00:00",
+  "generated_at": "2026-09-19T23:05:56.403710+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.3,
       "price": 636.9,
       "is_watchlist": true,
-      "timestamp": "2026-09-19T21:03:10.491616+00:00",
+      "timestamp": "2026-09-19T23:05:56.400918+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -16,12 +16,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Should Investors Be Worried About an AI Bubble? Here's What History Says.",
+      "headline": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-worried-ai-bubble-heres-203500865.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
       "is_watchlist": false,
-      "timestamp": "2026-09-19T20:35:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-09-19T22:50:00+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -31,9 +31,79 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
       "is_watchlist": false,
-      "timestamp": "2026-09-19T20:30:26+00:00",
+      "timestamp": "2026-09-19T22:06:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6c75e1916d2fb7088dc968ab940f002a113dc17ce54df6acc445121648294f1",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T21:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI safety efforts will require more compute, not less: experts",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ai-safety-efforts-will-require-more-compute-not-less-experts-4908122",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T21:29:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Cathie Wood Never Sold Ark's Core Stake in Tesla Despite the Stock Trailing Every Other Magnificent Seven Name in 2026. Here's Why Her Multi-Year Conviction Hasn't Wavered.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7f592d30f5a57fd96f1a0e8a799c26aeeb8c2a1a3b50a11b64db46fb753ac4c",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T21:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908121",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "How to Earn $600 a Month From the Pipeline Stocks Powering AI Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8b39f62afbc065d7f14b5cfdf0a76117d0931a57cfe6ce16c9e154033593806",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T20:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4c0f2c2b84a8d7451e2891debfae50698eb6af3372638e99e843a12c75546bb",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T20:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -78,6 +148,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-19T20:13:50+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "How Investors May Respond To Quanta Services (PWR) Adding AI Cloud Veteran Ellen Rubin To Its Board",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1405ce90cea2e6c28a25219ff778d7939850bd84e251e857b41466150d423a9",
+      "is_watchlist": true,
+      "timestamp": "2026-09-19T20:10:54+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -148,29 +230,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c284610a5b27eddceeb756fc9ce25466241e30b9bea78f8ef94b433e8d75c2b3",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T19:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T19:08:27+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports",
       "source": "Investing.com News",
@@ -205,29 +264,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SpaceX Nasdaq 100 weight to jump to 2.82% in quarterly rebalance -Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-nasdaq-100-weight-to-jump-to-282-in-quarterly-rebalance-bloomberg-4908113",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:56:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7c88893e45fbbc500a296482ce0c87e9709b092bc2dcd956c578f26ddcad785",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T18:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "90% of retirees are making this miscalculation with their savings",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
@@ -235,29 +271,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-19T18:40:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US Treasury\u2019s Bessent, China\u2019s He to meet on Sunday at JPMorgan headquarters",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-sunday-at-jpmorgan-headquarters-4908112",
-      "is_watchlist": false,
-      "timestamp": "2026-09-19T18:36:35+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Boeing Isn't Perfect -- but It's Still a Compelling Value Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7e56d2a3c270701e559def49dd593db7b276dda9549807d118980f9c667f30f",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T18:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -456,18 +469,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2d93f6fb9f59283664d404a56f946de9f98e383522f57f627b707c4fc87fccf",
-      "is_watchlist": true,
-      "timestamp": "2026-09-19T13:37:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Student loan borrowers exiting SAVE may face sharply higher payments if they don't take action soon",
       "source": "CNBC Top",
@@ -626,6 +627,18 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-19T08:20:38+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -923,17 +936,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/what-it-will-take-for-us-to-buy-the-dip-in-dupont-plus-profit-taking-hits-cyber-stocks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-18T18:32:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
@@ -1013,6 +1015,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-18T16:31:03+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius Offers Fresh Clue About AI's Spending Boom",
       "source": "Yahoo",
@@ -1042,18 +1055,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=262847d09bc69a1dd50d62ea86737ccb25501b912d94120c2c243239314fd888",
       "is_watchlist": true,
       "timestamp": "2026-09-18T15:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "KB Home to Report Q3 Earnings: Here's What Investors Must Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb5e711c428c23d836eca698c43c76c050ba26da0d1ad107837f01f753ba2a84",
-      "is_watchlist": true,
-      "timestamp": "2026-09-18T14:56:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
