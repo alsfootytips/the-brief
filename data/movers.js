@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-20T06:17:27.525554+00:00",
+  "generated_at": "2026-09-20T11:43:27.885431+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration\""
+      "move_reason": "News: \"How GE\u2019s Vineyard Wind Truce and Engine Supply Deal Will Impact General Electric (GE) Inve...\""
     },
     {
       "ticker": "NVDA",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone ...\""
+      "move_reason": "News: \"Should You Buy Micron Stock Before Its Next Earnings Report?\""
     },
     {
       "ticker": "SOFI",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration\""
+      "move_reason": "News: \"How GE\u2019s Vineyard Wind Truce and Engine Supply Deal Will Impact General Electric (GE) Inve...\""
     },
     {
       "ticker": "IWM",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone ...\""
+      "move_reason": "News: \"Should You Buy Micron Stock Before Its Next Earnings Report?\""
     },
     {
       "ticker": "OSCR",
