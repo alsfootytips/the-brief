@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-20T20:43:58.797880+00:00",
+  "generated_at": "2026-09-20T22:43:46.574786+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Investors May Respond To Quanta Services (PWR) Adding AI Cloud Veteran Ellen Rubin To ...\""
+      "move_reason": "News: \"Buy Utilities At 16x While Demand Climbs\""
     },
     {
       "ticker": "AMD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
+      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
     },
     {
       "ticker": "CRWV",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Boom Has A New Problem: The Cost Of Capital\""
+      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
     },
     {
       "ticker": "TPL",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto...\""
+      "move_reason": "News: \"The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34...\""
     },
     {
       "ticker": "SOFI",
@@ -328,7 +328,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Trump To Address UN As Europe\u2019s Energy Prices Jump On Saudi Oil Export Disruptions\""
+      "move_reason": "News: \"Buy Utilities At 16x While Demand Climbs\""
     },
     {
       "ticker": "XLY",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Boom Has A New Problem: The Cost Of Capital\""
+      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
     },
     {
       "ticker": "DG",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
+      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
     },
     {
       "ticker": "NVDA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto...\""
+      "move_reason": "News: \"The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34...\""
     },
     {
       "ticker": "OSCR",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Investors May Respond To Quanta Services (PWR) Adding AI Cloud Veteran Ellen Rubin To ...\""
+      "move_reason": "News: \"Buy Utilities At 16x While Demand Climbs\""
     },
     {
       "ticker": "TPL",
@@ -509,7 +509,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Trump To Address UN As Europe\u2019s Energy Prices Jump On Saudi Oil Export Disruptions\""
+      "move_reason": "News: \"Buy Utilities At 16x While Demand Climbs\""
     }
   ],
   "indices": [
