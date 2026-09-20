@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-19T23:05:56.398684+00:00",
+  "generated_at": "2026-09-20T01:10:23.725524+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK ...\""
+      "move_reason": "News: \"Unpacking the Stock Market's Coiled Spring Set Up\""
     },
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying\""
     },
     {
       "ticker": "TPL",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation\""
+      "move_reason": "News: \"I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.\""
     },
     {
       "ticker": "SOFI",
@@ -152,7 +152,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health (OSCR) Targets Doubling EPS By 2027\""
+      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow\""
     },
     {
       "ticker": "SPY",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK ...\""
+      "move_reason": "News: \"Unpacking the Stock Market's Coiled Spring Set Up\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying\""
     },
     {
       "ticker": "DG",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation\""
+      "move_reason": "News: \"I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.\""
     },
     {
       "ticker": "OSCR",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health (OSCR) Targets Doubling EPS By 2027\""
+      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow\""
     },
     {
       "ticker": "OXY",
@@ -680,7 +680,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 14.0 (cheap on absolute basis)",
+        "Forward P/E 13.8 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "reasons": [
@@ -688,7 +688,7 @@ window.theBriefMovers = {
         "1 SEC filing in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "+7 analyst sell recs added recently",
-        "Forward P/E 14.0 (cheap on absolute basis)",
+        "Forward P/E 13.8 (cheap on absolute basis)",
         "-74.3% from 52-week high"
       ],
       "tags": [
@@ -837,12 +837,12 @@ window.theBriefMovers = {
       "change_pct": -0.83,
       "score": 4.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 14.6 (cheap on absolute basis)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 14.6 (cheap on absolute basis)"
       ],
