@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-20T18:00:52.813712+00:00",
+  "generated_at": "2026-09-20T20:43:58.797880+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks\""
+      "move_reason": "News: \"Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix\""
     },
     {
       "ticker": "NBIS",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova\u2019s (GEV) $200 Billion Backlog is Coming Sooner than Expected\""
+      "move_reason": "News: \"Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "NVDA",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: The Best-Performing Big Bank Stock of the Next 2 Years Is Not JPMorgan Chase\""
+      "move_reason": "News: \"Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto...\""
     },
     {
       "ticker": "SOFI",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks\""
+      "move_reason": "News: \"Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix\""
     },
     {
       "ticker": "APA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova\u2019s (GEV) $200 Billion Backlog is Coming Sooner than Expected\""
+      "move_reason": "News: \"Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "IWM",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: The Best-Performing Big Bank Stock of the Next 2 Years Is Not JPMorgan Chase\""
+      "move_reason": "News: \"Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto...\""
     },
     {
       "ticker": "OSCR",
