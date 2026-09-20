@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-20T01:10:23.725524+00:00",
+  "generated_at": "2026-09-20T06:17:27.525554+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Unpacking the Stock Market's Coiled Spring Set Up\""
+      "move_reason": "News: \"Jim Cramer sends a blunt message to AMD stock investors\""
     },
     {
       "ticker": "NBIS",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.\""
+      "move_reason": "News: \"This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone ...\""
     },
     {
       "ticker": "SOFI",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Unpacking the Stock Market's Coiled Spring Set Up\""
+      "move_reason": "News: \"Jim Cramer sends a blunt message to AMD stock investors\""
     },
     {
       "ticker": "APA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.\""
+      "move_reason": "News: \"This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone ...\""
     },
     {
       "ticker": "OSCR",
