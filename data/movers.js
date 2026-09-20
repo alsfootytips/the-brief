@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-20T14:54:01.754853+00:00",
+  "generated_at": "2026-09-20T18:00:52.813712+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom: 5 Reasons To Buy This Dip\""
+      "move_reason": "News: \"3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks\""
     },
     {
       "ticker": "NBIS",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
+      "move_reason": "News: \"The AI Boom Has A New Problem: The Cost Of Capital\""
     },
     {
       "ticker": "TPL",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How GE\u2019s Vineyard Wind Truce and Engine Supply Deal Will Impact General Electric (GE) Inve...\""
+      "move_reason": "News: \"GE Vernova\u2019s (GEV) $200 Billion Backlog is Coming Sooner than Expected\""
     },
     {
       "ticker": "NVDA",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is a Recession Coming in 2026? History Has Good and Bad News for Investors.\""
+      "move_reason": "News: \"Prediction: The Best-Performing Big Bank Stock of the Next 2 Years Is Not JPMorgan Chase\""
     },
     {
       "ticker": "SOFI",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ross Stores and Target Are Winning Shoppers From Rivals\""
+      "move_reason": "News: \"Dollar General CEO raises major red flag about consumers\""
     },
     {
       "ticker": "TTD",
@@ -328,7 +328,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Federal Reserve Rate Hike: One And Done?\""
+      "move_reason": "News: \"Trump To Address UN As Europe\u2019s Energy Prices Jump On Saudi Oil Export Disruptions\""
     },
     {
       "ticker": "XLY",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom: 5 Reasons To Buy This Dip\""
+      "move_reason": "News: \"3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
+      "move_reason": "News: \"The AI Boom Has A New Problem: The Cost Of Capital\""
     },
     {
       "ticker": "DG",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ross Stores and Target Are Winning Shoppers From Rivals\""
+      "move_reason": "News: \"Dollar General CEO raises major red flag about consumers\""
     },
     {
       "ticker": "GEV",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How GE\u2019s Vineyard Wind Truce and Engine Supply Deal Will Impact General Electric (GE) Inve...\""
+      "move_reason": "News: \"GE Vernova\u2019s (GEV) $200 Billion Backlog is Coming Sooner than Expected\""
     },
     {
       "ticker": "IWM",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is a Recession Coming in 2026? History Has Good and Bad News for Investors.\""
+      "move_reason": "News: \"Prediction: The Best-Performing Big Bank Stock of the Next 2 Years Is Not JPMorgan Chase\""
     },
     {
       "ticker": "OSCR",
@@ -509,7 +509,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Federal Reserve Rate Hike: One And Done?\""
+      "move_reason": "News: \"Trump To Address UN As Europe\u2019s Energy Prices Jump On Saudi Oil Export Disruptions\""
     }
   ],
   "indices": [
