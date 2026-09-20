@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-20T11:43:27.885431+00:00",
+  "generated_at": "2026-09-20T14:54:01.754853+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer sends a blunt message to AMD stock investors\""
+      "move_reason": "News: \"Broadcom: 5 Reasons To Buy This Dip\""
     },
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
+      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
     },
     {
       "ticker": "CRWV",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying\""
+      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
     },
     {
       "ticker": "TPL",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Micron Stock Before Its Next Earnings Report?\""
+      "move_reason": "News: \"Is a Recession Coming in 2026? History Has Good and Bad News for Investors.\""
     },
     {
       "ticker": "SOFI",
@@ -152,7 +152,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow\""
+      "move_reason": "News: \"3 notable business takes that flew under the radar this week\""
     },
     {
       "ticker": "SPY",
@@ -269,7 +269,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Stocks to Buy if You Think $100 Oil Will Last\""
+      "move_reason": "News: \"Berkshire Hathaway: Warren Buffett Steps Down As Chairman While Higher Rates Turn The Cash...\""
     },
     {
       "ticker": "XLP",
@@ -316,7 +316,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report September 19, 2026\""
+      "move_reason": "News: \"The S&P 500 Is Flashing The Same Warning Signs Seen In 2018 And 2022\""
     },
     {
       "ticker": "XLE",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer sends a blunt message to AMD stock investors\""
+      "move_reason": "News: \"Broadcom: 5 Reasons To Buy This Dip\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying\""
+      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
     },
     {
       "ticker": "DG",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report September 19, 2026\""
+      "move_reason": "News: \"The S&P 500 Is Flashing The Same Warning Signs Seen In 2018 And 2022\""
     },
     {
       "ticker": "NBIS",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
+      "move_reason": "News: \"Semis: Market Has Completely Misunderstood The Potential AI Slowdown\""
     },
     {
       "ticker": "NVDA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Micron Stock Before Its Next Earnings Report?\""
+      "move_reason": "News: \"Is a Recession Coming in 2026? History Has Good and Bad News for Investors.\""
     },
     {
       "ticker": "OSCR",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow\""
+      "move_reason": "News: \"3 notable business takes that flew under the radar this week\""
     },
     {
       "ticker": "OXY",
@@ -461,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Stocks to Buy if You Think $100 Oil Will Last\""
+      "move_reason": "News: \"Berkshire Hathaway: Warren Buffett Steps Down As Chairman While Higher Rates Turn The Cash...\""
     },
     {
       "ticker": "PWR",
@@ -837,12 +837,12 @@ window.theBriefMovers = {
       "change_pct": -0.83,
       "score": 4.5,
       "signals": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 14.6 (cheap on absolute basis)"
       ],
       "reasons": [
-        "2 news items in the last 3 days",
+        "3 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 14.6 (cheap on absolute basis)"
       ],

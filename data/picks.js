@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-09-20T11:43:28.037513+00:00",
+  "generated_at": "2026-09-20T14:54:01.904646+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -716,7 +716,7 @@ window.theBriefPicks = {
       "current_pct": 13.45,
       "change_pct_today": -0.83,
       "name": "Occidental Petroleum",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 42,
       "days_remaining": 0,
       "closed_at": "2026-07-31",
