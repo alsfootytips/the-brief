@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-21T00:32:41.812750+00:00",
+  "generated_at": "2026-09-21T05:31:25.277822+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge...\""
+      "move_reason": "News: \"Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks ...\""
     },
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
+      "move_reason": "News: \"Neocloud Boom: Comparing Nebius, CoreWeave, & IREN\""
     },
     {
       "ticker": "CRWV",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
+      "move_reason": "News: \"Neocloud Boom: Comparing Nebius, CoreWeave, & IREN\""
     },
     {
       "ticker": "TPL",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI's Power Bottleneck Is Here, Profiting Is The Hard Part\""
+      "move_reason": "News: \"BofA cuts to the chase on AI data center demand\""
     },
     {
       "ticker": "NVDA",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?\""
+      "move_reason": "News: \"History Says This Chip ETF Keeps Beating the S&P 500. It Has Trailed the Index Only Twice ...\""
     },
     {
       "ticker": "SOFI",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General EVP Reardon Sells 5,578 Shares\""
+      "move_reason": "News: \"Dollar General CEO says consumers making $100,000 a year don\u2019t feel like high-income shopp...\""
     },
     {
       "ticker": "TTD",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge...\""
+      "move_reason": "News: \"Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks ...\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
+      "move_reason": "News: \"Neocloud Boom: Comparing Nebius, CoreWeave, & IREN\""
     },
     {
       "ticker": "DG",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General EVP Reardon Sells 5,578 Shares\""
+      "move_reason": "News: \"Dollar General CEO says consumers making $100,000 a year don\u2019t feel like high-income shopp...\""
     },
     {
       "ticker": "GEV",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI's Power Bottleneck Is Here, Profiting Is The Hard Part\""
+      "move_reason": "News: \"BofA cuts to the chase on AI data center demand\""
     },
     {
       "ticker": "IWM",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius\u2019s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neoclou...\""
+      "move_reason": "News: \"Neocloud Boom: Comparing Nebius, CoreWeave, & IREN\""
     },
     {
       "ticker": "NVDA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?\""
+      "move_reason": "News: \"History Says This Chip ETF Keeps Beating the S&P 500. It Has Trailed the Index Only Twice ...\""
     },
     {
       "ticker": "OSCR",
