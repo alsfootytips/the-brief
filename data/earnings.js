@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-20T22:43:46+00:00",
+  "generated_at": "2026-09-21T00:32:41+00:00",
   "by_date": {
     "2026-09-21": [
       {
@@ -1239,6 +1239,128 @@ window.theBriefEarnings = {
       {
         "ticker": "MDRX",
         "date": "2026-10-02",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-10-05": [
+      {
+        "ticker": "AIO",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "EQFN",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MKC",
+        "date": "2026-10-05",
+        "hour": "bmo",
+        "eps_estimate": 0.7631,
+        "revenue_estimate": 1998747761,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MPCB",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MXE",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NCZ",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NCZ",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NFJ",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NFJ",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NIE",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PENG",
+        "date": "2026-10-05",
+        "hour": "amc",
+        "eps_estimate": 0.7844,
+        "revenue_estimate": 524737643,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SPPL",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "VCIG",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "VWFB",
+        "date": "2026-10-05",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "WEBC",
+        "date": "2026-10-05",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,

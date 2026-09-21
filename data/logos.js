@@ -1,5 +1,5 @@
 window.theBriefLogos = {
-  "generated_at": "2026-09-20T22:43:46+00:00",
+  "generated_at": "2026-09-21T00:32:41+00:00",
   "logos": {
     "AMD": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMD.png",
     "APA": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/APA.png",

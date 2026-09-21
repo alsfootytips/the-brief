@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-20T22:43:46.574786+00:00",
+  "generated_at": "2026-09-21T00:32:41.812750+00:00",
   "gainers": [
     {
       "ticker": "PWR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix\""
+      "move_reason": "News: \"Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge...\""
     },
     {
       "ticker": "NBIS",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky\""
+      "move_reason": ""
     },
     {
       "ticker": "GEV",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"AI's Power Bottleneck Is Here, Profiting Is The Hard Part\""
     },
     {
       "ticker": "NVDA",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34...\""
+      "move_reason": "News: \"Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?\""
     },
     {
       "ticker": "SOFI",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General CEO raises major red flag about consumers\""
+      "move_reason": "News: \"Dollar General EVP Reardon Sells 5,578 Shares\""
     },
     {
       "ticker": "TTD",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Hidden Winners Inside SCHD - September 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "XLRE",
@@ -316,7 +316,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500 Is Flashing The Same Warning Signs Seen In 2018 And 2022\""
+      "move_reason": "News: \"AI's Power Bottleneck Is Here, Profiting Is The Hard Part\""
     },
     {
       "ticker": "XLE",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix\""
+      "move_reason": "News: \"Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge...\""
     },
     {
       "ticker": "APA",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Hidden Winners Inside SCHD - September 2026\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General CEO raises major red flag about consumers\""
+      "move_reason": "News: \"Dollar General EVP Reardon Sells 5,578 Shares\""
     },
     {
       "ticker": "GEV",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"AI's Power Bottleneck Is Here, Profiting Is The Hard Part\""
     },
     {
       "ticker": "IWM",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500 Is Flashing The Same Warning Signs Seen In 2018 And 2022\""
+      "move_reason": "News: \"AI's Power Bottleneck Is Here, Profiting Is The Hard Part\""
     },
     {
       "ticker": "NBIS",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34...\""
+      "move_reason": "News: \"Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?\""
     },
     {
       "ticker": "OSCR",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -807,30 +807,6 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 353.0,
-      "change_pct": 1.67,
-      "score": 4.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 4.8 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 4.8 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 58.8,
@@ -922,6 +898,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 353.0,
+      "change_pct": 1.67,
+      "score": 3.0,
+      "signals": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 4.8 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 4.8 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [
