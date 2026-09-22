@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-22T21:20:10+00:00",
+  "generated_at": "2026-09-22T23:43:40+00:00",
   "by_date": {
     "2026-09-22": [
       {
@@ -743,7 +743,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KMX",
         "date": "2026-09-29",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.7199,
         "revenue_estimate": 7045509833,
         "is_watchlist": false
