@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-22T23:43:40.145663+00:00",
+  "generated_at": "2026-09-22T23:56:14.266784+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.68,
-      "price": 13.23,
+      "change_pct": -4.54,
+      "price": 13.25,
       "is_watchlist": true,
-      "timestamp": "2026-09-22T23:43:40.143372+00:00",
+      "timestamp": "2026-09-22T23:56:14.080119+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -3.15,
       "price": 355.24,
       "is_watchlist": true,
-      "timestamp": "2026-09-22T23:43:40.143368+00:00",
+      "timestamp": "2026-09-22T23:56:14.080115+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,13 +29,99 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": -3.31,
-      "price": 42.36,
+      "change_pct": -3.17,
+      "price": 42.42,
       "is_watchlist": true,
-      "timestamp": "2026-09-22T23:43:40.143354+00:00",
+      "timestamp": "2026-09-22T23:56:14.080098+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Bessent"
+      ],
+      "ticker": null,
+      "headline": "Trump says he supports U.S. diesel export ban; Bessent says studying feasibility",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4645794-trump-says-he-supports-us-diesel-export-ban-bessent-says-studying-feasibility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T23:50:45+00:00",
+      "relevance_score": 7.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T23:43:48+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here's who we know is going to the Trump-Xi dinner so far",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-22T23:43:43+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Clean Air Metals closes C$6.2 million private placement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/clean-air-metals-closes-c62-million-private-placement-93CH-4911867",
+      "is_watchlist": false,
+      "timestamp": "2026-09-22T23:40:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Activist Jana Partners calls for Six Flags sale- WSJ",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/activist-jana-partners-calls-for-six-flags-sale-wsj-4911865",
+      "is_watchlist": false,
+      "timestamp": "2026-09-22T23:36:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold.com director Benjamin sells $1.74m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/goldcom-director-benjamin-sells-174m-in-shares-93CH-4911862",
+      "is_watchlist": false,
+      "timestamp": "2026-09-22T23:31:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DigitalOcean CEO Srinivasan sells $1.6m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/digitalocean-ceo-srinivasan-sells-16m-in-shares-93CH-4911861",
+      "is_watchlist": false,
+      "timestamp": "2026-09-22T23:31:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -140,50 +226,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BlackSky technology general counsel & CAO Lin sells $138,600 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/blacksky-technology-general-counsel--cao-lin-sells-138600-in-stock-93CH-4911835",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:00:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BlackSky CFO Dubois sells $91,880 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/blacksky-cfo-dubois-sells-91880-in-company-stock-93CH-4911834",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:00:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BlackSky CEO Brian O\u2019Toole sells $457,600 in BKSY shares.",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/blacksky-ceo-brian-otoole-sells-457600-in-bksy-shares-93CH-4911833",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:00:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "QVC Group files monthly operating report following Chapter 11 emergence",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/qvc-group-files-monthly-operating-report-following-chapter-11-emergence-93CH-4911832",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:00:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
@@ -255,17 +297,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4645789-stingray-renews-share-buyback-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-22T22:26:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. crude stockpiles rose 1.8M barrels last week, API says",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4645787-u-s-crude-stockpiles-rose-1_8m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T22:05:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -564,32 +595,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here's who we know is going to the Trump-Xi dinner so far",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T20:07:24+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-      "is_watchlist": true,
-      "timestamp": "2026-09-22T19:59:05+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
