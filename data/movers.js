@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-22T00:08:10.179829+00:00",
+  "generated_at": "2026-09-22T00:27:04.397470+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close\""
+      "move_reason": "News: \"Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?\""
     },
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better AI Data Center Stock: Nebius vs. CoreWeave\""
+      "move_reason": "News: \"Market Chatter: CoreWeave Tied Data Center Project Starts $1.1 Billion Junk-Bond Sale\""
     },
     {
       "ticker": "NBIS",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Chip Stocks Set to Win TSMC\u2019s Packaging Boom\""
+      "move_reason": "News: \"Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Should...\""
     },
     {
       "ticker": "MSFT",
@@ -170,8 +170,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 285.81,
-      "change_pct": 0.6,
+      "price": 285.77,
+      "change_pct": 0.59,
       "volume_ratio": 1.17,
       "is_watchlist": true,
       "is_index": true,
@@ -203,7 +203,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum (OXY) Stock Declines While Market Improves: Some Information for Inve...\""
+      "move_reason": "News: \"Occidental Now Trades Below Wall Street\u2019s Raised Targets. Here\u2019s Where the Stock Could Go\""
     },
     {
       "ticker": "APA",
@@ -352,7 +352,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close\""
+      "move_reason": "News: \"Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?\""
     },
     {
       "ticker": "APA",
@@ -376,7 +376,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better AI Data Center Stock: Nebius vs. CoreWeave\""
+      "move_reason": "News: \"Market Chatter: CoreWeave Tied Data Center Project Starts $1.1 Billion Junk-Bond Sale\""
     },
     {
       "ticker": "DG",
@@ -405,8 +405,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 285.81,
-      "change_pct": 0.6,
+      "price": 285.77,
+      "change_pct": 0.59,
       "volume_ratio": 1.17,
       "is_watchlist": true,
       "is_index": true,
@@ -436,7 +436,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Chip Stocks Set to Win TSMC\u2019s Packaging Boom\""
+      "move_reason": "News: \"Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Should...\""
     },
     {
       "ticker": "OSCR",
@@ -460,7 +460,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum (OXY) Stock Declines While Market Improves: Some Information for Inve...\""
+      "move_reason": "News: \"Occidental Now Trades Below Wall Street\u2019s Raised Targets. Here\u2019s Where the Stock Could Go\""
     },
     {
       "ticker": "PWR",
@@ -496,7 +496,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TTD Showered Owners With Cash. The Stock Still Lagged The Market\""
+      "move_reason": "News: \"The Trade Desk Trades Above Wall Street\u2019s Average Target. Here\u2019s What the Cost Cuts Change\""
     },
     {
       "ticker": "XLE",
@@ -525,8 +525,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 285.81,
-      "change_pct": 0.6,
+      "price": 285.77,
+      "change_pct": 0.59,
       "volume_ratio": 1.17,
       "is_watchlist": true,
       "is_index": true,
@@ -864,12 +864,12 @@ window.theBriefMovers = {
       "signals": [
         "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.0 (cheap on absolute basis)"
+        "Forward P/E 9.8 (cheap on absolute basis)"
       ],
       "reasons": [
         "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Forward P/E 10.0 (cheap on absolute basis)"
+        "Forward P/E 9.8 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
