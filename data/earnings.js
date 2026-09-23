@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-23T07:25:54+00:00",
+  "generated_at": "2026-09-23T12:55:46+00:00",
   "by_date": {
     "2026-09-23": [
       {
@@ -64,6 +64,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.102,
         "revenue_estimate": 151133400,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MGLD",
+        "date": "2026-09-23",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -197,6 +205,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "POCI",
+        "date": "2026-09-24",
+        "hour": "",
+        "eps_estimate": -0.0612,
+        "revenue_estimate": 7290960,
+        "is_watchlist": false
+      },
+      {
         "ticker": "QH",
         "date": "2026-09-24",
         "hour": "",
@@ -231,19 +247,19 @@ window.theBriefEarnings = {
     ],
     "2026-09-25": [
       {
+        "ticker": "FGPR",
+        "date": "2026-09-25",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "TBN",
         "date": "2026-09-25",
         "hour": "bmo",
         "eps_estimate": -0.1654,
         "revenue_estimate": 1843250,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UEC",
-        "date": "2026-09-25",
-        "hour": "amc",
-        "eps_estimate": -0.0471,
-        "revenue_estimate": 4545000,
         "is_watchlist": false
       }
     ],
@@ -569,22 +585,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "POCI",
-        "date": "2026-09-28",
-        "hour": "",
-        "eps_estimate": -0.0612,
-        "revenue_estimate": 7290960,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PRSI",
-        "date": "2026-09-28",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "SRXH",
         "date": "2026-09-28",
         "hour": "amc",
@@ -723,11 +723,11 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "WEBC",
+        "ticker": "UEC",
         "date": "2026-09-29",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "hour": "amc",
+        "eps_estimate": -0.0471,
+        "revenue_estimate": 4545000,
         "is_watchlist": false
       },
       {
@@ -782,6 +782,14 @@ window.theBriefEarnings = {
       },
       {
         "ticker": "HPI",
+        "date": "2026-09-30",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "INBP",
         "date": "2026-09-30",
         "hour": "",
         "eps_estimate": null,
