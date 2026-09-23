@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-23T15:48:38+00:00",
+  "generated_at": "2026-09-23T17:44:45+00:00",
   "by_date": {
     "2026-09-23": [
       {
@@ -855,6 +855,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "AEHR",
+        "date": "2026-10-01",
+        "hour": "",
+        "eps_estimate": 0.1122,
+        "revenue_estimate": 27607830,
+        "is_watchlist": false
+      },
+      {
         "ticker": "ANGO",
         "date": "2026-10-01",
         "hour": "",
@@ -1003,35 +1011,11 @@ window.theBriefEarnings = {
     ],
     "2026-10-05": [
       {
-        "ticker": "AEHR",
-        "date": "2026-10-05",
-        "hour": "",
-        "eps_estimate": 0.1122,
-        "revenue_estimate": 27607830,
-        "is_watchlist": false
-      },
-      {
         "ticker": "AIO",
         "date": "2026-10-05",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AXIL",
-        "date": "2026-10-05",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BYRN",
-        "date": "2026-10-05",
-        "hour": "",
-        "eps_estimate": -0.1658,
-        "revenue_estimate": 16587240,
         "is_watchlist": false
       },
       {
@@ -1123,7 +1107,7 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "VLGEA",
+        "ticker": "VWFB",
         "date": "2026-10-05",
         "hour": "",
         "eps_estimate": null,
@@ -1131,7 +1115,7 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "VWFB",
+        "ticker": "WEBC",
         "date": "2026-10-05",
         "hour": "",
         "eps_estimate": null,
@@ -1162,14 +1146,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.6426,
         "revenue_estimate": 366653616,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ARTW",
-        "date": "2026-10-06",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -1229,22 +1205,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "RELL",
-        "date": "2026-10-06",
-        "hour": "",
-        "eps_estimate": 0.0918,
-        "revenue_estimate": 59654700,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RGP",
-        "date": "2026-10-06",
-        "hour": "",
-        "eps_estimate": -0.1692,
-        "revenue_estimate": 100983163,
-        "is_watchlist": false
-      },
-      {
         "ticker": "RPM",
         "date": "2026-10-06",
         "hour": "",
@@ -1279,14 +1239,6 @@ window.theBriefEarnings = {
     ],
     "2026-10-07": [
       {
-        "ticker": "APLD",
-        "date": "2026-10-07",
-        "hour": "",
-        "eps_estimate": -0.3098,
-        "revenue_estimate": 137557016,
-        "is_watchlist": false
-      },
-      {
         "ticker": "BKSC",
         "date": "2026-10-07",
         "hour": "",
@@ -1311,14 +1263,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MLGF",
-        "date": "2026-10-07",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "NRIX",
         "date": "2026-10-07",
         "hour": "",
@@ -1327,11 +1271,11 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PBNC",
+        "ticker": "RGP",
         "date": "2026-10-07",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": -0.1692,
+        "revenue_estimate": 100983163,
         "is_watchlist": false
       },
       {
