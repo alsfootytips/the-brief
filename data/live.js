@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-22T23:56:14.266784+00:00",
+  "generated_at": "2026-09-23T01:50:38.509846+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": -4.54,
-      "price": 13.25,
+      "change_pct": -4.61,
+      "price": 13.24,
       "is_watchlist": true,
-      "timestamp": "2026-09-22T23:56:14.080119+00:00",
+      "timestamp": "2026-09-23T01:50:38.507522+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TPL",
       "name": "Texas Pacific Land",
-      "change_pct": -3.15,
-      "price": 355.24,
+      "change_pct": -3.02,
+      "price": 355.71,
       "is_watchlist": true,
-      "timestamp": "2026-09-22T23:56:14.080115+00:00",
+      "timestamp": "2026-09-23T01:50:38.507519+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,10 +32,136 @@ window.theBriefLive = {
       "change_pct": -3.17,
       "price": 42.42,
       "is_watchlist": true,
-      "timestamp": "2026-09-22T23:56:14.080098+00:00",
+      "timestamp": "2026-09-23T01:50:38.507505+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US judge dismisses Michigan climate lawsuit against oil companies",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-4911946",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:36:35+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Webull Corp president Denier sells $447,734 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/webull-corp-president-denier-sells-447734-in-company-stock-93CH-4911988",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:31:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ZipRecruiter EVP Amy Garefis sells $29,772 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ziprecruiter-evp-amy-garefis-sells-29772-in-shares-93CH-4911987",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:30:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold rises as oil slide eases Fed hike fears, Iran talks stay in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/gold-rises-as-oil-slide-eases-fed-hike-fears-iran-talks-stay-in-focus-4911978",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:26:51+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "As Trump and Xi meet, investors play both sides of AI divide",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/as-trump-and-xi-meet-investors-play-both-sides-of-ai-divide-4910098",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:18:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Abacus Global director Matthew Ganovsky sells $674,349 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/abacus-global-director-matthew-ganovsky-sells-674349-in-stock-93CH-4911972",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:16:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Abacus Global Management director Kevin Kirby sells $675,903 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/abacus-global-management-director-kevin-kirby-sells-675903-in-shares-93CH-4911969",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:16:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "ZipRecruiter president David Travers sells $90,524 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ziprecruiter-president-david-travers-sells-90524-in-stock-93CH-4911970",
+      "is_watchlist": false,
+      "timestamp": "2026-09-23T01:16:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If You Buy Monster Beverage With $10,000 Today, Could You Become a Millionaire in 25 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a8a655f93169fef7933ad0f27f3a12ac817cd0a74b8a51ad81a2a9a79c36e6e",
+      "is_watchlist": true,
+      "timestamp": "2026-09-23T00:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why This Top Automaker's Gamble on V-8 Engines During a Hybrid Boom Actually Makes Sense",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e546e51c2556d435ce77608d5abe0a1a03e1bd5402520f1648465c76b5eb0c03",
+      "is_watchlist": true,
+      "timestamp": "2026-09-23T00:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Marathon Petroleum Stock Slipped Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a3d8529f97b72ae139c890b7b7e6b5d92d2d532b9ab74e9f6edea54dc1e6811",
+      "is_watchlist": true,
+      "timestamp": "2026-09-23T00:12:43+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -81,59 +207,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Clean Air Metals closes C$6.2 million private placement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/clean-air-metals-closes-c62-million-private-placement-93CH-4911867",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:40:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Activist Jana Partners calls for Six Flags sale- WSJ",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/activist-jana-partners-calls-for-six-flags-sale-wsj-4911865",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:36:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold.com director Benjamin sells $1.74m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/goldcom-director-benjamin-sells-174m-in-shares-93CH-4911862",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:31:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DigitalOcean CEO Srinivasan sells $1.6m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/digitalocean-ceo-srinivasan-sells-16m-in-shares-93CH-4911861",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump supports diesel export ban as fuel prices hit records",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:24:26+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "ticker": "AMD",
+      "headline": "Shopify Stock Jumps on Meta Muse Deal: Time to Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8dea7d1a241656d7ff32114715b4db18848cc7047aefdd33cfa50249da366dc6",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T23:27:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -144,28 +226,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-22T23:20:31+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Western New England Bancorp SVP sells $47,498 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/western-new-england-bancorp-svp-sells-47498-in-stock-93CH-4911850",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:15:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK employers\u2019 pay awards cool to 3%, Brightmine data shows",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/uk-employers-pay-awards-cool-to-3-brightmine-data-shows-4911840",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:12:30+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -187,17 +247,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4645795-aytu-outlines-49m-54m-fy27-operating-expense-plan-as-it-targets-66-percentminus-67-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-22T23:11:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "United Parks & Resorts appoints Kyle Miller as president, amends bylaws",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/united-parks--resorts-appoints-kyle-miller-as-president-amends-bylaws-93CH-4911839",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T23:04:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -232,6 +281,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-22T23:00:01+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-22T23:00:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -302,6 +362,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "APA",
+      "headline": "APA (APA) Stock Moves -3.45%: What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1865f19bf58205d254696fbea747b1e7ffc51ea33548909c41a3ba7608992e73",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T22:15:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
       "source": "CNBC Top",
@@ -329,12 +401,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Monthly Income ETFs to Buy Once That Have Paid You Every Single Month for More Than a Decade",
+      "ticker": "AMD",
+      "headline": "Advanced Micro Devices (AMD) Stock Moves 1.34%: What You Should Know",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49523b64032dbd62d2f615ba6397c253636bb19be6ef3602f3e5329db83ddbd2",
+      "url": "https://finnhub.io/api/news?id=a10bee44bee376c39189d98862160104aa44a02f751796a4c71b220c5d44596d",
       "is_watchlist": true,
-      "timestamp": "2026-09-22T21:45:44+00:00",
+      "timestamp": "2026-09-22T21:45:02+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -349,18 +421,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-22T21:44:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "JEPI\u2019s 4.42% Gain Looks Modest Next to FYEE\u2019s 12.4% Run in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98f0833cf12dd65e061b16ff846203e0db1310ceab52f159a5eda56cdc169e52",
-      "is_watchlist": true,
-      "timestamp": "2026-09-22T21:35:52+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -419,6 +479,22 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T21:07:29+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
@@ -431,12 +507,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0dc3b45bc78fe147c4dbcad938b62700559a26eaa41bd0fc28e272cbaf8caa1e",
+      "ticker": "AMD",
+      "headline": "The Trillion-Dollar Stocks Get A New Member",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4d7c46858d6706e46af9558cadc433dd0c02dd28fbf141d581e6097a7cd5415f",
       "is_watchlist": true,
-      "timestamp": "2026-09-22T20:57:00+00:00",
+      "timestamp": "2026-09-22T21:00:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -450,17 +526,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-22T20:54:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-22T20:49:25+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -484,18 +549,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-22T20:46:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "The AI Rally Is Back\u2014and Facing a Wall of Worry",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=84b330c0e7d29405debb222d91d5ab3fe81c4b0ac1b7e80b4f6608391f941737",
-      "is_watchlist": true,
-      "timestamp": "2026-09-22T20:44:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -560,7 +613,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Canada is giving C$100 million in international aid for Palestine, says Carney - Reuters",
+      "headline": "Canada is giving C$100 million in international aid for Palestine, says Carney - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFVHRXJSbEVXaW8tY0Zrd3hNMHlJZlE1cTlIUmsxX24zbnQ0Q3RtSDdGdkllSEJnN2NqU0pRTnVhR1lpQTV6Y3ZWUHQwa0tHdzA4U3lyeUxBV05Fb2dIdU16aWJPay14cXZJN0FpUzhETGI1aEo4am9QWmlnVnBIamFmaTBBSHNPNXF2aWhNMmZ3aVBreVhXSDVXUVpQR2plS0JPNFRSZzB0NXkwa1VQTQ?oc=5",
       "is_watchlist": false,
@@ -569,29 +622,13 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-22T20:20:18+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy?",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Decline Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5aad699f45e8041b8eff7ec629b21aa21274b5e4adcf4f31b1c78733bd973371",
+      "url": "https://finnhub.io/api/news?id=25e4d1eb7f5b7246bd913ac867ea6d5100545a29f1b00b09ed1c401d6944c219",
       "is_watchlist": true,
-      "timestamp": "2026-09-22T20:20:01+00:00",
+      "timestamp": "2026-09-22T20:03:56+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -658,18 +695,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD Stock Just Sent a Huge AI Signal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a8e4d9f85eb3886d87d720ed8c87f443770bada2ce1f8dd2ccd85b5c0af282b",
-      "is_watchlist": true,
-      "timestamp": "2026-09-22T19:07:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "Discover which S&P500 stocks are making waves on Tuesday.",
       "source": "ChartMill",
@@ -716,6 +741,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a1a01cdfe1835e62e24d0927af925983773d9f2a0891ad935b1cfc7dc52bba1",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T18:00:51+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "NBIS",
       "headline": "Nebius Stock Analysis: The Margin Miracle With a $250 Billion Catch",
       "source": "Yahoo",
@@ -740,12 +777,36 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "OptimizeRx Partners With The Trade Desk To Widen Its Healthcare Ad Network",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3fa9f70c93f0eeb8be813144ae3e5e7452f459628dbd5a98f2305d7e5b90195",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T17:18:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Sterling vs. Quanta: Which Infrastructure Stock Is the Better Buy?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b9b625686fb5fbbbc7a1fe27dc5f94e863f9a825748f6b654ff2f5002204076c",
       "is_watchlist": true,
       "timestamp": "2026-09-22T17:18:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Exchange-Traded Funds Rise, US Equities Mixed After Midday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6611ffe83981d9669312143f99e1040ca3eee222d8ae6d9fe93da29e7fd8ef05",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T17:10:35+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -824,11 +885,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "TTD",
-      "headline": "The Trade Desk: I Was So Wrong, It's Time To Get Out",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b2aac1164139d068ae192bfd07b909f1fa85177133d10308db6ba22b367022a7",
+      "headline": "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7355c5ce438cf1a2ec810b1e786defea095762989f28a07f167eb204ba254c41",
       "is_watchlist": true,
-      "timestamp": "2026-09-22T15:53:26+00:00",
+      "timestamp": "2026-09-22T15:59:27+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -952,6 +1013,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "OSCR",
+      "headline": "Zacks Investment Ideas feature highlights: Assurant, Hippo, Horace Mann Educators, MGIC Investment, Slide Insurance and Oscar Health",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ccddd7860b02a824eda215f1d38fe2a5f69e354d8e61f6d141641a42eef795b",
+      "is_watchlist": true,
+      "timestamp": "2026-09-22T12:18:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "This Week In Energy Transition - Wind Energy Boom Challenges and Opportunities Ahead",
       "source": "Yahoo",
@@ -987,18 +1060,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Leading And Lagging Sectors For September 22, 2026",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=38c4d50b058b579d843265144e2e782ce809a9170d2475d7bca88e30e361e0c7",
-      "is_watchlist": true,
-      "timestamp": "2026-09-22T09:10:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "California Attorney General Bonta says states made demands in Paramount-Warner deal",
       "source": "NPR Business",
@@ -1007,18 +1068,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-22T08:44:20+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "September Stagnation Marked By Record-Low Yields, High Duration Risk And High Valuations",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=74a295e0272eaa2289eae1407bd3c1768cb42f9d93519bf8ed4fefe16a90a4ab",
-      "is_watchlist": true,
-      "timestamp": "2026-09-22T07:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1046,18 +1095,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "The Trade Desk Trades Above Wall Street\u2019s Average Target. Here\u2019s What the Cost Cuts Change",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d51e7e807255b7603967c764cda2162b93df4bf769784663905583185c4d7100",
-      "is_watchlist": true,
-      "timestamp": "2026-09-21T23:36:56+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Occidental Now Trades Below Wall Street\u2019s Raised Targets. Here\u2019s Where the Stock Could Go",
       "source": "Yahoo",
@@ -1076,18 +1113,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=97be8b9e348b5f2ef581371aab80aa2fca7829a447c8f09d769813d7e63a2742",
       "is_watchlist": true,
       "timestamp": "2026-09-21T22:11:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Oscar Health, Inc. (OSCR) Stock Drops Despite Market Gains: Important Facts to Note",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67b2ad53be5ddceea30132da50674837172af39cb0325013198a7359eb4c6a98",
-      "is_watchlist": true,
-      "timestamp": "2026-09-21T22:00:03+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1114,18 +1139,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-21T20:13:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c255815bfdd7fee4b291b51f4f366025c14d20bb79bb34601541446a711e4099",
-      "is_watchlist": true,
-      "timestamp": "2026-09-21T19:55:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1200,70 +1213,66 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-21T15:35:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
-      "source": "Yahoo Finance",
-      "url": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
-      "is_watchlist": false,
-      "timestamp": "2026-09-21T15:33:32+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Novo\u2019s Big 2030 Pitch Gets a Small Reception",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/healthcare/articles/novo-big-2030-pitch-gets-153100786.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-21T15:31:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump demands 1% rates because the US has the \u2018Best Credit in the World\u2019 \u2014 the Fed hiked rates anyway. So who\u2019s right?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html",
-      "is_watchlist": true,
-      "timestamp": "2026-09-21T15:30:00+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Super Ego\u2019s Mimic notches win in court case; settlement coming?",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/super-ego-mimic-notches-win-152948515.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-21T15:29:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Bank of America says buy tumbling shares of aviation giant",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
       "is_watchlist": false,
       "timestamp": "2026-09-21T14:37:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Seabridge Gold Inc. (SA) Spun Off a Major Gold Asset: Why Kopernik Sees More Upside",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-inc-sa-spun-134720749.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-21T13:47:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mosaic-co-mos-just-added-134710535.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-21T13:47:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Franklin Resources (BEN) Surged 47.3% in Q2: Why Investors Took Notice",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-ben-surged-47-134651405.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-21T13:46:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Range Resources (RRC) Slid 17.2% in Q2: Why the Natural Gas Stock Still Looks Attractive",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-slid-17-134559578.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-21T13:45:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Strategy Buys $75 Million of Bitcoin As Price Rallies",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-buys-75-million-bitcoin-134300104.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-21T13:43:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1277,18 +1286,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-21T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Truist Securities Maintains Hold on APA, Raises Price Target to $44",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=daee29a6178ab2de588646e748d7242e42b29e6f1fa6e20bf00aa61104f3381d",
-      "is_watchlist": true,
-      "timestamp": "2026-09-21T08:57:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1399,30 +1396,6 @@ window.theBriefLive = {
       "url": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000074/oscr-20260916.htm",
       "is_watchlist": true,
       "timestamp": "2026-09-16",
-      "relevance_score": 6.0,
-      "relevance_tier": "high",
-      "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "filing",
-      "ticker": "TTD",
-      "form": "8-K",
-      "date": "2026-09-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000099/ttd-20260914.htm",
-      "is_watchlist": true,
-      "timestamp": "2026-09-15",
-      "relevance_score": 6.0,
-      "relevance_tier": "high",
-      "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "filing",
-      "ticker": "PWR",
-      "form": "8-K",
-      "date": "2026-09-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312526391989/d78508d8k.htm",
-      "is_watchlist": true,
-      "timestamp": "2026-09-15",
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
