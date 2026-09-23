@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-23T20:43:00+00:00",
+  "generated_at": "2026-09-23T23:12:25+00:00",
   "by_date": {
     "2026-09-23": [
       {
@@ -725,7 +725,7 @@ window.theBriefEarnings = {
       {
         "ticker": "UEC",
         "date": "2026-09-29",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.0471,
         "revenue_estimate": 4545000,
         "is_watchlist": false
@@ -743,7 +743,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BSET",
         "date": "2026-09-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.1326,
         "revenue_estimate": 84724943,
         "is_watchlist": false
@@ -759,7 +759,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CALM",
         "date": "2026-09-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.7208,
         "revenue_estimate": 586311045,
         "is_watchlist": false
@@ -767,7 +767,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FDS",
         "date": "2026-09-30",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 4.3792,
         "revenue_estimate": 636127754,
         "is_watchlist": false
@@ -823,7 +823,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PRGS",
         "date": "2026-09-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.5453,
         "revenue_estimate": 252271704,
         "is_watchlist": false
