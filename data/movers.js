@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-23T01:50:38.505831+00:00",
+  "generated_at": "2026-09-23T07:25:54.239336+00:00",
   "gainers": [
     {
       "ticker": "XLC",
@@ -56,7 +56,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Nebius Group (NBIS) Still Undervalued Following FTSE All World Index Inclusion?\""
+      "move_reason": "News: \"NBIS Stock Extends Gains After 5-Day Winning Streak: Has It Bumped Up Inference Prices?\""
     },
     {
       "ticker": "SPY",
@@ -102,7 +102,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Shopify Stock Jumps on Meta Muse Deal: Time to Buy?\""
+      "move_reason": "News: \"Elon Musk Is Going All In on Nvidia, but Are These Two Chip Stocks Better Buys?\""
     },
     {
       "ticker": "PLTR",
@@ -150,18 +150,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 112.56,
-      "change_pct": 0.68,
-      "volume_ratio": 1.32,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 122.63,
@@ -172,6 +160,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"These 4 Retail Stocks Are Winning the Race for Inflation-Weary Bargain Hunters\""
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 951.8,
+      "change_pct": 0.59,
+      "volume_ratio": 0.77,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"A $200 Billion Reason to Buy GE Vernova Stock\""
     }
   ],
   "losers": [
@@ -316,7 +316,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Shopify Stock Jumps on Meta Muse Deal: Time to Buy?\""
+      "move_reason": "News: \"Elon Musk Is Going All In on Nvidia, but Are These Two Chip Stocks Better Buys?\""
     },
     {
       "ticker": "APA",
@@ -364,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova is The AI Energy Bottleneck Player I Won\u2019t Stop Buying\""
+      "move_reason": "News: \"A $200 Billion Reason to Buy GE Vernova Stock\""
     },
     {
       "ticker": "IWM",
@@ -376,7 +376,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Too Big To Fail 2.0: Are Hyperscalers The 2026 Version Of Banks In 2008?\""
+      "move_reason": "News: \"An Investor Letter From Cathie Wood\""
     },
     {
       "ticker": "NBIS",
@@ -388,7 +388,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Nebius Group (NBIS) Still Undervalued Following FTSE All World Index Inclusion?\""
+      "move_reason": "News: \"NBIS Stock Extends Gains After 5-Day Winning Streak: Has It Bumped Up Inference Prices?\""
     },
     {
       "ticker": "NVDA",
@@ -400,7 +400,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If You Buy Monster Beverage With $10,000 Today, Could You Become a Millionaire in 25 Years...\""
+      "move_reason": "News: \"Elon Musk Is Going All In on Nvidia, but Are These Two Chip Stocks Better Buys?\""
     },
     {
       "ticker": "OSCR",
