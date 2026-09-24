@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-24T00:09:04.307074+00:00",
+  "generated_at": "2026-09-24T01:26:43.110504+00:00",
   "gainers": [
     {
       "ticker": "XLC",
@@ -50,8 +50,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 57.14,
-      "change_pct": 1.47,
+      "price": 57.39,
+      "change_pct": 1.92,
       "volume_ratio": 0.84,
       "is_watchlist": true,
       "is_index": false,
@@ -256,7 +256,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could SpaceX Stock Make You a Millionaire by 2036?\""
+      "move_reason": "News: \"Why IonQ (IONQ) Is Up 15.5% After NVIDIA Deal And Real-Time Error Correction Breakthrough\""
     },
     {
       "ticker": "DG",
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are Options Traders Betting on a Big Move in Quanta Services Stock?\""
+      "move_reason": "News: \"Quanta Services (PWR) Registers a Bigger Fall Than the Market: Important Facts to Note\""
     },
     {
       "ticker": "XLP",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could SpaceX Stock Make You a Millionaire by 2036?\""
+      "move_reason": "News: \"Why IonQ (IONQ) Is Up 15.5% After NVIDIA Deal And Real-Time Error Correction Breakthrough\""
     },
     {
       "ticker": "OSCR",
@@ -464,8 +464,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 57.14,
-      "change_pct": 1.47,
+      "price": 57.39,
+      "change_pct": 1.92,
       "volume_ratio": 0.84,
       "is_watchlist": true,
       "is_index": false,
@@ -483,7 +483,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Are Options Traders Betting on a Big Move in Quanta Services Stock?\""
+      "move_reason": "News: \"Quanta Services (PWR) Registers a Bigger Fall Than the Market: Important Facts to Note\""
     },
     {
       "ticker": "TPL",
@@ -815,8 +815,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 57.14,
-      "change_pct": 1.47,
+      "price": 57.39,
+      "change_pct": 1.92,
       "score": 4.5,
       "signals": [
         "3 news items in the last 3 days",
