@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-24T06:33:41+00:00",
+  "generated_at": "2026-09-24T12:14:13+00:00",
   "by_date": {
     "2026-09-24": [
       {
@@ -96,14 +96,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "POCI",
-        "date": "2026-09-24",
-        "hour": "",
-        "eps_estimate": -0.0612,
-        "revenue_estimate": 7290960,
         "is_watchlist": false
       },
       {
@@ -476,6 +468,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "POCI",
+        "date": "2026-09-28",
+        "hour": "",
+        "eps_estimate": -0.0612,
+        "revenue_estimate": 7290960,
         "is_watchlist": false
       },
       {
