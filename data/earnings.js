@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-25T21:10:12+00:00",
+  "generated_at": "2026-09-25T23:57:40+00:00",
   "by_date": {
     "2026-09-25": [
       {
@@ -351,7 +351,7 @@ window.theBriefEarnings = {
       {
         "ticker": "POCI",
         "date": "2026-09-28",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.0612,
         "revenue_estimate": 7290960,
         "is_watchlist": false
