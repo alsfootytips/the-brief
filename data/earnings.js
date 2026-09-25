@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-25T07:11:33+00:00",
+  "generated_at": "2026-09-25T12:47:22+00:00",
   "by_date": {
     "2026-09-25": [
       {
@@ -272,6 +272,14 @@ window.theBriefEarnings = {
         "ticker": "MFI",
         "date": "2026-09-28",
         "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MITQ",
+        "date": "2026-09-28",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
