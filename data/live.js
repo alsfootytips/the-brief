@@ -1,14 +1,14 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-24T23:29:21.031056+00:00",
+  "generated_at": "2026-09-25T00:11:48.091976+00:00",
   "events": [
     {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -5.45,
-      "price": 28.86,
+      "change_pct": -5.4,
+      "price": 28.88,
       "is_watchlist": true,
-      "timestamp": "2026-09-24T23:29:21.028312+00:00",
+      "timestamp": "2026-09-25T00:11:47.945319+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +17,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 7.01,
-      "price": 242.5,
+      "change_pct": 6.95,
+      "price": 242.36,
       "is_watchlist": true,
-      "timestamp": "2026-09-24T23:29:21.028308+00:00",
+      "timestamp": "2026-09-25T00:11:47.945314+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,13 +29,157 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 3.44,
-      "price": 89.89,
+      "change_pct": 3.29,
+      "price": 89.76,
       "is_watchlist": true,
-      "timestamp": "2026-09-24T23:29:21.028293+00:00",
+      "timestamp": "2026-09-25T00:11:47.945296+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Costco outlines $7.5B FY2027 capex plan as it targets 33 warehouse openings",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4646948-costco-outlines-7_5b-fy2027-capex-plan-as-it-targets-33-warehouse-openings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-25T00:00:36+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brent crude jumps above $106 after Houthi attack against Saudi sites",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4646946-brent-crude-jumps-above-106-after-houthi-attack-against-saudi-sites?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:57:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla set to formally roll out Semi electric trucks at Nevada event",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-set-to-formally-roll-out-semi-electric-trucks-at-nevada-event-4916402",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:48:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mama\u2019s creations CEO Adam Michaels sells $927k in Mama stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/mamas-creations-ceo-adam-michaels-sells-927k-in-mama-stock-93CH-4916439",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:46:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Executive chairman Marc Grandisson buys $1.6m in Howard Hughes Holdings stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/executive-chairman-marc-grandisson-buys-16m-in-howard-hughes-holdings-stock-93CH-4916438",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:46:05+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Howard Hughes COO Andrew Davis buys $64,489 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/howard-hughes-coo-andrew-davis-buys-64489-in-company-stock-93CH-4916437",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:46:02+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anthropic seeks 50.1% voting control for co-founders ahead of IPO, The Information reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-seeks-palantirstyle-voting-control-for-seven-cofounders-ahead-of-ipo-the-information-reports-4916355",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:43:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Airbus identifies A321neo quality defect but says no safety risk",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/airbus-alerts-customers-to-a321neo-defect-potentially-affecting-over-500-aircraft-air-current-reports-4916300",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:42:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "S&P 500 ends marginally lower as investors focus on US-Iran war",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/wall-st-futures-fall-on-middle-east-uncertainties-ahead-of-trumpxi-talks-4914927",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:37:48+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil jump sends 30-year yields to two-decade high",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks-4915616",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:37:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:35:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "3 things Micron investors need to watch as the stakes get higher",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:28:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How stores choose what to put on their shelves \u2014 like, say, Planet Money's board game",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978930/how-stores-choose-what-to-put-on-their-shelves-like-say-planet-moneys-board-game",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T23:27:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -95,28 +239,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Costco tops estimates as discount gas, bulk deals draw inflation-weary shoppers",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/costco-beats-quarterly-sales-estimates-on-resilient-demand-for-essentials-4916155",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T23:06:54+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK consumer confidence hits more than two-year high in September, GfK says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/uk-consumer-confidence-hits-more-than-twoyear-high-in-september-gfk-says-4916400",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T23:06:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "X-planes: Are they needed in the new era of drones?",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
@@ -128,45 +250,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump-Xi summit in Washington features great fanfare but low expectations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-welcomes-xi-to-washington-looking-for-a-trade-win-4914436",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T23:01:11+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Apple SVP Jennifer Newstead sells $815,803 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-815803-in-company-stock-93CH-4916398",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T23:00:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "'We're all broke': Would you chase a friend for \u00a35?",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-09-24T23:00:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Analysis-Oracle, Blue Owl project delay\u00a0sends ripples through AI financing, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/analysisoracle-blue-owl-project-delaysends-ripples-through-ai-financing-sources-say-4916397",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T23:00:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -195,44 +283,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AMC Entertainment stockholders approve equity plan amendment, reject board changes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/amc-entertainment-stockholders-approve-equity-plan-amendment-reject-board-changes-93CH-4916386",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T22:59:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "First Solar leads big solar sector drop as high borrowing costs threaten project financing",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4646945-first-solar-leads-big-solar-sector-drop-as-high-borrowing-costs-threaten-project-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-09-24T22:57:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airbus identifies A321neo defect, says no safety risk",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/airbus-alerts-customers-to-a321neo-defect-potentially-affecting-over-500-aircraft-air-current-reports-4916300",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T22:55:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Atlas Energy Solutions signs $613.5 million equipment deals for power project",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/atlas-energy-solutions-signs-6135-million-equipment-deals-for-power-project-93CH-4916385",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T22:54:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -305,17 +360,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Bluerock Acquisition II prices $150M IPO",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4646942-bluerock-acquisition-ii-prices-150m-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T21:58:56+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
       "headline": "I've Covered Stocks for 10 Years. This Is the Single Best Way a New Investor Should Start.",
       "source": "Yahoo",
@@ -325,17 +369,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T21:46:05+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -387,18 +420,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Planet Ventures CEO resigns",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4646938-planet-ventures-ceo-resigns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T21:21:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "S&P 500 ends marginally lower as investors focus on US-Iran war - reuters.com",
+      "headline": "S&P 500 ends marginally lower as investors focus on US-Iran war - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
       "is_watchlist": false,
@@ -432,17 +454,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here\u2019s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T20:50:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Senate narrowly votes down resolution calling for end to Iran war",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
@@ -459,7 +470,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "US Senate rejects Democratic-led resolution to curb Trump's Iran war powers - reuters.com",
+      "headline": "US Senate rejects Democratic-led resolution to curb Trump's Iran war powers - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU45a3FvODBzSXpndWg1QUVuQzlqUmVJWjZEWUFXNWltVUx0Sm4zbDE1X3lFSnFYd2hQeGotT1YtejB1NU9lZDJKcnJjeEZqNkJtZkQ0anhFUG92V3pWLXlyQzhIalFwTzRuVnVvd3BGQ2tfYTJ3RUxMRlhlWTdTUFE3MnAzMUxmallxcE9SZU5ldmxJeE1fYnhyT0c5eG9lVXVydVg2TFhnbnFJYUFsOE56U194eTltTnc2bGFR?oc=5",
       "is_watchlist": true,
@@ -471,7 +482,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco - reuters.com",
+      "headline": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW1IRmRaem1xSHEwTjd1VldSMmNqZk55VmdmZkh4QnNhU21SM0ZtWGg4RDdxSkNOM1F6ZUJ4LUYybUlzcWx6S01zbzd5N3BRSWRTc0N6eExNa2RFQXVTYlM3RmtXOFlDUk1Yc2Q0LXNkTEFPQlpCNjgzZHNlbkZXWGtXT1NRNFZ3a2lvWWNxVkk1Rng0Q2ZtNUk4TzZ0YXpNdDFaRUZQa2lBVHpnV05pV1QtZVlJSjJpTFFPTA?oc=5",
       "is_watchlist": false,
@@ -490,17 +501,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stop trying to beat the market: Even the richest Americans can\u2019t do it consistently",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T20:20:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -541,12 +541,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Netanyahu's fleeting visit to New York mirrors strained US ties - reuters.com",
+      "headline": "Netanyahu's fleeting visit to New York mirrors strained US ties - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dMX1dTN0FUMTNHM3B6Yi0zelh2NDZKR2toOTJlYmZlRktKVW91TVV2YlJ2M1E4Qy1BTmlGb2Y4NUJURWstS1J0OEhaRWg0LWt6eHBDV21hYTNfS2F3M3BUNDkzQVAwV3g1WUJxWVZZa0xfRWlUeXptSzNNTUxZenBaMEtYcXYwU1pQck1qT2NZcmw3bTFWVkJhV3lMM2w0SzNaZVMtZWFFdHY4U1o2V1UwWQ?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-09-24T19:43:54+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-24T19:37:59+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -575,7 +586,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Houthis say they attacked Riyadh and Aramco facilities in Yanbu - reuters.com",
+      "headline": "Houthis say they attacked Riyadh and Aramco facilities in Yanbu - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWlXS0IwYk9WRDdxeGk1MmxybUpOa2lqYWN5Zm8wckN4ZVJJQUlCNXBJUkpsdXdTT240ZDhHMmJOWEszcHJUZDZscy1ibVkyZjlEUm03c3ZXZHlEanBFcE5Wa3A3QjVabTdPRTgtcnd5bWRhcVB0M0hEbW5QTUN0R2R3clB2OV9YblRYREFsY0NLU3ItMTFqRlFoRDVyV00zWnVoTUNzQ1ZDXzV1aUVN?oc=5",
       "is_watchlist": false,
@@ -586,7 +597,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dozens of delegates walk out of UN hall at start of Netanyahu speech - reuters.com",
+      "headline": "Dozens of delegates walk out of UN hall at start of Netanyahu speech - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekk0eU1sNTF4VFZQZ0diQ1d2R05UZVN3a011d1JBeDJRemY1SGU2eHQwemxHcnNQa0JkLXpReklrN0FZR19pcW80NkFCMU1JTmptX3Y0UUVzWWI4YTlhMklyQ2dzbFZEaDRodUk2NTNPYVB6ZF84TkxJa3VMcUduOEtMdkdaa3ZUTS02QVFlWmhwYi1ubEtDbFRHa19Xc0hHREp2SHU5dTVyaHFxeTgw?oc=5",
       "is_watchlist": false,
@@ -613,7 +624,7 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "US Senate rejects resolution curbing Trump's Iran war powers - reuters.com",
+      "headline": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
       "is_watchlist": true,
@@ -684,7 +695,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - reuters.com",
+      "headline": "US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMwQlBmRVM4WXVFeXhQVkcyYnpaUzE3dk1wUWswS3pZWDBKTGNWVEpqdFNsWXZEYm5PQ3pSVmRhVFl1empQN3p6SFY0YTVHRmxxNWpxbXFNWVlCOEF5T0tBLVp0MzNyWVlyQnpkbUtyVzNTeGtxQXZVc3hhb0E4aVV6bU5QVEdHMFhCaXRhV3hxQVJ3MWRXNF9tNG5EeUVzcTdEOUhGSExiS3F2SUlkS2xzRk1mNlg4bkRhR0FoaE5QZw?oc=5",
       "is_watchlist": false,
@@ -1189,18 +1200,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
-      "is_watchlist": false,
-      "timestamp": "2026-09-23T10:48:47+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SK Hynix Is Eyeing Intel\u2019s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
@@ -1374,18 +1373,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-19T12:43:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "filing",
-      "ticker": "CRWV",
-      "form": "8-K",
-      "date": "2026-09-17",
-      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000429/crwv-20260917.htm",
-      "is_watchlist": true,
-      "timestamp": "2026-09-17",
-      "relevance_score": 6.0,
-      "relevance_tier": "high",
-      "relevance_label": "SEC Filing"
     }
   ]
 };
