@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-25T01:50:14.111527+00:00",
+  "generated_at": "2026-09-25T07:11:33.263980+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Palantir (PLTR)\u2019s Partnership with Nebius Group (NBIS) Accelerate its AI Growth?\""
+      "move_reason": "News: \"Nebius Stock Surges: BNP Paribas Upgrades, Sees $22B ARR By 2027\""
     },
     {
       "ticker": "META",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nv...\""
+      "move_reason": "News: \"JPMorgan Just Upgraded CoreWeave Stock. Here's Why.\""
     },
     {
       "ticker": "AMD",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Options Say Marvell Stock Could Halve Or Nearly Double In A Year\""
+      "move_reason": "News: \"AMD vs. Nvidia: Which AI Stock Is the Better Buy?\""
     },
     {
       "ticker": "DG",
@@ -141,7 +141,18 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Rise Late Afternoon\""
+      "move_reason": "News: \"When Strong Earnings Meet Crowded Markets\""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 112.66,
+      "change_pct": 0.09,
+      "volume_ratio": 0.94,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -212,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Welltower Stock Topped the Market on Thursday\""
+      "move_reason": "News: \"Costco Just Showed Why It's a Better Buy Than Walmart\""
     },
     {
       "ticker": "XLI",
@@ -223,18 +234,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 145.32,
-      "change_pct": -0.51,
-      "volume_ratio": 0.86,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     },
     {
@@ -270,19 +269,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Much Should One Number Worry AppLovin Stock Holders?\""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 112.28,
-      "change_pct": -0.34,
-      "volume_ratio": 0.96,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"The Trade Desk (TTD) Is a Trending Stock: Facts to Know Before Betting on It\""
     },
     {
       "ticker": "XLK",
@@ -316,6 +303,30 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 281.14,
+      "change_pct": -0.28,
+      "volume_ratio": 1.07,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Is 130% Debt To GDP A Tipping Point?\""
+    },
+    {
+      "ticker": "PLTR",
+      "name": "PLTR",
+      "price": 191.5,
+      "change_pct": -0.15,
+      "volume_ratio": 0.8,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -329,7 +340,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Options Say Marvell Stock Could Halve Or Nearly Double In A Year\""
+      "move_reason": "News: \"AMD vs. Nvidia: Which AI Stock Is the Better Buy?\""
     },
     {
       "ticker": "APA",
@@ -353,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nv...\""
+      "move_reason": "News: \"JPMorgan Just Upgraded CoreWeave Stock. Here's Why.\""
     },
     {
       "ticker": "DG",
@@ -377,7 +388,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Falls 1.3% as $200 Billion Backlog Test Approaches\""
+      "move_reason": "News: \"Tracking Philippe Laffont's Coatue Management Portfolio - Q2 2026 Update\""
     },
     {
       "ticker": "IWM",
@@ -389,7 +400,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why A 50-Bps Pre-Midterm Hike Isn't Off The Table\""
+      "move_reason": "News: \"Is 130% Debt To GDP A Tipping Point?\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +412,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Palantir (PLTR)\u2019s Partnership with Nebius Group (NBIS) Accelerate its AI Growth?\""
+      "move_reason": "News: \"Nebius Stock Surges: BNP Paribas Upgrades, Sees $22B ARR By 2027\""
     },
     {
       "ticker": "NVDA",
@@ -413,7 +424,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Welltower Stock Topped the Market on Thursday\""
+      "move_reason": "News: \"Costco Just Showed Why It's a Better Buy Than Walmart\""
     },
     {
       "ticker": "OSCR",
@@ -473,7 +484,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Much Should One Number Worry AppLovin Stock Holders?\""
+      "move_reason": "News: \"The Trade Desk (TTD) Is a Trending Stock: Facts to Know Before Betting on It\""
     },
     {
       "ticker": "XLE",
@@ -485,7 +496,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Rise Late Afternoon\""
+      "move_reason": "News: \"When Strong Earnings Meet Crowded Markets\""
     }
   ],
   "indices": [
