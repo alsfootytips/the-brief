@@ -1,6 +1,103 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-26T20:09:16.407258+00:00",
+  "generated_at": "2026-09-26T22:51:40.854685+00:00",
   "events": [
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T21:55:01+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Pentagon Is Buying eVTOLs. Here's Which Stock Wins the Defense Money.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1450f0bd8c739433d3ea2a6d9770e95390e409fca64f66a433940b1c38e12a0",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T21:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple owes Taction Technology $5.7B for violating haptics patents",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4647381-apple-owes-taction-technology-5_7b-violating-haptics-patents?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T21:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: Here's What a $10,000 Investment in Costco (COST) Stock Could Be Worth in 5 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=777dad7b84e0e37813474873aea88b5853fc9139d55f749f9f14a38ddc097eff",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T21:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T21:21:04+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=911862555eb607b72b2703f0bed829204cae217879735d18b1b70d13a0063949",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T20:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "UBS makes bold call as CoreWeave faces $35 billion problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b5149cdf1712a6a50f19cac7ae9b3dad21fcb680af6de6d38d89391c71b4e47",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T20:23:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump OKs new fuel economy standards, ends Biden EV mandate",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4647380-trump-oks-new-fuel-economy-standards-ends-biden-ev-mandate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T20:20:10+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
     {
       "type": "news",
       "ticker": null,
@@ -15,13 +112,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "headline": "China pushes back against US on Iran and Cuba in UN speech - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-09-26T19:23:56+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-09-26T19:14:37+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -91,18 +189,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efc63eb281446aa03403868bcf9309de9e6f931da01ec7e23d21d90aba30ffe2",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T17:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?",
       "source": "Yahoo",
@@ -121,30 +207,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3826c145cd476ce4cf1d6246ac4325e9bde549aebb5b0924b75b7b9fad324e79",
       "is_watchlist": true,
       "timestamp": "2026-09-26T17:36:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3826c145cd476ce4cf1d6246ac4325e9bde549aebb5b0924b75b7b9fad324e79",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T17:36:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 Monthly Dividend Stocks Yielding Over 6% I Actually Own",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bfbac643f1d912fb567fc653c62351190835b23e5611e77c7e18d8cf93d97563",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T17:20:01+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -206,18 +268,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "China pushes back against US on Iran and Cuba in UN speech - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T16:50:55+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Broadcom Has More Than One Way to Win. Here\u2019s Where I See the Stock Going",
       "source": "Yahoo",
@@ -264,33 +314,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "TikTok in $100M+ settlement with Alabama",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4647374-tiktok-100m-settlement-alabama?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T16:12:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Is River Cruise at long term risk from climate change?",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/is-river-cruise-at-long-term-risk-from-climate-change-4918601",
       "is_watchlist": false,
       "timestamp": "2026-09-26T16:07:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Real estate stocks slump amid rising bond yields, sector rotation into technology",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4647295-real-estate-stocks-slump-amid-rising-bond-yields-sector-rotation-into-technology?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T16:00:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -326,6 +354,22 @@ window.theBriefLive = {
       "timestamp": "2026-09-26T15:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump rejects Iranian proposal to open Hormuz and end fighting - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T15:15:54+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -440,17 +484,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T13:20:42+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "27-year-old started a run club to meet new people\u2014now his NYC side hustle brings in $640K a year",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/26/nyc-run-club-side-hustle.html",
@@ -493,17 +526,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T12:19:38+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -595,24 +617,9 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFZoZDdKM2NZd3RrRFBLRGQ3VWoteUxkRFFtemw1RGVqbXdBWEdDR3FNazZ6MERQMWdCMThtVnJ5dnpmYjU0WWgzZW03OU5vWVZKLXRmS0s2c3BKV2lKbTlGLTJDRThYRW96eGJNVEhDZ3VEVVhPNGxpSkszTFc5WXNNQWh4dVRYWEJIZkhPTGN3ZDJXeW5FV2dYT3M?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-09-26T05:09:00+00:00",
+      "timestamp": "2026-09-26T05:11:44+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Britain warns Iran it will not tolerate hostile activity on UK soil - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmt3OWdYdUxlUXlJa0h6T0lndm5xUDBvRjg0M0plMzcxOThXT2lIaUNSY1NnczJYOEpwa3dYcGZWT2NGc0R3VGNHeVRJb0N5dS16V2FHamQyWkFuRkpSdXNIQk5CUk13dGU3NW1UNF9IdzFHSlFuOHpJRS1KZk1Hal9XNDFHbTlybmwxaUZsZmlINjRGZ29PekZNNFBpMHBabkxMelNBb1NPWk04Y3FYcU83QVR1T0xKTTJXeURIT1pwdDdJYUE?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T03:45:47+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -638,22 +645,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump rejects Iranian proposal to open Hormuz and end fighting - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T01:59:00+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": "DG",
       "headline": "HSBC Upgrades Dollar General (DG) and Lifts its Target to $160",
@@ -664,6 +655,17 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T01:25:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -687,6 +689,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Trump's diplomatic week exposed the limits of his power - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUNJQ25mYi11NFg0WjVHdEZaSjVqMHhQS0NIT2tfQjc5UF9EZUpGWUNWZW40VGlmZjlhRFVZTkRicnh3UTlERy1vcU9majF6em4wYlRVN1V5S0RaTnpmR0VDdDV5VzBqNHY5dWNuWEJtdkF3VWNfQlVLbDc4S19Zb1Y1MzYxN2kwNGhVRF9uVUF0RTZPaVoyX1NvRmRkeFVG?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-25T22:45:57+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -759,18 +772,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-25T20:13:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Is IREN (IREN) Cheap As Sector Selling And Mixed Views Test Its AI Buildout?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=31b1171f71a21a7d753530e7d1ad3b5f2bc741400079b2f9c0603c1143a1c416",
-      "is_watchlist": true,
-      "timestamp": "2026-09-25T20:12:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -998,9 +999,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
+      "headline": "American farmers are hurting -- and worried about their futures",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
       "is_watchlist": false,
       "timestamp": "2026-09-25T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -1009,9 +1010,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "American farmers are hurting -- and worried about their futures",
+      "headline": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
       "is_watchlist": false,
       "timestamp": "2026-09-25T09:00:00+00:00",
       "relevance_score": 0.0,

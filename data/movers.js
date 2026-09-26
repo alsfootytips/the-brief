@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-26T20:09:16.403266+00:00",
+  "generated_at": "2026-09-26T22:51:40.849916+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -110,7 +110,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 146.12,
       "change_pct": 0.55,
-      "volume_ratio": 0.92,
+      "volume_ratio": 0.93,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -155,7 +155,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 112.8,
       "change_pct": 0.46,
-      "volume_ratio": 0.99,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -197,7 +197,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"On Force Majeure And The Notable Insider Selling Across The AI Ecosystem\""
+      "move_reason": "News: \"UBS makes bold call as CoreWeave faces $35 billion problem\""
     },
     {
       "ticker": "NBIS",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"On Force Majeure And The Notable Insider Selling Across The AI Ecosystem\""
+      "move_reason": "News: \"UBS makes bold call as CoreWeave faces $35 billion problem\""
     },
     {
       "ticker": "DG",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?\""
+      "move_reason": "News: \"The Pentagon Is Buying eVTOLs. Here's Which Stock Wins the Defense Money.\""
     },
     {
       "ticker": "OSCR",
