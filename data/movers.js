@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-26T13:50:33.543659+00:00",
+  "generated_at": "2026-09-26T17:38:24.445651+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"HSBC Upgrades Dollar General (DG) and Lifts its Target to $160\""
+      "move_reason": "News: \"Dollar General CEO warns $100k a year is no longer enough to feel like you\u2019re higher incom...\""
     },
     {
       "ticker": "XLI",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"On Force Majeure And The Notable Insider Selling Across The AI Ecosystem\""
+      "move_reason": "News: \"If You Invest $500 a Month in AMD Starting Now, This is What You\u2019d Have in 2030\""
     },
     {
       "ticker": "APA",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"HSBC Upgrades Dollar General (DG) and Lifts its Target to $160\""
+      "move_reason": "News: \"Dollar General CEO warns $100k a year is no longer enough to feel like you\u2019re higher incom...\""
     },
     {
       "ticker": "GEV",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500: I'm Holding What I Have, But There's No Way I'm Adding In This Environment\""
+      "move_reason": "News: \"The 1-Minute Market Report, September 26, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Ford Stock a Buy for Its Dividend?\""
+      "move_reason": "News: \"Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend ...\""
     },
     {
       "ticker": "OSCR",

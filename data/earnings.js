@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-26T13:50:33+00:00",
+  "generated_at": "2026-09-26T17:38:24+00:00",
   "by_date": {
     "2026-09-28": [
       {
@@ -927,14 +927,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "NG",
-        "date": "2026-10-06",
-        "hour": "",
-        "eps_estimate": -0.0773,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "NKGN",
         "date": "2026-10-06",
         "hour": "",
@@ -1127,6 +1119,14 @@ window.theBriefEarnings = {
         "date": "2026-10-08",
         "hour": "",
         "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NG",
+        "date": "2026-10-08",
+        "hour": "",
+        "eps_estimate": -0.0773,
         "revenue_estimate": null,
         "is_watchlist": false
       },
