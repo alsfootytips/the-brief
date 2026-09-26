@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-26T04:23:15.267843+00:00",
+  "generated_at": "2026-09-26T09:28:45.578223+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bank of America Just Upped Its Price Target on AMD Stock\""
+      "move_reason": "News: \"Penguin Solutions and onsemi Shares Skyrocket, What You Need To Know\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Consumer Sentiment Falls Again In September\""
+      "move_reason": "News: \"Weekly Commentary: Too Big To Fail Redux\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fidelity\u2019s Fundamental Large Cap Growth ETF, Explained in Plain English\""
+      "move_reason": "News: \"Burger King Is Eating McDonald's Lunch. Here's What the Golden Arches Need to Do Now.\""
     },
     {
       "ticker": "OSCR",
