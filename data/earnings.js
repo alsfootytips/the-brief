@@ -1,24 +1,6 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-25T23:57:40+00:00",
+  "generated_at": "2026-09-26T00:17:55+00:00",
   "by_date": {
-    "2026-09-25": [
-      {
-        "ticker": "FGPR",
-        "date": "2026-09-25",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "TBN",
-        "date": "2026-09-25",
-        "hour": "bmo",
-        "eps_estimate": -0.1654,
-        "revenue_estimate": 1843250,
-        "is_watchlist": false
-      }
-    ],
     "2026-09-28": [
       {
         "ticker": "ABLV",
@@ -621,7 +603,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ACN",
         "date": "2026-10-01",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 3.2131,
         "revenue_estimate": 18210424017,
         "is_watchlist": false
