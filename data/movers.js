@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-26T17:38:24.445651+00:00",
+  "generated_at": "2026-09-26T20:09:16.403266+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If You Invest $500 a Month in AMD Starting Now, This is What You\u2019d Have in 2030\""
+      "move_reason": "News: \"1 Agentic AI Chip Stock to Buy and 1 to Sell\""
     },
     {
       "ticker": "APA",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Solar Stocks\u2019 Headline Gains Mask a Widening Split Between Megacaps and Pure Plays\""
+      "move_reason": "News: \"Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?\""
     },
     {
       "ticker": "IWM",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend ...\""
+      "move_reason": "News: \"Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?\""
     },
     {
       "ticker": "OSCR",

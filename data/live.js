@@ -1,6 +1,154 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-26T17:38:24.450717+00:00",
+  "generated_at": "2026-09-26T20:09:16.407258+00:00",
   "events": [
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T20:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T19:23:56+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T19:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "White House moves to block $810 million in funding through pocket rescission",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T18:46:48+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing identifies 737 MAX software glitch that could impact navigation: WSJ",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4647379-boeing-identifies-737-max-software-glitch-could-impact-navigation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T18:45:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kalshi loses appeals court ruling on state regulation of prediction markets",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4647378-kalshi-loses-appeals-court-ruling-on-state-regulation-of-prediction-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T18:27:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Foreign capital investment into US equities hits record",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4647377-foreign-capital-investment-into-us-equities-hits-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T18:04:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T17:54:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efc63eb281446aa03403868bcf9309de9e6f931da01ec7e23d21d90aba30ffe2",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T17:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efc63eb281446aa03403868bcf9309de9e6f931da01ec7e23d21d90aba30ffe2",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T17:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3826c145cd476ce4cf1d6246ac4325e9bde549aebb5b0924b75b7b9fad324e79",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T17:36:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3826c145cd476ce4cf1d6246ac4325e9bde549aebb5b0924b75b7b9fad324e79",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T17:36:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "2 Monthly Dividend Stocks Yielding Over 6% I Actually Own",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfbac643f1d912fb567fc653c62351190835b23e5611e77c7e18d8cf93d97563",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T17:20:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
     {
       "type": "news",
       "ticker": null,
@@ -67,6 +215,18 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Broadcom Has More Than One Way to Win. Here\u2019s Where I See the Stock Going",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7db80f6cdf7166a419b8121e59e9e6312912d70e86da37fa0e27c4d425d5c545",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T16:45:11+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -137,28 +297,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SA Asks: Is now the time to buy streaming stocks? If so, which ones?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4647367-sa-asks-is-now-the-time-to-buy-streaming-stocks-if-so-which-ones?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T16:00:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CNN barred from travelling with Trump on Air Force One on Saturday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4647373-cnn-barred-travelling-trump-air-force-one-saturday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T15:50:04+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Tax-free bond yields are in a sweet spot. Get in before it\u2019s too late.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
@@ -180,42 +318,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e196836783a78be29ce01429534317a1dd0a37089ae94d2685bd7e73c3caef52",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T15:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Huang says 1 number in the AI debate isn't science-based at all",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3f4e9d9d374355dabb80bc1ff18841406238d46b1e89ba2db9867c39cc46d89",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T15:33:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e721721929d2b0d3a90d92545bdf56c7e222a076ce98f951d6d776f541f32d77",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T15:31:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
       "source": "MarketWatch",
@@ -224,43 +326,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-26T15:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T15:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T15:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump, Xi agree to cut tariffs on $30B worth of goods",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4647372-trump-xi-agree-cut-tariffs-30b-worth-goods?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T15:13:02+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "mover_statement",
@@ -277,28 +342,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Do this one thing to help prevent your parents from being scammed",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T15:04:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T15:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -476,18 +519,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "China Won't Move Chip Stocks Anymore",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=01816fc4ab9318669e391835bc282880a019cc329cb99b11e678ce1c85c76b10",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T10:50:47+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Could an iced coffee freeze you out of the job market?",
       "source": "BBC Business",
@@ -512,18 +543,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "CRWV",
-      "headline": "On Force Majeure And The Notable Insider Selling Across The AI Ecosystem",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba1bfd8fa0eb9b455cc79014c68c603c6b3dd4a7fda41f3cb173e55ee7c24f6d",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T08:34:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
       "headline": "On Force Majeure And The Notable Insider Selling Across The AI Ecosystem",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ba1bfd8fa0eb9b455cc79014c68c603c6b3dd4a7fda41f3cb173e55ee7c24f6d",
@@ -576,7 +595,7 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFZoZDdKM2NZd3RrRFBLRGQ3VWoteUxkRFFtemw1RGVqbXdBWEdDR3FNazZ6MERQMWdCMThtVnJ5dnpmYjU0WWgzZW03OU5vWVZKLXRmS0s2c3BKV2lKbTlGLTJDRThYRW96eGJNVEhDZ3VEVVhPNGxpSkszTFc5WXNNQWh4dVRYWEJIZkhPTGN3ZDJXeW5FV2dYT3M?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-09-26T05:11:44+00:00",
+      "timestamp": "2026-09-26T05:09:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -668,17 +687,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-25T22:53:52+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -990,17 +998,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "American farmers are hurting -- and worried about their futures",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
-      "is_watchlist": false,
-      "timestamp": "2026-09-25T09:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
@@ -1011,15 +1008,14 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Predictive Maintenance Market Forecasts Growth from $13.89B (2026) to $23.79B by 2031, Profiling ABB, Honeywell, Schneider Electric, IBM & GE Vernova",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eec6ca7073c9ddf2afb21b98007f07ed264e2742a41412d1731dc2006095d89e",
-      "is_watchlist": true,
-      "timestamp": "2026-09-25T08:26:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "American farmers are hurting -- and worried about their futures",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+      "is_watchlist": false,
+      "timestamp": "2026-09-25T09:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "filing",
