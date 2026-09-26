@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-26T09:28:45.578223+00:00",
+  "generated_at": "2026-09-26T13:50:33.543659+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -197,7 +197,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SK Hynix\u2019s Solidigm Weighs IPO That Could Raise $15 Billion, Report Says\""
+      "move_reason": "News: \"On Force Majeure And The Notable Insider Selling Across The AI Ecosystem\""
     },
     {
       "ticker": "NBIS",
@@ -269,7 +269,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Fall Late Afternoon\""
+      "move_reason": "News: \"My Biggest Bet: 3 Dividend Investments Boosted By 2 Major Macro Tailwinds\""
     },
     {
       "ticker": "XLC",
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Is a Trending Stock: Facts to Know Before Betting on It\""
+      "move_reason": "News: \"The Trade Desk (NASDAQ:TTD) as a Growth at a Reasonable Price Candidate\""
     },
     {
       "ticker": "XLRE",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Penguin Solutions and onsemi Shares Skyrocket, What You Need To Know\""
+      "move_reason": "News: \"On Force Majeure And The Notable Insider Selling Across The AI Ecosystem\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SK Hynix\u2019s Solidigm Weighs IPO That Could Raise $15 Billion, Report Says\""
+      "move_reason": "News: \"On Force Majeure And The Notable Insider Selling Across The AI Ecosystem\""
     },
     {
       "ticker": "DG",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Too Big To Fail Redux\""
+      "move_reason": "News: \"S&P 500: I'm Holding What I Have, But There's No Way I'm Adding In This Environment\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Burger King Is Eating McDonald's Lunch. Here's What the Golden Arches Need to Do Now.\""
+      "move_reason": "News: \"Is Ford Stock a Buy for Its Dividend?\""
     },
     {
       "ticker": "OSCR",
@@ -461,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Is a Trending Stock: Facts to Know Before Betting on It\""
+      "move_reason": "News: \"The Trade Desk (NASDAQ:TTD) as a Growth at a Reasonable Price Candidate\""
     },
     {
       "ticker": "XLE",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Fall Late Afternoon\""
+      "move_reason": "News: \"My Biggest Bet: 3 Dividend Investments Boosted By 2 Major Macro Tailwinds\""
     }
   ],
   "indices": [
