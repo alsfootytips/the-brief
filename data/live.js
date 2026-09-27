@@ -1,16 +1,152 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-27T01:06:50.814546+00:00",
+  "generated_at": "2026-09-27T06:37:45.172644+00:00",
   "events": [
     {
       "type": "news",
       "ticker": null,
-      "headline": "China consumer stocks near decade lows as investors pile into AI",
+      "headline": "U.S. understands Taiwan\u2019s defence needs amid China threat, official says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/china-consumer-stocks-near-decade-lows-as-investors-pile-into-ai-4918679",
+      "url": "https://www.investing.com/news/economy-news/us-understands-taiwans-defence-needs-amid-china-threat-official-says-4918829",
       "is_watchlist": false,
-      "timestamp": "2026-09-27T00:33:42+00:00",
+      "timestamp": "2026-09-27T06:00:41+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin steadies above $84,000 as historic Q3 rally nears its end",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-84000-as-historic-q3-rally-nears-its-end-4918823",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T05:48:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: This Space Stock Will Outperform SpaceX Over the Next 10 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc6a35bc6ad6a60db7ab1aa187ef2b5a6e038bb739999b210bee65a1c6f56998",
+      "is_watchlist": true,
+      "timestamp": "2026-09-27T05:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US consulate builder in Milan to pay $35 million over labour probe, document shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-consulate-builder-in-milan-to-pay-35-million-over-labour-probe-document-shows-4918811",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T05:06:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "5 big analyst AI moves: Muse AI seen as major catalyst for Meta; MSFT upgraded",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-muse-ai-seen-as-major-catalyst-for-meta-msft-upgraded-4918281",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T05:05:39+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Juniper investment company buys $2.73m in Orthofix shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/juniper-investment-company-buys-273m-in-orthofix-shares-93CH-4918809",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T05:01:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T05:00:02+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Joby Aviation chief policy officer sells $38,976 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/joby-aviation-chief-policy-officer-sells-38976-in-stock-93CH-4918806",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T04:45:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China state media says U.S. shares responsibility for managing AI",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/china-state-media-says-us-shares-responsibility-for-managing-ai-4918804",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T04:39:39+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Core Scientific chief legal officer Todd Duchene sells $183,746 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/core-scientific-chief-legal-officer-todd-duchene-sells-183746-in-shares-93CH-4918801",
+      "is_watchlist": false,
+      "timestamp": "2026-09-27T04:31:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Meta Stock Is Having Its Best Month Since 2013. History Says Every 20% Month Has Led to Gains a Year Later.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70d6576f534b2563f817c9b8d65db59d1f175c40f673d68e77502050a5059209",
+      "is_watchlist": true,
+      "timestamp": "2026-09-27T03:12:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f72f4de1d44f4ee9244c7f89dc5c824d80bf381ca63beebe989af5c4dbc5d8b5",
+      "is_watchlist": true,
+      "timestamp": "2026-09-27T02:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Prediction: Here's What a $5,000 Investment in AMD Could Be Worth by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5844e64addb336f98eca5c2ee11049ee244c0eb29dbd96c903d98870b134203",
+      "is_watchlist": true,
+      "timestamp": "2026-09-27T01:58:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -24,113 +160,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Horizon Kinetics buys $352 in Texas Pacific Land (TPL) stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-352-in-texas-pacific-land-tpl-stock-93CH-4918675",
-      "is_watchlist": false,
-      "timestamp": "2026-09-27T00:16:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump administration set to ease Biden-era fuel economy rules",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-administration-set-to-ease-bidenera-fuel-economy-rules-4918674",
-      "is_watchlist": false,
-      "timestamp": "2026-09-27T00:01:41+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adlai Nortye director Ji Ping sells $83,150 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/adlai-nortye-director-ji-ping-sells-83150-in-shares-93CH-4918669",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T23:45:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "This Little-Known Cryptocurrency Is Up 217% for the Year. But Is It a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b48e6e0212bf365feacbe27c35ef0756df690b9f73afd0bd0d7dd622112f4639",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T23:39:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nor\u2019easter brings flooding, power outages across US Northeast, over 400 flights canceled",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/noreaster-leaves-over-100000-customers-without-power-in-us-northeast-over-400-flights-canceled-4918608",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T23:30:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran insists on diplomacy after Trump rejects Hormuz peace plan",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/iran-insists-on-diplomacy-after-trump-rejects-hormuz-peace-plan-4918668",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T23:19:31+00:00",
-      "relevance_score": 7.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Are investors expecting too many hikes from the ECB?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/are-investors-expecting-too-many-hikes-from-the-ecb-4918666",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T23:12:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UBS discusses potential political scenarios in Germany amid elevated risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ubs-discusses-potential-political-scenarios-in-germany-amid-elevated-risks-4918665",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T22:50:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "I'd Put $10,000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4c8f1fc79517df8dcb57e0d94528020dee874609ea57d6e67ddcb6972ed789c",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T22:43:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -141,19 +170,19 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
       "is_watchlist": true,
-      "timestamp": "2026-09-26T22:42:34+00:00",
+      "timestamp": "2026-09-26T22:36:00+00:00",
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "This Nuclear Stock Could Make Patient Investors Rich",
+      "ticker": "TTD",
+      "headline": "Reddit vs. The Trade Desk: Here's the Better Media Stock to Buy in 2026",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b378222ed0d7d72aa8375ec5d51233d0533eb55ee048a26dbc6f17e5a26c877",
+      "url": "https://finnhub.io/api/news?id=f045a74689323a6d1e01ff54505d6eb24751ba3148a22c407a0b484fc4dfb7bb",
       "is_watchlist": true,
-      "timestamp": "2026-09-26T22:25:00+00:00",
+      "timestamp": "2026-09-26T22:05:35+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -168,6 +197,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-26T21:55:01+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "OSCR",
+      "headline": "Oscar Health: Market Share Gains Are Only Part Of The Plan",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9449fe2a1a7c79913479115280699eafe378d572f6e9afefed4a31a10ca7d4d",
+      "is_watchlist": true,
+      "timestamp": "2026-09-26T21:31:24+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -241,6 +282,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-26T20:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T19:59:32+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -390,18 +443,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Broadcom Has More Than One Way to Win. Here\u2019s Where I See the Stock Going",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7db80f6cdf7166a419b8121e59e9e6312912d70e86da37fa0e27c4d425d5c545",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T16:45:11+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Choosing these AI-exposed college majors could dent your job prospects \u2014 and lower your pay",
       "source": "MarketWatch",
@@ -474,22 +515,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "headline": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-09-26T13:30:06+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Berkshire adds to nearly doubled stake in slumping homebuilder",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T13:14:15+00:00",
+      "timestamp": "2026-09-26T13:20:42+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -549,6 +579,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-26T10:05:36+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T10:00:01+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -618,9 +659,43 @@ window.theBriefLive = {
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFZoZDdKM2NZd3RrRFBLRGQ3VWoteUxkRFFtemw1RGVqbXdBWEdDR3FNazZ6MERQMWdCMThtVnJ5dnpmYjU0WWgzZW03OU5vWVZKLXRmS0s2c3BKV2lKbTlGLTJDRThYRW96eGJNVEhDZ3VEVVhPNGxpSkszTFc5WXNNQWh4dVRYWEJIZkhPTGN3ZDJXeW5FV2dYT3M?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-09-26T05:11:44+00:00",
+      "timestamp": "2026-09-26T05:09:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese AI models surge in global popularity \u2014 and Washington is worried",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T05:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How Trump\u2019s diesel ban threat is making US exports more profitable",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/trump-s-diesel-ban-talk-has-just-made-us-exports-more-lucrative",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T04:13:15+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crude oil price dips as traders weigh US-Iran Hormuz talks, supply risks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/latest-oil-market-news-and-analysis-for-date",
+      "is_watchlist": false,
+      "timestamp": "2026-09-26T03:37:54+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -646,22 +721,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump rejects Iranian proposal to open Hormuz and end fighting - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-26T01:59:00+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": "DG",
       "headline": "HSBC Upgrades Dollar General (DG) and Lifts its Target to $160",
@@ -672,17 +731,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-26T01:25:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -709,17 +757,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-25T22:31:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "Q2 Earnings Highs And Lows: Texas Pacific Land (NYSE:TPL) Vs The Rest Of The U.S. Shale E&P Stocks",
       "source": "Yahoo",
@@ -741,21 +778,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran's Araqchi says now up to US to accept 7-day plan - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmpYaGtLNnJmeGdiOGNJZVNJQVJ0eVNmRzdLNHdQWF9hVkFfZ3FkSmtwamwxUmpkdWJJNmxldmtYckJzUGpFblZsYzVLV19PeFd2ZkFvSmgxUDJZQUF4MUdSQXU4SjFlWmM2WU42clJWNUlVNy1DVkRmY2k3MEJoQkQteWVKdVlBaFNiLWVla3FnTXdHSUdBZGN4eXhNUDJfN2c?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-25T20:36:09+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -994,9 +1016,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
+      "headline": "American farmers are hurting -- and worried about their futures",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
       "is_watchlist": false,
       "timestamp": "2026-09-25T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -1005,9 +1027,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "American farmers are hurting -- and worried about their futures",
+      "headline": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
       "source": "NPR Business",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
       "is_watchlist": false,
       "timestamp": "2026-09-25T09:00:00+00:00",
       "relevance_score": 0.0,
@@ -1061,17 +1083,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-24T20:57:11+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Mortgage rates have just surpassed 7% for the first time in well over a year",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
@@ -1099,18 +1110,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=555e45d238edf9f434598687fa2a471b81022c797fe8ae8a802cacda1471a122",
       "is_watchlist": true,
       "timestamp": "2026-09-24T14:40:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "The Trade Desk (TTD) Is a Trending Stock: Facts to Know Before Betting on It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b21f4dc8bb90bbea3714a3471012f265c29b5fdb43c4d8e2b5e7ab6d76bcea30",
-      "is_watchlist": true,
-      "timestamp": "2026-09-24T12:00:03+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

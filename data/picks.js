@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-09-27T01:06:50.903871+00:00",
+  "generated_at": "2026-09-27T06:37:45.299020+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,7 +27,7 @@ window.theBriefPicks = {
       "current_pct": 32.01,
       "change_pct_today": 2.55,
       "name": "Oscar Health",
-      "news_count": 0,
+      "news_count": 1,
       "days_elapsed": 22,
       "days_remaining": 34,
       "pick_type": "strategic",
@@ -852,7 +852,7 @@ window.theBriefPicks = {
       "current_pct": -1.82,
       "change_pct_today": 2.55,
       "name": "Oscar Health",
-      "news_count": 0,
+      "news_count": 1,
       "days_elapsed": 28,
       "days_remaining": 0,
       "closed_at": "2026-07-29",

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-27T01:06:50.808601+00:00",
+  "generated_at": "2026-09-27T06:37:45.168519+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Oscar Health: Market Share Gains Are Only Part Of The Plan\""
     },
     {
       "ticker": "DG",
@@ -292,7 +292,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (NASDAQ:TTD) as a Growth at a Reasonable Price Candidate\""
+      "move_reason": "News: \"Reddit vs. The Trade Desk: Here's the Better Media Stock to Buy in 2026\""
     },
     {
       "ticker": "XLRE",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD: First AI Target Hit, Likely $1,000 Up Next\""
+      "move_reason": "News: \"Prediction: Here's What a $5,000 Investment in AMD Could Be Worth by 2030\""
     },
     {
       "ticker": "APA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Little-Known Cryptocurrency Is Up 217% for the Year. But Is It a Buy?\""
+      "move_reason": "News: \"Prediction: This Space Stock Will Outperform SpaceX Over the Next 10 Years\""
     },
     {
       "ticker": "OSCR",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Oscar Health: Market Share Gains Are Only Part Of The Plan\""
     },
     {
       "ticker": "OXY",
@@ -461,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (NASDAQ:TTD) as a Growth at a Reasonable Price Candidate\""
+      "move_reason": "News: \"Reddit vs. The Trade Desk: Here's the Better Media Stock to Buy in 2026\""
     },
     {
       "ticker": "XLE",
