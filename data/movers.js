@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-27T12:29:09.343422+00:00",
+  "generated_at": "2026-09-27T17:13:40.688548+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -197,7 +197,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"UBS makes bold call as CoreWeave faces $35 billion problem\""
+      "move_reason": "News: \"CoreWeave: Opportunity Is Back As The Market Blinks (Rating Upgrade)\""
     },
     {
       "ticker": "NBIS",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Riot Platforms Is Quietly Spending Its Bitcoin \u2014 Here\u2019s Why That Matters\""
+      "move_reason": "News: \"Intel CEO Lip-Bu Tan Has Incredible News for AMD Stock Investors\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"UBS makes bold call as CoreWeave faces $35 billion problem\""
+      "move_reason": "News: \"CoreWeave: Opportunity Is Back As The Market Blinks (Rating Upgrade)\""
     },
     {
       "ticker": "DG",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic and OpenAI Are Both Racing to IPO. GE Vernova Wins Either Way.\""
+      "move_reason": "News: \"A $470 Sell Rating Calls GE Vernova a Cyclical Turbine Maker. Its CEO Says 2032 Slots Are ...\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Europe Pays For America's Rates, America Keeps The Growth\""
+      "move_reason": "News: \"Time To Load Up Before Q4 Hits Home\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Stock's 10% Yield Beats the Market. Its 10-Year Return Doesn't. Is It a Value Trap, o...\""
+      "move_reason": "News: \"Jensen Huang Says AI Safety Is an Engineering Problem. OpenAI\u2019s Evidence Says It\u2019s More Co...\""
     },
     {
       "ticker": "OSCR",
