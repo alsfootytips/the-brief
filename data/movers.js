@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-27T06:37:45.168519+00:00",
+  "generated_at": "2026-09-27T12:29:09.343422+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Here's What a $5,000 Investment in AMD Could Be Worth by 2030\""
+      "move_reason": "News: \"Riot Platforms Is Quietly Spending Its Bitcoin \u2014 Here\u2019s Why That Matters\""
     },
     {
       "ticker": "APA",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late to Buy GE Vernova After Its 45% Gain in 2026?\""
+      "move_reason": "News: \"Anthropic and OpenAI Are Both Racing to IPO. GE Vernova Wins Either Way.\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report, September 26, 2026\""
+      "move_reason": "News: \"Europe Pays For America's Rates, America Keeps The Growth\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This Space Stock Will Outperform SpaceX Over the Next 10 Years\""
+      "move_reason": "News: \"This Stock's 10% Yield Beats the Market. Its 10-Year Return Doesn't. Is It a Value Trap, o...\""
     },
     {
       "ticker": "OSCR",
