@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-27T17:13:40.688548+00:00",
+  "generated_at": "2026-09-27T20:11:26.265614+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel CEO Lip-Bu Tan Has Incredible News for AMD Stock Investors\""
+      "move_reason": "News: \"Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent\""
     },
     {
       "ticker": "APA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Says AI Safety Is an Engineering Problem. OpenAI\u2019s Evidence Says It\u2019s More Co...\""
+      "move_reason": "News: \"Is VOO Near an All-Time High a Better Buy Than Lululemon Stock Trading Under $105 Per Shar...\""
     },
     {
       "ticker": "OSCR",
