@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-27T20:11:26.265614+00:00",
+  "generated_at": "2026-09-27T23:04:25.341083+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General CEO warns $100k a year is no longer enough to feel like you\u2019re higher incom...\""
+      "move_reason": "News: \"Halloween Spending Expected to Set Record. Bargain-Hunting Dominates.\""
     },
     {
       "ticker": "XLI",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent\""
+      "move_reason": "News: \"AMD\u2019s $1 Trillion Valuation Raises the Bar for its AI Ambitions\""
     },
     {
       "ticker": "APA",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General CEO warns $100k a year is no longer enough to feel like you\u2019re higher incom...\""
+      "move_reason": "News: \"Halloween Spending Expected to Set Record. Bargain-Hunting Dominates.\""
     },
     {
       "ticker": "GEV",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Time To Load Up Before Q4 Hits Home\""
+      "move_reason": "News: \"AVUV's Profitability Screen Has Holes\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is VOO Near an All-Time High a Better Buy Than Lululemon Stock Trading Under $105 Per Shar...\""
+      "move_reason": "News: \"1 Top Warren Buffett Stock Trading 21% Below Its All-Time High That Can Double a $1,000 In...\""
     },
     {
       "ticker": "OSCR",
