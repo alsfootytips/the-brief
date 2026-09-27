@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-26T22:51:40.849916+00:00",
+  "generated_at": "2026-09-27T01:06:50.808601+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Agentic AI Chip Stock to Buy and 1 to Sell\""
+      "move_reason": "News: \"AMD: First AI Target Hit, Likely $1,000 Up Next\""
     },
     {
       "ticker": "APA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Pentagon Is Buying eVTOLs. Here's Which Stock Wins the Defense Money.\""
+      "move_reason": "News: \"This Little-Known Cryptocurrency Is Up 217% for the Year. But Is It a Buy?\""
     },
     {
       "ticker": "OSCR",
@@ -698,13 +698,13 @@ window.theBriefMovers = {
       "score": 5.5,
       "signals": [
         "Moved -2.11% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 14.1 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved -2.11% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "7 insider buys vs 3 sells (last 90 days)",
         "Forward P/E 14.1 (cheap on absolute basis)"
       ],
