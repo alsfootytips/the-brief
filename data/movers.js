@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-28T01:40:10.909417+00:00",
+  "generated_at": "2026-09-28T07:40:07.133547+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -106,18 +106,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 146.12,
-      "change_pct": 0.55,
-      "volume_ratio": 0.93,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "SPY",
       "name": "SPDR S&P 500 ETF",
       "price": 771.35,
@@ -151,18 +139,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 112.8,
-      "change_pct": 0.46,
-      "volume_ratio": 0.87,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLP",
       "name": "Consumer Staples Select",
       "price": 82.06,
@@ -172,6 +148,29 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 39.51,
+      "change_pct": 0.38,
+      "volume_ratio": 1.23,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 630.99,
+      "change_pct": 0.27,
+      "volume_ratio": 0.67,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Why Did AMD, HPE, MRNA Stocks Surge To 52-Week Highs Last Week?\""
     }
   ],
   "losers": [
@@ -197,7 +196,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Opportunity Is Back As The Market Blinks (Rating Upgrade)\""
+      "move_reason": "News: \"\u2018Big Short\u2019 Fame Michael Burry Says Trump \u2018Cannot Afford\u2019 To Let AI Boom Fall\""
     },
     {
       "ticker": "NBIS",
@@ -304,6 +303,30 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 145.82,
+      "change_pct": -0.21,
+      "volume_ratio": 0.52,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 112.64,
+      "change_pct": -0.14,
+      "volume_ratio": 0.61,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -317,7 +340,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD\u2019s $1 Trillion Valuation Raises the Bar for its AI Ambitions\""
+      "move_reason": "News: \"Why Did AMD, HPE, MRNA Stocks Surge To 52-Week Highs Last Week?\""
     },
     {
       "ticker": "APA",
@@ -341,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave: Opportunity Is Back As The Market Blinks (Rating Upgrade)\""
+      "move_reason": "News: \"\u2018Big Short\u2019 Fame Michael Burry Says Trump \u2018Cannot Afford\u2019 To Let AI Boom Fall\""
     },
     {
       "ticker": "DG",
@@ -365,7 +388,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A $470 Sell Rating Calls GE Vernova a Cyclical Turbine Maker. Its CEO Says 2032 Slots Are ...\""
+      "move_reason": "News: \"X-Energy vs. GE Vernova: Is the New IPO the Better Buy?\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +400,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AVUV's Profitability Screen Has Holes\""
+      "move_reason": "News: \"Geopolitics, Inflation And Central Banks Set The Direction For Markets\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +424,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends\""
+      "move_reason": "News: \"If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today\""
     },
     {
       "ticker": "OSCR",
