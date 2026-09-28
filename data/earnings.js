@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-27T23:04:25+00:00",
+  "generated_at": "2026-09-28T01:40:10+00:00",
   "by_date": {
     "2026-09-28": [
       {
@@ -1218,6 +1218,168 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      }
+    ],
+    "2026-10-12": [
+      {
+        "ticker": "ACZT",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ALDS",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BMRA",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BZYR",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DYNT",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FNGR",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HFUS",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HWNI",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LQMT",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LUVU",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NAAS",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NGTF",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NRIS",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PNFP",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": 2.6699,
+        "revenue_estimate": 1307665438,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "QNME",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RCON",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": -93.84,
+        "revenue_estimate": 6528000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SGLY",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SOND",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "STME",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "UNTY",
+        "date": "2026-10-12",
+        "hour": "",
+        "eps_estimate": 1.5988,
+        "revenue_estimate": 36375923,
         "is_watchlist": false
       }
     ]

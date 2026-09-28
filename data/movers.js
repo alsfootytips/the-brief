@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-27T23:04:25.341083+00:00",
+  "generated_at": "2026-09-28T01:40:10.909417+00:00",
   "gainers": [
     {
       "ticker": "MSFT",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health: Market Share Gains Are Only Part Of The Plan\""
+      "move_reason": "News: \"Oscar Health (OSCR) Stock Looks Cheap Relative To Its Earnings Path\""
     },
     {
       "ticker": "DG",
@@ -69,7 +69,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week September 27\""
+      "move_reason": "Tracking XLI sector (+0.95% today)"
     },
     {
       "ticker": "TPL",
@@ -81,7 +81,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Earn 10-15% Potential Income: Monthly Options Series (Oct. 2026)\""
     },
     {
       "ticker": "XLK",
@@ -209,7 +209,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Palantir (PLTR) Is Up 6.8% After Expanding AIP Deals And Announcing Nebius AI Partners...\""
+      "move_reason": "News: \"Nebius Is Raising the Price of Its AI Compute on Oct. 1. Here's What That Says About the S...\""
     },
     {
       "ticker": "APA",
@@ -221,7 +221,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Just Gave Investors Something To Think About\""
+      "move_reason": "Tracking XLE sector (-0.96% today)"
     },
     {
       "ticker": "OXY",
@@ -233,7 +233,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Happens To ExxonMobil Stock If Refining Profits Fade?\""
+      "move_reason": "Tracking XLE sector (-0.96% today)"
     },
     {
       "ticker": "PLTR",
@@ -329,7 +329,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Just Gave Investors Something To Think About\""
+      "move_reason": "Tracking XLE sector (-0.96% today)"
     },
     {
       "ticker": "CRWV",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Palantir (PLTR) Is Up 6.8% After Expanding AIP Deals And Announcing Nebius AI Partners...\""
+      "move_reason": "News: \"Nebius Is Raising the Price of Its AI Compute on Oct. 1. Here's What That Says About the S...\""
     },
     {
       "ticker": "NVDA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Top Warren Buffett Stock Trading 21% Below Its All-Time High That Can Double a $1,000 In...\""
+      "move_reason": "News: \"Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends\""
     },
     {
       "ticker": "OSCR",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health: Market Share Gains Are Only Part Of The Plan\""
+      "move_reason": "News: \"Oscar Health (OSCR) Stock Looks Cheap Relative To Its Earnings Path\""
     },
     {
       "ticker": "OXY",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Happens To ExxonMobil Stock If Refining Profits Fade?\""
+      "move_reason": "Tracking XLE sector (-0.96% today)"
     },
     {
       "ticker": "PWR",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week September 27\""
+      "move_reason": "Tracking XLI sector (+0.95% today)"
     },
     {
       "ticker": "TPL",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Earn 10-15% Potential Income: Monthly Options Series (Oct. 2026)\""
     },
     {
       "ticker": "TTD",
@@ -747,12 +747,12 @@ window.theBriefMovers = {
       "change_pct": -2.13,
       "score": 4.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 9.6 (cheap on absolute basis)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 9.6 (cheap on absolute basis)"
       ],
