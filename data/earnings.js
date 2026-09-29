@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-29T14:16:28+00:00",
+  "generated_at": "2026-09-29T17:18:49+00:00",
   "by_date": {
     "2026-09-29": [
       {
@@ -223,14 +223,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "ANGO",
-        "date": "2026-10-01",
-        "hour": "",
-        "eps_estimate": -0.1156,
-        "revenue_estimate": 82110000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "AYI",
         "date": "2026-10-01",
         "hour": "bmo",
@@ -332,6 +324,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NKE",
+        "date": "2026-10-01",
+        "hour": "amc",
+        "eps_estimate": 0.4444,
+        "revenue_estimate": 11451807997,
         "is_watchlist": false
       },
       {
@@ -591,6 +591,14 @@ window.theBriefEarnings = {
     ],
     "2026-10-07": [
       {
+        "ticker": "APLD",
+        "date": "2026-10-07",
+        "hour": "",
+        "eps_estimate": -0.3098,
+        "revenue_estimate": 137557016,
+        "is_watchlist": false
+      },
+      {
         "ticker": "BKSC",
         "date": "2026-10-07",
         "hour": "",
@@ -654,6 +662,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ANGO",
+        "date": "2026-10-08",
+        "hour": "",
+        "eps_estimate": -0.1156,
+        "revenue_estimate": 82110000,
         "is_watchlist": false
       },
       {
