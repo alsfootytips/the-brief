@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-29T01:22:43.418054+00:00",
+  "generated_at": "2026-09-29T01:31:13.384047+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,10 +8,21 @@ window.theBriefLive = {
       "change_pct": -3.22,
       "price": 610.3,
       "is_watchlist": true,
-      "timestamp": "2026-09-29T01:22:43.250399+00:00",
+      "timestamp": "2026-09-29T01:31:13.381532+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold steadies near seven-week low after 4% plunge as Fed hike bets rise",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/gold-steadies-near-sevenweek-low-after-4-plunge-as-fed-hike-bets-rise-4921480",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:21:33+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -21,6 +32,50 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-09-29T01:18:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Monopar Therapeutics CEO Robinson sells $2.5m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/monopar-therapeutics-ceo-robinson-sells-25m-in-stock-93CH-4921477",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:15:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Photronics director Lee sells $221,250 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/photronics-director-lee-sells-221250-in-company-stock-93CH-4921476",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:15:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korean exports seen rising for 16th month on solid AI chip demand: Reuters poll",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/south-korean-exports-seen-rising-for-16th-month-on-solid-ai-chip-demand-reuters-poll-4921475",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:12:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CSL partners with AWS on AI for drug research and development",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/csl-partners-with-aws-on-ai-for-drug-research-and-development-93CH-4921474",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:12:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -38,104 +93,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "SK Hynix boxed in at KRW 1,777,000 support: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-doji-at-fibonacci-inflection-1808000-live-levels-93CH-4919227",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:06:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nikkei 225 trapped inside Ichimoku cloud: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-trapped-in-6520067100-range-live-levels-93CH-4919228",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:06:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI shelves new AI model release over safety concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-4921332",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T01:01:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Burnham to unveil public body to invest in electricity grid",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-09-29T00:40:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil prices rise for second session on continued Middle East supply concern",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern-4921465",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T00:36:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fed\u2019s Cook sees further inflationary pressures ahead",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/feds-cook-sees-further-inflationary-pressures-ahead-4920948",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T00:36:31+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Julong announces $897,750 private placement of shares and warrants",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/julong-announces-897750-private-placement-of-shares-and-warrants-93CH-4921464",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T00:36:30+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Virtuix Holdings director Brett Moyer sells $10,353 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/virtuix-holdings-director-brett-moyer-sells-10353-in-stock-93CH-4921461",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T00:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crowdstrike CEO George Kurtz sells $5.16m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-516m-in-shares-93CH-4921459",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T00:31:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Samsung, affiliates to invest $1 billion in AI infrastructure firm Helix",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-affiliates-to-invest-1-billion-in-ai-infrastructure-firm-helix-4921450",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T00:21:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Tether USDT aids Iran funding, Senate report says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/tether-usdt-aids-iran-funding-senate-report-says-4920946",
-      "is_watchlist": true,
-      "timestamp": "2026-09-29T00:19:26+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-Anthropic leaders to control AI lab via \u2019Founder LLC\u2019 to promote public good over market forces",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-leaders-to-control-ai-lab-via-founder-llc-to-promote-public-good-over-market-forces-4921448",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T00:19:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -276,17 +271,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-28T22:49:39+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -504,6 +488,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-09-28T21:19:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-28T21:08:05+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
