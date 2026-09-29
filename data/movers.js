@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-09-29T01:31:13.379693+00:00",
+  "generated_at": "2026-09-29T07:27:59.681980+00:00",
   "gainers": [
     {
       "ticker": "NVDA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sandisk Jumped 22% the Day After Micron's Last Report. Micron Reports Again Wednesday.\""
+      "move_reason": "News: \"Stock-Split Watch: Is Meta Platforms Next?\""
     },
     {
       "ticker": "OSCR",
@@ -45,6 +45,30 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 145.38,
+      "change_pct": 0.22,
+      "volume_ratio": 0.28,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 112.26,
+      "change_pct": 0.18,
+      "volume_ratio": 0.3,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     },
     {
@@ -119,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Burry Sees AI Bubble Bursting Sooner, Shifts to Put Options\""
+      "move_reason": "News: \"Michael Burry Said AI Bursts in 2028. One Weekend of Research Changed That\""
     },
     {
       "ticker": "TTD",
@@ -211,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rolls Royce Stock And 2 Top Nuclear Power Stocks\""
+      "move_reason": "News: \"GE Vernova (GEV) Has a $176 Billion Backlog. Can It Turn Demand Into Durable Growth?\""
     },
     {
       "ticker": "XLI",
@@ -296,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rolls Royce Stock And 2 Top Nuclear Power Stocks\""
+      "move_reason": "News: \"GE Vernova (GEV) Has a $176 Billion Backlog. Can It Turn Demand Into Durable Growth?\""
     },
     {
       "ticker": "IWM",
@@ -308,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Market Is Wrong About Big Tech\""
+      "move_reason": "News: \"Cumberland's Monday Memo\""
     },
     {
       "ticker": "NBIS",
@@ -320,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Burry Sees AI Bubble Bursting Sooner, Shifts to Put Options\""
+      "move_reason": "News: \"Michael Burry Said AI Bursts in 2028. One Weekend of Research Changed That\""
     },
     {
       "ticker": "NVDA",
@@ -332,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sandisk Jumped 22% the Day After Micron's Last Report. Micron Reports Again Wednesday.\""
+      "move_reason": "News: \"Stock-Split Watch: Is Meta Platforms Next?\""
     },
     {
       "ticker": "OSCR",
@@ -435,6 +459,16 @@ window.theBriefMovers = {
       "price": 736.53,
       "change_pct": -1.07,
       "volume_ratio": 1.2,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 765.61,
+      "change_pct": -0.74,
+      "volume_ratio": 0.99,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
