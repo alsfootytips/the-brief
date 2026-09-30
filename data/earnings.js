@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-09-30T15:21:34+00:00",
+  "generated_at": "2026-09-30T17:16:44+00:00",
   "by_date": {
     "2026-09-30": [
       {
@@ -411,6 +411,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "AXIL",
+        "date": "2026-10-06",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "FBSI",
         "date": "2026-10-06",
         "hour": "",
@@ -572,14 +580,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.1156,
         "revenue_estimate": 82110000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AXIL",
-        "date": "2026-10-08",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
@@ -970,6 +970,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 4.4347,
         "revenue_estimate": 1185077389,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FBK",
+        "date": "2026-10-13",
+        "hour": "",
+        "eps_estimate": 1.2102,
+        "revenue_estimate": 183238038,
         "is_watchlist": false
       },
       {
