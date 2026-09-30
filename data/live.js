@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-30T00:56:40.382378+00:00",
+  "generated_at": "2026-09-30T02:10:03.608292+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,10 +8,164 @@ window.theBriefLive = {
       "change_pct": 3.55,
       "price": 240.12,
       "is_watchlist": true,
-      "timestamp": "2026-09-30T00:56:40.142314+00:00",
+      "timestamp": "2026-09-30T02:10:03.605639+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Talen Energy names Nutt to become new CEO as McFarland set to retire",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4648317-talen-energy-names-nutt-to-become-new-ceo-as-mcfarland-set-to-retire?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:57:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China factory activity snaps 2-month contractionary streak in September",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:52:50+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jonathan Dobres, Pagaya CFO, sells $10,053 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/jonathan-dobres-pagaya-cfo-sells-10053-in-shares-93CH-4924008",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:50:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "New Murchison Gold at JMM Gold Forum 2026: cash-rich growth plan",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/new-murchison-gold-at-jmm-gold-forum-2026-cashrich-growth-plan-93CH-4923999",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:48:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China\u2019s factory activity returns to growth in September amid AI boom",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/chinas-factory-activity-returns-to-growth-in-september-amid-ai-boom-4923991",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:48:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Photronics SVP & GM Park Han Kyung sells $288,515 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/photronics-svp--gm-park-han-kyung-sells-288515-in-shares-93CH-4923998",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:45:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Definium Therapeutics CMO Daniel Karlin sells $396,894 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/definium-therapeutics-cmo-daniel-karlin-sells-396894-in-stock-93CH-4923997",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:45:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Definium Therapeutics CEO Robert Barrow sells $1.15 million in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/definium-therapeutics-ceo-robert-barrow-sells-115-million-in-shares-93CH-4923996",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:45:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Becton Dickinson EVP Michael Feld sells $13,961 in BDX shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/becton-dickinson-evp-michael-feld-sells-13961-in-bdx-shares-93CH-4923995",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:45:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: AnteoTech flags lower FY 2026 sales, shares fall",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-anteotech-flags-lower-fy-2026-sales-shares-fall-93CH-4923994",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:45:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Boeing wins $20B Navy fighter contract, its 2nd major stealth jet program",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4648316-boeing-wins-20b-navy-fighter-contract-its-2nd-major-stealth-jet-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:30:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Capricor jumps as study shows longer-term effects of deramiocel",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4648315-capricor-jumps-as-study-shows-longer-term-effects-of-deramiocel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:24:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:22:32+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-09-30T01:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -21,17 +175,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-30T00:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cathie Wood\u2019s ARK sells AMD stock, buys Nvidia and Tesla",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-nvidia-and-tesla-93CH-4923926",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:21:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -48,80 +191,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Boeing wins US Navy\u2019s next-generation fighter contract, Pentagon says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/boeing-wins-us-navys-nextgeneration-fighter-contract-sources-say-4923747",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:18:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Why Marvell Technology Stock Triumphed on Tuesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d75315514838dfc008a0ca9d554c3eb3290d12ff0791435e9c01ae9aa7b7080",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T00:06:42+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Pagaya Technologies president Sanjiv Das sells $243,672 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pagaya-technologies-president-sanjiv-das-sells-243672-in-shares-93CH-4923925",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:16:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan industrial production unexpectedly falls in August, retail sales slow",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/japan-industrial-production-unexpectedly-falls-in-august-retail-sales-slow-4923919",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:15:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Standard Lithium at Lytham Partners fall 2026: de-risked push toward 2029",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/standard-lithium-at-lytham-partners-fall-2026-derisked-push-toward-2029-93CH-4923918",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:13:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Uranium Energy earnings missed by $0.08, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/uranium-energy-earnings-missed-by-008-revenue-topped-estimates-4923917",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:12:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Concentrix earnings beat by $0.21, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/concentrix-earnings-beat-by-021-revenue-fell-short-of-estimates-4923916",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:10:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Robinhood unveils AI agents for automated trading",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/robinhood-unveils-ai-agents-for-automated-trading-4923915",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T00:06:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Review & Preview: Yields Beat Doves",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9c3eb377ad27378331d878234fdfaa55c89cc71ab59a7c91263afc178024ab8",
+      "is_watchlist": true,
+      "timestamp": "2026-09-29T23:55:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -148,18 +238,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Perella Weinberg Partners Stock Skyrocketed Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35051791ed000b39bd0121f401c463187d78de20fa9f4ceba899287699231609",
-      "is_watchlist": true,
-      "timestamp": "2026-09-29T23:44:43+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
       "source": "MarketWatch",
@@ -179,18 +257,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-29T23:23:40+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Staar Surgical Zoomed Almost 8% Higher on Tuesday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c23703d6eaa3fd0db55c3429c30c540a304f5845b094bf1e8c635926aca0c3db",
-      "is_watchlist": true,
-      "timestamp": "2026-09-29T23:21:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -295,6 +361,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Qatari mediators press peace deal between US and Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNDSVp4Qi1GQVY3bEJ2d0dpZzVBbEU4NUpYQzBpV2QwaW9uVGdwdHJnQkstVFlUSTNRazRHaUVFOVFWOTJXRjhnS2dncDBNLVVsa0JiWC0zN3ktZXdvV0tWN3FrakF4aUZIX0w2RjMwVHJWc0lBZUpYU09SWmsyUmdQd3dJdXh1N3lTb1pDZ1ZEYkhOUTVPV0lhak9YM3ZxTm1vR1BmRnFnZjNUMWF0M1NabHhLblkxd05FM3dn?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T22:19:14+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Anthropic IPO reveals AI lab's dependence on small group of partners: report",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4648303-anthropic-ipo-reveals-ai-labs-dependence-on-small-group-of-partners-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -352,45 +429,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lockheed Martin inks $297M U.S. Navy contract and $724M in missile defense contract",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4648294-lockheed-martin-inks-297m-us-navy-contract-and-724m-in-missile-defense-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T21:59:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Modern Technology secures a $474M ceiling Air Force R&D contract",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4648311-modern-technology-secures-a-474m-ceiling-air-force-rd-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T21:59:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Hollywood\u2019s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-09-29T21:56:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Smart Shooter wins $150M Army contract for counter-drone tech",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4648310-smart-shooter-wins-150m-army-contract-for-counter-drone-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T21:53:08+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -429,17 +473,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T21:43:50+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Innodata vs. Nebius Group N.V.: Which AI Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -449,17 +482,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Target\u2019s price cuts are a sign of strength, some analysts say. Investors disagree.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T21:33:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -668,6 +690,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Oil prices settle down 2.5% on signs Middle East exports recovering - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-09-29T19:30:44+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Homeowners are sitting on record equity \u2013 and not using it",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
@@ -675,6 +708,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-29T19:23:06+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "The Credit Rout Is No Longer a Distant Threat: 4 ETFs Show How a Looming Debt Collapse Could Hit Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e81c3df8039311deea48a95e0822e69951d4dc2c36738709afcfcdd498ec00e",
+      "is_watchlist": true,
+      "timestamp": "2026-09-29T19:14:54+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -732,39 +777,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGhLcllsckhTZ1ZsYzVwdzc1V2p5UWhmZFpSa2xJbVhmNTJXckNxVTE2ckkzcGl0N25US0JaTjFId1hMZHFSelBoUWx0Y0VvNEZlVWstOWp1b2F0Wm5fOEZVNW1GRkIwbHYyaE1QSmRkSnpuNVo2UkJ5SHZpT094a0xkcmFKaE5GLU53U3hPTlVqWjFoNjRMUWY5cWRyN0pxa3BhUGU3My0tNEN4bTE1MTVVZXVKQTNTTG1FYl9oNE1MLVBUUkVCSHRIcS0?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T18:40:53+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UK police say no explosive devices found in airbase probe - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUxVYmd1LVFBRTFKeTE2cjhic3VRLVpTN2xkMnhhQlFGMVFxUm1qM3FlMnVDZkM3RjBLS0QzMHlXQ3h4RlI4SXVEZF9CMXVGblg5WlE5NVVOOXJKRkI3ZkdTQWMyQlRuNVdaeUQtTnZHeHNla3JyNXdXbzY4c19yRUdtWDIxdjYxS3ZxZDFZQ3VMVW5hejhteWJmOFI?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T17:36:53+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzc4cTNMeUhoSHg2R2Mxa1hVMUtWb2xGbk92dHp0aWUzejZKbWVVbjBRb240dzRuX0dNVTMwbDVPOXRJbWJhT28xTEpwTGMyZEZKMXpSTlJFLTRVZkd6RDVzYk9vZFBKNkNEdE9ENFo0WDhXaWRTZ2Q0bzBpeEFRUDM5WF9JOFpBYmJ6U3ZkRnRtdFBUQmkzN0M3WEtsazI5TDFPNEl3eHViVGNuSlJHZzBVbFN6eXdrVVNYWmx2OA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-09-29T17:26:10+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -881,18 +893,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=1d930544fb8a9f8854e8f75941b6bf6b2244b39e655e9ae8188ef090b0a565a8",
       "is_watchlist": true,
       "timestamp": "2026-09-29T13:19:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "3 Key Members Of The AI Ecosystem Continue To Send Up Red Flags",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=02e5f2bcefea7e0d7de078ddec16f5975970a119ad1cc17170974023a5891fde",
-      "is_watchlist": true,
-      "timestamp": "2026-09-29T12:49:44+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
