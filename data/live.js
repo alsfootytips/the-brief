@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-09-30T23:54:22.712445+00:00",
+  "generated_at": "2026-10-01T00:57:37.659805+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,10 +8,166 @@ window.theBriefLive = {
       "change_pct": 3.76,
       "price": 30.89,
       "is_watchlist": true,
-      "timestamp": "2026-09-30T23:54:22.709892+00:00",
+      "timestamp": "2026-10-01T00:57:37.469427+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Contract vote looms for Boeing workers after improved offer",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/contract-vote-looms-for-boeing-workers-after-improved-offer-4925684",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:48:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. stock futures rise following upbeat Micron earnings",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-following-upbeat-micron-earnings-4926147",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:43:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan September factory growth slows to 6-month low, PMI shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/japan-september-factory-growth-slows-to-6month-low-pmi-shows-4926146",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:43:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "TSMC evaluates potential Texas investment, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/tsmc-evaluates-potential-texas-investment-sources-say-4924436",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:42:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-factory-growth-hits-4month-high-as-export-orders-boom-pmi-shows-4926145",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:42:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korea ordered to pay Elliott $48.49 million in Samsung merger case",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/south-korea-ordered-to-pay-elliott-4849-million-in-samsung-merger-case-4926142",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:31:29+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Medifast director Daniel Chard sells $226,288 in company shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/medifast-director-daniel-chard-sells-226288-in-company-shares-93CH-4926141",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:31:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crowdstrike CEO George Kurtz sells $5.16m in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-516m-in-company-stock-93CH-4926140",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:31:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nvidia Could Have a Monster October. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=098f9eddad33e548b6ace72d5b5df9d3bca0678e963281149902cb7192461575",
+      "is_watchlist": true,
+      "timestamp": "2026-10-01T00:23:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:20:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Trend vs. Hype",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7c4a53bcaa40d5f5cfd919bc15bd033ad552f7889f0e5fc52405e163383713f",
+      "is_watchlist": true,
+      "timestamp": "2026-10-01T00:14:38+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:11:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI links China\u2019s Moonshot AI to attempt to extract its models\u2019 reasoning",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T00:04:29+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -26,59 +182,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:44:28+00:00",
-      "relevance_score": 4.0,
+      "ticker": "NVDA",
+      "headline": "Warren Buffett's Record: $1,000 Became About $61 Million. Can Greg Abel Keep Compounding It?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f64cf8d0bfe65ab93a4ead735ee19ec12352ebade3499f14b6d76e7e942b0c07",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T23:50:00+00:00",
+      "relevance_score": 3.5,
       "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Trupanion COO John Gallagher sells $9,878 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/trupanion-coo-john-gallagher-sells-9878-in-company-stock-93CH-4926094",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:31:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Kingsway director Joshua Horowitz buys $33,121 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/kingsway-director-joshua-horowitz-buys-33121-in-stock-93CH-4926095",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:31:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lumentum president Yuen sells $764,365 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/lumentum-president-yuen-sells-764365-in-company-stock-93CH-4926093",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:31:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Australian home prices fall for sixth straight month, set for worst downturn in 30 years",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/australian-home-prices-fall-for-sixth-straight-month-in-september-sales-tumble-4925406",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:30:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NBIS",
+      "headline": "Nebius Chief Revenue Officer Liquidates Entire Directly-Held Shares for $1.5 Million",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4156b246f936f21f26be464d498a3de0138d161f72d3b18c8f1694119ef6fb06",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T23:38:10+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -95,17 +219,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US senators hit deal on energy project permitting bill, vote after midterm elections",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-senators-hit-deal-on-energy-project-permitting-bill-vote-seen-after-november-4925715",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:25:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Dye & Durham outlines completing remaining cost initiatives by end of fiscal 2027 as Q4 adjusted EBITDA margin reaches ~53%",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4648808-dye-and-durham-outlines-completing-remaining-cost-initiatives-by-end-of-fiscal-2027-as-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -116,36 +229,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Paramount gets court green light on Warner Bros deal, names Mattel\u2019s Kreiz co-CEO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:18:50+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BioCardia president and CEO Peter Altman buys $1,030 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/biocardia-president-and-ceo-peter-altman-buys-1030-in-shares-93CH-4926083",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:16:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-expected-to-announce-54-billion-south-korea-investment-in-alaska-lng-sources-say-4925265",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T23:12:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a438b5d0e95cb6bd7403fa88539f5348b58651232f9615f1d3f5d35a122dbaa",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T23:04:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -193,6 +285,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05f0faa62c99f8b860e776225960b1b9282d8a0daccfaf8d8a47b1ec1a05a793",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T23:00:09+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Google shows it\u2019s not out of the AI race just yet",
       "source": "MarketWatch",
@@ -201,6 +305,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-30T22:51:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "'AI or bust:' Tech trade powered stocks through volatile September",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=170ba7372fe2294fc40a734dde16cf0abff20301866e10da30e83de3d900198f",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T22:47:59+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -252,30 +368,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70621d3264f819ce191cd5084fd2f0e9b0b998cdc1a56523ec51421ff4fec6c5",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T21:55:37+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Rivian Stock Is Going to $19 According to This Wall Street Analyst. Here's Why They May Be Right.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=045c60443fe3b8f884485ad1e8d11c5564f1e11aaabbae519d1b9fa8ea8f1113",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "MoonLake Immunotherapeutics submits sonelokimab BLA",
       "source": "Seeking Alpha Market",
@@ -320,42 +412,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Celcuity Stock Was a Winner on Wednesday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23ed0e5f27ccccbbdfc78b83c146e8e4830a97a281a0740bc213e1d7284445a4",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T21:41:35+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T21:40:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T21:40:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Meta stock enjoys best month since 2022 on AI momentum",
       "source": "CNBC Top",
@@ -364,18 +420,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-30T21:36:47+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6bec3842e7e85aec2dccfa3ef370700b4074dae52069b5e3b419f998bded238d",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T21:33:13+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -398,6 +442,30 @@ window.theBriefLive = {
       "timestamp": "2026-09-30T21:16:00+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "APA",
+      "headline": "APA (APA) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=520e1e882f933e99a2e79487124e3d771fc0717e13ad595960089fa44ae203bd",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T21:15:05+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Why Quanta Services (PWR) Dipped More Than Broader Market Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17d79371e28568caa0bb4ed3aff2cd8a2ec8e5564526fdd1b2d9ded34f1623ad",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T21:15:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -457,28 +525,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T20:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T20:32:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "GE Vernova (GEV) Secures NRC Permit For New Reactor Design",
       "source": "Yahoo",
@@ -491,23 +537,36 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0a772f357a8bf048c56b8917ebcbad2074660291e875b28636423462d3d48b0",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T20:04:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Core PCE Inflation At 3% In August, Unchanged From July",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e5c0c4beffa43391aded8523d647b3eb267c92f3baccc854bb8443f06306de3a",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T20:00:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Why Jim Cramer isn't buying more Boeing despite its huge Navy contract win",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/30/why-jim-cramer-isnt-buying-more-boeing-despite-its-huge-navy-contract-win-.html",
       "is_watchlist": false,
       "timestamp": "2026-09-30T19:47:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Paramount\u2019s mega debt sale reveals how higher bond yields are squeezing corporate America",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T19:42:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -546,6 +605,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Analysts Are Feeling Bullish on CoreWeave Stock. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4836e51ca6af86ed07e2329060e8d4c0fc4c8f92897d421b5b50eb99beeec97",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T17:57:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Israeli strikes kill seven people in Gaza, medics say - Reuters",
       "source": "Reuters",
@@ -568,6 +639,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2c84434bb60d20fbf4e0f955fadbb3f054c31b5bfee13ab9b8edafa37dd356a",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T17:49:33+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Kalshi traders see high odds Anthropic's IPO is announced this year",
       "source": "CNBC Markets",
@@ -576,6 +659,18 @@ window.theBriefLive = {
       "timestamp": "2026-09-30T17:27:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04fd3e0cffa9e6ee92dd9163c915e2be922a6da22d3b52e9037dd7cb6dbc1267",
+      "is_watchlist": true,
+      "timestamp": "2026-09-30T17:16:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -673,18 +768,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave Stock Rises After Neocloud Goes Live With New Nvidia Hardware",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc908df5a7bf82bf33047e72b3b06e506edb1f4a2eb9cb57e938ec4825e0255b",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T15:22:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "CoreWeave Stock Rises After Neocloud Goes Live With New Nvidia Hardware",
       "source": "Yahoo",
@@ -720,30 +803,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "PWR",
-      "headline": "MYRG's T&D Segment 1H26 Revenues Up 10%: More Upside Ahead?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=516724cdc9eb4d2fd020147eda427c46c5426111046c5c9dedf1e71798d9074f",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T14:49:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "3 Market Predictions For October",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d4a92a1f7656291714060f318161574146cb58dcb6421a5ef150f503e5c28f26",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T14:36:48+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Household energy bills forecast to see biggest rise in four years",
       "source": "BBC Business",
@@ -755,18 +814,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "I've Changed My Mind on Nebius Stock. The AI Supercycle Has Room for More Than Just Hyperscalers.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b6aa77c53b1c8de07e76b42924a7d3c4a6edea2b6ffdefd283a86c7a5e433067",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T14:36:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Regulating AI 'not the right place to start' says Bailey",
       "source": "BBC Business",
@@ -775,18 +822,6 @@ window.theBriefLive = {
       "timestamp": "2026-09-30T14:00:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy Stocks Advance Pre-Bell Wednesday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b2f431eae6d978bdcdbfdb5888a558cdeca80428539d6a13502b6813ec96d4f",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T13:29:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -844,18 +879,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=cffda572a9d0d936d5145ca1ec5d13600b4db73aed518c4558209850c7c42e1d",
       "is_watchlist": true,
       "timestamp": "2026-09-30T11:18:35+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Growth Leads Sectors In Wednesday Trading As Defensives Trail",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5ca1280c948bd6d076ec17449dfbfc4d3d6cd1d147579f6de31243f5e0027f36",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T11:12:53+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -947,18 +970,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=2952e5482cd232f98b673a4b95b1e7d5492d76a35d8ac43da95ce345fa2b2df3",
       "is_watchlist": true,
       "timestamp": "2026-09-29T20:50:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c687114604d72bfc77cdb3a12c6ae6fa727131618f018a9c4c8a8c9d9a812d9e",
-      "is_watchlist": true,
-      "timestamp": "2026-09-29T20:00:34+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1134,30 +1145,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Oscar Health (OSCR) Stock Looks Cheap Relative To Its Earnings Path",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d79429f7f85f05b2af14bf6b9dc2db014408804e224c275d0324ef11bb275a07",
-      "is_watchlist": true,
-      "timestamp": "2026-09-27T13:08:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "Earn 10-15% Potential Income: Monthly Options Series (Oct. 2026)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7c1a0aeb6277c151d4fccec96b9399cf1676fb428cb2d9bf97e8b20a119ac724",
-      "is_watchlist": true,
-      "timestamp": "2026-09-27T08:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",
