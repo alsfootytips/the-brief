@@ -1,14 +1,26 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-01T17:23:17.693815+00:00",
+  "generated_at": "2026-10-01T17:44:52.551042+00:00",
   "events": [
+    {
+      "type": "mover",
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "change_pct": 3.4,
+      "price": 336.91,
+      "is_watchlist": true,
+      "timestamp": "2026-10-01T17:44:52.390502+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
     {
       "type": "mover",
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "change_pct": 3.01,
-      "price": 56.99,
+      "change_pct": 3.43,
+      "price": 57.22,
       "is_watchlist": true,
-      "timestamp": "2026-10-01T17:23:17.691672+00:00",
+      "timestamp": "2026-10-01T17:44:52.390498+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -17,10 +29,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 4.51,
-      "price": 993.36,
+      "change_pct": 4.65,
+      "price": 994.66,
       "is_watchlist": true,
-      "timestamp": "2026-10-01T17:23:17.691663+00:00",
+      "timestamp": "2026-10-01T17:44:52.390487+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,10 +41,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": 3.0,
-      "price": 42.78,
+      "change_pct": 3.11,
+      "price": 42.83,
       "is_watchlist": true,
-      "timestamp": "2026-10-01T17:23:17.691655+00:00",
+      "timestamp": "2026-10-01T17:44:52.390478+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -40,77 +52,77 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mattel hopes to make a splash with its water parks rollout",
+      "headline": "SPDR Portfolio Intermediate Term Treasury ETF declares monthly distribution of $0.0915",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649247-mattel-hopes-to-make-a-splash-with-its-water-parks-rollout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4649321-spdr-portfolio-intermediate-term-treasury-etf-declares-monthly-distribution-of-00915?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-01T17:20:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mountain Province in restructuring deal; De Beers to get stake in Canadian diamond mine",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649274-mountain-province-in-restructuring-deal-de-beers-to-get-stake-in-canadian-diamond-mine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T17:19:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SPDR Barclays Convertible Securities ETF declares monthly distribution of $0.0915",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649290-spdr-barclays-convertible-securities-etf-declares-monthly-distribution-of-00915?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T17:19:05+00:00",
+      "timestamp": "2026-10-01T17:39:51+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SPDR Barclays High Yield Bond ETF declares monthly distribution of $0.5313",
+      "headline": "SPDR Portfolio Mortgage Backed Bond ETF declares monthly distribution of $0.0730",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649289-spdr-barclays-high-yield-bond-etf-declares-monthly-distribution-of-05313?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4649320-spdr-portfolio-mortgage-backed-bond-etf-declares-monthly-distribution-of-00730?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-01T17:18:41+00:00",
+      "timestamp": "2026-10-01T17:39:18+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SPDR Bloomberg Barclays International Corporate Bond ETF declares monthly distribution of $0.0724",
+      "headline": "SPDR Portfolio TIPS ETF declares monthly distribution of $0.0189",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649288-spdr-bloomberg-barclays-international-corporate-bond-etf-declares-monthly-distribution-of-00724?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4649319-spdr-portfolio-tips-etf-declares-monthly-distribution-of-00189?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-01T17:18:12+00:00",
+      "timestamp": "2026-10-01T17:38:44+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SPDR Nuveen S&P High Yield Municipal Bond ETF declares monthly distribution of $0.0901",
+      "headline": "SPDR Portfolio High Yield Bond ETF declares monthly distribution of $0.1388",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649287-spdr-nuveen-sp-high-yield-municipal-bond-etf-declares-monthly-distribution-of-00901?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4649318-spdr-portfolio-high-yield-bond-etf-declares-monthly-distribution-of-01388?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-01T17:17:38+00:00",
+      "timestamp": "2026-10-01T17:38:17+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SPDR SSGA Fixed Income Sector Rotation ETF declares monthly distribution of $0.0934",
+      "headline": "SPDR Portfolio Corporate Bond ETF declares monthly distribution of $0.1244",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649286-spdr-ssga-fixed-income-sector-rotation-etf-declares-monthly-distribution-of-00934?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4649317-spdr-portfolio-corporate-bond-etf-declares-monthly-distribution-of-01244?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-01T17:17:17+00:00",
+      "timestamp": "2026-10-01T17:37:46+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SPDR Citi International Government Inflation-Protected Bond ETF declares monthly distribution of $0.2379",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4649316-spdr-citi-international-government-inflation-protected-bond-etf-declares-monthly-distribution-of-02379?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:37:16+00:00",
+      "relevance_score": -2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SPDR SSGA Ultra Short Term Bond ETF declares monthly distribution of $0.1358",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4649315-spdr-ssga-ultra-short-term-bond-etf-declares-monthly-distribution-of-01358?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:36:45+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
     },
@@ -121,8 +133,75 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-01T17:16:29+00:00",
+      "timestamp": "2026-10-01T17:34:40+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK in talks with EU partners to release strategic fuel reserves if needed, BBC understands",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:27:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Liquidity Services stock hits 52-week high at $44.25",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/liquidity-services-stock-hits-52week-high-at-4425-93CH-4928014",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:21:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-launches-13th-longduration-astronaut-crew-to-international-space-station-4927867",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:18:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exclusive-US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveus-slows-aircraftpart-exports-to-china-as-trump-seeks-leverage-in-trade-negotiations-sources-say-4926850",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:18:34+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Unicaja chairman to step down after next shareholder meeting",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/unicaja-chairman-to-step-down-after-next-shareholder-meeting-93CH-4928012",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:17:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Legal & General admits 88,525 shares to London Stock Exchange",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/legal--general-admits-88525-shares-to-london-stock-exchange-93CH-4928011",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:16:50+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -139,6 +218,28 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Microsoft\u2019s EVP of M365 apps Ryan Roslansky to leave company",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/microsofts-evp-of-m365-apps-ryan-roslansky-to-leave-company-93CH-4928005",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:13:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/florida-attorney-general-sues-pfizer-and-ceo-over-covid19-vaccine-claims-4927994",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:13:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
@@ -147,6 +248,17 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Italy\u2019s state budget deficit widens to \u20ac27 billion in September",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/italys-state-budget-deficit-widens-to-27-billion-in-september-93CH-4927998",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T17:10:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -170,28 +282,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street dips as rising Treasury yields outweigh software gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/dow-futures-hit-threemonth-low-as-yields-surge-micron-earnings-offer-support-4926657",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:54:48+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yields fall after US 10-year hits highest since 2002; stocks, euro also decline",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4926176",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:54:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -233,77 +323,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "European stocks close at three-month lows as surging bond yields hammer banks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/european-stocks-start-quarter-lower-as-global-yields-hit-multiyear-highs-4926446",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:48:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Mark Zuckerberg is coming for Apple\u2019s empire",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-01T16:47:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Brink\u2019s declares quarterly dividend of $0.255 per share",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/brinks-declares-quarterly-dividend-of-0255-per-share-93CH-4927972",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:44:28+00:00",
-      "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Europe stock sell-off continues as French budget unveil and inflation weigh",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-q4-begins-on-soaring-energy-and-inflation-pain-4926358",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:44:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tesla September registrations rise across Europe, extending recovery",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/tesla-september-registrations-rise-across-europe-extending-recovery-4926450",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:43:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bond selloff could mean outsized portfolio changes at quarter\u2019s end",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bond-selloff-could-mean-outsized-portfolio-changes-at-quarters-end-4926628",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:43:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Liontrust reduces stake in Everplay Group to 4.93%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/liontrust-reduces-stake-in-everplay-group-to-493-93CH-4927971",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T16:42:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -393,6 +417,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
       "is_watchlist": false,
       "timestamp": "2026-10-01T16:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli airlines plan to resume Dubai flights after flydubai incident - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTVCTm5OUGRQR0FhMF9DYW82eWVXNE5NUUNJWGtNT3VRUHNjRjY4dWlSMXJtbHpSZTRWa3lfUWpVeFQwSmIzbVlwY2oxSXBwd1VMZE9ZYzRvdEZrWjBsdGVyVE9VOXRXY0lhcmNYMVExdmE2dmd1ck0tQlZaUG5CcFVvY0pMWEpic0pkMndCWlNXZDZmNWx3UUd1VHJmdzZENUYwUmNYOEJLTkF6NFFYZDdJUmIzWXpKZDhHRw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-01T15:53:13+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -533,15 +568,19 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
       "ticker": null,
-      "headline": "Israeli airlines plan to resume Dubai flights after flydubai incident - Reuters",
+      "headline": "Bank of England official says central bank mishandled its first response to Iran shock - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTVCTm5OUGRQR0FhMF9DYW82eWVXNE5NUUNJWGtNT3VRUHNjRjY4dWlSMXJtbHpSZTRWa3lfUWpVeFQwSmIzbVlwY2oxSXBwd1VMZE9ZYzRvdEZrWjBsdGVyVE9VOXRXY0lhcmNYMVExdmE2dmd1ck0tQlZaUG5CcFVvY0pMWEpic0pkMndCWlNXZDZmNWx3UUd1VHJmdzZENUYwUmNYOEJLTkF6NFFYZDdJUmIzWXpKZDhHRw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T13:54:24+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFFDV0VIUlhqd2p6QzJXRWpTZzNIQWlNOG1JTUhfNnJHV1REN19JWGU5N3BhcHY0Z3l6cnFZUDd0SHZ1VFlNLXgwY09OeVNuQjB3clpGcTlBNzhNZUI4d1lGUFBKQlRpQzNreXV1UlR2YlJHOF81Zmo3MTFMQi16bmdMZEZVeWV3c2NjTTZzVmxjZXNGUUZ5U1FaQ1VwNGo0YjNJ?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-01T14:32:24+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -588,17 +627,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-01T13:19:21+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Most Gulf bourses edge lower on mixed US-Iran cues - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGpvMmwtQUlCZVVaUldveU41LVUxcUFWRnpMakpGUW9KMkRTUVZxZERPbXpHc3NDUUtNR1RnVGhpZ0dqNzJSRU81Nk5Ub1c3RlhKOXVFWXVIRExQaG1fQXFXR2xxVnIwWUtqZjBmWE9TX2tWMWJ3ZVBNcjlLdHNFNF9OQXJBNHpZaU9MdmFKajNXR1BPaXR1MmJGTUVEbUU3dmRsb3hEQnJJRFRwX3hSZy1tVHpoQzFG?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-01T13:10:57+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -952,17 +980,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Household energy bills forecast to see biggest rise in four years",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-09-30T14:36:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
