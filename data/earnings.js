@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-02T07:20:09+00:00",
+  "generated_at": "2026-10-02T14:01:48+00:00",
   "by_date": {
     "2026-10-02": [
       {
@@ -470,6 +470,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.6129,
         "revenue_estimate": 24768150,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RELL",
+        "date": "2026-10-07",
+        "hour": "",
+        "eps_estimate": 0.0918,
+        "revenue_estimate": 60164700,
         "is_watchlist": false
       },
       {
@@ -1099,14 +1107,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "RELL",
-        "date": "2026-10-14",
-        "hour": "",
-        "eps_estimate": 0.0918,
-        "revenue_estimate": 60164700,
-        "is_watchlist": false
-      },
-      {
         "ticker": "STT",
         "date": "2026-10-14",
         "hour": "bmo",
@@ -1162,14 +1162,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.523,
         "revenue_estimate": 4354601870,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AMTB",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": 0.5791,
-        "revenue_estimate": 105418275,
         "is_watchlist": false
       },
       {
@@ -1365,14 +1357,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "HFWA",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": 0.51,
-        "revenue_estimate": 87846684,
-        "is_watchlist": false
-      },
-      {
         "ticker": "HRI",
         "date": "2026-10-15",
         "hour": "",
@@ -1458,14 +1442,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "OZK",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": 1.4489,
-        "revenue_estimate": 439210872,
         "is_watchlist": false
       },
       {
