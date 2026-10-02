@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-02T19:19:17+00:00",
+  "generated_at": "2026-10-02T23:09:21+00:00",
   "by_date": {
     "2026-10-02": [
       {
@@ -475,7 +475,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RELL",
         "date": "2026-10-07",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0918,
         "revenue_estimate": 60164700,
         "is_watchlist": false
@@ -655,7 +655,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HOVR",
         "date": "2026-10-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.134,
         "revenue_estimate": 0,
         "is_watchlist": false
