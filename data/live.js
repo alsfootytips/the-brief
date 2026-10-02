@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-02T01:13:13.707920+00:00",
+  "generated_at": "2026-10-02T01:19:26.935185+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.81,
       "price": 338.25,
       "is_watchlist": true,
-      "timestamp": "2026-10-02T01:13:13.554669+00:00",
+      "timestamp": "2026-10-02T01:19:26.932630+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 3.46,
       "price": 664.6,
       "is_watchlist": true,
-      "timestamp": "2026-10-02T01:13:13.554666+00:00",
+      "timestamp": "2026-10-02T01:19:26.932627+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -32,7 +32,7 @@ window.theBriefLive = {
       "change_pct": 4.57,
       "price": 57.85,
       "is_watchlist": true,
-      "timestamp": "2026-10-02T01:13:13.554662+00:00",
+      "timestamp": "2026-10-02T01:19:26.932623+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -44,7 +44,7 @@ window.theBriefLive = {
       "change_pct": 3.84,
       "price": 987.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-02T01:13:13.554651+00:00",
+      "timestamp": "2026-10-02T01:19:26.932613+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,10 +56,43 @@ window.theBriefLive = {
       "change_pct": 4.18,
       "price": 43.28,
       "is_watchlist": true,
-      "timestamp": "2026-10-02T01:13:13.554642+00:00",
+      "timestamp": "2026-10-02T01:19:26.932604+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UMH Properties declares $0.225 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4649609-umh-properties-declares-0_225-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-02T01:14:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alamo declares $0.34 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4649608-alamo-declares-0_34-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-02T01:14:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Healthcare Trust 7.125% PFD SER B declares $0.075 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4649607-healthcare-trust-7_125-percent-pfd-ser-b-declares-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-02T01:13:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -108,45 +141,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Highland Global Allocation Fund declares $0.085 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649602-highland-global-allocation-fund-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T01:07:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "OpenAI fires three workers over mishandling 'sensitive information'",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-10-02T01:05:13+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Highland Income Fund declares $0.0385 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649601-highland-income-fund-declares-0_0385-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T01:04:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Petrus Resources declares CAD 0.01 dividend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4649600-petrus-resources-declares-cad-0_01-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T01:03:36+00:00",
-      "relevance_score": -4.0,
       "relevance_tier": "low"
     },
     {
