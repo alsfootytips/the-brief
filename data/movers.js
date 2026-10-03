@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-03T13:05:46.441777+00:00",
+  "generated_at": "2026-10-03T17:17:35.870638+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, ...\""
+      "move_reason": "News: \"Can AMD\u2019s CPU Business Fund Its AI Chip Ambitions?\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA (NASDAQ:NVDA) Screens as a Decent Value Stock\""
+      "move_reason": "News: \"VIG vs. SCHD: The Better Dividend ETF Might Be the One With the Lower Yield\""
     },
     {
       "ticker": "XLY",
@@ -116,7 +116,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CHAI offers engineers 50% more total compensation, paid in cash\""
+      "move_reason": "News: \"Where Will CoreWeave Stock Be in 5 Years?\""
     },
     {
       "ticker": "VWRP.L",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SPY And USO: Hold Into Trump's Election Deadline\""
+      "move_reason": "News: \"Macro Conditions May Mean A Period Of No Growth Lies Ahead\""
     },
     {
       "ticker": "VUAG.L",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, ...\""
+      "move_reason": "News: \"Can AMD\u2019s CPU Business Fund Its AI Chip Ambitions?\""
     },
     {
       "ticker": "APA",
@@ -275,7 +275,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CHAI offers engineers 50% more total compensation, paid in cash\""
+      "move_reason": "News: \"Where Will CoreWeave Stock Be in 5 Years?\""
     },
     {
       "ticker": "DG",
@@ -287,7 +287,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Walmart, Target and Dollar General Gain From Tariff Refunds\""
+      "move_reason": "News: \"Fuel, Freight and Supplier Costs Bite: How Walmart, Costco, Target and Other Retailers Are...\""
     },
     {
       "ticker": "GEV",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SPY And USO: Hold Into Trump's Election Deadline\""
+      "move_reason": "News: \"Macro Conditions May Mean A Period Of No Growth Lies Ahead\""
     },
     {
       "ticker": "NBIS",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA (NASDAQ:NVDA) Screens as a Decent Value Stock\""
+      "move_reason": "News: \"VIG vs. SCHD: The Better Dividend ETF Might Be the One With the Lower Yield\""
     },
     {
       "ticker": "OSCR",
