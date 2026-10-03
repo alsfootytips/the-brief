@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-03T01:57:36.280235+00:00",
+  "generated_at": "2026-10-03T07:50:34.955042+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Hewlett Packard Enterprise (HPE) Stock Is Up Today\""
+      "move_reason": "News: \"Why AMD Stock Jumped 30% in September\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why IDT Stock Was a Massive Winner This Week\""
+      "move_reason": "News: \"Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?\""
     },
     {
       "ticker": "XLY",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Real Personal Income\""
+      "move_reason": "News: \"Private Sector Jobs Are Still Growing\""
     },
     {
       "ticker": "VUAG.L",
@@ -190,7 +190,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. The Trade Desk: Which Adtech Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"Should You Buy And Hold AppLovin Stock?\""
     },
     {
       "ticker": "PLTR",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Hewlett Packard Enterprise (HPE) Stock Is Up Today\""
+      "move_reason": "News: \"Why AMD Stock Jumped 30% in September\""
     },
     {
       "ticker": "APA",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Real Personal Income\""
+      "move_reason": "News: \"Private Sector Jobs Are Still Growing\""
     },
     {
       "ticker": "NBIS",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why IDT Stock Was a Massive Winner This Week\""
+      "move_reason": "News: \"Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?\""
     },
     {
       "ticker": "OSCR",
@@ -395,7 +395,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. The Trade Desk: Which Adtech Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"Should You Buy And Hold AppLovin Stock?\""
     },
     {
       "ticker": "XLE",
@@ -407,7 +407,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Edge Higher Friday Afternoon\""
+      "move_reason": "News: \"Q3 Recap: Resilience Is Reshaping The Outlook\""
     }
   ],
   "indices": [

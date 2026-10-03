@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-03T01:57:36.286944+00:00",
+  "generated_at": "2026-10-03T07:50:34.959896+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 30.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T01:57:36.284370+00:00",
+      "timestamp": "2026-10-03T07:50:34.957258+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.57,
       "price": 242.9,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T01:57:36.284361+00:00",
+      "timestamp": "2026-10-03T07:50:34.957249+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -28,90 +28,200 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "DocuSign CRO Paula Hansen sells $227,061 in company stock",
+      "headline": "FlyDubai attacker used crash ax in cockpit attack, UAE says - WSJ",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/docusign-cro-paula-hansen-sells-227061-in-company-stock-93CH-4930660",
+      "url": "https://www.investing.com/news/economy-news/flydubai-attacker-was-previously-banned-from-flying-by-oman--wsj-4930620",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T01:35:30+00:00",
+      "timestamp": "2026-10-03T07:37:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "CoreWeave EVP Chen Goldberg sells $438 in stock",
+      "headline": "Pressure builds on Iran as Trump expands U.S. military presence - Bloomberg",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweave-evp-chen-goldberg-sells-438-in-stock-93CH-4930659",
+      "url": "https://www.investing.com/news/economy-news/pressure-builds-on-iran-as-trump-expands-us-military-presence--bloomberg-4930769",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T01:35:27+00:00",
+      "timestamp": "2026-10-03T07:24:06+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Analysis-AI\u2019s race to transform the world before the money runs out",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/analysisais-race-to-transform-the-world-before-the-money-runs-out-4930760",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T07:18:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Snowflake EVP Christian Kleinerman sells $5.12m in shares",
+      "headline": "Bitcoin consolidates $83K-$87K flag: Live levels",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/snowflake-evp-christian-kleinerman-sells-512m-in-shares-93CH-4930658",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T01:35:16+00:00",
+      "timestamp": "2026-10-03T07:02:06+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "DocuSign CEO Allan C. Thygesen sells $1.8 million in stock",
+      "headline": "Flydubai co-pilot attacked pilot with axe, attempted \u2019terrorist\u2019 attack, UAE says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/docusign-ceo-allan-c-thygesen-sells-18-million-in-stock-93CH-4930650",
+      "url": "https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T01:30:57+00:00",
+      "timestamp": "2026-10-03T06:54:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says U.S. will send $90 payment to over 20 million Medicare enrollees",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-says-us-will-send-90-payment-to-over-20-million-medicare-enrollees-4930767",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T06:48:04+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bridge across Dnipro river in Kyiv hit during Russian attack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bridge-across-dnipro-river-in-kyiv-hit-during-russian-attack-4930762",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T06:18:59+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee48ef65450fd58f39dd2121b40f88c34a9d21c7a2ebe70bbd61ad7472eb3ef8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T05:47:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Got $1,000? 2 Growth Stocks Securing Every AI Data Center.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=347f068e0adab5639a6444c13317fb1b400ff260fd70dd5e409103e83b4cd16b",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T05:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
-      "headline": "Xometry director Randolph Altschuler sells $1.63 million in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/xometry-director-randolph-altschuler-sells-163-million-in-shares-93CH-4930649",
+      "headline": "America\u2019s data center fight is a preview of what's to come for the rest of the world",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T01:30:56+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-03T05:00:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "DocuSign chief legal officer Shaughnessy sells $825,552 in shares",
+      "headline": "G20 countries split over U.S. push to curb excess industrial capacity",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/docusign-chief-legal-officer-shaughnessy-sells-825552-in-shares-93CH-4930648",
+      "url": "https://www.investing.com/news/economy-news/g20-countries-split-over-us-push-to-curb-excess-industrial-capacity-4930759",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T01:30:55+00:00",
+      "timestamp": "2026-10-03T04:59:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Clarity Act Did Not Pass. But Here Are 2 Altcoins That Could Still Soar in Value.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=beec893363e71dc3673b171756e9342ff7150e4656304a256da2af34ff5d1eb1",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T04:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
-      "headline": "DocuSign director Wilderotter sells $68,800 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/docusign-director-wilderotter-sells-68800-in-stock-93CH-4930647",
+      "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T01:30:48+00:00",
+      "timestamp": "2026-10-03T04:38:31+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Q3 Recap: Resilience Is Reshaping The Outlook",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=32f3d5748bcecbe962f07e4f291082025d34de1c1609e1945654a1ced6f719e3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T03:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T02:16:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Snowflake director Michael Speiser disposes of $17.45m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/snowflake-director-michael-speiser-disposes-of-1745m-in-stock-93CH-4930643",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T01:16:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Why AMD Stock Jumped 30% in September",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3ec4a78d686a99c53adbedae0b4aa1d97e7cf22db5a37eeee6689151025dbc3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T00:50:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e240568410e42878fd6fb20501281eaf0e03ce48797a8b17ac022a7ca80bc73a",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T00:22:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -137,30 +247,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why IDT Stock Was a Massive Winner This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45d5ae02c58bcc9a030762cb1af2f7214cb673350bc070dccd46cbcd13be7c27",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T23:45:14+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Investors Are Missing the Boat as Nio Impressively Navigates Brutal Price War",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bfd239a25a901ad33f74ba693d96f514f5f8ee95335e4b94b4033c98d8fafe0f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T23:44:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
       "source": "Yahoo",
@@ -173,12 +259,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why EchoStar Stock Crushed it on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a631cfd3b8ec45455462e461ecb87cd48b32b848e4cdb4979774b7cae3f15a83",
+      "ticker": "IWM",
+      "headline": "Private Sector Jobs Are Still Growing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8bec4ef94ab25d800ca6d46943cae7e4e69d794d8e60d5e28294a7b62022f63f",
       "is_watchlist": true,
-      "timestamp": "2026-10-02T23:17:30+00:00",
+      "timestamp": "2026-10-02T23:15:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -214,6 +300,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-02T22:29:00+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "G7 countries agree on release of diesel and oil stocks after US pressure - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-02T22:20:30+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -356,18 +453,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "3 Great AI Stocks To Own In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce5d876d8284827b5bea7aa70d3b932395ded7b35c44df8fbed7a7597b78e41e",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T21:10:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "The Big Four Recession Indicators: Real Personal Income",
       "source": "SeekingAlpha",
@@ -377,29 +462,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Hewlett Packard Enterprise (HPE) Lands First $1.2 Billion Helios AI Server Order",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a53d23144797046498d6041e4ea34582409650b32e0db102c8acb21342cb2008",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T21:09:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic to invest $100 million to train AI engineer talent",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T21:03:06+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -472,34 +534,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T20:26:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T20:25:19+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Israeli officials to question co-pilot of flydubai flight, source says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-10-02T20:20:50+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-02T20:04:42+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -570,17 +620,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-02T18:43:30+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EXCLUSIVE: G7 countries agree on release of diesel and oil stocks after US pressure - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T18:22:23+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -685,30 +724,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-02T17:17:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70d5b49e321880313c45a6c4054679b4131c4213c4e3e0b396b9aea12d5c5854",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T17:13:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The Labor Market Remains Quiet, But Firm",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7fb145df2b8d883ed3aa1bc0d9377948185d4ad59fa1ac37ccf9efe7a753a545",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T16:43:07+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -819,6 +834,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "Should You Buy And Hold AppLovin Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a61649fb769c0116656da026333e03801d93859d5faace276a4e655e7a875df5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T14:09:40+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "The U.S. added only 29,000 jobs in September as job market lacks spark",
       "source": "NPR Business",
@@ -826,17 +853,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-02T13:54:18+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T13:45:58+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -861,6 +877,30 @@ window.theBriefLive = {
       "timestamp": "2026-10-02T13:38:22+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "AppLovin Slides 3% as Ad-Tech Peers Stand Firm; Trade Desk and Magnite Tick Higher",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=659b48f7f2bba0790138a930b2b3e323f0841a8c1ba44ff50ec8f629bfc2daa2",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T13:36:28+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "3 Small-Cap Stocks That Concern Us",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0620a2ebf982e81036421a4db32fb016aa7dbd1f7220957d19f150de5243ddcf",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T13:34:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1012,18 +1052,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "AppLovin vs. The Trade Desk: Which Adtech Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd38d0d12794ea74d85694306092a9eb8ecb0dcad0876de3d35484962332105d",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T20:45:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Europe\u2019s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
       "source": "CNBC Markets",
@@ -1047,18 +1075,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "Why Is Trade Desk (TTD) Bringing Point Of Care EHR Ads Into OpenPath?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c77713e9664028a59cd18928555bb3c39e25c6826698e2ee2281b1515a6a3767",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T20:10:11+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Google launches Project Suncatcher, a step towards AI data centers in space",
       "source": "NPR Business",
@@ -1067,18 +1083,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-01T18:41:07+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "AppLovin Falls 3% as Wells Fargo Calls Pixel Install Spike a False Start; Trade Desk Sits Out the Selloff, Magnite Dips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb46114571ad25d27e0e31ede2e77855bc59ce5b8f7ae966eae345d07dacd229",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T16:02:10+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
