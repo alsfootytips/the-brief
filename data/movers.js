@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-03T17:17:35.870638+00:00",
+  "generated_at": "2026-10-03T20:05:46.879631+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"VIG vs. SCHD: The Better Dividend ETF Might Be the One With the Lower Yield\""
+      "move_reason": "News: \"$1,000 Invested in Walt Disney (DIS) at Its 52-Week Low Is Worth This Much Today\""
     },
     {
       "ticker": "XLY",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Macro Conditions May Mean A Period Of No Growth Lies Ahead\""
+      "move_reason": "News: \"September Jobs Data Backs An October Hold: I See A Problem\""
     },
     {
       "ticker": "VUAG.L",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Macro Conditions May Mean A Period Of No Growth Lies Ahead\""
+      "move_reason": "News: \"September Jobs Data Backs An October Hold: I See A Problem\""
     },
     {
       "ticker": "NBIS",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"VIG vs. SCHD: The Better Dividend ETF Might Be the One With the Lower Yield\""
+      "move_reason": "News: \"$1,000 Invested in Walt Disney (DIS) at Its 52-Week Low Is Worth This Much Today\""
     },
     {
       "ticker": "OSCR",
