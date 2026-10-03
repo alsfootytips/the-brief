@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-03T00:51:29.544196+00:00",
+  "generated_at": "2026-10-03T01:57:36.286944+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 30.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T00:51:29.389913+00:00",
+      "timestamp": "2026-10-03T01:57:36.284370+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.57,
       "price": 242.9,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T00:51:29.389906+00:00",
+      "timestamp": "2026-10-03T01:57:36.284361+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -28,88 +28,88 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Liquidity services EVP John Daunt sells $30,566 in company stock",
+      "headline": "DocuSign CRO Paula Hansen sells $227,061 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/liquidity-services-evp-john-daunt-sells-30566-in-company-stock-93CH-4930604",
+      "url": "https://www.investing.com/news/insider-trading-news/docusign-cro-paula-hansen-sells-227061-in-company-stock-93CH-4930660",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:31:17+00:00",
+      "timestamp": "2026-10-03T01:35:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Xometry CTO Raghavan Vaidyanathan sells $192,725 in stock",
+      "headline": "CoreWeave EVP Chen Goldberg sells $438 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/xometry-cto-raghavan-vaidyanathan-sells-192725-in-stock-93CH-4930603",
+      "url": "https://www.investing.com/news/insider-trading-news/coreweave-evp-chen-goldberg-sells-438-in-stock-93CH-4930659",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:31:13+00:00",
+      "timestamp": "2026-10-03T01:35:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Xometry CEO Sanjeev Sahni sells 1,112 XMTR shares for $114,851",
+      "headline": "Snowflake EVP Christian Kleinerman sells $5.12m in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/xometry-ceo-sanjeev-sahni-sells-1112-xmtr-shares-for-114851-93CH-4930602",
+      "url": "https://www.investing.com/news/insider-trading-news/snowflake-evp-christian-kleinerman-sells-512m-in-shares-93CH-4930658",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:31:08+00:00",
+      "timestamp": "2026-10-03T01:35:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Take Five: Reality bites",
+      "headline": "DocuSign CEO Allan C. Thygesen sells $1.8 million in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/take-five-reality-bites-4929089",
+      "url": "https://www.investing.com/news/insider-trading-news/docusign-ceo-allan-c-thygesen-sells-18-million-in-stock-93CH-4930650",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:30:26+00:00",
+      "timestamp": "2026-10-03T01:30:57+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "How big can Starlink\u2019s residential broadband business become?",
+      "headline": "Xometry director Randolph Altschuler sells $1.63 million in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/how-big-can-starlinks-residential-broadband-business-become-4930593",
+      "url": "https://www.investing.com/news/insider-trading-news/xometry-director-randolph-altschuler-sells-163-million-in-shares-93CH-4930649",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:20:07+00:00",
+      "timestamp": "2026-10-03T01:30:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Newegg chief legal officer Michael Chen sells $884 of stock",
+      "headline": "DocuSign chief legal officer Shaughnessy sells $825,552 in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/newegg-chief-legal-officer-michael-chen-sells-884-of-stock-93CH-4930590",
+      "url": "https://www.investing.com/news/insider-trading-news/docusign-chief-legal-officer-shaughnessy-sells-825552-in-shares-93CH-4930648",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:16:08+00:00",
+      "timestamp": "2026-10-03T01:30:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Mara Holdings CEO Fred Thiel sells $308,606 in Mara shares",
+      "headline": "DocuSign director Wilderotter sells $68,800 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mara-holdings-ceo-fred-thiel-sells-308606-in-mara-shares-93CH-4930589",
+      "url": "https://www.investing.com/news/insider-trading-news/docusign-director-wilderotter-sells-68800-in-stock-93CH-4930647",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:16:06+00:00",
+      "timestamp": "2026-10-03T01:30:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cathie Wood\u2019s ARK stock trades: Cerebras and BWX Technologies lead buys",
+      "headline": "Snowflake director Michael Speiser disposes of $17.45m in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-stock-trades-cerebras-and-bwx-technologies-lead-buys-93CH-4930580",
+      "url": "https://www.investing.com/news/insider-trading-news/snowflake-director-michael-speiser-disposes-of-1745m-in-stock-93CH-4930643",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T00:08:53+00:00",
+      "timestamp": "2026-10-03T01:16:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -368,6 +368,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "The Big Four Recession Indicators: Real Personal Income",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=08f78c0468d471bb9bcd6c684dff8ff4318b4136cded90f00b9dbe076fdef1f2",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T21:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "AMD",
       "headline": "Hewlett Packard Enterprise (HPE) Lands First $1.2 Billion Helios AI Server Order",
       "source": "Yahoo",
@@ -399,6 +411,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-02T21:00:04+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Two Measures Of Inflation: August 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9f5d685c6dc2c40dab15c4195d2860328e3a983300522df4ee8d8d28a279d219",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T20:55:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
       "relevance_label": "Watchlist"
     },
     {
@@ -607,6 +631,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Edge Higher Friday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f6e1b3693286a5e9f4df33d77ec692a8b7d983916125854af8908734ec75cbd",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T17:55:07+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Men are losing ground in the labor market. Here's why",
       "source": "CNBC Top",
@@ -615,6 +651,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-02T17:38:59+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a089e41ebaf0d481a0ac7c07ba3407300175c2c0b7e0c23cba4d0b8e43b221cb",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T17:23:10+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -637,6 +685,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-02T17:17:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70d5b49e321880313c45a6c4054679b4131c4213c4e3e0b396b9aea12d5c5854",
+      "is_watchlist": true,
+      "timestamp": "2026-10-02T17:13:24+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -759,18 +819,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Bond Yields Are Normalizing As The Three-Month Average Jobs Prints At 51,000",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=920e6f981143b79caa403f8fc6f1b3d4b14074f7e98e2803b8a48884b0845ce8",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T14:27:37+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "The U.S. added only 29,000 jobs in September as job market lacks spark",
       "source": "NPR Business",
@@ -790,18 +838,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-02T13:45:58+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "The Fed Is Done After The September Jobs Report",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3193fc4703f4da49a9fbd2a9344c3fbfb8bbf899766a923113f00feee213bc8e",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T13:42:25+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -852,18 +888,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Equity Outlook: AI, Higher Rates Raise The Bar For Diversification",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3c283439e404b9450f6e0b12e4ab991f7294be20772fc180e4c1d4b42341c073",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T12:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "AI's Construction Boom Runs Through 2027",
       "source": "SeekingAlpha",
@@ -882,18 +906,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=87facf8c02150c9229b12254d40aca65c93781e4d7ea56d041752603bdba172b",
       "is_watchlist": true,
       "timestamp": "2026-10-02T12:15:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "8 Of 11 Sectors Rise Friday As Growth Leads",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f3811fb0268670d0a3fadaa1f32444c29b09a67de3d3d33d9abb18b71da84971",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T11:01:32+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -941,18 +953,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-02T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "WEEI: High Yield But Could Underperform Pure Equity Funds",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=22b792ea5091dfb6e58fb6f95a6fdeed95b17899bb7b3318862f2046dfc4029d",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T03:58:14+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
