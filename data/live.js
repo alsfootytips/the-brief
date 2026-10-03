@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-03T20:05:46.883496+00:00",
+  "generated_at": "2026-10-03T23:05:12.525836+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 30.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T20:05:46.881308+00:00",
+      "timestamp": "2026-10-03T23:05:12.523184+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.57,
       "price": 242.9,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T20:05:46.881301+00:00",
+      "timestamp": "2026-10-03T23:05:12.523175+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -28,23 +28,84 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "headline": "How Muse Stacks up Vs. OpenAI Dots",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/how-muse-stacks-up-vs-openai-dots-4930890",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T20:00:00+00:00",
+      "timestamp": "2026-10-03T22:24:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Genmab reports trial results for ovarian cancer drug candidate",
+      "headline": "Nestle India product sample declared unsafe by food regulator",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/genmab-reports-trial-results-for-ovarian-cancer-drug-candidate-93CH-4930878",
+      "url": "https://www.investing.com/news/stock-market-news/nestle-india-product-sample-declared-unsafe-by-food-regulator-93CH-4930889",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T19:44:41+00:00",
+      "timestamp": "2026-10-03T21:52:01+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "History Says Coca-Cola Stock Holds Up When the S&P 500 Falls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=323b34923195133a26af37257e6b26e48ff50058975d954f035b36dfb474f88c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T21:43:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930887",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T21:20:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": "NVDA",
+      "headline": "Elon Musk Said SpaceX AI Revenue Would Pass Everything Else by September. Did It?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75ea3bb4aa52d61d5f7821b55d352480d81645c483f7adfed7dfd3225b18303c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T21:00:44+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "4 Developments That Will Determine the Fate of Lucid and Potential Bankruptcy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1fad3d021edf0e828dd341caa17cbab9dfbc9d9f55bbb363976d08c23a9c2f9",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T20:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iraq\u2019s state tanker firm moves crude through Hormuz strait",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/iraqs-state-tanker-firm-moves-crude-through-hormuz-strait-93CH-4930883",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T20:38:15+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -54,18 +115,86 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T19:42:30+00:00",
+      "timestamp": "2026-10-03T20:36:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "OpenAI safety employee quits, says \u2019time for trial and error is over\u2019",
+      "headline": "U.S. midterms: Breaking down expected impact on equities",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/openai-safety-employee-quits-says-time-for-trial-and-error-is-over-4930874",
+      "url": "https://www.investing.com/news/stock-market-news/us-midterms-breaking-down-expected-impact-on-equities-4930882",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T19:30:33+00:00",
+      "timestamp": "2026-10-03T20:33:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T20:29:07+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "NuScale vs. Oklo vs. GE Vernova: Ranking 3 Nuclear Stocks By Backlog, Not Hype.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b5f6fe7638bd3f1f5c4c82c20b7af15b0618e346b24f64d361a9590a8e4f2c8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T20:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How AI investment has unusually large multiplier effects",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/how-ai-investment-has-unusually-large-multiplier-effects-4930881",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T20:21:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T20:13:19+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f32ed5ec533911367fbefe8ea540b624cff620755f1ff4b792371f8ae0b31a7",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T20:10:26+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T20:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -105,17 +234,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin stuck at $84,947 in tightening range: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T19:02:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "These bond strategies can help you get a safe 5% return on your cash",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
@@ -149,17 +267,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin jumps above $85,000 as SEC custody proposal boosts institutional outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T18:16:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: Is Walmart a buy, sell or hold right now?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4650022-sa-asks-is-walmart-a-buy-sell-or-hold-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -167,30 +274,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-03T18:01:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "$1,000 Invested in Walt Disney (DIS) at Its 52-Week Low Is Worth This Much Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=764bf28449cb8c1ae666c61bdda1865edd8348c2f058ee64ead9bff304d6e954",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T17:54:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1808834a7d9308a7a154d508d24cd51f3a2a5c1e021d54fa4ef43aedd91d1b3f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T17:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -227,33 +310,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Investors: This Is the Most Expensive Risk You Might Be Taking Without Even Realizing It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe1158390b496a1bf2bec996790e02461cd9c99e22b01037637e37443046d49f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T17:03:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bessent"
-      ],
-      "ticker": null,
-      "headline": "Bessent says rising Treasury yields reflect global trend, not cause for alarm",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bessent-says-rising-treasury-yields-reflect-global-trend-not-cause-for-alarm-4930869",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T16:49:38+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Switching jobs to get higher pay works best in these industries",
       "source": "MarketWatch",
@@ -272,17 +328,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-03T16:33:35+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Turkey extends lower margin trading requirement to Oct. 30",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/turkey-extends-lower-margin-trading-requirement-to-oct-30-93CH-4930868",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T16:32:50+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -318,17 +363,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-Key ShinyHunters hacker detained in Jordan, is cooperating, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivekey-shinyhunters-hacker-detained-in-jordan-is-cooperating-sources-say-4930864",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T15:18:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -558,17 +592,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T11:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
@@ -612,18 +635,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
       "is_watchlist": true,
       "timestamp": "2026-10-03T09:40:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Intel Was Worth About 28 Times as Much as AMD 10 Years Ago. Now AMD Is Worth About 60% More.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a816f75853bc3bf992a77481d9c15a118ffff20d25f14404dd94d96f084a779b",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T09:32:01+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -940,18 +951,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=659b48f7f2bba0790138a930b2b3e323f0841a8c1ba44ff50ec8f629bfc2daa2",
       "is_watchlist": true,
       "timestamp": "2026-10-02T13:36:28+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "10 Industrials Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8c6623859282316eece6cef81f601d924d8854f6142a0a5b6d711bcbeb08d6a4",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T13:35:13+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

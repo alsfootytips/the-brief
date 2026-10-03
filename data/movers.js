@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-03T20:05:46.879631+00:00",
+  "generated_at": "2026-10-03T23:05:12.520998+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can AMD\u2019s CPU Business Fund Its AI Chip Ambitions?\""
+      "move_reason": "News: \"Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$1,000 Invested in Walt Disney (DIS) at Its 52-Week Low Is Worth This Much Today\""
+      "move_reason": "News: \"History Says Coca-Cola Stock Holds Up When the S&P 500 Falls\""
     },
     {
       "ticker": "XLY",
@@ -123,7 +123,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 145.62,
       "change_pct": 0.94,
-      "volume_ratio": 0.95,
+      "volume_ratio": 0.91,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -147,7 +147,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 112.84,
       "change_pct": 0.93,
-      "volume_ratio": 1.06,
+      "volume_ratio": 1.15,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -226,7 +226,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Power Grid Stocks With Revenue Growth Up To 34%\""
+      "move_reason": "News: \"NuScale vs. Oklo vs. GE Vernova: Ranking 3 Nuclear Stocks By Backlog, Not Hype.\""
     },
     {
       "ticker": "XLV",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can AMD\u2019s CPU Business Fund Its AI Chip Ambitions?\""
+      "move_reason": "News: \"Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth\""
     },
     {
       "ticker": "APA",
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Power Grid Stocks With Revenue Growth Up To 34%\""
+      "move_reason": "News: \"NuScale vs. Oklo vs. GE Vernova: Ranking 3 Nuclear Stocks By Backlog, Not Hype.\""
     },
     {
       "ticker": "IWM",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$1,000 Invested in Walt Disney (DIS) at Its 52-Week Low Is Worth This Much Today\""
+      "move_reason": "News: \"History Says Coca-Cola Stock Holds Up When the S&P 500 Falls\""
     },
     {
       "ticker": "OSCR",
