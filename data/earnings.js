@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-03T07:50:34+00:00",
+  "generated_at": "2026-10-03T13:05:46+00:00",
   "by_date": {
     "2026-10-05": [
       {
@@ -1104,14 +1104,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.1685,
         "revenue_estimate": 351325403,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BMI",
-        "date": "2026-10-15",
-        "hour": "bmo",
-        "eps_estimate": 1.2436,
-        "revenue_estimate": 242823190,
         "is_watchlist": false
       },
       {

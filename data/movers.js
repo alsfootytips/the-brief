@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-03T07:50:34.955042+00:00",
+  "generated_at": "2026-10-03T13:05:46.441777+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why AMD Stock Jumped 30% in September\""
+      "move_reason": "News: \"Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, ...\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?\""
+      "move_reason": "News: \"NVIDIA (NASDAQ:NVDA) Screens as a Decent Value Stock\""
     },
     {
       "ticker": "XLY",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Private Sector Jobs Are Still Growing\""
+      "move_reason": "News: \"SPY And USO: Hold Into Trump's Election Deadline\""
     },
     {
       "ticker": "VUAG.L",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why AMD Stock Jumped 30% in September\""
+      "move_reason": "News: \"Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, ...\""
     },
     {
       "ticker": "APA",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Private Sector Jobs Are Still Growing\""
+      "move_reason": "News: \"SPY And USO: Hold Into Trump's Election Deadline\""
     },
     {
       "ticker": "NBIS",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?\""
+      "move_reason": "News: \"NVIDIA (NASDAQ:NVDA) Screens as a Decent Value Stock\""
     },
     {
       "ticker": "OSCR",
