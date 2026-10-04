@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-04T08:49:49.072960+00:00",
+  "generated_at": "2026-10-04T14:39:31.263963+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?\""
+      "move_reason": "News: \"AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Greg Abel-Led Berkshire Hathaway Owns 3 Consumer Stocks. Here's the One I'd Buy First.\""
+      "move_reason": "News: \"Monster Beverage's Biggest Moat Isn't Its Energy Drink. It's Something Else.\""
     },
     {
       "ticker": "XLY",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"September Jobs Data Backs An October Hold: I See A Problem\""
+      "move_reason": "News: \"A Global Liquidity Regime Shift May Be Taking Place\""
     },
     {
       "ticker": "VUAG.L",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?\""
+      "move_reason": "News: \"AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?\""
     },
     {
       "ticker": "APA",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"September Jobs Data Backs An October Hold: I See A Problem\""
+      "move_reason": "News: \"A Global Liquidity Regime Shift May Be Taking Place\""
     },
     {
       "ticker": "NBIS",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Greg Abel-Led Berkshire Hathaway Owns 3 Consumer Stocks. Here's the One I'd Buy First.\""
+      "move_reason": "News: \"Monster Beverage's Biggest Moat Isn't Its Energy Drink. It's Something Else.\""
     },
     {
       "ticker": "OSCR",
