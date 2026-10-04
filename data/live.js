@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-04T02:40:05.710890+00:00",
+  "generated_at": "2026-10-04T08:49:49.077759+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 30.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-04T02:40:05.708928+00:00",
+      "timestamp": "2026-10-04T08:49:49.075116+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": 4.57,
       "price": 242.9,
       "is_watchlist": true,
-      "timestamp": "2026-10-04T02:40:05.708919+00:00",
+      "timestamp": "2026-10-04T08:49:49.075108+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -28,22 +28,44 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI deal boom drives Hong Kong fundraising to record summer - Bloomberg",
+      "headline": "OPEC+ set to hold November oil quotas steady as Middle East conflict hits output",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ai-deal-boom-drives-hong-kong-fundraising-to-record-summer--bloomberg-4930898",
+      "url": "https://www.investing.com/news/commodities-news/opec-set-to-hold-november-oil-quotas-steady-as-middle-east-conflict-hits-output-4930914",
       "is_watchlist": false,
-      "timestamp": "2026-10-04T02:12:05+00:00",
+      "timestamp": "2026-10-04T08:32:50+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan PM protests to U.S. after Marine arrested over Okinawa murder",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-pm-protests-to-us-after-marine-arrested-over-okinawa-murder-4930912",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T08:04:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "UK lawmakers warn reliance on U.S. cloud giants poses strategic risk - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-lawmakers-warn-reliance-on-us-cloud-giants-poses-strategic-risk--bloomberg-4930910",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T07:25:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
-      "headline": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030",
+      "headline": "Greg Abel-Led Berkshire Hathaway Owns 3 Consumer Stocks. Here's the One I'd Buy First.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a96fff1028aa94c826e82819cfb09b017eb17ce93b993c5187deedff2b1833f3",
+      "url": "https://finnhub.io/api/news?id=f9ded6632a34fb3bc2522c6fde2c07bb888461cb9a051e2d28d39060e4dd3c47",
       "is_watchlist": true,
-      "timestamp": "2026-10-04T01:20:00+00:00",
+      "timestamp": "2026-10-04T07:25:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -51,24 +73,105 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Yemen\u2019s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
+      "headline": "Bitcoin MFI hits 100 inside Ichimoku cloud: Live levels",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "is_watchlist": false,
-      "timestamp": "2026-10-04T01:12:30+00:00",
+      "timestamp": "2026-10-04T07:02:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "FlyDubai copilot lost earlier job over radical views",
+      "headline": "South Korea orders financial sector security checks after data breaches",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/flydubai-copilot-lost-earlier-job-over-radical-views-4930895",
+      "url": "https://www.investing.com/news/economy-news/south-korea-orders-financial-sector-security-checks-after-data-breaches-4930908",
       "is_watchlist": false,
-      "timestamp": "2026-10-04T00:52:07+00:00",
+      "timestamp": "2026-10-04T06:48:24+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bosnia votes Sunday in election that could affect EU bid",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T06:42:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Rivian vs. Lucid: Only 1 of These EV Stocks Survives to 2030. Here's Which One.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9b7e5ee32c8413a354a0ac1501fd51e894bc95c3da731d4ccb39035dbb810e8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T06:25:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Germany\u2019s Merz arrives in Kyiv with \u20ac1.35bn aid package, drone deal in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/germanys-merz-arrives-in-kyiv-with-135bn-aid-package-drone-deal-in-focus-4930907",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T06:11:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Will Manulife's (TSX:MFC) ChatGPT Travel Insurance Plugin Redefine Its Digital Differentiation Strategy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f87d6917d6738cd5e40f8c2b44380f6924fd7be3e452f19e05ac77c99550c0f1",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T06:07:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T05:38:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T05:00:01+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98a65a4946a43ee3628e62e6219d8198d4fd6e4ab71fab2a544fd96439eaf1a4",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T00:42:50+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -83,29 +186,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "3 Investing Rules That CNBC's Jim Cramer Swears By",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e286680f11cdda84f87f6f5da3091cf6e6d2e9d8a427e135c5606098bb9f4ffe",
-      "is_watchlist": true,
-      "timestamp": "2026-10-04T00:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OpenAI safety employee quits, criticizes company\u2019s approach to AI risks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/openai-safety-employee-quits-criticizes-companys-approach-to-ai-risks-4930894",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T00:04:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
       "source": "MarketWatch",
@@ -114,18 +194,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-04T00:02:00+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "YouTube's Lead Over Netflix in TV Viewing Keeps Growing. Is Netflix Stock a Sell?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5af7b5ff62d7cb94bdd1c32fb032e10187d1d7391f3f1e75422498c6d260cf81",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T23:58:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -147,50 +215,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-03T23:37:23+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "White House forms AI task force to assess technology risks - WSJ",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/white-house-forms-ai-task-force-to-assess-technology-risks--wsj-4930893",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T22:59:47+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Muse Stacks up Vs. OpenAI Dots",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/how-muse-stacks-up-vs-openai-dots-4930890",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T22:24:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nestle India product sample declared unsafe by food regulator",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nestle-india-product-sample-declared-unsafe-by-food-regulator-93CH-4930889",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T21:52:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930887",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T21:20:04+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -545,17 +569,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Private capital is reshaping Hollywood moviemaking",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T12:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
@@ -634,18 +647,6 @@ window.theBriefLive = {
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, AMD, or Broadcom)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T09:40:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

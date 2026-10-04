@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-04T02:40:05.597770+00:00",
+  "generated_at": "2026-10-04T08:49:49.072960+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth\""
+      "move_reason": "News: \"Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030\""
+      "move_reason": "News: \"Greg Abel-Led Berkshire Hathaway Owns 3 Consumer Stocks. Here's the One I'd Buy First.\""
     },
     {
       "ticker": "XLY",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth\""
+      "move_reason": "News: \"Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?\""
     },
     {
       "ticker": "APA",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030\""
+      "move_reason": "News: \"Greg Abel-Led Berkshire Hathaway Owns 3 Consumer Stocks. Here's the One I'd Buy First.\""
     },
     {
       "ticker": "OSCR",
