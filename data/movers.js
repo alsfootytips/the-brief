@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-04T18:23:25.099271+00:00",
+  "generated_at": "2026-10-04T21:46:46.490162+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Acquires Inferize to Expand Its AI Product Portfolio. What That Means for NBIS Stoc...\""
+      "move_reason": "News: \"CoreWeave vs. Nebius: Nebius Is Winning the Customers CoreWeave Can\u2019t Serve\""
     },
     {
       "ticker": "OSCR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?\""
+      "move_reason": "News: \"AMD\u2019s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's How Many Shares of VOO You'd Need for $500 in Monthly Dividends\""
+      "move_reason": "News: \"Is Netflix (NFLX) Stock a Buy?\""
     },
     {
       "ticker": "XLY",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?\""
+      "move_reason": "News: \"AMD\u2019s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem\""
     },
     {
       "ticker": "APA",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Acquires Inferize to Expand Its AI Product Portfolio. What That Means for NBIS Stoc...\""
+      "move_reason": "News: \"CoreWeave vs. Nebius: Nebius Is Winning the Customers CoreWeave Can\u2019t Serve\""
     },
     {
       "ticker": "NVDA",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's How Many Shares of VOO You'd Need for $500 in Monthly Dividends\""
+      "move_reason": "News: \"Is Netflix (NFLX) Stock a Buy?\""
     },
     {
       "ticker": "OSCR",
@@ -749,11 +749,11 @@ window.theBriefMovers = {
       "score": 3.0,
       "signals": [
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.8 (cheap on absolute basis)"
+        "Forward P/E 9.5 (cheap on absolute basis)"
       ],
       "reasons": [
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.8 (cheap on absolute basis)"
+        "Forward P/E 9.5 (cheap on absolute basis)"
       ],
       "tags": [
         "insider-buying",
