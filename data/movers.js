@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-03T23:05:12.520998+00:00",
+  "generated_at": "2026-10-04T02:40:05.597770+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Nebius Group (NBIS) Stock Fair Value Falls As Analyst Views Split On AI Growth\""
     },
     {
       "ticker": "OSCR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Permian Resources shares are trading higher after the company reported better-than-expecte...\""
+      "move_reason": ""
     },
     {
       "ticker": "NVDA",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"History Says Coca-Cola Stock Holds Up When the S&P 500 Falls\""
+      "move_reason": "News: \"3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030\""
     },
     {
       "ticker": "XLY",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Permian Resources shares are trading higher after the company reported better-than-expecte...\""
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Permian Resources shares are trading higher after the company reported better-than-expecte...\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Nebius Group (NBIS) Stock Fair Value Falls As Analyst Views Split On AI Growth\""
     },
     {
       "ticker": "NVDA",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"History Says Coca-Cola Stock Holds Up When the S&P 500 Falls\""
+      "move_reason": "News: \"3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030\""
     },
     {
       "ticker": "OSCR",
@@ -383,7 +383,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Permian Resources shares are trading higher after the company reported better-than-expecte...\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -650,30 +650,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "APA",
-      "name": "APA Corp",
-      "price": 43.69,
-      "change_pct": 0.81,
-      "score": 4.5,
-      "signals": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.8 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "2 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.8 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 118.94,
@@ -764,6 +740,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 43.69,
+      "change_pct": 0.81,
+      "score": 3.0,
+      "signals": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 9.8 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 9.8 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>APA</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     },
     {
       "ticker": "TPL",

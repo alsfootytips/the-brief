@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-03T23:05:12.525836+00:00",
+  "generated_at": "2026-10-04T02:40:05.710890+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 30.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T23:05:12.523184+00:00",
+      "timestamp": "2026-10-04T02:40:05.708928+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,10 +20,145 @@ window.theBriefLive = {
       "change_pct": 4.57,
       "price": 242.9,
       "is_watchlist": true,
-      "timestamp": "2026-10-03T23:05:12.523175+00:00",
+      "timestamp": "2026-10-04T02:40:05.708919+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI deal boom drives Hong Kong fundraising to record summer - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/ai-deal-boom-drives-hong-kong-fundraising-to-record-summer--bloomberg-4930898",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T02:12:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a96fff1028aa94c826e82819cfb09b017eb17ce93b993c5187deedff2b1833f3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T01:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yemen\u2019s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T01:12:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FlyDubai copilot lost earlier job over radical views",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/flydubai-copilot-lost-earlier-job-over-radical-views-4930895",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T00:52:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Middle East crude exports recover to near pre-war levels but oil products still lag, analysts say",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4650004-middle-east-crude-exports-recover-to-near-pre-war-levels-but-oil-products-still-lag-analysts-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T00:25:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 Investing Rules That CNBC's Jim Cramer Swears By",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e286680f11cdda84f87f6f5da3091cf6e6d2e9d8a427e135c5606098bb9f4ffe",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T00:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI safety employee quits, criticizes company\u2019s approach to AI risks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/openai-safety-employee-quits-criticizes-companys-approach-to-ai-risks-4930894",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T00:04:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T00:02:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "YouTube's Lead Over Netflix in TV Viewing Keeps Growing. Is Netflix Stock a Sell?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5af7b5ff62d7cb94bdd1c32fb032e10187d1d7391f3f1e75422498c6d260cf81",
+      "is_watchlist": true,
+      "timestamp": "2026-10-03T23:58:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T23:58:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T23:37:23+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "White House forms AI task force to assess technology risks - WSJ",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/white-house-forms-ai-task-force-to-assess-technology-risks--wsj-4930893",
+      "is_watchlist": false,
+      "timestamp": "2026-10-03T22:59:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -49,84 +184,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "History Says Coca-Cola Stock Holds Up When the S&P 500 Falls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=323b34923195133a26af37257e6b26e48ff50058975d954f035b36dfb474f88c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T21:43:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930887",
       "is_watchlist": false,
       "timestamp": "2026-10-03T21:20:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Musk"
-      ],
-      "ticker": "NVDA",
-      "headline": "Elon Musk Said SpaceX AI Revenue Would Pass Everything Else by September. Did It?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=75ea3bb4aa52d61d5f7821b55d352480d81645c483f7adfed7dfd3225b18303c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T21:00:44+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "4 Developments That Will Determine the Fate of Lucid and Potential Bankruptcy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1fad3d021edf0e828dd341caa17cbab9dfbc9d9f55bbb363976d08c23a9c2f9",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T20:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iraq\u2019s state tanker firm moves crude through Hormuz strait",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/iraqs-state-tanker-firm-moves-crude-through-hormuz-strait-93CH-4930883",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T20:38:15+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yemen\u2019s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T20:36:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. midterms: Breaking down expected impact on equities",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-midterms-breaking-down-expected-impact-on-equities-4930882",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T20:33:43+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -152,28 +215,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How AI investment has unusually large multiplier effects",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/how-ai-investment-has-unusually-large-multiplier-effects-4930881",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T20:21:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T20:13:19+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -316,39 +357,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-03T16:42:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump offering $90 to Medicare enrollees to cover premiums",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4650019-trump-offering-90-medicare-enrollees?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T16:33:35+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-03T15:42:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -795,17 +803,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T17:20:33+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "IPO postponements are accelerating in third quarter, even beyond Oura",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
@@ -1172,18 +1169,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "APA (APA) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=520e1e882f933e99a2e79487124e3d771fc0717e13ad595960089fa44ae203bd",
-      "is_watchlist": true,
-      "timestamp": "2026-09-30T21:15:05+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
