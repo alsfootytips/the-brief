@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-04T14:39:31.263963+00:00",
+  "generated_at": "2026-10-04T18:23:25.099271+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Group (NBIS) Stock Fair Value Falls As Analyst Views Split On AI Growth\""
+      "move_reason": "News: \"Nebius Acquires Inferize to Expand Its AI Product Portfolio. What That Means for NBIS Stoc...\""
     },
     {
       "ticker": "OSCR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?\""
+      "move_reason": "News: \"Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Monster Beverage's Biggest Moat Isn't Its Energy Drink. It's Something Else.\""
+      "move_reason": "News: \"Here's How Many Shares of VOO You'd Need for $500 in Monthly Dividends\""
     },
     {
       "ticker": "XLY",
@@ -116,7 +116,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will CoreWeave Stock Be in 5 Years?\""
+      "move_reason": "News: \"Is CoreWeave Stock a Buy Right Now?\""
     },
     {
       "ticker": "VWRP.L",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Global Liquidity Regime Shift May Be Taking Place\""
+      "move_reason": "News: \"Q4 Market Outlook: Strong Years Usually Finish Strong\""
     },
     {
       "ticker": "VUAG.L",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?\""
+      "move_reason": "News: \"Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?\""
     },
     {
       "ticker": "APA",
@@ -275,7 +275,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will CoreWeave Stock Be in 5 Years?\""
+      "move_reason": "News: \"Is CoreWeave Stock a Buy Right Now?\""
     },
     {
       "ticker": "DG",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Global Liquidity Regime Shift May Be Taking Place\""
+      "move_reason": "News: \"Q4 Market Outlook: Strong Years Usually Finish Strong\""
     },
     {
       "ticker": "NBIS",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Group (NBIS) Stock Fair Value Falls As Analyst Views Split On AI Growth\""
+      "move_reason": "News: \"Nebius Acquires Inferize to Expand Its AI Product Portfolio. What That Means for NBIS Stoc...\""
     },
     {
       "ticker": "NVDA",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Monster Beverage's Biggest Moat Isn't Its Energy Drink. It's Something Else.\""
+      "move_reason": "News: \"Here's How Many Shares of VOO You'd Need for $500 in Monthly Dividends\""
     },
     {
       "ticker": "OSCR",
