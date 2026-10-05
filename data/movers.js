@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-05T00:28:40.753393+00:00",
+  "generated_at": "2026-10-05T06:07:10.401563+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can NVIDIA\u2019s Valuation Withstand a Slowdown in Customer Spending?\""
+      "move_reason": "News: \"2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade\""
     },
     {
       "ticker": "PWR",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks\""
+      "move_reason": "News: \"Walmart Yields Less Than 1%. The Surprising Reason Why Dividend Investors Should Own It An...\""
     },
     {
       "ticker": "XLY",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Q4 Market Outlook: Strong Years Usually Finish Strong\""
+      "move_reason": "News: \"Financials Got Hit On Higher Rates, I'm Buying These Four Names\""
     },
     {
       "ticker": "VUAG.L",
@@ -190,7 +190,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"The Trade Desk vs. Alphabet: Is the Cheaper AI Advertising Stock Worth the Risk?\""
     },
     {
       "ticker": "PLTR",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can NVIDIA\u2019s Valuation Withstand a Slowdown in Customer Spending?\""
+      "move_reason": "News: \"2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade\""
     },
     {
       "ticker": "APA",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Q4 Market Outlook: Strong Years Usually Finish Strong\""
+      "move_reason": "News: \"Financials Got Hit On Higher Rates, I'm Buying These Four Names\""
     },
     {
       "ticker": "NBIS",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks\""
+      "move_reason": "News: \"Walmart Yields Less Than 1%. The Surprising Reason Why Dividend Investors Should Own It An...\""
     },
     {
       "ticker": "OSCR",
@@ -395,7 +395,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"The Trade Desk vs. Alphabet: Is the Cheaper AI Advertising Stock Worth the Risk?\""
     },
     {
       "ticker": "XLE",
