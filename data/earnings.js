@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-05T06:07:10+00:00",
+  "generated_at": "2026-10-05T14:39:30+00:00",
   "by_date": {
     "2026-10-05": [
       {
@@ -993,14 +993,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PULM",
-        "date": "2026-10-14",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "STT",
         "date": "2026-10-14",
         "hour": "bmo",
@@ -1032,14 +1024,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 1.495,
         "revenue_estimate": 3914939360,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AAL",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": -0.3376,
-        "revenue_estimate": 16317775130,
         "is_watchlist": false
       },
       {
@@ -1291,14 +1275,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MCB",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": 2.3382,
-        "revenue_estimate": 97424600,
-        "is_watchlist": false
-      },
-      {
         "ticker": "MCBS",
         "date": "2026-10-15",
         "hour": "",
@@ -1400,22 +1376,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 5.0117,
         "revenue_estimate": 1263184275,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SNAP",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": 0.1645,
-        "revenue_estimate": 1765833761,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "STBA",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": 1.0035,
-        "revenue_estimate": 109066050,
         "is_watchlist": false
       },
       {
