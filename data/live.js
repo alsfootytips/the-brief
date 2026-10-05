@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-04T21:46:46.495086+00:00",
+  "generated_at": "2026-10-05T00:28:40.756420+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 30.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-04T21:46:46.492311+00:00",
+      "timestamp": "2026-10-05T00:28:40.754708+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,10 +20,190 @@ window.theBriefLive = {
       "change_pct": 4.57,
       "price": 242.9,
       "is_watchlist": true,
-      "timestamp": "2026-10-04T21:46:46.492302+00:00",
+      "timestamp": "2026-10-05T00:28:40.754703+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/akzonobel-could-sell-unit-to-nippon-paint-for-over-1-billion-ft-reports-4930948",
+      "is_watchlist": false,
+      "timestamp": "2026-10-05T00:00:29+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OPEC+ agrees to keep November oil output targets steady",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T23:54:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Dow Jones Futures Rise; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4da7d798d8edfdaf5ce500dad9feeb202cf1ae6d7cc9fb5f313555a279665c9b",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T23:46:20+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Don't Sell Netflix: NFLX Is the One Streaming Pick I'd Add to Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b644f4ec01552679d9afde4858efb6e8b9c1404d1cae1ee41ec42c7b8932a31",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T23:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Nike's Earnings Are a Disaster. Run -- Don't Walk -- Away From This Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3163124592aaf7edfda2950ebe1ebe2afd14043d4cc5176959ba67366504c0e",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T23:27:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The job interview question you don't have to answer",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T23:22:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Appeals court pauses reinstatement of fired Seattle federal prosecutor",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/appeals-court-pauses-reinstatement-of-fired-seattle-federal-prosecutor-4930965",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T23:12:07+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.K. is said to plan tariffs on Chinese EVs under pressure from EU",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4650049-uk-is-said-to-plan-tariffs-on-chinese-evs-under-pressure-from-eu?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T22:51:09+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "CSL strikes $1.6B deal with Alentis for experimental kidney, liver drug",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4650048-csl-strikes-16b-deal-with-alentis-for-experimental-kidney-liver-drug?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T22:41:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI\u2019s Altman says AI benefits warrant accepting some risks",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/openais-altman-says-ai-benefits-warrant-accepting-some-risks-4930964",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T22:36:27+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-4930963",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T22:18:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T22:08:34+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "OXY",
+      "headline": "13 High-Conviction & Catalyst-Driven Long Ideas for 4Q  2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a20de6634dacba16470cb21bc761d2fe45e1f0b22362787b7b8336864ffed734",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T21:47:25+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T21:46:15+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK set to impose Chinese EV levies amid EU trade pressure - report",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T21:42:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Adobe stock: Here are 5 strategic questions into new leadership",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/adobe-stock-here-are-5-strategic-questions-into-new-leadership-4930961",
+      "is_watchlist": false,
+      "timestamp": "2026-10-04T21:41:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -33,17 +213,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930959",
       "is_watchlist": false,
       "timestamp": "2026-10-04T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "13 High-Conviction & Catalyst-Driven Long Ideas for 4Q  2026",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/13-highconviction--catalystdriven-long-ideas-for-4q--2026-4930958",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T21:17:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -72,44 +241,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vaxcyte to present phase 3 trial data for vaccine candidate",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/vaxcyte-to-present-phase-3-trial-data-for-vaccine-candidate-93CH-4930957",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T21:04:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Schneider Electric is said to near deal to buy PTC for more than $20B",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4650045-schneider-electric-is-said-to-near-deal-to-buy-ptc-for-more-than-20b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-04T21:00:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/former-anthropic-researcher-coxon-to-testify-at-new-york-city-ai-hearing-bloomberg-news-reports-4930955",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T20:48:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Former Anthropic researcher to testify at NYC Council AI hearing - report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/former-anthropic-researcher-to-testify-at-nyc-council-ai-hearing--report-4930954",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T20:38:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -137,14 +273,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Leftist and nationalists lead in election for Bosnia\u2019s tripartite presidency",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T20:30:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Can NVIDIA\u2019s Valuation Withstand a Slowdown in Customer Spending?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0e3eb6b8404ada08d7535e109b012c3ccd2cd7e40a5d7c2439dff3014b72c9f",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T20:30:35+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -159,25 +296,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Schneider Electric close to $20 bln deal of U.S. software maker PTC - report",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/schneider-electric-close-to-20-bln-deal-of-us-software-maker-ptc--report-4930953",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T20:28:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "Can Nebius Earn Better Returns by Letting Partners Own the Hardware?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a63191dd7aff70da2077f1d462ef56ece7e57bb3bdc33797ee3abf75e3c686f5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T20:26:05+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Delfin to tender full 17.6% Monte dei Paschi stake into Intesa\u2019s takeover offer",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/delfin-to-tender-full-176-monte-dei-paschi-stake-into-intesas-takeover-offer-4930952",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T20:17:27+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "NBIS",
+      "headline": "Can Nebius Earn Better Returns by Letting Partners Own the Hardware?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a63191dd7aff70da2077f1d462ef56ece7e57bb3bdc33797ee3abf75e3c686f5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-04T20:26:05+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -211,30 +350,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-04T19:27:42+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Netflix (NFLX) Stock a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65535319e5c80c42efbbaaf91db99628448227a94ad098ca5f0e4466109642d6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-04T19:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Split $7,500 Evenly Across These 3 Dividend Stocks and Ignore Them Until 2046",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7679ae9a0128f33acfaa9ec8e17bb0ddfb5b56d7d2f09976f43051e190f3af62",
-      "is_watchlist": true,
-      "timestamp": "2026-10-04T19:21:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -272,57 +387,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Cathie Wood Predicts This Cryptocurrency Could Surge 1,665% From Here",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29e393914167af462cf8d106c0b7aa4e32f71b8fab1f2fb373e2cee60553b921",
-      "is_watchlist": true,
-      "timestamp": "2026-10-04T18:54:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: What was the biggest takeaway from Tesla's Q3 deliveries report?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4650043-sa-asks-what-was-the-biggest-takeaway-from-teslas-q3-deliveries-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T18:19:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
       "is_watchlist": false,
       "timestamp": "2026-10-04T17:53:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T17:53:11+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SA Asks: Is Moderna's stock now a sell after the recent run-up?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4650042-sa-asks-is-modernas-stock-now-a-sell-after-the-recent-run-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T17:36:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -396,18 +466,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bae7a93eb6b04eb4b5fa2d54195e40991a4a3e68fd7843807c8afad69ffd94b1",
-      "is_watchlist": true,
-      "timestamp": "2026-10-04T13:34:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
       "source": "CNBC Markets",
@@ -448,17 +506,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-04T12:57:45+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-04T12:53:12+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -626,18 +673,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Where Will CoreWeave Stock Be in 5 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c0ac42dda514c28daf6762e10201a2c38a32a4978cfadb70ef5ef486346c49c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-03T15:03:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "OpenAI safety employee quits, calls for nuclear-level safeguards",
       "source": "Bloomberg",
@@ -695,23 +730,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "headline": "Novig credits Sydney Sweeney-backed campaign for platform\u2019s surge in growth",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-03T13:12:27+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-03T13:30:48+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
       "headline": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-      "source": "CNBC Top",
+      "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
       "is_watchlist": false,
       "timestamp": "2026-10-03T13:12:27+00:00",
-      "relevance_score": 1.0,
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -767,18 +802,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=7f64eb31a2349f9d16ddbb2f12eb16f3f6a8ba74376f6a244e90eb43e20c4f80",
       "is_watchlist": true,
       "timestamp": "2026-10-02T22:07:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Group (NBIS) Stock Fair Value Falls As Analyst Views Split On AI Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=37af41ace03e3062df662bd327ac95582fe12131a7d161f5daf3c7e7363f3c39",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T22:05:03+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1008,35 +1031,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "OXY",
-      "headline": "Amazon Just Joined Goldman Sachs\u2019 Conviction List: 5 New Top Stock Picks With Massive Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87facf8c02150c9229b12254d40aca65c93781e4d7ea56d041752603bdba172b",
-      "is_watchlist": true,
-      "timestamp": "2026-10-02T12:15:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Why is diesel more expensive than regular gas?",
       "source": "NPR Business",
       "url": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
       "is_watchlist": false,
       "timestamp": "2026-10-02T11:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-02T10:47:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1097,18 +1097,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "OSCR",
-      "headline": "Oscar Health, Inc. (OSCR) Stock Dips While Market Gains: Key Facts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32cc52d85130777d771e0ed59eee384b2a1af2d582ffcf796532d4a29938d1f3",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T21:00:05+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Europe\u2019s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
       "source": "CNBC Markets",
@@ -1117,54 +1105,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-01T20:41:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Raymond James Updates Healthcare Top Picks for October",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8ce3c29ae810f04d9bd929e7f17e262f95ca8d7d98fd38c265e53f8504c1a72",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T20:26:47+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "APA",
-      "headline": "Permian Resources shares are trading higher after the company reported better-than-expected Q3 financial results.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c96d378e7c238215fdbe718d87c299c757b59eafc4a029596704397acbbf5a1a",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T14:28:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "Permian Resources shares are trading higher after the company reported better-than-expected Q3 financial results.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c96d378e7c238215fdbe718d87c299c757b59eafc4a029596704397acbbf5a1a",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T14:28:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Costco's Ancillary Businesses Expand Share-of-Wallet Opportunity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88780cad4c668779d12e58313ac989176a779cdbc378de2fd90543a26a750aa0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-01T13:29:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "filing",

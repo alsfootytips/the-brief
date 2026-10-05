@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-04T21:46:46.490162+00:00",
+  "generated_at": "2026-10-05T00:28:40.753393+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave vs. Nebius: Nebius Is Winning the Customers CoreWeave Can\u2019t Serve\""
+      "move_reason": "News: \"Can Nebius Earn Better Returns by Letting Partners Own the Hardware?\""
     },
     {
       "ticker": "OSCR",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health Consensus Price Target Rises 12.09% to $34.19\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "AMD",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD\u2019s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem\""
+      "move_reason": "News: \"Can NVIDIA\u2019s Valuation Withstand a Slowdown in Customer Spending?\""
     },
     {
       "ticker": "PWR",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Outperforms Broader Market: What You Need to Know\""
+      "move_reason": ""
     },
     {
       "ticker": "TPL",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Netflix (NFLX) Stock a Buy?\""
+      "move_reason": "News: \"Dow Jones Futures Rise; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks\""
     },
     {
       "ticker": "XLY",
@@ -116,7 +116,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is CoreWeave Stock a Buy Right Now?\""
+      "move_reason": "News: \"Can Nebius Earn Better Returns by Letting Partners Own the Hardware?\""
     },
     {
       "ticker": "VWRP.L",
@@ -190,7 +190,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy And Hold AppLovin Stock?\""
+      "move_reason": ""
     },
     {
       "ticker": "PLTR",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD\u2019s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem\""
+      "move_reason": "News: \"Can NVIDIA\u2019s Valuation Withstand a Slowdown in Customer Spending?\""
     },
     {
       "ticker": "APA",
@@ -275,7 +275,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is CoreWeave Stock a Buy Right Now?\""
+      "move_reason": "News: \"Can Nebius Earn Better Returns by Letting Partners Own the Hardware?\""
     },
     {
       "ticker": "DG",
@@ -287,7 +287,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fuel, Freight and Supplier Costs Bite: How Walmart, Costco, Target and Other Retailers Are...\""
+      "move_reason": ""
     },
     {
       "ticker": "GEV",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave vs. Nebius: Nebius Is Winning the Customers CoreWeave Can\u2019t Serve\""
+      "move_reason": "News: \"Can Nebius Earn Better Returns by Letting Partners Own the Hardware?\""
     },
     {
       "ticker": "NVDA",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Netflix (NFLX) Stock a Buy?\""
+      "move_reason": "News: \"Dow Jones Futures Rise; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks\""
     },
     {
       "ticker": "OSCR",
@@ -347,7 +347,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health Consensus Price Target Rises 12.09% to $34.19\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -359,7 +359,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"4 Big Oil Dividends Ranked by What Matters When Crude Falls\""
+      "move_reason": "News: \"13 High-Conviction & Catalyst-Driven Long Ideas for 4Q  2026\""
     },
     {
       "ticker": "PWR",
@@ -371,7 +371,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services (PWR) Outperforms Broader Market: What You Need to Know\""
+      "move_reason": ""
     },
     {
       "ticker": "TPL",
@@ -395,7 +395,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy And Hold AppLovin Stock?\""
+      "move_reason": ""
     },
     {
       "ticker": "XLE",
@@ -656,12 +656,12 @@ window.theBriefMovers = {
       "change_pct": 0.01,
       "score": 4.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "5 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 14.3 (cheap on absolute basis)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "5 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 14.3 (cheap on absolute basis)"
       ],
@@ -672,29 +672,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLP"
-    },
-    {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 30.99,
-      "change_pct": 3.65,
-      "score": 3.5,
-      "signals": [
-        "Moved +3.65% \u2014 a 1.4\u03c3 move",
-        "3 news items in the last 3 days",
-        "Forward P/E 14.3 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved +3.65% \u2014 a 1.4\u03c3 move",
-        "3 news items in the last 3 days",
-        "Forward P/E 14.3 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "cheap"
-      ],
-      "narrative": "<strong>OSCR</strong> is accumulating signals worth tracking.",
-      "sector_etf": "XLV"
     },
     {
       "ticker": "NVDA",

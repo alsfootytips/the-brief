@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-10-04T21:46:46.647300+00:00",
+  "generated_at": "2026-10-05T00:28:40.849790+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,7 +27,7 @@ window.theBriefPicks = {
       "current_pct": 38.16,
       "change_pct_today": 3.65,
       "name": "Oscar Health",
-      "news_count": 3,
+      "news_count": 1,
       "days_elapsed": 22,
       "days_remaining": 34,
       "pick_type": "strategic",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": -0.08,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 144,
+      "days_elapsed": 145,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": 2.02,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 144,
+      "days_elapsed": 145,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": -0.6,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 144,
+      "days_elapsed": 145,
       "days_remaining": null
     },
     {
@@ -750,7 +750,7 @@ window.theBriefPicks = {
       "current_pct": 31.68,
       "change_pct_today": 0.81,
       "name": "APA Corp",
-      "news_count": 1,
+      "news_count": 0,
       "days_elapsed": 35,
       "days_remaining": 0,
       "closed_at": "2026-07-24",
@@ -818,7 +818,7 @@ window.theBriefPicks = {
       "current_pct": -20.68,
       "change_pct_today": 1.48,
       "name": "Texas Pacific Land",
-      "news_count": 1,
+      "news_count": 0,
       "days_elapsed": 37,
       "days_remaining": 19,
       "closed_at": "2026-08-07",
@@ -852,7 +852,7 @@ window.theBriefPicks = {
       "current_pct": 2.75,
       "change_pct_today": 3.65,
       "name": "Oscar Health",
-      "news_count": 3,
+      "news_count": 1,
       "days_elapsed": 28,
       "days_remaining": 0,
       "closed_at": "2026-07-29",
@@ -954,7 +954,7 @@ window.theBriefPicks = {
       "current_pct": 7.06,
       "change_pct_today": 0.81,
       "name": "APA Corp",
-      "news_count": 1,
+      "news_count": 0,
       "days_elapsed": 35,
       "days_remaining": 14,
       "closed_at": "2026-09-15",
