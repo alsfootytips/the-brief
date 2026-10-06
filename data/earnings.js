@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-06T08:38:19+00:00",
+  "generated_at": "2026-10-06T15:28:18+00:00",
   "by_date": {
     "2026-10-06": [
       {
@@ -252,14 +252,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KARO",
-        "date": "2026-10-08",
-        "hour": "",
-        "eps_estimate": 9.578,
-        "revenue_estimate": 1631194536,
         "is_watchlist": false
       },
       {
@@ -751,6 +743,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "EQBK",
+        "date": "2026-10-14",
+        "hour": "",
+        "eps_estimate": 1.3141,
+        "revenue_estimate": 86728815,
+        "is_watchlist": false
+      },
+      {
         "ticker": "FAST",
         "date": "2026-10-14",
         "hour": "",
@@ -913,14 +913,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "BX",
-        "date": "2026-10-15",
-        "hour": "bmo",
-        "eps_estimate": 1.4016,
-        "revenue_estimate": 3513392212,
-        "is_watchlist": false
-      },
-      {
         "ticker": "CASS",
         "date": "2026-10-15",
         "hour": "",
@@ -958,14 +950,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.6936,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FCX",
-        "date": "2026-10-15",
-        "hour": "",
-        "eps_estimate": 0.7266,
-        "revenue_estimate": 7419126023,
         "is_watchlist": false
       },
       {
@@ -1062,6 +1046,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.3407,
         "revenue_estimate": 241029264,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "JBHT",
+        "date": "2026-10-15",
+        "hour": "amc",
+        "eps_estimate": 2.0227,
+        "revenue_estimate": 3626282977,
         "is_watchlist": false
       },
       {
@@ -1230,14 +1222,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "WDFC",
-        "date": "2026-10-15",
-        "hour": "amc",
-        "eps_estimate": 1.1563,
-        "revenue_estimate": 175520070,
         "is_watchlist": false
       },
       {
@@ -1461,6 +1445,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CLF",
+        "date": "2026-10-19",
+        "hour": "amc",
+        "eps_estimate": 0.2325,
+        "revenue_estimate": 5777012271,
+        "is_watchlist": false
+      },
+      {
         "ticker": "CSHX",
         "date": "2026-10-19",
         "hour": "",
@@ -1581,6 +1573,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "KARO",
+        "date": "2026-10-19",
+        "hour": "",
+        "eps_estimate": 9.578,
+        "revenue_estimate": 1631194536,
+        "is_watchlist": false
+      },
+      {
         "ticker": "KISB",
         "date": "2026-10-19",
         "hour": "",
@@ -1618,6 +1618,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.5825,
         "revenue_estimate": 34756120,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "RLI",
+        "date": "2026-10-19",
+        "hour": "amc",
+        "eps_estimate": 0.5142,
+        "revenue_estimate": 436866814,
         "is_watchlist": false
       },
       {
@@ -1823,14 +1831,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "EQBK",
-        "date": "2026-10-20",
-        "hour": "",
-        "eps_estimate": 1.3141,
-        "revenue_estimate": 86728815,
-        "is_watchlist": false
-      },
-      {
         "ticker": "ERH",
         "date": "2026-10-20",
         "hour": "",
@@ -1924,14 +1924,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 2.6904,
         "revenue_estimate": 2963240229,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JBHT",
-        "date": "2026-10-20",
-        "hour": "amc",
-        "eps_estimate": 2.0227,
-        "revenue_estimate": 3626282977,
         "is_watchlist": false
       },
       {
