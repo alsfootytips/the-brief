@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-06T01:55:40.903947+00:00",
+  "generated_at": "2026-10-06T02:00:11.073515+00:00",
   "events": [
     {
       "type": "mover",
@@ -8,7 +8,7 @@ window.theBriefLive = {
       "change_pct": 5.49,
       "price": 32.64,
       "is_watchlist": true,
-      "timestamp": "2026-10-06T01:55:40.902191+00:00",
+      "timestamp": "2026-10-06T02:00:10.955740+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +20,7 @@ window.theBriefLive = {
       "change_pct": -3.66,
       "price": 233.93,
       "is_watchlist": true,
-      "timestamp": "2026-10-06T01:55:40.902186+00:00",
+      "timestamp": "2026-10-06T02:00:10.955729+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -35,10 +35,32 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
       "is_watchlist": true,
-      "timestamp": "2026-10-06T01:48:22+00:00",
+      "timestamp": "2026-10-06T01:55:50+00:00",
       "relevance_score": 6.5,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exclusive-Accenture contractor removed from FBI following damaging data breach, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveaccenture-contractor-removed-from-fbi-following-damaging-data-breach-sources-say-4933183",
+      "is_watchlist": false,
+      "timestamp": "2026-10-06T01:54:41+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Asian shares track Wall Street higher, Treasury yields near multi-decade highs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/asian-shares-track-wall-street-higher-treasury-yields-near-multidecade-highs-4933238",
+      "is_watchlist": false,
+      "timestamp": "2026-10-06T01:54:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -54,89 +76,67 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Cricut CEO Ashish Arora sells $1.16 million in CRCT stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cricut-ceo-ashish-arora-sells-116-million-in-crct-stock-93CH-4933234",
+      "is_watchlist": false,
+      "timestamp": "2026-10-06T01:47:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Greenland Mines director Riad El-Dada sells $32,727 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/greenland-mines-director-riad-eldada-sells-32727-in-common-stock-93CH-4933233",
+      "is_watchlist": false,
+      "timestamp": "2026-10-06T01:46:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Adaptive Biotechnologies COO Julie Rubinstein sells $1m in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-coo-julie-rubinstein-sells-1m-in-stock-93CH-4933232",
+      "is_watchlist": false,
+      "timestamp": "2026-10-06T01:46:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is SoftBank stock declining today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-declining-today-93CH-4933227",
+      "is_watchlist": false,
+      "timestamp": "2026-10-06T01:45:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KKR to acquire Gen II Fund Services for $5.1 billion in private-markets push",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/kkr-to-acquire-gen-ii-fund-services-for-51-billion-in-privatemarkets-push-4933222",
+      "is_watchlist": false,
+      "timestamp": "2026-10-06T01:37:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "U.S. stock futures steady after Nasdaq hits record on reduced Fed hike bets",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-hits-record-on-reduced-fed-hike-bets-4933219",
       "is_watchlist": false,
       "timestamp": "2026-10-06T01:33:50+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adaptive biotechnologies CPO Francis Lo sells $757k in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-cpo-francis-lo-sells-757k-in-shares-93CH-4933218",
-      "is_watchlist": false,
-      "timestamp": "2026-10-06T01:31:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Palantir director Lauren Stat sells $253,963 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/palantir-director-lauren-stat-sells-253963-in-company-stock-93CH-4933217",
-      "is_watchlist": false,
-      "timestamp": "2026-10-06T01:30:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "McDonald\u2019s hit with class action alleging AI-powered menu price-fixing",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/mcdonalds-hit-with-class-action-alleging-aipowered-menu-pricefixing-4932870",
-      "is_watchlist": false,
-      "timestamp": "2026-10-06T01:30:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump expands access to tax-exempt diesel fuel",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-to-issue-order-expanding-access-to-taxexempt-diesel-fuel-sources-say-4932600",
-      "is_watchlist": false,
-      "timestamp": "2026-10-06T01:30:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-Accenture contractor removed from FBI following damaging data breach, sources say",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveaccenture-contractor-removed-from-fbi-following-damaging-data-breach-sources-say-4933183",
-      "is_watchlist": false,
-      "timestamp": "2026-10-06T01:18:34+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
-      "is_watchlist": false,
-      "timestamp": "2026-10-06T01:18:22+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sprouts Farmers Market CEO Jack Sinclair sells $1.39 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-139-million-in-stock-93CH-4933205",
-      "is_watchlist": false,
-      "timestamp": "2026-10-06T01:16:12+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
