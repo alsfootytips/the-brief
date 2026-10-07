@@ -1,17 +1,17 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-07T01:10:07.056651+00:00",
+  "generated_at": "2026-10-07T06:00:49.502118+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 250.5,
       "change_pct": 7.71,
-      "volume_ratio": 1.11,
+      "volume_ratio": 1.41,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Cloud Investment: Amazon or Nebius Group?\""
+      "move_reason": "News: \"Nebius Stock Rallies With AI Infrastructure Peers Even As COO Cuts Stake: Retail Mood Impr...\""
     },
     {
       "ticker": "PWR",
@@ -23,31 +23,31 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sterling, Quanta, Herc, Construction Partners, and Nextpower Shares Are Soaring, What You ...\""
+      "move_reason": "News: \"Quanta Services vs. MasTec: Is Better Cash Flow Worth a 73% Earnings Premium?\""
     },
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
       "price": 91.96,
       "change_pct": 5.23,
-      "volume_ratio": 0.86,
+      "volume_ratio": 1.37,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Rallies 9% on an Inference Deal While Its Earnings Multiple Sits Near 197x; CoreWea...\""
+      "move_reason": "News: \"CoreWeave CEO expands beyond neocloud to solve a $640 million headache\""
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova",
       "price": 1032.0,
       "change_pct": 4.24,
-      "volume_ratio": 0.78,
+      "volume_ratio": 1.14,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Stock Trounced the Market Today\""
+      "move_reason": "News: \"GE Vernova vs. Eaton: Which AI Power Stock Can Earn Its 47x or 29x Price?\""
     },
     {
       "ticker": "DG",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD (AMD) Stock Is Up, What You Need To Know\""
+      "move_reason": "News: \"Dow, S&P 500, Nasdaq Futures Mixed After S&P 500, Nasdaq Notch Record Highs: SPCX, NLST, P...\""
     },
     {
       "ticker": "TPL",
@@ -120,11 +120,11 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 111.61,
-      "change_pct": 1.17,
-      "volume_ratio": 0.87,
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 41.1,
+      "change_pct": 1.06,
+      "volume_ratio": 0.92,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -183,12 +183,12 @@ window.theBriefMovers = {
       "name": "Oscar Health",
       "price": 32.05,
       "change_pct": -1.16,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health Trading at a Premium: Why Should You Still Buy It?\""
+      "move_reason": "News: \"5 Stocks to Buy From the Prosperous Multiline Insurance Industry\""
     },
     {
       "ticker": "IWM",
@@ -200,14 +200,14 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks Are Getting Cheaper Even As Indices Rally\""
+      "move_reason": "News: \"AI Stocks: Winter Is Coming\""
     },
     {
       "ticker": "SOFI",
       "name": "SOFI",
       "price": 15.82,
       "change_pct": -0.62,
-      "volume_ratio": 1.09,
+      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -219,7 +219,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 11.93,
       "change_pct": -0.42,
-      "volume_ratio": 1.23,
+      "volume_ratio": 0.73,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -227,22 +227,11 @@ window.theBriefMovers = {
       "move_reason": "News: \"AppLovin Rallies 6% as Ad-Tech Cluster Splits Three Ways; Digital Turbine Edges Higher, Tr...\""
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 40.67,
-      "change_pct": -0.34,
-      "volume_ratio": 1.1,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "META",
       "name": "META",
       "price": 739.75,
       "change_pct": -0.29,
-      "volume_ratio": 1.02,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -272,7 +261,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD (AMD) Stock Is Up, What You Need To Know\""
+      "move_reason": "News: \"Dow, S&P 500, Nasdaq Futures Mixed After S&P 500, Nasdaq Notch Record Highs: SPCX, NLST, P...\""
     },
     {
       "ticker": "APA",
@@ -291,12 +280,12 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 91.96,
       "change_pct": 5.23,
-      "volume_ratio": 0.86,
+      "volume_ratio": 1.37,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Rallies 9% on an Inference Deal While Its Earnings Multiple Sits Near 197x; CoreWea...\""
+      "move_reason": "News: \"CoreWeave CEO expands beyond neocloud to solve a $640 million headache\""
     },
     {
       "ticker": "DG",
@@ -315,12 +304,12 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 1032.0,
       "change_pct": 4.24,
-      "volume_ratio": 0.78,
+      "volume_ratio": 1.14,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Stock Trounced the Market Today\""
+      "move_reason": "News: \"GE Vernova vs. Eaton: Which AI Power Stock Can Earn Its 47x or 29x Price?\""
     },
     {
       "ticker": "IWM",
@@ -332,19 +321,19 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stocks Are Getting Cheaper Even As Indices Rally\""
+      "move_reason": "News: \"AI Stocks: Winter Is Coming\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 250.5,
       "change_pct": 7.71,
-      "volume_ratio": 1.11,
+      "volume_ratio": 1.41,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Cloud Investment: Amazon or Nebius Group?\""
+      "move_reason": "News: \"Nebius Stock Rallies With AI Infrastructure Peers Even As COO Cuts Stake: Retail Mood Impr...\""
     },
     {
       "ticker": "NVDA",
@@ -356,19 +345,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Boost Run Stock Popped by Nearly 6% Today\""
+      "move_reason": "News: \"Nvidia Is About 4% From Becoming the First $6 Trillion Company. History Says the Milestone...\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 32.05,
       "change_pct": -1.16,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.07,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health Trading at a Premium: Why Should You Still Buy It?\""
+      "move_reason": "News: \"5 Stocks to Buy From the Prosperous Multiline Insurance Industry\""
     },
     {
       "ticker": "OXY",
@@ -392,7 +381,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Sterling, Quanta, Herc, Construction Partners, and Nextpower Shares Are Soaring, What You ...\""
+      "move_reason": "News: \"Quanta Services vs. MasTec: Is Better Cash Flow Worth a 73% Earnings Premium?\""
     },
     {
       "ticker": "TPL",
@@ -411,7 +400,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 11.93,
       "change_pct": -0.42,
-      "volume_ratio": 1.23,
+      "volume_ratio": 0.73,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -428,7 +417,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Why G7 Countries Releasing Millions Of Barrels Of Oil Is Good For American Oil Companies\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Gain Late Afternoon\""
     }
   ],
   "indices": [
@@ -496,11 +485,11 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 111.61,
-      "change_pct": 1.17,
-      "volume_ratio": 0.87,
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 41.1,
+      "change_pct": 1.06,
+      "volume_ratio": 0.92,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -567,21 +556,21 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLV",
-      "name": "Health Care Select Sector",
-      "price": 167.09,
-      "change_pct": -0.17,
-      "volume_ratio": 0.83,
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 111.65,
+      "change_pct": 0.04,
+      "volume_ratio": 0.84,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 40.67,
-      "change_pct": -0.34,
-      "volume_ratio": 1.1,
+      "ticker": "XLV",
+      "name": "Health Care Select Sector",
+      "price": 167.09,
+      "change_pct": -0.17,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -595,13 +584,13 @@ window.theBriefMovers = {
       "change_pct": 7.71,
       "score": 7.5,
       "signals": [
-        "Moved +7.71% \u2014 a 1.9\u03c3 move vs typical 4.0% daily vol",
+        "Moved +7.71% \u2014 a 1.9\u03c3 move vs typical 4.1% daily vol",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider sells vs 0 buys (last 90 days)"
       ],
       "reasons": [
-        "Moved +7.71% \u2014 a 1.9\u03c3 move vs typical 4.0% daily vol",
+        "Moved +7.71% \u2014 a 1.9\u03c3 move vs typical 4.1% daily vol",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider sells vs 0 buys (last 90 days)"
@@ -649,12 +638,12 @@ window.theBriefMovers = {
       "change_pct": 4.24,
       "score": 6.0,
       "signals": [
-        "Moved +4.24% \u2014 a 1.6\u03c3 move vs typical 2.6% daily vol",
+        "Moved +4.24% \u2014 a 1.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)"
       ],
       "reasons": [
-        "Moved +4.24% \u2014 a 1.6\u03c3 move vs typical 2.6% daily vol",
+        "Moved +4.24% \u2014 a 1.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)"
       ],
@@ -675,16 +664,16 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "+7 analyst sell recs added recently",
-        "Forward P/E 11.8 (cheap on absolute basis)",
+        "Forward P/E 11.9 (cheap on absolute basis)",
         "Down -37.5% over 3 months \u2014 deep drawdown",
-        "-77.9% from 52-week high"
+        "-78.0% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "+7 analyst sell recs added recently",
-        "Forward P/E 11.8 (cheap on absolute basis)",
+        "Forward P/E 11.9 (cheap on absolute basis)",
         "Down -37.5% over 3 months \u2014 deep drawdown",
-        "-77.9% from 52-week high"
+        "-78.0% from 52-week high"
       ],
       "tags": [
         "news-flow",
@@ -830,10 +819,10 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "change_pct": 1.17,
-      "price": 111.61,
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "change_pct": 1.06,
+      "price": 41.1,
       "watchlist_members": []
     },
     {
@@ -887,13 +876,6 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "change_pct": -0.34,
-      "price": 40.67,
-      "watchlist_members": []
-    },
-    {
       "ticker": "XLF",
       "name": "Financial Select Sector",
       "change_pct": 0.24,
@@ -908,6 +890,13 @@ window.theBriefMovers = {
       "watchlist_members": [
         "OSCR"
       ]
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "change_pct": 0.04,
+      "price": 111.65,
+      "watchlist_members": []
     }
   ]
 };
