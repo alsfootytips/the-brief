@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-08T01:28:02.439817+00:00",
+  "generated_at": "2026-10-08T02:58:28.060555+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -4.51,
       "price": 238.6,
       "is_watchlist": true,
-      "timestamp": "2026-10-08T01:28:02.291300+00:00",
+      "timestamp": "2026-10-08T02:58:28.058050+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,10 +33,177 @@ window.theBriefLive = {
       "change_pct": -3.21,
       "price": 88.78,
       "is_watchlist": true,
-      "timestamp": "2026-10-08T01:28:02.291288+00:00",
+      "timestamp": "2026-10-08T02:58:28.058034+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:55:34+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Sa Sa International stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sa-sa-international-stock-surging-today-93CH-4937832",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:41:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-q3-profit-jumps-nearly-ninefold-as-ai-memory-boom-lifts-chip-earnings-4937684",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:36:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US grants Aurora exemption for self-driving trucks safety feature",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-grants-aurora-exemption-for-selfdriving-trucks-safety-feature-4937803",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:36:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese stocks firm slightly as trade resumes after Golden Week break",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/chinese-stocks-firm-slightly-as-trade-resumes-after-golden-week-break-4937831",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:36:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hinge Health CEO Daniel Perez sells over $410k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hinge-health-ceo-daniel-perez-sells-over-410k-in-company-stock-93CH-4937829",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:31:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon cuts fewer than 1,000 jobs across teams, Business Insider reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-cuts-fewer-than-1000-jobs-across-teams-business-insider-reports-4937826",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:18:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CRWV, NBIS Edge Up Overnight After Selloff: Cathie Wood's ARK Buys CoreWeave, Rosenblatt Starts Nebius At \u2018Buy\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1dc15e5e1c41688ec865730d2beb33a77bca6777d626c0d7c487d7ab2f740ec7",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T02:04:04+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "CRWV, NBIS Edge Up Overnight After Selloff: Cathie Wood's ARK Buys CoreWeave, Rosenblatt Starts Nebius At \u2018Buy\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1dc15e5e1c41688ec865730d2beb33a77bca6777d626c0d7c487d7ab2f740ec7",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T02:04:04+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hang Seng tests 23,734 support amid bearish bias: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:02:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Streamex CFO Christine Plummer sells $7,175 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/streamex-cfo-christine-plummer-sells-7175-in-company-stock-93CH-4937820",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:01:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T02:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI chip boom pushes Samsung profits to record $80bn",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T01:59:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil gains as Middle East hostilities stoke supply worries",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T01:46:56+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T01:45:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -64,63 +231,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Axion Minerals closes $390,000 flow-through private placement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/axion-minerals-closes-390000-flowthrough-private-placement-93CH-4937788",
+      "headline": "Japan beer giants raided over alleged price-fixing cartel",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
-      "timestamp": "2026-10-08T01:00:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Asia shares subdued, bonds swamped by AI debt wave",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-subdued-bonds-swamped-by-ai-debt-wave-4937787",
-      "is_watchlist": false,
-      "timestamp": "2026-10-08T01:00:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bezos"
-      ],
-      "ticker": null,
-      "headline": "Bezos says Blue Origin likely to pursue IPO in coming years",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years-4937760",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T00:54:34+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Bezos"
-      ],
-      "ticker": null,
-      "headline": "Blue Origin IPO several years away, but makes sense, Bezos says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/blue-origin-ipo-several-years-away-but-makes-sense-bezos-says-4937780",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T00:53:01+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is LG Energy Solution stock surging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lg-energy-solution-stock-surging-today-93CH-4937779",
-      "is_watchlist": false,
-      "timestamp": "2026-10-08T00:51:44+00:00",
+      "timestamp": "2026-10-08T00:53:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -146,39 +261,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar edges back from 18-month high after FOMC minutes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/dollar-edges-back-from-18month-high-after-fomc-minutes-4937777",
-      "is_watchlist": false,
-      "timestamp": "2026-10-08T00:48:38+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BillionToOne CTO David Tsao sells $2.16m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/billiontoone-cto-david-tsao-sells-216m-in-shares-93CH-4937776",
-      "is_watchlist": false,
-      "timestamp": "2026-10-08T00:46:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "LG Energy Solution shares hit near 4-month high after Q3 profit more than doubles",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/lg-energy-solution-q3-operating-profit-beats-estimates-by-more-than-double-4937766",
-      "is_watchlist": false,
-      "timestamp": "2026-10-08T00:44:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -217,17 +299,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T23:10:54+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "What independence could mean for oil-rich Alberta's economy",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
@@ -261,7 +332,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hedgehog among four chosen animals to feature on new banknotes",
+      "headline": "Hedgehog among four animals chosen to feature on new banknotes",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -454,6 +525,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says he deserves Nobel Peace Prize but has doubts he will get it - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEkzVEpocHRSSC0xV0JGVnotWHZGZDB4TzBoU0lIem5rMllUWHE5Q1g2NFZRZDd5eW9Vd2R4VTBiQlZWaHJGbjl0YTBPUFlJU1V6QnhJWll0SjZlVEY5bUlnTTJhZEM3dTNaVVpBV1oyRUxlZ3BmRHBvRk9NM3FTUy12X1Y2dU5ReTk3SUdCbk1pemlJSEJyYzhiMFExR1FXUmY4N0hBQ3VZb3RjbDFhU2dHNlV6dw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T20:45:43+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": "TTD",
       "headline": "Why the Market Dipped But The Trade Desk (TTD) Gained Today",
@@ -595,17 +681,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpHUU05ZlNYUVZhUDRvOEtsU2tKOWJWLWM4OUZFWm1PRkJDZDJCZzBIenFyenhDT3o2T1c0QzhJRG4xS2xQTUMxX0VyZVZoSm92ZG8wdGlKdjRmeTI3SldqeHgxM3FabHRZMHI1SXA2dUsySGtza0dWNllWT21ZeVdPWEwwaHdoeUowSEJ2dWdqakxFTDNiQ1dUNkZhT0xyRThrZTM2Z0lmM1JKa2xManNhLUphOVlOOUJ0eVJzdw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T19:47:02+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "CoreWeave\u2019s $2.6 Billion AI Loan Has a Hidden Risk: Uptime Failures Could Force Early Debt Paydowns",
       "source": "Yahoo",
@@ -689,17 +764,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "EXCLUSIVE: Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDFQZzNVZkV5bHhCZ2FaemZmZDdyMTZtWndQR2tTakxOaW9SWTI2clhnZWpKcDZaVU9RS2p0TUJ0UGoxWWxUQm1JZ3pWYzZJN1pKSkROLTFzc2pqdE9TUEd6b1pQM2dlVE16VEZJbVlOOWFxUUhud3c5UXZ1N3NMMldSRkwxNS1hbnN2ZkxHX1hMaTAzSHMxODdFa2xhU1dTcVpmQ282d2xOUEZRbGpTejZmRFFCVzBsMTh6bnh3?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T19:07:56+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "New data strengthens our faith in a TJX comeback. Plus, the Nvidia-Microsoft PC is here",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/07/new-data-strengthens-our-faith-in-a-tjx-comeback-plus-the-nvidia-microsoft-pc-is-here.html",
@@ -756,17 +820,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SpaceX may chase \u2018stunning\u2019 AI returns by taking on a lot of debt to buy Nvidia chips",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T18:22:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Syria weighs military aid for Saudi Arabia amid Yemen war, sources say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWZMNEFpTGtIVEhwLWJHUXdGdGliYUtUazZhMk1yd3RDLW9yZllOblA2U1BvLVZaN2pvejZpaWwwenF5MzhObG93NC1BYzJhVGdIelROY2VXSTF6RTJ3MDROSzVYMUVoUm9UMHdCcTZEbVBxODRVVEYxRGIxZWljUHdiSVJDcUxubndSdFM3RFdNYmZOWDdBZk1tdXgzVzRFTGZmWlZPeDZVOGtZUXNwaEFEVTZnMzMxclRZ?oc=5",
@@ -811,6 +864,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Another Micron triple? Where we agree with this wildly bullish call and where we don't",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/07/another-micron-triple-where-we-agree-with-this-wildly-bullish-call-and-where-we-dont.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-07T17:52:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Jim Cramer calls one major data center play a no-brainer buy",
       "source": "Yahoo",
@@ -820,17 +884,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T17:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -863,18 +916,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=61abc4311a6d9ceb5301b2c972e78eb76921c77c3ca598af5d27d3be29157e5c",
       "is_watchlist": true,
       "timestamp": "2026-10-07T17:10:34+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave (CRWV) Stock Could Sit Above Fair Value Following Platinum AI Cloud Rating",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6f00bd07c3d6c012ef1b91f5362454bb5547bde0a46111760e21327d604b2489",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T17:10:20+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -914,28 +955,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T14:33:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T13:46:28+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -987,18 +1006,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "The Most Important AI Company You've Never Heard Of",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de4d527dbdb5ed587a4a7aa1599963b50843a0b87268024d58e932d4ae79a313",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T11:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Who will win the 2026 Nobel Prize in economics?",
       "source": "NPR Business",
@@ -1030,17 +1037,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Half the harvest, twice the bills: how drought hit farms",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T05:22:52+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "filing",
