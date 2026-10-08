@@ -1,14 +1,27 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-07T23:41:45.026742+00:00",
+  "generated_at": "2026-10-08T01:28:02.439817+00:00",
   "events": [
+    {
+      "type": "earnings_upcoming",
+      "ticker": "NBIS",
+      "date": "2026-10-22",
+      "hour": "",
+      "eps_estimate": -0.8466,
+      "revenue_estimate": 921887587,
+      "is_watchlist": true,
+      "timestamp": "2026-10-22",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Earnings"
+    },
     {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": -4.37,
-      "price": 238.95,
+      "change_pct": -4.51,
+      "price": 238.6,
       "is_watchlist": true,
-      "timestamp": "2026-10-07T23:41:45.024120+00:00",
+      "timestamp": "2026-10-08T01:28:02.291300+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -20,7 +33,7 @@ window.theBriefLive = {
       "change_pct": -3.21,
       "price": 88.78,
       "is_watchlist": true,
-      "timestamp": "2026-10-07T23:41:45.024102+00:00",
+      "timestamp": "2026-10-08T01:28:02.291288+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -28,88 +41,176 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "World shares, euro slide as high oil prices, fiscal worries linger",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/asia-shares-weaker-oil-up-investors-weigh-saudihouthi-escalation-4935555",
+      "headline": "Applied Digital targets 3.5 to 4 GW by end of 2030 as it expects over 600 MW to enter service in the next 12 months",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651201-applied-digital-targets-3_5-to-4-gw-by-end-of-2030-as-it-expects-over-600-mw-to-enter-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-07T23:25:02+00:00",
+      "timestamp": "2026-10-08T01:13:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Jim Cramer spots something investors may be missing on Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6033ac1bcbb909c568718096ecbf715dfb559abb5781ecfbd8d2c442d6809ea3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T01:03:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Axion Minerals closes $390,000 flow-through private placement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/axion-minerals-closes-390000-flowthrough-private-placement-93CH-4937788",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T01:00:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "UK labour market shows more signs recovery in September, KPMG/REC survey shows",
+      "headline": "Asia shares subdued, bonds swamped by AI debt wave",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/uk-labour-market-shows-more-signs-recovery-in-september-kpmgrec-survey-shows-4937701",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-subdued-bonds-swamped-by-ai-debt-wave-4937787",
       "is_watchlist": false,
-      "timestamp": "2026-10-07T23:24:47+00:00",
+      "timestamp": "2026-10-08T01:00:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Bezos"
+      ],
+      "ticker": null,
+      "headline": "Bezos says Blue Origin likely to pursue IPO in coming years",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years-4937760",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T00:54:34+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Bezos"
+      ],
+      "ticker": null,
+      "headline": "Blue Origin IPO several years away, but makes sense, Bezos says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/blue-origin-ipo-several-years-away-but-makes-sense-bezos-says-4937780",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T00:53:01+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is LG Energy Solution stock surging today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lg-energy-solution-stock-surging-today-93CH-4937779",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T00:51:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Samsung Q3 profit surges to record high, but misses lofty expectations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/samsung-q3-profit-surges-to-record-high-but-misses-lofty-expectations-4937706",
+      "headline": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-07T23:21:27+00:00",
+      "timestamp": "2026-10-08T00:51:23+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Best Dividend ETF to Buy and Hold, According to 15 Years of History",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2aaff994b2e333dc2152769604954071816d18a6394c0b6d81369444481739dc",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T00:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar edges back from 18-month high after FOMC minutes",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/dollar-edges-back-from-18month-high-after-fomc-minutes-4937777",
+      "is_watchlist": false,
+      "timestamp": "2026-10-08T00:48:38+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Pacific Booker upsizes private placement to $12 million",
+      "headline": "BillionToOne CTO David Tsao sells $2.16m in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/pacific-booker-upsizes-private-placement-to-12-million-93CH-4937705",
+      "url": "https://www.investing.com/news/insider-trading-news/billiontoone-cto-david-tsao-sells-216m-in-shares-93CH-4937776",
       "is_watchlist": false,
-      "timestamp": "2026-10-07T23:20:28+00:00",
+      "timestamp": "2026-10-08T00:46:29+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+      "headline": "LG Energy Solution shares hit near 4-month high after Q3 profit more than doubles",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/samsung-q3-profit-jumps-nearly-ninefold-as-ai-memory-boom-lifts-chip-earnings-4937684",
+      "url": "https://www.investing.com/news/earnings/lg-energy-solution-q3-operating-profit-beats-estimates-by-more-than-double-4937766",
       "is_watchlist": false,
-      "timestamp": "2026-10-07T23:19:26+00:00",
+      "timestamp": "2026-10-08T00:44:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wall Street ends lower, off record highs, as Treasury yields climb",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/wall-st-futures-slip-as-yields-and-oil-rebound-fed-minutes-in-focus-4936151",
+      "headline": "Levi Strauss outlines $1.54-$1.56 FY2026 EPS as it expects 4% organic Q4 revenue growth while redeploying $60M of tariff refunds",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651200-levi-strauss-outlines-1_54-1_56-fy2026-eps-as-it-expects-4-percent-organic-q4-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-07T23:18:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rate hike fears weigh on UK housing market, RICS says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/rate-hike-fears-weigh-on-uk-housing-market-rics-says-4937700",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T23:18:30+00:00",
+      "timestamp": "2026-10-08T00:43:19+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "Jensen Huang Said Nvidia Now Has \"a Lot Greater Visibility\" Into Demand, Letting It Forecast a Full Year Ahead for the First Time Ever. Does That Confidence Justify Nvidia's Premium Valuation?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a35656bb90e49c05ed5db03e1bc54db932a998240aa263e37987c1a409cc792",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T00:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
-      "headline": "Starbucks international CEO sells $155,501 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/starbucks-international-ceo-sells-155501-in-company-stock-93CH-4937699",
+      "headline": "Crude oil turns lower as IEA agrees to accelerate oil stock release, prioritize diesel",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651198-crude-oil-turns-lower-as-iea-agrees-to-accelerate-oil-stock-release-prioritize-diesel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-07T23:16:21+00:00",
+      "timestamp": "2026-10-07T23:45:12+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -160,7 +261,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Hedgehog among four chosen animals to feature on your new banknotes",
+      "headline": "Hedgehog among four chosen animals to feature on new banknotes",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -192,14 +293,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T22:58:05+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields \u2014 SPCX, AMD, NVDA, MRVL In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50352b28347a16ef361adee73323be4f5be5b71231708705135708bc7bebdb49",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T22:50:51+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -211,6 +313,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-07T22:38:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "What Are AVGO Stock Investors Betting On?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe6c2b41f319d645bd53217a37d78a23c4388554fc9dfe3c9e1b3a8fd1ab80fb",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T22:38:41+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -236,6 +350,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "What Is Really Behind Micron Stock's Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56789c56d46d94c18e2e6fb4cfbe035fac0296953fc1f1070d05812ee4e4b29c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T22:25:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Exxon hopes to repeat Guyana's oil boom offshore Trinidad and Tobago",
       "source": "Seeking Alpha Market",
@@ -255,75 +381,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-07T22:12:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Clean Air Metals announces C$150,000 flow-through financing",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651194-clean-air-metals-announces-c150000-flow-through-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T21:57:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Veeco Instruments Stock Crushed it Last Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ebb1e38537ad06e422317667c1e5096c28468b6a363bc80babbb64601f0f05e8",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T21:55:28+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alvopetro wins four Brazil blocks in ANP Concession Round",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651193-alvopetro-wins-four-brazil-blocks-in-anp-concession-round?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T21:54:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "We Are Witnessing the Stock Market Do Something for Only the 3rd Time in 156 Years, and History Is Clear About What Comes Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea620226f21ed9166bf2027e960fc5d70ac6d2686cf86b253d94cefd874b686d",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Valneva falls as UK revokes marketing authorization for chikungunya vaccine",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651192-valneva-falls-uk-revokes-marketing-authorization-chikungunya-vaccine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T21:41:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "The Richest Man in the World Needs More Money",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f07be651388c64b9bc479cadf793e80a32f50c0ed8af2297db5abd979e6468d2",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T21:32:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -351,6 +408,42 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Applied Digital\u2019s Earnings Show Its Data Center Bet Is Starting to Pay Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93312df8aa6030527b7e66127c14d0e9d1a3edd9f0c0784f6d311063082d1e73",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T21:18:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "OSCR",
+      "headline": "Oscar Health, Inc. (OSCR) Advances While Market Declines: Some Information for Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=133326ab607963f4017613d12ace54356111ac574e6a1310768e674f36ebf864",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T21:15:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "GE Vernova (GEV) Dips More Than Broader Market: What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1521db8e59c19950c971f7081fa11992cf34d9e42ba32e06ee1184d55b8a9939",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T21:00:04+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
       "source": "MarketWatch",
@@ -359,6 +452,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-07T20:58:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "Why the Market Dipped But The Trade Desk (TTD) Gained Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=909cafa579c48714e5e7fb26481d4e198d74cead3de52d50134472b721c8c40a",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T20:45:06+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -385,6 +490,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "The Big Four Recession Indicators: Employment",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=00bbbd3e6929c6b8493503fbe1e6414720b31971149f30f717718c19749a6406",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T20:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
       "source": "BBC Business",
@@ -393,6 +510,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-07T20:34:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "Does The Fall In AppLovin Stock Change Anything?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c17141f7468046d45102ab09946c02e7411de0c0733f1c3ac1a630ac1a588e4",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T20:34:12+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -405,17 +534,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-07T20:26:13+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -442,6 +560,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "OSCR",
+      "headline": "Why Oscar Health (OSCR) Is Up 8.6% After Raising 2026 Outlook On AI-Driven Q2 Beat",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7dba798ca20c4c7e2e2d5b64f573e3360abd0d773dd71d32c205a743fe601ce3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T20:11:25+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Explainer: The status of Iran's uranium enrichment programme - Reuters",
       "source": "Reuters",
@@ -453,12 +583,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "The tech industry wants you to run AI models at home, but it's not for everyone",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Softer Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=37889a445f5abc29ffa14d87e1e613b277bcab8a600246ee90e97d26bc1a23e7",
+      "url": "https://finnhub.io/api/news?id=1d26b9ce143eddb423649d109ab0de57bcf43a915c067bd77590bbcb932ffab4",
       "is_watchlist": true,
-      "timestamp": "2026-10-07T19:53:14+00:00",
+      "timestamp": "2026-10-07T19:53:39+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -512,18 +642,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Is There A Risk Hiding In Marvell Stock's Rapid Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd713597b6ddec82b8cbd6973f1518981f70c4ddf5ecc19e1959b5c9cac955dc",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T19:34:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "IEA to accelerate oil reserve release, says 100 million barrels still to come - Reuters",
       "source": "Reuters",
@@ -532,6 +650,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-07T19:28:08+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Norwegian Is Now Down 32% This Year: Is NCLH Stock Dead in the Water or Due for a Bounce?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=031e559175890346377c5d07b97d5aacac4f51c72877304fdc1a28c9e13f3fd4",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T19:20:15+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -580,6 +710,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Earnings Season Playbook: The Sector ETFs to Watch as Q3 Results Roll In",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a267191db91018c23d94a27fc6962229e01b324378dccc200831e4e2caed0e7e",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T18:45:46+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
       "source": "CNBC",
@@ -588,18 +730,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-07T18:44:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Microsoft and Nvidia Unveil AI-Centric Laptop and Cost-Cutting \u201cHybrid Intelligence\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6aa9487b4be78a223323a7bb364e48d94a6c97b38645d67ed81a24d88b44b932",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T18:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -704,6 +834,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "Why This Wall Street Analyst Just Issued a Bold Prediction for Nebius Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0371f5b6878fb980814564c9410a130a2a724e8e58e34a93382d44b35c192d49",
+      "is_watchlist": true,
+      "timestamp": "2026-10-07T17:38:25+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Boots sold in \u00a37bn deal to Canadian billionaire family",
       "source": "BBC Business",
@@ -733,30 +875,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6f00bd07c3d6c012ef1b91f5362454bb5547bde0a46111760e21327d604b2489",
       "is_watchlist": true,
       "timestamp": "2026-10-07T17:10:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "Only 20% of GE Vernova's Order Book Is Data Centers. Here's Why That's the Bull Case, Not the Risk.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f227671d59c84d4e9c5da3578f2ff04dd92c1335e11ec5423bd0217c9a3c1d49",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T15:54:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "IREN Limited's Sweetwater Hub: Can It Fuel IREN's AI Expansion Plans?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1179cbf1ccc74975f4cb88a4b31c5961a9f1724ab3c512c03e10ed3f2fff45e2",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T14:58:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -810,6 +928,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-07T13:46:28+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "MasTec Plunges 34% in 6 Months: How Should Investors Play the Stock?",
       "source": "Yahoo",
@@ -846,36 +975,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Recession Warning: The Signals Are Lining Up",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6fbf3482d15d03eba00ea61c5f95fb7ab8adb89646ffb6c7e7eb199a36c49df2",
+      "ticker": "TTD",
+      "headline": "The Trade Desk (TTD) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ebd944abbe100d07590fc5cbd59bd9b4f64f4be81006ea8e0033dafbf13600e",
       "is_watchlist": true,
-      "timestamp": "2026-10-07T12:04:05+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "The Bill For This Record High Has Not Arrived Yet",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1717bf9f8aebf9cdb37db97ae56501c69cc5eb706374fe45ab3246067b766363",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T11:14:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "9 Of 11 Sectors Fall Wednesday As Defensives Lead",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6cb13c5c3477671749cc303924dbf8609d973a6c0413b64707490cdc5fb6734c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T11:02:18+00:00",
+      "timestamp": "2026-10-07T12:00:04+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -894,30 +999,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "Olyzon Launches its Agentic Orchestration Platform for Advertising, Live at Advertising Week New York",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=505a8c91ea22dd16d3a6366dbc3b26113bad3896d6df29c757bc4cbd6f70b47f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T11:00:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "ECF: This Outperforming Fund Could Help To Diversify A Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5d2b2887b989649ac52bd9871f811a4b599bcade56ecca44ca316fbb1fb458bb",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T10:47:35+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Who will win the 2026 Nobel Prize in economics?",
       "source": "NPR Business",
@@ -926,18 +1007,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-07T10:30:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "Why The Trade Desk Stock Tumbled in September",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6ff1f5ded017ebba661d8edea66f69094b9f8a9573ff1912335a4dd90f64933",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T10:13:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -952,24 +1021,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Group Stock Is Falling Wednesday: What's Going On?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2611ff9b69f57f671064bf2c29edf9d5ae590216f377a72c6e4c200d0352516e",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T06:58:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OSCR",
-      "headline": "Best Growth Stocks to Buy for October 7th",
+      "headline": "Zacks Industry Outlook Prudential Financial, Assurant, Oscar and Horace Mann",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b43cb9e2deb545c714ebc577ae291eb8c4303fa1e36268d70c9af5b5f922f0d",
+      "url": "https://finnhub.io/api/news?id=c539c669439ae40b64d063edb7753216f2a4c3cb6dfb35c74788947fb7989771",
       "is_watchlist": true,
-      "timestamp": "2026-10-07T06:09:00+00:00",
+      "timestamp": "2026-10-07T07:24:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1017,18 +1074,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=d78de6d39b8cbcc7d4ad57f3e14ef594e2c7e5d0522301202165af83997d2e17",
       "is_watchlist": true,
       "timestamp": "2026-10-06T22:30:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "5 Stocks to Buy From the Prosperous Multiline Insurance Industry",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f56982bb41aad1c4d6d1ac256be503c0d41be68afa10dba28a4831e73c6b209b",
-      "is_watchlist": true,
-      "timestamp": "2026-10-06T16:45:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1116,36 +1161,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "OSCR",
-      "headline": "Oscar Health Trading at a Premium: Why Should You Still Buy It?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2fe967f1b3a1549e47e55a0df2184cac3ecbbee50fa348e63635a42efc02e59",
-      "is_watchlist": true,
-      "timestamp": "2026-10-05T17:38:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Has The Story Under ExxonMobil Stock Run Out?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7d0b63513a0ae30653492643eef87d6f80cb06671a4ae014e323a8d3a52c8050",
       "is_watchlist": true,
       "timestamp": "2026-10-05T15:54:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "AppLovin Rallies 6% as Ad-Tech Cluster Splits Three Ways; Digital Turbine Edges Higher, Trade Desk Lags",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23c3dc5b26b9e8ab6ab0116b8af4ec329ac6048954104ad427660aa3d26198b2",
-      "is_watchlist": true,
-      "timestamp": "2026-10-05T15:41:08+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
