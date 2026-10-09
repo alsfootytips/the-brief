@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-09T17:45:22+00:00",
+  "generated_at": "2026-10-09T21:19:01+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -1461,7 +1461,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CCEL",
         "date": "2026-10-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0306,
         "revenue_estimate": 7602060,
         "is_watchlist": false
