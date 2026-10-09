@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-09T01:36:29.588576+00:00",
+  "generated_at": "2026-10-09T02:29:26.768629+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.0,
       "price": 65.26,
       "is_watchlist": true,
-      "timestamp": "2026-10-09T01:36:29.408668+00:00",
+      "timestamp": "2026-10-09T02:29:26.766021+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": 4.62,
       "price": 361.77,
       "is_watchlist": true,
-      "timestamp": "2026-10-09T01:36:29.408665+00:00",
+      "timestamp": "2026-10-09T02:29:26.766018+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 3.56,
       "price": 60.28,
       "is_watchlist": true,
-      "timestamp": "2026-10-09T01:36:29.408662+00:00",
+      "timestamp": "2026-10-09T02:29:26.766014+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -6.85,
       "price": 220.9,
       "is_watchlist": true,
-      "timestamp": "2026-10-09T01:36:29.408658+00:00",
+      "timestamp": "2026-10-09T02:29:26.766010+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -7.46,
       "price": 81.85,
       "is_watchlist": true,
-      "timestamp": "2026-10-09T01:36:29.408647+00:00",
+      "timestamp": "2026-10-09T02:29:26.766000+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": 3.01,
       "price": 45.13,
       "is_watchlist": true,
-      "timestamp": "2026-10-09T01:36:29.408644+00:00",
+      "timestamp": "2026-10-09T02:29:26.765996+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,7 +93,7 @@ window.theBriefLive = {
       "change_pct": -4.31,
       "price": 618.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-09T01:36:29.408634+00:00",
+      "timestamp": "2026-10-09T02:29:26.765987+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -101,46 +101,137 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Nvidia-backed Firmus scraps $5 billion Australian IPO on poor demand",
+      "headline": "OpenAI\u2019s September annualized revenue nears $50 billion, less than previously indicated, source says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
+      "url": "https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
       "is_watchlist": false,
-      "timestamp": "2026-10-09T01:12:39+00:00",
+      "timestamp": "2026-10-09T02:12:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Euro skids toward fifth weekly fall but selling pressure slows",
+      "headline": "Crescent Energy prices 80 million share offering at $12.50",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078",
+      "url": "https://www.investing.com/news/company-news/crescent-energy-prices-80-million-share-offering-at-1250-93CH-4940106",
       "is_watchlist": false,
-      "timestamp": "2026-10-09T01:12:26+00:00",
+      "timestamp": "2026-10-09T02:08:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Lifestyle Communities stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T02:06:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan reboots DOGE-style spending review in hunt for funds for Takaichi pledges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T02:06:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Fast Retailing stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-fast-retailing-stock-sliding-today-93CH-4940104",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T02:05:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hang Seng stuck at 24,076 with bull trap risk: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T02:02:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/chinese-developer-makes-artex-ai-agent-closedsource-after-korean-bank-hack-4940102",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T02:00:41+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+      "headline": "Tech stocks struggle on AI spending worries, elevated yields",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4940101",
       "is_watchlist": false,
-      "timestamp": "2026-10-09T01:10:47+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-10-09T02:00:26+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SoftBank shares slide as OpenAI revenue report dents AI optimism",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/softbank-shares-slide-as-openai-revenue-report-dents-ai-optimism-4940076",
+      "headline": "U.S. East Asian envoy says investors are overpricing Taiwan risk",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-09T01:04:36+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-09T01:37:01+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nebius Group vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d0346aa3fc10d7588e1ae2be8cff7bad8e8f7f021f769fb28430799b6e723c3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T01:33:38+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "BigBear.ai vs. Nebius: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fa303b6efbea4666221a00efea75156985d03618f33ab5d2cc6cbd7cf68fb53",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T01:29:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is a Berkshire Hathaway Class A Stock Split Finally Coming?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f8de2b3bafa23713f462efc835daeb27fef7a222b63b09ad67461b58a012929",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T01:07:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -156,14 +247,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Nikkei 225 tests triple support after double top: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nikkei-225-hits-70037-overbought-high-pullback-risk-live-93CH-4930979",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T01:02:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "AMD CEO delivers stark warning on chip market\u2019s future",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd4e4eee517fc2d9be85a0f25db35c688051272177d74e18221311d5363a8be8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T01:03:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "AMD CEO delivers stark warning on chip market\u2019s future",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd4e4eee517fc2d9be85a0f25db35c688051272177d74e18221311d5363a8be8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T01:03:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -178,29 +282,19 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Japan Post Holdings, a 10% owner, sells $1.48m in AFLAC shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/japan-post-holdings-a-10-owner-sells-148m-in-aflac-shares-93CH-4940074",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T01:01:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T01:00:50+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
+      "headline": "3 Stocks Already Winning the OpenAI vs. Anthropic Race",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0748b40b7e1c2ea6db8fcb8441c5fc56fb89b66cfcc7cee8d2d55ea8b57b860c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T00:55:08+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
       "headline": "3 Stocks Already Winning the OpenAI vs. Anthropic Race",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0748b40b7e1c2ea6db8fcb8441c5fc56fb89b66cfcc7cee8d2d55ea8b57b860c",
@@ -223,34 +317,24 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Hitachi joins Anthropic cybersecurity program",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/hitachi-joins-anthropic-cybersecurity-program-4940063",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T00:48:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japan reboots DOGE-style spending review in hunt for funds for Takaichi pledges",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japan-reboots-dogestyle-spending-review-in-hunt-for-funds-for-takaichi-pledges-4940050",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T00:48:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d5030d0f7a70a6770c332c8f1d2243651649b0ae98673d8958422f073f5fd4c7",
       "is_watchlist": true,
       "timestamp": "2026-10-09T00:39:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Ray Dalio Says AI Bubble Is \u2018Close\u2019 to Bursting as Debt and Rising Rates Raise Red Flags",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1804afae340575bf6db246ba9d603271ad7bda69c028364f9adaea74f7ef83d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T00:30:16+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -265,6 +349,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-09T00:25:15+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "OXY",
+      "headline": "Northern Oil and Gas, Matador Resources, Chevron, ConocoPhillips, and Occidental Petroleum Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7709fceec8ccd2a891587a17dc5965be25b3a35b80cdde72aa6230f514560613",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T00:24:09+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -312,7 +408,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
+      "ticker": "AMD",
       "headline": "TSMC's $46.7 billion quarter leaves 1 question for investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8b6bcbe59f25de334e8fbb3fe8176075c3a7ef1ae1abc56ba9095760db78df40",
@@ -374,18 +470,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Prediction: This Will Happen to Intel Stock in 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d86469372b65f857abcfdce35ad6dfa75cd8288054ea643ead328937d0c166c8",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T23:27:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
       "source": "BBC Business",
@@ -408,18 +492,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Market Chatter: Trump Disclosed 517 Securities Transactions in August, Including Up to $25 Million Meta Purchase",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be96a44d70a5b21546fabb4f64eed99f8ac7aa10086c4ecba67fb7c79768a69c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T23:12:41+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Why are more roofs not made of solar tiles?",
       "source": "BBC Business",
@@ -439,18 +511,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-08T23:05:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Buy-and-Hold Investors Are Switching From QQQ to This Lower-Fee Alternative",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5b01c1a236768a41c8c725c60dce675c04463a93ee2d5a52465d93ff168fdec",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T23:03:06+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -521,18 +581,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Cathie Wood Says Follow the AI Agents. Her Own Filings Show Where ARK Was Looking",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51148b2b5e8a01b5a94c3c56cd1672f171f7ce87b26162732db084e7d2f75dd8",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T22:00:07+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
       "source": "MarketWatch",
@@ -600,18 +648,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db27a31d71702d5f39c39bdaed003b59e01afc829d84da18e78128c5167c268e",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T21:20:17+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
       "source": "CNBC Top",
@@ -629,6 +665,30 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=9e3eb8ea8b7935961e4b8867b2b5ce57d8ff1942b089ca813076715f8cea93af",
       "is_watchlist": true,
       "timestamp": "2026-10-08T21:00:24+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Firmus Misfire Casts Shadow on Data Center IPOs in the Pipeline",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d19173c0db8e81c04d00903d4ca33bbca3f4476d3b38b964e3f68ec1b9d4caea",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T20:53:45+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Firmus Misfire Casts Shadow on Data Center IPOs in the Pipeline",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d19173c0db8e81c04d00903d4ca33bbca3f4476d3b38b964e3f68ec1b9d4caea",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T20:53:45+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -680,18 +740,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Worries About OpenAI\u2019s Revenue Rattle the AI Trade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c90a8bab1030d74b68fddb7555bf42e58aad2043571e29e3dc08f99d0407ad8",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T20:11:10+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Bessent"
@@ -705,6 +753,18 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=abb41f412bc806e635461de2a5fa9a2890ea501a73a3708004e49708f9a4c232",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T19:57:32+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -844,6 +904,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Rise Thursday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2afdc2a14557645d1fdb1084c43d6513971f6f487f11857665d621f217fb134d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-08T17:52:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "TTD",
       "headline": "APP Stock Sinks 53% in a Year: Is it Time to Sell the Stock?",
       "source": "Yahoo",
@@ -953,12 +1025,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Better Cloud AI Pick: CoreWeave or Nebius Group?",
+      "ticker": "OSCR",
+      "headline": "Can Oscar Health Turn ACA Marketplace Growth Into Lasting Profits?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7480ff5a9e11ea06ff15e9c23f74595de0cccf8a011f7fc7bb3bfec697df79b",
+      "url": "https://finnhub.io/api/news?id=6c910be20469e76466cb54ad4b1699eb12f358b07100d1919f8e2b61a61fc4ad",
       "is_watchlist": true,
-      "timestamp": "2026-10-08T16:05:00+00:00",
+      "timestamp": "2026-10-08T16:03:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1001,18 +1073,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Captures Pure-Play AI Investors Looking Beyond Mega Caps",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fdd5677efe8e4ee1c52564a9e6633b821fdae39f9a33db854c37d5cb9c5e61f0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T14:45:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "IWM",
       "headline": "The Stock Market Has A 5% Problem",
       "source": "SeekingAlpha",
@@ -1034,18 +1094,6 @@ window.theBriefLive = {
       "relevance_score": 5.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Western Digital upgraded, PayPal initiated: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=27528b27da098eccd8995c8fe4848e47e7b0b73f20c8cb2aad3df002a5e847c0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T13:43:23+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1081,30 +1129,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-08T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "As Q4 Begins, I Don't Want To Chase The Market Leaders",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1fdffd29a770107ae23ae4bbef7df33794a2f44c5d28a17db8cf6ccef703f864",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T08:45:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Fed Minutes Put Another Hike on the Table as the 10-Year Auction Clears at 5.3%",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=ec17fc2ccac7700f6b886512155cb4bf9887b3a6eca76b49697f4295b7c42603",
-      "is_watchlist": true,
-      "timestamp": "2026-10-08T08:07:41+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -1203,18 +1227,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Zacks Industry Outlook Prudential Financial, Assurant, Oscar and Horace Mann",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c539c669439ae40b64d063edb7753216f2a4c3cb6dfb35c74788947fb7989771",
-      "is_watchlist": true,
-      "timestamp": "2026-10-07T07:24:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "filing",
       "ticker": "APA",
       "form": "8-K",
@@ -1225,18 +1237,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": "OXY",
-      "headline": "Why Gas Flares Keep Burning Despite Big Oil's 2030 Pledges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d78de6d39b8cbcc7d4ad57f3e14ef594e2c7e5d0522301202165af83997d2e17",
-      "is_watchlist": true,
-      "timestamp": "2026-10-06T22:30:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

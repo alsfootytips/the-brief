@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-09T01:36:29.405171+00:00",
+  "generated_at": "2026-10-09T02:29:26.762243+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These S&P500 stocks that are showing activity before the opening bell on Thursday.\""
+      "move_reason": "News: \"Northern Oil and Gas, Matador Resources, Chevron, ConocoPhillips, and Occidental Petroleum...\""
     },
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"MLPI Is Inferior To Alternatives\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Gain Late Afternoon\""
     },
     {
       "ticker": "PLTR",
@@ -150,7 +150,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Advances While Market Declines: Some Information for Investors\""
+      "move_reason": "News: \"Can Oscar Health Turn ACA Marketplace Growth Into Lasting Profits?\""
     },
     {
       "ticker": "XLI",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Cloud AI Pick: CoreWeave or Nebius Group?\""
+      "move_reason": "News: \"Nebius Group vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "AMD",
@@ -210,7 +210,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"AMD CEO delivers stark warning on chip market\u2019s future\""
     },
     {
       "ticker": "NVDA",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TSMC's $46.7 billion quarter leaves 1 question for investors\""
+      "move_reason": "News: \"Is a Berkshire Hathaway Class A Stock Split Finally Coming?\""
     },
     {
       "ticker": "PWR",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"AMD CEO delivers stark warning on chip market\u2019s future\""
     },
     {
       "ticker": "APA",
@@ -411,7 +411,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, A...\""
+      "move_reason": "News: \"3 Stocks Already Winning the OpenAI vs. Anthropic Race\""
     },
     {
       "ticker": "IWM",
@@ -435,7 +435,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better Cloud AI Pick: CoreWeave or Nebius Group?\""
+      "move_reason": "News: \"Nebius Group vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "NVDA",
@@ -447,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"TSMC's $46.7 billion quarter leaves 1 question for investors\""
+      "move_reason": "News: \"Is a Berkshire Hathaway Class A Stock Split Finally Coming?\""
     },
     {
       "ticker": "OSCR",
@@ -459,7 +459,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Advances While Market Declines: Some Information for Investors\""
+      "move_reason": "News: \"Can Oscar Health Turn ACA Marketplace Growth Into Lasting Profits?\""
     },
     {
       "ticker": "OXY",
@@ -471,7 +471,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These S&P500 stocks that are showing activity before the opening bell on Thursday.\""
+      "move_reason": "News: \"Northern Oil and Gas, Matador Resources, Chevron, ConocoPhillips, and Occidental Petroleum...\""
     },
     {
       "ticker": "PWR",
@@ -519,7 +519,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"MLPI Is Inferior To Alternatives\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Gain Late Afternoon\""
     }
   ],
   "indices": [
