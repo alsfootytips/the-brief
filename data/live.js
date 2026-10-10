@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-10T01:07:15.477812+00:00",
+  "generated_at": "2026-10-10T01:25:42.958295+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,58 @@ window.theBriefLive = {
       "change_pct": 3.01,
       "price": 705.94,
       "is_watchlist": true,
-      "timestamp": "2026-10-10T01:07:15.475709+00:00",
+      "timestamp": "2026-10-10T01:25:42.800789+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Datadog CTO Alexis Le-Quoc sells $14.75m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/datadog-cto-alexis-lequoc-sells-1475m-in-shares-93CH-4941905",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T01:01:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says Russia to supply diesel to US and global markets",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T00:54:24+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mediaalpha CEO Steven Yi sells $263k in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-263k-in-company-stock-93CH-4941900",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T00:46:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "InnSuites Hospitality Trust CEO Wirth reports $2.17 billion share disposition",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-reports-217-billion-share-disposition-93CH-4941899",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T00:45:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -88,47 +136,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Purebread Brands to acquire Caffe Artigiano for $7.7M",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/purebread-brands-to-acquire-caffe-artigiano-for-77m-93CH-4941886",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T00:28:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI-centered US stock bull market nears four-year anniversary",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/aicentered-us-stock-bull-market-nears-fouryear-anniversary-4940586",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T00:24:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Okta chief accounting officer sells $3.2m in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/okta-chief-accounting-officer-sells-32m-in-company-stock-93CH-4941883",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T00:19:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cathie Wood\u2019s ARK sells DraftKings stock and buys CRISPR Therapeutics",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-draftkings-stock-and-buys-crispr-therapeutics-93CH-4941878",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T00:19:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Why Palantir Stock Powered to a More Than 5% Gain Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cecb423e83b2d3527b73c5468da1bfdbe5b8ced5d2093546471cc565869cef6",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T00:16:32+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -140,6 +156,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-10T00:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Moderna Stock Surged Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f56bd64c9b264ca01fd46e7475092dc34ffa8ab476200e9a0d2c7a0ddb5ec296",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T00:07:31+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -167,6 +195,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "What Is Physical AI? Nvidia Is the Stock I'd Buy to Own It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=279861e38a471d720b9f9f11539ab19c25cb0885ef6bc7d6153ad16624995f70",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T00:01:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
       "source": "MarketWatch",
@@ -178,6 +218,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "GEV",
+      "headline": "What Is Driving The Move In GE Vernova Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a2c856cfb266801ed7a18a56bd60ed065be4b9782c818c1c15bb82b462420bf",
+      "is_watchlist": true,
+      "timestamp": "2026-10-09T23:58:42+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact",
       "source": "Seeking Alpha Market",
@@ -186,18 +238,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-09T23:50:41+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Quanta Services Stock Flew Higher on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=872c21ba687524a0c5b196a67675b5f428a3b4130cf99b36c54ae2dd7165649c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-09T23:50:15+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -233,30 +273,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why CrowdStrike Holdings Stock Crushed it on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aabde0ac4a6f925e7d14c0ac91dde57213ffced3a8e361cc77f38c9b7a181008",
-      "is_watchlist": true,
-      "timestamp": "2026-10-09T23:16:18+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Fuji Electric\u2019s Helical Fusion Partnership Could Be A Game Changer For Fuji Electric (TSE:6504)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f908f710896776d357e4541a6721bd6b80c716f72df92ca59cb9c8ebd0ead2f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-09T23:15:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -896,18 +912,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-09T14:36:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "AI & Data Center Spending Concerns Weighed on GE Vernova (GEV)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5699756b9e36a9078456524ca2c54a7794c4a513b8f7ea2b34ed2e400f522310",
-      "is_watchlist": true,
-      "timestamp": "2026-10-09T14:24:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-10T01:07:15.472966+00:00",
+  "generated_at": "2026-10-10T01:25:42.797313+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Quanta Services Stock Flew Higher on Friday\""
+      "move_reason": "News: \"Why Palantir Stock Powered to a More Than 5% Gain Today\""
     },
     {
       "ticker": "META",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Vertiv vs. Eaton: Which AI Power Stock Offers More Cash Flow for the Price?\""
+      "move_reason": "News: \"What Is Driving The Move In GE Vernova Stock?\""
     },
     {
       "ticker": "IWM",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Quanta Services Stock Flew Higher on Friday\""
+      "move_reason": "News: \"Why Palantir Stock Powered to a More Than 5% Gain Today\""
     },
     {
       "ticker": "OSCR",
