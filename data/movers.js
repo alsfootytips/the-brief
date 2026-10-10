@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-10T13:42:32.853319+00:00",
+  "generated_at": "2026-10-10T18:03:05.018875+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Outpaces Stock Market Gains: What You Should Know\""
+      "move_reason": "News: \"Why retail companies are taking products off shelves\""
     },
     {
       "ticker": "MSFT",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner.\""
+      "move_reason": "News: \"The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring\""
     },
     {
       "ticker": "TTD",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix Is Treading Water Around a 2-Year Low. Is It the Most Obvious Growth Stock to Buy ...\""
+      "move_reason": "News: \"Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?\""
     },
     {
       "ticker": "META",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Investors Need Convincing Despite Cooling Jobs And Strong AI Earnings\""
+      "move_reason": "News: \"EMO: Strong Tailwinds, But Data Center Build-Out Imposes Political Risk\""
     }
   ],
   "watchlist": [
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner.\""
+      "move_reason": "News: \"The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring\""
     },
     {
       "ticker": "APA",
@@ -308,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Outpaces Stock Market Gains: What You Should Know\""
+      "move_reason": "News: \"Why retail companies are taking products off shelves\""
     },
     {
       "ticker": "GEV",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Solar Stocks\u2019 Narrow Rally: Infrastructure and Storage Lead While Panel Makers Lag\""
+      "move_reason": "News: \"GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If Small Value Slides, The Battleground Is Clear\""
+      "move_reason": "News: \"The 1-Minute Market Report October 10, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's What $1,000 Invested in Nebius Could Be Worth by 2030\""
+      "move_reason": "News: \"Benzinga Bulls and Bears: Nvidia, Lumentum, Planet Labs\""
     },
     {
       "ticker": "NVDA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix Is Treading Water Around a 2-Year Low. Is It the Most Obvious Growth Stock to Buy ...\""
+      "move_reason": "News: \"Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?\""
     },
     {
       "ticker": "OSCR",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Investors Need Convincing Despite Cooling Jobs And Strong AI Earnings\""
+      "move_reason": "News: \"EMO: Strong Tailwinds, But Data Center Build-Out Imposes Political Risk\""
     }
   ],
   "indices": [
