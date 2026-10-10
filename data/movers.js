@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-10T07:07:57.008757+00:00",
+  "generated_at": "2026-10-10T13:42:32.853319+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -93,7 +93,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Forgotten AI Stock Is Up 689% and Nobody's Talking About It\""
+      "move_reason": "News: \"A Potential New Market Threat: The IPO Window Closing\""
     },
     {
       "ticker": "XLY",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why AMD's Supply Crunch Could Be Good News for Its Stock\""
+      "move_reason": "News: \"Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner.\""
     },
     {
       "ticker": "TTD",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Forgotten AI Stock Is Up 689% and Nobody's Talking About It\""
+      "move_reason": "News: \"Netflix Is Treading Water Around a 2-Year Low. Is It the Most Obvious Growth Stock to Buy ...\""
     },
     {
       "ticker": "META",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
+      "move_reason": "News: \"Investors Need Convincing Despite Cooling Jobs And Strong AI Earnings\""
     }
   ],
   "watchlist": [
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why AMD's Supply Crunch Could Be Good News for Its Stock\""
+      "move_reason": "News: \"Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner.\""
     },
     {
       "ticker": "APA",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Forgotten AI Stock Is Up 689% and Nobody's Talking About It\""
+      "move_reason": "News: \"A Potential New Market Threat: The IPO Window Closing\""
     },
     {
       "ticker": "DG",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Is Driving The Move In GE Vernova Stock?\""
+      "move_reason": "News: \"Solar Stocks\u2019 Narrow Rally: Infrastructure and Storage Lead While Panel Makers Lag\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Not Idiosyncratic But Systemic\""
+      "move_reason": "News: \"If Small Value Slides, The Battleground Is Clear\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Forgotten AI Stock Is Up 689% and Nobody's Talking About It\""
+      "move_reason": "News: \"Netflix Is Treading Water Around a 2-Year Low. Is It the Most Obvious Growth Stock to Buy ...\""
     },
     {
       "ticker": "OSCR",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
+      "move_reason": "News: \"Investors Need Convincing Despite Cooling Jobs And Strong AI Earnings\""
     }
   ],
   "indices": [

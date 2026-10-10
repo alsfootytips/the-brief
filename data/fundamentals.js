@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-10-10T07:07:57.173065+00:00",
+  "generated_at": "2026-10-10T13:42:33.025378+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -7.9,
@@ -232,7 +232,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.325,
       "market_cap": 24898480128,
       "beta": 0.588,
-      "dividend_yield": 0.67,
+      "dividend_yield": 0.69,
       "short_ratio": 12.59,
       "short_percent_of_float": 0.0896,
       "analyst_recs": {
