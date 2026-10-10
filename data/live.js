@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-10T18:03:05.024717+00:00",
+  "generated_at": "2026-10-10T21:44:29.542457+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,10 +21,277 @@ window.theBriefLive = {
       "change_pct": 3.01,
       "price": 705.94,
       "is_watchlist": true,
-      "timestamp": "2026-10-10T18:03:05.022151+00:00",
+      "timestamp": "2026-10-10T21:44:29.539925+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Prosperity Bancshares director Ned Holmes sells $72,363 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T21:16:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "H B Fuller director R Jeffrey Bailly buys $500,000 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/h-b-fuller-director-r-jeffrey-bailly-buys-500000-in-common-stock-93CH-4942250",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T21:01:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T20:59:28+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SailPoint chief accounting officer Mitra Rezvan sells $23,360 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-rezvan-sells-23360-in-stock-93CH-4942244",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T20:46:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Neogen CEO Mikheal Nassif buys $6,034 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T20:15:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Infosys sees no material impact from U.S. PERM suspension",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T20:14:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Caledonia Mining earnings beat by $0.10, revenue topped estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T20:09:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: Is now the time to buy quantum stocks? If so, which ones?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651914-sa-asks-is-now-the-time-to-buy-quantum-stocks-if-so-which-ones?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:57:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Should I put my nest egg in a 30-year Treasury bond?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "These decisions you make in your 20s \u2014 not your income \u2014 determine whether you\u2019ll spend decades in debt or retire comfortably",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:44:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Already Buying",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14c18f2b4928acb0441085673740898e8ae9a94e25c0b29030fe8127ec023cf4",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T19:41:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:36:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Key deals this week: Option Care Health, PTC, Energy Transfer and more",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651908-key-deals-this-week-option-care-health-ptc-energy-transfer-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:15:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "\u2018Big Short\u2019 investors split over the AI risk that matters most",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbdfc812c36a45772b50e46513f505a99ebed7bceeff3b04dfa4afd7dcd88994",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T19:13:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia in talks to buy \u2018open\u2019 model startup Reflection AI: FT",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651913-nvidia-buy-open-model-startup-reflection-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T19:12:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=897947f1c75f6c3e5bf0adf4e81ea33faf69c695d6cd90c133dbf8a32585287c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T19:07:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651912-cliffs-plans-canada-layoffs-despite-govt-ultimatum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T18:41:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -40,50 +307,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "India\u2019s Infosys does not expect material impact from US PERM suspension",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension-4942191",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:48:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Everpure director Mallun Yen sells $1.75m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/everpure-director-mallun-yen-sells-175m-in-shares-93CH-4942179",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:31:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rapport Therapeutics CEO Abraham Ceesay sells $143,272 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/rapport-therapeutics-ceo-abraham-ceesay-sells-143272-in-stock-93CH-4942178",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:31:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pacific Biosciences CFO reports $2.05m stock sale",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pacific-biosciences-cfo-reports-205m-stock-sale-93CH-4942177",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:31:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
@@ -94,47 +317,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Analog devices director Ray Stata sells $1.17 million in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/analog-devices-director-ray-stata-sells-117-million-in-shares-93CH-4942163",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:01:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pimco high income fund director David Flattum buys $249,245 stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pimco-high-income-fund-director-david-flattum-buys-249245-stock-93CH-4942162",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:01:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pimco Dynamic Income Fund director David Flattum buys $249,508 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/pimco-dynamic-income-fund-director-david-flattum-buys-249508-in-shares-93CH-4942161",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:01:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EU-China trade relations hit crunch time as Brussels pushes for rebalancing",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/euchina-trade-relations-hit-crunch-time-as-brussels-pushes-for-rebalancing-4942158",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T16:52:37+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69387e00bf52429c8086050e82ee46db0171cd604077c4444f00839259e64b9e",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T17:03:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -144,17 +335,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4651910-flight-disruptions-after-blast-saudi-airport?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-10T16:52:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T16:50:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -171,72 +351,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Real estate stocks outperform broader markets",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651848-real-estate-stocks-outperform-broader-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T16:00:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people\u2019s home?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T16:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?",
+      "ticker": "GEV",
+      "headline": "GE Vernova Stock Is Up More Than 50% Since the End of 2025. Here\u2019s What Its October 28 Report Needs to Show",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96b65c09b71281b5b49a6339d53399a3273c426f4788b6f467aa08b1704e25bc",
+      "url": "https://finnhub.io/api/news?id=e5aee72b288a26a75ab5edeb0799d379153039bede3ac895eb4a0e38f2b93eb3",
       "is_watchlist": true,
-      "timestamp": "2026-10-10T15:53:00+00:00",
+      "timestamp": "2026-10-10T16:14:06+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Like Meta's Muse AI Agents? 4 AI Semiconductor Stocks Set to Benefit From the Rise of AI Agents.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87aa4058395473aae0eed03fd47870d3316533882eab8ea7c7df043f96c300b4",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T15:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Coinbase CEO Brian Armstrong Just Doubled Down On His $400,000 Price Target for Bitcoin. Here's Why He's Wrong.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7ec2b2b9bbdbf22aac9d099a9066243113bb0fb1c1768382db19b25b924a993",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T15:47:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T15:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -272,50 +395,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T15:05:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insider trades: P&G, Marvell Technology, TSMC among notable names",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651902-insider-trades-pg-marvell-technology-tsmc-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T15:03:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T15:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hospital group files lawsuit to stop 340B rebate pilot again",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651907-hospital-group-sues-stop-340b-rebate-pilot-again?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T14:57:14+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -357,17 +436,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable analyst calls this week: Procter & Gamble, Palantir and SentinelOne among top picks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651867-notable-analyst-calls-this-week-procter-and-gamble-palantir-and-sentinelone-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T14:10:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump",
@@ -386,46 +454,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "AI Data Centers Are Power Hungry. These 6 Power and Cooling Stocks Could Benefit Through 2030.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9353170f29d54d024c5a04f55acedeaaad1b2d5cc8872f74d8a8f81a6df84b6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T13:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Pok\u00e9mon card values are soaring. What collectors should know before buying or selling",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/10/pokemon-card-values-grading-guide.html",
       "is_watchlist": false,
       "timestamp": "2026-10-10T13:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Flu season is already here. Here\u2019s what to know about this year\u2019s flu shots.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T13:19:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected applications from wealthy couples. Here\u2019s why.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T13:15:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -459,50 +493,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
       "is_watchlist": false,
       "timestamp": "2026-10-10T13:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Winter is coming and energy bills are climbing. \u2018Everything just keeps going up.\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T13:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why Nvidia\u2019s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T12:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Buffett's 'trips down YouTube rabbit hole' revealed",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/10/buffetts-trips-down-youtube-rabbit-hole-revealed.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T12:01:16+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "From BJ\u2019s to Lululemon, retailers are trimming assortments to boost business",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T12:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -560,18 +550,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=3ed50b2539af381df5c23ee593c3c6077b1905ea90c7042a8fbef52512d282d1",
       "is_watchlist": true,
       "timestamp": "2026-10-10T10:00:19+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "SpaceX, Micron, AMD and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7e99434658a86958a1acd15f437ab3c2a7b7b5f6e69f115e3cbaf9de5bc631eb",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T08:58:24+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -818,6 +796,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJVb2U2eWdVMjdYVEVwMWt0NzJaQTA0aDNCMVB3YVc3N1VIMUszdjl0OUFFNVhCRHNSUEk3MzVsY1pnX2pIU1hfME5sRm5QUThjSEdJd3VHeGtuQzMzTGc4X0VESC1McU1vUXo3QTJGV2MwWGpFMXpacXF3dndjcWNORXU3bWNXaUtwWjRLbHJDNjBBQ3BIQldySU5LWXNjU0hxQkd4aWp2ZjAtYzNyQ0J0MHpLZjFKM19VSjM4QlJkZ2c?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T21:06:30+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Junk bonds are 'flashing yellow.' Watch these warning signs",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
@@ -848,6 +837,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices settle higher as more production shut ahead of hurricane - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T20:19:51+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -898,24 +898,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What's behind the recovery rally in tech stocks \u2014 plus, Elon Musk's very good week",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/09/whats-behind-the-recovery-rally-in-tech-stocks-plus-musks-good-week.html",
+      "headline": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-09T19:02:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T18:50:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "timestamp": "2026-10-09T19:19:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -995,6 +985,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-09T13:03:19+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-09T13:03:19+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {

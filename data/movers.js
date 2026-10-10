@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-10T18:03:05.018875+00:00",
+  "generated_at": "2026-10-10T21:44:29.536569+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring\""
+      "move_reason": "News: \"Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "TTD",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?\""
+      "move_reason": "News: \"2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Alrea...\""
     },
     {
       "ticker": "META",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring\""
+      "move_reason": "News: \"Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?\""
     },
     {
       "ticker": "APA",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth\""
+      "move_reason": "News: \"GE Vernova Stock Is Up More Than 50% Since the End of 2025. Here\u2019s What Its October 28 Rep...\""
     },
     {
       "ticker": "IWM",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?\""
+      "move_reason": "News: \"2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Alrea...\""
     },
     {
       "ticker": "OSCR",
