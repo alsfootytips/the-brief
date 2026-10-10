@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-09T21:19:01+00:00",
+  "generated_at": "2026-10-10T01:07:15+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -1457,64 +1457,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       }
     ],
-    "2026-10-09": [
-      {
-        "ticker": "CCEL",
-        "date": "2026-10-09",
-        "hour": "amc",
-        "eps_estimate": 0.0306,
-        "revenue_estimate": 7602060,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CLSD",
-        "date": "2026-10-09",
-        "hour": "amc",
-        "eps_estimate": -0.2693,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DAL",
-        "date": "2026-10-09",
-        "hour": "bmo",
-        "eps_estimate": 1.9868,
-        "revenue_estimate": 17778762279,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HIFS",
-        "date": "2026-10-09",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HOVR",
-        "date": "2026-10-09",
-        "hour": "bmo",
-        "eps_estimate": -0.134,
-        "revenue_estimate": 0,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MLGF",
-        "date": "2026-10-09",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PBNC",
-        "date": "2026-10-09",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
     "2026-10-12": [
       {
         "ticker": "ACZT",
@@ -2407,7 +2349,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CFG",
         "date": "2026-10-16",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.4016,
         "revenue_estimate": 2359457970,
         "is_watchlist": false
@@ -2455,7 +2397,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MTB",
         "date": "2026-10-16",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 5.0006,
         "revenue_estimate": 2556245491,
         "is_watchlist": false
@@ -2487,7 +2429,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RF",
         "date": "2026-10-16",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.6808,
         "revenue_estimate": 2046846838,
         "is_watchlist": false
@@ -2495,7 +2437,7 @@ window.theBriefEarnings = {
       {
         "ticker": "TFC",
         "date": "2026-10-16",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.1263,
         "revenue_estimate": 5417099751,
         "is_watchlist": false
