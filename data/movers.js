@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-11T18:18:49.181859+00:00",
+  "generated_at": "2026-10-11T22:17:31.311870+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood sells $15.8 million of popular semiconductor stock\""
+      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
     },
     {
       "ticker": "TTD",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is AGNC Stock a Buy, Sell, or Hold Near Its 52-Week Low?\""
+      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
     },
     {
       "ticker": "META",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood sells $15.8 million of popular semiconductor stock\""
+      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
     },
     {
       "ticker": "APA",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Stock Is Up More Than 50% Since the End of 2025. Here\u2019s What Its October 28 Rep...\""
+      "move_reason": "News: \"A Question About Vertiv (VRT) Leads Jim Cramer to a Bigger Infrastructure Story\""
     },
     {
       "ticker": "IWM",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Debt Markets Are Starting To Cry Uncle\""
+      "move_reason": "News: \"S&P 500: A Hard Road Ahead\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is AGNC Stock a Buy, Sell, or Hold Near Its 52-Week Low?\""
+      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
     },
     {
       "ticker": "OSCR",

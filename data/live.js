@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-11T18:18:49.187650+00:00",
+  "generated_at": "2026-10-11T22:17:31.317661+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.01,
       "price": 705.94,
       "is_watchlist": true,
-      "timestamp": "2026-10-11T18:18:49.185052+00:00",
+      "timestamp": "2026-10-11T22:17:31.315151+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,33 +29,33 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Onemednet CFO Robert Golden sells $55,290 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-shares-93CH-4942798",
+      "headline": "Mirum Pharmaceuticals to report Livmarli trial results Monday",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651951-mirum-pharmaceuticals-to-report-livmarli-trial-results-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T18:01:08+00:00",
+      "timestamp": "2026-10-11T21:49:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
+      "headline": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T18:00:29+00:00",
+      "timestamp": "2026-10-11T21:48:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is AGNC Stock a Buy, Sell, or Hold Near Its 52-Week Low?",
+      "ticker": "AMD",
+      "headline": "History Says This Will Happen to AMD Stock in 2027",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=697b1d0d00e1db3dad35686fb547c8bc2e653efa39edc2270d06a025992c81b2",
+      "url": "https://finnhub.io/api/news?id=5a0df68ae0ee258cbb2fcad2d9c11df6e6f128c8d5cce3fc08d89fbc95491936",
       "is_watchlist": true,
-      "timestamp": "2026-10-11T17:55:00+00:00",
+      "timestamp": "2026-10-11T21:35:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -63,11 +63,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Centrus Is Down 69% From Its High. Is Its $4.5 Billion Backlog Enough to Buy at $143?",
+      "headline": "History Says This Will Happen to AMD Stock in 2027",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29e9473d05d7fc296ecc5d44974146f032a2182ffacb8f91aaf909ad22bb572f",
+      "url": "https://finnhub.io/api/news?id=5a0df68ae0ee258cbb2fcad2d9c11df6e6f128c8d5cce3fc08d89fbc95491936",
       "is_watchlist": true,
-      "timestamp": "2026-10-11T17:50:00+00:00",
+      "timestamp": "2026-10-11T21:35:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -79,26 +79,279 @@ window.theBriefLive = {
         "Iran"
       ],
       "ticker": null,
-      "headline": "Iran rejects U.S. stance on Hormuz as Trump weighs strikes over Riyadh attacks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-weighs-renewed-iran-strikes-as-saudi-airport-attack-kills-12-4942483",
+      "headline": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
       "is_watchlist": true,
-      "timestamp": "2026-10-11T17:47:32+00:00",
-      "relevance_score": 7.0,
+      "timestamp": "2026-10-11T21:30:45+00:00",
+      "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
     },
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "If I Had a Choice to Invest $10,000 in SpaceX or Nvidia, Here's What I Would Do",
+      "headline": "Treasury Yields Are Now Above 5%. Here's Why That's Bearish For Bitcoin.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e1e97a23a36bea708f28f517799143f24b162ed49d93a28c336414be492d21d",
+      "url": "https://finnhub.io/api/news?id=f46598660e98130840dff493be3a12cc4dd3f4b1ca8bff01db9123a2a5fba8fa",
       "is_watchlist": true,
-      "timestamp": "2026-10-11T17:38:00+00:00",
+      "timestamp": "2026-10-11T21:25:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942851",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "3 AI Stocks To Own In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=122bfd7df8b803c0ca64e1fd6e1a83652cc1d1e2efbb095893b835d07c595f6d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T21:16:12+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651950-cyberleek-memecoin-jumps-as-gta-6-leaker-taunts-take-two-over-30m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T21:15:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T21:10:20+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mirum Pharmaceuticals to share phase 3 LIVMARLI study results",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/mirum-pharmaceuticals-to-share-phase-3-livmarli-study-results-93CH-4942847",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T21:04:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Commonwealth EVP/CFO James Reske disposes of $42,512 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/first-commonwealth-evpcfo-james-reske-disposes-of-42512-in-stock-93CH-4942846",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T21:01:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Republicans, Democrats want Trump to reverse course on Russia diesel",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:36:22+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Astera Labs director Dyckerhoff sells $4.7 million in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/astera-labs-director-dyckerhoff-sells-47-million-in-shares-93CH-4942843",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:31:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Investors are likely to focus on SpaceX\u2019s Starship tech milestones, not results",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/investors-are-likely-to-focus-on-spacexs-starship-tech-milestones-not-results-4942839",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:28:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Justice Department investigates TV networks as White House press-access fight escalates",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:18:38+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:15:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Treasury yields near 24-yr high as investors await inflation data, Fed signals",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651948-treasury-yields-near-24-yr-high-as-investors-await-inflation-data-fed-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:09:57+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:06:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:06:08+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T20:00:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stellantis unveils low-cost electric cars in bid to revive European sales",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651947-stellantis-unveils-low-cost-electric-cars-in-bid-to-revive-european-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T19:53:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "A Question About Vertiv (VRT) Leads Jim Cramer to a Bigger Infrastructure Story",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b0ab120d8eb409d912e743cf3e032d219e136959d5af981d9245ca2fd6bd4e5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T19:48:29+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Here are the 6 big things we're watching in the stock market this week",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/11/here-are-the-6-big-things-were-watching-in-the-stock-market-this-week.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T19:46:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SA Asks: How can Nike get back on track?",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651946-sa-asks-how-can-nike-get-back-on-track?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T19:44:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T19:33:51+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T19:32:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T19:32:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -108,17 +361,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4651938-other-mommy-tops-weekend-box-office-with-27m-domestic-ticket-sales-cross-8b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-11T17:35:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sonic Automotive director Paul Rusnak buys $1.29m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sonic-automotive-director-paul-rusnak-buys-129m-in-shares-93CH-4942789",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T17:31:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -136,34 +378,23 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Roche's experimental eye drug shows vision improvements in trials",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651935-roches-experimental-eye-drug-shows-vision-improvements-in-trials?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Indian national injured in Riyadh airport attack dies, embassy says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUdmYkdkbzVhY0FyLUxyT0k2Z2pOMHJVLTZsd3B5TEpEb1NVUmZ5U1drLTk1MnpoWk5VR1hpUFhpdTd5ZnE0bE1oQmVGQU4wWGlBakZvNGlfQWpjSUlxTE5MVGhodC1tYTQ2UV9ZREdxVnZnOTJQaFVfaHBDdHEyc0VXWG1GTE9JM2RJLS1fYm1NTXQ1NU5tRFZLY2YtOWFpZjhObGNTUTBTUnVUU2JNZw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T17:13:12+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-11T17:12:14+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Stellantis bets on small affordable EVs for European comeback",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/stellantis-bets-on-small-affordable-evs-for-european-comeback-4942779",
+      "headline": "From BJ\u2019s to Lululemon, retailers are trimming assortments to boost business",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T17:06:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UL Solutions president and CEO Jennifer Scanlon sells $876k in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ul-solutions-president-and-ceo-jennifer-scanlon-sells-876k-in-stock-93CH-4942777",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T17:01:06+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-11T17:08:30+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -180,94 +411,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Global equities mixed amid rising yields and oil prices",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651936-global-equities-mixed-amid-rising-yields-and-oil-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T16:48:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SentinelOne CFO Sonalee Parekh sells $413,291 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sentinelone-cfo-sonalee-parekh-sells-413291-in-stock-93CH-4942770",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T16:46:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Innsuites Hospitality Trust CEO Wirth sells $2.17 billion in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-sells-217-billion-in-stock-93CH-4942769",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T16:45:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Merck's experimental eye drug meets goal in trial, but raises safety concerns",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651934-mercks-experimental-eye-drug-meets-goal-in-trial-but-raises-safety-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T16:42:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Millions of Americans will have fewer options during Medicare open enrollment this year",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-11T16:35:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-      "is_watchlist": true,
-      "timestamp": "2026-10-11T16:29:55+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Marko Kolanovic calls Trump\u2019s energy ceasefire a \u2018con,\u2019 Tom Lee sees potential inflation relief",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651933-marko-kolanovic-calls-trump-s-energy-ceasefire-a-con-tom-lee-sees-potential-inflation-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T16:19:50+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BridgeBio reports improved symptoms in Phase 3 trial of rare-disease drug",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651932-bridgebio-reports-improved-symptoms-in-phase-3-trial-of-rare-disease-drug?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T16:09:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -285,14 +433,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12 - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T15:32:16+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
+      "ticker": "IWM",
+      "headline": "S&P 500: A Hard Road Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=633ba534d6274b280447de5df3688c132d7ded955cd7c0522010599e6887824d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T16:00:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -377,17 +526,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI is automating coding. So why are software developer job postings on the rise?",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T13:30:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Most Gulf stocks in red after attack on Riyadh airport - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEliNzFKYlR3T0NNakk4TWxXWGJ0UlJfQ0JLdFVIRnlESENoRW4zdjNSWW02UjFJOFozRmlZdVZ2ZlFaOTFSdEc5RGd6QWVVaFFMNi1QRTdMSVg2dFQxaHROcjhjbnI4ekhnZUZVbXlmYVBQaDZ3TG1pcFQ5RnFaVXpfYUxWRG1acC1mYnR6d3ZtdXpxbTBBUFJkcU9ock1wbXc?oc=5",
@@ -431,29 +569,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Not Anthropic. Not AMD. Here's My Top AI Stock for 2027.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a5cabfc85b30d885e004254203592417f511f29f6aeedf50324259fa3385ba0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-11T12:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T12:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Justice Department investigates TV networks, citing possible anti-trust violations",
       "source": "NPR Business",
@@ -492,17 +607,6 @@ window.theBriefLive = {
       "headline": "Bank earnings to shed the first light on how higher yields are affecting the economy",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T12:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-11T12:00:00+00:00",
       "relevance_score": 0.0,
@@ -568,18 +672,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Equity Risk Premium Has Vanished, And Stocks Aren't Cheap",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=13ef3fccd566829ac8dc1985ae280937a12c2b77d15450edcb27ed595d1597c6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-11T08:45:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports - Reuters",
       "source": "Reuters",
@@ -602,40 +694,14 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
+      "type": "news",
       "ticker": null,
-      "headline": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
+      "headline": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-11T01:35:00+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Should I put my nest egg in a 30-year Treasury bond?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-10T19:44:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T19:44:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-11T04:03:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -652,17 +718,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T15:28:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth",
       "source": "Yahoo",
@@ -675,17 +730,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Israeli strikes kill five people in Gaza, medics say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUhRYkpDR0ViRnlSNjNpcl94N3RPOGdvUHBlaVU0MXU3V2EtX1QwV2NFbGZTX3FtUnlYLTdmNmFIMlgwaHM0a1Z2MjB2UUV2cUNadGRHa1ZwTDJPakJ3d3VONVVwZS1WNnNmLVlkOW0yMXc5VDYxY1F3czY0QlFGSnpremd5UG1IcUlXMEhwNFBSLU9rQ3daalo5b1RvVW5ZajV6Wg?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T15:24:12+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Report: Nvidia Eyes Reflection AI Takeover as the AI Arms Race Heats Up",
       "source": "Benzinga",
@@ -694,18 +738,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-10T15:15:27+00:00",
       "relevance_score": 3.5,
       "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Vernova (GEV) Just Turned AI Data Centers Into A $5 Billion Order Tailwind",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3e83c0fa91c19c8ac48184556a17687ba893bbc4d10d4b1e844ca1acbde25d3",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T15:14:12+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {
@@ -757,28 +789,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T14:13:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pok\u00e9mon card values are soaring. What collectors should know before buying or selling",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/10/pokemon-card-values-grading-guide.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T13:30:02+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1043,17 +1053,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-09T13:03:19+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T13:03:19+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
