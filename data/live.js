@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-11T00:32:30.486684+00:00",
+  "generated_at": "2026-10-11T06:29:18.755400+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.01,
       "price": 705.94,
       "is_watchlist": true,
-      "timestamp": "2026-10-11T00:32:30.484565+00:00",
+      "timestamp": "2026-10-11T06:29:18.752700+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,90 +29,171 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Global trust in science falls below pre-pandemic levels, survey finds",
+      "headline": "World Bank in talks with dozens of countries about crisis aid, Banga says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/global-trust-in-science-falls-below-prepandemic-levels-survey-finds-4942351",
+      "url": "https://www.investing.com/news/economy-news/world-bank-in-talks-with-dozens-of-countries-about-crisis-aid-banga-says-4942479",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T00:23:49+00:00",
+      "timestamp": "2026-10-11T06:12:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Twilio CEO Khozema Shipchandler sells $4.2 million in stock",
+      "headline": "8 emerging markets to consider in 2027: HSBC",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/twilio-ceo-khozema-shipchandler-sells-42-million-in-stock-93CH-4942348",
+      "url": "https://www.investing.com/news/stock-market-news/8-emerging-markets-to-consider-in-2027-hsbc-4942478",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T00:16:28+00:00",
+      "timestamp": "2026-10-11T06:09:53+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Onemednet CEO Aaron Green sells $47,762 in company stock",
+      "headline": "Advanced energy director Anne DelSanto sells $82,285 in stock.",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-company-stock-93CH-4942347",
+      "url": "https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T00:16:01+00:00",
+      "timestamp": "2026-10-11T05:46:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Justice Department probes TV networks over Trump pool coverage",
+      "headline": "Verizon EVP Kyle Malady sells $50,325 in VZ common stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
+      "url": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T00:06:19+00:00",
+      "timestamp": "2026-10-11T05:46:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin struggles above $83,000 a year after $19 billion crypto crash",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T05:35:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Top Quality Stocks For October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=006edab87cae040b67bc7ae681e38a9a661934055d76d57815305a37f6806ca3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T05:10:51+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple\u2019s Chinese supplier Luxshare downplays impact of U.S. patent probe",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/apples-chinese-supplier-luxshare-downplays-impact-of-us-patent-probe-4942462",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T04:22:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T04:06:21+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": null,
+      "headline": "Musk says Terrafab chip factory could outperform rivals despite challenges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/musk-says-terrafab-chip-factory-could-outperform-rivals-despite-challenges-4942457",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T03:37:59+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Got $2,000? 2 Natural Gas Pipeline Stocks to Buy Before Winter.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6846833d7027e97af383ad2c7f871e089d57d1420dfce48e0d74ce21cd713f51",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T03:35:29+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T01:35:00+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Gap chief legal officer Julie Gruber sells $648,679 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/gap-chief-legal-officer-julie-gruber-sells-648679-in-stock-93CH-4942338",
+      "headline": "Lockheed Martin raises dividend by 4.3% to $3.60",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651916-lockheed-martin-raises-dividend-by-43-to-360?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-11T00:01:10+00:00",
+      "timestamp": "2026-10-11T01:09:38+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Onemednet CFO Robert Golden sells $55,290 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-company-stock-93CH-4942337",
-      "is_watchlist": false,
-      "timestamp": "2026-10-11T00:00:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Cerebras Is About as Big as Nvidia's Data Center Business Was Nearly a Decade Ago. The Similarities Mostly End There.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55c64bc40557148c86411d402563e9e09508b0520a7929b4ea1df00f7b8b9590",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T00:57:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
       "ticker": null,
-      "headline": "Verisign exec. chairman, pres, & ceo Bidzos sells $964k in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T23:46:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "United Therapeutics CEO Martine Rothblatt sells $5.1m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T23:46:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "headline": "Trump says Ukraine should replace Zelenskyy, stop hitting Russian refineries",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4651915-trump-says-ukraine-should-replace-zelenskyy-stop-hitting-russian-refineries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-10-11T00:30:09+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -122,53 +203,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=af016f37940f83b294a6c7ae03cf672d041921185e15f17599825149c8eb8793",
       "is_watchlist": true,
       "timestamp": "2026-10-10T23:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af016f37940f83b294a6c7ae03cf672d041921185e15f17599825149c8eb8793",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T23:30:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T22:41:03+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "FormFactor (FORM) Stock Could Be 33% Undervalued After AI Testing News",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=350c6ede1760a5e25bc13d3f0633f81134fe49fea44d813482a65f48ad0e5a6e",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T22:11:33+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5439d0a6d4d5845f5c234a90752cc1486a967ee44ab685ae7416e3c9d2466ef7",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T22:11:26+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -341,28 +375,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Flight disruptions growing after missile attack on Saudi airport",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651910-flight-disruptions-after-blast-saudi-airport?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T16:52:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Philips investors\u2019 move to probe company over 2021 recall denied by Dutch court",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651909-philips-wins-dutch-court-battle-2021-recall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T16:17:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "GE Vernova Stock Is Up More Than 50% Since the End of 2025. Here\u2019s What Its October 28 Report Needs to Show",
       "source": "Yahoo",
@@ -467,6 +479,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
       "is_watchlist": false,
       "timestamp": "2026-10-10T14:22:23+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T14:13:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -815,17 +838,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJVb2U2eWdVMjdYVEVwMWt0NzJaQTA0aDNCMVB3YVc3N1VIMUszdjl0OUFFNVhCRHNSUEk3MzVsY1pnX2pIU1hfME5sRm5QUThjSEdJd3VHeGtuQzMzTGc4X0VESC1McU1vUXo3QTJGV2MwWGpFMXpacXF3dndjcWNORXU3bWNXaUtwWjRLbHJDNjBBQ3BIQldySU5LWXNjU0hxQkd4aWp2ZjAtYzNyQ0J0MHpLZjFKM19VSjM4QlJkZ2c?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T21:06:30+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

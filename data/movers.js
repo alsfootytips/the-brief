@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-11T00:32:30.481901+00:00",
+  "generated_at": "2026-10-11T06:29:18.749397+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
+      "move_reason": "News: \"Top Quality Stocks For October 2026\""
     },
     {
       "ticker": "META",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
+      "move_reason": "News: \"Top Quality Stocks For October 2026\""
     },
     {
       "ticker": "OSCR",
