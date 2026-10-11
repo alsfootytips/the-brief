@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-11T06:29:18.749397+00:00",
+  "generated_at": "2026-10-11T13:23:40.039250+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Quality Stocks For October 2026\""
+      "move_reason": "News: \"Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings\""
     },
     {
       "ticker": "META",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"EMO: Strong Tailwinds, But Data Center Build-Out Imposes Political Risk\""
+      "move_reason": "News: \"A Near-Perfect REIT, MLP, And BDC For Retiring On Dividends\""
     }
   ],
   "watchlist": [
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report October 10, 2026\""
+      "move_reason": "News: \"Equity Risk Premium Has Vanished, And Stocks Aren't Cheap\""
     },
     {
       "ticker": "NBIS",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Quality Stocks For October 2026\""
+      "move_reason": "News: \"Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings\""
     },
     {
       "ticker": "OSCR",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"EMO: Strong Tailwinds, But Data Center Build-Out Imposes Political Risk\""
+      "move_reason": "News: \"A Near-Perfect REIT, MLP, And BDC For Retiring On Dividends\""
     }
   ],
   "indices": [
