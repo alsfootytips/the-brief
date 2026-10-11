@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-11T13:23:40.039250+00:00",
+  "generated_at": "2026-10-11T18:18:49.181859+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -93,7 +93,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
+      "move_reason": "News: \"Bloom Energy Stock Is Up 223% in 2026 as Wall Street Bets on a Rising Margin. Here\u2019s Where...\""
     },
     {
       "ticker": "XLY",
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"Cathie Wood sells $15.8 million of popular semiconductor stock\""
     },
     {
       "ticker": "TTD",
@@ -199,7 +199,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD): Exited Due to Structural Revenue Deceleration\""
+      "move_reason": "News: \"Vision Capital Fund Q3 2026 Portfolio Activity\""
     },
     {
       "ticker": "XLC",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings\""
+      "move_reason": "News: \"Is AGNC Stock a Buy, Sell, or Hold Near Its 52-Week Low?\""
     },
     {
       "ticker": "META",
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?\""
+      "move_reason": "News: \"Cathie Wood sells $15.8 million of popular semiconductor stock\""
     },
     {
       "ticker": "APA",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
+      "move_reason": "News: \"Bloom Energy Stock Is Up 223% in 2026 as Wall Street Bets on a Rising Margin. Here\u2019s Where...\""
     },
     {
       "ticker": "DG",
@@ -332,7 +332,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Equity Risk Premium Has Vanished, And Stocks Aren't Cheap\""
+      "move_reason": "News: \"The Debt Markets Are Starting To Cry Uncle\""
     },
     {
       "ticker": "NBIS",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Benzinga Bulls and Bears: Nvidia, Lumentum, Planet Labs\""
+      "move_reason": "News: \"Report: Nvidia Eyes Reflection AI Takeover as the AI Arms Race Heats Up\""
     },
     {
       "ticker": "NVDA",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings\""
+      "move_reason": "News: \"Is AGNC Stock a Buy, Sell, or Hold Near Its 52-Week Low?\""
     },
     {
       "ticker": "OSCR",
@@ -416,7 +416,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD): Exited Due to Structural Revenue Deceleration\""
+      "move_reason": "News: \"Vision Capital Fund Q3 2026 Portfolio Activity\""
     },
     {
       "ticker": "XLE",
