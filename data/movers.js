@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-10T21:44:29.536569+00:00",
+  "generated_at": "2026-10-11T00:32:30.481901+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -93,7 +93,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Potential New Market Threat: The IPO Window Closing\""
+      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
     },
     {
       "ticker": "XLY",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Alrea...\""
+      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
     },
     {
       "ticker": "META",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Potential New Market Threat: The IPO Window Closing\""
+      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Alrea...\""
+      "move_reason": "News: \"Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\""
     },
     {
       "ticker": "OSCR",

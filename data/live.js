@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-10T21:44:29.542457+00:00",
+  "generated_at": "2026-10-11T00:32:30.486684+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 3.01,
       "price": 705.94,
       "is_watchlist": true,
-      "timestamp": "2026-10-10T21:44:29.539925+00:00",
+      "timestamp": "2026-10-11T00:32:30.484565+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -29,35 +29,149 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "headline": "Global trust in science falls below pre-pandemic levels, survey finds",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4942259",
+      "url": "https://www.investing.com/news/economy-news/global-trust-in-science-falls-below-prepandemic-levels-survey-finds-4942351",
       "is_watchlist": false,
-      "timestamp": "2026-10-10T21:20:03+00:00",
+      "timestamp": "2026-10-11T00:23:49+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Prosperity Bancshares director Ned Holmes sells $72,363 in stock",
+      "headline": "Twilio CEO Khozema Shipchandler sells $4.2 million in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-ned-holmes-sells-72363-in-stock-93CH-4942257",
+      "url": "https://www.investing.com/news/insider-trading-news/twilio-ceo-khozema-shipchandler-sells-42-million-in-stock-93CH-4942348",
       "is_watchlist": false,
-      "timestamp": "2026-10-10T21:16:05+00:00",
+      "timestamp": "2026-10-11T00:16:28+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "H B Fuller director R Jeffrey Bailly buys $500,000 in common stock",
+      "headline": "Onemednet CEO Aaron Green sells $47,762 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/h-b-fuller-director-r-jeffrey-bailly-buys-500000-in-common-stock-93CH-4942250",
+      "url": "https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-company-stock-93CH-4942347",
       "is_watchlist": false,
-      "timestamp": "2026-10-10T21:01:09+00:00",
+      "timestamp": "2026-10-11T00:16:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Justice Department probes TV networks over Trump pool coverage",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T00:06:19+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gap chief legal officer Julie Gruber sells $648,679 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/gap-chief-legal-officer-julie-gruber-sells-648679-in-stock-93CH-4942338",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T00:01:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Onemednet CFO Robert Golden sells $55,290 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-sells-55290-in-company-stock-93CH-4942337",
+      "is_watchlist": false,
+      "timestamp": "2026-10-11T00:00:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Verisign exec. chairman, pres, & ceo Bidzos sells $964k in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/verisign-exec-chairman-pres--ceo-bidzos-sells-964k-in-stock-93CH-4942328",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T23:46:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "United Therapeutics CEO Martine Rothblatt sells $5.1m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-51m-in-shares-93CH-4942327",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T23:46:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af016f37940f83b294a6c7ae03cf672d041921185e15f17599825149c8eb8793",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T23:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af016f37940f83b294a6c7ae03cf672d041921185e15f17599825149c8eb8793",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T23:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T22:41:03+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "FormFactor (FORM) Stock Could Be 33% Undervalued After AI Testing News",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=350c6ede1760a5e25bc13d3f0633f81134fe49fea44d813482a65f48ad0e5a6e",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T22:11:33+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5439d0a6d4d5845f5c234a90752cc1486a967ee44ab685ae7416e3c9d2466ef7",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T22:11:26+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -68,50 +182,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-10T20:59:28+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SailPoint chief accounting officer Mitra Rezvan sells $23,360 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sailpoint-chief-accounting-officer-mitra-rezvan-sells-23360-in-stock-93CH-4942244",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T20:46:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Neogen CEO Mikheal Nassif buys $6,034 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T20:15:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Infosys sees no material impact from U.S. PERM suspension",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/infosys-sees-no-material-impact-from-us-perm-suspension-4942230",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T20:14:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Caledonia Mining earnings beat by $0.10, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T20:09:28+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -215,29 +285,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Already Buying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14c18f2b4928acb0441085673740898e8ae9a94e25c0b29030fe8127ec023cf4",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T19:41:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T19:36:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Key deals this week: Option Care Health, PTC, Energy Transfer and more",
       "source": "Seeking Alpha Market",
@@ -249,18 +296,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "\u2018Big Short\u2019 investors split over the AI risk that matters most",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbdfc812c36a45772b50e46513f505a99ebed7bceeff3b04dfa4afd7dcd88994",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T19:13:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Nvidia in talks to buy \u2018open\u2019 model startup Reflection AI: FT",
       "source": "Seeking Alpha Market",
@@ -269,18 +304,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-10T19:12:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=897947f1c75f6c3e5bf0adf4e81ea33faf69c695d6cd90c133dbf8a32585287c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T19:07:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -302,17 +325,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-10T17:55:18+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-10T17:22:56+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -363,6 +375,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "AMD Stock Is Set to Benefit From Both Physical and Agentic AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f119ecfb2fba158d8af146ab0ecc80b520583c6e5ecbe2499366b64141f200a",
+      "is_watchlist": true,
+      "timestamp": "2026-10-10T15:30:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
       "source": "CNBC",
@@ -383,6 +407,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Israeli strikes kill five people in Gaza, medics say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUhRYkpDR0ViRnlSNjNpcl94N3RPOGdvUHBlaVU0MXU3V2EtX1QwV2NFbGZTX3FtUnlYLTdmNmFIMlgwaHM0a1Z2MjB2UUV2cUNadGRHa1ZwTDJPakJ3d3VONVVwZS1WNnNmLVlkOW0yMXc5VDYxY1F3czY0QlFGSnpremd5UG1IcUlXMEhwNFBSLU9rQ3daalo5b1RvVW5ZajV6Wg?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-10T15:24:12+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -506,18 +541,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-10T11:33:43+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=692c79a463889d4c2a5d351152d508f81b1461df34e06aa088e3d1462ca3c9f7",
-      "is_watchlist": true,
-      "timestamp": "2026-10-10T11:25:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -841,17 +864,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil prices settle higher as more production shut ahead of hurricane - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-09T20:19:51+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Despite the controversy, data centers could be attractive to struggling rural towns",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/10/09/nx-s1-5966615/despite-the-controversy-data-centers-could-be-attractive-to-struggling-rural-towns",
@@ -868,18 +880,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=d8386490e7ace201b789baadb1156663b47ff992854b6e00f2a8c9b6630422e5",
       "is_watchlist": true,
       "timestamp": "2026-10-09T20:00:21+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-09T19:41:36+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
