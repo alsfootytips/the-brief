@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-11T22:17:31.311870+00:00",
+  "generated_at": "2026-10-12T01:34:03.615671+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -81,7 +81,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Your Stock Picks, My Verdict: What I'd Buy Right Now\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -93,7 +93,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Stock Is Up 223% in 2026 as Wall Street Bets on a Rising Margin. Here\u2019s Where...\""
+      "move_reason": "News: \"CoreWeave Just Landed a Massive New AI Opportunity. Wall Street Sees 59% Upside Ahead.\""
     },
     {
       "ticker": "XLY",
@@ -127,7 +127,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is APA (APA) Stock Undervalued Right Now?\""
+      "move_reason": ""
     },
     {
       "ticker": "DIA",
@@ -173,7 +173,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Growth Stocks with Explosive Upside and 1 We Avoid\""
+      "move_reason": "Tracking XLV sector (+1.58% today)"
     }
   ],
   "losers": [
@@ -187,7 +187,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook\""
     },
     {
       "ticker": "TTD",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
+      "move_reason": "News: \"Amazon in talks to acquire AI startup Decart for $7 bln- WSJ\""
     },
     {
       "ticker": "META",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Has To Happen Before ExxonMobil Stock Is A Buy?\""
+      "move_reason": ""
     },
     {
       "ticker": "XLE",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"A Near-Perfect REIT, MLP, And BDC For Retiring On Dividends\""
+      "move_reason": "News: \"3 Stocks To Play The Nuclear Energy Boom\""
     }
   ],
   "watchlist": [
@@ -272,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook\""
     },
     {
       "ticker": "APA",
@@ -284,7 +284,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is APA (APA) Stock Undervalued Right Now?\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -296,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bloom Energy Stock Is Up 223% in 2026 as Wall Street Bets on a Rising Margin. Here\u2019s Where...\""
+      "move_reason": "News: \"CoreWeave Just Landed a Massive New AI Opportunity. Wall Street Sees 59% Upside Ahead.\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"History Says This Will Happen to AMD Stock in 2027\""
+      "move_reason": "News: \"Amazon in talks to acquire AI startup Decart for $7 bln- WSJ\""
     },
     {
       "ticker": "OSCR",
@@ -368,7 +368,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Growth Stocks with Explosive Upside and 1 We Avoid\""
+      "move_reason": "Tracking XLV sector (+1.58% today)"
     },
     {
       "ticker": "OXY",
@@ -380,7 +380,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Has To Happen Before ExxonMobil Stock Is A Buy?\""
+      "move_reason": ""
     },
     {
       "ticker": "PWR",
@@ -404,7 +404,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Your Stock Picks, My Verdict: What I'd Buy Right Now\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"A Near-Perfect REIT, MLP, And BDC For Retiring On Dividends\""
+      "move_reason": "News: \"3 Stocks To Play The Nuclear Energy Boom\""
     }
   ],
   "indices": [
@@ -595,13 +595,13 @@ window.theBriefMovers = {
       "change_pct": 0.9,
       "score": 7.0,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
         "Forward P/E 9.9 (cheap on absolute basis)"
@@ -622,14 +622,14 @@ window.theBriefMovers = {
       "change_pct": -1.94,
       "score": 5.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "+7 analyst sell recs added recently",
         "Forward P/E 12.1 (cheap on absolute basis)",
         "Down -39.0% over 3 months \u2014 deep drawdown",
         "-77.7% from 52-week high"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "+7 analyst sell recs added recently",
         "Forward P/E 12.1 (cheap on absolute basis)",
         "Down -39.0% over 3 months \u2014 deep drawdown",
@@ -644,30 +644,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TTD</strong> has been beaten down hard and now trades at a low valuation \u2014 value setup.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land",
-      "price": 362.0,
-      "change_pct": 1.18,
-      "score": 4.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 4.9 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 4.9 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
     },
     {
       "ticker": "DG",
@@ -783,6 +759,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLI"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "price": 362.0,
+      "change_pct": 1.18,
+      "score": 3.0,
+      "signals": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 4.9 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "10 insider buys vs 0 sells (last 90 days)",
+        "Forward P/E 4.9 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLE"
     }
   ],
   "sectors_radar": [
