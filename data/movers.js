@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-13T02:47:45.987298+00:00",
+  "generated_at": "2026-10-13T06:50:43.810046+00:00",
   "gainers": [
     {
       "ticker": "META",
@@ -60,6 +60,18 @@ window.theBriefMovers = {
       "is_sector": true,
       "market_state": null,
       "move_reason": "News: \"Ray Dalio Says the AI Bubble Is Close to Bursting. A Strategist Says Zombie Companies Are ...\""
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MSFT",
+      "price": 541.5,
+      "change_pct": 1.2,
+      "volume_ratio": 0.96,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     },
     {
       "ticker": "TPL",
@@ -140,6 +152,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 146.24,
+      "change_pct": 0.38,
+      "volume_ratio": 0.74,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "move_reason": ""
+    },
+    {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 517.91,
@@ -148,30 +171,6 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 114.36,
-      "change_pct": 0.3,
-      "volume_ratio": 0.81,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 146.62,
-      "change_pct": 0.26,
-      "volume_ratio": 0.74,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
       "move_reason": ""
     }
   ],
@@ -234,7 +233,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy...\""
+      "move_reason": "News: \"NOK, BB Stocks In Focus: Jim Cramer Expresses Confidence In Nokia, BlackBerry, But Retail ...\""
     },
     {
       "ticker": "PWR",
@@ -327,7 +326,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Can Help Small-Caps Beat Megacap Tech Rivals. That Gives This ETF 20% Upside.\""
+      "move_reason": "News: \"Low Volume Marks Columbus Day Session\""
     },
     {
       "ticker": "PLTR",
@@ -424,7 +423,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Can Help Small-Caps Beat Megacap Tech Rivals. That Gives This ETF 20% Upside.\""
+      "move_reason": "News: \"Low Volume Marks Columbus Day Session\""
     },
     {
       "ticker": "NBIS",
@@ -448,7 +447,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy...\""
+      "move_reason": "News: \"NOK, BB Stocks In Focus: Jim Cramer Expresses Confidence In Nokia, BlackBerry, But Retail ...\""
     },
     {
       "ticker": "OSCR",
@@ -691,14 +690,14 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +2.44% \u2014 a 1.0\u03c3 move",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",

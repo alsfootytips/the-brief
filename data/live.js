@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-13T02:47:45.991835+00:00",
+  "generated_at": "2026-10-13T06:50:43.817274+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -6.23,
       "price": 207.3,
       "is_watchlist": true,
-      "timestamp": "2026-10-13T02:47:45.990188+00:00",
+      "timestamp": "2026-10-13T06:50:43.814769+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": -3.52,
       "price": 79.19,
       "is_watchlist": true,
-      "timestamp": "2026-10-13T02:47:45.990178+00:00",
+      "timestamp": "2026-10-13T06:50:43.814753+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,271 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-13T02:46:41+00:00",
+      "timestamp": "2026-10-13T06:46:15+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "German inflation rises to 3.3% in September",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/german-inflation-rises-to-33-in-september-93CH-4945543",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:32:38+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Stellantis Q3 shipments slip to 1.3M units amid North American slump",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4652312-stellantis-q3-shipments-slip-to-13m-units-amid-north-american-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:32:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Helios Towers to report Q3 2026 results on November 5",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/helios-towers-to-report-q3-2026-results-on-november-5-93CH-4945542",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:31:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China\u2019s exports seen growing at faster pace in September: Reuters Poll",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/chinas-exports-seen-growing-at-faster-pace-in-september-reuters-poll-4945522",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:30:37+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bytes Technology first-half profit rises 7% as AI demand drives growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/bytes-technology-firsthalf-profit-rises-7-as-ai-demand-drives-growth-4945532",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:29:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AIQ repays director loans and pays convertible note interest",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/aiq-repays-director-loans-and-pays-convertible-note-interest-93CH-4945528",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:28:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bellway profit misses expectations as homebuilder warns on FY27 margins",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/bellway-profit-misses-expectations-as-homebuilder-warns-on-fy27-margins-4945527",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:27:25+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BP warns of up to $4.5 bln impairments in Q3, sees net debt down sharply",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/bp-warns-of-up-to-45-bln-impairments-in-q3-sees-net-debt-down-sharply-4945525",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:25:09+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "German September inflation confirmed at 3.3%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/german-september-inflation-confirmed-at-33-4945506",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:24:44+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Germany's inflation climbs to 3.3% as energy costs jump",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4652313-germanys-inflation-climbs-to-33-as-energy-costs-jump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:24:34+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:20:55+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4652298-tencent-prepares-45b-dollar-and-yuan-bond-offering-for-ai-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:16:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceXAI bundles Grok, Cursor, and X features into unified subscription tiers",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4652294-spacexai-bundles-grok-cursor-and-x-features-into-unified-subscription-tiers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:08:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GM's Mary Barra reaffirms 2028 target for 'eyes-off, hands-off' tech",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4652308-gms-mary-barra-reaffirms-2028-target-for-eyes-off-hands-off-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:01:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Broadcom CEO sees viable OpenAI business but warns of AI funding constraints",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4652302-broadcom-ceo-sees-viable-openai-business-but-warns-of-ai-funding-constraints?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T06:00:41+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T05:55:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Publicis Groupe S.A. reports Q3 results; reaffirms FY2026 guidance",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4652311-publicis-groupe-sa-reports-q3-results-reaffirms-fy2026-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T05:54:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "NOK, BB Stocks In Focus: Jim Cramer Expresses Confidence In Nokia, BlackBerry, But Retail Disagrees",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=809d1c5dfc663bfedb3712fd28ea7be9915bc4c10487f3fcbc0141f756a5a662",
+      "is_watchlist": true,
+      "timestamp": "2026-10-13T05:47:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Better Artificial Intelligence Stock for 2026: Intel vs. NVIDIA",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5de717c375e3454afcf7d794ab0bdad0f668d1d128e26fc7cfed9068fdaccce",
+      "is_watchlist": true,
+      "timestamp": "2026-10-13T05:04:33+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T04:54:07+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Syndax Pharmaceuticals (SNDX) Is Down 7.2% After Axatilimab IPF Trial Misses Endpoint Has The Bull Case Changed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=deb352a4e57605ef119420a8a65fd4463c03dfed9562777a745f8150ca2107c1",
+      "is_watchlist": true,
+      "timestamp": "2026-10-13T04:34:37+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-13T03:53:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T03:49:23+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -63,28 +327,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is Samsung Electronics stock plunging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-4945331",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:30:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why is SK Hynix stock plunging today?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-plunging-today-93CH-4945330",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:30:50+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
@@ -96,90 +338,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Citigroup up 13% ahead of big bank earnings, pivotal CPI data",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/citigroup-up-13-ahead-of-big-bank-earnings-pivotal-cpi-data-4945321",
+      "headline": "Indian shares flat at open as inflation strengthens rate-hike concerns - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUVTdlJpcHF3dEZTQlg5WWlESlo0dXpTRWJQR1lwWHl2aHR2QVlEUzI4Vkx3OTZVNFdvdnhNMm5BSC04bnNJdzZyLU9BVTVhbFFsUHhzNXlWc0VlLW5KU2k0NWFHZUlicF9zQTVMYjJTTGZoNDRMREJBQk5YU3k0OFdCX2pROWxtYWhlM0ZrREQxVTQweWJMaFdoVW1XX1FrOXpGQnBjZy01eVktY3VQSktkb1YxVEJIbmMw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-13T02:26:39+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IMF cuts Latin America, Caribbean growth forecasts on energy shock, little AI boost",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/imf-cuts-latin-america-caribbean-growth-forecasts-on-energy-shock-little-ai-boost-4945315",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:24:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IMF says AI investment propping up global growth, but war and debt threaten outlook",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-threaten-outlook-4945312",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:18:27+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:09:34+00:00",
+      "timestamp": "2026-10-13T02:29:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "IMF expects gradual BOJ rate hike towards neutral setting",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/imf-expects-gradual-boj-rate-hike-towards-neutral-setting-4945314",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:06:54+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IMF sees higher energy prices and interest rates hitting UK growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/imf-sees-higher-energy-prices-and-interest-rates-hitting-uk-growth-4945313",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:06:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hang Seng rejected at 24,093.5 in bear flag setup: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T02:03:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12d9c39609013491a55c660a7dea13850d841b6989c605024e3d3230f84ce9ae",
+      "ticker": "IWM",
+      "headline": "Low Volume Marks Columbus Day Session",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3d7d45bf89708ed4abdc768eec985506ef6d2b2fb6865228cde22dde9ca25b04",
       "is_watchlist": true,
-      "timestamp": "2026-10-13T02:03:02+00:00",
+      "timestamp": "2026-10-13T02:20:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -187,12 +361,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UK growth upgraded but energy prices and rates to bite in 2027",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "headline": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-13T02:00:35+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-10-13T02:05:00+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -219,6 +393,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Our October Perspective",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=069a288691d02521c706b99ba9128e24ef9e55027a4e7dab3da0614acb0f6001",
+      "is_watchlist": true,
+      "timestamp": "2026-10-13T01:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "AMD",
       "headline": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
       "source": "Yahoo",
@@ -232,25 +418,24 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "headline": "Qatar Airways suspends Riyadh, Dammam flights as airport attacks disrupt air travel - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3hKM0tyUDRYZ0ptS1I1ZGpDMzdHLU9zbER2LTNSb1QzcHk2SkR3VzY4VHBpQXIxR2hRcjk3d19pbTVqLWkzQTRtVkQ4R0lWV25rSFpzVGQwdkhMTGxaSDdDMVR5RUhEQ3FXS1RfY01heEl1ek5hSHFkNlBkOU83cnN1VkFVQjhUMlJuTUpqYnVxQV9zVkpBMGc3SkhadUhqMXJOM3lqVTdSRFBvbzdITWlSSVB3RW9HWkZnVEM5Skx4aWhNVjlfZWZOS3ROdw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-13T01:26:41+00:00",
+      "timestamp": "2026-10-13T00:26:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "35.16 Billion Reasons Micron Stock Is Headed to $3,000",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de06fc6dea163aa1c4fb3fdc438d844486d53a24c4367013d12c09fb253bba00",
-      "is_watchlist": true,
-      "timestamp": "2026-10-13T00:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "Oil falls as Russia diesel supply prospects counter Gulf supply risks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T00:25:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -265,46 +450,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Shopify Stock Popped by Nearly 5% Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff6168f251563e3c809290c51c86e260cb9df1869f0ea8b88d470d2e9f53c9fb",
-      "is_watchlist": true,
-      "timestamp": "2026-10-13T00:16:51+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Six Flags shares plunge as one person dies, several injured in Georgia roller coaster incident",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4652292-six-flags-shares-plunge-as-one-person-dies-several-injured-in-georgia-roller-coaster-incident?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T00:11:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trumps' Russia diesel deal will do little for U.S. prices, analysts say",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4652291-trumps-russia-diesel-deal-will-do-little-for-u-s-prices-analysts-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T23:56:46+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Saudi warning system stayed silent before deadly airport attacks - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGUtWGlRWGVfTVVCaFlXbDQ3UTA4bmlUN2QxdV9yT19EOUZGTkhKNW5xR2hQcDJmaE1pX1F1Tmg4TEZ6VTMxcWl5QzdHdVdZa2U1ZDF5Vm5ONGhhNDFPd00xLXZKNXVSaXJGYTB2QVV6dkJ6WmtBS29uMTNyNko5dlptaEdjWngxR2gxa3FfNTc4bzdmaElUOHVzZTVfN0oxeXhwdExKLWxycEpBRGNna0QzM2N5NGRfaVE?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-12T23:54:54+00:00",
+      "timestamp": "2026-10-12T23:39:00+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -356,39 +507,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What's next for Cost after Q4 results?",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4651949-whats-next-for-cost-after-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T23:13:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Options traders pricing in 5% movement in UnitedHealth's shares post earnings",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4652201-options-traders-pricing-in-5-movement-in-unitedhealths-shares-post-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T23:10:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JPMorgan options market prices in a 2.8% post-earnings move",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4652194-jpmorgan-options-market-prices-in-a-28-post-earnings-move?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T23:08:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Heating oil customers face tough winter despite shake-up promise",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
@@ -405,39 +523,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-10-12T23:01:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US hopes diesel deal can 'soften' Moscow on peace talks, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T22:58:15+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FERC rejects most of PJM's temporary curtailment plan to manage data centers",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4652290-ferc-rejects-most-of-pjms-temporary-curtailment-plan-to-manage-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T22:54:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. corn futures recoup slice of Friday's steep drop after USDA forecast larger crop",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4652289-us-corn-futures-recoup-slice-of-fridays-steep-drop-after-usda-forecast-larger-crop?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T22:30:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -510,6 +595,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says he is considering firing US ambassador to Greece - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWU5OdGppOWp6blA3UzZyT2tVenY4eExFelZFYVVHbkhQT0NGZkRnaG5GOFVpYzEwS3ZVWXViMW16VXZqRHNGM1hSeWpId2RMek5kR0ZiLTd6NUhFSDVvbE8tNk4xbHh0NXZkWGhteDBBa0xhN3JIbHhKZDJvN21BUFM3OUdubWp5eGtKWjlWandOT19oR1dzbFRrdXpFd0JsaGZKVGtvWFM?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-12T21:24:08+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
@@ -518,17 +618,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-12T21:19:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T21:17:58+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -580,11 +669,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Saudi capital's airport to remain shut this week as airlines cancel services - Reuters",
+      "headline": "US hopes diesel deal can 'soften' Moscow on peace talks, sources say - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGszbTdESk0xU0twcE1ZOHg4VFpzN2lzeWQ0ZDJseVpKczh6cE44eTNOb3ZDS3dnVnZJN3RCNE1wVDI0djVodU41LTN3WkVIemI0NWlucWpKY0tvU3JMeEM2YVN1OTBsdW5mZDVXeWhFcXdyQ1pGRjBVNTR6SmpBSXhzSXRObWtSTjlYcEJzOUxsX2Ezb28yZ1FrU083bzNpNmd2VlpjUkxnaE5PdEliNWpxeU5QNkp1V1JmcXlFdUJ1S01zcHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-12T19:36:35+00:00",
+      "timestamp": "2026-10-12T19:21:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -599,17 +688,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T18:47:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -669,17 +747,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Saudi-led coalition says it destroyed Houthi ballistic missile fired towards Riyadh - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdFZXdXoyS25SWEFjcG8tR1NrRmhxcUEtMjZHV3BESHFtb0FPSE1ldjVGdERDRjZScHhJbzIteGhOVUtDcUdZMDdKVUI0c0lpSF9nUmlKVC1WMDdqWGlaMWZfU1JJeHhsOVRaWkpmMFJLNXBPZFBnLXJ6MGxmOWRRcWp4QksyMzdSSjRXdl9lMGZROUFFdUZNRUYydFhZbWU2MkIwNFNoX05qY2o1WWtBTkpvbExXRHozaFVmR1FOMGpSWllyb1p3RW1B?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T18:25:53+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Sector Update: Energy Stocks Gain Monday Afternoon",
       "source": "Yahoo",
@@ -701,17 +768,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Likely unexploded ordnance kills teenager in northern Israel - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWQ1cjJsQXBjdk5ST0Y5QmROZllXaUR4RDFxb2Q1TTZEMll6ZmsxOXp2alM4dTd3ZndjVmtjSUxaeV9NOU9oX090N3Q5RHd4R01IS2VoUFVmTEJlT240bUxmZmt2eVcta1cxenFpQzhJTUo2Um9hM1lHQ281b2xMLXRhYU9DTENhZDJtOXJnZDkxNWVIVmRJanlkQXRibHU5SUs5UFBFbUhsMHYyOF81VQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T17:17:43+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -738,47 +794,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Small-Cap Stocks Are in Grave Danger Thanks to an Impending Debt Cliff. Use These 2 ETFs for Protection and Profit.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0088d823293feefd549a785a33da6f736b93dafc005f10d5bc28169e35a13d59",
-      "is_watchlist": true,
-      "timestamp": "2026-10-12T16:30:29+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Bloom Energy: Even Doubling Output Leaves The Stock Overvalued",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=22ccdc03dc2e376fca624110095c63f2e165362780e3e9a3c808277e9d05cf82",
       "is_watchlist": true,
       "timestamp": "2026-10-12T15:41:53+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Powerful waves from Tropical Storm Rachel slam California coast - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEZKdW40OFFLMlJic0E5R2U3R0dfV3F3d1dUUkNoUHRmT0FYQUxnTDJSeVdxSk1oVE1XVGlKOFBPRy1VV3o3ME5rMV8yV0hXUUZxeG9ZVEdxZkxWOFAzRGVXT2NrZE1HSVdQUkcwUElBdnBMUThzTkM1UzZvWW41d2VWUGlBMDAxczhuWkVmd1o0ZzkxWVFkWTBMeXBtZV9vUzctXzRn?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T15:32:00+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "What Midterm Election History Says About Small Cap Performance",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=52d516bc3302017a8bdb8723e90124fdd4cb078521408f2a0d91f1b80d5554b5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-12T15:30:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -794,17 +815,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump defends Russia diesel deal as lawmakers from both parties complain - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-12T15:27:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
