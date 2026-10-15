@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-15T22:18:46.970121+00:00",
+  "generated_at": "2026-10-15T23:59:56.479697+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -44,10 +44,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "TTD",
       "name": "The Trade Desk",
-      "change_pct": 7.55,
-      "price": 13.1,
+      "change_pct": 7.22,
+      "price": 13.06,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T22:18:46.967608+00:00",
+      "timestamp": "2026-10-15T23:59:56.331101+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,10 +56,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.96,
+      "change_pct": 5.98,
       "price": 15.07,
       "is_watchlist": false,
-      "timestamp": "2026-10-15T22:18:46.967605+00:00",
+      "timestamp": "2026-10-15T23:59:56.331099+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": 3.04,
       "price": 133.89,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T22:18:46.967592+00:00",
+      "timestamp": "2026-10-15T23:59:56.331090+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -80,13 +80,202 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 5.9,
-      "price": 69.66,
+      "change_pct": 3.67,
+      "price": 68.2,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T22:18:46.967577+00:00",
+      "timestamp": "2026-10-15T23:59:56.331088+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "change_pct": -3.1,
+      "price": 553.11,
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T23:59:56.331081+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Fed\u2019s Goolsbee on inflation: discouraging, but still some optimism",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:54:23+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Faraday Copper completes acquisition of BHP\u2019s San Manuel project",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/faraday-copper-completes-acquisition-of-bhps-san-manuel-project-93CH-4952849",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:49:25+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Market selloff, rising rates test AI data centre deal boom",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:48:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsara CEO Sanjit Biswas sells $11m in shares in October",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-11m-in-shares-in-october-93CH-4952846",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:46:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Samsara EVP, CTO John Bicket sells $11 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/samsara-evp-cto-john-bicket-sells-11-million-in-stock-93CH-4952847",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:46:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BJ\u2019s Wholesale Club president & CEO Robert Eddy sells $19.7 million in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/bjs-wholesale-club-president--ceo-robert-eddy-sells-197-million-in-stock-93CH-4952845",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:46:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Td Synnex chair Polk sells $629k in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/td-synnex-chair-polk-sells-629k-in-common-stock-93CH-4952844",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:46:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Interactive Brokers outlines $0.60 annual dividend plan while expanding autonomous AI trading rollout",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653673-interactive-brokers-outlines-0_60-annual-dividend-plan-while-expanding-autonomous-ai-trading?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:37:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LNG Energy Group completes second tranche of private placement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/lng-energy-group-completes-second-tranche-of-private-placement-93CH-4952843",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:36:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:29:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Living with a stink? Technology might help",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:18:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "I find it quite demoralising in store - why I do all my shopping online",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:16:12+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:08:05+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anglo American CEO says tech firms showing 'deep interest' in mining stakes - FT",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653670-anglo-american-ceo-says-tech-firms-showing-deep-interest-in-mining-stakes---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T22:32:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T22:31:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MSCI's downgrade proposal puts Indonesia\u2019s EM status at risk",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653667-mscis-downgrade-proposal-puts-indonesias-em-status-at-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T22:17:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -102,56 +291,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cohere moves to buy AI cybersecurity\u00a0startup Aisle",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/cohere-moves-to-buy-ai-cybersecuritystartup-aisle-4950863",
+      "headline": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-15T22:13:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic to add US voting information to Claude before midterms (Oct 14)",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:13:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-UN chief frontrunner Rebeca Grynspan says UN has \u2019become too risk-averse\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:12:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:10:00+00:00",
+      "timestamp": "2026-10-15T22:13:21+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Alcoa Q3 2026 slides: strong operations offset metal price pressure",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/alcoa-q3-2026-slides-strong-operations-offset-metal-price-pressure-93CH-4952756",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:09:09+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -167,25 +312,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "KFC picks Coca-Cola as US soda supplier, ditches longtime partner PepsiCo",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:07:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/elon-musk-agrees-to-settle-lawsuits-over-2024-election-lottery-4952753",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:06:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c4466a106586c69fcf398599a49c953e5f2d539166ea1ab32b7c897076e25d3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T22:03:51+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -212,34 +347,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "MSCI proposes downgrading Indonesia to standalone market status",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/msci-proposes-downgrading-indonesia-to-standalone-market-status-93CH-4952751",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:00:39+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Adams Diversified Equity Fund reports Q3 results",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4653668-adams-diversified-equity-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-15T21:59:22+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Alcoa tops Q3 2026 EPS forecast as revenue misses",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alcoa-tops-q3-2026-eps-forecast-as-revenue-misses-93CH-4952743",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T21:56:54+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -255,36 +368,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Commercial Metals targets an additional $100M TAG run rate by end of fiscal 2027, while accelerating buybacks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653666-commercial-metals-targets-an-additional-100m-tag-run-rate-by-end-of-fiscal-2027-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T21:55:34+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tech titans Nvidia and Apple donate $25M to White House ballroom project: report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653663-tech-titans-nvidia-and-apple-donate-25m-to-white-house-ballroom-project-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T21:51:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gold and silver bounce as U.S. yields and the dollar drop",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653661-gold-and-silver-bounce-as-us-yields-and-dollar-drop?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T21:50:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c12cac0c14a575c6f5b2580b92addb7dbc7e05ab2527bf42d11aa07267cc09c0",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T21:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -406,6 +498,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave three co-founders sold $3.3 billion in shares since IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f082ee6bf561f8340be141a604fc67af3b1faf64fa14f188a8ecf7e5c0fb3a0",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T21:17:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
       "source": "CNBC Top",
@@ -424,17 +528,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-15T21:03:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T20:43:18+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -485,29 +578,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T20:29:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Nasdaq Climbs Out of 1.4% Hole in Biggest Comeback Since April",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4212edbe95ea20076ca5d001d6214215c5ebb5b85f9d3913850364b255211539",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T20:02:47+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
@@ -529,18 +599,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "As chip stocks fall, investors are turning elsewhere in the market: Chart of the Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d354ceae5bd17c60de9d2be01a6d7f7ab88d2948dad79a1837d27e89a76c5d33",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T19:46:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
       "source": "CNBC",
@@ -552,7 +610,7 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
+      "ticker": "NBIS",
       "headline": "Why This Market Washout Will Spark a Year-End Rally",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ca49237ab740f594cd4681a2c74d5f68710b833956e0da45dceb162ae64d9eb0",
@@ -564,12 +622,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave\u2019s Freakout Hurt Constellation and NRG Stocks. It Shouldn\u2019t Have.",
+      "ticker": "AMD",
+      "headline": "Why This Market Washout Will Spark a Year-End Rally",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=beb8d2850532538241f4ebeb3ec985ce318fe855ef5d2048647f108216b149c5",
+      "url": "https://finnhub.io/api/news?id=ca49237ab740f594cd4681a2c74d5f68710b833956e0da45dceb162ae64d9eb0",
       "is_watchlist": true,
-      "timestamp": "2026-10-15T19:41:00+00:00",
+      "timestamp": "2026-10-15T19:42:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -587,14 +645,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "This one governor\u2019s race could derail the AI trade that\u2019s powered the stock market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T19:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NBIS",
+      "headline": "\u2018Huge\u2019 AI correction ahead: Where to move your money now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8be625d0886b44a106cca72ed2074314509b8e1d2a59e9c7cc3054d9128800e",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T18:57:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -679,18 +738,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "CoreWeave Reverses Up As Wall Street Analysts Rush To Defend AI Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1276453aa163bea50ad36d09f25f6e47330ec6ea2dc4ded5ea9c999332c1499",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T17:41:52+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Energy: We're Seeing Something Very Special Right Now",
       "source": "SeekingAlpha",
@@ -733,18 +780,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-15T17:06:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "CoreWeave: It's Worse Than You Think; Take Your Money And Run (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=735328b9b03db49cc7d28a2ac08e5d819e2eaa514e359796b1fc66da07ec3139",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T17:02:31+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1072,28 +1107,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-10-14T23:02:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:01:28+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How much is the minimum wage?",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:01:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
