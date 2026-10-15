@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-15T19:07:58+00:00",
+  "generated_at": "2026-10-15T22:18:46+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -6469,7 +6469,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FFIN",
         "date": "2026-10-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.5322,
         "revenue_estimate": 182275224,
         "is_watchlist": false
