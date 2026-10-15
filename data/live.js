@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-15T00:12:57.750244+00:00",
+  "generated_at": "2026-10-15T00:32:08.830824+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": -3.56,
       "price": 356.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747865+00:00",
+      "timestamp": "2026-10-15T00:32:08.828685+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": -7.74,
       "price": 14.06,
       "is_watchlist": false,
-      "timestamp": "2026-10-15T00:12:57.747863+00:00",
+      "timestamp": "2026-10-15T00:32:08.828683+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": -5.49,
       "price": 651.05,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747860+00:00",
+      "timestamp": "2026-10-15T00:32:08.828680+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -83,7 +83,7 @@ window.theBriefLive = {
       "change_pct": -5.61,
       "price": 196.97,
       "is_watchlist": false,
-      "timestamp": "2026-10-15T00:12:57.747857+00:00",
+      "timestamp": "2026-10-15T00:32:08.828678+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -95,7 +95,7 @@ window.theBriefLive = {
       "change_pct": -4.65,
       "price": 217.89,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747853+00:00",
+      "timestamp": "2026-10-15T00:32:08.828675+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,7 +107,7 @@ window.theBriefLive = {
       "change_pct": -13.59,
       "price": 178.75,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747850+00:00",
+      "timestamp": "2026-10-15T00:32:08.828672+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,7 +119,7 @@ window.theBriefLive = {
       "change_pct": -8.15,
       "price": 922.24,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747840+00:00",
+      "timestamp": "2026-10-15T00:32:08.828664+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -131,7 +131,7 @@ window.theBriefLive = {
       "change_pct": 3.95,
       "price": 129.94,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747837+00:00",
+      "timestamp": "2026-10-15T00:32:08.828661+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -143,7 +143,7 @@ window.theBriefLive = {
       "change_pct": -20.47,
       "price": 61.88,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747834+00:00",
+      "timestamp": "2026-10-15T00:32:08.828658+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -155,10 +155,88 @@ window.theBriefLive = {
       "change_pct": -8.34,
       "price": 555.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T00:12:57.747822+00:00",
+      "timestamp": "2026-10-15T00:32:08.828650+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil edges lower after hot U.S. CPI; IEA meeting in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-edges-lower-after-hot-us-cpi-iea-meeting-in-focus-4950316",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:25:52+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Power prices top $1,000 on PJM as DoE issues emergency order to prevent blackouts",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653221-power-prices-top-1000-on-pjm-as-doe-issues-emergency-order-to-prevent-blackouts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:25:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "YouTube explores audiobook feature for 2027 launch- WSJ",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/youtube-explores-audiobook-feature-for-2027-launch-wsj-93CH-4950313",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:18:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exclusive-Fed\u2019s Daly says rate hikes likely needed, but not urgently",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/exclusivefeds-daly-says-rate-hikes-likely-needed-but-not-urgently-4950157",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:18:17+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Sono-Tek outlines facility expansion to lift manufacturing capacity to $33M-$36M, with plan toward $44M-$45M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653222-sono-tek-outlines-facility-expansion-to-lift-manufacturing-capacity-to-33m-36m-with-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:16:06+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "C3.ai CFO Hitesh Lath sells $247,399 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/c3ai-cfo-hitesh-lath-sells-247399-in-company-stock-93CH-4950312",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:16:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Home BancShares earnings beat by $0.01, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/home-bancshares-earnings-beat-by-001-revenue-fell-short-of-estimates-4950303",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:09:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -169,6 +247,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-15T00:08:16+00:00",
       "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood\u2019s ARK sees major activity in CoreWeave and Personal Genome stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sees-major-activity-in-coreweave-and-personal-genome-stock-93CH-4950302",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T00:07:06+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -206,6 +295,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c916de8f26e003f3576188a0c28503750d3cfca0fe7a9deb77caeb67b8ef9bdf",
+      "is_watchlist": true,
+      "timestamp": "2026-10-14T23:59:18+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Surging gasoline prices accounted for more than half of last month's jump in U.S. inflation",
       "source": "Seeking Alpha Market",
@@ -229,47 +330,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "BX Buzz ML-1 GP LLC sells $9.78m of Bumble (BMBL) stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/bx-buzz-ml1-gp-llc-sells-978m-of-bumble-bmbl-stock-93CH-4950278",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:46:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c916de8f26e003f3576188a0c28503750d3cfca0fe7a9deb77caeb67b8ef9bdf",
+      "is_watchlist": true,
+      "timestamp": "2026-10-14T23:48:45+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Palvella Therapeutics director George M. Jenkins disposes of $3.58m PVLA stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/palvella-therapeutics-director-george-m-jenkins-disposes-of-358m-pvla-stock-93CH-4950277",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:46:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Blackstone Holdings III GP management sells $9.79m of Bumble stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/blackstone-holdings-iii-gp-management-sells-979m-of-bumble-stock-93CH-4950276",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:46:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/sp-500-dow-futures-rise-ahead-of-big-bank-results-cpi-data-4948567",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:36:21+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffe50336a46df416810e32f49003e626d354c25f95e34a3177e6c2c9d4cb5310",
+      "is_watchlist": true,
+      "timestamp": "2026-10-14T23:43:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -284,25 +365,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "U.S. proposes unfreezing Russian assets to restart Ukraine peace talks- FT",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/us-proposes-unfreezing-russian-assets-to-restart-ukraine-peace-talks-ft-4950270",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:35:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "New ERA Energy & Digital director Kent McCarthy buys $1.19m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/new-era-energy--digital-director-kent-mccarthy-buys-119m-in-shares-93CH-4950269",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T23:35:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Prediction: Alphabet Will Soar After Oct. 28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3eb19d4eeb34a352d8267b2bc3fa668969b6c1e79736d463a3187c304f67ddd",
+      "is_watchlist": true,
+      "timestamp": "2026-10-14T23:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -428,28 +499,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Fiera Capital sees Q3 AUM fall 7.4% Q/Q, 9.3% Y/Y",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653216-fiera-capital-sees-q3-aum-fall-7_4-percent-q-q-9_3-percent-y-y?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T22:00:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Thursday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4652645-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-14T22:00:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Russia's Lavrov, China's Wang discuss cooperation, Ukraine, Iran at Asia security meeting - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWd0VGluQkdsUm1GUWdkQlFINnM3NzFGUEpBSGZYMEtuOEVUdWpPOWY2d3Fxc0Q3OFI4TE95YUVWWFFXaklaTHQtZFRlMlgxWWtTc2hTaHJRejhueS1SOXMxVjRUZXZyYUNWbTNldlNMQTFtUzdzV2g3c2lhNG9ucjd6MWVVdjQ4OFctWnZGcXRmdzZsNVhKU2xNYTVJTzk4NkM3R2ctRm9aZFE3ZFNCa1VsYl9qRXdGOHFpSGRB?oc=5",
@@ -465,30 +514,6 @@ window.theBriefLive = {
       "headline": "Jim Cramer Calls CoreWeave the \"Real Deal,\" but the Stock Crashed 15% the Very Next Day. Should You Buy the Dip?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ef1197e0ef50ada873ed93a73c68f4ade5d24b3658ac71a6470ab45561847be5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-14T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Jim Cramer Calls CoreWeave the \"Real Deal,\" but the Stock Crashed 15% the Very Next Day. Should You Buy the Dip?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef1197e0ef50ada873ed93a73c68f4ade5d24b3658ac71a6470ab45561847be5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-14T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Exxon Wants to Repeat Its Guyana Success in Trinidad. Should You Buy the Stock Now or Wait for the First Well?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=492b0883335b9dace7d7b346a2517d928f9c15982672df0aa6cb303b77250ec1",
       "is_watchlist": true,
       "timestamp": "2026-10-14T21:50:00+00:00",
       "relevance_score": 2.0,
@@ -544,36 +569,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Update: CoreWeave Equity Could Go to Zero if AI Cycle Sputters, D.A. Davidson's Luria Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=540f696686bd36a7f34cda080e124eebb1b7f15bc279e179ac163f40ffdca2a6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-14T21:25:43+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Should You Buy Occidental Petroleum Stock For Its Cash?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6d9fdad133f9c063298b3c16bd7f84cdc7d257f39f1c64cbc4ccd877f0d8a8c7",
       "is_watchlist": true,
       "timestamp": "2026-10-14T21:25:43+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Got $5,000? 2 Stocks Supplying the AI Data Center Power Crunch.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09628bf7484e1ab9af008a98d485e6628d198062ded913fb18efe19620d37d6c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-14T21:25:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -625,6 +626,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "PWR",
+      "headline": "Why Quanta Services (PWR) Dipped More Than Broader Market Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9141c9dc0408e54abff676006176de3e0ea7df951fba44ba10278c894de7a26",
+      "is_watchlist": true,
+      "timestamp": "2026-10-14T21:15:04+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
       "source": "Reuters",
@@ -656,6 +669,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-14T21:09:20+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "GE Vernova (GEV) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0dcb85a36fc72f854bf0758d92295c4122087cc96bcd246095dbccbd06310d4",
+      "is_watchlist": true,
+      "timestamp": "2026-10-14T21:00:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -953,18 +978,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "BWXT Raises 2026 Guidance as Commercial Nuclear Growth Accelerates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20c79b2ceb7f8e52bd58409441cdb7144f673c1d42075eea019d1d354815513f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-14T13:27:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "APA Corporation (APA) Hit a 52 Week High, Can the Run Continue?",
       "source": "Yahoo",
@@ -1186,18 +1199,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-13T16:27:04+00:00",
       "relevance_score": 3.5,
       "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Quanta's 65% YTD Surge: Can Infrastructure Demand Fuel More Gains?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=280b5ba9cb287b6638a5f2b07fb10b1ddf5e2a5ec96b8aed86e117b2b8a8cc1f",
-      "is_watchlist": true,
-      "timestamp": "2026-10-13T14:32:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
       "relevance_label": "Watchlist"
     },
     {

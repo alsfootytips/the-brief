@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-15T00:12:57.741920+00:00",
+  "generated_at": "2026-10-15T00:32:08.823765+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -117,7 +117,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Calls CoreWeave the \"Real Deal,\" but the Stock Crashed 15% the Very Next Day. S...\""
+      "move_reason": "News: \"Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led ...\""
     },
     {
       "ticker": "NBIS",
@@ -189,7 +189,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services' Quarterly Earnings Preview: What You Need to Know\""
+      "move_reason": "News: \"Why Quanta Services (PWR) Dipped More Than Broader Market Today\""
     },
     {
       "ticker": "NVDA",
@@ -201,7 +201,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Calls CoreWeave the \"Real Deal,\" but the Stock Crashed 15% the Very Next Day. S...\""
+      "move_reason": "News: \"Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led ...\""
     },
     {
       "ticker": "META",
@@ -242,8 +242,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 270.98,
-      "change_pct": -2.07,
+      "price": 271.04,
+      "change_pct": -2.05,
       "volume_ratio": 1.12,
       "is_watchlist": true,
       "is_index": true,
@@ -322,7 +322,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Calls CoreWeave the \"Real Deal,\" but the Stock Crashed 15% the Very Next Day. S...\""
+      "move_reason": "News: \"Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led ...\""
     },
     {
       "ticker": "DG",
@@ -351,8 +351,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 270.98,
-      "change_pct": -2.07,
+      "price": 271.04,
+      "change_pct": -2.05,
       "volume_ratio": 1.12,
       "is_watchlist": true,
       "is_index": true,
@@ -382,7 +382,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer Calls CoreWeave the \"Real Deal,\" but the Stock Crashed 15% the Very Next Day. S...\""
+      "move_reason": "News: \"Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led ...\""
     },
     {
       "ticker": "OSCR",
@@ -418,7 +418,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services' Quarterly Earnings Preview: What You Need to Know\""
+      "move_reason": "News: \"Why Quanta Services (PWR) Dipped More Than Broader Market Today\""
     },
     {
       "ticker": "TPL",
@@ -471,8 +471,8 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 270.98,
-      "change_pct": -2.07,
+      "price": 271.04,
+      "change_pct": -2.05,
       "volume_ratio": 1.12,
       "is_watchlist": true,
       "is_index": true,
@@ -826,22 +826,22 @@ window.theBriefMovers = {
     {
       "ticker": "IWM",
       "name": "iShares Russell 2000 ETF",
-      "price": 270.98,
-      "change_pct": -2.07,
+      "price": 271.04,
+      "change_pct": -2.05,
       "score": 5.5,
       "signals": [
-        "Moved -2.07% \u2014 a 2.8\u03c3 move vs typical 0.7% daily vol",
+        "Moved -2.05% \u2014 a 2.8\u03c3 move vs typical 0.7% daily vol",
         "3 news items in the last 3 days"
       ],
       "reasons": [
-        "Moved -2.07% \u2014 a 2.8\u03c3 move vs typical 0.7% daily vol",
+        "Moved -2.05% \u2014 a 2.8\u03c3 move vs typical 0.7% daily vol",
         "3 news items in the last 3 days"
       ],
       "tags": [
         "big-move",
         "news-flow"
       ],
-      "narrative": "<strong>IWM</strong> made a statistically significant decline (-2.07%) but with no obvious news catalyst \u2014 sector pressure or technical move.",
+      "narrative": "<strong>IWM</strong> made a statistically significant decline (-2.05%) but with no obvious news catalyst \u2014 sector pressure or technical move.",
       "sector_etf": null
     },
     {
