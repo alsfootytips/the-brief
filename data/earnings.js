@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-15T10:01:56+00:00",
+  "generated_at": "2026-10-15T15:01:42+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -6421,7 +6421,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CTW",
         "date": "2026-10-15",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
