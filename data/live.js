@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-15T23:59:56.479697+00:00",
+  "generated_at": "2026-10-16T00:35:14.637497+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 7.22,
       "price": 13.06,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T23:59:56.331101+00:00",
+      "timestamp": "2026-10-16T00:35:14.635320+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,10 +56,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "SOFI",
       "name": "SOFI",
-      "change_pct": 5.98,
-      "price": 15.07,
+      "change_pct": 5.91,
+      "price": 15.06,
       "is_watchlist": false,
-      "timestamp": "2026-10-15T23:59:56.331099+00:00",
+      "timestamp": "2026-10-16T00:35:14.635317+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": 3.04,
       "price": 133.89,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T23:59:56.331090+00:00",
+      "timestamp": "2026-10-16T00:35:14.635307+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -80,10 +80,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 3.67,
-      "price": 68.2,
+      "change_pct": 3.53,
+      "price": 68.1,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T23:59:56.331088+00:00",
+      "timestamp": "2026-10-16T00:35:14.635304+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -92,10 +92,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": -3.1,
-      "price": 553.11,
+      "change_pct": -3.03,
+      "price": 553.5,
       "is_watchlist": true,
-      "timestamp": "2026-10-15T23:59:56.331081+00:00",
+      "timestamp": "2026-10-16T00:35:14.635296+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -103,11 +103,55 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Fed\u2019s Goolsbee on inflation: discouraging, but still some optimism",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/feds-goolsbee-on-inflation-discouraging-but-still-some-optimism-4952861",
+      "headline": "Home BancShares outlines nearly 6% net interest income lift in +100 bps scenario as it targets $0.5B annual profit",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653674-home-bancshares-outlines-nearly-6-percent-net-interest-income-lift-in-plus-100-bps-scenario?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-15T23:54:23+00:00",
+      "timestamp": "2026-10-16T00:18:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Terrestrial Energy director Pardee buys $22,125 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/terrestrial-energy-director-pardee-buys-22125-in-company-stock-93CH-4952892",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:16:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "White House ordered SpaceX to limit Ukraine satellite service, Reuters reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:15:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Loop Industries earnings missed by $0.02, revenue fell short of estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/loop-industries-earnings-missed-by-002-revenue-fell-short-of-estimates-4952881",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:14:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/progress-toward-a-usmexico-tariff-deal-has-stalled-wsj-reports-4952880",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:12:21+00:00",
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -115,68 +159,104 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Faraday Copper completes acquisition of BHP\u2019s San Manuel project",
+      "headline": "LCNB earnings beat by $0.04, revenue topped estimates",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/faraday-copper-completes-acquisition-of-bhps-san-manuel-project-93CH-4952849",
+      "url": "https://www.investing.com/news/earnings/lcnb-earnings-beat-by-004-revenue-topped-estimates-4952879",
       "is_watchlist": false,
-      "timestamp": "2026-10-15T23:49:25+00:00",
+      "timestamp": "2026-10-16T00:12:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood\u2019s ARK sells Amazon stock, buys CoreWeave and Iambic",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amazon-stock-buys-coreweave-and-iambic-93CH-4952878",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:11:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Dow Jones Futures: Techs Slide On Anthropic Valuation Doubts; Tesla Roadster On Tap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09b1845b75974887144b8bd0a95f4e3361a620741cbe4de76488ef54fdd2f8e8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-16T00:09:45+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:06:48+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Pls stock rising today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:05:33+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Mongolian Mining reports Q3 coal sales drop, gold output rises",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/mongolian-mining-reports-q3-coal-sales-drop-gold-output-rises-93CH-4952876",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T00:04:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Dow Jones Futures Fall: Disney, Salesforce Lead 12 Buys After Wild Session; Tesla Roadster On Tap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4102a0515c79206bd032c8e8ea3932c5d4f124d14fa08a496c3bdc104e3ddb12",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T23:57:57+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. crude oil jumps on big inventory draw, potential shadow fleet sanctions relief",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653672-us-crude-oil-jumps-on-big-inventory-draw-potential-shadow-fleet-sanctions-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-15T23:57:44+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Market selloff, rising rates test AI data centre deal boom",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/analysismarket-selloff-rising-rates-test-ai-data-centre-deal-boom-4951734",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T23:48:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Samsara CEO Sanjit Biswas sells $11m in shares in October",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-11m-in-shares-in-october-93CH-4952846",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T23:46:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Samsara EVP, CTO John Bicket sells $11 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/samsara-evp-cto-john-bicket-sells-11-million-in-stock-93CH-4952847",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T23:46:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BJ\u2019s Wholesale Club president & CEO Robert Eddy sells $19.7 million in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/bjs-wholesale-club-president--ceo-robert-eddy-sells-197-million-in-stock-93CH-4952845",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T23:46:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Td Synnex chair Polk sells $629k in common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/td-synnex-chair-polk-sells-629k-in-common-stock-93CH-4952844",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T23:46:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "Dow Sees Best Day In Over A Month As Investors Rotate Out Of AI Trade On Overspending Concerns \u2014 CRWV, META, SPCX, PEP In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6c6b903fe0eda3749e591b2e495d2395c52b212a3cf0e044cd6bc577fb18337",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T23:53:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -191,14 +271,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "LNG Energy Group completes second tranche of private placement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/lng-energy-group-completes-second-tranche-of-private-placement-93CH-4952843",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T23:36:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a92d93fd6a4c182ac52b31baedcc63a3647190f9123d8874e2d3b82df87d8b9b",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T23:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -243,6 +324,42 @@ window.theBriefLive = {
       "timestamp": "2026-10-15T23:08:05+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7eeb484ad8c78276a696e4441bc58d5854ef8b4bb0f1f1a6f2a882e7ea49b2eb",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T23:01:00+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "iPhone Duo Preorders Begin Friday. Is Apple\u2019s First Foldable Phone Reason Alone to Buy the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=757b7de173c450fe5b7f191f5c4708afa5356cc2036e1e75d1a65accb860328a",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T22:57:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Michael Burry doubles down on his stock market bet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=387b84967942b2ada0d9657cfb82d1d68f78675b7c39e86e410562a7d5bc692d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T22:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -312,46 +429,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c4466a106586c69fcf398599a49c953e5f2d539166ea1ab32b7c897076e25d3",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T22:03:51+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Adams Natural Resources Fund reports Q3 results",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4653669-adams-natural-resources-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-15T22:01:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Friday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653339-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T22:00:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adams Diversified Equity Fund reports Q3 results",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653668-adams-diversified-equity-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T21:59:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -365,42 +448,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-15T21:56:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c12cac0c14a575c6f5b2580b92addb7dbc7e05ab2527bf42d11aa07267cc09c0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c12cac0c14a575c6f5b2580b92addb7dbc7e05ab2527bf42d11aa07267cc09c0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Apple the Ultimate Stock to Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f71f28e99aeb9d57c0ae9a2b30f40d2f9f45124040fd7bf690c5a79a75ac46bf",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T21:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -454,29 +501,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-15T21:26:05+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Boeing Fell Back Below $200 Ahead of a Strike Deadline. Here's Why I'd Buy the Fear After New Contracts Were Signed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ee8ce29ee1c12da218ade7e3ae7e2ef1a6b2e4ef8e2647ec90e49506b78edbe5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T21:25:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
@@ -495,18 +519,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-15T21:21:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave three co-founders sold $3.3 billion in shares since IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f082ee6bf561f8340be141a604fc67af3b1faf64fa14f188a8ecf7e5c0fb3a0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T21:17:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -574,6 +586,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-15T20:30:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Market Rotation Starts To Take Hold",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=537cffb7a374c9b9c3a3120e149969305d0e15b103a22e71ca75d746c8f5959b",
+      "is_watchlist": true,
+      "timestamp": "2026-10-15T20:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -677,18 +701,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-15T17:52:39+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius stock breaks below $200 as CoreWeave\u2019s debt scare spreads",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de6133f39ce4456907dcb2dcf402f822861b36955b96cee9a8c4bb4c94ee0314",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T17:47:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -978,18 +990,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-15T11:31:25+00:00",
       "relevance_score": -4.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Equity Outlook Q4 2026: Rising Rates Shift The Balance Of Risks",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=784487fdb7b4f6aaaf6eda9ce91e66bd244efeab65767a3368fd45a02b9dd179",
-      "is_watchlist": true,
-      "timestamp": "2026-10-15T11:26:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1293,18 +1293,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-12T18:43:44+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TPL",
-      "headline": "Texas Pacific Land (TPL): Buy, Sell, or Hold Post Q2 Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f91345a3eb53ff80a35289ab0d3aff785c0293789aab305018a2fb0e7db506be",
-      "is_watchlist": true,
-      "timestamp": "2026-10-12T17:19:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
