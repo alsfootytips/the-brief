@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-16T21:32:00+00:00",
+  "generated_at": "2026-10-16T23:54:06+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -555,7 +555,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FRST",
         "date": "2026-10-22",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.4327,
         "revenue_estimate": 36152880,
         "is_watchlist": false
@@ -7947,7 +7947,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NVEC",
         "date": "2026-10-21",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -8333,7 +8333,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ALV",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.3419,
         "revenue_estimate": 2764424176,
         "is_watchlist": false
@@ -8349,7 +8349,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BAH",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.511,
         "revenue_estimate": 2835509663,
         "is_watchlist": false
@@ -8357,7 +8357,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BCPC",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 1.5657,
         "revenue_estimate": 295034663,
         "is_watchlist": false
@@ -8413,7 +8413,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FCNCA",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 47.3986,
         "revenue_estimate": 2385428088,
         "is_watchlist": false
@@ -8421,7 +8421,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FHB",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.5876,
         "revenue_estimate": 231915523,
         "is_watchlist": false
@@ -8429,7 +8429,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FLG",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0797,
         "revenue_estimate": 494665053,
         "is_watchlist": false
@@ -8453,7 +8453,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GRC",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.7104,
         "revenue_estimate": 182540330,
         "is_watchlist": false
@@ -8517,7 +8517,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PFBC",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.7409,
         "revenue_estimate": 71996292,
         "is_watchlist": false
@@ -8525,7 +8525,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RCBC",
         "date": "2026-10-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 1.2878,
         "revenue_estimate": 39787650,
         "is_watchlist": false
