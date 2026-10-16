@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-16T09:49:39+00:00",
+  "generated_at": "2026-10-16T14:35:08+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -6293,7 +6293,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CAWW",
         "date": "2026-10-16",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -6381,7 +6381,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LADR",
         "date": "2026-10-16",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3206,
         "revenue_estimate": 81021996,
         "is_watchlist": false
