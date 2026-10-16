@@ -1,24 +1,24 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-16T00:35:14.629947+00:00",
+  "generated_at": "2026-10-16T05:03:14.360112+00:00",
   "gainers": [
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "price": 13.06,
       "change_pct": 7.22,
-      "volume_ratio": 1.22,
+      "volume_ratio": 1.54,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Safe-and-Steady Stock Worth Your Attention and 2 We Brush Off\""
+      "move_reason": "News: \"AppLovin Stock Has One Thing Left To Prove\""
     },
     {
       "ticker": "SOFI",
       "name": "SOFI",
       "price": 15.06,
       "change_pct": 5.91,
-      "volume_ratio": 1.91,
+      "volume_ratio": 1.23,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -30,12 +30,12 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 68.1,
       "change_pct": 3.53,
-      "volume_ratio": 2.41,
+      "volume_ratio": 2.07,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Techs Slide On Anthropic Valuation Doubts; Tesla Roadster On Tap\""
+      "move_reason": "News: \"Dow Jones Futures Rise; Anthropic Valuation Report, Flying Tesla Roadster In Focus\""
     },
     {
       "ticker": "DG",
@@ -83,6 +83,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 112.44,
+      "change_pct": 1.46,
+      "volume_ratio": 0.98,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLF",
       "name": "Financial Select Sector",
       "price": 55.27,
@@ -103,7 +114,18 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Market Rotation Starts To Take Hold\""
+      "move_reason": "News: \"The Great ARM Reset: Why The Sovereign Debt Trap Is 2008 In Disguise\""
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 41.99,
+      "change_pct": 1.21,
+      "volume_ratio": 1.25,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     },
     {
       "ticker": "DIA",
@@ -149,29 +171,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPDR S&P 500 ETF",
-      "price": 771.79,
-      "change_pct": 0.28,
-      "volume_ratio": 1.3,
-      "is_watchlist": false,
-      "is_index": true,
-      "is_sector": false,
-      "move_reason": ""
-    },
-    {
-      "ticker": "NBIS",
-      "name": "Nebius Group",
-      "price": 186.48,
-      "change_pct": 0.25,
-      "volume_ratio": 1.81,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Michael Burry doubles down on his stock market bet\""
     }
   ],
   "losers": [
@@ -185,7 +184,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today: Dow Pops 550 Points As Yields Sink; Dell Sets Off Sell Signals\""
+      "move_reason": "News: \"SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix \u2018Epice...\""
     },
     {
       "ticker": "TPL",
@@ -221,31 +220,31 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center\""
+      "move_reason": "News: \"OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue ...\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 33.67,
       "change_pct": -1.89,
-      "volume_ratio": 0.97,
+      "volume_ratio": 0.95,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health: 7X The Revenue Since Its IPO, And A Rerating Due In 2027\""
+      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Stock Sinks As Market Gains: Here's Why\""
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova",
       "price": 924.99,
       "change_pct": -1.78,
-      "volume_ratio": 1.87,
+      "volume_ratio": 1.68,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova and Venture Global Sign a Power Deal Worth Up to $17.2 Billion. Here\u2019s What\u2019s F...\""
+      "move_reason": "News: \"Venture Global Targets 10 GW of Gas-Fired Power for AI Data Centers\""
     },
     {
       "ticker": "XLE",
@@ -257,18 +256,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Energy: We're Seeing Something Very Special Right Now\""
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 110.82,
-      "change_pct": -1.3,
-      "volume_ratio": 1.01,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
+      "move_reason": "News: \"Sector Update: Energy Stocks Decline Late Afternoon\""
     },
     {
       "ticker": "OXY",
@@ -307,22 +295,11 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 41.49,
-      "change_pct": -0.81,
-      "volume_ratio": 1.08,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "PLTR",
       "name": "PLTR",
       "price": 199.61,
       "change_pct": -0.68,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.96,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -345,11 +322,34 @@ window.theBriefMovers = {
       "name": "META",
       "price": 733.39,
       "change_pct": -0.56,
-      "volume_ratio": 0.85,
+      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "APA",
+      "name": "APA Corp",
+      "price": 47.26,
+      "change_pct": -0.22,
+      "volume_ratio": 0.72,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Will APA (APA) Beat Estimates Again in Its Next Earnings Report?\""
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 41.65,
+      "change_pct": -0.17,
+      "volume_ratio": 1.34,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -364,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today: Dow Pops 550 Points As Yields Sink; Dell Sets Off Sell Signals\""
+      "move_reason": "News: \"SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix \u2018Epice...\""
     },
     {
       "ticker": "APA",
@@ -383,12 +383,12 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 68.1,
       "change_pct": 3.53,
-      "volume_ratio": 2.41,
+      "volume_ratio": 2.07,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Techs Slide On Anthropic Valuation Doubts; Tesla Roadster On Tap\""
+      "move_reason": "News: \"Dow Jones Futures Rise; Anthropic Valuation Report, Flying Tesla Roadster In Focus\""
     },
     {
       "ticker": "DG",
@@ -407,12 +407,12 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 924.99,
       "change_pct": -1.78,
-      "volume_ratio": 1.87,
+      "volume_ratio": 1.68,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova and Venture Global Sign a Power Deal Worth Up to $17.2 Billion. Here\u2019s What\u2019s F...\""
+      "move_reason": "News: \"Venture Global Targets 10 GW of Gas-Fired Power for AI Data Centers\""
     },
     {
       "ticker": "IWM",
@@ -424,14 +424,14 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Market Rotation Starts To Take Hold\""
+      "move_reason": "News: \"The Great ARM Reset: Why The Sovereign Debt Trap Is 2008 In Disguise\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 186.48,
       "change_pct": 0.25,
-      "volume_ratio": 1.81,
+      "volume_ratio": 1.93,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -448,19 +448,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center\""
+      "move_reason": "News: \"OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue ...\""
     },
     {
       "ticker": "OSCR",
       "name": "Oscar Health",
       "price": 33.67,
       "change_pct": -1.89,
-      "volume_ratio": 0.97,
+      "volume_ratio": 0.95,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health: 7X The Revenue Since Its IPO, And A Rerating Due In 2027\""
+      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Stock Sinks As Market Gains: Here's Why\""
     },
     {
       "ticker": "OXY",
@@ -503,12 +503,12 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 13.06,
       "change_pct": 7.22,
-      "volume_ratio": 1.22,
+      "volume_ratio": 1.54,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Safe-and-Steady Stock Worth Your Attention and 2 We Brush Off\""
+      "move_reason": "News: \"AppLovin Stock Has One Thing Left To Prove\""
     },
     {
       "ticker": "XLE",
@@ -520,7 +520,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Energy: We're Seeing Something Very Special Right Now\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Decline Late Afternoon\""
     }
   ],
   "indices": [
@@ -598,11 +598,31 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 112.44,
+      "change_pct": 1.46,
+      "volume_ratio": 0.98,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
       "ticker": "XLF",
       "name": "Financial Select Sector",
       "price": 55.27,
       "change_pct": 1.38,
       "volume_ratio": 1.2,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 41.99,
+      "change_pct": 1.21,
+      "volume_ratio": 1.25,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -648,26 +668,6 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 41.49,
-      "change_pct": -0.81,
-      "volume_ratio": 1.08,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 110.82,
-      "change_pct": -1.3,
-      "volume_ratio": 1.01,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 66.59,
@@ -687,20 +687,20 @@ window.theBriefMovers = {
       "change_pct": 7.22,
       "score": 9.5,
       "signals": [
-        "Moved +7.22% \u2014 a 2.9\u03c3 move vs typical 2.5% daily vol",
+        "Moved +7.22% \u2014 a 2.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "+7 analyst sell recs added recently",
         "Forward P/E 13.1 (cheap on absolute basis)",
-        "Down -36.3% over 3 months \u2014 deep drawdown",
-        "-77.5% from 52-week high"
+        "Down -29.4% over 3 months \u2014 deep drawdown",
+        "-75.7% from 52-week high"
       ],
       "reasons": [
-        "Moved +7.22% \u2014 a 2.9\u03c3 move vs typical 2.5% daily vol",
+        "Moved +7.22% \u2014 a 2.6\u03c3 move vs typical 2.7% daily vol",
         "3 news items in the last 3 days",
         "+7 analyst sell recs added recently",
         "Forward P/E 13.1 (cheap on absolute basis)",
-        "Down -36.3% over 3 months \u2014 deep drawdown",
-        "-77.5% from 52-week high"
+        "Down -29.4% over 3 months \u2014 deep drawdown",
+        "-75.7% from 52-week high"
       ],
       "tags": [
         "big-move",
@@ -770,12 +770,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.2 (cheap on absolute basis)"
+        "Forward P/E 10.0 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.2 (cheap on absolute basis)"
+        "Forward P/E 10.0 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -911,12 +911,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "9 insider sells vs 1 buys (last 90 days)",
-        "-53.6% from 52-week high"
+        "-50.8% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "9 insider sells vs 1 buys (last 90 days)",
-        "-53.6% from 52-week high"
+        "-50.8% from 52-week high"
       ],
       "tags": [
         "news-flow",
@@ -984,6 +984,13 @@ window.theBriefMovers = {
       ]
     },
     {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "change_pct": 1.46,
+      "price": 112.44,
+      "watchlist_members": []
+    },
+    {
       "ticker": "XLF",
       "name": "Financial Select Sector",
       "change_pct": 1.38,
@@ -991,17 +998,10 @@ window.theBriefMovers = {
       "watchlist_members": []
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "change_pct": -1.3,
-      "price": 110.82,
-      "watchlist_members": []
-    },
-    {
       "ticker": "XLRE",
       "name": "Real Estate Select Sector",
-      "change_pct": -0.81,
-      "price": 41.49,
+      "change_pct": 1.21,
+      "price": 41.99,
       "watchlist_members": []
     },
     {
