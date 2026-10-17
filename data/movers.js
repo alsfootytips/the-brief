@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-17T17:54:43.365353+00:00",
+  "generated_at": "2026-10-17T20:13:09.498688+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Ea...\""
+      "move_reason": "News: \"Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?\""
     },
     {
       "ticker": "NBIS",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Neocloud Stock Collapse: Buying Opportunity or Run for the Hills?\""
+      "move_reason": "News: \"Nebius Stock Fell 12% in a Day as CoreWeave\u2019s Debt Scare Spread. Here\u2019s Why Its Balance Sh...\""
     },
     {
       "ticker": "PLTR",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day\""
+      "move_reason": "News: \"Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here\u2019s What It Mean...\""
     },
     {
       "ticker": "OSCR",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$10,000 Invested in Apple Could Be Worth This Much by 2031\""
+      "move_reason": "News: \"Forget Eylea: Regeneron's Real Value May Be Hiding in Its Dupixent Profit Share\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day\""
+      "move_reason": "News: \"Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here\u2019s What It Mean...\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Ea...\""
+      "move_reason": "News: \"Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?\""
     },
     {
       "ticker": "DG",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Neocloud Stock Collapse: Buying Opportunity or Run for the Hills?\""
+      "move_reason": "News: \"Nebius Stock Fell 12% in a Day as CoreWeave\u2019s Debt Scare Spread. Here\u2019s Why Its Balance Sh...\""
     },
     {
       "ticker": "NVDA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$10,000 Invested in Apple Could Be Worth This Much by 2031\""
+      "move_reason": "News: \"Forget Eylea: Regeneron's Real Value May Be Hiding in Its Dupixent Profit Share\""
     },
     {
       "ticker": "OSCR",
