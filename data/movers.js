@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-17T15:26:19.877177+00:00",
+  "generated_at": "2026-10-17T17:54:43.365353+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's What History Says Q4 Will Bring for American Express (AXP) Stock\""
+      "move_reason": "News: \"$10,000 Invested in Apple Could Be Worth This Much by 2031\""
     }
   ],
   "watchlist": [
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's What History Says Q4 Will Bring for American Express (AXP) Stock\""
+      "move_reason": "News: \"$10,000 Invested in Apple Could Be Worth This Much by 2031\""
     },
     {
       "ticker": "OSCR",

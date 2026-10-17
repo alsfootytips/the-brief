@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-17T15:26:19.886296+00:00",
+  "generated_at": "2026-10-17T17:54:43.374248+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": -6.78,
       "price": 12.24,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T15:26:19.883740+00:00",
+      "timestamp": "2026-10-17T17:54:43.371676+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": -8.21,
       "price": 184.05,
       "is_watchlist": false,
-      "timestamp": "2026-10-17T15:26:19.883736+00:00",
+      "timestamp": "2026-10-17T17:54:43.371673+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": -4.96,
       "price": 31.81,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T15:26:19.883733+00:00",
+      "timestamp": "2026-10-17T17:54:43.371669+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -83,7 +83,7 @@ window.theBriefLive = {
       "change_pct": -12.19,
       "price": 165.45,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T15:26:19.883730+00:00",
+      "timestamp": "2026-10-17T17:54:43.371666+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,7 +95,7 @@ window.theBriefLive = {
       "change_pct": -12.48,
       "price": 60.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T15:26:19.883719+00:00",
+      "timestamp": "2026-10-17T17:54:43.371656+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,7 +107,7 @@ window.theBriefLive = {
       "change_pct": 4.15,
       "price": 49.19,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T15:26:19.883716+00:00",
+      "timestamp": "2026-10-17T17:54:43.371652+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,10 +119,115 @@ window.theBriefLive = {
       "change_pct": -6.25,
       "price": 527.09,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T15:26:19.883707+00:00",
+      "timestamp": "2026-10-17T17:54:43.371644+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": null,
+      "headline": "Elon Musk says he should have \u201cfocused on AI a little sooner:\u201d Axios",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4654042-musk-says-should-have-focused-ai-little-sooner?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T17:03:16+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T16:47:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Semiconductor market to remain solid \u2018at least through next year,\u2019 South Korea finance minister says",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T16:45:15+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Memory stocks: Is the wall of worry justified?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T16:15:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Real estate stocks surge as rate hike odds decrease",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653963-real-estate-stocks-surge-as-rate-hike-odds-decrease?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T16:00:16+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4654041-spacex-satellite-system-not-fully-restored-ukraine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T15:54:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "$10,000 Invested in Apple Could Be Worth This Much by 2031",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30839aa7fc60dc069948cc37c5e8fe24fa644d372c234e8f2f901824d19ec307",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T15:49:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Berkshire Hathaway Has Piled $930 Million Into This Stock Since Its IPO. Should Investors Follow?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5536fc660c5cfd6ecb66bad2ea9fc6266fda67381d5b9811e63a4c527c603ac8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T15:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings Scoreboard: 83% of S&P 500 early reporters beat EPS estimates as Y/Y profit growth hits 23 firms",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4653292-earnings-scoreboard-83-of-sp-500-early-reporters-beat-eps-estimates-as-yy-profit-growth-hits-23-firms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T15:30:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -134,6 +239,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-17T15:24:37+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "I Just Invested $4,600 Across 3 Top Dividend Stocks. Here\u2019s What I\u2019m Loading Up on Right Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b261540ac4b5ff8232ea6ea873c0643fbb0e167073802e3066884c6cb315a676",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T15:20:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -204,17 +321,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Kennedy, White House officials to revive food policy talks next week: Politico",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4654039-kennedy-usofficials-revive-food-policy-talks-next-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T14:48:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Saba Capital sells $675,333 in BlackRock ECAT shares",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-675333-in-blackrock-ecat-shares-93CH-4955451",
@@ -270,93 +376,14 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653959-notable-tech-headlines-for-the-week-coreweave-tsmc-anthropic-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-17T14:10:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Notable analyst calls: Salesforce, Walmart and Lockheed Martin gain analyst support as tech downgrades mount",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653700-notable-analyst-calls-salesforce-walmart-and-lockheed-martin-gain-analyst-support-as-tech-downgrades-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T14:10:39+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T14:06:43+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Insurance stocks, TransUnion among winners; Banks, IREN in losers: week's financials wrap",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4653947-insurance-stocks-transunion-among-winners-banks-iren-in-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T14:00:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Here's What History Says Q4 Will Bring for American Express (AXP) Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db70461a9eccb93a59bd6619218cba1494ff8bf711aa7be4c763e92317a81b40",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T13:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T13:47:59+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Which company has the world\u2019s highest earnings? The answer may surprise you",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a5fb02e669d79e7cbd57c7f1f5cf52251df160d9d41cb9bbae5c74da953fd07",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T13:42:06+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Apple's New Home Collection Gives Investors Another Reason to Remain Bullish",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=291b467d16a547c748b48477a99782431713c2480489a92322aa14c774e9671e",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T13:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "timestamp": "2026-10-17T13:36:11+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "mover_statement",
@@ -393,17 +420,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
       "is_watchlist": false,
       "timestamp": "2026-10-17T13:00:01+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T13:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -877,17 +893,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-16T18:46:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
@@ -1050,17 +1055,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-16T11:02:24+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1283,6 +1277,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-14T07:16:02+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-13T18:33:42+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
