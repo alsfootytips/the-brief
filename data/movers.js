@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-17T07:53:43.697336+00:00",
+  "generated_at": "2026-10-17T12:00:28.415663+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize Q4 Gains\""
+      "move_reason": "News: \"S&P 500 Top Movers: Today's Gainers and Losers\""
     },
     {
       "ticker": "OXY",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Faces A Debt Funding Test\""
+      "move_reason": "News: \"Dan Ives Calls CoreWeave Sell-Off A \u2018False Narrative\u2019 \u2014 Sees Buying Opportunity With AI De...\""
     },
     {
       "ticker": "NBIS",
@@ -270,7 +270,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"U.S. Midterms: What A Shift In Congress Could Mean For Policy, Trade And Canada\""
+      "move_reason": "News: \"Weekly Commentary: Hope I'm Wrong\""
     },
     {
       "ticker": "XLC",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Stat That Makes Walt Disney (DIS) Hard to Ignore This October\""
+      "move_reason": "News: \"If I Only Had $1,000 to Invest, I'd Buy This 1 ETF and Wouldn't Touch It for 20 Years\""
     }
   ],
   "watchlist": [
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize Q4 Gains\""
+      "move_reason": "News: \"S&P 500 Top Movers: Today's Gainers and Losers\""
     },
     {
       "ticker": "CRWV",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Faces A Debt Funding Test\""
+      "move_reason": "News: \"Dan Ives Calls CoreWeave Sell-Off A \u2018False Narrative\u2019 \u2014 Sees Buying Opportunity With AI De...\""
     },
     {
       "ticker": "DG",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"U.S. Midterms: What A Shift In Congress Could Mean For Policy, Trade And Canada\""
+      "move_reason": "News: \"Weekly Commentary: Hope I'm Wrong\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Stat That Makes Walt Disney (DIS) Hard to Ignore This October\""
+      "move_reason": "News: \"If I Only Had $1,000 to Invest, I'd Buy This 1 ETF and Wouldn't Touch It for 20 Years\""
     },
     {
       "ticker": "OSCR",
@@ -696,13 +696,13 @@ window.theBriefMovers = {
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.4 (cheap on absolute basis)"
+        "Forward P/E 10.6 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.4 (cheap on absolute basis)"
+        "Forward P/E 10.6 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
