@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-10-17T03:15:06.427077+00:00",
+  "generated_at": "2026-10-17T07:53:43.893423+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -23.15,
@@ -190,7 +190,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.239,
       "market_cap": 17219778560,
       "beta": 0.421,
-      "dividend_yield": 2.12,
+      "dividend_yield": 2.03,
       "short_ratio": 4.3,
       "short_percent_of_float": 0.096,
       "analyst_recs": {
@@ -232,7 +232,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 0.325,
       "market_cap": 24204595200,
       "beta": 0.588,
-      "dividend_yield": 0.69,
+      "dividend_yield": 0.68,
       "short_ratio": 10.85,
       "short_percent_of_float": 0.0721,
       "analyst_recs": {
@@ -274,7 +274,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 5.5,
       "market_cap": 62357381120,
       "beta": 0.245,
-      "dividend_yield": 1.85,
+      "dividend_yield": 1.8,
       "short_ratio": 2.49,
       "short_percent_of_float": 0.0304,
       "analyst_recs": {
@@ -408,7 +408,7 @@ window.theBriefFundamentals = {
       "earnings_growth_qoq": 1.259,
       "market_cap": 5170596937728,
       "beta": 2.216,
-      "dividend_yield": 0.46,
+      "dividend_yield": 0.47,
       "short_ratio": 2.75,
       "short_percent_of_float": 0.0134000005,
       "analyst_recs": {

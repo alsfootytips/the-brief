@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-17T03:15:06.191454+00:00",
+  "generated_at": "2026-10-17T07:53:43.697336+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave's not-so-secret weapons: Price hikes and an Nvidia trump card\""
+      "move_reason": "News: \"CoreWeave Stock Faces A Debt Funding Test\""
     },
     {
       "ticker": "NBIS",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How much AMD stock does CEO Lisa Su actually own?\""
+      "move_reason": "News: \"Should You Buy Qualcomm Stock For Its Cash?\""
     },
     {
       "ticker": "OSCR",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Quanta Services (PWR) Dipped More Than Broader Market Today\""
+      "move_reason": "News: \"Comfort Systems: A More Balanced Outlook, But Still A Buyer\""
     },
     {
       "ticker": "IWM",
@@ -270,7 +270,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"ETF Fund Flows: Small-Cap Focused IWM Nets $2.2 Billion\""
+      "move_reason": "News: \"U.S. Midterms: What A Shift In Congress Could Mean For Policy, Trade And Canada\""
     },
     {
       "ticker": "XLC",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla\u2019s Flying Roadster Has Wall Street Talking About SpaceX, Not Cars\""
+      "move_reason": "News: \"1 Stat That Makes Walt Disney (DIS) Hard to Ignore This October\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How much AMD stock does CEO Lisa Su actually own?\""
+      "move_reason": "News: \"Should You Buy Qualcomm Stock For Its Cash?\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave's not-so-secret weapons: Price hikes and an Nvidia trump card\""
+      "move_reason": "News: \"CoreWeave Stock Faces A Debt Funding Test\""
     },
     {
       "ticker": "DG",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Baker Hughes (BKR) Signed Long Term Energy Infrastructure Agreements\""
+      "move_reason": "News: \"How Power Island Deal Will Impact Baker Hughes (BKR) Investors\""
     },
     {
       "ticker": "IWM",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"ETF Fund Flows: Small-Cap Focused IWM Nets $2.2 Billion\""
+      "move_reason": "News: \"U.S. Midterms: What A Shift In Congress Could Mean For Policy, Trade And Canada\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla\u2019s Flying Roadster Has Wall Street Talking About SpaceX, Not Cars\""
+      "move_reason": "News: \"1 Stat That Makes Walt Disney (DIS) Hard to Ignore This October\""
     },
     {
       "ticker": "OSCR",
@@ -427,7 +427,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Quanta Services (PWR) Dipped More Than Broader Market Today\""
+      "move_reason": "News: \"Comfort Systems: A More Balanced Outlook, But Still A Buyer\""
     },
     {
       "ticker": "TPL",
