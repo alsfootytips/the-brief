@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-17T20:13:09.505646+00:00",
+  "generated_at": "2026-10-17T22:23:02.156278+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": -6.78,
       "price": 12.24,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T20:13:09.503512+00:00",
+      "timestamp": "2026-10-17T22:23:02.154584+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": -8.21,
       "price": 184.05,
       "is_watchlist": false,
-      "timestamp": "2026-10-17T20:13:09.503510+00:00",
+      "timestamp": "2026-10-17T22:23:02.154582+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": -4.96,
       "price": 31.81,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T20:13:09.503507+00:00",
+      "timestamp": "2026-10-17T22:23:02.154580+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -83,7 +83,7 @@ window.theBriefLive = {
       "change_pct": -12.19,
       "price": 165.45,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T20:13:09.503504+00:00",
+      "timestamp": "2026-10-17T22:23:02.154578+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,7 +95,7 @@ window.theBriefLive = {
       "change_pct": -12.48,
       "price": 60.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T20:13:09.503496+00:00",
+      "timestamp": "2026-10-17T22:23:02.154571+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,7 +107,7 @@ window.theBriefLive = {
       "change_pct": 4.15,
       "price": 49.19,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T20:13:09.503493+00:00",
+      "timestamp": "2026-10-17T22:23:02.154569+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,10 +119,68 @@ window.theBriefLive = {
       "change_pct": -6.25,
       "price": 527.09,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T20:13:09.503486+00:00",
+      "timestamp": "2026-10-17T22:23:02.154564+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JetBlue chief digital & tech officer disposes of $8,580 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/jetblue-chief-digital--tech-officer-disposes-of-8580-in-stock-93CH-4955615",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T22:01:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56fd42e4d9d3b7840f32e635e1fa4d2eb7ff8218a44e6327fb533d92ef096b29",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T21:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56fd42e4d9d3b7840f32e635e1fa4d2eb7ff8218a44e6327fb533d92ef096b29",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T21:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T21:20:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Costco Will Pay a $1.47 Dividend on Nov. 13 -- Here's Whether It Makes More Sense to Use a Dividend Reinvestment Program or Keep the Income",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3bec753b02820a3ca499e9c61d5e11d309a7c7e0927bc38056e041ec3d5e9ade",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T21:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -131,7 +189,53 @@ window.theBriefLive = {
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-10-17T20:04:00+00:00",
+      "timestamp": "2026-10-17T20:53:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "4 Turnaround Stocks to Buy Before 2026 Is Over and Hold for a Decade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fdf2d5df2ecb9cfac7fecafca0aed4c8692937e7c79701a1a2335d43b5d4dc1",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T20:43:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Snowflake Stock Fell 8% on Friday. Here\u2019s What Could Drive a Recovery in 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b2df3414882a677f834d020ec395862e4b4b66873bcb729dd4ced66a7d75ddd",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T20:20:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "On Semiconductor group president Sudhir Gopalswamy sells $1.25m in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T20:16:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Powell Industries VP Mauney sells $56,488 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T20:16:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -159,18 +263,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Forget Eylea: Regeneron's Real Value May Be Hiding in Its Dupixent Profit Share",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72476d04b1d43b4f80713712e58f62aa5de07856a666161f94f1b60a49c04ee2",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T19:44:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
       "source": "CNBC Top",
@@ -183,18 +275,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Micron's Incredible Run About to End?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3dc01020fc481fb70d96de3e8a1a115bf506442a29c3b53ffb679a11451eb418",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T19:27:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Key deals this week: International Paper, IonQ, Bumble, and more",
       "source": "Seeking Alpha Market",
@@ -203,18 +283,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-17T19:15:55+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1c0e03f0aaa4a27240f64a512f7edff6f642b257c3759b92317dc31c95b334e5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T19:05:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -273,6 +341,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Jim Cramer Warned US Would \u201cRue\u201d SK hynix\u2019s (SKHY)\u2019s Market Entry \u2013 The Selloff Might Have Proven Him Right",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d30e64527a060e4a87c191cafbb2833478ce8dc79c761332bee310ab854845ca",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T18:49:03+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
       "source": "MarketWatch",
@@ -295,25 +375,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "EOS Climbs 18% In a Green Day",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T18:03:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anterix CFO Elena Marquez sells $400,606 of stock from $80.00 to $82.50",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T18:01:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NBIS",
+      "headline": "CoreWeave\u2019s Founders Have Sold $3.3 Billion of Stock Since Its IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=233293d44b97e43ae0fec07bd4747267df7cc177bf20e5d7ab9edf2a557f02a5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-17T18:17:26+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -325,53 +395,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-17T17:54:27+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mercedes unveils electric SUV as it expands premium EV lineup",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T17:51:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zelenskiy criticizes Trump\u2019s waiver of sanctions on Russia as \u2019wrong\u2019",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/trump-waives-many-russiarelated-sanctions-tariffs-before-they-were-to-take-effect-under-new-law-4955088",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T17:48:59+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=108e9a98e76a8270cc9c792fffb499bb27be409c21e498b4d11691021d74856c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T17:35:13+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Nebius Stock Fell 12% in a Day as CoreWeave\u2019s Debt Scare Spread. Here\u2019s Why Its Balance Sheet Isn\u2019t CoreWeave\u2019s Yet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc83e5ee383567d95ecad05cdfba2242274346c9bf9a4beef2eaa2638cd1ea96",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T17:34:31+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -542,18 +565,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Earnings Save AI?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=686d644d0adbe7ef949d5b9c024965e24572acc9fbe93595fcc792281a93851b",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T13:00:31+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "'Everyone laughed' when he started a pumpkin farm\u2014now it brings in $2 million a year",
       "source": "CNBC",
@@ -681,6 +692,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tanker struck by unknown projectile off Saudi Arabia on Friday, UKMTO says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDZxN09RLXNuaEpfdzNaQ3lhdzUyM29wSU84bG0tR3hpRm14NWM2d0hBbmtSVmtxM0hSZmhLMXQ5bFhCVTNKaTNkLW1LcUZRcEhlS3g1dmNMU1hFY1ZMYUJqaHBRQ0UwT3ZCNXUtM1Zwa3VxeDJxUmYtUXUxNXVKNk4wWHB3V2NaSkZEYk0yZkhXX2ZhMGtVZHhhcVhCOW9OUXp4djVwbGZ4UWdMa1RpTUJQenphV0RHTTFpejNMdDJtdw?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T08:05:13+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -835,18 +857,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Tough Trading Leaves Indices In The Red",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5922d94a3abed12c8a3406d8ca67edcda453c5c0dbf98dc4e8c91e66fad73146",
-      "is_watchlist": true,
-      "timestamp": "2026-10-16T20:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "EXCLUSIVE: Trump move to restart direct US flights with Lebanon hits roadblock - Reuters",
       "source": "Reuters",
@@ -854,17 +864,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-16T19:37:19+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wall Street's fear gauge is ripping. Traders see it going even higher",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-16T19:28:10+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {

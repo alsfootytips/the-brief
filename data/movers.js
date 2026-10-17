@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-17T20:13:09.498688+00:00",
+  "generated_at": "2026-10-17T22:23:02.151149+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?\""
+      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
     },
     {
       "ticker": "NBIS",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Fell 12% in a Day as CoreWeave\u2019s Debt Scare Spread. Here\u2019s Why Its Balance Sh...\""
+      "move_reason": "News: \"CoreWeave\u2019s Founders Have Sold $3.3 Billion of Stock Since Its IPO\""
     },
     {
       "ticker": "PLTR",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Forget Eylea: Regeneron's Real Value May Be Hiding in Its Dupixent Profit Share\""
+      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
     }
   ],
   "watchlist": [
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?\""
+      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
     },
     {
       "ticker": "DG",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock Fell 12% in a Day as CoreWeave\u2019s Debt Scare Spread. Here\u2019s Why Its Balance Sh...\""
+      "move_reason": "News: \"CoreWeave\u2019s Founders Have Sold $3.3 Billion of Stock Since Its IPO\""
     },
     {
       "ticker": "NVDA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Forget Eylea: Regeneron's Real Value May Be Hiding in Its Dupixent Profit Share\""
+      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
     },
     {
       "ticker": "OSCR",
