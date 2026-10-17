@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-17T12:00:28.415663+00:00",
+  "generated_at": "2026-10-17T15:26:19.877177+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dan Ives Calls CoreWeave Sell-Off A \u2018False Narrative\u2019 \u2014 Sees Buying Opportunity With AI De...\""
+      "move_reason": "News: \"Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Ea...\""
     },
     {
       "ticker": "NBIS",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tough Trading Leaves Indices In The Red\""
+      "move_reason": "News: \"Neocloud Stock Collapse: Buying Opportunity or Run for the Hills?\""
     },
     {
       "ticker": "PLTR",
@@ -164,7 +164,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Dips More Than Broader Market: What You Should Know\""
+      "move_reason": "News: \"The Trade Desk (NASDAQ:TTD): A Growth-at-a-Reasonable-Price Candidate\""
     },
     {
       "ticker": "AMD",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Qualcomm Stock For Its Cash?\""
+      "move_reason": "News: \"Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day\""
     },
     {
       "ticker": "OSCR",
@@ -270,7 +270,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Hope I'm Wrong\""
+      "move_reason": "News: \"The Government's 3.6% Social Security Raise: Your Next Portfolio Move\""
     },
     {
       "ticker": "XLC",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If I Only Had $1,000 to Invest, I'd Buy This 1 ETF and Wouldn't Touch It for 20 Years\""
+      "move_reason": "News: \"Here's What History Says Q4 Will Bring for American Express (AXP) Stock\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should You Buy Qualcomm Stock For Its Cash?\""
+      "move_reason": "News: \"Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dan Ives Calls CoreWeave Sell-Off A \u2018False Narrative\u2019 \u2014 Sees Buying Opportunity With AI De...\""
+      "move_reason": "News: \"Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Ea...\""
     },
     {
       "ticker": "DG",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Hope I'm Wrong\""
+      "move_reason": "News: \"The Government's 3.6% Social Security Raise: Your Next Portfolio Move\""
     },
     {
       "ticker": "NBIS",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tough Trading Leaves Indices In The Red\""
+      "move_reason": "News: \"Neocloud Stock Collapse: Buying Opportunity or Run for the Hills?\""
     },
     {
       "ticker": "NVDA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If I Only Had $1,000 to Invest, I'd Buy This 1 ETF and Wouldn't Touch It for 20 Years\""
+      "move_reason": "News: \"Here's What History Says Q4 Will Bring for American Express (AXP) Stock\""
     },
     {
       "ticker": "OSCR",
@@ -451,7 +451,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk (TTD) Dips More Than Broader Market: What You Should Know\""
+      "move_reason": "News: \"The Trade Desk (NASDAQ:TTD): A Growth-at-a-Reasonable-Price Candidate\""
     },
     {
       "ticker": "XLE",
@@ -696,13 +696,13 @@ window.theBriefMovers = {
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.6 (cheap on absolute basis)"
+        "Forward P/E 10.4 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.6 (cheap on absolute basis)"
+        "Forward P/E 10.4 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
