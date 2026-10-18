@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T16:43:14.848899+00:00",
+  "generated_at": "2026-10-18T18:58:55.443129+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
+      "move_reason": "News: \"Cathie Wood buys $11.8 million of tumbling tech stock\""
     },
     {
       "ticker": "NBIS",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030\""
+      "move_reason": "News: \"Better AI Chip Stock: Taiwan Semiconductor vs. Micron\""
     },
     {
       "ticker": "OSCR",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.\""
+      "move_reason": "News: \"Coca-Cola Yields 2.3% and Nike Yields 4.4%. Here's Why Only 1 of These High-Yield Dividend...\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030\""
+      "move_reason": "News: \"Better AI Chip Stock: Taiwan Semiconductor vs. Micron\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
+      "move_reason": "News: \"Cathie Wood buys $11.8 million of tumbling tech stock\""
     },
     {
       "ticker": "DG",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.\""
+      "move_reason": "News: \"Coca-Cola Yields 2.3% and Nike Yields 4.4%. Here's Why Only 1 of These High-Yield Dividend...\""
     },
     {
       "ticker": "OSCR",
