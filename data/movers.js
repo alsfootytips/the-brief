@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T00:10:45.094435+00:00",
+  "generated_at": "2026-10-18T04:34:37.219816+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
+      "move_reason": "News: \"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?\""
     },
     {
       "ticker": "NBIS",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here\u2019s What It Mean...\""
+      "move_reason": "News: \"Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?\""
     },
     {
       "ticker": "OSCR",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
+      "move_reason": "News: \"Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here\u2019s What It Mean...\""
+      "move_reason": "News: \"Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
+      "move_reason": "News: \"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?\""
     },
     {
       "ticker": "DG",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worr...\""
+      "move_reason": "News: \"Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?\""
     },
     {
       "ticker": "OSCR",
@@ -696,13 +696,13 @@ window.theBriefMovers = {
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.6 (cheap on absolute basis)"
+        "Forward P/E 10.4 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.6 (cheap on absolute basis)"
+        "Forward P/E 10.4 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
