@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T13:18:26.355607+00:00",
+  "generated_at": "2026-10-18T16:43:14.848899+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why souring sentiment on CoreWeave should matter to investors\""
+      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
     },
     {
       "ticker": "NBIS",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave\u2019s Founders Have Sold $3.3 Billion of Stock Since Its IPO\""
+      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
     },
     {
       "ticker": "PLTR",
@@ -270,7 +270,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Pimco Sees A 6% 10-Year - Here's Why 'Bad Inflation' Caps Yields\""
+      "move_reason": "News: \"The Data Continues To Defy Sentiment\""
     },
     {
       "ticker": "XLC",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Says He Has \"Never Felt Better\" About Berkshire Hathaway's Future as He Ste...\""
+      "move_reason": "News: \"Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.\""
     }
   ],
   "watchlist": [
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why souring sentiment on CoreWeave should matter to investors\""
+      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
     },
     {
       "ticker": "DG",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Pimco Sees A 6% 10-Year - Here's Why 'Bad Inflation' Caps Yields\""
+      "move_reason": "News: \"The Data Continues To Defy Sentiment\""
     },
     {
       "ticker": "NBIS",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave\u2019s Founders Have Sold $3.3 Billion of Stock Since Its IPO\""
+      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
     },
     {
       "ticker": "NVDA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett Says He Has \"Never Felt Better\" About Berkshire Hathaway's Future as He Ste...\""
+      "move_reason": "News: \"Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.\""
     },
     {
       "ticker": "OSCR",
