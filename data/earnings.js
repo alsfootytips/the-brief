@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-18T04:34:37+00:00",
+  "generated_at": "2026-10-18T09:07:26+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -4468,16 +4468,16 @@ window.theBriefEarnings = {
         "ticker": "FDXF",
         "date": "2026-10-29",
         "hour": "",
-        "eps_estimate": 1.3856,
-        "revenue_estimate": 2419092180,
+        "eps_estimate": 0.5341,
+        "revenue_estimate": 2263505256,
         "is_watchlist": false
       },
       {
         "ticker": "FDXF",
         "date": "2026-10-29",
         "hour": "",
-        "eps_estimate": 0.5341,
-        "revenue_estimate": 2263505256,
+        "eps_estimate": 1.3856,
+        "revenue_estimate": 2419092180,
         "is_watchlist": false
       },
       {

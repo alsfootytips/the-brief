@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T04:34:37.219816+00:00",
+  "generated_at": "2026-10-18T09:07:26.234144+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OXY or DTM: Which Is the Better Value Stock Right Now?\""
+      "move_reason": "News: \"Venezuela expects $76 billion oil investment boost amid U.S. cooperation\""
     },
     {
       "ticker": "XLE",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?\""
+      "move_reason": "News: \"Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure?\""
     },
     {
       "ticker": "OSCR",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?\""
+      "move_reason": "News: \"Is JPMorgan Chase Stock a Buy 8% Below Its Record High?\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall?\""
+      "move_reason": "News: \"Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure?\""
     },
     {
       "ticker": "APA",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Power Island Deal Will Impact Baker Hughes (BKR) Investors\""
+      "move_reason": "News: \"GE Vernova vs. Caterpillar: Which Has More Exposure to the AI Power Build-Out?\""
     },
     {
       "ticker": "IWM",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Kraken Robotics Stock in 3 Years: Boom, Bust, or Quietly Crushing It?\""
+      "move_reason": "News: \"Is JPMorgan Chase Stock a Buy 8% Below Its Record High?\""
     },
     {
       "ticker": "OSCR",
@@ -415,7 +415,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OXY or DTM: Which Is the Better Value Stock Right Now?\""
+      "move_reason": "News: \"Venezuela expects $76 billion oil investment boost amid U.S. cooperation\""
     },
     {
       "ticker": "PWR",
