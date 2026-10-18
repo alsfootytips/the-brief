@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T21:23:29.543778+00:00",
+  "generated_at": "2026-10-18T23:31:10.892109+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Ca...\""
+      "move_reason": "News: \"Dow Jones Futures Rise Amid AI Fears; Can Meta, SpaceX, Tesla Earnings Save The Day?\""
     },
     {
       "ticker": "NBIS",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better AI Chip Stock: Taiwan Semiconductor vs. Micron\""
+      "move_reason": "News: \"3 AI Stocks With Earnings Growth Over 33% To Watch\""
     },
     {
       "ticker": "OSCR",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Taiwan Semiconductor Just Proved Why It's a Top AI Investment\""
+      "move_reason": "News: \"Where Will CRISPR Therapeutics Stock Be in 2030?\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Better AI Chip Stock: Taiwan Semiconductor vs. Micron\""
+      "move_reason": "News: \"3 AI Stocks With Earnings Growth Over 33% To Watch\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Ca...\""
+      "move_reason": "News: \"Dow Jones Futures Rise Amid AI Fears; Can Meta, SpaceX, Tesla Earnings Save The Day?\""
     },
     {
       "ticker": "DG",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Taiwan Semiconductor Just Proved Why It's a Top AI Investment\""
+      "move_reason": "News: \"Where Will CRISPR Therapeutics Stock Be in 2030?\""
     },
     {
       "ticker": "OSCR",
