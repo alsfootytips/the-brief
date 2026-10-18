@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T18:58:55.443129+00:00",
+  "generated_at": "2026-10-18T21:23:29.543778+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood buys $11.8 million of tumbling tech stock\""
+      "move_reason": "News: \"Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Ca...\""
     },
     {
       "ticker": "NBIS",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Coca-Cola Yields 2.3% and Nike Yields 4.4%. Here's Why Only 1 of These High-Yield Dividend...\""
+      "move_reason": "News: \"Taiwan Semiconductor Just Proved Why It's a Top AI Investment\""
     }
   ],
   "watchlist": [
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood buys $11.8 million of tumbling tech stock\""
+      "move_reason": "News: \"Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Ca...\""
     },
     {
       "ticker": "DG",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Coca-Cola Yields 2.3% and Nike Yields 4.4%. Here's Why Only 1 of These High-Yield Dividend...\""
+      "move_reason": "News: \"Taiwan Semiconductor Just Proved Why It's a Top AI Investment\""
     },
     {
       "ticker": "OSCR",
@@ -696,13 +696,13 @@ window.theBriefMovers = {
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.4 (cheap on absolute basis)"
+        "Forward P/E 10.6 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.4 (cheap on absolute basis)"
+        "Forward P/E 10.6 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
