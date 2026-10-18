@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T09:07:26.234144+00:00",
+  "generated_at": "2026-10-18T13:18:26.355607+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?\""
+      "move_reason": "News: \"Why souring sentiment on CoreWeave should matter to investors\""
     },
     {
       "ticker": "NBIS",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure?\""
+      "move_reason": "News: \"Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030\""
     },
     {
       "ticker": "OSCR",
@@ -270,7 +270,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Government's 3.6% Social Security Raise: Your Next Portfolio Move\""
+      "move_reason": "News: \"Pimco Sees A 6% 10-Year - Here's Why 'Bad Inflation' Caps Yields\""
     },
     {
       "ticker": "XLC",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is JPMorgan Chase Stock a Buy 8% Below Its Record High?\""
+      "move_reason": "News: \"Warren Buffett Says He Has \"Never Felt Better\" About Berkshire Hathaway's Future as He Ste...\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure?\""
+      "move_reason": "News: \"Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?\""
+      "move_reason": "News: \"Why souring sentiment on CoreWeave should matter to investors\""
     },
     {
       "ticker": "DG",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Government's 3.6% Social Security Raise: Your Next Portfolio Move\""
+      "move_reason": "News: \"Pimco Sees A 6% 10-Year - Here's Why 'Bad Inflation' Caps Yields\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is JPMorgan Chase Stock a Buy 8% Below Its Record High?\""
+      "move_reason": "News: \"Warren Buffett Says He Has \"Never Felt Better\" About Berkshire Hathaway's Future as He Ste...\""
     },
     {
       "ticker": "OSCR",
